@@ -6,7 +6,7 @@
   "description": "Polls company ATS boards for new job postings, publishes a static site, emails on new roles.",
   "scripts": {
     "poll": "node src/poll.js",
-    "test": "node --test src/*.test.js",
+    "test": "node --test src/*.test.js src/providers/*.test.js",
     "serve": "python3 -m http.server 8080"
   },
   "engines": {

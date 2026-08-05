@@ -1,11 +1,13 @@
 import { fetchJobs as ashby } from "./ashby.js";
 import { fetchJobs as greenhouse } from "./greenhouse.js";
+import { fetchJobs as icims } from "./icims.js";
 import { fetchJobs as lever } from "./lever.js";
+import { fetchJobs as workday } from "./workday.js";
 import { classifyLevel } from "../classify.js";
 import { parseTerm } from "../term.js";
 import { regionsFor, isVagueLocation } from "../region.js";
 
-const PROVIDERS = { ashby, greenhouse, lever };
+const PROVIDERS = { ashby, greenhouse, icims, lever, workday };
 
 /**
  * Some boards put a work arrangement in the location field and nothing else —

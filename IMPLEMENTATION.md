@@ -62,9 +62,31 @@ JSON, not YAML — no parser dependency.
 }
 ```
 
-Fields: `name` (display), `ats` (`ashby` | `greenhouse` | `lever` | `scrape`), `slug` (ATS board key), `url` (scrape only), `enabled` (optional, default `true`).
+Fields: `name` (display), `ats` (`ashby` | `greenhouse` | `lever` | `workday` | `icims` | `scrape`), `slug` (ATS board key), `url` (scrape only), `enabled` (optional, default `true`).
 
-**Finding the slug:** it is the path segment on the hosted board URL — `jobs.ashbyhq.com/{slug}`, `boards.greenhouse.io/{slug}`, `jobs.lever.co/{slug}`. Many companies iframe the board into their own careers page; view source or check the network tab for the ATS domain.
+**Finding the slug** — it is the path segment on the hosted board:
+
+| ATS | Board URL | Check it |
+|---|---|---|
+| Ashby | `jobs.ashbyhq.com/{slug}` | `curl -s "https://api.ashbyhq.com/posting-api/job-board/{slug}" \| head -c 200` |
+| Greenhouse | `boards.greenhouse.io/{slug}` | `curl -s "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs" \| head -c 200` |
+| Lever | `jobs.lever.co/{slug}` | `curl -s "https://api.lever.co/v0/postings/{slug}?mode=json" \| head -c 200` |
+
+Many companies embed the board in their own careers page — view source or check the network tab for one of those domains.
+
+### Top-level config fields
+
+| Field | Meaning |
+|---|---|
+| `defaultLevel` | Level the site shows on first visit (`intern`, `new-grad`, `experienced`). Optional — omit for everything. |
+| `alertLevels` | Levels that trigger email. Optional — omit for everything. |
+| `defaultTerm` | Initial intake filter, e.g. `"summer-2027"`, `"fall-2026"`, or a bare `"2027"`. Optional. |
+| `regions` | Collection filter — postings outside these never enter the feed, state file, or email. |
+| `maxAgeDays` | Collection filter — postings older than this are dropped at collection time. |
+| `softwareOnly` | Restrict the feed to software roles (see role classification below). |
+| `defaultRegion` | Site's opening view only: `us-remote` (default), `all`, `canada-remote`, or `remote`. |
+
+Per-company optional fields: `assumeRegion` (used only when a posting resolves to no region at all — for single-country boards with useless location strings), `contentApi` (Greenhouse only, inlines `offices`/`departments` for boards with unusable location data — costly, opt-in).
 
 ## 2. Providers — verified API shapes
 
@@ -426,6 +448,40 @@ Two bugs worth recording:
 Result over the 15,321-posting corpus: 11,132 dropped as non-software, leaving 761 after all three filters. Auditing the survivors for non-software vocabulary leaves only titles like `Senior Staff Software Engineer, Marketing Technology`, which are correctly kept.
 
 Judgment calls, all easy to reverse in the word lists: product management, design/UX, data *analysts*, IT/ERP administration and hardware are out; data engineers, data scientists, ML/research engineers, security engineers, SRE/DevOps and engineering leadership over software are in.
+
+## Deploying
+
+1. Create a **public** repo and push.
+2. Settings → Pages → Source: *Deploy from a branch*, branch `main`, folder `/ (root)`.
+3. Settings → Actions → General → Workflow permissions: **Read and write**.
+4. The workflow runs on the `*/10` cron and commits `data/` back. Trigger the first run by hand from the Actions tab (`poll` → *Run workflow*).
+
+Site lands at `https://<user>.github.io/<repo>/`.
+
+## Email alerts (optional)
+
+Everything works without this. To enable, add repo secrets under Settings → Secrets and variables → Actions:
+
+| Secret | Value |
+|---|---|
+| `RESEND_API_KEY` | API key from [resend.com](https://resend.com) (free tier: 100/day) |
+| `ALERT_EMAIL_TO` | Your address. Comma-separate for several. |
+| `ALERT_EMAIL_FROM` | Optional. Defaults to `onboarding@resend.dev`, which works before you verify a domain. |
+
+## Data files
+
+- `data/jobs.json` — what the site reads: all currently open roles, plus per-company health.
+- `data/state.json` — bookkeeping: full snapshot, `firstSeen` timestamps, empty-response streaks, recently removed roles.
+
+Both are committed. The repo is the database. Delete `data/` to start over — the next run re-seeds and sends no email.
+
+## Testing
+
+```bash
+npm test
+```
+
+Node's built-in runner, zero dependencies. The suite asserts against real titles pulled from live boards, including known false positives, so changing a pattern tells you immediately what it broke.
 
 ## Still open
 
