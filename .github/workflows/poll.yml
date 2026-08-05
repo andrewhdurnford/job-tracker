@@ -1,0 +1,52 @@
+name: poll
+
+on:
+  schedule:
+    # Every 10 minutes. GitHub queues scheduled runs on shared infrastructure,
+    # so real firing time regularly drifts 5-20 minutes under load.
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["companies.json", "src/**"]
+
+# Two overlapping runs would race on the same commit and one would fail to push.
+concurrency:
+  group: poll
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Poll job boards
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+          ALERT_EMAIL_FROM: ${{ secrets.ALERT_EMAIL_FROM }}
+        run: node src/poll.js
+
+      - name: Commit results
+        run: |
+          git config user.name "job-tracker-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          # Skip the commit when nothing changed, or the repo collects 144
+          # empty commits a day.
+          if git diff --staged --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git commit -m "chore: poll $(date -u +%FT%TZ) [skip ci]"
+          # Another run may have pushed while this one was fetching.
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push
