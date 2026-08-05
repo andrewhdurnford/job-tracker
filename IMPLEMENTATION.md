@@ -28,7 +28,9 @@ job-tracker/
 │   ├── providers/
 │   │   ├── ashby.js
 │   │   ├── greenhouse.js
+│   │   ├── icims.js
 │   │   ├── lever.js
+│   │   ├── workday.js
 │   │   └── scrape.js           # phase 2
 │   ├── diff.js
 │   └── notify.js               # Resend email
@@ -71,8 +73,10 @@ Fields: `name` (display), `ats` (`ashby` | `greenhouse` | `lever` | `workday` | 
 | Ashby | `jobs.ashbyhq.com/{slug}` | `curl -s "https://api.ashbyhq.com/posting-api/job-board/{slug}" \| head -c 200` |
 | Greenhouse | `boards.greenhouse.io/{slug}` | `curl -s "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs" \| head -c 200` |
 | Lever | `jobs.lever.co/{slug}` | `curl -s "https://api.lever.co/v0/postings/{slug}?mode=json" \| head -c 200` |
+| Workday | `{tenant}.{host}.myworkdayjobs.com/{site}` — no shared board host, `tenant`/`host`/`wd5` etc/`site` all live on the company | `curl -sX POST "https://{tenant}.{host}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs" -H "Content-Type: application/json" -d '{"appliedFacets":{},"limit":20,"offset":0,"searchText":""}'` |
+| iCIMS/Attract | company's own domain, e.g. `careers.docusign.com/api/jobs` — no shared host at all | `curl -s "{site}/api/jobs?page=1&sortBy=relevance&descending=false&internal=false&limit=100"` |
 
-Many companies embed the board in their own careers page — view source or check the network tab for one of those domains.
+Many companies embed the board in their own careers page — view source or check the network tab for one of those domains. Workday and iCIMS/Attract never show up in a plain `curl` of the careers page HTML — both are fetched client-side, so finding them means opening dev tools' network tab (or the app's browser tool) and watching for `myworkdayjobs.com` or a same-origin `/api/jobs` call while the page loads.
 
 ### Top-level config fields
 
@@ -86,11 +90,11 @@ Many companies embed the board in their own careers page — view source or chec
 | `softwareOnly` | Restrict the feed to software roles (see role classification below). |
 | `defaultRegion` | Site's opening view only: `us-remote` (default), `all`, `canada-remote`, or `remote`. |
 
-Per-company optional fields: `assumeRegion` (used only when a posting resolves to no region at all — for single-country boards with useless location strings), `contentApi` (Greenhouse only, inlines `offices`/`departments` for boards with unusable location data — costly, opt-in).
+Per-company optional fields: `assumeRegion` (used only when a posting resolves to no region at all — for single-country boards with useless location strings), `contentApi` (Greenhouse only, inlines `offices`/`departments` for boards with unusable location data — costly, opt-in). Workday companies carry `tenant`/`host`/`site` instead of `slug` (there is no shared board host to key off); iCIMS/Attract companies carry `site` (the company's own origin) instead of `slug`.
 
 ## 2. Providers — verified API shapes
 
-All three endpoints were probed live; field names below are confirmed, not assumed. All are unauthenticated GET, JSON, no CORS-safe guarantee (fetch server-side only).
+All five endpoints were probed live; field names below are confirmed, not assumed. All are unauthenticated JSON with no CORS-safe guarantee (fetch server-side only) — Workday is the one POST, the rest are GET.
 
 ### Ashby — `https://api.ashbyhq.com/posting-api/job-board/{slug}`
 
@@ -149,6 +153,42 @@ applyUrl            ".../apply"
 ```
 
 Two gotchas: the title key is `text`, and `createdAt` is epoch milliseconds. Also: a dead/unknown slug returns `{"ok":false,"error":"Document not found"}` (an object, not an array) — and an inactive-but-valid slug returns `[]`. Both must be handled; `[]` looks identical to "every job was just removed."
+
+### Workday — `POST https://{tenant}.{host}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs`
+
+Unlike the other three, there is no shared board host — `tenant`, `host` (e.g. `wd5`, `wd12`) and `site` are all specific to the company and have to be read off their real careers page's network requests. Body: `{ appliedFacets: {}, limit, offset, searchText: "" }`; hard-capped at `limit: 20` (anything higher 400s). Response: `{ total, jobPostings: [...] }`, per posting:
+
+```
+title               "Raytracing Compiler Engineer - …"
+externalPath        "/job/US-CA-Santa-Clara/…_JR2012859"   → append to {tenant}.{host}.myworkdayjobs.com/en-US/{site}
+locationsText        "6 Locations"  or  "US, CA, Santa Clara"   ← aggregate text for multi-location roles, no structured breakdown at this endpoint
+postedOn            "Posted Today" | "Posted Yesterday" | "Posted N Days Ago" | "Posted 30+ Days Ago"
+timeType            "Full time"    ← present on some tenants (Capital One), absent on others (Nvidia)
+bulletFields        ["JR2012859"]  ← requisition ID, used as the stable id
+```
+
+Three gotchas, all found by actually pulling a live board rather than trusting the docs:
+
+- **`total` lies after page 1.** Every tenant tested (Adobe, Capital One, Nvidia, Zendesk) reports `total: 0` on every page after the first, while still returning real postings right up to the count page 1 promised. Capture `total` once, from `offset: 0`, and never again — recomputing it from a later page silently truncates the board.
+- **No absolute post date.** `postedOn` is relative text, parsed with `Posted 30+ Days Ago` deliberately mapped to 31 days ago rather than `null` — `null` is the provider-is-broken signal the rest of the pipeline watches for (see `poll.js`'s `skipped.undated`), and a 2,000-job board is mostly `30+` entries.
+- **Pagination is real HTTP cost.** A 2,000-posting board (Nvidia) is ~100 sequential requests and 30–40s per poll. Fine at 10-minute cadence, but a reason not to add every Workday-hosted megacorp indiscriminately.
+
+### iCIMS/Attract — company's own domain, e.g. `GET {site}/api/jobs?page=1&sortBy=relevance&descending=false&internal=false&limit=100`
+
+This is iCIMS' "Attract" career-site widget (formerly the Jibe product, which iCIMS acquired) — the JSON comes from the company's own domain (`careers.docusign.com`), not a shared multi-tenant one, so config carries a full `site` origin instead of a `slug`. `limit` accepts up to 100 (500 errors). Response: `{ jobs: [...], totalCount, ... }`, each job wrapped in a `data` object:
+
+```
+data.req_id           "28977"                                   ← stable id
+data.title            "Platform Software Engineer"
+data.location_name    "US-Seattle-3rd"  /  "IN-Bangalore"       ← board-authored, kept as display text only
+data.country_code     "US"                                      ← ISO-3166 alpha-2, always present — the cleanest region signal of any provider here
+data.categories       [{ "name": "Engineering" }]
+data.employment_type  "FULL_TIME"                                ← sometimes null
+data.posted_date      "2026-03-17T01:35:00+0000"                ← real, absolute, no parsing needed
+data.apply_url        "https://indiacareers-docusign.icims.com/jobs/28977/login"
+```
+
+Best-behaved of the five: a real ISO `posted_date` and a structured `country_code` that `region.js`'s `countryRegion()` already understood without any changes. A 300-posting board is 3 requests at `limit=100`, under 2 seconds total.
 
 ### Normalized record
 
