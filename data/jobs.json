@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-06T15:00:34.046Z",
+  "generatedAt": "2026-08-06T15:14:16.984Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "grafanalabs:6136202004"
+    "junction:e1fc1b0c-7e17-467c-977b-947c509debb0",
+    "perplexity:9ca67ae3-8507-40b9-9d7f-d81b249c1041"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -2342,7 +2343,7 @@
     {
       "name": "Junction",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3294,7 +3295,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 56,
+      "jobCount": 55,
       "error": null,
       "stale": false
     },
@@ -3441,7 +3442,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4365,7 +4366,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5344,6 +5345,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "e1fc1b0c-7e17-467c-977b-947c509debb0",
+      "title": "Product Engineer, Support",
+      "location": "EDT / EST (US East Coast only)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/junction/e1fc1b0c-7e17-467c-977b-947c509debb0",
+      "postedAt": "2026-08-06T15:10:04.110Z",
+      "key": "junction:e1fc1b0c-7e17-467c-977b-947c509debb0",
+      "company": "Junction",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-06T15:14:16.984Z"
+    },
+    {
+      "id": "9ca67ae3-8507-40b9-9d7f-d81b249c1041",
+      "title": "Member of Technical Staff (Software Engineer, Backend API)",
+      "location": "London (+3 more)",
+      "team": "Search",
+      "url": "https://jobs.ashbyhq.com/perplexity/9ca67ae3-8507-40b9-9d7f-d81b249c1041",
+      "postedAt": "2026-08-06T15:05:01.064Z",
+      "key": "perplexity:9ca67ae3-8507-40b9-9d7f-d81b249c1041",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-06T15:14:16.984Z"
+    },
     {
       "id": "6136202004",
       "title": "Associate Observability Architect | PST | Remote",
@@ -27875,7 +27908,7 @@
     {
       "id": "396b15fb-99a7-46ab-a687-214413586a01",
       "title": "Lead AI Engineer — Productivity Systems",
-      "location": "Palo Alto (+2 more)",
+      "location": "Palo Alto (+1 more)",
       "team": "Engineer",
       "url": "https://jobs.ashbyhq.com/nubank/396b15fb-99a7-46ab-a687-214413586a01",
       "postedAt": "2026-07-19T23:46:43.493Z",
@@ -38633,39 +38666,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T19:51:11.073Z"
-    },
-    {
-      "id": "bbad4315-1f13-4b2f-b595-cf1287274f2f",
-      "title": "Network Operations Engineer, AI Networking",
-      "location": "San Francisco",
-      "team": "Datacenter Design",
-      "url": "https://jobs.ashbyhq.com/openai/bbad4315-1f13-4b2f-b595-cf1287274f2f",
-      "postedAt": "2026-07-07T15:14:16.238Z",
-      "key": "openai:bbad4315-1f13-4b2f-b595-cf1287274f2f",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "ea0df7ad-11c5-41e6-8789-1af6068fc8f6",
-      "title": "Senior Software Engineer, Notebooks",
-      "location": "CA-Ontario-Toronto",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/ea0df7ad-11c5-41e6-8789-1af6068fc8f6",
-      "postedAt": "2026-07-07T15:06:15.981Z",
-      "key": "snowflake:ea0df7ad-11c5-41e6-8789-1af6068fc8f6",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
     }
   ]
 }
