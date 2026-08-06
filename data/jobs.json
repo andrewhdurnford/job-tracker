@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-08-06T13:50:23.636Z",
+  "generatedAt": "2026-08-06T14:00:24.760Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "spotify:600a4ac7-6ffa-4ced-8d34-253d00147aa9"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -534,7 +536,7 @@
     {
       "name": "Bill.com",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4418,10 +4420,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 124,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4447,7 +4449,7 @@
     {
       "name": "Spotify",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5405,6 +5407,22 @@
         "us"
       ],
       "firstSeen": "2026-08-06T12:50:18.487Z"
+    },
+    {
+      "id": "600a4ac7-6ffa-4ced-8d34-253d00147aa9",
+      "title": "Director of ML Engineering, Conversation Product Area",
+      "location": "New York, NY (+1 more)",
+      "team": "Personalization",
+      "url": "https://jobs.lever.co/spotify/600a4ac7-6ffa-4ced-8d34-253d00147aa9",
+      "postedAt": "2026-08-06T09:48:16.508Z",
+      "key": "spotify:600a4ac7-6ffa-4ced-8d34-253d00147aa9",
+      "company": "Spotify",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-06T14:00:24.760Z"
     },
     {
       "id": "2888b101-b1da-4e53-a02e-1bb9b1b5a951",
@@ -7000,22 +7018,6 @@
       "postedAt": "2026-08-05T19:46:41.000Z",
       "key": "braze:8105900",
       "company": "Braze",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:51:11.073Z"
-    },
-    {
-      "id": "6130169004",
-      "title": "Fraud Risk Strategy Data Scientist",
-      "location": "United States",
-      "team": null,
-      "url": "https://www.bill.com/job?6130169004&gh_jid=6130169004",
-      "postedAt": "2026-08-05T19:45:33.000Z",
-      "key": "billcom:6130169004",
-      "company": "Bill.com",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -27347,13 +27349,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -27364,13 +27366,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
