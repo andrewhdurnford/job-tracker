@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-08-06T22:30:34.905Z",
+  "generatedAt": "2026-08-06T22:40:20.736Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "airbnb:8059216",
-    "Nvidia:JR2022034"
+    "Nvidia:JR2022618",
+    "openai:b08126cc-8134-45f0-aeb3-4b00e96547de",
+    "spacex:8679658002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -19,7 +20,7 @@
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -579,7 +580,7 @@
     {
       "name": "Blissway",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3211,7 +3212,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 178,
+      "jobCount": 179,
       "error": null,
       "stale": false
     },
@@ -3295,7 +3296,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 57,
+      "jobCount": 58,
       "error": null,
       "stale": false
     },
@@ -3981,7 +3982,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4421,10 +4422,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 123,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 124,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5345,6 +5346,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2022618",
+      "title": "Senior MLOps Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-MLOps-Engineer_JR2022618-1",
+      "postedAt": "2026-08-06T22:40:25.383Z",
+      "key": "Nvidia:JR2022618",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-06T22:40:20.736Z"
+    },
+    {
+      "id": "b08126cc-8134-45f0-aeb3-4b00e96547de",
+      "title": "Android Systems Engineer, Consumer Devices",
+      "location": "San Francisco",
+      "team": "Consumer Products",
+      "url": "https://jobs.ashbyhq.com/openai/b08126cc-8134-45f0-aeb3-4b00e96547de",
+      "postedAt": "2026-08-06T22:35:47.097Z",
+      "key": "openai:b08126cc-8134-45f0-aeb3-4b00e96547de",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-06T22:40:20.736Z"
+    },
+    {
+      "id": "8679658002",
+      "title": "IT Network Engineer, Mission Systems",
+      "location": "Cape Canaveral, FL",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8679658002?gh_jid=8679658002",
+      "postedAt": "2026-08-06T22:34:05.000Z",
+      "key": "spacex:8679658002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-06T22:40:20.736Z"
+    },
     {
       "id": "JR2022034",
       "title": "Senior Deep Learning Sofware Infrastructure Engineer",
@@ -31670,23 +31719,6 @@
       "seeded": true
     },
     {
-      "id": "e07bc774-d90b-443d-89f1-bec8fff33360",
-      "title": "Senior Analytics Engineer",
-      "location": "Remote (United States | Canada)",
-      "team": "Platform Engineering",
-      "url": "https://jobs.ashbyhq.com/1password/e07bc774-d90b-443d-89f1-bec8fff33360",
-      "postedAt": "2026-07-15T17:16:59.884Z",
-      "key": "1password:e07bc774-d90b-443d-89f1-bec8fff33360",
-      "company": "1Password",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
       "id": "5243440008",
       "title": "Senior Machine Learning Engineer, Applied AI Quality",
       "location": "Bay Area, CA, United States of America",
@@ -38593,39 +38625,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "8049885",
-      "title": "Senior Android Engineer, iRAD",
-      "location": "Menlo Park, CA; New York, NY",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8049885?t=gh_src=&gh_jid=8049885",
-      "postedAt": "2026-07-07T22:37:14.000Z",
-      "key": "robinhood:8049885",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "662f1761-5d28-421d-8b47-605cc910991d",
-      "title": "Machine Learning Engineer",
-      "location": "Denver, Colorado",
-      "team": "Chilean Referral Network",
-      "url": "https://jobs.ashbyhq.com/blissway/662f1761-5d28-421d-8b47-605cc910991d",
-      "postedAt": "2026-07-07T22:32:56.847Z",
-      "key": "blissway:662f1761-5d28-421d-8b47-605cc910991d",
-      "company": "Blissway",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
     }
   ]
 }
