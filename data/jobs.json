@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-06T15:14:16.984Z",
+  "generatedAt": "2026-08-06T15:28:27.049Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "junction:e1fc1b0c-7e17-467c-977b-947c509debb0",
-    "perplexity:9ca67ae3-8507-40b9-9d7f-d81b249c1041"
+    "Capital One:R248556",
+    "cribl:6128341004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -761,7 +761,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 153,
+      "jobCount": 154,
       "error": null,
       "stale": false
     },
@@ -880,7 +880,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1146,7 +1146,7 @@
     {
       "name": "Cribl",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1321,7 +1321,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5345,6 +5345,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R248556",
+      "title": "Staff Software Engineer",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Software-Engineer_R248556",
+      "postedAt": "2026-08-06T15:28:30.378Z",
+      "key": "Capital One:R248556",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-06T15:28:27.049Z"
+    },
+    {
+      "id": "6128341004",
+      "title": "Senior Software Engineer, Stream Control Plane",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://cribl.io/job-detail/?gh_jid=6128341004",
+      "postedAt": "2026-08-06T15:25:17.000Z",
+      "key": "cribl:6128341004",
+      "company": "Cribl",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-06T15:28:27.049Z"
+    },
     {
       "id": "e1fc1b0c-7e17-467c-977b-947c509debb0",
       "title": "Product Engineer, Support",
@@ -38633,39 +38665,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "8622631002",
-      "title": "Senior Data Scientist, AI & App Experience",
-      "location": "San Francisco, CA, USA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/chime/jobs/8622631002?gh_jid=8622631002",
-      "postedAt": "2026-07-07T15:25:01.000Z",
-      "key": "chime:8622631002",
-      "company": "Chime",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "29787",
-      "title": "Senior Manager, Site Reliability Engineering",
-      "location": "United States Remote",
-      "team": "Engineering",
-      "url": "https://uscareers-docusign.icims.com/jobs/29787/login",
-      "postedAt": "2026-07-07T15:18:00.000Z",
-      "key": "DocuSign:29787",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:51:11.073Z"
     }
   ]
 }
