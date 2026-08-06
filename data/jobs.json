@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-08-06T04:00:27.716Z",
+  "generatedAt": "2026-08-06T04:10:16.956Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "lyft:8684440002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 15,
     "new-grad": 5,
-    "experienced": 1999
+    "experienced": 2000
   },
   "companies": [
     {
@@ -57,10 +59,10 @@
     },
     {
       "name": "Adobe",
-      "ok": false,
+      "ok": true,
       "jobCount": 59,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Adyen",
@@ -2655,7 +2657,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -3207,10 +3209,10 @@
     },
     {
       "name": "Nvidia",
-      "ok": false,
+      "ok": true,
       "jobCount": 179,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Oasis Security",
@@ -5342,6 +5344,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8684440002",
+      "title": "ML Software Engineer, Safety and Customer Care AI",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8684440002?gh_jid=8684440002",
+      "postedAt": "2026-08-06T04:09:50.000Z",
+      "key": "lyft:8684440002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-06T04:10:16.956Z"
+    },
     {
       "id": "8107088",
       "title": "ML Engineer, Foundation Model Infrastructure",
