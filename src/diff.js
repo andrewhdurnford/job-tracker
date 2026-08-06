@@ -17,8 +17,12 @@ export function diffCompany(previousJobs, fetchedJobs, now, { seeded = false } =
     const prior = previousJobs[job.key];
     if (prior) {
       // Keep the original firstSeen (and seeded flag); refresh everything else
-      // so title/location edits on the ATS show up.
-      merged[job.key] = { ...job, firstSeen: prior.firstSeen };
+      // so title/location edits on the ATS show up. postedAt also stays
+      // pinned to what we first computed: Workday only exposes a coarse
+      // bucket ("Posted Today", "Posted N Days Ago") with no absolute date,
+      // so re-deriving it from `now` on every poll would make the same
+      // posting's "posted X ago" text drift forward every single run.
+      merged[job.key] = { ...job, firstSeen: prior.firstSeen, postedAt: prior.postedAt };
       if (prior.seeded) merged[job.key].seeded = true;
     } else {
       const record = { ...job, firstSeen: now };
