@@ -70,6 +70,10 @@ export async function runPoll(config, previousState, now) {
   const summary = [];
 
   for (const [i, company] of companies.entries()) {
+    // A company added to companies.json after the initial bootstrap gets its
+    // whole board treated the same way: seeded quietly rather than flooding
+    // the feed with "new" badges for postings that predate our tracking.
+    const companyIsNew = !(company.name in state.companies);
     const prev = state.companies[company.name] ?? {
       jobs: {},
       emptyStreak: 0,
@@ -124,7 +128,7 @@ export async function runPoll(config, previousState, now) {
 
     // --- Good fetch: diff and accept. ---------------------------------------
     const { jobs, added, removed } = diffCompany(prev.jobs, fetched, now, {
-      seeded: bootstrap,
+      seeded: bootstrap || companyIsNew,
     });
 
     state.companies[company.name] = {
@@ -134,7 +138,10 @@ export async function runPoll(config, previousState, now) {
       lastError: null,
     };
 
-    allNew.push(...added);
+    // Seeded jobs (bootstrap, or a company just added to companies.json) get a
+    // firstSeen for ordering but are not genuinely new — keep them out of the
+    // feed's "new" badge, the email digest, and the new-count.
+    allNew.push(...added.filter((j) => !j.seeded));
     allRemoved.push(...removed);
     summary.push({
       name: company.name,
