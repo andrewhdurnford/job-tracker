@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-08-06T01:00:24.890Z",
+  "generatedAt": "2026-08-06T01:10:25.064Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "xai:5205179007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 15,
     "new-grad": 5,
-    "experienced": 2004
+    "experienced": 2002
   },
   "companies": [
     {
@@ -758,7 +760,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 157,
+      "jobCount": 156,
       "error": null,
       "stale": false
     },
@@ -4251,7 +4253,7 @@
     {
       "name": "Simple AI",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5238,7 +5240,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5342,6 +5344,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5205179007",
+      "title": "Software Engineer - Search Infrastructure",
+      "location": "Palo Alto, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5205179007",
+      "postedAt": "2026-08-06T01:04:10.000Z",
+      "key": "xai:5205179007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-06T01:10:25.064Z"
+    },
     {
       "id": "8646544002",
       "title": "Staff Backend Engineer, Architecture Engineering: Nonlinear Productivity",
@@ -5797,23 +5815,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer_R246825-1",
       "postedAt": "2026-08-06T00:30:24.030Z",
       "key": "Capital One:R246825",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
-      "id": "R230552",
-      "title": "Lead Software Engineer, Full Stack",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R230552-2",
-      "postedAt": "2026-08-06T00:30:24.030Z",
-      "key": "Capital One:R230552",
       "company": "Capital One",
       "level": "experienced",
       "term": null,
@@ -13234,22 +13235,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
       "location": "Starbase, TX",
@@ -13266,13 +13251,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -13289,6 +13274,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658628002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658737002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -23145,23 +23146,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -23174,6 +23158,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -38751,38 +38752,6 @@
       "postedAt": "2026-07-07T01:14:22.000Z",
       "key": "calendly:8621926002",
       "company": "Calendly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "9a5f5694-e066-4087-9a13-b1a62d8d8025",
-      "title": "Software Engineer",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/simple-ai/9a5f5694-e066-4087-9a13-b1a62d8d8025",
-      "postedAt": "2026-07-07T01:06:34.163Z",
-      "key": "simple-ai:9a5f5694-e066-4087-9a13-b1a62d8d8025",
-      "company": "Simple AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "bc8b4fee-f2df-4c15-9e91-c87cf1afd08c",
-      "title": "Forward Deployed Engineer ",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/simple-ai/bc8b4fee-f2df-4c15-9e91-c87cf1afd08c",
-      "postedAt": "2026-07-07T01:06:26.799Z",
-      "key": "simple-ai:bc8b4fee-f2df-4c15-9e91-c87cf1afd08c",
-      "company": "Simple AI",
       "level": "experienced",
       "term": null,
       "regions": [
