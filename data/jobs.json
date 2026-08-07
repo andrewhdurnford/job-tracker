@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-07T21:50:37.644Z",
+  "generatedAt": "2026-08-07T22:00:24.272Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "anthropic:5383610008"
+    "benepass:e44e3219-9ff4-4283-9ab8-ac96ed39ec05",
+    "Capital One:R248728"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -529,7 +530,7 @@
     {
       "name": "Benepass",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -760,7 +761,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 161,
+      "jobCount": 162,
       "error": null,
       "stale": false
     },
@@ -3041,10 +3042,10 @@
     },
     {
       "name": "Nash",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Natera",
@@ -3076,10 +3077,10 @@
     },
     {
       "name": "Neon",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Netlify",
@@ -3210,7 +3211,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 180,
+      "jobCount": 178,
       "error": null,
       "stale": false
     },
@@ -5345,6 +5346,38 @@
   ],
   "jobs": [
     {
+      "id": "R248728",
+      "title": "Staff Software Engineer",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Software-Engineer_R248728",
+      "postedAt": "2026-08-07T22:00:27.628Z",
+      "key": "Capital One:R248728",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-07T22:00:24.272Z"
+    },
+    {
+      "id": "e44e3219-9ff4-4283-9ab8-ac96ed39ec05",
+      "title": "Lead AI Systems Engineer",
+      "location": "U.S Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/benepass/e44e3219-9ff4-4283-9ab8-ac96ed39ec05",
+      "postedAt": "2026-08-07T21:50:24.996Z",
+      "key": "benepass:e44e3219-9ff4-4283-9ab8-ac96ed39ec05",
+      "company": "Benepass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-07T22:00:24.272Z"
+    },
+    {
       "id": "5383610008",
       "title": "Staff Software Engineer, Claude Code",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
@@ -7279,22 +7312,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-08-06T16:56:02.566Z"
-    },
-    {
-      "id": "JR2002429",
-      "title": "Senior Developer Relations Manager, Energy - Power Generation Ecosystem",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager--Energy---Power-Generation-Ecosystem_JR2002429",
-      "postedAt": "2026-08-06T16:56:06.438Z",
-      "key": "Nvidia:JR2002429",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-08-06T16:56:02.566Z"
     },
@@ -11860,23 +11877,6 @@
       "seeded": true
     },
     {
-      "id": "JR2013796",
-      "title": "Senior Software SDET Test Development Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-SDET-Test-Development-Engineer_JR2013796",
-      "postedAt": "2026-08-04T00:30:31.813Z",
-      "key": "Nvidia:JR2013796",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
       "id": "JR2019127",
       "title": "Senior Systems Architect - Datacenter",
       "location": "US, CA, Santa Clara",
@@ -15450,13 +15450,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -15466,13 +15466,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -25196,23 +25196,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -25225,6 +25208,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
