@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-08-07T21:20:18.480Z",
+  "generatedAt": "2026-08-07T21:30:21.124Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "okta:8103955",
+    "samsara:8115078",
+    "samsara:8064742"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 14,
     "new-grad": 6,
-    "experienced": 1992
+    "experienced": 1995
   },
   "companies": [
     {
@@ -3250,7 +3254,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4076,7 +4080,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4418,10 +4422,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 125,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5342,6 +5346,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8115078",
+      "title": "Staff Software Engineer",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078",
+      "postedAt": "2026-08-07T21:28:58.000Z",
+      "key": "samsara:8115078",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-07T21:30:21.124Z"
+    },
+    {
+      "id": "8064742",
+      "title": "Staff Software Engineer",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742",
+      "postedAt": "2026-08-07T21:28:57.000Z",
+      "key": "samsara:8064742",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-07T21:30:21.124Z"
+    },
+    {
+      "id": "8103955",
+      "title": "Principal Developer Support Engineer - Builder Experience (BX)",
+      "location": "Toronto, Ontario, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8103955?gh_jid=8103955",
+      "postedAt": "2026-08-07T21:21:24.000Z",
+      "key": "okta:8103955",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-07T21:30:21.124Z"
+    },
     {
       "id": "9e19f3dd-d287-4e42-a471-fce44550f87d",
       "title": "Automation Engineer",
@@ -25098,23 +25150,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -25127,6 +25162,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
