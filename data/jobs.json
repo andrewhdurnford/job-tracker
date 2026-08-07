@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-08-07T18:00:25.998Z",
+  "generatedAt": "2026-08-07T18:10:18.195Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "airbnb:8095436"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 14,
     "new-grad": 5,
-    "experienced": 1997
+    "experienced": 1995
   },
   "companies": [
     {
@@ -107,7 +109,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2452,7 +2454,7 @@
     {
       "name": "Kraken",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2766,10 +2768,10 @@
     },
     {
       "name": "Melio",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mem0",
@@ -4111,7 +4113,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5342,6 +5344,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8095436",
+      "title": "Staff Software Engineer, Marketing technology ",
+      "location": "Remote, USA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8095436?gh_jid=8095436",
+      "postedAt": "2026-08-07T18:02:40.000Z",
+      "key": "airbnb:8095436",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-07T18:10:18.195Z"
+    },
     {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
@@ -15113,13 +15131,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -15129,13 +15147,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -24827,23 +24845,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -24856,6 +24857,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -38629,55 +38647,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "a06838e0-053c-4b11-9934-bfa30c95164d",
-      "title": "M&A Collaboration & Security Platforms Engineer",
-      "location": "United Kingdom (+21 more)",
-      "team": "IT & Business Technology",
-      "url": "https://jobs.ashbyhq.com/kraken.com/a06838e0-053c-4b11-9934-bfa30c95164d",
-      "postedAt": "2026-07-08T18:09:17.175Z",
-      "key": "kraken.com:a06838e0-053c-4b11-9934-bfa30c95164d",
-      "company": "Kraken",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
-    },
-    {
-      "id": "a5ee74c9-df6e-435e-9742-0b1d95c28462",
-      "title": "M&A Collaboration & Security Platforms Engineer",
-      "location": "United States",
-      "team": "IT & Business Technology",
-      "url": "https://jobs.ashbyhq.com/kraken.com/a5ee74c9-df6e-435e-9742-0b1d95c28462",
-      "postedAt": "2026-07-08T18:09:13.570Z",
-      "key": "kraken.com:a5ee74c9-df6e-435e-9742-0b1d95c28462",
-      "company": "Kraken",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
-    },
-    {
-      "id": "4711898005",
-      "title": "Senior Software Engineer, Identity",
-      "location": "San Francisco, CA; New York, NY; Washington, DC",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4711898005",
-      "postedAt": "2026-07-08T18:08:31.000Z",
-      "key": "scaleai:4711898005",
-      "company": "Scale AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
     }
   ]
 }
