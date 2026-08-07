@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-08-07T23:20:17.655Z",
+  "generatedAt": "2026-08-07T23:30:27.982Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Nvidia:JR2022837",
-    "reddit:8115838"
+    "Nvidia:JR2022757",
+    "Nvidia:JR2022948",
+    "waymo:8113176",
+    "waymo:8113233"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 14,
     "new-grad": 6,
-    "experienced": 1994
+    "experienced": 1998
   },
   "companies": [
     {
@@ -3211,7 +3213,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 179,
+      "jobCount": 181,
       "error": null,
       "stale": false
     },
@@ -5150,7 +5152,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -5345,6 +5347,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2022948",
+      "title": "Senior Embedded System Software Engineer – Platform Execution Lead",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Embedded-System-Software-Engineer---Platform-Execution-Lead_JR2022948-1",
+      "postedAt": "2026-08-07T23:31:17.834Z",
+      "key": "Nvidia:JR2022948",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-07T23:30:27.982Z"
+    },
+    {
+      "id": "JR2022757",
+      "title": "Senior Manager, Performance Engineering – Kernel and Software Platforms",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Performance-Engineering---Kernel-and-Software-Platforms_JR2022757",
+      "postedAt": "2026-08-07T23:31:17.834Z",
+      "key": "Nvidia:JR2022757",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-07T23:30:27.982Z"
+    },
+    {
+      "id": "8113233",
+      "title": "Staff ML Engineer, Perception Research",
+      "location": "Mountain View, CA, USA ; New York City, NY, USA ; Kirkland, WA, USA ; San Francisco, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8113233",
+      "postedAt": "2026-08-07T23:27:50.000Z",
+      "key": "waymo:8113233",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-07T23:30:27.982Z"
+    },
+    {
+      "id": "8113176",
+      "title": "Senior ML Engineer, Perception Research",
+      "location": "Mountain View, CA, USA ; New York City, NY, USA ; Kirkland, WA, USA ; San Francisco, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8113176",
+      "postedAt": "2026-08-07T23:27:28.000Z",
+      "key": "waymo:8113176",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-07T23:30:27.982Z"
+    },
     {
       "id": "JR2022837",
       "title": "Senior GPU System Software Engineer",
@@ -17181,23 +17247,6 @@
       "seeded": true
     },
     {
-      "id": "7819656003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819656003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819654003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote US",
@@ -17210,6 +17259,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819656003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819656003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -25260,23 +25326,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -25289,6 +25338,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
