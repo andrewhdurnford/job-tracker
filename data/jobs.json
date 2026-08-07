@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-08-07T21:40:16.458Z",
+  "generatedAt": "2026-08-07T21:50:37.644Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "anthropic:5383114008",
-    "samsara:8115102"
+    "anthropic:5383610008"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 14,
     "new-grad": 6,
-    "experienced": 1996
+    "experienced": 1997
   },
   "companies": [
     {
@@ -285,7 +284,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -3042,10 +3041,10 @@
     },
     {
       "name": "Nash",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Natera",
@@ -3077,10 +3076,10 @@
     },
     {
       "name": "Neon",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Netlify",
@@ -5345,6 +5344,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5383610008",
+      "title": "Staff Software Engineer, Claude Code",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383610008",
+      "postedAt": "2026-08-07T21:48:56.000Z",
+      "key": "anthropic:5383610008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-07T21:50:37.644Z"
+    },
     {
       "id": "8115102",
       "title": "Staff Software Engineer - CAM",
@@ -7815,7 +7830,7 @@
     {
       "id": "5205179007",
       "title": "Software Engineer - Search Infrastructure",
-      "location": "Palo Alto, California, United States",
+      "location": "Palo Alto, California",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5205179007",
       "postedAt": "2026-08-06T01:04:10.000Z",
@@ -9011,7 +9026,7 @@
     {
       "id": "5204788007",
       "title": "Software Engineer - X Developer Platform",
-      "location": "Palo Alto, California, United States",
+      "location": "Palo Alto, California",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5204788007",
       "postedAt": "2026-08-05T21:13:28.000Z",
@@ -9123,7 +9138,7 @@
     {
       "id": "5204819007",
       "title": "Operations Engineer - Human Data",
-      "location": "Palo Alto, California, United States",
+      "location": "Palo Alto, California",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5204819007",
       "postedAt": "2026-08-05T20:25:39.000Z",
@@ -12490,7 +12505,7 @@
     {
       "id": "5202187007",
       "title": "Software Engineer - Platform Core (C++, C)",
-      "location": "Palo Alto, California, United States; Seattle, Washington, United States",
+      "location": "Palo Alto, California; Seattle, Washington",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5202187007",
       "postedAt": "2026-08-03T20:27:25.000Z",
@@ -15435,13 +15450,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -15451,13 +15466,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -18111,7 +18126,7 @@
     {
       "id": "5198194007",
       "title": "Sr. Security Engineer - GRC Fintech & Financial Services",
-      "location": "New York, New York, United States; Palo Alto, California, United States; Washington, District of Columbia, United States",
+      "location": "New York, New York; Palo Alto, California; Washington, D.C.",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5198194007",
       "postedAt": "2026-07-29T01:46:47.000Z",
@@ -25181,23 +25196,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -25210,6 +25208,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -25487,7 +25502,7 @@
     {
       "id": "5188230007",
       "title": "Software Engineer - Evals",
-      "location": "Palo Alto, California, United States",
+      "location": "Palo Alto, California",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007",
       "postedAt": "2026-07-22T17:45:07.000Z",
@@ -29257,13 +29272,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -29274,13 +29289,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
