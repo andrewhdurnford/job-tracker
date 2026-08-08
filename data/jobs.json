@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-08-08T14:10:16.219Z",
+  "generatedAt": "2026-08-08T14:20:17.045Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R243988",
-    "Capital One:R248687"
+    "Capital One:R245187",
+    "Capital One:R245651",
+    "sentilink:f9a47314-c48a-4053-a113-6974b211559f",
+    "sentilink:cbe2397c-5e7a-4649-a8c0-07e5d1204e82"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,8 +14,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 14,
-    "new-grad": 6,
-    "experienced": 1976
+    "new-grad": 8,
+    "experienced": 1978
   },
   "companies": [
     {
@@ -761,7 +763,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 160,
+      "jobCount": 162,
       "error": null,
       "stale": false
     },
@@ -4142,7 +4144,7 @@
     {
       "name": "SentiLink",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5345,6 +5347,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R245651",
+      "title": "Lead Software Engineer, Full Stack (TypeScript, Vue.js, Node.js, AWS)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack--TypeScript--Vuejs--Nodejs--AWS-_R245651-1",
+      "postedAt": "2026-08-08T14:20:20.475Z",
+      "key": "Capital One:R245651",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-08T14:20:17.045Z"
+    },
+    {
+      "id": "R245187",
+      "title": "Senior Lead Software Engineer, Full Stack (Go/Java, Angular, AWS)",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Lead-Software-Engineer--Full-Stack--Go-Java--Angular--AWS-_R245187-1",
+      "postedAt": "2026-08-08T14:20:20.475Z",
+      "key": "Capital One:R245187",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-08T14:20:17.045Z"
+    },
+    {
+      "id": "cbe2397c-5e7a-4649-a8c0-07e5d1204e82",
+      "title": "Applied Scientist, PhD New Grad",
+      "location": "United States",
+      "team": "Data Science",
+      "url": "https://jobs.ashbyhq.com/sentilink/cbe2397c-5e7a-4649-a8c0-07e5d1204e82",
+      "postedAt": "2026-08-08T14:11:41.243Z",
+      "key": "sentilink:cbe2397c-5e7a-4649-a8c0-07e5d1204e82",
+      "company": "SentiLink",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-08T14:20:17.045Z"
+    },
+    {
+      "id": "f9a47314-c48a-4053-a113-6974b211559f",
+      "title": "Research Scientist, PhD New Grad",
+      "location": "United States",
+      "team": "Data Science",
+      "url": "https://jobs.ashbyhq.com/sentilink/f9a47314-c48a-4053-a113-6974b211559f",
+      "postedAt": "2026-08-08T14:11:26.946Z",
+      "key": "sentilink:f9a47314-c48a-4053-a113-6974b211559f",
+      "company": "SentiLink",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-08T14:20:17.045Z"
+    },
     {
       "id": "R248687",
       "title": "Lead Software Engineer, Full Stack (Golang, Python, Java, AWS)",
@@ -15659,22 +15725,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
       "location": "Starbase, TX",
@@ -15691,13 +15741,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -15714,6 +15764,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658737002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658628002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -17326,23 +17392,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -17355,6 +17404,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -25404,23 +25470,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -25433,6 +25482,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
