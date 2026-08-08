@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:03:35.075Z",
+  "generatedAt": "2026-08-08T06:10:18.210Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -57,10 +57,10 @@
     },
     {
       "name": "Adobe",
-      "ok": true,
+      "ok": false,
       "jobCount": 57,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "Adyen",
@@ -3209,7 +3209,7 @@
       "name": "Nvidia",
       "ok": false,
       "jobCount": 181,
-      "error": "HTTP 500 Internal Server Error",
+      "error": "response was not valid JSON",
       "stale": true
     },
     {
@@ -5286,10 +5286,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "Zerocater",
