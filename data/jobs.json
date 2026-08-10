@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-08-10T14:20:20.642Z",
+  "generatedAt": "2026-08-10T14:30:22.304Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "elevenlabs:71992118-5b37-4a4a-a862-99e82e02916f",
+    "instacart:8110286",
+    "snowflake:a8877c9d-dbfd-4d87-a7ea-e2987db72e9e"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 15,
     "new-grad": 8,
-    "experienced": 1829
+    "experienced": 1832
   },
   "companies": [
     {
@@ -1430,7 +1434,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2249,7 +2253,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4363,7 +4367,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5342,6 +5346,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8110286",
+      "title": "Staff Software Engineer, Orders Platform",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8110286",
+      "postedAt": "2026-08-10T14:28:12.000Z",
+      "key": "instacart:8110286",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T14:30:22.304Z"
+    },
+    {
+      "id": "a8877c9d-dbfd-4d87-a7ea-e2987db72e9e",
+      "title": "Senior Software Engineer - Cloud Efficiency",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/a8877c9d-dbfd-4d87-a7ea-e2987db72e9e",
+      "postedAt": "2026-08-10T14:21:17.102Z",
+      "key": "snowflake:a8877c9d-dbfd-4d87-a7ea-e2987db72e9e",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T14:30:22.304Z"
+    },
     {
       "id": "843b8165-0014-4eed-8595-21a1c7571e44",
       "title": "Technical Lead, ML Operations",
@@ -16605,6 +16641,22 @@
       "seeded": true
     },
     {
+      "id": "71992118-5b37-4a4a-a862-99e82e02916f",
+      "title": "Website Growth Engineer",
+      "location": "London (+4 more)",
+      "team": "Creative App",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/71992118-5b37-4a4a-a862-99e82e02916f",
+      "postedAt": "2026-07-30T17:19:55.057Z",
+      "key": "elevenlabs:71992118-5b37-4a4a-a862-99e82e02916f",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T14:30:22.304Z"
+    },
+    {
       "id": "7782550",
       "title": "Sr. Site Reliability Engineer, tvScientific",
       "location": "San Francisco, CA, US; Remote, US",
@@ -25582,23 +25634,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -25611,6 +25646,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
