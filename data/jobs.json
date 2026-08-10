@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-10T21:00:25.307Z",
+  "generatedAt": "2026-08-10T21:10:16.486Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "thetradedesk:5205559007",
+    "vanta:0efec8d2-094a-421d-bca6-1fa0da5ca5a0"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1871
+    "experienced": 1873
   },
   "companies": [
     {
@@ -4418,10 +4421,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 103,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4748,7 +4751,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5000,7 +5003,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5342,6 +5345,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "0efec8d2-094a-421d-bca6-1fa0da5ca5a0",
+      "title": "Senior Manager, AI Corporate Engineering",
+      "location": "Remote U.S.",
+      "team": "Corporate Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/0efec8d2-094a-421d-bca6-1fa0da5ca5a0",
+      "postedAt": "2026-08-10T21:08:24.482Z",
+      "key": "vanta:0efec8d2-094a-421d-bca6-1fa0da5ca5a0",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T21:10:16.486Z"
+    },
+    {
+      "id": "5205559007",
+      "title": "Sr Front-End Engineer - Campaign Experiences ",
+      "location": "Bellevue; New York; San Francisco; San Jose; Seattle",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5205559007",
+      "postedAt": "2026-08-10T21:00:47.000Z",
+      "key": "thetradedesk:5205559007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T21:10:16.486Z"
+    },
     {
       "id": "R247651",
       "title": "Principal Associate, Data Scientist - Bank Customer Protection Debit & Claims",
@@ -16676,13 +16711,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -16692,13 +16727,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
