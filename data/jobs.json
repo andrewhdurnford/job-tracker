@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-08-10T19:30:26.241Z",
+  "generatedAt": "2026-08-10T19:40:19.960Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Nvidia:JR2023052",
-    "Nvidia:JR2021654",
-    "Nvidia:JR2022834",
-    "scaleai:4722811005"
+    "docker:8faa282d-9783-4957-bace-ab29abd9e470",
+    "notion:ca74504a-9b91-4ce3-b0df-97919b46e749",
+    "Nvidia:JR2011122",
+    "Nvidia:JR2011118",
+    "robinhood:7847485"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +16,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1861
+    "experienced": 1866
   },
   "companies": [
     {
@@ -671,10 +672,10 @@
     },
     {
       "name": "Breeze.cash",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Bretton AI",
@@ -1316,7 +1317,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3164,7 +3165,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3213,7 +3214,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 173,
+      "jobCount": 175,
       "error": null,
       "stale": false
     },
@@ -3983,7 +3984,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4423,10 +4424,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 103,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5347,6 +5348,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2011122",
+      "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2011122",
+      "postedAt": "2026-08-10T19:40:23.947Z",
+      "key": "Nvidia:JR2011122",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T19:40:19.960Z"
+    },
+    {
+      "id": "JR2011118",
+      "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer---Diagnostics_JR2011118",
+      "postedAt": "2026-08-10T19:40:23.947Z",
+      "key": "Nvidia:JR2011118",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T19:40:19.960Z"
+    },
+    {
+      "id": "7847485",
+      "title": "Senior Corporate Security Engineer",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7847485?t=gh_src=&gh_jid=7847485",
+      "postedAt": "2026-08-10T19:40:00.000Z",
+      "key": "robinhood:7847485",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T19:40:19.960Z"
+    },
+    {
+      "id": "8faa282d-9783-4957-bace-ab29abd9e470",
+      "title": "Senior Software Engineer, Docker Desktop, Desktop Systems Focus (East Coast)",
+      "location": "United States",
+      "team": "ENG-DD & Core DX",
+      "url": "https://jobs.ashbyhq.com/docker/8faa282d-9783-4957-bace-ab29abd9e470",
+      "postedAt": "2026-08-10T19:32:39.432Z",
+      "key": "docker:8faa282d-9783-4957-bace-ab29abd9e470",
+      "company": "Docker",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T19:40:19.960Z"
+    },
+    {
+      "id": "ca74504a-9b91-4ce3-b0df-97919b46e749",
+      "title": "Software Engineer, Collections Infra",
+      "location": "San Francisco, California (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749",
+      "postedAt": "2026-08-10T19:31:59.593Z",
+      "key": "notion:ca74504a-9b91-4ce3-b0df-97919b46e749",
+      "company": "Notion",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T19:40:19.960Z"
+    },
     {
       "id": "JR2022834",
       "title": "Senior Firmware Engineer - GPU",
@@ -6973,22 +7054,6 @@
       "firstSeen": "2026-08-07T18:10:18.195Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -7001,6 +7066,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
