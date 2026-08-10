@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-10T17:30:28.489Z",
+  "generatedAt": "2026-08-10T17:40:18.164Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "natera:6109111004",
+    "render:06377f8a-a255-412a-8032-18ace1d005a5"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 15,
     "new-grad": 8,
-    "experienced": 1854
+    "experienced": 1856
   },
   "companies": [
     {
@@ -3047,7 +3050,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3901,7 +3904,7 @@
     {
       "name": "Render",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4418,10 +4421,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 103,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5342,6 +5345,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "06377f8a-a255-412a-8032-18ace1d005a5",
+      "title": "Software Engineer, Expansion (all levels)",
+      "location": "Remote: United States (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/render/06377f8a-a255-412a-8032-18ace1d005a5",
+      "postedAt": "2026-08-10T17:36:07.905Z",
+      "key": "render:06377f8a-a255-412a-8032-18ace1d005a5",
+      "company": "Render",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-10T17:40:18.164Z"
+    },
     {
       "id": "JR2022052",
       "title": "Senior Staff Forward Deployed Engineer, Enterprise AI and Automation",
@@ -26013,23 +26033,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -26042,6 +26045,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -31378,6 +31398,22 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
+    },
+    {
+      "id": "6109111004",
+      "title": "Senior Software Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6109111004",
+      "postedAt": "2026-07-17T16:53:39.000Z",
+      "key": "natera:6109111004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T17:40:18.164Z"
     },
     {
       "id": "R242446",
