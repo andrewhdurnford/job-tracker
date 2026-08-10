@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T17:40:18.164Z",
+  "generatedAt": "2026-08-10T17:50:24.253Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "natera:6109111004",
-    "render:06377f8a-a255-412a-8032-18ace1d005a5"
+    "checkr:8119876",
+    "databricks:8423310002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -61,7 +61,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 51,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -1202,7 +1202,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4421,10 +4421,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 103,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5346,6 +5346,22 @@
   ],
   "jobs": [
     {
+      "id": "8119876",
+      "title": "Senior Software Engineer (Python), Mortgage",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8119876",
+      "postedAt": "2026-08-10T17:42:12.000Z",
+      "key": "checkr:8119876",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T17:50:24.253Z"
+    },
+    {
       "id": "06377f8a-a255-412a-8032-18ace1d005a5",
       "title": "Software Engineer, Expansion (all levels)",
       "location": "Remote: United States (+1 more)",
@@ -5489,6 +5505,22 @@
         "canada"
       ],
       "firstSeen": "2026-08-10T17:10:22.750Z"
+    },
+    {
+      "id": "8423310002",
+      "title": "Sr. Forward Deployed Engineer (FDE) - Public Sector ",
+      "location": "Remote - Washington D.C.; USCA",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8423310002",
+      "postedAt": "2026-08-10T17:01:52.000Z",
+      "key": "databricks:8423310002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T17:50:24.253Z"
     },
     {
       "id": "JR2022760",
@@ -12891,23 +12923,6 @@
       "seeded": true
     },
     {
-      "id": "R170419",
-      "title": "Software Development Engineer",
-      "location": "Seattle",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Software-Development-Engineer_R170419-1",
-      "postedAt": "2026-08-04T00:30:30.067Z",
-      "key": "Adobe:R170419",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
       "id": "R170522",
       "title": "Sr. Database Reliability Engineer",
       "location": "San Jose",
@@ -13439,22 +13454,6 @@
       "url": "https://job-boards.greenhouse.io/checkr/jobs/7654391",
       "postedAt": "2026-08-03T20:15:14.000Z",
       "key": "checkr:7654391",
-      "company": "Checkr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
-    },
-    {
-      "id": "8103966",
-      "title": "Senior Software Engineer (Python), Mortgage",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/checkr/jobs/8103966",
-      "postedAt": "2026-08-03T20:08:21.000Z",
-      "key": "checkr:8103966",
       "company": "Checkr",
       "level": "experienced",
       "term": null,
@@ -23967,7 +23966,7 @@
     {
       "id": "db5d644a-6d56-46fa-bb49-83b144af0acd",
       "title": "Staff Engineer, HMS DevOps/DevEx (R5447)",
-      "location": "Washington, DC",
+      "location": "Washington, DC (+1 more)",
       "team": "Integration & Test",
       "url": "https://jobs.lever.co/shieldai/db5d644a-6d56-46fa-bb49-83b144af0acd",
       "postedAt": "2026-07-24T00:44:25.293Z",
@@ -26033,23 +26032,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -26062,6 +26044,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -30092,13 +30091,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -30109,13 +30108,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
