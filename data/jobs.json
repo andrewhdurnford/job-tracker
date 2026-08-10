@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-08-10T16:26:12.574Z",
+  "generatedAt": "2026-08-10T16:30:21.707Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "asana:8119695",
+    "instacart:8119683",
+    "mongodb:8065483",
+    "Nvidia:JR2022613",
+    "pinterest:8075888"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +16,7 @@
   "levelCounts": {
     "intern": 15,
     "new-grad": 8,
-    "experienced": 1840
+    "experienced": 1845
   },
   "companies": [
     {
@@ -359,7 +365,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2249,7 +2255,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2942,7 +2948,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -3208,7 +3214,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 165,
+      "jobCount": 166,
       "error": null,
       "stale": false
     },
@@ -3523,7 +3529,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5342,6 +5348,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2022613",
+      "title": "Manager, Chip Software",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Chip-Software_JR2022613",
+      "postedAt": "2026-08-10T16:30:26.007Z",
+      "key": "Nvidia:JR2022613",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T16:30:21.707Z"
+    },
+    {
+      "id": "8119695",
+      "title": "Director of Engineering, AI Agents",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/8119695?gh_jid=8119695",
+      "postedAt": "2026-08-10T16:29:45.000Z",
+      "key": "asana:8119695",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T16:30:21.707Z"
+    },
+    {
+      "id": "8065483",
+      "title": "Senior Software Engineer",
+      "location": "Atlanta; Austin; Baltimore; Boston; Charlotte; Chicago; Columbus; Dallas; Miami; Nashville; New York City; Philadelphia; Pittsburgh; Princeton; Raleigh; Tysons; Washington DC",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8065483",
+      "postedAt": "2026-08-10T16:28:40.000Z",
+      "key": "mongodb:8065483",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T16:30:21.707Z"
+    },
+    {
+      "id": "8119683",
+      "title": "Senior Software Engineer, Marketing Platform Tooling",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8119683",
+      "postedAt": "2026-08-10T16:27:01.000Z",
+      "key": "instacart:8119683",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-10T16:30:21.707Z"
+    },
+    {
+      "id": "8075888",
+      "title": "Staff Software Engineer, Web Product Enablement ",
+      "location": "San Francisco, CA, US; Remote, CA, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8075888",
+      "postedAt": "2026-08-10T16:26:10.000Z",
+      "key": "pinterest:8075888",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T16:30:21.707Z"
+    },
     {
       "id": "6128466004",
       "title": " Software Engineer III",
@@ -25773,23 +25859,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -25802,6 +25871,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
