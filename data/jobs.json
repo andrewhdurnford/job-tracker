@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T21:10:16.486Z",
+  "generatedAt": "2026-08-10T21:20:19.234Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "thetradedesk:5205559007",
-    "vanta:0efec8d2-094a-421d-bca6-1fa0da5ca5a0"
+    "Nvidia:JR2018453",
+    "vanta:2e68c5e8-5de2-4428-bad0-ddcf518399c4"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1873
+    "experienced": 1874
   },
   "companies": [
     {
@@ -2252,7 +2252,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3211,7 +3211,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 176,
+      "jobCount": 177,
       "error": null,
       "stale": false
     },
@@ -4421,10 +4421,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 103,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5003,7 +5003,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5345,6 +5345,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2018453",
+      "title": "Senior Firmware Engineer - GPU",
+      "location": "US, SC, Remote",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-SC-Remote/Senior-Firmware-Engineer---GPU_JR2018453",
+      "postedAt": "2026-08-10T21:20:23.709Z",
+      "key": "Nvidia:JR2018453",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T21:20:19.234Z"
+    },
+    {
+      "id": "2e68c5e8-5de2-4428-bad0-ddcf518399c4",
+      "title": "Senior Manager, Systems Engineering",
+      "location": "Remote U.S.",
+      "team": "Corporate Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/2e68c5e8-5de2-4428-bad0-ddcf518399c4",
+      "postedAt": "2026-08-10T21:18:32.576Z",
+      "key": "vanta:2e68c5e8-5de2-4428-bad0-ddcf518399c4",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T21:20:19.234Z"
+    },
     {
       "id": "0efec8d2-094a-421d-bca6-1fa0da5ca5a0",
       "title": "Senior Manager, AI Corporate Engineering",
@@ -6102,22 +6134,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-08-10T16:30:21.707Z"
-    },
-    {
-      "id": "8119683",
-      "title": "Senior Software Engineer, Marketing Platform Tooling",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8119683",
-      "postedAt": "2026-08-10T16:27:01.000Z",
-      "key": "instacart:8119683",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-08-10T16:30:21.707Z"
     },
@@ -26405,23 +26421,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -26434,6 +26433,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
