@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-08-10T19:40:19.960Z",
+  "generatedAt": "2026-08-10T19:50:17.284Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "docker:8faa282d-9783-4957-bace-ab29abd9e470",
-    "notion:ca74504a-9b91-4ce3-b0df-97919b46e749",
-    "Nvidia:JR2011122",
-    "Nvidia:JR2011118",
-    "robinhood:7847485"
+    "fivetran:7823193003",
+    "snowflake:c055c3da-4924-4e63-bcd2-bef2b2710db8"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +13,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1866
+    "experienced": 1868
   },
   "companies": [
     {
@@ -1688,7 +1685,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4369,7 +4366,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4424,10 +4421,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 103,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5348,6 +5345,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "c055c3da-4924-4e63-bcd2-bef2b2710db8",
+      "title": "Senior AI Engineer, Enterprise",
+      "location": "US-CA-Menlo Park",
+      "team": "Data Analytics and AI",
+      "url": "https://jobs.ashbyhq.com/snowflake/c055c3da-4924-4e63-bcd2-bef2b2710db8",
+      "postedAt": "2026-08-10T19:46:13.453Z",
+      "key": "snowflake:c055c3da-4924-4e63-bcd2-bef2b2710db8",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T19:50:17.284Z"
+    },
+    {
+      "id": "7823193003",
+      "title": "Staff Software Engineer, Metadata",
+      "location": "Remote, California, United States, AMER",
+      "team": null,
+      "url": "https://www.fivetran.com/careers/job?gh_jid=7823193003",
+      "postedAt": "2026-08-10T19:45:42.000Z",
+      "key": "fivetran:7823193003",
+      "company": "Fivetran",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T19:50:17.284Z"
+    },
     {
       "id": "JR2011122",
       "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
