@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-08-10T18:50:18.088Z",
+  "generatedAt": "2026-08-10T19:00:26.057Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "traversal:1818acdb-6c77-42b2-bc4b-dfd678c8c3a2"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 15,
     "new-grad": 8,
-    "experienced": 1854
+    "experienced": 1855
   },
   "companies": [
     {
@@ -4418,10 +4420,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 103,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4853,7 +4855,7 @@
     {
       "name": "Traversal",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5342,6 +5344,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1818acdb-6c77-42b2-bc4b-dfd678c8c3a2",
+      "title": "Staff Full-Stack Product Engineer",
+      "location": "New York",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/traversal/1818acdb-6c77-42b2-bc4b-dfd678c8c3a2",
+      "postedAt": "2026-08-10T18:59:46.379Z",
+      "key": "traversal:1818acdb-6c77-42b2-bc4b-dfd678c8c3a2",
+      "company": "Traversal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T19:00:26.057Z"
+    },
     {
       "id": "8112967",
       "title": "Senior Machine Learning Systems Engineer, Ads ML Experience Platform",
@@ -30086,13 +30104,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -30103,13 +30121,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
