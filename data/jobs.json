@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-10T19:10:19.814Z",
+  "generatedAt": "2026-08-10T19:20:17.460Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R248349",
-    "figma:6131089004"
+    "bankjoy:079371c5-d180-454d-ac38-d5bcf59f961f",
+    "mattermost:5385065008"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1856
+    "experienced": 1858
   },
   "companies": [
     {
@@ -488,7 +488,7 @@
     {
       "name": "Bankjoy",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2735,7 +2735,7 @@
     {
       "name": "Mattermost",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4421,10 +4421,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 103,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5345,6 +5345,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5385065008",
+      "title": "Lead Site Reliability Engineer ",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/mattermost/jobs/5385065008",
+      "postedAt": "2026-08-10T19:16:22.000Z",
+      "key": "mattermost:5385065008",
+      "company": "Mattermost",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T19:20:17.460Z"
+    },
+    {
+      "id": "079371c5-d180-454d-ac38-d5bcf59f961f",
+      "title": "VP of Engineering - USA",
+      "location": "USA (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/bankjoy/079371c5-d180-454d-ac38-d5bcf59f961f",
+      "postedAt": "2026-08-10T19:13:31.346Z",
+      "key": "bankjoy:079371c5-d180-454d-ac38-d5bcf59f961f",
+      "company": "Bankjoy",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-10T19:20:17.460Z"
+    },
     {
       "id": "R248349",
       "title": "Lead Software Engineer, Full Stack",
