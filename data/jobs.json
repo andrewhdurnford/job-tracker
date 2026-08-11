@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-11T18:40:19.468Z",
+  "generatedAt": "2026-08-11T18:50:20.317Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "boxinc:7962280"
+    "elastic:8099224",
+    "Nvidia:JR2013930",
+    "verkada:5209588007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1913
+    "experienced": 1916
   },
   "companies": [
     {
@@ -1418,7 +1420,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -2803,10 +2805,10 @@
     },
     {
       "name": "Meru Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Metal",
@@ -3210,7 +3212,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 183,
+      "jobCount": 184,
       "error": null,
       "stale": false
     },
@@ -5051,7 +5053,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -5344,6 +5346,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2013930",
+      "title": "Senior Deep Learning Architect, LLM Inference",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Architect--LLM-Inference_JR2013930",
+      "postedAt": "2026-08-11T18:50:24.641Z",
+      "key": "Nvidia:JR2013930",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T18:50:20.317Z"
+    },
+    {
+      "id": "8099224",
+      "title": "Senior Software Engineer, Security Solution — Triage & Investigation",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8099224&gh_jid=8099224",
+      "postedAt": "2026-08-11T18:49:48.000Z",
+      "key": "elastic:8099224",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T18:50:20.317Z"
+    },
+    {
+      "id": "5209588007",
+      "title": "Senior Embedded Linux Engineer - Connectivity",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5209588007",
+      "postedAt": "2026-08-11T18:43:52.000Z",
+      "key": "verkada:5209588007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T18:50:20.317Z"
+    },
     {
       "id": "7962280",
       "title": "Senior Software Engineer, NaaS",
@@ -6263,22 +6313,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -6291,6 +6325,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -31145,13 +31195,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -31162,13 +31212,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
