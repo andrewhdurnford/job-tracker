@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-08-11T17:50:39.035Z",
+  "generatedAt": "2026-08-11T18:00:27.486Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R248996",
-    "temporaltechnologies:5209443007"
+    "cohere:e906188a-e089-4b86-85b9-aad0d4413c68",
+    "spacex:8696779002",
+    "wealthfront:c90dc246-578c-42a0-a322-6400f47e97dc"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1904
+    "experienced": 1906
   },
   "companies": [
     {
@@ -992,7 +993,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4366,7 +4367,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4422,7 +4423,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 104,
+      "jobCount": 105,
       "error": null,
       "stale": false
     },
@@ -5157,7 +5158,7 @@
     {
       "name": "Wealthfront",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5345,6 +5346,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8696779002",
+      "title": "Software Engineer (Starlink/Akoustis)",
+      "location": "Canandaigua, NY ",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8696779002?gh_jid=8696779002",
+      "postedAt": "2026-08-11T17:58:07.000Z",
+      "key": "spacex:8696779002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T18:00:27.486Z"
+    },
+    {
+      "id": "e906188a-e089-4b86-85b9-aad0d4413c68",
+      "title": "Engineering Manager, FDE Agentic Platform",
+      "location": "Toronto (+1 more)",
+      "team": "Agentic Platform",
+      "url": "https://jobs.ashbyhq.com/cohere/e906188a-e089-4b86-85b9-aad0d4413c68",
+      "postedAt": "2026-08-11T17:54:57.392Z",
+      "key": "cohere:e906188a-e089-4b86-85b9-aad0d4413c68",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-11T18:00:27.486Z"
+    },
     {
       "id": "R248996",
       "title": "Distinguished AI Engineer (Remote Eligible)",
@@ -6406,6 +6440,22 @@
         "us"
       ],
       "firstSeen": "2026-08-10T20:20:19.284Z"
+    },
+    {
+      "id": "c90dc246-578c-42a0-a322-6400f47e97dc",
+      "title": "Senior Data Scientist, Home Lending",
+      "location": "Palo Alto, CA (Open to US-based Remote)",
+      "team": "Data Science",
+      "url": "https://jobs.lever.co/wealthfront/c90dc246-578c-42a0-a322-6400f47e97dc",
+      "postedAt": "2026-08-10T20:00:10.317Z",
+      "key": "wealthfront:c90dc246-578c-42a0-a322-6400f47e97dc",
+      "company": "Wealthfront",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T18:00:27.486Z"
     },
     {
       "id": "5383596008",
@@ -18985,23 +19035,6 @@
       "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
-      "id": "81f44bce-ec85-4674-b07e-1c9bda452788",
-      "title": "Principal Software Engineer - Semantic Views",
-      "location": "US-CA-Menlo Park",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/81f44bce-ec85-4674-b07e-1c9bda452788",
-      "postedAt": "2026-07-29T22:40:13.765Z",
-      "key": "snowflake:81f44bce-ec85-4674-b07e-1c9bda452788",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "1d34ad09-5d5f-4efc-bdb5-43b9350800ce",
       "title": "Senior Software Engineer - NatSec ",
       "location": "US-VA-McLean",
@@ -21459,7 +21492,7 @@
     },
     {
       "id": "3ca97a83-5565-46b5-8001-44c26a5be5e5",
-      "title": "Head of Software ()",
+      "title": "Head of Software ",
       "location": "Torrance, CA",
       "team": "Software",
       "url": "https://jobs.ashbyhq.com/northwoodspace/3ca97a83-5565-46b5-8001-44c26a5be5e5",
@@ -31003,13 +31036,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -31020,13 +31053,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
