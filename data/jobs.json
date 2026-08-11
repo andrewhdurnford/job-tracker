@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-08-11T22:00:36.037Z",
+  "generatedAt": "2026-08-11T22:10:17.771Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "baseten:fb886b59-fdc3-4315-a9b3-c49808bcd2ce",
-    "baseten:78028a72-2431-4373-aaec-d6e2c9a1cc7d",
-    "mercor:3750ee8a-64d1-46ac-b4f9-6a823f949034",
-    "spacex:8692260002",
-    "spacex:8692268002",
-    "spacex:8692270002"
+    "mongodb:8081945",
+    "sierra:93fea91f-a8a2-4084-8113-1cde73344e33",
+    "snowflake:bab0bb6f-9eab-4dbb-a72d-dec05ac59d8c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +14,7 @@
   "levelCounts": {
     "intern": 17,
     "new-grad": 9,
-    "experienced": 1926
+    "experienced": 1929
   },
   "companies": [
     {
@@ -2949,7 +2946,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4223,7 +4220,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4370,7 +4367,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5349,6 +5346,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8081945",
+      "title": "Senior Software Engineer, Atlas Search",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8081945",
+      "postedAt": "2026-08-11T22:04:12.000Z",
+      "key": "mongodb:8081945",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T22:10:17.771Z"
+    },
+    {
+      "id": "93fea91f-a8a2-4084-8113-1cde73344e33",
+      "title": "Software Engineer, Agent - Retail",
+      "location": "San Francisco, CA",
+      "team": "Agent Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/93fea91f-a8a2-4084-8113-1cde73344e33",
+      "postedAt": "2026-08-11T22:03:09.266Z",
+      "key": "sierra:93fea91f-a8a2-4084-8113-1cde73344e33",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T22:10:17.771Z"
+    },
+    {
+      "id": "bab0bb6f-9eab-4dbb-a72d-dec05ac59d8c",
+      "title": "Staff Software Engineer, Product Security",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/bab0bb6f-9eab-4dbb-a72d-dec05ac59d8c",
+      "postedAt": "2026-08-11T22:02:23.591Z",
+      "key": "snowflake:bab0bb6f-9eab-4dbb-a72d-dec05ac59d8c",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T22:10:17.771Z"
+    },
     {
       "id": "3750ee8a-64d1-46ac-b4f9-6a823f949034",
       "title": "Full Stack Software Engineer, Agent Platform",
@@ -18039,22 +18084,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
       "location": "Starbase, TX",
@@ -18071,13 +18100,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -18094,6 +18123,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658628002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658737002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
