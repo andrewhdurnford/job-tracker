@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-08-11T21:50:20.220Z",
+  "generatedAt": "2026-08-11T22:00:36.037Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 6,
+  "newKeys": [
+    "baseten:fb886b59-fdc3-4315-a9b3-c49808bcd2ce",
+    "baseten:78028a72-2431-4373-aaec-d6e2c9a1cc7d",
+    "mercor:3750ee8a-64d1-46ac-b4f9-6a823f949034",
+    "spacex:8692260002",
+    "spacex:8692268002",
+    "spacex:8692270002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +17,7 @@
   "levelCounts": {
     "intern": 17,
     "new-grad": 9,
-    "experienced": 1920
+    "experienced": 1926
   },
   "companies": [
     {
@@ -492,7 +499,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2781,7 +2788,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4418,10 +4425,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 108,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 111,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5343,6 +5350,104 @@
   ],
   "jobs": [
     {
+      "id": "3750ee8a-64d1-46ac-b4f9-6a823f949034",
+      "title": "Full Stack Software Engineer, Agent Platform",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/3750ee8a-64d1-46ac-b4f9-6a823f949034",
+      "postedAt": "2026-08-11T21:58:07.743Z",
+      "key": "mercor:3750ee8a-64d1-46ac-b4f9-6a823f949034",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T22:00:36.037Z"
+    },
+    {
+      "id": "78028a72-2431-4373-aaec-d6e2c9a1cc7d",
+      "title": "Software Engineer - Testing Frameworks",
+      "location": "San Francisco (+3 more)",
+      "team": "Internal Platform (Dev Tooling)",
+      "url": "https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d",
+      "postedAt": "2026-08-11T21:57:58.396Z",
+      "key": "baseten:78028a72-2431-4373-aaec-d6e2c9a1cc7d",
+      "company": "Baseten",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-11T22:00:36.037Z"
+    },
+    {
+      "id": "fb886b59-fdc3-4315-a9b3-c49808bcd2ce",
+      "title": "Software Engineer - Continuous Delivery",
+      "location": "San Francisco (+3 more)",
+      "team": "Internal Platform (Dev Tooling)",
+      "url": "https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce",
+      "postedAt": "2026-08-11T21:51:26.319Z",
+      "key": "baseten:fb886b59-fdc3-4315-a9b3-c49808bcd2ce",
+      "company": "Baseten",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-11T22:00:36.037Z"
+    },
+    {
+      "id": "8692270002",
+      "title": "Software Infrastructure Engineer, Flight Software (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8692270002?gh_jid=8692270002",
+      "postedAt": "2026-08-11T21:49:09.000Z",
+      "key": "spacex:8692270002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T22:00:36.037Z"
+    },
+    {
+      "id": "8692268002",
+      "title": "Platform Engineer, Flight Software (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8692268002?gh_jid=8692268002",
+      "postedAt": "2026-08-11T21:49:08.000Z",
+      "key": "spacex:8692268002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T22:00:36.037Z"
+    },
+    {
+      "id": "8692260002",
+      "title": "Flight Software Infrastructure Engineer (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8692260002?gh_jid=8692260002",
+      "postedAt": "2026-08-11T21:49:07.000Z",
+      "key": "spacex:8692260002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T22:00:36.037Z"
+    },
+    {
       "id": "6cb3d18f-da62-4465-9eda-1c2cec33b3a0",
       "title": "Senior Security Engineer, AI Incident Response",
       "location": "US-USA-Remote",
@@ -5376,7 +5481,7 @@
     },
     {
       "id": "5209858007",
-      "title": "Software Engineer - Datacenter",
+      "title": "Software Engineer - Data Center",
       "location": "Memphis, Tennessee; Southaven, Mississippi",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5209858007",
@@ -6435,7 +6540,7 @@
     },
     {
       "id": "a9b4dab9-0b27-47b0-b0fb-2d83c5742717",
-      "title": "Staff/Principa  AI  Software Engineer - Snowflake CoWork",
+      "title": "Staff/Principal  AI  Software Engineer - Snowflake CoWork",
       "location": "US-CA-Menlo Park",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/snowflake/a9b4dab9-0b27-47b0-b0fb-2d83c5742717",
@@ -6742,22 +6847,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -6770,6 +6859,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -17934,22 +18039,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
       "location": "McGregor, TX",
@@ -17966,13 +18055,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -17989,6 +18078,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658737002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658628002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -31385,13 +31490,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -31402,13 +31507,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
