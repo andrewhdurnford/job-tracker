@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-08-11T20:30:23.331Z",
+  "generatedAt": "2026-08-11T20:40:19.182Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "block:5369947008",
-    "reddit:8122606",
-    "snowflake:79e0f681-fed6-42cc-9754-9e150e056c5a"
+    "bobyard:30cd724e-6ae3-4e9b-868f-05574bee7f0f",
+    "Nvidia:JR2011123",
+    "okta:8108855",
+    "spacex:8694895002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1922
+    "experienced": 1926
   },
   "companies": [
     {
@@ -608,7 +609,7 @@
     {
       "name": "Bobyard",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3212,7 +3213,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 184,
+      "jobCount": 185,
       "error": null,
       "stale": false
     },
@@ -3254,7 +3255,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4422,10 +4423,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 107,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 108,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5346,6 +5347,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2011123",
+      "title": "Senior Software QA Test Development Engineer - Diagnostics",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-QA-Test-Development-Engineer---Diagnostics_JR2011123-1",
+      "postedAt": "2026-08-11T20:40:23.105Z",
+      "key": "Nvidia:JR2011123",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T20:40:19.182Z"
+    },
+    {
+      "id": "30cd724e-6ae3-4e9b-868f-05574bee7f0f",
+      "title": "Frontend Engineer ",
+      "location": "San Francisco",
+      "team": "Platform ",
+      "url": "https://jobs.ashbyhq.com/bobyard/30cd724e-6ae3-4e9b-868f-05574bee7f0f",
+      "postedAt": "2026-08-11T20:36:27.807Z",
+      "key": "bobyard:30cd724e-6ae3-4e9b-868f-05574bee7f0f",
+      "company": "Bobyard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T20:40:19.182Z"
+    },
+    {
+      "id": "8694895002",
+      "title": "CMM Programmer (Starlink) - 2nd Shift",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8694895002?gh_jid=8694895002",
+      "postedAt": "2026-08-11T20:30:27.000Z",
+      "key": "spacex:8694895002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T20:40:19.182Z"
+    },
     {
       "id": "8122606",
       "title": "Senior Staff Machine Learning Engineer, Feed Relevance",
@@ -6602,22 +6651,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -6630,6 +6663,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -11680,6 +11729,22 @@
         "us"
       ],
       "firstSeen": "2026-08-05T21:37:01.263Z"
+    },
+    {
+      "id": "8108855",
+      "title": "Staff Software Engineer, Agent Gateway",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8108855?gh_jid=8108855",
+      "postedAt": "2026-08-05T20:44:50.000Z",
+      "key": "okta:8108855",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T20:40:19.182Z"
     },
     {
       "id": "8684403002",
@@ -17821,22 +17886,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
       "location": "McGregor, TX",
@@ -17853,13 +17902,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -17876,6 +17925,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658737002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658628002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -36786,7 +36851,7 @@
     },
     {
       "id": "8038771",
-      "title": "Staff Software Engineer, Release Engineering",
+      "title": "Staff Software Engineer, Deployment Platform",
       "location": "Seattle",
       "team": "8125 Core Compute",
       "url": "https://stripe.com/jobs/search?gh_jid=8038771",
