@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-08-11T20:20:17.898Z",
+  "generatedAt": "2026-08-11T20:30:23.331Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "block:5369947008",
+    "reddit:8122606",
+    "snowflake:79e0f681-fed6-42cc-9754-9e150e056c5a"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1920
+    "experienced": 1922
   },
   "companies": [
     {
@@ -583,7 +587,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -2781,7 +2785,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3859,7 +3863,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4363,7 +4367,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -4418,10 +4422,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 107,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5342,6 +5346,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8122606",
+      "title": "Senior Staff Machine Learning Engineer, Feed Relevance",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8122606",
+      "postedAt": "2026-08-11T20:29:13.000Z",
+      "key": "reddit:8122606",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T20:30:23.331Z"
+    },
+    {
+      "id": "79e0f681-fed6-42cc-9754-9e150e056c5a",
+      "title": "Senior Software Engineer - Cortex AI - FDE",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/79e0f681-fed6-42cc-9754-9e150e056c5a",
+      "postedAt": "2026-08-11T20:27:53.213Z",
+      "key": "snowflake:79e0f681-fed6-42cc-9754-9e150e056c5a",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T20:30:23.331Z"
+    },
+    {
+      "id": "5369947008",
+      "title": "Software Engineer, Financial Platform - Issuing",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5369947008?gh_jid=5369947008",
+      "postedAt": "2026-08-11T20:20:53.000Z",
+      "key": "block:5369947008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-11T20:30:23.331Z"
+    },
     {
       "id": "5208825007",
       "title": "Applied AI Architect, People & Culture",
@@ -6550,22 +6602,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -6578,6 +6614,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -9535,22 +9587,6 @@
         "us"
       ],
       "firstSeen": "2026-08-07T16:20:18.280Z"
-    },
-    {
-      "id": "160c8177-765b-4bdc-a5be-5f646dccc98a",
-      "title": "Software Engineer, Marketplace",
-      "location": "San Francisco",
-      "team": "Core Engineering",
-      "url": "https://jobs.ashbyhq.com/mercor/160c8177-765b-4bdc-a5be-5f646dccc98a",
-      "postedAt": "2026-08-06T21:05:22.726Z",
-      "key": "mercor:160c8177-765b-4bdc-a5be-5f646dccc98a",
-      "company": "Mercor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-06T21:53:34.313Z"
     },
     {
       "id": "8113186",
