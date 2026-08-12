@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-08-12T15:30:25.947Z",
+  "generatedAt": "2026-08-12T15:40:21.850Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "reddit:8120496"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 17,
     "new-grad": 9,
-    "experienced": 1939
+    "experienced": 1936
   },
   "companies": [
     {
@@ -58,7 +60,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 58,
+      "jobCount": 57,
       "error": null,
       "stale": false
     },
@@ -163,7 +165,7 @@
     {
       "name": "Algolia",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3859,7 +3861,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4027,7 +4029,7 @@
     {
       "name": "Rune Technologies",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4062,7 +4064,7 @@
     {
       "name": "Salient",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4418,10 +4420,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 111,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5342,6 +5344,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8120496",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8120496",
+      "postedAt": "2026-08-12T15:38:22.000Z",
+      "key": "reddit:8120496",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T15:40:21.850Z"
+    },
     {
       "id": "140a4a88-1d0f-4d30-abae-a35a19618fe6",
       "title": "Manager, Partner Applied AI Engineering (AWS)",
@@ -7370,22 +7388,6 @@
         "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
-      "id": "R170419",
-      "title": "Senior Software Development Engineer",
-      "location": "Seattle",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Software-Development-Engineer_R170419-1",
-      "postedAt": "2026-08-10T22:30:37.954Z",
-      "key": "Adobe:R170419",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:30:22.851Z"
     },
     {
       "id": "R171153",
@@ -37658,54 +37660,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "6704a333-364e-4af5-b1e2-e59edc8a02f1",
-      "title": "Quality Assurance Engineer",
-      "location": "Rosslyn, VA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/runetech/6704a333-364e-4af5-b1e2-e59edc8a02f1",
-      "postedAt": "2026-07-13T15:34:16.405Z",
-      "key": "runetech:6704a333-364e-4af5-b1e2-e59edc8a02f1",
-      "company": "Rune Technologies",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "1dcecdaf-190c-476f-8fd1-56be2e715f1e",
-      "title": "Full Stack Engineer, Front-End",
-      "location": "SF Headquarters",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/salient/1dcecdaf-190c-476f-8fd1-56be2e715f1e",
-      "postedAt": "2026-07-13T15:33:48.606Z",
-      "key": "salient:1dcecdaf-190c-476f-8fd1-56be2e715f1e",
-      "company": "Salient",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "6112860004",
-      "title": "Software Engineer, Growth",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/algolia/jobs/6112860004",
-      "postedAt": "2026-07-13T15:33:10.000Z",
-      "key": "algolia:6112860004",
-      "company": "Algolia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
     },
     {
       "id": "R246018",
