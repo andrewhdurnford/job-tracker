@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-08-12T10:40:20.892Z",
+  "generatedAt": "2026-08-12T10:50:20.470Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "arq:bbaf8b97-e7a0-4a1d-810d-abab04f45250"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1319,10 +1317,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": true,
+      "ok": false,
       "jobCount": 9,
-      "error": null,
-      "stale": false
+      "error": "HTTP 403 Forbidden",
+      "stale": true
     },
     {
       "name": "Dolls Kill",
