@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-08-12T16:20:20.349Z",
+  "generatedAt": "2026-08-12T16:30:21.619Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R239940"
+    "Capital One:R244394",
+    "perplexity:6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+    "vanta:7600575b-fb06-485e-bc13-626e661a34aa",
+    "vanta:1989a49f-227e-4928-b068-8ff24af88541"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 17,
     "new-grad": 9,
-    "experienced": 1943
+    "experienced": 1946
   },
   "companies": [
     {
@@ -760,7 +763,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 160,
+      "jobCount": 161,
       "error": null,
       "stale": false
     },
@@ -3210,7 +3213,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 178,
+      "jobCount": 177,
       "error": null,
       "stale": false
     },
@@ -3441,7 +3444,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4420,10 +4423,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 110,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5002,7 +5005,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5344,6 +5347,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R244394",
+      "title": "Senior Associate, Data Scientist - People Strategy & Analytics",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---People-Strategy---Analytics_R244394-1",
+      "postedAt": "2026-08-12T16:30:23.992Z",
+      "key": "Capital One:R244394",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T16:30:21.619Z"
+    },
+    {
+      "id": "6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+      "title": "Member of Technical Staff (Software Engineer, Multimodal)",
+      "location": "San Francisco",
+      "team": "AI Products",
+      "url": "https://jobs.ashbyhq.com/perplexity/6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+      "postedAt": "2026-08-12T16:30:12.158Z",
+      "key": "perplexity:6e328b72-9f57-49e0-a1a8-4428abf8ff81",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T16:30:21.619Z"
+    },
+    {
+      "id": "7600575b-fb06-485e-bc13-626e661a34aa",
+      "title": "Senior Data Engineer",
+      "location": "Remote U.S.",
+      "team": "Product Analytics",
+      "url": "https://jobs.ashbyhq.com/vanta/7600575b-fb06-485e-bc13-626e661a34aa",
+      "postedAt": "2026-08-12T16:26:46.358Z",
+      "key": "vanta:7600575b-fb06-485e-bc13-626e661a34aa",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T16:30:21.619Z"
+    },
+    {
+      "id": "1989a49f-227e-4928-b068-8ff24af88541",
+      "title": "Senior Analytics Engineer",
+      "location": "Remote U.S.",
+      "team": "Product Analytics",
+      "url": "https://jobs.ashbyhq.com/vanta/1989a49f-227e-4928-b068-8ff24af88541",
+      "postedAt": "2026-08-12T16:26:37.793Z",
+      "key": "vanta:1989a49f-227e-4928-b068-8ff24af88541",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T16:30:21.619Z"
+    },
     {
       "id": "R239940",
       "title": "Lead Software Engineer, Back End",
@@ -11809,23 +11876,6 @@
         "us"
       ],
       "firstSeen": "2026-08-06T00:14:37.897Z"
-    },
-    {
-      "id": "JR2020765",
-      "title": "Senior Perception Engineer - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Machine-Learning-Engineer_JR2020765",
-      "postedAt": "2026-08-06T00:30:24.190Z",
-      "key": "Nvidia:JR2020765",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T23:34:04.113Z",
-      "seeded": true
     },
     {
       "id": "JR2010334",
@@ -18710,13 +18760,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -18726,13 +18776,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
