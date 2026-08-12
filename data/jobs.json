@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-12T21:10:21.227Z",
+  "generatedAt": "2026-08-12T21:20:18.608Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R249134",
+    "Capital One:R249133"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1960
+    "experienced": 1962
   },
   "companies": [
     {
@@ -758,7 +761,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 162,
+      "jobCount": 164,
       "error": null,
       "stale": false
     },
@@ -4418,10 +4421,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 111,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5342,6 +5345,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R249134",
+      "title": "Lead Software Engineer (Java, Golang, Python, AWS)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Software-Engineer--Java--Golang--Python--AWS-_R249134-1",
+      "postedAt": "2026-08-12T21:20:21.571Z",
+      "key": "Capital One:R249134",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T21:20:18.608Z"
+    },
+    {
+      "id": "R249133",
+      "title": "Senior Manager, Software Engineering (Java, Golang, AWS)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Manager--Software-Engineering--Java--Golang--AWS-_R249133-1",
+      "postedAt": "2026-08-12T21:20:21.571Z",
+      "key": "Capital One:R249133",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T21:20:18.608Z"
+    },
     {
       "id": "JR2016493",
       "title": "Senior Cybersecurity Engineer – Identity Platform and Access Management",
@@ -8237,22 +8272,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -8265,6 +8284,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -28742,23 +28777,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -28771,6 +28789,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
