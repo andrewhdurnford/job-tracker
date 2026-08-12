@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-12T20:20:29.258Z",
+  "generatedAt": "2026-08-12T20:30:21.616Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "epicgames:6142411004"
+    "anthropic:5302966008",
+    "Capital One:R249044",
+    "roblox:8103714"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1962
+    "experienced": 1963
   },
   "companies": [
     {
@@ -284,7 +286,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -760,7 +762,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 161,
+      "jobCount": 162,
       "error": null,
       "stale": false
     },
@@ -1369,7 +1371,7 @@
     {
       "name": "Dropbox",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3987,7 +3989,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -5288,10 +5290,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zerocater",
@@ -5344,6 +5346,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R249044",
+      "title": "Lead Data Engineer",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Data-Engineer_R249044-1",
+      "postedAt": "2026-08-12T20:30:24.936Z",
+      "key": "Capital One:R249044",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T20:30:21.616Z"
+    },
+    {
+      "id": "8103714",
+      "title": "Senior Machine Learning Engineering Manager, Text Safety",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8103714?gh_jid=8103714",
+      "postedAt": "2026-08-12T20:21:18.000Z",
+      "key": "roblox:8103714",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T20:30:21.616Z"
+    },
+    {
+      "id": "5302966008",
+      "title": "Forward Deployed Engineer",
+      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5302966008",
+      "postedAt": "2026-08-12T20:21:16.000Z",
+      "key": "anthropic:5302966008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T20:30:21.616Z"
+    },
     {
       "id": "6142411004",
       "title": "Machine Learning Programmer, Memory",
@@ -6101,7 +6151,7 @@
       "id": "aa9dac2f-ad93-4aa8-ab07-851685725806",
       "title": "Senior Software Engineer, Sandboxes (EU or East Coast Preferred)",
       "location": "England (+5 more)",
-      "team": "ENG-Dash Runtime",
+      "team": "ENG-Engine",
       "url": "https://jobs.ashbyhq.com/docker/aa9dac2f-ad93-4aa8-ab07-851685725806",
       "postedAt": "2026-08-12T15:44:37.684Z",
       "key": "docker:aa9dac2f-ad93-4aa8-ab07-851685725806",
@@ -8531,7 +8581,7 @@
       "id": "8faa282d-9783-4957-bace-ab29abd9e470",
       "title": "Senior Software Engineer, Docker Desktop, Desktop Systems Focus (East Coast)",
       "location": "United States",
-      "team": "ENG-DD & Core DX",
+      "team": "ENG-Docker Desktop",
       "url": "https://jobs.ashbyhq.com/docker/8faa282d-9783-4957-bace-ab29abd9e470",
       "postedAt": "2026-08-10T19:32:39.432Z",
       "key": "docker:8faa282d-9783-4957-bace-ab29abd9e470",
@@ -27151,40 +27201,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "8074704",
-      "title": "Senior Fullstack Product Software Engineer, Web Experience",
-      "location": "Remote - US: Select locations",
-      "team": null,
-      "url": "https://jobs.dropbox.com/listing/8074704?gh_jid=8074704",
-      "postedAt": "2026-07-23T19:37:40.000Z",
-      "key": "dropbox:8074704",
-      "company": "Dropbox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8074707",
-      "title": "Senior Fullstack Product Software Engineer, Web Experience",
-      "location": "Remote - Canada: Select locations",
-      "team": null,
-      "url": "https://jobs.dropbox.com/listing/8074707?gh_jid=8074707",
-      "postedAt": "2026-07-23T19:37:37.000Z",
-      "key": "dropbox:8074707",
-      "company": "Dropbox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
     },
     {
       "id": "8070888",
