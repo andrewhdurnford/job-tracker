@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-08-12T15:40:21.850Z",
+  "generatedAt": "2026-08-12T15:50:21.965Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "reddit:8120496"
+    "docker:aa9dac2f-ad93-4aa8-ab07-851685725806",
+    "mongodb:8108725",
+    "mongodb:8089124",
+    "newrelic:5387144008"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 17,
     "new-grad": 9,
-    "experienced": 1936
+    "experienced": 1938
   },
   "companies": [
     {
@@ -1313,7 +1316,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2944,7 +2947,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -3119,7 +3122,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4420,10 +4423,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 111,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 109,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5344,6 +5347,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "aa9dac2f-ad93-4aa8-ab07-851685725806",
+      "title": "Senior Software Engineer, Sandboxes (EU or East Coast Preferred)",
+      "location": "England (+5 more)",
+      "team": "ENG-Dash Runtime",
+      "url": "https://jobs.ashbyhq.com/docker/aa9dac2f-ad93-4aa8-ab07-851685725806",
+      "postedAt": "2026-08-12T15:44:37.684Z",
+      "key": "docker:aa9dac2f-ad93-4aa8-ab07-851685725806",
+      "company": "Docker",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T15:50:21.965Z"
+    },
+    {
+      "id": "5387144008",
+      "title": "Software Engineer - Query Language",
+      "location": "Portland, Oregon, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5387144008",
+      "postedAt": "2026-08-12T15:41:36.000Z",
+      "key": "newrelic:5387144008",
+      "company": "New Relic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T15:50:21.965Z"
+    },
     {
       "id": "8120496",
       "title": "Senior Data Scientist",
@@ -13122,6 +13157,22 @@
       "firstSeen": "2026-08-05T17:12:16.397Z"
     },
     {
+      "id": "8108725",
+      "title": "Software Engineer 3",
+      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8108725",
+      "postedAt": "2026-08-05T14:12:47.000Z",
+      "key": "mongodb:8108725",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-12T15:50:21.965Z"
+    },
+    {
       "id": "6118319004",
       "title": "Senior Software Engineer (Hybrid, San Francisco)",
       "location": "Hybrid, San Francisco",
@@ -17719,6 +17770,22 @@
       "firstSeen": "2026-07-31T20:33:52.526Z"
     },
     {
+      "id": "8089124",
+      "title": "Software Engineer 3",
+      "location": "United States",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8089124",
+      "postedAt": "2026-07-31T18:48:17.000Z",
+      "key": "mongodb:8089124",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T15:50:21.965Z"
+    },
+    {
       "id": "6ff48096-d1bd-48cb-8100-4ebe078719f6",
       "title": "Senior Software Engineer (Backend, Core)",
       "location": "Boston, MA",
@@ -18518,13 +18585,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -18534,13 +18601,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37623,40 +37690,6 @@
       "term": null,
       "regions": [
         "remote"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8631298002",
-      "title": "Wi-Fi Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8631298002?gh_jid=8631298002",
-      "postedAt": "2026-07-13T15:40:10.000Z",
-      "key": "spacex:8631298002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8631293002",
-      "title": "Sr. Wi-Fi Software Engineer (Starlink) ",
-      "location": "Palo Alto, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8631293002?gh_jid=8631293002",
-      "postedAt": "2026-07-13T15:37:22.000Z",
-      "key": "spacex:8631293002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
