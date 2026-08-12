@@ -1,15 +1,11 @@
 {
-  "generatedAt": "2026-08-12T22:20:18.529Z",
+  "generatedAt": "2026-08-12T22:30:20.776Z",
   "bootstrap": false,
-  "lastRunNewCount": 7,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "gridware:2e8e63d4-bf3d-44a1-b4cc-a50c65459409",
-    "launchdarkly:7861151003",
-    "launchdarkly:7860525003",
-    "launchdarkly:7861200003",
-    "launchdarkly:7860487003",
-    "newrelic:5387907008",
-    "reddit:8126946"
+    "anthropic:5388612008",
+    "nubank:f760df5f-3ee5-4729-bc75-1bc243294313",
+    "perplexity:78675022-c4a7-41d2-9259-7c59be4de93c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -18,7 +14,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1966
+    "experienced": 1969
   },
   "companies": [
     {
@@ -290,7 +286,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -3195,7 +3191,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -3447,7 +3443,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5351,6 +5347,38 @@
   ],
   "jobs": [
     {
+      "id": "5388612008",
+      "title": "Software Engineer, Infrastructure, Interpretability",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388612008",
+      "postedAt": "2026-08-12T22:29:15.000Z",
+      "key": "anthropic:5388612008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T22:30:20.776Z"
+    },
+    {
+      "id": "f760df5f-3ee5-4729-bc75-1bc243294313",
+      "title": "Senior Systems Engineer - Computing Squad - CA - 2026",
+      "location": "Toronto",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/f760df5f-3ee5-4729-bc75-1bc243294313",
+      "postedAt": "2026-08-12T22:26:19.596Z",
+      "key": "nubank:f760df5f-3ee5-4729-bc75-1bc243294313",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-12T22:30:20.776Z"
+    },
+    {
       "id": "8126946",
       "title": "Senior Data Scientist - Consumer",
       "location": "Remote - United States",
@@ -6825,6 +6853,22 @@
         "us"
       ],
       "firstSeen": "2026-08-11T23:40:26.194Z"
+    },
+    {
+      "id": "78675022-c4a7-41d2-9259-7c59be4de93c",
+      "title": "Member of Technical Staff (Software Engineer, Design System)",
+      "location": "San Francisco (+2 more)",
+      "team": "AI Products",
+      "url": "https://jobs.ashbyhq.com/perplexity/78675022-c4a7-41d2-9259-7c59be4de93c",
+      "postedAt": "2026-08-11T23:23:02.484Z",
+      "key": "perplexity:78675022-c4a7-41d2-9259-7c59be4de93c",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T22:30:20.776Z"
     },
     {
       "id": "f3d96335-cfb0-4bc5-9109-5925516da5d1",
@@ -8437,22 +8481,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -8465,6 +8493,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -19548,13 +19592,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -19564,13 +19608,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -20366,7 +20410,7 @@
     },
     {
       "id": "9a93ec72-d396-4971-8d4c-222094f9c5a3",
-      "title": "Software Engineer, Handshake AI ",
+      "title": "Software Engineer I, Handshake AI ",
       "location": "San Francisco, CA",
       "team": "HAI Engineering",
       "url": "https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3",
@@ -28958,23 +29002,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -28987,6 +29014,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -32882,13 +32926,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -32899,13 +32943,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
