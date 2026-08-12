@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-08-12T16:15:31.847Z",
+  "generatedAt": "2026-08-12T16:20:20.349Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R248938",
-    "roblox:8097701"
+    "Capital One:R239940"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 17,
     "new-grad": 9,
-    "experienced": 1942
+    "experienced": 1943
   },
   "companies": [
     {
@@ -761,7 +760,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 159,
+      "jobCount": 160,
       "error": null,
       "stale": false
     },
@@ -4421,10 +4420,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 110,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5345,6 +5344,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R239940",
+      "title": "Lead Software Engineer, Back End",
+      "location": "San Francisco,  CA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Lead-Software-Engineer--Back-End_R239940-2",
+      "postedAt": "2026-08-12T16:20:27.603Z",
+      "key": "Capital One:R239940",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T16:20:20.349Z"
+    },
     {
       "id": "R248938",
       "title": "Lead Machine Learning Engineer",
