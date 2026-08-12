@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-08-12T17:40:19.592Z",
+  "generatedAt": "2026-08-12T17:50:23.131Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "boxinc:8120904",
+    "samsara:8091855",
+    "samsara:8126100",
+    "verkada:5210563007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 9,
-    "experienced": 1950
+    "experienced": 1954
   },
   "companies": [
     {
@@ -646,7 +651,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4076,7 +4081,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5049,7 +5054,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -5343,6 +5348,54 @@
   ],
   "jobs": [
     {
+      "id": "8126100",
+      "title": "Senior AI Data Engineer",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100",
+      "postedAt": "2026-08-12T17:44:31.000Z",
+      "key": "samsara:8126100",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-12T17:50:23.131Z"
+    },
+    {
+      "id": "5210563007",
+      "title": "Embedded Software Engineer - Access Control",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5210563007",
+      "postedAt": "2026-08-12T17:43:20.000Z",
+      "key": "verkada:5210563007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T17:50:23.131Z"
+    },
+    {
+      "id": "8091855",
+      "title": "Senior AI Data Engineer",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855",
+      "postedAt": "2026-08-12T17:42:39.000Z",
+      "key": "samsara:8091855",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T17:50:23.131Z"
+    },
+    {
       "id": "R170986",
       "title": "Senior Data Scientist, Firefly",
       "location": "San Jose",
@@ -5437,6 +5490,22 @@
         "canada"
       ],
       "firstSeen": "2026-08-12T17:00:27.826Z"
+    },
+    {
+      "id": "8120904",
+      "title": "Enterprise Aplication Security Engineer II",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8120904",
+      "postedAt": "2026-08-12T16:51:56.000Z",
+      "key": "boxinc:8120904",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T17:50:23.131Z"
     },
     {
       "id": "f12930d1-e9d9-4050-9252-e628913f1032",
@@ -18719,7 +18788,7 @@
     },
     {
       "id": "R246873",
-      "title": "Lead Software Engineer (Golang)",
+      "title": "Lead Software Engineer (Go, AWS)",
       "location": "McLean, VA",
       "team": null,
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Go--AWS-_R246873-1",
@@ -18915,13 +18984,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -18931,13 +19000,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -32267,13 +32336,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -32284,13 +32353,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
