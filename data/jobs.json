@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-08-12T18:40:16.433Z",
+  "generatedAt": "2026-08-12T18:50:17.592Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "cobot:c84a7997-5705-490e-9271-10b40e821b82",
-    "xai:5210564007"
+    "cribl:6133820004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 1956
+    "experienced": 1957
   },
   "companies": [
     {
@@ -1146,7 +1145,7 @@
     {
       "name": "Cribl",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4421,10 +4420,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 109,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5345,6 +5344,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6133820004",
+      "title": "Sr Software Engineer, Cribl AI",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://cribl.io/job-detail/?gh_jid=6133820004",
+      "postedAt": "2026-08-12T18:48:56.000Z",
+      "key": "cribl:6133820004",
+      "company": "Cribl",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-12T18:50:17.592Z"
+    },
     {
       "id": "5210564007",
       "title": "Analytics Engineer - X",
@@ -7806,7 +7821,7 @@
     },
     {
       "id": "654c1b07-0d92-42f5-afaf-f9d1f3d9eb8e",
-      "title": "Software Engineer - Cortex Code Agentic System",
+      "title": "Senior / Software Engineer - Cortex Code Agentic System",
       "location": "US-CA-Menlo Park",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/snowflake/654c1b07-0d92-42f5-afaf-f9d1f3d9eb8e",
