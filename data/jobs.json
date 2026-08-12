@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-12T20:10:20.954Z",
+  "generatedAt": "2026-08-12T20:20:29.258Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "webflow:8122601"
+    "epicgames:6142411004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -956,7 +956,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -1509,7 +1509,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5288,10 +5288,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -5344,6 +5344,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6142411004",
+      "title": "Machine Learning Programmer, Memory",
+      "location": "Montreal,Quebec,Canada",
+      "team": "Engineering Specialist",
+      "url": "https://epicgames.com/careers/jobs/6142411004?gh_jid=6142411004",
+      "postedAt": "2026-08-12T20:16:55.000Z",
+      "key": "epicgames:6142411004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-12T20:20:29.258Z"
+    },
     {
       "id": "8122601",
       "title": "Associate Infrastructure Engineer",
@@ -8127,22 +8143,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -8155,6 +8155,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -19238,22 +19254,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
       "location": "Starbase, TX",
@@ -19270,13 +19270,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -19293,6 +19293,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658628002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658737002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -28666,23 +28682,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -28695,6 +28694,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -38012,23 +38028,6 @@
       "postedAt": "2026-07-13T20:45:14.000Z",
       "key": "affirm:7801694003",
       "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8056660",
-      "title": "Director, Developer GTM Finance",
-      "location": "Austin, TX (+2 more)",
-      "team": "Accounting and Finance",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8056660?gh_jid=8056660",
-      "postedAt": "2026-07-13T20:11:48.000Z",
-      "key": "cloudflare:8056660",
-      "company": "Cloudflare",
       "level": "experienced",
       "term": null,
       "regions": [
