@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-13T18:30:22.453Z",
+  "generatedAt": "2026-08-13T18:40:20.233Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "spotify:c73be71c-1a63-4906-9925-95f2115d1f1d"
+    "langchain:afb91b9b-46d5-4c9d-aa84-a4f1a3f74263"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 17,
     "new-grad": 8,
-    "experienced": 1988
+    "experienced": 1985
   },
   "companies": [
     {
@@ -396,7 +396,7 @@
     {
       "name": "AssemblyAI",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1600,7 +1600,7 @@
     {
       "name": "Figma",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2496,7 +2496,7 @@
     {
       "name": "LangChain",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2901,10 +2901,10 @@
     },
     {
       "name": "Mixpanel",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Modal",
@@ -3266,7 +3266,7 @@
     {
       "name": "Omada Health",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3903,7 +3903,7 @@
     {
       "name": "Render",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5344,6 +5344,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "afb91b9b-46d5-4c9d-aa84-a4f1a3f74263",
+      "title": "Senior Frontend Engineer, AI Observability & Evals Platform ",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/langchain/afb91b9b-46d5-4c9d-aa84-a4f1a3f74263",
+      "postedAt": "2026-08-13T18:33:10.038Z",
+      "key": "langchain:afb91b9b-46d5-4c9d-aa84-a4f1a3f74263",
+      "company": "LangChain",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-13T18:40:20.233Z"
+    },
     {
       "id": "R249194",
       "title": "Director, Software Engineer",
@@ -6860,22 +6876,6 @@
       "postedAt": "2026-08-12T19:28:40.000Z",
       "key": "spacex:8701706002",
       "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T19:30:22.176Z"
-    },
-    {
-      "id": "4723627005",
-      "title": "Senior Software Engineer, UX",
-      "location": "United States ",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4723627005",
-      "postedAt": "2026-08-12T19:21:50.000Z",
-      "key": "assemblyai:4723627005",
-      "company": "AssemblyAI",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -38316,56 +38316,6 @@
       "postedAt": "2026-07-14T18:44:02.405Z",
       "key": "benchling:b1828d61-38fe-4a28-9631-add78cacc4dd",
       "company": "Benchling",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8052607",
-      "title": "Senior Software Engineer, Data Engineering",
-      "location": "Remote, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8052607",
-      "postedAt": "2026-07-14T18:39:49.000Z",
-      "key": "omadahealth:8052607",
-      "company": "Omada Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "eec2ab67-ea1c-4f1c-9119-51e1235f2593",
-      "title": "Senior Engineering Manager, Product",
-      "location": "Remote: United States",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/render/eec2ab67-ea1c-4f1c-9119-51e1235f2593",
-      "postedAt": "2026-07-14T18:35:00.213Z",
-      "key": "render:eec2ab67-ea1c-4f1c-9119-51e1235f2593",
-      "company": "Render",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "6110219004",
-      "title": "Forward Deployed Engineer ",
-      "location": "San Francisco, CA • New York, NY • United States",
-      "team": null,
-      "url": "https://boards.greenhouse.io/figma/jobs/6110219004?gh_jid=6110219004",
-      "postedAt": "2026-07-14T18:33:47.000Z",
-      "key": "figma:6110219004",
-      "company": "Figma",
       "level": "experienced",
       "term": null,
       "regions": [
