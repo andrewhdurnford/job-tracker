@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-13T19:50:18.285Z",
+  "generatedAt": "2026-08-13T20:00:26.305Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "cribl:6143413004",
-    "datadog:8128810"
+    "gitlab:8687926002",
+    "gitlab:8687910002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 18,
     "new-grad": 8,
-    "experienced": 1982
+    "experienced": 1981
   },
   "companies": [
     {
@@ -523,7 +523,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -1853,7 +1853,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3876,7 +3876,7 @@
     {
       "name": "Reflection AI",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4366,7 +4366,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4421,10 +4421,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 114,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5345,6 +5345,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8687926002",
+      "title": "Backend Engineer, Source Code Experience (Ruby)",
+      "location": "Remote, Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687926002",
+      "postedAt": "2026-08-13T19:59:22.000Z",
+      "key": "gitlab:8687926002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-13T20:00:26.305Z"
+    },
+    {
+      "id": "8687910002",
+      "title": "Senior Backend Engineer, Create: Source Code Experience (Ruby)",
+      "location": "Remote, Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687910002",
+      "postedAt": "2026-08-13T19:50:29.000Z",
+      "key": "gitlab:8687910002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-13T20:00:26.305Z"
+    },
     {
       "id": "6143413004",
       "title": "Software Engineer, Core Platform",
@@ -9324,22 +9356,6 @@
         "us"
       ],
       "firstSeen": "2026-08-11T14:40:19.385Z"
-    },
-    {
-      "id": "a9b4dab9-0b27-47b0-b0fb-2d83c5742717",
-      "title": "Staff/Principal  AI  Software Engineer - Snowflake CoWork",
-      "location": "US-CA-Menlo Park",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/a9b4dab9-0b27-47b0-b0fb-2d83c5742717",
-      "postedAt": "2026-08-11T14:23:42.541Z",
-      "key": "snowflake:a9b4dab9-0b27-47b0-b0fb-2d83c5742717",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T14:30:32.354Z"
     },
     {
       "id": "R165421",
@@ -22248,23 +22264,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -22277,6 +22276,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -30089,23 +30105,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -30118,6 +30117,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -33920,23 +33936,6 @@
       "postedAt": "2026-07-20T17:00:42.000Z",
       "key": "robinhood:8072766",
       "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "7017bd54-cf7e-45cc-a6ee-580701f2b7fc",
-      "title": "Engineering Leader, Infrastructure",
-      "location": "San Francisco, CA",
-      "team": "Engineering: PAI",
-      "url": "https://jobs.ashbyhq.com/benchling/7017bd54-cf7e-45cc-a6ee-580701f2b7fc",
-      "postedAt": "2026-07-20T16:57:22.188Z",
-      "key": "benchling:7017bd54-cf7e-45cc-a6ee-580701f2b7fc",
-      "company": "Benchling",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -38270,22 +38269,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "a4557506-cc62-4efc-b051-c393067c2740",
-      "title": "Manager of Technology & Security Engineering ",
-      "location": "New York, NY (+1 more)",
-      "team": "Operations",
-      "url": "https://jobs.ashbyhq.com/reflectionai/a4557506-cc62-4efc-b051-c393067c2740",
-      "postedAt": "2026-07-14T19:56:54.541Z",
-      "key": "reflectionai:a4557506-cc62-4efc-b051-c393067c2740",
-      "company": "Reflection AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
     },
     {
       "id": "R246882",
