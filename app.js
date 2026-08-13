@@ -20,10 +20,10 @@ const el = {
 let feed = null;
 let hasTerms = false;
 
-init();
-
 const DATA_URL =
   "https://raw.githubusercontent.com/andrewhdurnford/job-tracker/main/data/jobs.json";
+
+init();
 
 async function init() {
   try {
