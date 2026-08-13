@@ -22,10 +22,14 @@ let hasTerms = false;
 
 init();
 
+const DATA_URL =
+  "https://raw.githubusercontent.com/andrewhdurnford/job-tracker/main/data/jobs.json";
+
 async function init() {
   try {
-    // Cache-bust: GitHub Pages serves jobs.json with a long-ish cache header.
-    const res = await fetch(`data/jobs.json?t=${Date.now()}`);
+    // Fetched straight from GitHub instead of same-origin so poll commits
+    // don't force a Vercel redeploy every 10 minutes.
+    const res = await fetch(`${DATA_URL}?t=${Date.now()}`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     feed = await res.json();
   } catch (err) {
