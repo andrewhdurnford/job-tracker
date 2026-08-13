@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-13T17:20:19.591Z",
+  "generatedAt": "2026-08-13T17:30:28.759Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "snowflake:5d522a45-5aa4-440d-a5dc-7a4434d8038e"
+    "clickup:ffb3db62-0f3f-4eea-aca9-9c004fa28285",
+    "northwoodspace:5410d776-cb11-482e-b48a-9c4ba210454e",
+    "stripe:8128496"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 17,
     "new-grad": 8,
-    "experienced": 1978
+    "experienced": 1980
   },
   "companies": [
     {
@@ -935,7 +937,7 @@
     {
       "name": "ClickUp",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3119,7 +3121,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3147,7 +3149,7 @@
     {
       "name": "Northwood Space",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4519,7 +4521,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5344,6 +5346,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8128496",
+      "title": "Engineering Manager, Infrastructure",
+      "location": "Seattle, San Francisco, New York City",
+      "team": "8125 Core Compute",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128496",
+      "postedAt": "2026-08-13T17:29:57.000Z",
+      "key": "stripe:8128496",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-13T17:30:28.759Z"
+    },
+    {
+      "id": "5410d776-cb11-482e-b48a-9c4ba210454e",
+      "title": "Senior Infrastructure Engineer",
+      "location": "Torrance, CA (+1 more)",
+      "team": "Infrastructure",
+      "url": "https://jobs.ashbyhq.com/northwoodspace/5410d776-cb11-482e-b48a-9c4ba210454e",
+      "postedAt": "2026-08-13T17:29:53.643Z",
+      "key": "northwoodspace:5410d776-cb11-482e-b48a-9c4ba210454e",
+      "company": "Northwood Space",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-13T17:30:28.759Z"
+    },
+    {
+      "id": "ffb3db62-0f3f-4eea-aca9-9c004fa28285",
+      "title": "Senior Manager, Engineering - Identity & Access Management ",
+      "location": "United States",
+      "team": "Eng",
+      "url": "https://jobs.ashbyhq.com/clickup/ffb3db62-0f3f-4eea-aca9-9c004fa28285",
+      "postedAt": "2026-08-13T17:23:22.999Z",
+      "key": "clickup:ffb3db62-0f3f-4eea-aca9-9c004fa28285",
+      "company": "ClickUp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-13T17:30:28.759Z"
+    },
     {
       "id": "5d522a45-5aa4-440d-a5dc-7a4434d8038e",
       "title": "Fullstack Software Engineer",
@@ -6255,22 +6305,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-08-12T22:20:18.529Z"
-    },
-    {
-      "id": "5387907008",
-      "title": "Senior Software Engineer ",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5387907008",
-      "postedAt": "2026-08-12T22:11:31.000Z",
-      "key": "newrelic:5387907008",
-      "company": "New Relic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-08-12T22:20:18.529Z"
     },
@@ -9265,22 +9299,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -9293,6 +9311,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -20344,22 +20378,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
       "location": "McGregor, TX",
@@ -20376,13 +20394,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -20399,6 +20417,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658628002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658737002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -21879,23 +21913,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -21908,6 +21925,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -33627,13 +33661,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -33644,13 +33678,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -34184,7 +34218,7 @@
     },
     {
       "id": "8606606002",
-      "title": "Senior Engineering Manager, Data",
+      "title": "Engineering Manager, Data",
       "location": "San Francisco, CA, USA",
       "team": null,
       "url": "https://boards.greenhouse.io/chime/jobs/8606606002?gh_jid=8606606002",
