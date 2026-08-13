@@ -60,10 +60,6 @@ h1 {
   font-size: 13px;
 }
 
-.status strong {
-  color: var(--new-fg);
-}
-
 .filters {
   display: flex;
   flex-wrap: wrap;
@@ -93,6 +89,112 @@ h1 {
 .filters input[type="search"] {
   flex: 1 1 180px;
   min-width: 0;
+}
+
+.filters input[type="search"]::-webkit-search-cancel-button {
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  margin-left: 6px;
+  cursor: pointer;
+  background: currentColor;
+  color: var(--muted);
+  mask: center / contain no-repeat
+    url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round'><path d='M5 5l14 14M19 5L5 19'/></svg>");
+  -webkit-mask: center / contain no-repeat
+    url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.5' stroke-linecap='round'><path d='M5 5l14 14M19 5L5 19'/></svg>");
+}
+
+.filters input[type="search"]::-webkit-search-cancel-button:hover {
+  color: var(--fg);
+}
+
+.dselect-native {
+  display: none;
+}
+
+.dselect {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.dselect-trigger {
+  padding: 6px 20px 6px 2px;
+  border: none;
+  border-bottom: 1px solid var(--line);
+  border-radius: 0;
+  background: transparent;
+  color: var(--fg);
+  font: inherit;
+  font-size: 14px;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: border-color 0.2s;
+  position: relative;
+}
+
+.dselect-trigger::after {
+  content: "";
+  position: absolute;
+  right: 4px;
+  top: 50%;
+  width: 7px;
+  height: 7px;
+  border-right: 1.5px solid var(--muted);
+  border-bottom: 1.5px solid var(--muted);
+  transform: translateY(-70%) rotate(45deg);
+  transition: transform 0.2s;
+}
+
+.dselect.open .dselect-trigger::after {
+  transform: translateY(-30%) rotate(-135deg);
+}
+
+.dselect-trigger:focus-visible,
+.dselect.open .dselect-trigger {
+  outline: none;
+  border-color: var(--accent);
+}
+
+.dselect-menu {
+  display: none;
+  position: absolute;
+  z-index: 20;
+  top: calc(100% + 6px);
+  right: 0;
+  min-width: 100%;
+  max-height: 280px;
+  margin: 0;
+  padding: 4px;
+  overflow-y: auto;
+  list-style: none;
+  background: #04222c;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgb(0 0 0 / 0.35);
+}
+
+.dselect.open .dselect-menu {
+  display: block;
+}
+
+.dselect-option {
+  padding: 6px 10px;
+  border-radius: 5px;
+  color: var(--soft);
+  font-size: 14px;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.dselect-option:hover {
+  background: var(--card-hover);
+  color: var(--fg);
+}
+
+.dselect-option.selected {
+  color: var(--accent);
 }
 
 .count {

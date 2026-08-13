@@ -2,6 +2,7 @@
 // same code that classified the jobs — no duplicated labels or key formats.
 import { LEVEL_LABELS } from "./src/classify.js";
 import { termKeys, termKeyLabel, compareTermKeys } from "./src/term.js";
+import { enhanceSelect } from "./src/dropdown.js";
 
 const LEVEL_PREF_KEY = "job-tracker:level";
 const TERM_PREF_KEY = "job-tracker:term";
@@ -16,6 +17,9 @@ const el = {
   count: document.getElementById("count"),
   jobs: document.getElementById("jobs"),
 };
+
+const levelUI = enhanceSelect(el.level);
+const termUI = enhanceSelect(el.term);
 
 let feed = null;
 let hasTerms = false;
@@ -39,9 +43,12 @@ async function init() {
 
   renderHeader();
   labelLevels();
+  levelUI.sync();
   populateTerms();
   el.level.value = savedLevel() ?? feed.defaultLevel ?? "";
+  levelUI.sync();
   updateTermVisibility();
+  termUI.sync();
   el.filters.hidden = false;
 
   el.q.addEventListener("input", render);
@@ -51,6 +58,7 @@ async function init() {
   el.level.addEventListener("change", () => {
     remember(LEVEL_PREF_KEY, el.level.value);
     updateTermVisibility();
+    termUI.sync();
     render();
   });
   el.term.addEventListener("change", () => {
@@ -150,8 +158,8 @@ function renderHeader() {
   const checked = relativeTime(feed.generatedAt);
   const n = feed.lastRunNewCount ?? 0;
   el.status.innerHTML =
-    `Last checked ${checked} · ${feed.jobs.length} open roles · ` +
-    (n > 0 ? `<strong>${n} new this poll</strong>` : "no new roles this poll");
+    `Last checked ${checked} · ${feed.jobs.length} open roles this month · ` +
+    (n > 0 ? `<strong>${n} new</strong>` : "no new roles");
 }
 
 function render() {
@@ -239,14 +247,14 @@ function textNode(tag, className, text) {
 }
 
 function relativeTime(iso) {
-  const ms = Date.now() - Date.parse(iso);
-  if (!Number.isFinite(ms)) return "unknown";
-  const mins = Math.round(ms / 60000);
-  if (mins < 1) return "just now";
-  if (mins < 60) return `${mins}m ago`;
-  const hours = Math.round(mins / 60);
-  if (hours < 24) return `${hours}h ago`;
-  return `${Math.round(hours / 24)}d ago`;
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return "unknown";
+  return new Intl.DateTimeFormat("en-US", {
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+    timeZoneName: "short",
+  }).format(date);
 }
 
 function shortTime(iso) {
