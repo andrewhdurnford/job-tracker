@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-08-13T19:00:29.877Z",
+  "generatedAt": "2026-08-13T19:10:18.841Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R241175"
+    "luminai:427771ba-657e-4afa-b069-1b3cdd552482",
+    "natera:5986862004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 17,
+    "intern": 18,
     "new-grad": 8,
-    "experienced": 1984
+    "experienced": 1983
   },
   "companies": [
     {
@@ -221,7 +222,7 @@
     {
       "name": "Amplitude",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2643,7 +2644,7 @@
     {
       "name": "Luminai",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3049,7 +3050,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4365,7 +4366,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -5344,6 +5345,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5986862004",
+      "title": "Research Intern",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/5986862004",
+      "postedAt": "2026-08-13T19:03:54.000Z",
+      "key": "natera:5986862004",
+      "company": "Natera",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-13T19:10:18.841Z"
+    },
     {
       "id": "R241175",
       "title": "Lead Software Engineer, Full Stack",
@@ -9275,6 +9292,22 @@
         "us"
       ],
       "firstSeen": "2026-08-11T13:50:25.896Z"
+    },
+    {
+      "id": "427771ba-657e-4afa-b069-1b3cdd552482",
+      "title": "Forward Deployed Engineer, Team Lead",
+      "location": "SF Bay Area",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/luminai/427771ba-657e-4afa-b069-1b3cdd552482",
+      "postedAt": "2026-08-11T13:29:18.901Z",
+      "key": "luminai:427771ba-657e-4afa-b069-1b3cdd552482",
+      "company": "Luminai",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-13T19:10:18.841Z"
     },
     {
       "id": "ea8efc33-c7b8-4b88-826c-3dca17c3aa47",
@@ -20664,13 +20697,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -20680,13 +20713,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -22167,23 +22200,6 @@
       "seeded": true
     },
     {
-      "id": "7819656003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819656003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819654003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote US",
@@ -22196,6 +22212,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819656003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819656003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -30008,23 +30041,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -30037,6 +30053,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -33915,13 +33948,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -33932,13 +33965,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -38264,40 +38297,6 @@
       "postedAt": "2026-07-14T19:16:22.000Z",
       "key": "anthropic:5310731008",
       "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "9792736b-382f-4c2d-90eb-f53134ea5d37",
-      "title": "Senior Software Engineer, Snowpark Container Service",
-      "location": "US-WA-Bellevue (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/9792736b-382f-4c2d-90eb-f53134ea5d37",
-      "postedAt": "2026-07-14T19:04:53.680Z",
-      "key": "snowflake:9792736b-382f-4c2d-90eb-f53134ea5d37",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8633416002",
-      "title": "Senior Platform Engineer ",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8633416002",
-      "postedAt": "2026-07-14T19:01:04.000Z",
-      "key": "amplitude:8633416002",
-      "company": "Amplitude",
       "level": "experienced",
       "term": null,
       "regions": [
