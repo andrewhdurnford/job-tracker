@@ -3,40 +3,22 @@
 import { LEVEL_LABELS } from "./src/classify.js";
 import { termKeys, termKeyLabel, compareTermKeys } from "./src/term.js";
 
-const DAY_MS = 24 * 60 * 60 * 1000;
-
 const LEVEL_PREF_KEY = "job-tracker:level";
 const TERM_PREF_KEY = "job-tracker:term";
-const REGION_PREF_KEY = "job-tracker:region";
 const NO_TERM = "__none__";
-
-// The poller already dropped everything outside these three, so this is only
-// about how much of what remains you want to see.
-const REGION_SETS = {
-  "us-remote": ["us", "remote"],
-  all: ["us", "canada", "remote"],
-  "canada-remote": ["canada", "remote"],
-  remote: ["remote"],
-};
 
 const el = {
   status: document.getElementById("status"),
   filters: document.getElementById("filters"),
   q: document.getElementById("q"),
   level: document.getElementById("level"),
-  region: document.getElementById("region"),
   term: document.getElementById("term"),
-  company: document.getElementById("company"),
-  location: document.getElementById("location"),
-  recent: document.getElementById("recent"),
-  reset: document.getElementById("reset"),
   count: document.getElementById("count"),
   jobs: document.getElementById("jobs"),
-  footer: document.getElementById("companies-footer"),
 };
 
 let feed = null;
-let newKeys = new Set();
+let hasTerms = false;
 
 init();
 
@@ -51,47 +33,24 @@ async function init() {
     return;
   }
 
-  newKeys = new Set(feed.newKeys ?? []);
   renderHeader();
-  populateCompanies();
   labelLevels();
-  labelRegions();
   populateTerms();
   el.level.value = savedLevel() ?? feed.defaultLevel ?? "";
-  el.region.value =
-    read(REGION_PREF_KEY) ?? (feed.defaultRegion in REGION_SETS ? feed.defaultRegion : "us-remote");
+  updateTermVisibility();
   el.filters.hidden = false;
 
-  for (const node of [el.q, el.location]) node.addEventListener("input", render);
-  el.company.addEventListener("change", render);
-  el.recent.addEventListener("change", render);
+  el.q.addEventListener("input", render);
   el.jobs.addEventListener("scroll", updateScrollFade);
   window.addEventListener("resize", updateScrollFade);
   // Sticky: "I only care about summer 2027 internships" survives a reload.
   el.level.addEventListener("change", () => {
     remember(LEVEL_PREF_KEY, el.level.value);
+    updateTermVisibility();
     render();
   });
   el.term.addEventListener("change", () => {
     remember(TERM_PREF_KEY, el.term.value);
-    render();
-  });
-  el.region.addEventListener("change", () => {
-    remember(REGION_PREF_KEY, el.region.value);
-    render();
-  });
-  el.reset.addEventListener("click", () => {
-    el.q.value = "";
-    el.location.value = "";
-    el.company.value = "";
-    el.recent.checked = false;
-    el.level.value = feed.defaultLevel ?? "";
-    el.term.value = validTermValue(feed.defaultTerm);
-    el.region.value =
-      feed.defaultRegion in REGION_SETS ? feed.defaultRegion : "us-remote";
-    forget(LEVEL_PREF_KEY);
-    forget(TERM_PREF_KEY);
-    forget(REGION_PREF_KEY);
     render();
   });
 
@@ -143,9 +102,9 @@ function populateTerms() {
   }
 
   // Nothing parsed a term: the only choice would be "no term listed", which
-  // filters nothing useful. Hide the control rather than show a dead one.
-  if (counts.size === 0) {
-    el.term.hidden = true;
+  // filters nothing useful. Leave the control hidden rather than show a dead one.
+  hasTerms = counts.size > 0;
+  if (!hasTerms) {
     el.term.value = "";
     return;
   }
@@ -157,8 +116,13 @@ function populateTerms() {
     el.term.append(new Option(`No term listed (${untermed})`, NO_TERM));
   }
 
-  el.term.hidden = false;
   el.term.value = validTermValue(read(TERM_PREF_KEY) ?? feed.defaultTerm);
+}
+
+// Terms only exist on intern/new-grad postings, and the control was asked to
+// only ever show up for the intern filter specifically.
+function updateTermVisibility() {
+  el.term.hidden = !hasTerms || el.level.value !== "intern";
 }
 
 // A stored or configured term may not exist in today's data (last year's
@@ -166,16 +130,6 @@ function populateTerms() {
 function validTermValue(value) {
   if (!value) return "";
   return [...el.term.options].some((o) => o.value === value) ? value : "";
-}
-
-function labelRegions() {
-  for (const option of el.region.options) {
-    const allowed = REGION_SETS[option.value] ?? [];
-    const n = feed.jobs.filter((j) =>
-      (j.regions ?? []).some((r) => allowed.includes(r)),
-    ).length;
-    option.textContent = `${option.textContent} (${n})`;
-  }
 }
 
 // Put counts on the options so it is obvious when a filter would empty the page.
@@ -194,46 +148,24 @@ function renderHeader() {
   el.status.innerHTML =
     `Last checked ${checked} · ${feed.jobs.length} open roles · ` +
     (n > 0 ? `<strong>${n} new this poll</strong>` : "no new roles this poll");
-
-  const total = feed.companies?.length ?? 0;
-  const ok = (feed.companies ?? []).filter((c) => c.ok).length;
-  const window = feed.maxAgeDays ? ` Showing roles posted in the last ${feed.maxAgeDays} days, US/Canada/remote only.` : "";
-  el.footer.textContent = `Tracking ${total} compan${total === 1 ? "y" : "ies"} (${ok} healthy). Data refreshes every ~10 minutes.${window}`;
-}
-
-function populateCompanies() {
-  const names = [...new Set(feed.jobs.map((j) => j.company))].sort();
-  for (const name of names) {
-    const opt = document.createElement("option");
-    opt.value = name;
-    opt.textContent = name;
-    el.company.append(opt);
-  }
 }
 
 function render() {
   const q = el.q.value.trim().toLowerCase();
-  const loc = el.location.value.trim().toLowerCase();
-  const company = el.company.value;
 
   const level = el.level.value;
   const term = el.term.hidden ? "" : el.term.value;
-  const allowedRegions = REGION_SETS[el.region.value] ?? REGION_SETS["us-remote"];
 
   const visible = feed.jobs.filter((job) => {
-    if (!(job.regions ?? []).some((r) => allowedRegions.includes(r))) return false;
     if (level && job.level !== level) return false;
     if (term === NO_TERM && (job.level === "experienced" || job.term)) return false;
     if (term && term !== NO_TERM && !termKeys(job.term).includes(term)) return false;
-    if (company && job.company !== company) return false;
     if (
       q &&
       !String(job.title).toLowerCase().includes(q) &&
       !String(job.company ?? "").toLowerCase().includes(q)
     )
       return false;
-    if (loc && !String(job.location ?? "").toLowerCase().includes(loc)) return false;
-    if (el.recent.checked && !isFresh(job)) return false;
     return true;
   });
 
@@ -262,7 +194,6 @@ function updateScrollFade() {
 
 function renderJob(job) {
   const li = document.createElement("li");
-  const fresh = isFresh(job);
   li.className = "job";
 
   li.append(textNode("span", "company", job.company));
@@ -277,14 +208,9 @@ function renderJob(job) {
   }
   li.append(title);
 
-  if (newKeys.has(job.key) || fresh) {
-    li.append(textNode("span", "badge", "new"));
-  }
-
   if (job.level === "new-grad") {
     li.append(textNode("span", "level", LEVEL_LABELS[job.level] ?? job.level));
   }
-  if (job.term) li.append(textNode("span", "level term", job.term.label));
 
   const meta = [job.location, job.team].filter(Boolean).join(" · ");
   if (meta) li.append(textNode("span", "meta", meta));
@@ -292,19 +218,13 @@ function renderJob(job) {
   // The list is ordered by posted date, so that is what each row states.
   // firstSeen only surfaces when a board gave us no date at all.
   const when = job.postedAt
-    ? `posted ${relativeTime(job.postedAt)}`
+    ? shortTime(job.postedAt)
     : job.seeded
       ? "already listed"
-      : `found ${relativeTime(job.firstSeen)}`;
+      : shortTime(job.firstSeen);
   li.append(textNode("span", "meta", when));
 
   return li;
-}
-
-// Jobs found in the first-ever poll carry `seeded` — they exist, but they were
-// never "discovered", so they must not light up the whole board on day one.
-function isFresh(job) {
-  return !job.seeded && Date.now() - Date.parse(job.firstSeen) < DAY_MS;
 }
 
 function textNode(tag, className, text) {
@@ -323,4 +243,15 @@ function relativeTime(iso) {
   const hours = Math.round(mins / 60);
   if (hours < 24) return `${hours}h ago`;
   return `${Math.round(hours / 24)}d ago`;
+}
+
+function shortTime(iso) {
+  const ms = Date.now() - Date.parse(iso);
+  if (!Number.isFinite(ms)) return "unknown";
+  const mins = Math.round(ms / 60000);
+  if (mins < 1) return "now";
+  if (mins < 60) return `${mins}m`;
+  const hours = Math.round(mins / 60);
+  if (hours < 24) return `${hours}h`;
+  return `${Math.round(hours / 24)}d`;
 }

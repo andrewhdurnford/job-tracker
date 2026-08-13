@@ -4,12 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Job Tracker</title>
-    <link rel="preload" href="fonts/Lexend.ttf" as="font" type="font/ttf" crossorigin />
-    <link rel="preload" href="fonts/Tinos.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="fonts/Lilex.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="stylesheet" href="style.css" />
     <link
       rel="icon"
-      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📋</text></svg>"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%23001a23'/><circle cx='50' cy='50' r='24' fill='%231db954'/></svg>"
     />
   </head>
   <body>
@@ -26,28 +25,11 @@
         <option value="new-grad">New grad</option>
         <option value="experienced">Experienced</option>
       </select>
-      <select id="region">
-        <option value="us-remote">US &amp; Remote</option>
-        <option value="all">US, Canada &amp; Remote</option>
-        <option value="canada-remote">Canada &amp; Remote</option>
-        <option value="remote">Remote only</option>
-      </select>
       <select id="term" hidden><option value="">All terms</option></select>
-      <select id="company"><option value="">All companies</option></select>
-      <input id="location" type="search" placeholder="Location…" autocomplete="off" />
-      <label class="check">
-        <input id="recent" type="checkbox" />
-        New in last 24h
-      </label>
-      <button id="reset" type="button">Reset</button>
     </section>
 
     <p id="count" class="count"></p>
     <ul id="jobs" class="jobs"></ul>
-
-    <footer>
-      <span id="companies-footer"></span>
-    </footer>
 
     <script src="app.js" type="module"></script>
   </body>

@@ -2,7 +2,7 @@
 
 Polls company ATS boards (Ashby, Greenhouse, Lever, Workday, iCIMS) every ~10 minutes, diffs against the last snapshot, publishes a static site, and emails when new roles appear.
 
-Zero dependencies — Node 20+ and nothing else.
+Zero dependencies: Node 20+ and nothing else.
 
 ## Run it locally
 
@@ -22,4 +22,4 @@ Then open http://localhost:8080.
 
 ## Adding companies
 
-Edit `companies.json` — see [IMPLEMENTATION.md](IMPLEMENTATION.md) for config fields, ATS slug lookup, deploying, and testing.
+Edit `companies.json`. See [IMPLEMENTATION.md](IMPLEMENTATION.md) for config fields, ATS slug lookup, deploying, and testing.
