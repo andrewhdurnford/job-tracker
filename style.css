@@ -1,14 +1,6 @@
 @font-face {
-  font-family: "tinos";
-  src: url("fonts/Tinos.woff2") format("woff2");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "lexend";
-  src: url("fonts/Lexend.ttf") format("truetype");
+  font-family: "lilex";
+  src: url("fonts/Lilex.woff2") format("woff2-variations");
   font-weight: 100 900;
   font-style: normal;
   font-display: swap;
@@ -24,8 +16,6 @@
   --line: rgb(255 255 255 / 0.1);
   --stroke: rgb(255 255 255 / 0.2);
   --accent: #1db954;
-  --new-bg: rgb(29 185 84 / 0.08);
-  --new-line: #1db954;
   --new-fg: #1db954;
 }
 
@@ -47,20 +37,17 @@ body {
   max-width: 1200px;
   background: var(--bg);
   color: var(--fg);
-  font: 15px/1.6 "lexend", sans-serif;
-  font-weight: 300;
+  font: 15px/1.6 "lilex", ui-monospace, "SF Mono", Menlo, monospace;
 }
 
 header,
 .filters,
-.count,
-footer {
+.count {
   flex: 0 0 auto;
 }
 
 h1 {
   margin: 0 0 4px;
-  font-family: "tinos", serif;
   font-weight: 400;
   font-size: 32px;
   letter-spacing: -0.01em;
@@ -85,42 +72,27 @@ h1 {
 }
 
 .filters input[type="search"],
-.filters select,
-.filters button {
-  padding: 7px 10px;
-  border: 1px solid var(--line);
-  border-radius: 6px;
-  background: var(--card);
+.filters select {
+  padding: 6px 2px;
+  border: none;
+  border-bottom: 1px solid var(--line);
+  border-radius: 0;
+  background: transparent;
   color: var(--fg);
   font: inherit;
   font-size: 14px;
-  transition: border-color 0.2s, background 0.2s;
+  transition: border-color 0.2s;
 }
 
 .filters input[type="search"]:focus,
-.filters select:focus,
-.filters button:hover {
+.filters select:focus {
   outline: none;
-  border-color: var(--stroke);
-  background: var(--card-hover);
+  border-color: var(--accent);
 }
 
 .filters input[type="search"] {
   flex: 1 1 180px;
   min-width: 0;
-}
-
-.filters button {
-  cursor: pointer;
-}
-
-.check {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  color: var(--muted);
-  font-size: 14px;
-  white-space: nowrap;
 }
 
 .count {
@@ -178,12 +150,10 @@ h1 {
   gap: 10px;
   align-items: baseline;
   padding: 12px 14px;
-  margin-bottom: 8px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: var(--card);
+  border-bottom: 1px solid var(--line);
+  background: transparent;
   overflow: hidden;
-  transition: background 0.2s, border-color 0.2s;
+  transition: background 0.2s;
 }
 
 .job:hover {
@@ -220,18 +190,6 @@ h1 {
   font-size: 13px;
 }
 
-.badge {
-  flex: 0 0 auto;
-  padding: 1px 7px;
-  border-radius: 999px;
-  background: var(--new-line);
-  color: #001a23;
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
 .level {
   flex: 0 0 auto;
   padding: 1px 8px;
@@ -244,21 +202,8 @@ h1 {
   text-transform: uppercase;
 }
 
-.level.term {
-  border-color: var(--accent);
-  color: var(--accent);
-}
-
 .empty {
   padding: 32px 0;
   color: var(--muted);
   text-align: center;
-}
-
-footer {
-  margin-top: 28px;
-  padding-top: 14px;
-  border-top: 1px solid var(--line);
-  color: var(--muted);
-  font-size: 12px;
 }
