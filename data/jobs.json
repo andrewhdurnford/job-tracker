@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-08-14T21:20:20.396Z",
+  "generatedAt": "2026-08-14T21:30:20.223Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "stripe:8131144",
-    "whoop:7cae97f2-075f-480a-9c4a-842554a84eb8"
+    "1password:c247ea98-bf31-45f0-a38b-1fe255909538",
+    "1password:d19d8ac2-8f67-407e-ace1-7f07914e581c",
+    "airbnb:8130355",
+    "CrowdStrike:R29788",
+    "CrowdStrike:R29789"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,13 +16,13 @@
   "levelCounts": {
     "intern": 17,
     "new-grad": 15,
-    "experienced": 2065
+    "experienced": 2068
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -110,7 +113,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -1167,7 +1170,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 70,
+      "jobCount": 72,
       "error": null,
       "stale": false
     },
@@ -4156,7 +4159,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4463,10 +4466,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 122,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5094,7 +5097,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5408,6 +5411,88 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29788",
+      "title": "Sr. Engineer, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer--Cloud-Native---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29788-1",
+      "postedAt": "2026-08-14T21:30:26.003Z",
+      "key": "CrowdStrike:R29788",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T21:30:20.223Z"
+    },
+    {
+      "id": "R29789",
+      "title": "Sr. Engineer, SDET - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer--SDET---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29789",
+      "postedAt": "2026-08-14T21:30:26.003Z",
+      "key": "CrowdStrike:R29789",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T21:30:20.223Z"
+    },
+    {
+      "id": "8130355",
+      "title": "Senior Machine Learning Engineer, Trust",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8130355?gh_jid=8130355",
+      "postedAt": "2026-08-14T21:27:57.000Z",
+      "key": "airbnb:8130355",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T21:30:20.223Z"
+    },
+    {
+      "id": "c247ea98-bf31-45f0-a38b-1fe255909538",
+      "title": "Developer, Rust",
+      "location": "Remote (United States | Canada)",
+      "team": "Product Engineering",
+      "url": "https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538",
+      "postedAt": "2026-08-14T21:22:02.820Z",
+      "key": "1password:c247ea98-bf31-45f0-a38b-1fe255909538",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-14T21:30:20.223Z"
+    },
+    {
+      "id": "d19d8ac2-8f67-407e-ace1-7f07914e581c",
+      "title": "[Internal] Developer, Rust",
+      "location": "Remote (United States | Canada)",
+      "team": "Product Engineering",
+      "url": "https://jobs.ashbyhq.com/1password/d19d8ac2-8f67-407e-ace1-7f07914e581c",
+      "postedAt": "2026-08-14T21:20:52.072Z",
+      "key": "1password:d19d8ac2-8f67-407e-ace1-7f07914e581c",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-14T21:30:20.223Z"
+    },
     {
       "id": "7cae97f2-075f-480a-9c4a-842554a84eb8",
       "title": "Staff Research Scientist, Performance Science & Health Outcomes",
@@ -11673,22 +11758,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -11701,6 +11770,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -13822,22 +13907,6 @@
       "firstSeen": "2026-08-07T18:10:18.195Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -13850,6 +13919,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -25314,23 +25399,6 @@
       "seeded": true
     },
     {
-      "id": "7819656003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819656003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819654003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote US",
@@ -25343,6 +25411,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819656003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819656003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -33223,23 +33308,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -33252,6 +33320,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -34071,7 +34156,7 @@
     },
     {
       "id": "8070969",
-      "title": "Software Integration Engineer",
+      "title": "Software Integration Engineer - DoorDash Dot",
       "location": "San Francisco, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8070969",
@@ -34806,7 +34891,7 @@
     },
     {
       "id": "8077028",
-      "title": "Systems Integration Engineer",
+      "title": "Systems Integration Engineer - DoorDash Dot",
       "location": "Oakland, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8077028",
@@ -36350,7 +36435,7 @@
     },
     {
       "id": "8070723",
-      "title": "Senior Reliability Engineer, Labs",
+      "title": "Senior Reliability Engineer - DoorDash Dot",
       "location": "San Francisco, CA; Oakland, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8070723",
@@ -36937,23 +37022,6 @@
       "postedAt": "2026-07-20T17:51:39.000Z",
       "key": "affirm:7800317003",
       "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "4716453005",
-      "title": "AI Infrastructure Engineer, Sandbox Platform",
-      "location": "San Francisco, CA; Seattle, WA; New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4716453005",
-      "postedAt": "2026-07-20T17:35:24.000Z",
-      "key": "scaleai:4716453005",
-      "company": "Scale AI",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -39762,22 +39830,6 @@
       ],
       "firstSeen": "2026-08-13T21:33:23.715Z",
       "seeded": true
-    },
-    {
-      "id": "5188171007",
-      "title": "Senior Frontend Engineer - Access Control",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5188171007",
-      "postedAt": "2026-07-15T21:30:18.000Z",
-      "key": "verkada:5188171007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
