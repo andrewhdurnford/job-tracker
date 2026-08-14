@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-14T13:40:17.848Z",
+  "generatedAt": "2026-08-14T13:50:17.774Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R248912",
+    "cloudflare:8128762"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 16,
     "new-grad": 8,
-    "experienced": 2066
+    "experienced": 2068
   },
   "companies": [
     {
@@ -765,7 +768,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 159,
+      "jobCount": 160,
       "error": null,
       "stale": false
     },
@@ -961,7 +964,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -2047,7 +2050,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5405,6 +5408,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R248912",
+      "title": "Lead Software Engineer, Full Stack (Bank Tech)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Bank-Tech-_R248912-1",
+      "postedAt": "2026-08-14T13:50:20.965Z",
+      "key": "Capital One:R248912",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T13:50:17.774Z"
+    },
+    {
+      "id": "8128762",
+      "title": "Procurement Systems Developer",
+      "location": "Seattle, WA",
+      "team": "Information Technology",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8128762?gh_jid=8128762",
+      "postedAt": "2026-08-14T13:45:17.000Z",
+      "key": "cloudflare:8128762",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T13:50:17.774Z"
+    },
     {
       "id": "72cc6311-ff58-4dc9-a54d-e1fb34657105",
       "title": "Senior Staff Engineer, Frontend",
