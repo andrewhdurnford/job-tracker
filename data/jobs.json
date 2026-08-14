@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-08-14T18:20:18.840Z",
+  "generatedAt": "2026-08-14T18:30:22.572Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "attentive:4369486009",
-    "gitlab:8715968002",
-    "Visa:REF072039W"
+    "gusto:8095028"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 15,
     "new-grad": 14,
-    "experienced": 2059
+    "experienced": 2057
   },
   "companies": [
     {
@@ -356,7 +354,7 @@
     {
       "name": "ARQ",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1364,7 +1362,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1994,7 +1992,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3114,7 +3112,7 @@
     {
       "name": "Neon",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5297,10 +5295,10 @@
     },
     {
       "name": "xAI",
-      "ok": true,
+      "ok": false,
       "jobCount": 12,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Xendit",
@@ -5409,6 +5407,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8095028",
+      "title": "Staff Software Engineer, Gustie Assist",
+      "location": "Denver, CO, United States; New York, New York, United States; San Francisco, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8095028",
+      "postedAt": "2026-08-14T18:28:25.000Z",
+      "key": "gusto:8095028",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T18:30:22.572Z"
+    },
     {
       "id": "REF072039W",
       "title": "Lead Software Engineer",
@@ -13315,22 +13329,6 @@
       "firstSeen": "2026-08-07T18:10:18.195Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -13343,6 +13341,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -23274,22 +23288,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
       "location": "McGregor, TX",
@@ -23306,13 +23304,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -23329,6 +23327,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658737002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658628002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -24826,23 +24840,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -24855,6 +24852,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -36659,13 +36673,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -36676,13 +36690,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39589,55 +39603,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "433d8cb9-5a19-4ca2-9218-940d4e008ed9",
-      "title": "Senior Software Engineer (Java)",
-      "location": "New York",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/arq/433d8cb9-5a19-4ca2-9218-940d4e008ed9",
-      "postedAt": "2026-07-15T18:28:59.276Z",
-      "key": "arq:433d8cb9-5a19-4ca2-9218-940d4e008ed9",
-      "company": "ARQ",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "86131334-4a12-4e86-8b53-d816519da8f3",
-      "title": "Senior Software Engineer",
-      "location": "New York City",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/neon/86131334-4a12-4e86-8b53-d816519da8f3",
-      "postedAt": "2026-07-15T18:27:14.126Z",
-      "key": "neon:86131334-4a12-4e86-8b53-d816519da8f3",
-      "company": "Neon",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8049133",
-      "title": "Staff Software Engineer, Event Streaming Systems",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8049133",
-      "postedAt": "2026-07-15T18:22:01.000Z",
-      "key": "doordashusa:8049133",
-      "company": "DoorDash",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
