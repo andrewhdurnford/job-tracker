@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-08-14T15:50:18.601Z",
+  "generatedAt": "2026-08-14T16:00:24.671Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "databricks:8715639002"
+    "palantir:5614a901-ef96-4b9c-928d-4a9c338c8aad"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 16,
+    "intern": 15,
     "new-grad": 8,
     "experienced": 2064
   },
@@ -1201,7 +1201,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3399,7 +3399,7 @@
     {
       "name": "Palantir",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4462,10 +4462,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 116,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4792,7 +4792,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5407,6 +5407,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5614a901-ef96-4b9c-928d-4a9c338c8aad",
+      "title": "Offensive Security Engineer",
+      "location": "Washington, D.C.",
+      "team": "Information Security",
+      "url": "https://jobs.lever.co/palantir/5614a901-ef96-4b9c-928d-4a9c338c8aad",
+      "postedAt": "2026-08-14T15:54:38.241Z",
+      "key": "palantir:5614a901-ef96-4b9c-928d-4a9c338c8aad",
+      "company": "Palantir",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T16:00:24.671Z"
+    },
     {
       "id": "8715639002",
       "title": "Senior Software Engineer - Enterprise Platform, CustomerLake",
@@ -39620,43 +39636,6 @@
         "us"
       ],
       "firstSeen": "2026-08-06T22:30:34.905Z"
-    },
-    {
-      "id": "7bc441a4-9bb6-45cb-a9e0-5ae1b9c7ac5b",
-      "title": "Full Stack Analyst, GTM",
-      "location": "San Francisco (+1 more)",
-      "team": "GTM Finance Systems Architecture",
-      "url": "https://jobs.ashbyhq.com/cursor/7bc441a4-9bb6-45cb-a9e0-5ae1b9c7ac5b",
-      "postedAt": "2026-07-15T15:57:24.082Z",
-      "key": "cursor:7bc441a4-9bb6-45cb-a9e0-5ae1b9c7ac5b",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "5187605007",
-      "title": "2027 North America Software Engineering Internship",
-      "location": "Bellevue; Boulder; Denver; Irvine; New York; Seattle",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
-      "postedAt": "2026-07-15T15:53:11.000Z",
-      "key": "thetradedesk:5187605007",
-      "company": "The Trade Desk",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
