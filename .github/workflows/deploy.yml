@@ -1,0 +1,23 @@
+name: deploy
+
+on:
+  push:
+    branches: [main]
+    # Bot commits only ever touch data/, so this never fires for those —
+    # Vercel's own auto-deploy is off (git.deploymentEnabled: false in
+    # vercel.json) specifically to stop those pushes burning the account-wide
+    # deployment quota.
+    paths-ignore: ["data/**"]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Deploy to Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: team_FUrVkFFyRHGio1GbMk3iqBEu
+          VERCEL_PROJECT_ID: prj_Ka7L1G8SLYKD0zA9JgMs9dvzgSHZ
+        run: npx vercel@latest deploy --prod --token="$VERCEL_TOKEN" --yes
