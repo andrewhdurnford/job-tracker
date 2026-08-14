@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-14T22:00:24.958Z",
+  "generatedAt": "2026-08-14T22:10:03.545Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "anthropic:5391151008",
+    "quindar:488886c2-a8d1-4d5f-872f-14188925fe78"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 17,
     "new-grad": 15,
-    "experienced": 2070
+    "experienced": 2071
   },
   "companies": [
     {
@@ -289,7 +292,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -3817,7 +3820,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3915,7 +3918,7 @@
     {
       "name": "Reflection AI",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5405,6 +5408,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5391151008",
+      "title": "AI Operations Engineer, Partnerships",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008",
+      "postedAt": "2026-08-14T22:07:17.000Z",
+      "key": "anthropic:5391151008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T22:10:03.545Z"
+    },
+    {
+      "id": "488886c2-a8d1-4d5f-872f-14188925fe78",
+      "title": "Site Reliability Engineer, US Gov",
+      "location": "Denver, CO",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/quindar/488886c2-a8d1-4d5f-872f-14188925fe78",
+      "postedAt": "2026-08-14T22:04:34.146Z",
+      "key": "quindar:488886c2-a8d1-4d5f-872f-14188925fe78",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T22:10:03.545Z"
+    },
     {
       "id": "JR2015949",
       "title": "Embedded Software Engineer - DPU Platform",
@@ -23889,13 +23924,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -23905,13 +23940,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37223,13 +37258,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37240,13 +37275,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39823,22 +39858,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "5d2153dc-fe9a-473d-8047-c3b81786844a",
-      "title": "Member of Technical Staff - Engineering Lead, Applications",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Platform",
-      "url": "https://jobs.ashbyhq.com/reflectionai/5d2153dc-fe9a-473d-8047-c3b81786844a",
-      "postedAt": "2026-07-15T22:00:52.513Z",
-      "key": "reflectionai:5d2153dc-fe9a-473d-8047-c3b81786844a",
-      "company": "Reflection AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
     },
     {
       "id": "REF080650W",
