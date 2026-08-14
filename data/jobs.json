@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-14T17:40:17.224Z",
+  "generatedAt": "2026-08-14T17:50:20.356Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "stripe:8130578"
+    "langchain:bdc96ffd-2a95-4d63-bf8f-193574961e00",
+    "snowflake:70fa0e09-f834-42e3-8e77-7133360b417a",
+    "spacex:8706537002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -2370,7 +2372,7 @@
     {
       "name": "Jump Trading",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2531,7 +2533,7 @@
     {
       "name": "LangChain",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4120,7 +4122,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4407,7 +4409,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -4463,7 +4465,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 120,
+      "jobCount": 121,
       "error": null,
       "stale": false
     },
@@ -5233,7 +5235,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5407,6 +5409,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8706537002",
+      "title": "Satellite On-Orbit Operations Software Engineer (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8706537002?gh_jid=8706537002",
+      "postedAt": "2026-08-14T17:49:35.000Z",
+      "key": "spacex:8706537002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T17:50:20.356Z"
+    },
+    {
+      "id": "70fa0e09-f834-42e3-8e77-7133360b417a",
+      "title": "Director of Engineering, AI Enterprise",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/70fa0e09-f834-42e3-8e77-7133360b417a",
+      "postedAt": "2026-08-14T17:48:56.566Z",
+      "key": "snowflake:70fa0e09-f834-42e3-8e77-7133360b417a",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T17:50:20.356Z"
+    },
+    {
+      "id": "bdc96ffd-2a95-4d63-bf8f-193574961e00",
+      "title": "Research Engineer, LangSmith Engine",
+      "location": "New York, NY (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/langchain/bdc96ffd-2a95-4d63-bf8f-193574961e00",
+      "postedAt": "2026-08-14T17:40:43.334Z",
+      "key": "langchain:bdc96ffd-2a95-4d63-bf8f-193574961e00",
+      "company": "LangChain",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T17:50:20.356Z"
+    },
     {
       "id": "8130578",
       "title": "Software Engineer, Backend Engineer- Credit Coverage",
@@ -23143,13 +23193,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -23159,13 +23209,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -36545,13 +36595,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -36562,13 +36612,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39608,57 +39658,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "7662486",
-      "title": "Software Engineer | GUI",
-      "location": "Chicago",
-      "team": null,
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=7662486",
-      "postedAt": "2026-07-15T17:46:50.000Z",
-      "key": "jumptrading:7662486",
-      "company": "Jump Trading",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T21:33:23.715Z",
-      "seeded": true
-    },
-    {
-      "id": "8036387",
-      "title": "Software Engineer II",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387",
-      "postedAt": "2026-07-15T17:43:34.000Z",
-      "key": "samsara:8036387",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "3019d597-d17d-4024-9b16-2018e08fd584",
-      "title": "Senior Manager, Analytics Engineering",
-      "location": "Boston, MA",
-      "team": "Business Intelligence & Analytics",
-      "url": "https://jobs.ashbyhq.com/whoop/3019d597-d17d-4024-9b16-2018e08fd584",
-      "postedAt": "2026-07-15T17:41:06.113Z",
-      "key": "whoop:3019d597-d17d-4024-9b16-2018e08fd584",
-      "company": "WHOOP",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
     },
     {
       "id": "09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
