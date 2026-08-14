@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-14T17:10:16.803Z",
+  "generatedAt": "2026-08-14T17:20:19.330Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "gusto:8099751",
-    "multiplylabs:a4fb0594-1ecc-4a4f-97db-da56a27cc959"
+    "CrowdStrike:R29729",
+    "snowflake:dcbd8798-31d0-4551-acf4-0d7a8f8d7757"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,13 +13,13 @@
   "levelCounts": {
     "intern": 15,
     "new-grad": 14,
-    "experienced": 2060
+    "experienced": 2059
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -593,7 +593,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1167,7 +1167,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 65,
+      "jobCount": 66,
       "error": null,
       "stale": false
     },
@@ -2833,7 +2833,7 @@
     {
       "name": "Mercury",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4408,7 +4408,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -4463,10 +4463,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 120,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5408,6 +5408,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29729",
+      "title": "Engineer II, Site Reliability (Remote, GBR)",
+      "location": "United Kingdom - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Engineer-II--Site-Reliability--Remote--GBR-_R29729",
+      "postedAt": "2026-08-14T17:20:22.962Z",
+      "key": "CrowdStrike:R29729",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-08-14T17:20:19.330Z"
+    },
+    {
+      "id": "dcbd8798-31d0-4551-acf4-0d7a8f8d7757",
+      "title": "Senior Software Engineer",
+      "location": "US-WA-Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/dcbd8798-31d0-4551-acf4-0d7a8f8d7757",
+      "postedAt": "2026-08-14T17:14:32.367Z",
+      "key": "snowflake:dcbd8798-31d0-4551-acf4-0d7a8f8d7757",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-14T17:20:19.330Z"
+    },
     {
       "id": "8099751",
       "title": "Senior Data Engineer",
@@ -13121,22 +13153,6 @@
       "firstSeen": "2026-08-07T18:10:18.195Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -13149,6 +13165,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -24648,23 +24680,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -24677,6 +24692,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -39612,57 +39644,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "6116808004",
-      "title": "Senior Software Engineer - Frontend Developer Experience",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6116808004",
-      "postedAt": "2026-07-15T17:17:41.000Z",
-      "key": "mercury:6116808004",
-      "company": "Mercury",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "5243440008",
-      "title": "Senior Machine Learning Engineer, Applied AI Quality",
-      "location": "Bay Area, CA, United States of America",
-      "team": null,
-      "url": "http://block.xyz/careers/jobs/5243440008?gh_jid=5243440008",
-      "postedAt": "2026-07-15T17:13:58.000Z",
-      "key": "block:5243440008",
-      "company": "Block",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "ea50a3a5-0dff-44d5-8611-9f874a54c4d7",
-      "title": "Senior Developer, Admin Workflows",
-      "location": "Remote (United States | Canada)",
-      "team": "Product Engineering",
-      "url": "https://jobs.ashbyhq.com/1password/ea50a3a5-0dff-44d5-8611-9f874a54c4d7",
-      "postedAt": "2026-07-15T17:13:42.331Z",
-      "key": "1password:ea50a3a5-0dff-44d5-8611-9f874a54c4d7",
-      "company": "1Password",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
