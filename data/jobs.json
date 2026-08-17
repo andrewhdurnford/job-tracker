@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-08-17T17:36:29.629Z",
+  "generatedAt": "2026-08-17T17:50:17.829Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "abridge:983ea248-e6c9-43bc-a27d-914091173337",
-    "Nvidia:JR2022456"
+    "ekho:c8888199-a4aa-4b61-9744-67bd2c92f4d8",
+    "figma:6142506004",
+    "modal:e1915603-d9de-4760-b445-c266a1080499",
+    "openai:894ce80d-c587-4ef0-92d2-b16deb9a06b9"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,13 +15,13 @@
   "levelCounts": {
     "intern": 24,
     "new-grad": 16,
-    "experienced": 2005
+    "experienced": 2007
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1426,7 +1428,7 @@
     {
       "name": "Ekho",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1615,7 +1617,7 @@
     {
       "name": "Figma",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2945,7 +2947,7 @@
     {
       "name": "Modal",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3330,7 +3332,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 53,
+      "jobCount": 54,
       "error": null,
       "stale": false
     },
@@ -4121,7 +4123,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5408,6 +5410,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6142506004",
+      "title": "Software Engineer - Application Platform",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "team": null,
+      "url": "https://boards.greenhouse.io/figma/jobs/6142506004?gh_jid=6142506004",
+      "postedAt": "2026-08-17T17:48:59.000Z",
+      "key": "figma:6142506004",
+      "company": "Figma",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-17T17:50:17.829Z"
+    },
+    {
+      "id": "e1915603-d9de-4760-b445-c266a1080499",
+      "title": "Detection and Response Engineer",
+      "location": "New York",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/modal/e1915603-d9de-4760-b445-c266a1080499",
+      "postedAt": "2026-08-17T17:46:05.270Z",
+      "key": "modal:e1915603-d9de-4760-b445-c266a1080499",
+      "company": "Modal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-17T17:50:17.829Z"
+    },
+    {
+      "id": "894ce80d-c587-4ef0-92d2-b16deb9a06b9",
+      "title": "Data Scientist, Cybersecurity ",
+      "location": "US - Remote (+2 more)",
+      "team": "Data Science",
+      "url": "https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9",
+      "postedAt": "2026-08-17T17:44:00.786Z",
+      "key": "openai:894ce80d-c587-4ef0-92d2-b16deb9a06b9",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-17T17:50:17.829Z"
+    },
+    {
+      "id": "c8888199-a4aa-4b61-9744-67bd2c92f4d8",
+      "title": "Full-stack Engineer",
+      "location": "New York City HQ",
+      "team": "R&D",
+      "url": "https://jobs.ashbyhq.com/ekho/c8888199-a4aa-4b61-9744-67bd2c92f4d8",
+      "postedAt": "2026-08-17T17:41:08.357Z",
+      "key": "ekho:c8888199-a4aa-4b61-9744-67bd2c92f4d8",
+      "company": "Ekho",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-17T17:50:17.829Z"
+    },
     {
       "id": "JR2022456",
       "title": "AI and ML Power Methodology Engineer",
@@ -6926,23 +6992,6 @@
       "url": "https://jobs.ashbyhq.com/1password/c247ea98-bf31-45f0-a38b-1fe255909538",
       "postedAt": "2026-08-14T21:22:02.820Z",
       "key": "1password:c247ea98-bf31-45f0-a38b-1fe255909538",
-      "company": "1Password",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-14T21:30:20.223Z"
-    },
-    {
-      "id": "d19d8ac2-8f67-407e-ace1-7f07914e581c",
-      "title": "[Internal] Developer, Rust",
-      "location": "Remote (United States | Canada)",
-      "team": "Product Engineering",
-      "url": "https://jobs.ashbyhq.com/1password/d19d8ac2-8f67-407e-ace1-7f07914e581c",
-      "postedAt": "2026-08-14T21:20:52.072Z",
-      "key": "1password:d19d8ac2-8f67-407e-ace1-7f07914e581c",
       "company": "1Password",
       "level": "experienced",
       "term": null,
@@ -25075,22 +25124,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
       "location": "McGregor, TX",
@@ -25107,13 +25140,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -25130,6 +25163,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658737002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658628002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -35866,23 +35915,6 @@
       "firstSeen": "2026-08-05T19:33:31.081Z"
     },
     {
-      "id": "8042166",
-      "title": "Senior+ Applied Scientist",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8042166?gh_jid=8042166",
-      "postedAt": "2026-07-21T20:32:44.000Z",
-      "key": "samsara:8042166",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "5366284008",
       "title": "Staff Product Data Scientist, Lending",
       "location": "San Francisco, CA, United States of America",
@@ -38220,13 +38252,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -38237,13 +38269,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
