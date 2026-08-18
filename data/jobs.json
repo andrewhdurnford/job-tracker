@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-18T18:50:17.896Z",
+  "generatedAt": "2026-08-18T19:00:27.697Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "wrapbook:a9bbaf3d-4793-4b9d-8ba2-ba4ced2d2527"
+    "1password:d8e8cf3f-c994-43a7-854c-86849b95db41",
+    "jumptrading:8122860"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,13 +13,13 @@
   "levelCounts": {
     "intern": 23,
     "new-grad": 15,
-    "experienced": 2072
+    "experienced": 2066
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -543,7 +544,7 @@
     {
       "name": "Bill.com",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -767,7 +768,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 167,
+      "jobCount": 166,
       "error": null,
       "stale": false
     },
@@ -1040,7 +1041,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2370,7 +2371,7 @@
     {
       "name": "Jump Trading",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3064,7 +3065,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3245,7 +3246,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 183,
+      "jobCount": 178,
       "error": null,
       "stale": false
     },
@@ -5407,6 +5408,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8122860",
+      "title": "Research Scientist/Research Engineer, Reinforcement Learning ",
+      "location": "Chicago, New York, London",
+      "team": null,
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8122860",
+      "postedAt": "2026-08-18T18:54:10.000Z",
+      "key": "jumptrading:8122860",
+      "company": "Jump Trading",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:00:27.697Z"
+    },
+    {
+      "id": "d8e8cf3f-c994-43a7-854c-86849b95db41",
+      "title": "Developer, Authorization",
+      "location": "Remote (United States | Canada)",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/1password/d8e8cf3f-c994-43a7-854c-86849b95db41",
+      "postedAt": "2026-08-18T18:51:00.186Z",
+      "key": "1password:d8e8cf3f-c994-43a7-854c-86849b95db41",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-18T19:00:27.697Z"
+    },
     {
       "id": "a9bbaf3d-4793-4b9d-8ba2-ba4ced2d2527",
       "title": "Senior Analytics Engineer II",
@@ -7647,22 +7681,6 @@
         "us"
       ],
       "firstSeen": "2026-08-17T08:40:16.733Z"
-    },
-    {
-      "id": "JR2023498",
-      "title": "Senior Software Engineer, Developer Experience",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Developer-Experience_JR2023498",
-      "postedAt": "2026-08-17T08:30:27.192Z",
-      "key": "Nvidia:JR2023498",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T08:30:23.140Z"
     },
     {
       "id": "R29716",
@@ -9956,22 +9974,6 @@
         "us"
       ],
       "firstSeen": "2026-08-14T01:40:23.754Z"
-    },
-    {
-      "id": "0dca4f2e-2f5c-4b27-98ac-d644c7aa45cc",
-      "title": "Backend Engineer, Ambient AI",
-      "location": "Mountain View, CA",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/0dca4f2e-2f5c-4b27-98ac-d644c7aa45cc",
-      "postedAt": "2026-08-14T01:25:26.271Z",
-      "key": "commure:0dca4f2e-2f5c-4b27-98ac-d644c7aa45cc",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-14T01:30:20.790Z"
     },
     {
       "id": "9f78c41f-8d39-46c9-b9c3-c3b075905b24",
@@ -12860,22 +12862,6 @@
       "firstSeen": "2026-08-11T23:50:17.475Z"
     },
     {
-      "id": "JR2018261",
-      "title": "Machine Learning Systems Engineer, Networking",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Systems-Engineer--Networking_JR2018261",
-      "postedAt": "2026-08-11T23:40:30.347Z",
-      "key": "Nvidia:JR2018261",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T23:40:26.194Z"
-    },
-    {
       "id": "78675022-c4a7-41d2-9259-7c59be4de93c",
       "title": "Member of Technical Staff (Software Engineer, Design System)",
       "location": "San Francisco (+2 more)",
@@ -14489,22 +14475,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -14517,6 +14487,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -14567,22 +14553,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-10T21:50:24.849Z"
-    },
-    {
-      "id": "JR2018453",
-      "title": "Senior Firmware Engineer - GPU",
-      "location": "US, SC, Remote",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-SC-Remote/Senior-Firmware-Engineer---GPU_JR2018453",
-      "postedAt": "2026-08-10T21:20:23.709Z",
-      "key": "Nvidia:JR2018453",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T21:20:19.234Z"
     },
     {
       "id": "2e68c5e8-5de2-4428-bad0-ddcf518399c4",
@@ -22398,7 +22368,7 @@
     {
       "id": "8502300002",
       "title": "Lead Machine Learning Engineer - Localization",
-      "location": "Remote, USA",
+      "location": "USA - Remote",
       "team": null,
       "url": "https://job-boards.greenhouse.io/maymobility/jobs/8502300002",
       "postedAt": "2026-08-04T17:26:06.000Z",
@@ -26212,22 +26182,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
       "location": "Starbase, TX",
@@ -26244,13 +26198,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -26267,6 +26221,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658628002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658737002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -28836,23 +28806,6 @@
       "seeded": true
     },
     {
-      "id": "JR2021856",
-      "title": "Senior Software Engineer, Distributed Systems Engineer - DGX Cloud",
-      "location": "5 Locations",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Distributed-Systems-Engineer---DGX-Cloud_JR2021856-1",
-      "postedAt": "2026-07-29T00:30:41.329Z",
-      "key": "Nvidia:JR2021856",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
       "id": "JR2021643",
       "title": "Principal Software Engineer - Employee Productivity",
       "location": "US, CA, Santa Clara",
@@ -29092,7 +29045,7 @@
     },
     {
       "id": "7819879003",
-      "title": "Developer Advocate, Growth",
+      "title": "Senior Developer Advocate, Growth",
       "location": "Remote - US",
       "team": null,
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7819879003",
@@ -33702,23 +33655,6 @@
       "seeded": true
     },
     {
-      "id": "R247566",
-      "title": "Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer_R247566-1",
-      "postedAt": "2026-07-24T00:30:31.472Z",
-      "key": "Capital One:R247566",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
       "id": "R247229",
       "title": "Lead Software Engineer, Full Stack - Shopping (Remote)",
       "location": "2 Locations",
@@ -34685,22 +34621,6 @@
       "seeded": true
     },
     {
-      "id": "6123309004",
-      "title": "CXO AI Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://www.bill.com/job?6123309004&gh_jid=6123309004",
-      "postedAt": "2026-07-23T14:33:00.000Z",
-      "key": "billcom:6123309004",
-      "company": "Bill.com",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
       "id": "8647095002",
       "title": "Software Engineer, Site Reliability Engineering (Application Software)",
       "location": "Hawthorne, CA",
@@ -35502,23 +35422,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -35531,6 +35434,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -38388,23 +38308,6 @@
       "seeded": true
     },
     {
-      "id": "JR2012287",
-      "title": "Senior Systems Software Engineer - GPU Diagnostics",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---GPU-Diagnostics_JR2012287",
-      "postedAt": "2026-07-21T00:30:54.822Z",
-      "key": "Nvidia:JR2012287",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
       "id": "JR2020320",
       "title": "Principal Software Engineer, At-Scale Reliability and Fleet Intelligence — CSP Engagements",
       "location": "US, CA, Santa Clara",
@@ -39336,13 +39239,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39353,13 +39256,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
