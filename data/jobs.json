@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-18T12:50:19.042Z",
+  "generatedAt": "2026-08-18T13:00:25.121Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Nvidia:JR2022919",
+    "pennylane:b7c3bdef-92c8-44b3-a1f9-1b34698a862d"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 23,
     "new-grad": 15,
-    "experienced": 2036
+    "experienced": 2038
   },
   "companies": [
     {
@@ -3243,7 +3246,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 183,
+      "jobCount": 184,
       "error": null,
       "stale": false
     },
@@ -3460,7 +3463,7 @@
     {
       "name": "Pennylane",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4985,10 +4988,10 @@
     },
     {
       "name": "Understood Care",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Unit",
@@ -5405,6 +5408,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "b7c3bdef-92c8-44b3-a1f9-1b34698a862d",
+      "title": "DevOps Engineer W/M (remote) 🇪🇺",
+      "location": "Remote",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/pennylane/b7c3bdef-92c8-44b3-a1f9-1b34698a862d",
+      "postedAt": "2026-08-18T12:50:22.270Z",
+      "key": "pennylane:b7c3bdef-92c8-44b3-a1f9-1b34698a862d",
+      "company": "Pennylane",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-08-18T13:00:25.121Z"
+    },
     {
       "id": "8138661",
       "title": "Principal Software Developer - Performance Tuning - Elasticsearch",
@@ -15069,6 +15088,22 @@
         "us"
       ],
       "firstSeen": "2026-08-10T01:20:15.884Z"
+    },
+    {
+      "id": "JR2022919",
+      "title": "Senior Software Engineer - Scientific Evaluation",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Scientific-Evaluation_JR2022919-1",
+      "postedAt": "2026-08-09T13:00:49.106Z",
+      "key": "Nvidia:JR2022919",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T13:00:25.121Z"
     },
     {
       "id": "R245651",
