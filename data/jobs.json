@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-08-18T19:30:20.915Z",
+  "generatedAt": "2026-08-18T19:40:19.680Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 8,
   "newKeys": [
-    "Capital One:R249526",
-    "snowflake:a1f1779b-464c-48f6-a664-56314825c8ac"
+    "adyen:8140008",
+    "CrowdStrike:R29041",
+    "CrowdStrike:R29420",
+    "CrowdStrike:R29555",
+    "givecampus:4374577009",
+    "spacex:8727884002",
+    "spacex:8727656002",
+    "spacex:8727903002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +19,7 @@
   "levelCounts": {
     "intern": 23,
     "new-grad": 15,
-    "experienced": 2062
+    "experienced": 2069
   },
   "companies": [
     {
@@ -68,7 +74,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1167,7 +1173,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 74,
+      "jobCount": 77,
       "error": null,
       "stale": false
     },
@@ -1874,7 +1880,7 @@
     {
       "name": "GiveCampus",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3246,7 +3252,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 174,
+      "jobCount": 173,
       "error": null,
       "stale": false
     },
@@ -4463,10 +4469,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 127,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 130,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5409,6 +5415,70 @@
   ],
   "jobs": [
     {
+      "id": "R29041",
+      "title": "Software Engineer, Front End - Policy (Hybrid)",
+      "location": "USA - Remote, WA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer--Front-End---Policy--Hybrid-_R29041",
+      "postedAt": "2026-08-18T19:40:23.648Z",
+      "key": "CrowdStrike:R29041",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:40:19.680Z"
+    },
+    {
+      "id": "8727903002",
+      "title": "Tooling Engineer, AI Satellites (Starmind)",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8727903002?gh_jid=8727903002",
+      "postedAt": "2026-08-18T19:37:58.000Z",
+      "key": "spacex:8727903002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:40:19.680Z"
+    },
+    {
+      "id": "8140008",
+      "title": "Software Engineer II (Java) - Banking Accounts",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8140008",
+      "postedAt": "2026-08-18T19:35:27.000Z",
+      "key": "adyen:8140008",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:40:19.680Z"
+    },
+    {
+      "id": "4374577009",
+      "title": "Senior Software Engineer, Online Giving",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/givecampus/jobs/4374577009",
+      "postedAt": "2026-08-18T19:32:27.000Z",
+      "key": "givecampus:4374577009",
+      "company": "GiveCampus",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:40:19.680Z"
+    },
+    {
       "id": "R249526",
       "title": "Lead Software Engineer, Full Stack",
       "location": "McLean, VA",
@@ -5425,6 +5495,22 @@
       "firstSeen": "2026-08-18T19:30:20.915Z"
     },
     {
+      "id": "8727884002",
+      "title": "Automation and Controls Engineer, AI Satellites (Starmind)",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8727884002?gh_jid=8727884002",
+      "postedAt": "2026-08-18T19:29:39.000Z",
+      "key": "spacex:8727884002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:40:19.680Z"
+    },
+    {
       "id": "a1f1779b-464c-48f6-a664-56314825c8ac",
       "title": "Staff Software Engineer, Cortex AI Search Infrastructure",
       "location": "US-CA-Menlo Park",
@@ -5439,6 +5525,22 @@
         "us"
       ],
       "firstSeen": "2026-08-18T19:30:20.915Z"
+    },
+    {
+      "id": "8727656002",
+      "title": "Integration & Test Engineer, AI Satellites (Starmind)",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8727656002?gh_jid=8727656002",
+      "postedAt": "2026-08-18T19:22:35.000Z",
+      "key": "spacex:8727656002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:40:19.680Z"
     },
     {
       "id": "71838fdf-4476-490c-81b6-4bf0746f6774",
@@ -6307,13 +6409,13 @@
       "firstSeen": "2026-08-18T05:10:18.256Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -6323,13 +6425,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -16447,6 +16549,22 @@
       "firstSeen": "2026-08-07T20:00:23.012Z"
     },
     {
+      "id": "R29420",
+      "title": "Software Engineer II, LogScale Search Integrations (Hybrid)",
+      "location": "USA - Austin, TX",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Software-Engineer-II--LogScale-Search-Integrations--Hybrid-_R29420",
+      "postedAt": "2026-08-07T19:40:28.440Z",
+      "key": "CrowdStrike:R29420",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:40:19.680Z"
+    },
+    {
       "id": "JR2014797",
       "title": "Senior Developer Relations Manager - AI Agents",
       "location": "US, CA, Santa Clara",
@@ -18302,6 +18420,22 @@
       "firstSeen": "2026-08-06T20:09:22.853Z"
     },
     {
+      "id": "R29555",
+      "title": "Sr. Product Security Engineer (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Product-Security-Engineer--Remote-_R29555",
+      "postedAt": "2026-08-06T19:40:36.652Z",
+      "key": "CrowdStrike:R29555",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:40:19.680Z"
+    },
+    {
       "id": "7f299784-2c75-4d73-99e5-1e5043ec7b48",
       "title": "Data Scientist, B2B Demand Generation, Growth & Measurement",
       "location": "San Francisco",
@@ -19304,23 +19438,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
-      "id": "JR2016396",
-      "title": "Senior AI-Native Systems Software Engineer, TensorRT",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Native-Systems-Software-Engineer--TensorRT_JR2016396",
-      "postedAt": "2026-08-06T00:30:24.961Z",
-      "key": "Nvidia:JR2016396",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T20:19:33.040Z",
       "seeded": true
     },
     {
@@ -26196,13 +26313,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -26212,13 +26329,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39171,13 +39288,13 @@
       "seeded": true
     },
     {
-      "id": "8637814002",
+      "id": "8637826002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Palo Alto, CA",
+      "location": "Redmond, WA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637814002",
+      "key": "spacex:8637826002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39188,13 +39305,13 @@
       "seeded": true
     },
     {
-      "id": "8637826002",
+      "id": "8637814002",
       "title": "Wireless Software Engineer (Starlink)",
-      "location": "Redmond, WA",
+      "location": "Palo Alto, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002",
       "postedAt": "2026-07-20T16:35:18.000Z",
-      "key": "spacex:8637826002",
+      "key": "spacex:8637814002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
