@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-08-18T18:20:21.805Z",
+  "generatedAt": "2026-08-18T18:30:25.076Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "snowflake:95564ff4-bf27-4b41-a87e-e4defff7cd4e",
-    "thetradedesk:5214184007"
+    "okta:8139696",
+    "robinhood:8120094",
+    "topsort:5375556008"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 23,
     "new-grad": 15,
-    "experienced": 2068
+    "experienced": 2070
   },
   "companies": [
     {
@@ -110,7 +111,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -1019,10 +1020,10 @@
     },
     {
       "name": "CoLab",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Column",
@@ -2050,7 +2051,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3288,7 +3289,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4023,7 +4024,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4463,10 +4464,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 127,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4856,7 +4857,7 @@
     {
       "name": "Topsort",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5408,6 +5409,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8139696",
+      "title": "Staff Machine Learning Engineer, Generative AI (Auth0)",
+      "location": "Toronto, Ontario, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8139696?gh_jid=8139696",
+      "postedAt": "2026-08-18T18:30:11.000Z",
+      "key": "okta:8139696",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-18T18:30:25.076Z"
+    },
+    {
+      "id": "8120094",
+      "title": "Software Engineer",
+      "location": "Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8120094?t=gh_src=&gh_jid=8120094",
+      "postedAt": "2026-08-18T18:25:23.000Z",
+      "key": "robinhood:8120094",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T18:30:25.076Z"
+    },
     {
       "id": "5214184007",
       "title": "Senior Software Engineer - Observability & IRM",
@@ -14410,22 +14443,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -14438,6 +14455,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -16511,20 +16544,20 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8095436",
-      "title": "Staff Software Engineer, Marketing technology ",
-      "location": "Remote, USA",
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
       "team": null,
-      "url": "https://careers.airbnb.com/positions/8095436?gh_jid=8095436",
-      "postedAt": "2026-08-07T18:02:40.000Z",
-      "key": "airbnb:8095436",
-      "company": "Airbnb",
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
       "level": "experienced",
       "term": null,
       "regions": [
         "us"
       ],
-      "firstSeen": "2026-08-07T18:10:18.195Z"
+      "firstSeen": "2026-08-07T17:30:29.239Z"
     },
     {
       "id": "8691459002",
@@ -16539,22 +16572,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -26757,6 +26774,22 @@
       "seeded": true
     },
     {
+      "id": "5375556008",
+      "title": "Software Engineer, Integrations, Boston",
+      "location": "Somerville, Massachusetts, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/topsort/jobs/5375556008",
+      "postedAt": "2026-07-30T18:44:20.000Z",
+      "key": "topsort:5375556008",
+      "company": "Topsort",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T18:30:25.076Z"
+    },
+    {
       "id": "aca5697a-a87a-415e-8d58-627bb782cce8",
       "title": "Machine Learning Engineering Manager, Personalization",
       "location": "New York, NY (+1 more)",
@@ -33675,7 +33708,7 @@
     {
       "id": "8643940002",
       "title": "Senior Systems Engineer II",
-      "location": "Ann Arbor, MI",
+      "location": "Ann Arbor, MI - Hybrid",
       "team": null,
       "url": "https://job-boards.greenhouse.io/maymobility/jobs/8643940002",
       "postedAt": "2026-07-24T00:22:14.000Z",
@@ -35439,23 +35472,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -35468,6 +35484,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
