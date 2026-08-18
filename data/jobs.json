@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-18T19:19:42.915Z",
+  "generatedAt": "2026-08-18T19:30:20.915Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "openai:71838fdf-4476-490c-81b6-4bf0746f6774"
+    "Capital One:R249526",
+    "snowflake:a1f1779b-464c-48f6-a664-56314825c8ac"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 23,
     "new-grad": 15,
-    "experienced": 2063
+    "experienced": 2062
   },
   "companies": [
     {
@@ -767,7 +768,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 166,
+      "jobCount": 167,
       "error": null,
       "stale": false
     },
@@ -1166,7 +1167,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 76,
+      "jobCount": 74,
       "error": null,
       "stale": false
     },
@@ -4407,7 +4408,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4462,10 +4463,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 127,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4981,7 +4982,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5407,6 +5408,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R249526",
+      "title": "Lead Software Engineer, Full Stack",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R249526-1",
+      "postedAt": "2026-08-18T19:30:24.345Z",
+      "key": "Capital One:R249526",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:30:20.915Z"
+    },
+    {
+      "id": "a1f1779b-464c-48f6-a664-56314825c8ac",
+      "title": "Staff Software Engineer, Cortex AI Search Infrastructure",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/a1f1779b-464c-48f6-a664-56314825c8ac",
+      "postedAt": "2026-08-18T19:29:18.235Z",
+      "key": "snowflake:a1f1779b-464c-48f6-a664-56314825c8ac",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T19:30:20.915Z"
+    },
     {
       "id": "71838fdf-4476-490c-81b6-4bf0746f6774",
       "title": "Software Engineer, Plugin Developer Platform",
@@ -16038,23 +16071,6 @@
       "seeded": true
     },
     {
-      "id": "R29420",
-      "title": "Software Engineer II, LogScale Search Integrations (Hybrid)",
-      "location": "USA - Austin, TX",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Software-Engineer-II--LogScale-Search-Integrations--Hybrid-_R29420",
-      "postedAt": "2026-08-07T21:33:29.116Z",
-      "key": "CrowdStrike:R29420",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T21:33:23.715Z",
-      "seeded": true
-    },
-    {
       "id": "R29327",
       "title": "Software Engineer III - Cloud Security - FCS Registration (Hybrid NYC)",
       "location": "USA - New York, NY",
@@ -16815,22 +16831,6 @@
       "firstSeen": "2026-08-07T15:20:21.734Z"
     },
     {
-      "id": "6a1408b8-7d66-4fc7-90a2-480199454f57",
-      "title": "Prinicipal Software Engineer",
-      "location": "Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/uipath/6a1408b8-7d66-4fc7-90a2-480199454f57",
-      "postedAt": "2026-08-07T14:56:55.253Z",
-      "key": "uipath:6a1408b8-7d66-4fc7-90a2-480199454f57",
-      "company": "UiPath",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T15:00:26.826Z"
-    },
-    {
       "id": "8092378",
       "title": "Senior Data Scientist, Trust & Safety and Content Quality",
       "location": "Toronto, ON, CA",
@@ -17406,23 +17406,6 @@
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Infrastructure-Engineer---Kubernetes--Remote-_R29056",
       "postedAt": "2026-08-06T21:33:37.242Z",
       "key": "CrowdStrike:R29056",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T21:33:23.715Z",
-      "seeded": true
-    },
-    {
-      "id": "R29555",
-      "title": "Sr. Product Security Engineer (Remote)",
-      "location": "USA - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Product-Security-Engineer--Remote-_R29555",
-      "postedAt": "2026-08-06T21:33:37.242Z",
-      "key": "CrowdStrike:R29555",
       "company": "CrowdStrike",
       "level": "experienced",
       "term": null,
