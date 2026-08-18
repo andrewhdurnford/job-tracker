@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-18T16:40:16.886Z",
+  "generatedAt": "2026-08-18T16:49:23.142Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "Nvidia:JR2009916",
-    "xai:5214352007"
+    "plane:9abf509a-e3e6-4806-b457-ef31ed9adc7f",
+    "spacex:8726545002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 23,
     "new-grad": 15,
-    "experienced": 2053
+    "experienced": 2055
   },
   "companies": [
     {
@@ -3589,7 +3589,7 @@
     {
       "name": "Plane",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4463,10 +4463,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 126,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 127,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5409,6 +5409,38 @@
   ],
   "jobs": [
     {
+      "id": "9abf509a-e3e6-4806-b457-ef31ed9adc7f",
+      "title": "Software Engineer, Full Stack",
+      "location": "United States",
+      "team": "AI Engineering",
+      "url": "https://jobs.ashbyhq.com/plane/9abf509a-e3e6-4806-b457-ef31ed9adc7f",
+      "postedAt": "2026-08-18T16:45:49.362Z",
+      "key": "plane:9abf509a-e3e6-4806-b457-ef31ed9adc7f",
+      "company": "Plane",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T16:49:23.142Z"
+    },
+    {
+      "id": "8726545002",
+      "title": "Software Engineer",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8726545002?gh_jid=8726545002",
+      "postedAt": "2026-08-18T16:42:29.000Z",
+      "key": "spacex:8726545002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-18T16:49:23.142Z"
+    },
+    {
       "id": "5214352007",
       "title": "Ops/Build Engineer (xAI Transmission & Distribution)",
       "location": "Memphis, Tennessee",
@@ -5890,13 +5922,13 @@
       "firstSeen": "2026-08-18T05:10:18.256Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -5906,13 +5938,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
