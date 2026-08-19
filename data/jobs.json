@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-19T22:50:16.289Z",
+  "generatedAt": "2026-08-19T23:00:26.828Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "airbnb:8142827",
+    "snowflake:1ed263be-f6d1-41fb-8cd7-fc99112c2ca1"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -114,7 +117,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -1787,7 +1790,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4636,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1ed263be-f6d1-41fb-8cd7-fc99112c2ca1",
+      "title": "Senior Software Engineer - Observability",
+      "location": "US-WA-Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/1ed263be-f6d1-41fb-8cd7-fc99112c2ca1",
+      "postedAt": "2026-08-19T22:53:47.224Z",
+      "key": "snowflake:1ed263be-f6d1-41fb-8cd7-fc99112c2ca1",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-19T23:00:26.828Z"
+    },
+    {
+      "id": "8142827",
+      "title": "Software Engineer, Trust",
+      "location": "Remote, United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8142827?gh_jid=8142827",
+      "postedAt": "2026-08-19T22:53:29.000Z",
+      "key": "airbnb:8142827",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-19T23:00:26.828Z"
+    },
     {
       "id": "c5726e3b-72c1-4240-b99d-526d0a9adbad",
       "title": "Staff Software Engineer, Security",
@@ -9106,13 +9141,13 @@
       "firstSeen": "2026-08-18T05:10:18.256Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -9122,13 +9157,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -30332,13 +30367,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -30348,13 +30383,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -43200,40 +43235,6 @@
       "postedAt": "2026-07-20T23:01:50.000Z",
       "key": "cloudflare:8066716",
       "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "7810446003",
-      "title": "Senior Staff R&D Software Engineer, Fivetran AI",
-      "location": "USA - Austin (dbt)",
-      "team": null,
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7810446003",
-      "postedAt": "2026-07-20T23:00:03.000Z",
-      "key": "fivetran:7810446003",
-      "company": "Fivetran",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "7810361003",
-      "title": "Senior Staff R&D Software Engineer, Fivetran AI",
-      "location": "Oakland, California, United States, AMER",
-      "team": null,
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7810361003",
-      "postedAt": "2026-07-20T22:57:00.000Z",
-      "key": "fivetran:7810361003",
-      "company": "Fivetran",
       "level": "experienced",
       "term": null,
       "regions": [
