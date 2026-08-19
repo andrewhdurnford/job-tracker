@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-19T03:10:18.473Z",
+  "generatedAt": "2026-08-19T03:20:26.729Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "strava:29c316b0-ffdc-4184-9efe-13a11591e22c"
+    "verkada:5215837007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 23,
     "new-grad": 15,
-    "experienced": 2090
+    "experienced": 2091
   },
   "companies": [
     {
@@ -4462,10 +4462,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5093,7 +5093,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5407,6 +5407,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5215837007",
+      "title": "Senior Frontend Engineer - Web Platform",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5215837007",
+      "postedAt": "2026-08-19T03:19:31.000Z",
+      "key": "verkada:5215837007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-19T03:20:26.729Z"
+    },
     {
       "id": "29c316b0-ffdc-4184-9efe-13a11591e22c",
       "title": "Engineering Manager, Subscriptions ",
@@ -28494,23 +28510,6 @@
       "seeded": true
     },
     {
-      "id": "7819656003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819656003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819654003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote US",
@@ -28523,6 +28522,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819656003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819656003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -36064,23 +36080,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -36093,6 +36092,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
