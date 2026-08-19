@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-19T20:40:22.058Z",
+  "generatedAt": "2026-08-19T20:45:53.017Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "langchain:9a0ae8b4-af0c-4551-b9cd-284fe67e1935",
-    "stripe:8142302"
+    "garnerhealth:6147544004",
+    "spacex:8697058002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 28,
     "new-grad": 18,
-    "experienced": 2092
+    "experienced": 2093
   },
   "companies": [
     {
@@ -1818,7 +1818,7 @@
     {
       "name": "Garner Health",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3155,7 +3155,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4464,7 +4464,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 136,
+      "jobCount": 137,
       "error": null,
       "stale": false
     },
@@ -5408,6 +5408,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6147544004",
+      "title": "Staff Site Reliability Engineer",
+      "location": "Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6147544004",
+      "postedAt": "2026-08-19T20:45:27.000Z",
+      "key": "garnerhealth:6147544004",
+      "company": "Garner Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-08-19T20:45:53.017Z"
+    },
+    {
+      "id": "8697058002",
+      "title": "Maintenance Engineer, High Pressure Die Casting (Starlink)   ",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8697058002?gh_jid=8697058002",
+      "postedAt": "2026-08-19T20:43:52.000Z",
+      "key": "spacex:8697058002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-19T20:45:53.017Z"
+    },
     {
       "id": "8142302",
       "title": "Security Incident Response Engineer",
@@ -6841,7 +6873,7 @@
     },
     {
       "id": "39def5c3-3d91-4e67-aae5-5007be91c245",
-      "title": "Lead Backend Software Engineer - Sensors and Integrations",
+      "title": "Backend Software Engineer - Sensors and Integrations",
       "location": "Seattle, WA (+1 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/runetech/39def5c3-3d91-4e67-aae5-5007be91c245",
@@ -8298,13 +8330,13 @@
       "firstSeen": "2026-08-18T05:10:18.256Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -8314,13 +8346,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -14515,22 +14547,6 @@
       "firstSeen": "2026-08-12T15:50:21.965Z"
     },
     {
-      "id": "5387144008",
-      "title": "Software Engineer - Query Language",
-      "location": "Portland, Oregon, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5387144008",
-      "postedAt": "2026-08-12T15:41:36.000Z",
-      "key": "newrelic:5387144008",
-      "company": "New Relic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T15:50:21.965Z"
-    },
-    {
       "id": "8116208",
       "title": "Principal Systems Engineer, DevTools",
       "location": "Atlanta, GA (+3 more)",
@@ -16482,22 +16498,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -16510,6 +16510,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -27953,13 +27969,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -27969,13 +27985,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -29422,23 +29438,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -29451,6 +29450,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
