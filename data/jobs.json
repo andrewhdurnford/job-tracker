@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-08-19T03:20:26.729Z",
+  "generatedAt": "2026-08-19T03:30:23.315Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "verkada:5215837007"
+    "verkada:5215841007",
+    "verkada:5215838007",
+    "verkada:5215842007",
+    "verkada:5215840007",
+    "verkada:5215839007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 23,
     "new-grad": 15,
-    "experienced": 2091
+    "experienced": 2096
   },
   "companies": [
     {
@@ -4462,10 +4466,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 131,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5093,7 +5097,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5407,6 +5411,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5215842007",
+      "title": "Senior Backend Engineer - Device Platform",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5215842007",
+      "postedAt": "2026-08-19T03:26:47.000Z",
+      "key": "verkada:5215842007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-19T03:30:23.315Z"
+    },
+    {
+      "id": "5215841007",
+      "title": "Senior Backend Engineer",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5215841007",
+      "postedAt": "2026-08-19T03:26:22.000Z",
+      "key": "verkada:5215841007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-19T03:30:23.315Z"
+    },
+    {
+      "id": "5215840007",
+      "title": "Senior Frontend Engineer - Access Control",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5215840007",
+      "postedAt": "2026-08-19T03:25:58.000Z",
+      "key": "verkada:5215840007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-19T03:30:23.315Z"
+    },
+    {
+      "id": "5215839007",
+      "title": "Staff Frontend Engineer - Mapping & Spatial Platform",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5215839007",
+      "postedAt": "2026-08-19T03:25:13.000Z",
+      "key": "verkada:5215839007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-19T03:30:23.315Z"
+    },
+    {
+      "id": "5215838007",
+      "title": "Senior Backend Engineer - Access Control",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5215838007",
+      "postedAt": "2026-08-19T03:24:31.000Z",
+      "key": "verkada:5215838007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-19T03:30:23.315Z"
+    },
     {
       "id": "5215837007",
       "title": "Senior Frontend Engineer - Web Platform",
@@ -28510,23 +28594,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -28539,6 +28606,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -36080,23 +36164,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -36109,6 +36176,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
