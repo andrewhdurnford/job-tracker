@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-20T15:50:18.942Z",
+  "generatedAt": "2026-08-20T16:00:30.153Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "anyscale:01aef589-e268-4b22-b513-d1f9f076210f"
+    "anthropic:5395767008",
+    "anthropic:5397005008"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 19,
-    "experienced": 2216
+    "experienced": 2218
   },
   "companies": [
     {
@@ -305,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -3225,7 +3226,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5395767008",
+      "title": "Staff+ Software Engineer, Claude Managed Agents",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5395767008",
+      "postedAt": "2026-08-20T15:55:19.000Z",
+      "key": "anthropic:5395767008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T16:00:30.153Z"
+    },
+    {
+      "id": "5397005008",
+      "title": "Staff+ Software Engineer, Platform Distribution",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397005008",
+      "postedAt": "2026-08-20T15:55:18.000Z",
+      "key": "anthropic:5397005008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T16:00:30.153Z"
+    },
     {
       "id": "01aef589-e268-4b22-b513-d1f9f076210f",
       "title": "Software Engineer (Ray Data)",
