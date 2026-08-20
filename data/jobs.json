@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-20T22:40:24.495Z",
+  "generatedAt": "2026-08-20T22:50:17.323Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "ambiencehealthcare:ff693839-faff-4921-ae76-b4c7ef45ecc9",
+    "openai:44abed05-4b45-4aa0-bee6-45d113bbef66"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 18,
-    "experienced": 2204
+    "experienced": 2203
   },
   "companies": [
     {
@@ -65,7 +68,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -212,7 +215,7 @@
     {
       "name": "Ambience Healthcare",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 136,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "44abed05-4b45-4aa0-bee6-45d113bbef66",
+      "title": "Data Engineer, Monetization Data Platform",
+      "location": "Mountain View (+1 more)",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/44abed05-4b45-4aa0-bee6-45d113bbef66",
+      "postedAt": "2026-08-20T22:40:29.869Z",
+      "key": "openai:44abed05-4b45-4aa0-bee6-45d113bbef66",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T22:50:17.323Z"
+    },
+    {
+      "id": "ff693839-faff-4921-ae76-b4c7ef45ecc9",
+      "title": "Engineering Manager, Product",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ambiencehealthcare/ff693839-faff-4921-ae76-b4c7ef45ecc9",
+      "postedAt": "2026-08-20T22:40:23.862Z",
+      "key": "ambiencehealthcare:ff693839-faff-4921-ae76-b4c7ef45ecc9",
+      "company": "Ambience Healthcare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T22:50:17.323Z"
+    },
     {
       "id": "7920039003",
       "title": "Senior Backend Engineer, Experimentation",
@@ -24290,23 +24325,6 @@
       "firstSeen": "2026-08-06T00:50:25.402Z"
     },
     {
-      "id": "R170725",
-      "title": "Senior Workday Platform Architect",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Workday-Platform-Architect_R170725",
-      "postedAt": "2026-08-06T00:30:27.911Z",
-      "key": "Adobe:R170725",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
       "id": "JR2019406",
       "title": "Senior Reliability Engineer",
       "location": "US, CA, Santa Clara",
@@ -31547,22 +31565,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
       "location": "McGregor, TX",
@@ -31579,13 +31581,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -31602,6 +31604,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658737002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658628002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -38809,38 +38827,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "afc9813c-ec78-4579-b08b-e3716a36dbb0",
-      "title": "AI Success Engineer - Healthcare & Life Sciences",
-      "location": "San Francisco",
-      "team": "AI Success",
-      "url": "https://jobs.ashbyhq.com/openai/afc9813c-ec78-4579-b08b-e3716a36dbb0",
-      "postedAt": "2026-07-24T16:43:46.530Z",
-      "key": "openai:afc9813c-ec78-4579-b08b-e3716a36dbb0",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "07522b43-7861-4e71-b18c-f43aab192e20",
-      "title": "AI Success Engineer - Healthcare & Life Sciences",
-      "location": "New York City",
-      "team": "AI Success",
-      "url": "https://jobs.ashbyhq.com/openai/07522b43-7861-4e71-b18c-f43aab192e20",
-      "postedAt": "2026-07-24T16:43:01.573Z",
-      "key": "openai:07522b43-7861-4e71-b18c-f43aab192e20",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "4718258005",
