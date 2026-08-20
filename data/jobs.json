@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-08-20T21:50:23.997Z",
+  "generatedAt": "2026-08-20T22:00:26.162Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "rigetti:251caffa-84df-47c1-8470-9c57a0897871"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 181,
+      "jobCount": 180,
       "error": null,
       "stale": false
     },
@@ -4202,7 +4204,7 @@
     {
       "name": "Rigetti Quantum Computing",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 136,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,22 +5701,6 @@
     }
   ],
   "jobs": [
-    {
-      "id": "JR2023906",
-      "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2023906",
-      "postedAt": "2026-08-20T21:44:44.586Z",
-      "key": "Nvidia:JR2023906",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T21:44:40.288Z"
-    },
     {
       "id": "8146113",
       "title": "Senior Research Engineer, Threat Intelligence",
@@ -7858,6 +7844,22 @@
         "us"
       ],
       "firstSeen": "2026-08-19T18:20:19.315Z"
+    },
+    {
+      "id": "251caffa-84df-47c1-8470-9c57a0897871",
+      "title": "Lead Quantum Engineer, Systems Performance",
+      "location": "Berkeley, CA",
+      "team": "QPU Engineering Operations",
+      "url": "https://jobs.lever.co/rigetti/251caffa-84df-47c1-8470-9c57a0897871",
+      "postedAt": "2026-08-19T18:09:21.164Z",
+      "key": "rigetti:251caffa-84df-47c1-8470-9c57a0897871",
+      "company": "Rigetti Quantum Computing",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T22:00:26.162Z"
     },
     {
       "id": "8142187",
