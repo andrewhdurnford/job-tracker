@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-08-20T17:00:28.477Z",
+  "generatedAt": "2026-08-20T17:10:21.349Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "sesame:04780842-fd58-41d9-87a1-f65e818eebab"
+    "abnormalsecurity:7896108003",
+    "decagon:5433ff3a-9a7c-406b-9dd8-23094141b907",
+    "discord:8730666002",
+    "handshake:bf9890b9-da32-46a5-979a-f9de3ebfb73c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 19,
-    "experienced": 2212
+    "experienced": 2216
   },
   "companies": [
     {
@@ -32,7 +35,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1348,7 +1351,7 @@
     {
       "name": "Decagon",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1411,7 +1414,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -2146,7 +2149,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "8730666002",
+      "title": "Senior Data Scientist, Causal Inference + Experimentation",
+      "location": "San Francisco Bay Area ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8730666002",
+      "postedAt": "2026-08-20T17:03:45.000Z",
+      "key": "discord:8730666002",
+      "company": "Discord",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T17:10:21.349Z"
+    },
+    {
+      "id": "bf9890b9-da32-46a5-979a-f9de3ebfb73c",
+      "title": "Senior Cloud Engineer, Agentic Infrastructure ",
+      "location": "San Francisco, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/handshake/bf9890b9-da32-46a5-979a-f9de3ebfb73c",
+      "postedAt": "2026-08-20T17:02:05.560Z",
+      "key": "handshake:bf9890b9-da32-46a5-979a-f9de3ebfb73c",
+      "company": "Handshake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T17:10:21.349Z"
+    },
+    {
+      "id": "7896108003",
+      "title": "Senior Security Engineer",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://abnormal.ai/careers/jobs/7896108003?gh_jid=7896108003",
+      "postedAt": "2026-08-20T17:01:15.000Z",
+      "key": "abnormalsecurity:7896108003",
+      "company": "Abnormal Security",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T17:10:21.349Z"
+    },
+    {
       "id": "04780842-fd58-41d9-87a1-f65e818eebab",
       "title": "Software Engineer - Backend",
       "location": "San Francisco (+2 more)",
@@ -5892,6 +5943,22 @@
         "us"
       ],
       "firstSeen": "2026-08-20T15:50:18.942Z"
+    },
+    {
+      "id": "5433ff3a-9a7c-406b-9dd8-23094141b907",
+      "title": "Agent Data Scientist",
+      "location": "San Francisco",
+      "team": "Deployment Strategists",
+      "url": "https://jobs.ashbyhq.com/decagon/5433ff3a-9a7c-406b-9dd8-23094141b907",
+      "postedAt": "2026-08-20T15:33:38.404Z",
+      "key": "decagon:5433ff3a-9a7c-406b-9dd8-23094141b907",
+      "company": "Decagon",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T17:10:21.349Z"
     },
     {
       "id": "38593ce4-10fe-4718-8c04-26bfaefef9d3",
@@ -18666,22 +18733,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -18694,6 +18745,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -20773,22 +20840,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -20801,6 +20852,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -40393,23 +40460,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -40422,6 +40472,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
