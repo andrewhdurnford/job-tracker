@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-08-20T20:40:19.552Z",
+  "generatedAt": "2026-08-20T20:50:21.632Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Nvidia:JR2023813",
-    "snorkelai:6148803004"
+    "coinbase:8144769",
+    "instacart:8143263",
+    "mongodb:8081430",
+    "snorkelai:6148958004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 18,
-    "experienced": 2197
+    "experienced": 2199
   },
   "companies": [
     {
@@ -677,7 +679,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1055,7 +1057,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -2420,7 +2422,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -3134,7 +3136,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3512,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -4632,7 +4634,7 @@
     {
       "name": "Snorkel AI",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "8144769",
+      "title": " Staff Infrastructure Engineer, Trading ",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8144769?gh_jid=8144769",
+      "postedAt": "2026-08-20T20:42:47.000Z",
+      "key": "coinbase:8144769",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T20:50:21.632Z"
+    },
+    {
+      "id": "8081430",
+      "title": "Senior Software Engineer",
+      "location": "Toronto",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8081430",
+      "postedAt": "2026-08-20T20:41:48.000Z",
+      "key": "mongodb:8081430",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-20T20:50:21.632Z"
+    },
+    {
+      "id": "6148958004",
+      "title": "Software Engineer — Platform",
+      "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6148958004",
+      "postedAt": "2026-08-20T20:41:08.000Z",
+      "key": "snorkelai:6148958004",
+      "company": "Snorkel AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T20:50:21.632Z"
+    },
+    {
       "id": "JR2023813",
       "title": "Senior Software Test Developer – DriveOS",
       "location": "US, CA, Santa Clara",
@@ -5943,6 +5993,22 @@
         "us"
       ],
       "firstSeen": "2026-08-20T19:20:18.759Z"
+    },
+    {
+      "id": "8143263",
+      "title": "Machine Learning Engineer II, Ads - Response Prediction",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8143263",
+      "postedAt": "2026-08-20T19:14:19.000Z",
+      "key": "instacart:8143263",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-20T20:50:21.632Z"
     },
     {
       "id": "8143147",
@@ -16507,22 +16573,6 @@
         "us"
       ],
       "firstSeen": "2026-08-12T18:07:26.118Z"
-    },
-    {
-      "id": "8119806",
-      "title": "Enterprise Security Engineer II",
-      "location": "US Remote ",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8119806",
-      "postedAt": "2026-08-12T17:51:45.000Z",
-      "key": "boxinc:8119806",
-      "company": "Box",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T18:00:23.806Z"
     },
     {
       "id": "JR2009916",
@@ -42327,22 +42377,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
-      "title": "Systems Integration Engineer, Build Systems | Consumer Devices",
-      "location": "San Francisco",
-      "team": "Consumer Devices",
-      "url": "https://jobs.ashbyhq.com/openai/b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
-      "postedAt": "2026-07-21T20:49:43.237Z",
-      "key": "openai:b9336fbf-ef34-48f3-aa3a-4fb5482fe6ea",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "R247436",
