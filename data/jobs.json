@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-08-20T22:20:19.381Z",
+  "generatedAt": "2026-08-20T22:30:20.385Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "gitlab:8722934002",
-    "gusto:8144140"
+    "Nvidia:JR1997186",
+    "Nvidia:JR2022759",
+    "openai:0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
+    "quindar:f1b540a9-8f41-4330-a23d-23cd694783db"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 18,
-    "experienced": 2201
+    "experienced": 2204
   },
   "companies": [
     {
@@ -3428,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 178,
+      "jobCount": 180,
       "error": null,
       "stale": false
     },
@@ -3512,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -4016,7 +4018,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4471,7 +4473,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5705,38 @@
   ],
   "jobs": [
     {
+      "id": "0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
+      "title": "Software Engineer, Private Computing",
+      "location": "San Francisco",
+      "team": "Consumer Devices",
+      "url": "https://jobs.ashbyhq.com/openai/0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
+      "postedAt": "2026-08-20T22:28:11.915Z",
+      "key": "openai:0f887fe6-39f4-44f6-8ee5-230c3002f0d7",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T22:30:20.385Z"
+    },
+    {
+      "id": "f1b540a9-8f41-4330-a23d-23cd694783db",
+      "title": "QA Engineer",
+      "location": "Denver, CO",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/quindar/f1b540a9-8f41-4330-a23d-23cd694783db",
+      "postedAt": "2026-08-20T22:27:13.229Z",
+      "key": "quindar:f1b540a9-8f41-4330-a23d-23cd694783db",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T22:30:20.385Z"
+    },
+    {
       "id": "8144140",
       "title": "Staff Software Engineer, Salesforce Developer",
       "location": "Denver, CO - Hybrid; New York, New York, United States; San Francisco, CA - Hybrid",
@@ -5857,22 +5891,6 @@
       "postedAt": "2026-08-20T20:52:13.000Z",
       "key": "snorkelai:6148995004",
       "company": "Snorkel AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T21:00:29.035Z"
-    },
-    {
-      "id": "f4f67d78-7d8f-4f62-91a8-9a4f90d8523e",
-      "title": "Senior Staff Engineer, HMS DevOps/DevEx (R5771)",
-      "location": "Washington, DC (+1 more)",
-      "team": "Integration & Test",
-      "url": "https://jobs.lever.co/shieldai/f4f67d78-7d8f-4f62-91a8-9a4f90d8523e",
-      "postedAt": "2026-08-20T20:52:07.523Z",
-      "key": "shieldai:f4f67d78-7d8f-4f62-91a8-9a4f90d8523e",
-      "company": "Shield AI",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -8266,13 +8284,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://boards.greenhouse.io/braze/jobs/8141757?gh_jid=8141757",
+      "url": "https://boards.greenhouse.io/braze/jobs/8141756?gh_jid=8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -8282,13 +8300,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://boards.greenhouse.io/braze/jobs/8141756?gh_jid=8141756",
+      "url": "https://boards.greenhouse.io/braze/jobs/8141757?gh_jid=8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -16023,6 +16041,38 @@
       "firstSeen": "2026-08-12T22:40:19.000Z"
     },
     {
+      "id": "JR1997186",
+      "title": "Senior Software Engineer, NCCL",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--GPU-Communications-and-Networking_JR1997186",
+      "postedAt": "2026-08-12T22:30:41.968Z",
+      "key": "Nvidia:JR1997186",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T22:30:20.385Z"
+    },
+    {
+      "id": "JR2022759",
+      "title": "Software Verification Engineer - Networking",
+      "location": "US, TX, Austin",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Networking-Verification-Engineer_JR2022759",
+      "postedAt": "2026-08-12T22:30:41.968Z",
+      "key": "Nvidia:JR2022759",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T22:30:20.385Z"
+    },
+    {
       "id": "5388612008",
       "title": "Software Engineer, Infrastructure, Interpretability",
       "location": "San Francisco, CA",
@@ -19377,22 +19427,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -19405,6 +19439,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -31486,22 +31536,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
       "location": "Starbase, TX",
@@ -31518,13 +31552,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -31541,6 +31575,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658628002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658737002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
