@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-08-20T03:50:20.991Z",
+  "generatedAt": "2026-08-20T04:00:25.751Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "ServiceTitan:JR113479"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 30,
-    "new-grad": 20,
-    "experienced": 2237
+    "new-grad": 19,
+    "experienced": 2238
   },
   "companies": [
     {
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 177,
+      "jobCount": 176,
       "error": null,
       "stale": false
     },
@@ -3424,10 +3426,10 @@
     },
     {
       "name": "Nvidia",
-      "ok": false,
+      "ok": true,
       "jobCount": 185,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Oasis Security",
@@ -4433,7 +4435,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 135,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5700,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "JR113479",
+      "title": "Senior Manager, AI Engineering (Agent OS Platform)",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Director--AI-Engineering_JR113479",
+      "postedAt": "2026-08-20T04:00:29.389Z",
+      "key": "ServiceTitan:JR113479",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T04:00:25.751Z"
+    },
+    {
       "id": "8142712",
       "title": "Senior Software Engineer - Marketplace Foundation",
       "location": "San Mateo, CA, United States",
@@ -6154,22 +6172,6 @@
         "us"
       ],
       "firstSeen": "2026-08-19T21:20:19.744Z"
-    },
-    {
-      "id": "R247335",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247335",
-      "postedAt": "2026-08-19T21:10:22.466Z",
-      "key": "Capital One:R247335",
-      "company": "Capital One",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-19T21:10:18.839Z"
     },
     {
       "id": "R168653",
