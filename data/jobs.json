@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-20T18:20:18.271Z",
+  "generatedAt": "2026-08-20T18:30:21.713Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "adyen:8090234"
+    "Capital One:R249566",
+    "inferact:ad992ead-2a9a-4694-8fca-0504354548cd",
+    "Nvidia:JR2011122"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 18,
-    "experienced": 2208
+    "experienced": 2207
   },
   "companies": [
     {
@@ -788,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 174,
+      "jobCount": 175,
       "error": null,
       "stale": false
     },
@@ -1789,7 +1791,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -2370,7 +2372,7 @@
     {
       "name": "Inferact",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 178,
+      "jobCount": 179,
       "error": null,
       "stale": false
     },
@@ -3552,10 +3554,10 @@
     },
     {
       "name": "Outschool",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Outset",
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 135,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R249566",
+      "title": "Lead Software Engineer, Back End",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Software-Engineer--Back-End_R249566-1",
+      "postedAt": "2026-08-20T18:30:25.056Z",
+      "key": "Capital One:R249566",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T18:30:21.713Z"
+    },
+    {
+      "id": "ad992ead-2a9a-4694-8fca-0504354548cd",
+      "title": "Member of Technical Staff, Site Reliability Engineer",
+      "location": "San Francisco",
+      "team": "Research & Engineering",
+      "url": "https://jobs.ashbyhq.com/inferact/ad992ead-2a9a-4694-8fca-0504354548cd",
+      "postedAt": "2026-08-20T18:25:22.552Z",
+      "key": "inferact:ad992ead-2a9a-4694-8fca-0504354548cd",
+      "company": "Inferact",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T18:30:21.713Z"
+    },
     {
       "id": "7871448003",
       "title": "Associate AI Engineer, Finance Transformation",
@@ -7652,13 +7686,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://boards.greenhouse.io/braze/jobs/8141757?gh_jid=8141757",
+      "url": "https://boards.greenhouse.io/braze/jobs/8141756?gh_jid=8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -7668,13 +7702,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://boards.greenhouse.io/braze/jobs/8141756?gh_jid=8141756",
+      "url": "https://boards.greenhouse.io/braze/jobs/8141757?gh_jid=8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -18843,22 +18877,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -18871,6 +18889,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -19345,6 +19379,22 @@
         "us"
       ],
       "firstSeen": "2026-08-19T14:40:20.043Z"
+    },
+    {
+      "id": "JR2011122",
+      "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2011122",
+      "postedAt": "2026-08-10T18:30:50.139Z",
+      "key": "Nvidia:JR2011122",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T18:30:21.713Z"
     },
     {
       "id": "8112967",
@@ -31035,13 +31085,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -31051,13 +31101,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40537,23 +40587,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -40566,6 +40599,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -42491,74 +42541,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "7812006003",
-      "title": "Staff R&D Software Engineer, Fivetran AI",
-      "location": "USA - New York",
-      "team": null,
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7812006003",
-      "postedAt": "2026-07-21T18:29:23.000Z",
-      "key": "fivetran:7812006003",
-      "company": "Fivetran",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "7812000003",
-      "title": "Staff R&D Software Engineer, Fivetran AI",
-      "location": "Denver, Colorado, United States, AMER",
-      "team": null,
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7812000003",
-      "postedAt": "2026-07-21T18:29:22.000Z",
-      "key": "fivetran:7812000003",
-      "company": "Fivetran",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "7811996003",
-      "title": "Staff R&D Software Engineer, Fivetran AI",
-      "location": "USA - Austin (dbt)",
-      "team": null,
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7811996003",
-      "postedAt": "2026-07-21T18:29:21.000Z",
-      "key": "fivetran:7811996003",
-      "company": "Fivetran",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "7810220003",
-      "title": "Staff R&D Software Engineer, Fivetran AI",
-      "location": "Oakland, California, United States, AMER",
-      "team": null,
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7810220003",
-      "postedAt": "2026-07-21T18:25:54.000Z",
-      "key": "fivetran:7810220003",
-      "company": "Fivetran",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
     },
     {
       "id": "bb1bf8d6-85e7-46ed-b315-3b2501eb0576",
