@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-20T18:59:30.048Z",
+  "generatedAt": "2026-08-20T19:10:21.353Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "shieldai:4a9a4b36-2eb4-4994-8827-58db794f9018"
+    "anthropic:5390865008",
+    "curri:d616afe4-311f-4c73-8dc9-87c40f8c7ea8",
+    "spacex:8731809002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 18,
-    "experienced": 2203
+    "experienced": 2205
   },
   "companies": [
     {
@@ -305,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 74,
+      "jobCount": 73,
       "error": null,
       "stale": false
     },
@@ -1271,7 +1273,7 @@
     {
       "name": "Curri",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 135,
+      "jobCount": 136,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "d616afe4-311f-4c73-8dc9-87c40f8c7ea8",
+      "title": "Staff Software Engineer ",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/curri/d616afe4-311f-4c73-8dc9-87c40f8c7ea8",
+      "postedAt": "2026-08-20T19:07:31.732Z",
+      "key": "curri:d616afe4-311f-4c73-8dc9-87c40f8c7ea8",
+      "company": "Curri",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T19:10:21.353Z"
+    },
+    {
+      "id": "5390865008",
+      "title": "Manager of Applied AI Architecture, Commercial",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390865008",
+      "postedAt": "2026-08-20T19:07:21.000Z",
+      "key": "anthropic:5390865008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T19:10:21.353Z"
+    },
+    {
+      "id": "8731809002",
+      "title": "CNC Programmer, NX CAM (Starlink)",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8731809002?gh_jid=8731809002",
+      "postedAt": "2026-08-20T19:01:32.000Z",
+      "key": "spacex:8731809002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T19:10:21.353Z"
+    },
     {
       "id": "4a9a4b36-2eb4-4994-8827-58db794f9018",
       "title": "Senior Engineer, Full-Stack Software (R5751)",
@@ -13717,22 +13767,6 @@
         "us"
       ],
       "firstSeen": "2026-08-14T08:30:21.107Z"
-    },
-    {
-      "id": "R29795",
-      "title": "Senior SDET - AI Detection and Response (AIDR) (Hybrid)",
-      "location": "USA - Sunnyvale, CA",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Senior-SDET---AI-Detection-and-Response--AIDR---Hybrid-_R29795",
-      "postedAt": "2026-08-14T08:20:24.844Z",
-      "key": "CrowdStrike:R29795",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T08:20:17.511Z"
     },
     {
       "id": "b8aa9e15-39c1-416d-bdca-9f06244ac5af",
@@ -31052,22 +31086,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
       "location": "McGregor, TX",
@@ -31084,13 +31102,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -31107,6 +31125,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658628002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658737002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
