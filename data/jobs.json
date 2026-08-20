@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-08-20T15:30:23.388Z",
+  "generatedAt": "2026-08-20T15:40:18.016Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R242748",
-    "redis:38593ce4-10fe-4718-8c04-26bfaefef9d3"
+    "zscaler:5211047007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 19,
-    "experienced": 2220
+    "experienced": 2217
   },
   "companies": [
     {
@@ -1349,7 +1348,7 @@
     {
       "name": "Decagon",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3134,7 +3133,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4233,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 135,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5689,7 +5688,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5211047007",
+      "title": "Sr Director, AI Engineering",
+      "location": "San Jose, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5211047007",
+      "postedAt": "2026-08-20T15:32:49.000Z",
+      "key": "zscaler:5211047007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T15:40:18.016Z"
+    },
     {
       "id": "38593ce4-10fe-4718-8c04-26bfaefef9d3",
       "title": "Director, Platform Engineering",
@@ -5733,22 +5748,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-20T15:20:18.737Z"
-    },
-    {
-      "id": "5433ff3a-9a7c-406b-9dd8-23094141b907",
-      "title": "Agent Data Scientist",
-      "location": "San Francisco",
-      "team": "Data Science",
-      "url": "https://jobs.ashbyhq.com/decagon/5433ff3a-9a7c-406b-9dd8-23094141b907",
-      "postedAt": "2026-08-20T15:00:53.485Z",
-      "key": "decagon:5433ff3a-9a7c-406b-9dd8-23094141b907",
-      "company": "Decagon",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T15:10:24.134Z"
     },
     {
       "id": "5208829007",
@@ -7334,13 +7333,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://boards.greenhouse.io/braze/jobs/8141757?gh_jid=8141757",
+      "url": "https://boards.greenhouse.io/braze/jobs/8141756?gh_jid=8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -7350,13 +7349,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://boards.greenhouse.io/braze/jobs/8141756?gh_jid=8141756",
+      "url": "https://boards.greenhouse.io/braze/jobs/8141757?gh_jid=8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -18540,22 +18539,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -18568,6 +18551,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -20647,22 +20646,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -20675,6 +20658,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -40267,23 +40266,6 @@
       "seeded": true
     },
     {
-      "id": "8080310",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080310",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080310",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080312",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -40296,6 +40278,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080310",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080310",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080310",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -42728,57 +42727,6 @@
       "postedAt": "2026-07-21T15:45:20.000Z",
       "key": "asana:7964275",
       "company": "Asana",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8036588",
-      "title": "Senior Software Engineer, Kubernetes Compute",
-      "location": "Bellevue, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8036588?t=gh_src=&gh_jid=8036588",
-      "postedAt": "2026-07-21T15:36:55.000Z",
-      "key": "robinhood:8036588",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8052620",
-      "title": "Senior Engineering Manager, Developer Productivity",
-      "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
-      "team": null,
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8052620",
-      "postedAt": "2026-07-21T15:31:06.000Z",
-      "key": "mongodb:8052620",
-      "company": "MongoDB",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8052618",
-      "title": "Senior Engineering Manager, Developer Productivity",
-      "location": "United States",
-      "team": null,
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8052618",
-      "postedAt": "2026-07-21T15:31:05.000Z",
-      "key": "mongodb:8052618",
-      "company": "MongoDB",
       "level": "experienced",
       "term": null,
       "regions": [
