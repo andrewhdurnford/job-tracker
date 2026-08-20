@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-08-20T19:50:19.200Z",
+  "generatedAt": "2026-08-20T19:58:06.458Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "datadog:8144946",
-    "illumio:43440c61-a246-4e52-881a-feb2745055ea",
-    "lancedb:d86e0295-d4f3-45b7-93c2-b45309db9f89",
-    "Visa:REF083050W"
+    "clickhouse:6130197004",
+    "clickhouse:6130195004",
+    "mem0:55ef65b7-b9ad-4953-9892-430642281a23"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 18,
-    "experienced": 2207
+    "experienced": 2206
   },
   "companies": [
     {
@@ -987,7 +986,7 @@
     {
       "name": "ClickHouse",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4473,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6130197004",
+      "title": "Cloud Software Engineer - Observability Platform",
+      "location": "United States (remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6130197004",
+      "postedAt": "2026-08-20T19:56:15.000Z",
+      "key": "clickhouse:6130197004",
+      "company": "ClickHouse",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T19:58:06.458Z"
+    },
+    {
+      "id": "6130195004",
+      "title": "Cloud Software Engineer - Observability Platform",
+      "location": "Canada (remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6130195004",
+      "postedAt": "2026-08-20T19:56:10.000Z",
+      "key": "clickhouse:6130195004",
+      "company": "ClickHouse",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-20T19:58:06.458Z"
+    },
+    {
+      "id": "55ef65b7-b9ad-4953-9892-430642281a23",
+      "title": "Research Engineer - Agent Memory",
+      "location": "San Francisco Bay Area",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/mem0/55ef65b7-b9ad-4953-9892-430642281a23",
+      "postedAt": "2026-08-20T19:53:34.250Z",
+      "key": "mem0:55ef65b7-b9ad-4953-9892-430642281a23",
+      "company": "Mem0",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T19:58:06.458Z"
+    },
     {
       "id": "REF083050W",
       "title": "Staff Data Engineer",
@@ -7897,13 +7944,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://boards.greenhouse.io/braze/jobs/8141757?gh_jid=8141757",
+      "url": "https://boards.greenhouse.io/braze/jobs/8141756?gh_jid=8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -7913,13 +7960,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://boards.greenhouse.io/braze/jobs/8141756?gh_jid=8141756",
+      "url": "https://boards.greenhouse.io/braze/jobs/8141757?gh_jid=8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -19056,22 +19103,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -19084,6 +19115,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -31247,13 +31294,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -31263,13 +31310,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -33064,22 +33111,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "63632678-661b-41d1-9cbd-ad91361bc956",
-      "title": "Research Engineer - Agent Memory",
-      "location": "San Francisco Bay Area",
-      "team": "Research",
-      "url": "https://jobs.ashbyhq.com/mem0/63632678-661b-41d1-9cbd-ad91361bc956",
-      "postedAt": "2026-07-29T20:16:54.131Z",
-      "key": "mem0:63632678-661b-41d1-9cbd-ad91361bc956",
-      "company": "Mem0",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "fdbb184f-0576-49dd-a97c-4a36f5f3b334",
@@ -42453,54 +42484,6 @@
       "url": "https://jobs.lever.co/shieldai/9e5b2887-d40e-48ac-bfb3-f08bc9aa8829",
       "postedAt": "2026-07-21T20:00:36.968Z",
       "key": "shieldai:9e5b2887-d40e-48ac-bfb3-f08bc9aa8829",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "84623e5a-e496-4431-bc15-9bb92a080bc4",
-      "title": "Senior Software Engineer, Autonomous Pilot Integration – Emerging Domains (R5423)",
-      "location": "Washington, DC (+3 more)",
-      "team": "Flight System Integration",
-      "url": "https://jobs.lever.co/shieldai/84623e5a-e496-4431-bc15-9bb92a080bc4",
-      "postedAt": "2026-07-21T19:57:17.028Z",
-      "key": "shieldai:84623e5a-e496-4431-bc15-9bb92a080bc4",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "8b13cc38-809d-4aac-a778-a374a3d99167",
-      "title": "Senior Staff Software Engineer, Autonomous Pilot Integration –  Weapons (R5398)",
-      "location": "Washington, DC (+3 more)",
-      "team": "Flight System Integration",
-      "url": "https://jobs.lever.co/shieldai/8b13cc38-809d-4aac-a778-a374a3d99167",
-      "postedAt": "2026-07-21T19:54:07.546Z",
-      "key": "shieldai:8b13cc38-809d-4aac-a778-a374a3d99167",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "2973db9d-8bd9-4f89-af10-a6c0a7fead77",
-      "title": "Staff Software Engineer, Autonomous Pilot Integration –  Weapons (R5400)",
-      "location": "Washington, DC (+3 more)",
-      "team": "Flight System Integration",
-      "url": "https://jobs.lever.co/shieldai/2973db9d-8bd9-4f89-af10-a6c0a7fead77",
-      "postedAt": "2026-07-21T19:50:41.272Z",
-      "key": "shieldai:2973db9d-8bd9-4f89-af10-a6c0a7fead77",
       "company": "Shield AI",
       "level": "experienced",
       "term": null,
