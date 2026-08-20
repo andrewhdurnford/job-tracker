@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-08-20T18:13:15.455Z",
+  "generatedAt": "2026-08-20T18:20:18.271Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "adyen:8090234"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -72,7 +74,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2159,7 +2161,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 179,
+      "jobCount": 178,
       "error": null,
       "stale": false
     },
@@ -3550,10 +3552,10 @@
     },
     {
       "name": "Outschool",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Outset",
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 135,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -19506,22 +19508,6 @@
       "firstSeen": "2026-08-18T17:43:37.645Z"
     },
     {
-      "id": "JR2011122",
-      "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2011122",
-      "postedAt": "2026-08-10T17:00:47.492Z",
-      "key": "Nvidia:JR2011122",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T17:00:28.417Z"
-    },
-    {
       "id": "JR2022760",
       "title": "Senior Developer Relations Manager – GR00T End-to-End Workflow",
       "location": "US, CA, Santa Clara",
@@ -28071,6 +28057,22 @@
       ],
       "firstSeen": "2026-08-13T21:33:23.715Z",
       "seeded": true
+    },
+    {
+      "id": "8090234",
+      "title": "Software Engineer II (Java) - Lifecycle Experience",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8090234",
+      "postedAt": "2026-08-03T21:20:05.000Z",
+      "key": "adyen:8090234",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-20T18:20:18.271Z"
     },
     {
       "id": "1bf678c5-1058-45ca-b9bd-b0029fccd60e",
