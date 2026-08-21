@@ -1,19 +1,18 @@
 {
-  "generatedAt": "2026-08-21T19:30:22.093Z",
+  "generatedAt": "2026-08-21T19:40:18.477Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R249305",
-    "oklo:6150355004"
+    "ambrook:e458b046-aa7f-4022-bca5-63cdfd495456"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 32,
+    "intern": 33,
     "new-grad": 19,
-    "experienced": 2192
+    "experienced": 2189
   },
   "companies": [
     {
@@ -222,7 +221,7 @@
     {
       "name": "Ambrook",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1013,7 +1012,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -1132,7 +1131,7 @@
     {
       "name": "Confluent",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "e458b046-aa7f-4022-bca5-63cdfd495456",
+      "title": "Software Engineering Intern",
+      "location": "New York",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456",
+      "postedAt": "2026-08-21T19:35:46.030Z",
+      "key": "ambrook:e458b046-aa7f-4022-bca5-63cdfd495456",
+      "company": "Ambrook",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-21T19:40:18.477Z"
+    },
     {
       "id": "R249305",
       "title": "Lead Software Engineer",
@@ -42061,23 +42076,6 @@
       "seeded": true
     },
     {
-      "id": "8080312",
-      "title": "Staff Software Engineer, Bazel & Go",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8080312",
-      "postedAt": "2026-07-22T20:44:32.000Z",
-      "key": "instacart:8080312",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8080310",
       "title": "Staff Software Engineer, Bazel & Go",
       "location": "United States - Remote",
@@ -42090,6 +42088,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "8080312",
+      "title": "Staff Software Engineer, Bazel & Go",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8080312",
+      "postedAt": "2026-07-22T20:44:32.000Z",
+      "key": "instacart:8080312",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -42211,56 +42226,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "8079931",
-      "title": "Senior Product Security Engineer",
-      "location": "Austin, TX",
-      "team": "Security",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8079931?gh_jid=8079931",
-      "postedAt": "2026-07-22T19:39:52.000Z",
-      "key": "cloudflare:8079931",
-      "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "7947243",
-      "title": "Senior Software Engineer, Fleet Response Infrastructure",
-      "location": "Mountain View, California, United States of America",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7947243",
-      "postedAt": "2026-07-22T19:38:33.000Z",
-      "key": "waymo:7947243",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "80a47c3e-a160-4277-a452-1eef9c689167",
-      "title": "Staff Software Engineer",
-      "location": "Mountain View, California (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/confluent/80a47c3e-a160-4277-a452-1eef9c689167",
-      "postedAt": "2026-07-22T19:35:24.671Z",
-      "key": "confluent:80a47c3e-a160-4277-a452-1eef9c689167",
-      "company": "Confluent",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
     },
     {
       "id": "R247598",
