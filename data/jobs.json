@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-08-21T19:10:21.423Z",
+  "generatedAt": "2026-08-21T19:18:46.112Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "chime:8606649002",
+    "weave:1318e017-3ea6-4a1f-aac7-1c11a46cda8d"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 31,
+    "intern": 32,
     "new-grad": 19,
-    "experienced": 2194
+    "experienced": 2193
   },
   "companies": [
     {
@@ -926,7 +929,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -982,7 +985,7 @@
     {
       "name": "ClickHouse",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2172,7 +2175,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5490,7 +5493,7 @@
     {
       "name": "Weave",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1318e017-3ea6-4a1f-aac7-1c11a46cda8d",
+      "title": "Data Engineer Intern",
+      "location": "Weave - Headquarters (Lehi, UT)",
+      "team": "Business Intelligence",
+      "url": "https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d",
+      "postedAt": "2026-08-21T19:14:42.880Z",
+      "key": "weave:1318e017-3ea6-4a1f-aac7-1c11a46cda8d",
+      "company": "Weave",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-21T19:18:46.112Z"
+    },
     {
       "id": "6148527004",
       "title": "Senior Manager of Data Science Production Engineering, DevOps",
@@ -33390,6 +33409,22 @@
       "seeded": true
     },
     {
+      "id": "8606649002",
+      "title": "Full-Stack Engineer, Human Agent Tooling ",
+      "location": "San Francisco, CA, USA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
+      "postedAt": "2026-07-30T17:56:15.000Z",
+      "key": "chime:8606649002",
+      "company": "Chime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-21T19:18:46.112Z"
+    },
+    {
       "id": "JR2021169",
       "title": "Senior Software Technical Program Driver - OEM and NCP Escalations",
       "location": "US, CA, Santa Clara",
@@ -42235,40 +42270,6 @@
       "postedAt": "2026-07-22T19:24:06.000Z",
       "key": "cloudflare:8079117",
       "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "5778616004",
-      "title": "Senior Cloud Data Infrastructure Engineer",
-      "location": "Canada (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5778616004",
-      "postedAt": "2026-07-22T19:18:27.000Z",
-      "key": "clickhouse:5778616004",
-      "company": "ClickHouse",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "ef7616f0-dbf6-456b-8167-a85f1ef9b0e3",
-      "title": "Staff Software Engineer, Model Infrastructure",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/harvey/ef7616f0-dbf6-456b-8167-a85f1ef9b0e3",
-      "postedAt": "2026-07-22T19:13:22.829Z",
-      "key": "harvey:ef7616f0-dbf6-456b-8167-a85f1ef9b0e3",
-      "company": "Harvey",
       "level": "experienced",
       "term": null,
       "regions": [
