@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-21T16:50:17.127Z",
+  "generatedAt": "2026-08-21T17:00:24.543Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "airbyte:b59bbc91-fb77-4a08-9c47-0fca7f755942"
+    "cloudflare:8140310",
+    "CrowdStrike:R29908",
+    "openai:b08126cc-8134-45f0-aeb3-4b00e96547de"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -74,7 +76,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1012,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 77,
+      "jobCount": 78,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -3714,7 +3716,7 @@
     {
       "name": "Phylo",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4799,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29908",
+      "title": "Engineer II, Software Assurance, Product Security (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-II--Software-Assurance--Product-Security--Remote-_R29908",
+      "postedAt": "2026-08-21T17:00:28.225Z",
+      "key": "CrowdStrike:R29908",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-21T17:00:24.543Z"
+    },
+    {
+      "id": "8140310",
+      "title": "Senior Software Engineer - Quicksilver - Distributed Key Value",
+      "location": "Atlanta, GA (+5 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8140310?gh_jid=8140310",
+      "postedAt": "2026-08-21T16:57:23.000Z",
+      "key": "cloudflare:8140310",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-21T17:00:24.543Z"
+    },
+    {
+      "id": "b08126cc-8134-45f0-aeb3-4b00e96547de",
+      "title": "Android Systems Engineer, Consumer Devices",
+      "location": "San Francisco",
+      "team": "Consumer Devices",
+      "url": "https://jobs.ashbyhq.com/openai/b08126cc-8134-45f0-aeb3-4b00e96547de",
+      "postedAt": "2026-08-21T16:49:52.136Z",
+      "key": "openai:b08126cc-8134-45f0-aeb3-4b00e96547de",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-21T17:00:24.543Z"
+    },
     {
       "id": "b59bbc91-fb77-4a08-9c47-0fca7f755942",
       "title": "AI Platform Engineer",
@@ -29361,22 +29411,6 @@
       "seeded": true
     },
     {
-      "id": "8090234",
-      "title": "Software Engineer II (Java) - Lifecycle Experience",
-      "location": "Chicago",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8090234",
-      "postedAt": "2026-08-03T21:20:05.000Z",
-      "key": "adyen:8090234",
-      "company": "Adyen",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T18:20:18.271Z"
-    },
-    {
       "id": "1bf678c5-1058-45ca-b9bd-b0029fccd60e",
       "title": "Research Engineer / Research Scientist - Personal AGI, Personalization ",
       "location": "San Francisco",
@@ -42178,39 +42212,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "8070572",
-      "title": "Data Analyst, Financial Data Engineering",
-      "location": "New York",
-      "team": "7112 Data Science",
-      "url": "https://stripe.com/jobs/search?gh_jid=8070572",
-      "postedAt": "2026-07-22T16:55:09.000Z",
-      "key": "stripe:8070572",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "fd68f3cc-def2-4944-b339-01cf1e962e63",
-      "title": "Member of Technical Staff - Agent Engineer",
-      "location": "South San Francisco",
-      "team": "Technical Staff",
-      "url": "https://jobs.ashbyhq.com/phylo/fd68f3cc-def2-4944-b339-01cf1e962e63",
-      "postedAt": "2026-07-22T16:51:24.742Z",
-      "key": "phylo:fd68f3cc-def2-4944-b339-01cf1e962e63",
-      "company": "Phylo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
     },
     {
       "id": "R247610",
