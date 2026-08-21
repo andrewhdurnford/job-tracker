@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-21T17:30:21.354Z",
+  "generatedAt": "2026-08-21T17:40:17.540Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "affirm:7819445003",
-    "affirm:7819447003",
-    "instacart:8147300",
-    "swayable:5218768007"
+    "commure:93777ef3-e710-4f10-9475-3804d36390ad",
+    "llamaindex:b0a0e9d0-9826-46c5-b3a6-8ef3feb9cd9d",
+    "mongodb:8089859",
+    "twilio:8099162"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +15,7 @@
   "levelCounts": {
     "intern": 31,
     "new-grad": 19,
-    "experienced": 2192
+    "experienced": 2195
   },
   "companies": [
     {
@@ -1092,7 +1092,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2786,7 +2786,7 @@
     {
       "name": "LlamaIndex",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3136,7 +3136,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -3514,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -5229,7 +5229,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8089859",
+      "title": "Software Engineer 3, Atlas Clusters Platform",
+      "location": "New York City",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8089859",
+      "postedAt": "2026-08-21T17:39:19.000Z",
+      "key": "mongodb:8089859",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-21T17:40:17.540Z"
+    },
+    {
+      "id": "b0a0e9d0-9826-46c5-b3a6-8ef3feb9cd9d",
+      "title": "Developer Evangelist, Technical Content",
+      "location": "San Francisco",
+      "team": "Marketing",
+      "url": "https://jobs.ashbyhq.com/llamaindex/b0a0e9d0-9826-46c5-b3a6-8ef3feb9cd9d",
+      "postedAt": "2026-08-21T17:33:29.414Z",
+      "key": "llamaindex:b0a0e9d0-9826-46c5-b3a6-8ef3feb9cd9d",
+      "company": "LlamaIndex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-21T17:40:17.540Z"
+    },
+    {
+      "id": "93777ef3-e710-4f10-9475-3804d36390ad",
+      "title": "Engineering Manager, AI Integrations",
+      "location": "Mountain View, CA (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/commure/93777ef3-e710-4f10-9475-3804d36390ad",
+      "postedAt": "2026-08-21T17:32:05.366Z",
+      "key": "commure:93777ef3-e710-4f10-9475-3804d36390ad",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-21T17:40:17.540Z"
+    },
     {
       "id": "7819447003",
       "title": "Software Engineer II, Fullstack (App Experience)",
@@ -27947,6 +27995,22 @@
       "firstSeen": "2026-07-31T23:18:41.116Z"
     },
     {
+      "id": "8099162",
+      "title": "Senior Software Engineer (L3)",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8099162",
+      "postedAt": "2026-08-04T20:08:51.000Z",
+      "key": "twilio:8099162",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-21T17:40:17.540Z"
+    },
+    {
       "id": "8026207",
       "title": "Software Engineer, Platform Engineering (L2)",
       "location": "Remote - US",
@@ -42238,22 +42302,6 @@
       "postedAt": "2026-07-22T17:45:05.813Z",
       "key": "blaxel:eb5371bf-185a-447b-96ef-d136ef332d86",
       "company": "Blaxel",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "39cd0dd8-520d-4932-80bf-7495a1d1d11b",
-      "title": "Simulation Infrastructure Engineer",
-      "location": "San Francisco",
-      "team": "Robotics",
-      "url": "https://jobs.ashbyhq.com/openai/39cd0dd8-520d-4932-80bf-7495a1d1d11b",
-      "postedAt": "2026-07-22T17:35:37.634Z",
-      "key": "openai:39cd0dd8-520d-4932-80bf-7495a1d1d11b",
-      "company": "OpenAI",
       "level": "experienced",
       "term": null,
       "regions": [
