@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T05:10:18.116Z",
+  "generatedAt": "2026-08-22T05:20:21.534Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 32,
     "new-grad": 19,
-    "experienced": 2201
+    "experienced": 2200
   },
   "companies": [
     {
@@ -561,10 +561,10 @@
     },
     {
       "name": "Bill.com",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "BillionToOne",
@@ -785,10 +785,10 @@
     },
     {
       "name": "Capital One",
-      "ok": true,
+      "ok": false,
       "jobCount": 176,
-      "error": null,
-      "stale": false
+      "error": "HTTP 500 Internal Server Error",
+      "stale": true
     },
     {
       "name": "CaptivateIQ",
@@ -1052,7 +1052,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -42075,23 +42075,6 @@
         "us"
       ],
       "firstSeen": "2026-08-19T22:03:00.773Z",
-      "seeded": true
-    },
-    {
-      "id": "8064916",
-      "title": "Staff Software Engineer, Backend - FinHub (Ledger)",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8064916?gh_jid=8064916",
-      "postedAt": "2026-07-23T05:13:37.000Z",
-      "key": "coinbase:8064916",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
     },
     {
