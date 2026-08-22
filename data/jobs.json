@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:53:38.197Z",
+  "generatedAt": "2026-08-22T21:00:28.928Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 31,
     "new-grad": 18,
-    "experienced": 2138
+    "experienced": 2137
   },
   "companies": [
     {
@@ -302,10 +302,10 @@
     },
     {
       "name": "Anthropic",
-      "ok": true,
+      "ok": false,
       "jobCount": 35,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Anyscale",
@@ -4692,7 +4692,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 135,
+      "jobCount": 134,
       "error": null,
       "stale": false
     },
@@ -41254,23 +41254,6 @@
       "postedAt": "2026-07-23T21:05:12.000Z",
       "key": "cloudflare:8082556",
       "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8647921002",
-      "title": "HVAC Programmer",
-      "location": "McGregor, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8647921002?gh_jid=8647921002",
-      "postedAt": "2026-07-23T20:58:36.000Z",
-      "key": "spacex:8647921002",
-      "company": "SpaceX",
       "level": "experienced",
       "term": null,
       "regions": [
