@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-24T19:58:41.969Z",
+  "generatedAt": "2026-08-24T20:00:26.510Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "gitlab:8734888002"
+    "coinbase:8154983"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 16,
-    "experienced": 2037
+    "experienced": 2038
   },
   "companies": [
     {
@@ -1054,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8154983",
+      "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8154983?gh_jid=8154983",
+      "postedAt": "2026-08-24T19:58:52.000Z",
+      "key": "coinbase:8154983",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-24T20:00:26.510Z"
+    },
     {
       "id": "8734888002",
       "title": "Staff Corporate Security Engineer ",
@@ -10286,7 +10302,7 @@
     {
       "id": "c5726e3b-72c1-4240-b99d-526d0a9adbad",
       "title": "Staff Security Software Engineer, IAM",
-      "location": "San Francisco (+1 more)",
+      "location": "San Francisco",
       "team": "SA",
       "url": "https://jobs.ashbyhq.com/harvey/c5726e3b-72c1-4240-b99d-526d0a9adbad",
       "postedAt": "2026-08-19T22:33:40.926Z",
