@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-24T18:50:17.147Z",
+  "generatedAt": "2026-08-24T19:00:17.653Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "openai:d1121575-a1a7-47c9-97e6-56c70f441143"
+    "doordashusa:8154443",
+    "openai:9248eab6-74e0-4940-98eb-ca09b17da532",
+    "snowflake:21ed6b75-331d-472d-a36c-48520377d3d3"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 16,
-    "experienced": 2028
+    "experienced": 2029
   },
   "companies": [
     {
@@ -879,7 +881,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1453,7 +1455,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "21ed6b75-331d-472d-a36c-48520377d3d3",
+      "title": "Engineering Manager - Cost Intelligence",
+      "location": "US-WA-Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/21ed6b75-331d-472d-a36c-48520377d3d3",
+      "postedAt": "2026-08-24T18:56:59.023Z",
+      "key": "snowflake:21ed6b75-331d-472d-a36c-48520377d3d3",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-24T19:00:17.653Z"
+    },
+    {
+      "id": "8154443",
+      "title": "Staff Security Engineer",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8154443",
+      "postedAt": "2026-08-24T18:52:34.000Z",
+      "key": "doordashusa:8154443",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-24T19:00:17.653Z"
+    },
+    {
+      "id": "9248eab6-74e0-4940-98eb-ca09b17da532",
+      "title": "Software Engineer, AI accelerator Runtime",
+      "location": "San Francisco",
+      "team": "Hardware",
+      "url": "https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532",
+      "postedAt": "2026-08-24T18:51:59.391Z",
+      "key": "openai:9248eab6-74e0-4940-98eb-ca09b17da532",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-24T19:00:17.653Z"
+    },
     {
       "id": "d1121575-a1a7-47c9-97e6-56c70f441143",
       "title": "Systems Software Engineer, Silicon Bringup",
@@ -24810,38 +24860,6 @@
       ],
       "firstSeen": "2026-08-19T22:03:00.773Z",
       "seeded": true
-    },
-    {
-      "id": "4696748006",
-      "title": "Staff Product Security Engineer",
-      "location": "Canada - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4696748006",
-      "postedAt": "2026-08-06T22:15:51.000Z",
-      "key": "chainguard:4696748006",
-      "company": "Chainguard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-06T22:20:22.003Z"
-    },
-    {
-      "id": "4696743006",
-      "title": "Staff Product Security Engineer",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4696743006",
-      "postedAt": "2026-08-06T22:15:04.000Z",
-      "key": "chainguard:4696743006",
-      "company": "Chainguard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-06T22:20:22.003Z"
     },
     {
       "id": "8097469",
