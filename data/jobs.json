@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-08-24T21:00:26.867Z",
+  "generatedAt": "2026-08-24T21:10:18.055Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "faire:8743183002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 30,
+    "intern": 29,
     "new-grad": 16,
     "experienced": 2047
   },
@@ -1668,7 +1670,7 @@
     {
       "name": "Faire",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 166,
+      "jobCount": 165,
       "error": null,
       "stale": false
     },
@@ -4160,7 +4162,7 @@
     {
       "name": "Replit",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8743183002",
+      "title": "Senior Frontend Engineer",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8743183002?gh_jid=8743183002",
+      "postedAt": "2026-08-24T21:07:22.000Z",
+      "key": "faire:8743183002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-24T21:10:18.055Z"
+    },
     {
       "id": "0320a8db-cb1b-407b-bd62-b23734b83330",
       "title": "Software Engineer, Pretraining ",
@@ -15358,28 +15376,6 @@
       "firstSeen": "2026-08-15T20:13:53.197Z"
     },
     {
-      "id": "7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Foster City, CA",
-      "team": "Early Career",
-      "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-      "postedAt": "2026-08-15T18:49:00.242Z",
-      "key": "replit:7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-      "company": "Replit",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-15T18:50:17.279Z"
-    },
-    {
       "id": "R246801",
       "title": "Senior Manager, Mobile Engineering, Android (Enterprise Platforms Technology)",
       "location": "McLean, VA",
@@ -24388,22 +24384,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -24416,6 +24396,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -27144,23 +27140,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Infrastructure-Software-Engineer--Deep-Learning-Libraries_JR2020105",
       "postedAt": "2026-08-06T00:30:24.961Z",
       "key": "Nvidia:JR2020105",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T20:19:33.040Z",
-      "seeded": true
-    },
-    {
-      "id": "JR2016047",
-      "title": "Senior Software Engineer, Machine Learning Inference",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Machine-Learning-Inference_JR2016047",
-      "postedAt": "2026-08-06T00:30:24.961Z",
-      "key": "Nvidia:JR2016047",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
