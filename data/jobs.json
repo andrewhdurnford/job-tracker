@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-08-25T14:20:20.001Z",
+  "generatedAt": "2026-08-25T14:30:22.150Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "CrowdStrike:R29795",
+    "lyft:8743231002",
+    "notion:9fc52821-c394-4a80-85ba-5f1d7c36fb2b",
+    "Nvidia:JR2013472"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 29,
     "new-grad": 16,
-    "experienced": 2076
+    "experienced": 2080
   },
   "companies": [
     {
@@ -1241,7 +1246,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 77,
+      "jobCount": 78,
       "error": null,
       "stale": false
     },
@@ -2844,7 +2849,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -3369,7 +3374,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 166,
+      "jobCount": 167,
       "error": null,
       "stale": false
     },
@@ -3466,10 +3471,10 @@
     },
     {
       "name": "Okta",
-      "ok": false,
+      "ok": true,
       "jobCount": 18,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Ollama",
@@ -5699,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2013472",
+      "title": "System Software Engineer, Distributed Systems",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Distributed-Systems_JR2013472",
+      "postedAt": "2026-08-25T14:30:31.358Z",
+      "key": "Nvidia:JR2013472",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T14:30:22.150Z"
+    },
+    {
+      "id": "9fc52821-c394-4a80-85ba-5f1d7c36fb2b",
+      "title": "Data Scientist, Growth",
+      "location": "San Francisco, California",
+      "team": "Data Science ",
+      "url": "https://jobs.ashbyhq.com/notion/9fc52821-c394-4a80-85ba-5f1d7c36fb2b",
+      "postedAt": "2026-08-25T14:27:12.904Z",
+      "key": "notion:9fc52821-c394-4a80-85ba-5f1d7c36fb2b",
+      "company": "Notion",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T14:30:22.150Z"
+    },
+    {
+      "id": "8743231002",
+      "title": "Senior Software Engineer, Mapping",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8743231002?gh_jid=8743231002",
+      "postedAt": "2026-08-25T14:21:11.000Z",
+      "key": "lyft:8743231002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-25T14:30:22.150Z"
+    },
     {
       "id": "R0018530",
       "title": "Principal Software Engineer – Data & AI Platform",
@@ -10812,6 +10865,22 @@
         "us"
       ],
       "firstSeen": "2026-08-20T14:40:19.224Z"
+    },
+    {
+      "id": "R29795",
+      "title": "Senior SDET - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Senior-SDET---AI-Detection-and-Response--AIDR---Hybrid-_R29795",
+      "postedAt": "2026-08-20T14:30:33.727Z",
+      "key": "CrowdStrike:R29795",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T14:30:22.150Z"
     },
     {
       "id": "R29440",
