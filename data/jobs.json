@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-25T14:40:17.454Z",
+  "generatedAt": "2026-08-25T14:50:17.754Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "lyft:8746134002",
+    "perplexity:7dedcdea-42be-4bb0-b603-791146ff73f0"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 29,
     "new-grad": 16,
-    "experienced": 2080
+    "experienced": 2078
   },
   "companies": [
     {
@@ -1241,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 78,
+      "jobCount": 77,
       "error": null,
       "stale": false
     },
@@ -1535,7 +1538,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3670,7 +3673,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5224,7 +5227,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5700,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "8746134002",
+      "title": "Data Scientist, Optimization - Real-Time Supply Management",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8746134002?gh_jid=8746134002",
+      "postedAt": "2026-08-25T14:46:07.000Z",
+      "key": "lyft:8746134002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-25T14:50:17.754Z"
+    },
+    {
+      "id": "7dedcdea-42be-4bb0-b603-791146ff73f0",
+      "title": "Member of Technical Staff (Software Engineer, AI Systems)",
+      "location": "San Francisco (+1 more)",
+      "team": "AI Research & Systems",
+      "url": "https://jobs.ashbyhq.com/perplexity/7dedcdea-42be-4bb0-b603-791146ff73f0",
+      "postedAt": "2026-08-25T14:41:04.774Z",
+      "key": "perplexity:7dedcdea-42be-4bb0-b603-791146ff73f0",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T14:50:17.754Z"
+    },
+    {
       "id": "JR2013472",
       "title": "System Software Engineer, Distributed Systems",
       "location": "US, CA, Santa Clara",
@@ -5828,22 +5863,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T13:20:17.342Z"
-    },
-    {
-      "id": "R26320",
-      "title": "Associate Security Engineer (Remote)",
-      "location": "USA - Remote, TX",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320",
-      "postedAt": "2026-08-25T13:00:31.611Z",
-      "key": "CrowdStrike:R26320",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T13:00:27.924Z"
     },
     {
       "id": "6128892004",
@@ -6485,22 +6504,6 @@
         "us"
       ],
       "firstSeen": "2026-08-24T21:50:17.052Z"
-    },
-    {
-      "id": "8743234002",
-      "title": "Data Scientist, Optimization - Driver Incentives",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8743234002?gh_jid=8743234002",
-      "postedAt": "2026-08-24T21:41:37.000Z",
-      "key": "lyft:8743234002",
-      "company": "Lyft",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-24T21:47:16.773Z"
     },
     {
       "id": "5396384008",
@@ -8356,22 +8359,6 @@
       "postedAt": "2026-08-21T19:58:52.000Z",
       "key": "spacex:8738608002",
       "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T20:00:25.954Z"
-    },
-    {
-      "id": "7816159",
-      "title": "Software Engineer L2-Messaging API",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7816159",
-      "postedAt": "2026-08-21T19:58:26.000Z",
-      "key": "twilio:7816159",
-      "company": "Twilio",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -38620,23 +38607,6 @@
       "postedAt": "2026-07-28T12:39:19.000Z",
       "key": "elastic:8066481",
       "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "179541ee-8225-437b-b67d-d24c09240cd5",
-      "title": "Engineering - ElevenAPI",
-      "location": "United Kingdom (+13 more)",
-      "team": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/179541ee-8225-437b-b67d-d24c09240cd5",
-      "postedAt": "2026-07-28T03:11:19.447Z",
-      "key": "elevenlabs:179541ee-8225-437b-b67d-d24c09240cd5",
-      "company": "ElevenLabs",
       "level": "experienced",
       "term": null,
       "regions": [
