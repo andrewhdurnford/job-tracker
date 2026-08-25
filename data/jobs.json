@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-08-25T17:50:22.047Z",
+  "generatedAt": "2026-08-25T18:00:25.573Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "adyen:8090234",
+    "Nvidia:JR2022219",
+    "valaratomics:4382029009"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 30,
     "new-grad": 16,
-    "experienced": 2094
+    "experienced": 2096
   },
   "companies": [
     {
@@ -72,7 +76,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1423,7 +1427,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 169,
+      "jobCount": 170,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 137,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5315,7 +5319,7 @@
     {
       "name": "Valar Atomics",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2022219",
+      "title": "Senior Applied Research Scientist, Multimodal Foundation Models – Healthcare",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-Research-Scientist--Multimodal-Foundation-Models---Healthcare_JR2022219",
+      "postedAt": "2026-08-25T18:00:29.273Z",
+      "key": "Nvidia:JR2022219",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T18:00:25.573Z"
+    },
+    {
+      "id": "4382029009",
+      "title": "Senior Software Engineer ",
+      "location": "Torrance, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4382029009",
+      "postedAt": "2026-08-25T17:54:35.000Z",
+      "key": "valaratomics:4382029009",
+      "company": "Valar Atomics",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T18:00:25.573Z"
+    },
     {
       "id": "5387754008",
       "title": "Manager, Applied AI Architect, Enterprise Tech",
@@ -10991,7 +11027,7 @@
     },
     {
       "id": "7896108003",
-      "title": "Senior Security Engineer",
+      "title": "Senior Cloud Security Engineer",
       "location": "Remote - USA",
       "team": null,
       "url": "https://abnormal.ai/careers/jobs/7896108003?gh_jid=7896108003",
@@ -12684,13 +12720,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -12700,13 +12736,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -14763,13 +14799,13 @@
       "firstSeen": "2026-08-18T05:10:18.256Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -14779,13 +14815,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -23440,22 +23476,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -23468,6 +23488,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -24097,22 +24133,6 @@
       "postedAt": "2026-08-10T17:00:28.725Z",
       "key": "Nvidia:JR2022760",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T17:00:24.741Z"
-    },
-    {
-      "id": "29751",
-      "title": "Software Engineer",
-      "location": "US-SFO-Main",
-      "team": "Engineering",
-      "url": "https://uscareers-docusign.icims.com/jobs/29751/login",
-      "postedAt": "2026-08-10T16:56:00.000Z",
-      "key": "DocuSign:29751",
-      "company": "DocuSign",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -32233,6 +32253,22 @@
       "seeded": true
     },
     {
+      "id": "8090234",
+      "title": "Software Engineer II (Java) - Lifecycle Experience",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8090234",
+      "postedAt": "2026-08-03T21:20:05.000Z",
+      "key": "adyen:8090234",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T18:00:25.573Z"
+    },
+    {
       "id": "1bf678c5-1058-45ca-b9bd-b0029fccd60e",
       "title": "Research Engineer / Research Scientist - Personal AGI, Personalization ",
       "location": "San Francisco",
@@ -35112,22 +35148,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
       "location": "Starbase, TX",
@@ -35144,13 +35164,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -35167,6 +35187,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658628002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658737002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
