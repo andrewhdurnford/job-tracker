@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-25T15:10:20.047Z",
+  "generatedAt": "2026-08-25T15:20:20.419Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Nvidia:JR2015871",
+    "temporal:8c44c912-3ced-4138-983e-4377816679c4"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 164,
+      "jobCount": 163,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 167,
+      "jobCount": 168,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 136,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5021,7 +5024,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5399,7 +5402,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2015871",
+      "title": "GPU Development Tools System Software Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Development-Tools-System-Software-Engineer_JR2015871-1",
+      "postedAt": "2026-08-25T15:20:24.469Z",
+      "key": "Nvidia:JR2015871",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T15:20:20.419Z"
+    },
+    {
+      "id": "8c44c912-3ced-4138-983e-4377816679c4",
+      "title": "Staff Software Engineer, Open Source Server",
+      "location": "United States",
+      "team": "Open Source Server",
+      "url": "https://jobs.ashbyhq.com/temporal/8c44c912-3ced-4138-983e-4377816679c4",
+      "postedAt": "2026-08-25T15:17:31.780Z",
+      "key": "temporal:8c44c912-3ced-4138-983e-4377816679c4",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T15:20:20.419Z"
+    },
     {
       "id": "R26320",
       "title": "Associate Security Engineer (Remote)",
@@ -15100,22 +15135,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T19:10:16.938Z"
-    },
-    {
-      "id": "R249252",
-      "title": "Lead Data Engineer",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Data-Engineer_R249252-1",
-      "postedAt": "2026-08-17T19:09:25.077Z",
-      "key": "Capital One:R249252",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T19:09:21.646Z"
     },
     {
       "id": "f4bad55a-64e6-48e0-a3d7-f0fe7178a8c8",
@@ -31893,23 +31912,6 @@
       "firstSeen": "2026-08-04T14:01:13.480Z"
     },
     {
-      "id": "REF085070W",
-      "title": "Software Engineer - Corporate GenAI",
-      "location": "US - Bellevue, WA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Software-Engineer---Corporate-GenAI_REF085070W",
-      "postedAt": "2026-08-03T21:33:34.302Z",
-      "key": "Visa:REF085070W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T21:33:23.715Z",
-      "seeded": true
-    },
-    {
       "id": "REF085123W",
       "title": "Sr. Software Engineer - Core Automation Platform",
       "location": "US - Ashburn, VA",
@@ -34806,22 +34808,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
       "location": "Starbase, TX",
@@ -34838,13 +34824,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -34861,6 +34847,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658737002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658628002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
