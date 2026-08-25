@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-08-25T17:20:19.760Z",
+  "generatedAt": "2026-08-25T17:30:22.602Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "gridware:03c82c42-bf4b-4b59-b474-c6d9e1696295",
+    "Nvidia:JR2021337",
+    "weave:be890e53-b0fc-42a8-b148-6f9e4e6053d4"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 29,
     "new-grad": 16,
-    "experienced": 2089
+    "experienced": 2092
   },
   "companies": [
     {
@@ -2088,7 +2092,7 @@
     {
       "name": "Gridware",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2159,7 +2163,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3277,10 +3281,10 @@
     },
     {
       "name": "Netlify",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Netomi",
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 169,
+      "jobCount": 170,
       "error": null,
       "stale": false
     },
@@ -3907,10 +3911,10 @@
     },
     {
       "name": "Prolific",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Promise",
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 137,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5490,7 +5494,7 @@
     {
       "name": "Weave",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2021337",
+      "title": "Senior Applied AI Engineer, Manufacturing & System Co-Design",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manufacturing-and-System-Co-Design-Workflow-Engineer_JR2021337",
+      "postedAt": "2026-08-25T17:30:27.216Z",
+      "key": "Nvidia:JR2021337",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T17:30:22.602Z"
+    },
+    {
+      "id": "03c82c42-bf4b-4b59-b474-c6d9e1696295",
+      "title": "Director of Engineering, Data",
+      "location": "San Francisco, CA",
+      "team": "Data Platform",
+      "url": "https://jobs.lever.co/gridware/03c82c42-bf4b-4b59-b474-c6d9e1696295",
+      "postedAt": "2026-08-25T17:29:29.521Z",
+      "key": "gridware:03c82c42-bf4b-4b59-b474-c6d9e1696295",
+      "company": "Gridware",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T17:30:22.602Z"
+    },
+    {
+      "id": "be890e53-b0fc-42a8-b148-6f9e4e6053d4",
+      "title": "Principal Engineer",
+      "location": "US Remote",
+      "team": "Technology",
+      "url": "https://jobs.ashbyhq.com/weave/be890e53-b0fc-42a8-b148-6f9e4e6053d4",
+      "postedAt": "2026-08-25T17:21:55.096Z",
+      "key": "weave:be890e53-b0fc-42a8-b148-6f9e4e6053d4",
+      "company": "Weave",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T17:30:22.602Z"
+    },
     {
       "id": "JR2018441",
       "title": "Senior Applied AI Engineer, Product Simulation",
@@ -14699,13 +14751,13 @@
       "firstSeen": "2026-08-18T05:10:18.256Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -14715,13 +14767,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -25344,22 +25396,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -25372,6 +25408,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
