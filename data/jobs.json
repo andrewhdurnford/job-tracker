@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-08-25T20:40:18.276Z",
+  "generatedAt": "2026-08-25T20:46:24.235Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "whoop:97fdb239-1cf3-47de-906a-96fddd2f361f",
-    "zip:df6eb1ee-b360-46fe-b23f-658626ec59ea"
+    "fivetran:7976827003",
+    "spacex:8738577002",
+    "zip:b5242472-5679-4084-af77-238b6335b792"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,8 +13,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 35,
-    "new-grad": 17,
-    "experienced": 2117
+    "new-grad": 18,
+    "experienced": 2118
   },
   "companies": [
     {
@@ -1790,7 +1791,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4443,7 +4444,7 @@
     {
       "name": "Sesame",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4695,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 138,
+      "jobCount": 139,
       "error": null,
       "stale": false
     },
@@ -5668,7 +5669,7 @@
     {
       "name": "Zip",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,58 @@
   ],
   "jobs": [
     {
+      "id": "7976827003",
+      "title": "Senior Staff Software Engineer",
+      "location": "Oakland, California, United States",
+      "team": null,
+      "url": "https://www.fivetran.com/careers/job?gh_jid=7976827003",
+      "postedAt": "2026-08-25T20:44:21.000Z",
+      "key": "fivetran:7976827003",
+      "company": "Fivetran",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T20:46:24.235Z"
+    },
+    {
+      "id": "8738577002",
+      "title": "Build Reliability Engineer (Falcon/Dragon)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8738577002?gh_jid=8738577002",
+      "postedAt": "2026-08-25T20:41:07.000Z",
+      "key": "spacex:8738577002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T20:46:24.235Z"
+    },
+    {
+      "id": "b5242472-5679-4084-af77-238b6335b792",
+      "title": "Software Engineer, New Grad (2027)",
+      "location": "Toronto",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
+      "postedAt": "2026-08-25T20:40:17.404Z",
+      "key": "zip:b5242472-5679-4084-af77-238b6335b792",
+      "company": "Zip",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-25T20:46:24.235Z"
+    },
+    {
       "id": "97fdb239-1cf3-47de-906a-96fddd2f361f",
       "title": "Platform Engineer II (Application Infrastructure)",
       "location": "Boston, MA",
@@ -5720,7 +5773,7 @@
     },
     {
       "id": "df6eb1ee-b360-46fe-b23f-658626ec59ea",
-      "title": "Software Engineer, New Grad (2027)",
+      "title": "Software Engineer, New Grad (2027 start)",
       "location": "San Francisco",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
@@ -11544,22 +11597,6 @@
         "us"
       ],
       "firstSeen": "2026-08-20T17:10:21.349Z"
-    },
-    {
-      "id": "04780842-fd58-41d9-87a1-f65e818eebab",
-      "title": "Software Engineer - Backend",
-      "location": "San Francisco (+2 more)",
-      "team": "Software",
-      "url": "https://jobs.ashbyhq.com/sesame/04780842-fd58-41d9-87a1-f65e818eebab",
-      "postedAt": "2026-08-20T16:54:56.030Z",
-      "key": "sesame:04780842-fd58-41d9-87a1-f65e818eebab",
-      "company": "Sesame",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T17:00:28.477Z"
     },
     {
       "id": "8136483",
@@ -23996,22 +24033,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -24024,6 +24045,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -25986,22 +26023,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -26014,6 +26035,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -35615,13 +35652,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -35631,13 +35668,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
