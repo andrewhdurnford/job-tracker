@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-25T17:00:25.349Z",
+  "generatedAt": "2026-08-25T17:10:20.575Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "elastic:8138060"
+    "Nvidia:JR2018441",
+    "pyka:583a6d1b-8369-43a0-8377-90efa1660727",
+    "spacex:8746439002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1418,7 +1420,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 168,
+      "jobCount": 169,
       "error": null,
       "stale": false
     },
@@ -3980,7 +3982,7 @@
     {
       "name": "Pyka",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4330,7 +4332,7 @@
     {
       "name": "SambaNova Systems",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4470,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 136,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 137,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2018441",
+      "title": "Senior Applied AI Engineer, Product Simulation",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-AI-Engineer--Product-Simulation_JR2018441",
+      "postedAt": "2026-08-25T17:10:25.051Z",
+      "key": "Nvidia:JR2018441",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T17:10:20.575Z"
+    },
+    {
+      "id": "583a6d1b-8369-43a0-8377-90efa1660727",
+      "title": "Fleet Software Engineer (Multiple Levels)",
+      "location": "Alameda HQ",
+      "team": "Software Engineering",
+      "url": "https://jobs.lever.co/pyka/583a6d1b-8369-43a0-8377-90efa1660727",
+      "postedAt": "2026-08-25T17:03:22.755Z",
+      "key": "pyka:583a6d1b-8369-43a0-8377-90efa1660727",
+      "company": "Pyka",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T17:10:20.575Z"
+    },
+    {
+      "id": "8746439002",
+      "title": "Full Stack Software Engineer, Data Platform (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002",
+      "postedAt": "2026-08-25T16:56:56.000Z",
+      "key": "spacex:8746439002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-25T17:10:20.575Z"
+    },
     {
       "id": "8138060",
       "title": "Lead Salesforce Full Stack Engineer",
@@ -12590,13 +12640,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -12606,13 +12656,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -13812,23 +13862,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T19:30:20.915Z"
-    },
-    {
-      "id": "6146328004",
-      "title": "AI Accelerator System Architect ",
-      "location": "San Jose, California, United States",
-      "team": null,
-      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6146328004",
-      "postedAt": "2026-08-18T19:26:13.000Z",
-      "key": "sambanovasystems:6146328004",
-      "company": "SambaNova Systems",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T22:03:00.773Z",
-      "seeded": true
     },
     {
       "id": "8727656002",
@@ -21325,23 +21358,6 @@
       "seeded": true
     },
     {
-      "id": "bedac5d7-e92c-4ec3-a931-2538648787a7",
-      "title": "Principal Enterprise Architect, Business Systems & Data (R5535)",
-      "location": "Remote",
-      "team": "Enterprise Technology Services",
-      "url": "https://jobs.lever.co/shieldai/bedac5d7-e92c-4ec3-a931-2538648787a7",
-      "postedAt": "2026-08-12T06:25:34.167Z",
-      "key": "shieldai:bedac5d7-e92c-4ec3-a931-2538648787a7",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-08-12T06:30:22.220Z"
-    },
-    {
       "id": "9fd0a58a-6bdc-465c-8d1e-0c152e13ba66",
       "title": "Senior Data & Analytics Engineer, Domain Enablement (R5536)",
       "location": "Remote",
@@ -23342,22 +23358,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -23370,6 +23370,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -23672,22 +23688,6 @@
       "postedAt": "2026-08-10T19:40:00.000Z",
       "key": "robinhood:7847485",
       "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T19:40:19.960Z"
-    },
-    {
-      "id": "8faa282d-9783-4957-bace-ab29abd9e470",
-      "title": "Senior Software Engineer, Docker Desktop, Desktop Systems Focus (East Coast)",
-      "location": "United States",
-      "team": "ENG-Docker Desktop",
-      "url": "https://jobs.ashbyhq.com/docker/8faa282d-9783-4957-bace-ab29abd9e470",
-      "postedAt": "2026-08-10T19:32:39.432Z",
-      "key": "docker:8faa282d-9783-4957-bace-ab29abd9e470",
-      "company": "Docker",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -35030,13 +35030,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -35046,13 +35046,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
