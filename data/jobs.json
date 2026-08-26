@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-08-26T18:10:24.118Z",
+  "generatedAt": "2026-08-26T18:20:18.250Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "cohere:cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3",
-    "Nvidia:JR2024421"
+    "includedhealth:11e68ef6-c38e-40db-af57-44ea32d87786",
+    "spacex:8751097002",
+    "thinkingmachines:9d863c78-80c0-44cd-a574-d1330e125398"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 37,
     "new-grad": 19,
-    "experienced": 2140
+    "experienced": 2143
   },
   "companies": [
     {
@@ -2364,7 +2365,7 @@
     {
       "name": "Included Health",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4695,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 140,
+      "jobCount": 141,
       "error": null,
       "stale": false
     },
@@ -5066,7 +5067,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "9d863c78-80c0-44cd-a574-d1330e125398",
+      "title": "Software Engineer, Evaluation Platform / Infra",
+      "location": "San Francisco",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/9d863c78-80c0-44cd-a574-d1330e125398",
+      "postedAt": "2026-08-26T18:15:33.393Z",
+      "key": "thinkingmachines:9d863c78-80c0-44cd-a574-d1330e125398",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T18:20:18.250Z"
+    },
+    {
+      "id": "8751097002",
+      "title": "Satellite Systems Software Engineer (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002",
+      "postedAt": "2026-08-26T18:15:09.000Z",
+      "key": "spacex:8751097002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T18:20:18.250Z"
+    },
     {
       "id": "JR2024421",
       "title": "Principal Block-File Storage Software Engineer, Linux - DGX Cloud",
@@ -14582,13 +14615,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -14598,13 +14631,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -16645,13 +16678,13 @@
       "firstSeen": "2026-08-18T05:10:18.256Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -16661,13 +16694,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -24721,6 +24754,23 @@
         "us"
       ],
       "firstSeen": "2026-08-11T15:30:30.195Z"
+    },
+    {
+      "id": "11e68ef6-c38e-40db-af57-44ea32d87786",
+      "title": "Senior Software Engineer, Web",
+      "location": "Remote",
+      "team": "Software Engineering",
+      "url": "https://jobs.lever.co/includedhealth/11e68ef6-c38e-40db-af57-44ea32d87786",
+      "postedAt": "2026-08-11T15:17:15.334Z",
+      "key": "includedhealth:11e68ef6-c38e-40db-af57-44ea32d87786",
+      "company": "Included Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-08-26T18:20:18.250Z"
     },
     {
       "id": "6141014004",
@@ -38147,23 +38197,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -38176,6 +38209,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
