@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-08-26T19:20:20.670Z",
+  "generatedAt": "2026-08-26T19:30:22.072Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "CrowdStrike:R27849",
-    "CrowdStrike:R25646",
-    "roblox:8115917"
+    "DocuSign:29751",
+    "openai:ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
+    "thinkingmachines:98aeba6f-1579-4e2f-9c00-5dd4a483f3b2",
+    "twilio:8160279",
+    "Visa:REF078728W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +16,7 @@
   "levelCounts": {
     "intern": 37,
     "new-grad": 19,
-    "experienced": 2144
+    "experienced": 2147
   },
   "companies": [
     {
@@ -986,7 +988,7 @@
     {
       "name": "ClickHouse",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1427,7 +1429,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2638,7 +2640,7 @@
     {
       "name": "Kraken",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3344,10 +3346,10 @@
     },
     {
       "name": "Nira Energy",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nomic Bio",
@@ -3513,7 +3515,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -5067,7 +5069,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -5228,7 +5230,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5403,7 +5405,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5705,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF078728W",
+      "title": "Senior Software Engineer",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Senior-Software-Engineer_REF078728W",
+      "postedAt": "2026-08-26T19:30:26.366Z",
+      "key": "Visa:REF078728W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:30:22.072Z"
+    },
+    {
+      "id": "ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
+      "title": "Manager, Applied AI Engineering (Digital Natives)",
+      "location": "San Francisco",
+      "team": "Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
+      "postedAt": "2026-08-26T19:26:35.471Z",
+      "key": "openai:ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:30:22.072Z"
+    },
+    {
+      "id": "98aeba6f-1579-4e2f-9c00-5dd4a483f3b2",
+      "title": "Software Engineer, AI Products",
+      "location": "San Francisco",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/98aeba6f-1579-4e2f-9c00-5dd4a483f3b2",
+      "postedAt": "2026-08-26T19:25:56.124Z",
+      "key": "thinkingmachines:98aeba6f-1579-4e2f-9c00-5dd4a483f3b2",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:30:22.072Z"
+    },
+    {
+      "id": "8160279",
+      "title": "Staff Enterprise Security Engineer, AI Security",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8160279",
+      "postedAt": "2026-08-26T19:25:54.000Z",
+      "key": "twilio:8160279",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:30:22.072Z"
+    },
     {
       "id": "8115917",
       "title": "Software Engineer, Creator",
@@ -6791,6 +6857,22 @@
         "us"
       ],
       "firstSeen": "2026-08-26T14:20:37.438Z"
+    },
+    {
+      "id": "29751",
+      "title": "Software Engineer",
+      "location": "US-SFO-Main",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/29751/login",
+      "postedAt": "2026-08-26T14:17:00.000Z",
+      "key": "DocuSign:29751",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:30:22.072Z"
     },
     {
       "id": "R999185",
@@ -16871,13 +16953,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -16887,13 +16969,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -41249,39 +41331,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T19:33:31.081Z"
-    },
-    {
-      "id": "f9f63509-ac06-449b-a534-397f74f1180e",
-      "title": "Senior AI Engineer - Growth",
-      "location": "United Kingdom (+21 more)",
-      "team": "Data Engineering",
-      "url": "https://jobs.ashbyhq.com/kraken.com/f9f63509-ac06-449b-a534-397f74f1180e",
-      "postedAt": "2026-07-27T19:26:43.316Z",
-      "key": "kraken.com:f9f63509-ac06-449b-a534-397f74f1180e",
-      "company": "Kraken",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
-    },
-    {
-      "id": "6127775004",
-      "title": "Senior Curriculum Developer & Instructor",
-      "location": "United States (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6127775004",
-      "postedAt": "2026-07-27T19:24:21.000Z",
-      "key": "clickhouse:6127775004",
-      "company": "ClickHouse",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
     },
     {
       "id": "R245454",
