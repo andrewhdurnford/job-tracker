@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-08-26T16:20:19.220Z",
+  "generatedAt": "2026-08-26T16:30:25.603Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "natera:6163319004",
-    "spacex:8745828002",
-    "spacex:8750868002",
-    "spacex:8750881002"
+    "affirm:7819891003",
+    "lucidmotors:5216837007",
+    "vanta:bb2dc07f-eae3-44b3-8f7e-144d54571e03"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 37,
     "new-grad": 18,
-    "experienced": 2131
+    "experienced": 2133
   },
   "companies": [
     {
@@ -84,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -1015,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -2814,7 +2813,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5327,7 +5326,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7819891003",
+      "title": "Senior Software Engineer, Backend (Account Management)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819891003",
+      "postedAt": "2026-08-26T16:27:57.000Z",
+      "key": "affirm:7819891003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-26T16:30:25.603Z"
+    },
+    {
+      "id": "bb2dc07f-eae3-44b3-8f7e-144d54571e03",
+      "title": "Senior Backend Software Engineer, Integrations Platform [Canada]",
+      "location": "Remote - Canada",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/bb2dc07f-eae3-44b3-8f7e-144d54571e03",
+      "postedAt": "2026-08-26T16:27:42.156Z",
+      "key": "vanta:bb2dc07f-eae3-44b3-8f7e-144d54571e03",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-26T16:30:25.603Z"
+    },
+    {
+      "id": "5216837007",
+      "title": "Senior Software Engineer, ADAS Feature Integration ",
+      "location": "Southfield, MI",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5216837007",
+      "postedAt": "2026-08-26T16:22:53.000Z",
+      "key": "lucidmotors:5216837007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T16:30:25.603Z"
+    },
     {
       "id": "8745828002",
       "title": "Solar Cell Quality Engineer (Starlink)",
@@ -7710,22 +7757,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T16:00:26.419Z"
-    },
-    {
-      "id": "8155495",
-      "title": "Software Engineer, Enterprise Integrations",
-      "location": "Austin, TX",
-      "team": "Accounting and Finance",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8155495?gh_jid=8155495",
-      "postedAt": "2026-08-25T15:38:49.000Z",
-      "key": "cloudflare:8155495",
-      "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T15:40:21.385Z"
     },
     {
       "id": "2174aa8f-3ecc-4fe0-b726-db4c73d73e37",
@@ -37910,23 +37941,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -37939,6 +37953,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
