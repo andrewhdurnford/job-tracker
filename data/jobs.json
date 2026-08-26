@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-08-26T19:50:18.486Z",
+  "generatedAt": "2026-08-26T20:00:28.962Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "perplexity:50a2def5-adeb-4f13-99c1-88c32482b772",
-    "thinkingmachines:53330ea5-1831-4b14-aede-786404d525da",
-    "thinkingmachines:35a61f1c-5811-492f-b7b5-13b11d3f48df"
+    "temporaltechnologies:5222955007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 37,
     "new-grad": 19,
-    "experienced": 2143
+    "experienced": 2144
   },
   "companies": [
     {
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 141,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5032,7 +5030,7 @@
     {
       "name": "Temporal Technologies",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5222955007",
+      "title": "Senior Engineering Manager - Test Systems & Tooling",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/temporaltechnologies/jobs/5222955007",
+      "postedAt": "2026-08-26T19:53:31.000Z",
+      "key": "temporaltechnologies:5222955007",
+      "company": "Temporal Technologies",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T20:00:28.962Z"
+    },
     {
       "id": "50a2def5-adeb-4f13-99c1-88c32482b772",
       "title": "Member of Technical Staff (AI Software Engineer, Agents)",
@@ -38436,23 +38450,6 @@
       "seeded": true
     },
     {
-      "id": "7819656003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819656003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819654003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote US",
@@ -38465,6 +38462,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819656003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819656003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
