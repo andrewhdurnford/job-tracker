@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-08-26T17:30:35.590Z",
+  "generatedAt": "2026-08-26T17:40:23.703Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R248139",
-    "openai:efed424b-e025-400f-8ac3-73e962b85751",
-    "perplexity:b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
-    "reddit:8155661"
+    "abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace",
+    "CrowdStrike:R29847",
+    "spacex:8748833002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +13,7 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 37,
-    "new-grad": 18,
+    "new-grad": 19,
     "experienced": 2137
   },
   "companies": [
@@ -42,7 +41,7 @@
     {
       "name": "Abridge",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -882,7 +881,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1246,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 80,
+      "jobCount": 81,
       "error": null,
       "stale": false
     },
@@ -4697,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 139,
+      "jobCount": 140,
       "error": null,
       "stale": false
     },
@@ -5376,7 +5375,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29847",
+      "title": "Engineering Manager, Cloud Backend - AI Detection and Response (AIDR) (Hybrid)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineering-Manager--Cloud-Backend---AI-Detection-and-Response--AIDR---Hybrid-_R29847",
+      "postedAt": "2026-08-26T17:40:27.934Z",
+      "key": "CrowdStrike:R29847",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T17:40:23.703Z"
+    },
+    {
+      "id": "8748833002",
+      "title": "Database Reliability Engineer",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8748833002?gh_jid=8748833002",
+      "postedAt": "2026-08-26T17:34:45.000Z",
+      "key": "spacex:8748833002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T17:40:23.703Z"
+    },
+    {
+      "id": "7d6ae2be-cd53-466c-8151-2dae2e87aace",
+      "title": "Software Engineer, Early Career",
+      "location": "SF Office",
+      "team": "Product Engineering",
+      "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
+      "postedAt": "2026-08-26T17:31:59.868Z",
+      "key": "abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace",
+      "company": "Abridge",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T17:40:23.703Z"
+    },
     {
       "id": "R248139",
       "title": "Senior Associate, Data Scientist - US Card (Applied GenAI)",
@@ -16535,13 +16582,13 @@
       "firstSeen": "2026-08-18T05:10:18.256Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -16551,13 +16598,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -36588,13 +36635,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -36604,13 +36651,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -41126,38 +41173,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "5195995007",
-      "title": "Software Engineer - Computer Vision",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5195995007",
-      "postedAt": "2026-07-27T17:40:21.000Z",
-      "key": "verkada:5195995007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "4699210006",
-      "title": "Software Engineer (Libraries Platform) ",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4699210006",
-      "postedAt": "2026-07-27T17:38:04.000Z",
-      "key": "chainguard:4699210006",
-      "company": "Chainguard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
     },
     {
       "id": "R245454",
