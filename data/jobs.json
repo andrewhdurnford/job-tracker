@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-08-26T23:30:23.509Z",
+  "generatedAt": "2026-08-26T23:40:19.842Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "databricks:8407913002",
+    "doordashusa:8160819",
+    "pairteam:8642973002",
+    "spacex:8753254002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 37,
     "new-grad": 19,
-    "experienced": 2152
+    "experienced": 2156
   },
   "companies": [
     {
@@ -1290,7 +1295,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -1451,7 +1456,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -3579,7 +3584,7 @@
     {
       "name": "Pair Team",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4692,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 143,
+      "jobCount": 144,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8642973002",
+      "title": "Sr. Platform Engineer (Infra Pod)",
+      "location": "Remote (United States)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pairteam/jobs/8642973002",
+      "postedAt": "2026-08-26T23:38:15.000Z",
+      "key": "pairteam:8642973002",
+      "company": "Pair Team",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T23:40:19.842Z"
+    },
+    {
+      "id": "8753254002",
+      "title": "Sr. Power Systems Engineer",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8753254002?gh_jid=8753254002",
+      "postedAt": "2026-08-26T23:36:28.000Z",
+      "key": "spacex:8753254002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T23:40:19.842Z"
+    },
+    {
+      "id": "8407913002",
+      "title": "Sr Platform Monitoring Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002",
+      "postedAt": "2026-08-26T23:32:54.000Z",
+      "key": "databricks:8407913002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T23:40:19.842Z"
+    },
+    {
+      "id": "8160819",
+      "title": "Engineering Manager, Proactive Security - Pods",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8160819",
+      "postedAt": "2026-08-26T23:30:58.000Z",
+      "key": "doordashusa:8160819",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T23:40:19.842Z"
+    },
     {
       "id": "8157108",
       "title": "Sr. Director, Security Engineering",
@@ -25784,22 +25853,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -25812,6 +25865,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -37285,13 +37354,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37301,13 +37370,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -38734,23 +38803,6 @@
       "seeded": true
     },
     {
-      "id": "7819656003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819656003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819654003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote US",
@@ -38763,6 +38815,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819656003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819656003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
