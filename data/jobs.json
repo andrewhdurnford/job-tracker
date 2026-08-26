@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-08-26T19:00:32.747Z",
+  "generatedAt": "2026-08-26T19:10:18.288Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "modernhealth:8735100002",
-    "scaleai:4728014005"
+    "Capital One:R999215",
+    "notion:53cf8d13-92df-40fc-8486-7e74f0b9882a",
+    "shieldai:ee614940-c594-41da-8432-8a677e21520d",
+    "vanta:0ccbb65f-f675-410a-ae54-1d34575f228a"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 37,
     "new-grad": 19,
-    "experienced": 2141
+    "experienced": 2142
   },
   "companies": [
     {
@@ -789,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 160,
+      "jobCount": 161,
       "error": null,
       "stale": false
     },
@@ -1244,7 +1246,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 80,
+      "jobCount": 78,
       "error": null,
       "stale": false
     },
@@ -1419,7 +1421,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3372,7 +3374,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4471,7 +4473,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5325,7 +5327,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R999215",
+      "title": "Staff Software Engineer",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Software-Engineer_R999215",
+      "postedAt": "2026-08-26T19:10:21.621Z",
+      "key": "Capital One:R999215",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-26T19:10:18.288Z"
+    },
+    {
+      "id": "53cf8d13-92df-40fc-8486-7e74f0b9882a",
+      "title": "Engineering Manager, Web Infrastructure",
+      "location": "San Francisco, California",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/notion/53cf8d13-92df-40fc-8486-7e74f0b9882a",
+      "postedAt": "2026-08-26T19:05:40.864Z",
+      "key": "notion:53cf8d13-92df-40fc-8486-7e74f0b9882a",
+      "company": "Notion",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:10:18.288Z"
+    },
+    {
+      "id": "0ccbb65f-f675-410a-ae54-1d34575f228a",
+      "title": "Software Engineer, Integrations Platform, Vanta For Government (V4G)",
+      "location": "Remote U.S.",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a",
+      "postedAt": "2026-08-26T19:04:45.475Z",
+      "key": "vanta:0ccbb65f-f675-410a-ae54-1d34575f228a",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:10:18.288Z"
+    },
     {
       "id": "4728014005",
       "title": "Machine Learning Research Scientist, Evaluations",
@@ -16788,6 +16838,22 @@
         "remote"
       ],
       "firstSeen": "2026-08-18T05:10:18.256Z"
+    },
+    {
+      "id": "ee614940-c594-41da-8432-8a677e21520d",
+      "title": "Senior Staff Customer Sustainment Engineer (R5502)",
+      "location": "United States",
+      "team": "Applications Engineering",
+      "url": "https://jobs.lever.co/shieldai/ee614940-c594-41da-8432-8a677e21520d",
+      "postedAt": "2026-08-18T05:05:09.704Z",
+      "key": "shieldai:ee614940-c594-41da-8432-8a677e21520d",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
       "id": "8719865002",
@@ -28140,23 +28206,6 @@
       "firstSeen": "2026-08-06T21:53:34.313Z"
     },
     {
-      "id": "R25646",
-      "title": "Security Engineer - Vulnerability Detection (Hybrid)",
-      "location": "USA - Sunnyvale, CA",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Vulnerability-Management-Engineer--Remote-_R25646",
-      "postedAt": "2026-08-06T21:33:38.461Z",
-      "key": "CrowdStrike:R25646",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T21:33:23.715Z",
-      "seeded": true
-    },
-    {
       "id": "R29294",
       "title": "Technical Support Engineer - Cloud (Remote, BRA)",
       "location": "Brazil - Remote",
@@ -28351,23 +28400,6 @@
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-NY/Sr-Backend-Engineer--Hybrid--Austin-_R28425",
       "postedAt": "2026-08-06T21:33:36.158Z",
       "key": "CrowdStrike:R28425",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T21:33:23.715Z",
-      "seeded": true
-    },
-    {
-      "id": "R27849",
-      "title": "Sr. Backend Engineer, Cloud - Next-Gen SIEM (Hybrid)",
-      "location": "USA - Austin, TX",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Sr-Backend-Engineer--Cloud---Next-Gen-SIEM--Hybrid-_R27849",
-      "postedAt": "2026-08-06T21:33:36.158Z",
-      "key": "CrowdStrike:R27849",
       "company": "CrowdStrike",
       "level": "experienced",
       "term": null,
@@ -41219,22 +41251,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "57ccbca7-6818-4e34-8f31-bf762e1f4e00",
-      "title": "Staff Software Engineer, Networking (Seattle or SF Bay Area) ",
-      "location": "San Francisco Bay Area (+1 more)",
-      "team": "ENG-Networking",
-      "url": "https://jobs.ashbyhq.com/docker/57ccbca7-6818-4e34-8f31-bf762e1f4e00",
-      "postedAt": "2026-07-27T19:04:38.261Z",
-      "key": "docker:57ccbca7-6818-4e34-8f31-bf762e1f4e00",
-      "company": "Docker",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
     },
     {
       "id": "R245454",
