@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-08-26T19:40:34.905Z",
+  "generatedAt": "2026-08-26T19:50:18.486Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "perplexity:50a2def5-adeb-4f13-99c1-88c32482b772",
+    "thinkingmachines:53330ea5-1831-4b14-aede-786404d525da",
+    "thinkingmachines:35a61f1c-5811-492f-b7b5-13b11d3f48df"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 37,
     "new-grad": 19,
-    "experienced": 2144
+    "experienced": 2143
   },
   "companies": [
     {
@@ -79,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5063,7 +5067,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "50a2def5-adeb-4f13-99c1-88c32482b772",
+      "title": "Member of Technical Staff (AI Software Engineer, Agents)",
+      "location": "San Francisco",
+      "team": "AI Research & Systems",
+      "url": "https://jobs.ashbyhq.com/perplexity/50a2def5-adeb-4f13-99c1-88c32482b772",
+      "postedAt": "2026-08-26T19:44:10.001Z",
+      "key": "perplexity:50a2def5-adeb-4f13-99c1-88c32482b772",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:50:18.486Z"
+    },
+    {
+      "id": "35a61f1c-5811-492f-b7b5-13b11d3f48df",
+      "title": "Site Reliability Engineer, Post Training",
+      "location": "San Francisco",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/35a61f1c-5811-492f-b7b5-13b11d3f48df",
+      "postedAt": "2026-08-26T19:42:15.237Z",
+      "key": "thinkingmachines:35a61f1c-5811-492f-b7b5-13b11d3f48df",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:50:18.486Z"
+    },
+    {
+      "id": "53330ea5-1831-4b14-aede-786404d525da",
+      "title": "Site Reliability Engineer, RL Infra",
+      "location": "San Francisco",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/53330ea5-1831-4b14-aede-786404d525da",
+      "postedAt": "2026-08-26T19:41:20.310Z",
+      "key": "thinkingmachines:53330ea5-1831-4b14-aede-786404d525da",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-26T19:50:18.486Z"
+    },
     {
       "id": "REF078728W",
       "title": "Senior Software Engineer",
@@ -41227,57 +41279,6 @@
       "firstSeen": "2026-08-18T19:50:18.415Z"
     },
     {
-      "id": "7796536003",
-      "title": "Product Security Engineer II",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7796536003",
-      "postedAt": "2026-07-27T19:47:23.000Z",
-      "key": "affirm:7796536003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "7796534003",
-      "title": "Product Security Engineer II",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7796534003",
-      "postedAt": "2026-07-27T19:47:21.000Z",
-      "key": "affirm:7796534003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "7796530003",
-      "title": "Product Security Engineer II",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7796530003",
-      "postedAt": "2026-07-27T19:47:01.000Z",
-      "key": "affirm:7796530003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "R245454",
       "title": "Lead Software Engineer, Full Stack",
       "location": "McLean, VA",
@@ -41342,23 +41343,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
-      "id": "bfb392f2-086e-4187-b69c-2a231b8c3290",
-      "title": "Member of Technical Staff (AI Software Engineer, Agents)",
-      "location": "San Francisco",
-      "team": "AI Research & Systems",
-      "url": "https://jobs.ashbyhq.com/perplexity/bfb392f2-086e-4187-b69c-2a231b8c3290",
-      "postedAt": "2026-07-24T21:13:29.167Z",
-      "key": "perplexity:bfb392f2-086e-4187-b69c-2a231b8c3290",
-      "company": "Perplexity",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
     },
     {
