@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-08-27T20:10:19.089Z",
+  "generatedAt": "2026-08-27T20:20:19.095Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "dominodatalab:8160818",
-    "Nvidia:JR2017290"
+    "adyen:8140008",
+    "CrowdStrike:R27156",
+    "robinhood:8081776"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 35,
     "new-grad": 20,
-    "experienced": 2156
+    "experienced": 2158
   },
   "companies": [
     {
@@ -75,7 +76,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1244,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 79,
+      "jobCount": 80,
       "error": null,
       "stale": false
     },
@@ -4233,7 +4234,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5108,7 +5109,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R27156",
+      "title": "Sr. Engineer - Cloud & AI Runtime (Hybrid)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27156",
+      "postedAt": "2026-08-27T20:20:23.035Z",
+      "key": "CrowdStrike:R27156",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T20:20:19.095Z"
+    },
+    {
+      "id": "8081776",
+      "title": "Senior Cloud Security Engineer",
+      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8081776?t=gh_src=&gh_jid=8081776",
+      "postedAt": "2026-08-27T20:18:52.000Z",
+      "key": "robinhood:8081776",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T20:20:19.095Z"
+    },
     {
       "id": "JR2017290",
       "title": "Compiler Engineer, Backend- New College Grad 2026",
@@ -16655,13 +16688,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -16671,13 +16704,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -17780,6 +17813,22 @@
         "us"
       ],
       "firstSeen": "2026-08-18T19:40:19.680Z"
+    },
+    {
+      "id": "8140008",
+      "title": "Software Engineer II (Java) - Banking Accounts",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8140008",
+      "postedAt": "2026-08-18T19:35:27.000Z",
+      "key": "adyen:8140008",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T20:20:19.095Z"
     },
     {
       "id": "4374577009",
@@ -27107,22 +27156,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -27135,6 +27168,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -38364,13 +38413,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -38380,13 +38429,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39779,23 +39828,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -39808,6 +39840,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -41310,23 +41359,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "8077263",
-      "title": "Senior Full Stack Engineer, Web & Ecommerce",
-      "location": "Remote",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8077263",
-      "postedAt": "2026-07-28T20:18:43.000Z",
-      "key": "toast:8077263",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
     },
     {
       "id": "JR2016845",
