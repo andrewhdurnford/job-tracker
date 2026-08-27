@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T15:30:24.819Z",
+  "generatedAt": "2026-08-27T15:40:21.307Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 36,
     "new-grad": 19,
-    "experienced": 2148
+    "experienced": 2145
   },
   "companies": [
     {
@@ -1066,7 +1066,7 @@
     {
       "name": "CoLab",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4237,7 +4237,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 145,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5511,7 +5511,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5797,8 +5797,8 @@
     },
     {
       "id": "3e5ac6d6-40f0-4299-a353-bb84bd906f14",
-      "title": "Senior Principal Engineer, Central Ops & Systems (Seattle Preferred) ",
-      "location": "United States",
+      "title": "Senior Principal Engineer, Central Ops & Systems ",
+      "location": "Seattle, WA",
       "team": "GA-Central Ops & Systems",
       "url": "https://jobs.ashbyhq.com/docker/3e5ac6d6-40f0-4299-a353-bb84bd906f14",
       "postedAt": "2026-08-27T14:38:29.970Z",
@@ -41160,39 +41160,6 @@
       "firstSeen": "2026-08-05T18:46:57.719Z"
     },
     {
-      "id": "5372412008",
-      "title": "Senior PLM/CAD Integrations Developer",
-      "location": "North America, Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/colabsoftware/jobs/5372412008",
-      "postedAt": "2026-07-28T15:38:26.000Z",
-      "key": "colabsoftware:5372412008",
-      "company": "CoLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
-    },
-    {
-      "id": "8047829",
-      "title": "Senior Software Engineer, Engineering Acceleration",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8047829?gh_jid=8047829",
-      "postedAt": "2026-07-28T15:37:22.000Z",
-      "key": "roblox:8047829",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "8648919002",
       "title": "Lead Power Systems Engineer",
       "location": "McGregor, TX",
@@ -41201,23 +41168,6 @@
       "postedAt": "2026-07-28T15:36:37.000Z",
       "key": "spacex:8648919002",
       "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "1d0c4312-c3ad-4493-a1a8-316c57546c89",
-      "title": "Security Engineer, IAM",
-      "location": "Boston, MA",
-      "team": "Information Security",
-      "url": "https://jobs.ashbyhq.com/whoop/1d0c4312-c3ad-4493-a1a8-316c57546c89",
-      "postedAt": "2026-07-28T15:31:53.007Z",
-      "key": "whoop:1d0c4312-c3ad-4493-a1a8-316c57546c89",
-      "company": "WHOOP",
       "level": "experienced",
       "term": null,
       "regions": [
