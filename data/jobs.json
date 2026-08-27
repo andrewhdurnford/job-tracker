@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-08-27T02:10:21.548Z",
+  "generatedAt": "2026-08-27T02:20:19.668Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "kindred:c30b2b86-47b1-453f-a2dc-7459a7c2fe80"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -877,7 +879,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2564,7 +2566,7 @@
     {
       "name": "Kindred",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3529,10 +3531,10 @@
     },
     {
       "name": "Optiver",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Oscar Health",
@@ -5699,6 +5701,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "c30b2b86-47b1-453f-a2dc-7459a7c2fe80",
+      "title": "Senior Infrastructure Engineer",
+      "location": "Remote - US or Canada",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/kindred/c30b2b86-47b1-453f-a2dc-7459a7c2fe80",
+      "postedAt": "2026-08-27T02:17:07.200Z",
+      "key": "kindred:c30b2b86-47b1-453f-a2dc-7459a7c2fe80",
+      "company": "Kindred",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-27T02:20:19.668Z"
+    },
     {
       "id": "a9469410-04c7-4e6a-b8b4-64c15933a2bf",
       "title": "AI Infrastructure Engineer",
@@ -41085,22 +41104,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "4700281006",
-      "title": "Security Engineer",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4700281006",
-      "postedAt": "2026-07-28T02:20:03.000Z",
-      "key": "chainguard:4700281006",
-      "company": "Chainguard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
     },
     {
       "id": "R246629",
