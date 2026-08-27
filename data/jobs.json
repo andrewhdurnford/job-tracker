@@ -1,23 +1,19 @@
 {
-  "generatedAt": "2026-08-27T16:40:18.627Z",
+  "generatedAt": "2026-08-27T16:50:19.993Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "spacex:8743358002",
-    "spacex:8756080002",
-    "spacex:8756079002",
-    "spacex:8756081002",
-    "spacex:8756159002",
-    "spacex:8756086002"
+    "cloudflare:8158920",
+    "elastic:8128506"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 36,
+    "intern": 35,
     "new-grad": 20,
-    "experienced": 2157
+    "experienced": 2156
   },
   "companies": [
     {
@@ -1227,7 +1223,7 @@
     {
       "name": "Cresta",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1528,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -2109,7 +2105,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3488,7 +3484,7 @@
     {
       "name": "Omada Health",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5707,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "8158920",
+      "title": "Software Engineer, FL",
+      "location": "London, United Kingdom",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8158920?gh_jid=8158920",
+      "postedAt": "2026-08-27T16:46:33.000Z",
+      "key": "cloudflare:8158920",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T16:50:19.993Z"
+    },
+    {
       "id": "8756159002",
       "title": "Software Engineer, CDN (Starlink)",
       "location": "Hawthorne, CA",
@@ -6498,7 +6510,7 @@
     },
     {
       "id": "a9469410-04c7-4e6a-b8b4-64c15933a2bf",
-      "title": "AI Infrastructure Engineer",
+      "title": "ML Infrastructure Engineer",
       "location": "San Francisco (+1 more)",
       "team": "Core Engineering",
       "url": "https://jobs.ashbyhq.com/thinkingmachines/a9469410-04c7-4e6a-b8b4-64c15933a2bf",
@@ -17724,6 +17736,22 @@
       "firstSeen": "2026-08-18T16:40:16.886Z"
     },
     {
+      "id": "8128506",
+      "title": "Director - IT Software Engineering",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8128506&gh_jid=8128506",
+      "postedAt": "2026-08-18T16:25:26.000Z",
+      "key": "elastic:8128506",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T16:50:19.993Z"
+    },
+    {
       "id": "8722645002",
       "title": "Full Stack Software Engineer, Operations Software (Starlink) ",
       "location": "Redmond, WA",
@@ -18159,13 +18187,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -18175,13 +18203,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -29266,22 +29294,6 @@
       "firstSeen": "2026-08-06T22:30:34.905Z"
     },
     {
-      "id": "8106431",
-      "title": "Senior Clinical Research Scientist",
-      "location": "Remote, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8106431",
-      "postedAt": "2026-08-06T22:19:57.000Z",
-      "key": "omadahealth:8106431",
-      "company": "Omada Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-06T22:20:22.003Z"
-    },
-    {
       "id": "b78142ec-6f5a-4b54-b92f-abed9c3be66e",
       "title": "Sr Security Architecture Manager",
       "location": "Los Angeles, California, United States",
@@ -39416,23 +39428,6 @@
       "seeded": true
     },
     {
-      "id": "7819656003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819656003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819654003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote US",
@@ -39445,6 +39440,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819656003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819656003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -41331,62 +41343,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "8083826",
-      "title": "Senior Staff Software Engineer, iOS Platform",
-      "location": "Denver, CO;San Francisco, CA;New York, NY;Seattle, WA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8083826",
-      "postedAt": "2026-07-28T16:46:16.000Z",
-      "key": "gusto:8083826",
-      "company": "Gusto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8089379",
-      "title": "Research Engineer Intern (Fall 2026)",
-      "location": "Austin, TX",
-      "team": "Technology Research",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379",
-      "postedAt": "2026-07-28T16:43:59.000Z",
-      "key": "cloudflare:8089379",
-      "company": "Cloudflare",
-      "level": "intern",
-      "term": {
-        "label": "Fall 2026",
-        "seasons": [
-          "fall"
-        ],
-        "year": 2026
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "5372182008",
-      "title": "Senior Frontend Software Engineer (AI Receptionist) ",
-      "location": "Canada (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/cresta/jobs/5372182008",
-      "postedAt": "2026-07-28T16:41:36.000Z",
-      "key": "cresta:5372182008",
-      "company": "Cresta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
     },
     {
       "id": "2b3e7582-84c9-4fd1-969c-16ae1a4f61e6",
