@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-08-27T15:40:21.307Z",
+  "generatedAt": "2026-08-27T15:50:17.176Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "braze:8161897",
+    "braze:8161894"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 36,
-    "new-grad": 19,
-    "experienced": 2145
+    "new-grad": 20,
+    "experienced": 2143
   },
   "companies": [
     {
@@ -688,7 +691,7 @@
     {
       "name": "Braze",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -1500,7 +1503,7 @@
     {
       "name": "Edra",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 145,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 143,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5700,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "8161897",
+      "title": "Senior Site Reliability Engineer I",
+      "location": "Vancouver",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8161897",
+      "postedAt": "2026-08-27T15:41:59.000Z",
+      "key": "braze:8161897",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-27T15:50:17.176Z"
+    },
+    {
+      "id": "8161894",
+      "title": "Senior Site Reliability Engineer I",
+      "location": "Toronto",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8161894",
+      "postedAt": "2026-08-27T15:41:57.000Z",
+      "key": "braze:8161894",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-27T15:50:17.176Z"
+    },
+    {
       "id": "8161836",
       "title": "Senior Security Research Engineer",
       "location": "Canada",
@@ -6054,14 +6089,14 @@
     },
     {
       "id": "7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9",
-      "title": "Forward Deployed Engineer",
+      "title": "Forward Deployed Engineer, New Grad",
       "location": "San Francisco Bay Area",
       "team": "Applied AI",
       "url": "https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9",
       "postedAt": "2026-08-27T05:26:00.278Z",
       "key": "retell-ai:7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9",
       "company": "Retell AI",
-      "level": "experienced",
+      "level": "new-grad",
       "term": null,
       "regions": [
         "us"
@@ -37589,22 +37624,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
       "location": "McGregor, TX",
@@ -37621,13 +37640,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37644,6 +37663,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658737002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658628002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -41144,39 +41179,6 @@
       "seeded": true
     },
     {
-      "id": "775032d7-d014-4583-b571-c3bdefee6d4f",
-      "title": "Software Engineer - Front End (New York)",
-      "location": "New York",
-      "team": "Product & Platform",
-      "url": "https://jobs.ashbyhq.com/edra/775032d7-d014-4583-b571-c3bdefee6d4f",
-      "postedAt": "2026-07-28T15:49:57.978Z",
-      "key": "edra:775032d7-d014-4583-b571-c3bdefee6d4f",
-      "company": "Edra",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "8648919002",
-      "title": "Lead Power Systems Engineer",
-      "location": "McGregor, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8648919002?gh_jid=8648919002",
-      "postedAt": "2026-07-28T15:36:37.000Z",
-      "key": "spacex:8648919002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "R242748",
       "title": "Senior Lead Software Engineer, Full Stack - Shopping (Remote Eligible)",
       "location": "2 Locations",
@@ -41191,23 +41193,6 @@
         "remote"
       ],
       "firstSeen": "2026-08-20T15:30:23.388Z"
-    },
-    {
-      "id": "8653632002",
-      "title": "Sr. Supplier Development Engineer, Data Center (Starlink) ",
-      "location": "Memphis, TN",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8653632002?gh_jid=8653632002",
-      "postedAt": "2026-07-28T15:30:29.000Z",
-      "key": "spacex:8653632002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
     },
     {
       "id": "R247814",
