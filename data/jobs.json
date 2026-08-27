@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-08-27T17:40:18.316Z",
+  "generatedAt": "2026-08-27T17:50:21.244Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "thinkingmachines:a9469410-04c7-4e6a-b8b4-64c15933a2bf",
-    "thinkingmachines:c4cddfec-33de-4f67-9801-1308c2151952",
-    "thinkingmachines:d328e3d3-df94-47a1-9120-d2592a796142"
+    "Capital One:R999293",
+    "mercor:2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +13,7 @@
   "levelCounts": {
     "intern": 35,
     "new-grad": 20,
-    "experienced": 2159
+    "experienced": 2158
   },
   "companies": [
     {
@@ -790,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 151,
+      "jobCount": 152,
       "error": null,
       "stale": false
     },
@@ -2974,7 +2973,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3471,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 149,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5081,7 +5080,7 @@
     {
       "name": "Thumbtack",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R999293",
+      "title": "Lead Software Engineer, Backend",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Backend_R999293-1",
+      "postedAt": "2026-08-27T17:50:24.817Z",
+      "key": "Capital One:R999293",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T17:50:21.244Z"
+    },
+    {
+      "id": "2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702",
+      "title": "Software Engineer, Frontier Data Products",
+      "location": "New York City",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702",
+      "postedAt": "2026-08-27T17:48:04.348Z",
+      "key": "mercor:2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T17:50:21.244Z"
+    },
     {
       "id": "c4cddfec-33de-4f67-9801-1308c2151952",
       "title": "Site Reliability Engineer, Tinker",
@@ -28746,7 +28777,7 @@
     {
       "id": "ae344099-3fde-4027-bfde-f953db8b4728",
       "title": "Software Engineer, Frontier Data Products",
-      "location": "San Francisco or NYC",
+      "location": "San Francisco",
       "team": "Core Engineering",
       "url": "https://jobs.ashbyhq.com/mercor/ae344099-3fde-4027-bfde-f953db8b4728",
       "postedAt": "2026-08-07T17:12:46.179Z",
@@ -39509,23 +39540,6 @@
       "seeded": true
     },
     {
-      "id": "7819654003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819654003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819656003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote Canada",
@@ -39538,6 +39552,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819654003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819654003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819654003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -41353,57 +41384,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "d5afd3e9-77a1-4e0d-9757-8be3a5cb31fb",
-      "title": "Senior Engineering Manager, Pro Feedback and Targeting",
-      "location": "Remote, Ontario (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/thumbtack/d5afd3e9-77a1-4e0d-9757-8be3a5cb31fb",
-      "postedAt": "2026-07-28T17:50:07.181Z",
-      "key": "thumbtack:d5afd3e9-77a1-4e0d-9757-8be3a5cb31fb",
-      "company": "Thumbtack",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "f2f3f334-2353-4bc7-8e9b-058e84c398a1",
-      "title": "Senior Engineering Manager, Pro Feedback and Targeting",
-      "location": "Remote, United States",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/thumbtack/f2f3f334-2353-4bc7-8e9b-058e84c398a1",
-      "postedAt": "2026-07-28T17:50:05.060Z",
-      "key": "thumbtack:f2f3f334-2353-4bc7-8e9b-058e84c398a1",
-      "company": "Thumbtack",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8082028",
-      "title": "Staff Software Reliability Engineer - Data Platform",
-      "location": "Toronto, Ontario, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8082028?gh_jid=8082028",
-      "postedAt": "2026-07-28T17:42:05.000Z",
-      "key": "okta:8082028",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
