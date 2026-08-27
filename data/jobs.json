@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-27T17:10:17.917Z",
+  "generatedAt": "2026-08-27T17:20:17.576Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R249935"
+    "backflip:1eba42fe-07a5-475a-b3ee-f17c533ee7a3",
+    "Nvidia:JR2024273",
+    "redis:d8092b32-0985-4fa7-9f55-6563f7f93475"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 35,
     "new-grad": 20,
-    "experienced": 2151
+    "experienced": 2154
   },
   "companies": [
     {
@@ -508,7 +510,7 @@
     {
       "name": "Backflip AI",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 168,
+      "jobCount": 169,
       "error": null,
       "stale": false
     },
@@ -4113,7 +4115,7 @@
     {
       "name": "Redis",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2024273",
+      "title": "Senior Software Engineer, AV Planner - Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AV-Planner---Autonomous-Vehicles_JR2024273-1",
+      "postedAt": "2026-08-27T17:20:22.164Z",
+      "key": "Nvidia:JR2024273",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T17:20:17.576Z"
+    },
+    {
+      "id": "1eba42fe-07a5-475a-b3ee-f17c533ee7a3",
+      "title": "Software Engineer (Full-Stack)",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/backflip/1eba42fe-07a5-475a-b3ee-f17c533ee7a3",
+      "postedAt": "2026-08-27T17:16:00.460Z",
+      "key": "backflip:1eba42fe-07a5-475a-b3ee-f17c533ee7a3",
+      "company": "Backflip AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T17:20:17.576Z"
+    },
+    {
+      "id": "d8092b32-0985-4fa7-9f55-6563f7f93475",
+      "title": "Senior Principal Software Engineer, Feature Store",
+      "location": "Canada",
+      "team": "AI & Applications",
+      "url": "https://jobs.ashbyhq.com/redis/d8092b32-0985-4fa7-9f55-6563f7f93475",
+      "postedAt": "2026-08-27T17:12:34.689Z",
+      "key": "redis:d8092b32-0985-4fa7-9f55-6563f7f93475",
+      "company": "Redis",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-27T17:20:17.576Z"
+    },
     {
       "id": "R249935",
       "title": "Lead Software Engineer",
@@ -37930,13 +37980,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658737002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "key": "spacex:8658737002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37946,13 +37996,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658737002",
+      "id": "8658628002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
       "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658737002",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39379,23 +39429,6 @@
       "seeded": true
     },
     {
-      "id": "7819656003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819656003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819654003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote US",
@@ -39408,6 +39441,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819656003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819656003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
