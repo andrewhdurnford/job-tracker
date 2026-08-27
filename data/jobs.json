@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-27T22:40:17.818Z",
+  "generatedAt": "2026-08-27T22:50:19.028Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Nvidia:JR2018585",
+    "omadahealth:8157230"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 34,
     "new-grad": 20,
-    "experienced": 2172
+    "experienced": 2171
   },
   "companies": [
     {
@@ -3243,7 +3246,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 171,
+      "jobCount": 172,
       "error": null,
       "stale": false
     },
@@ -3481,7 +3484,7 @@
     {
       "name": "Omada Health",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4636,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -4692,7 +4695,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 146,
+      "jobCount": 145,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2018585",
+      "title": "Manager, Software Engineering - Cumulus Linux",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-Engineering---Cumulus-Linux_JR2018585",
+      "postedAt": "2026-08-27T22:50:23.707Z",
+      "key": "Nvidia:JR2018585",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T22:50:19.028Z"
+    },
+    {
+      "id": "8157230",
+      "title": "Software Engineer II",
+      "location": "Remote, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8157230",
+      "postedAt": "2026-08-27T22:48:23.000Z",
+      "key": "omadahealth:8157230",
+      "company": "Omada Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T22:50:19.028Z"
+    },
     {
       "id": "REF087803W",
       "title": "Data Scientist",
@@ -19179,13 +19214,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -19195,13 +19230,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -28296,22 +28331,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T20:10:19.612Z"
-    },
-    {
-      "id": "6128466004",
-      "title": " Software Engineer III",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6128466004",
-      "postedAt": "2026-08-10T16:19:28.000Z",
-      "key": "natera:6128466004",
-      "company": "Natera",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-27T17:30:22.615Z"
     },
     {
       "id": "8088867",
@@ -41507,40 +41526,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "8652841002",
-      "title": "Reliability Engineer, Satellite Systems (Starshield)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8652841002?gh_jid=8652841002",
-      "postedAt": "2026-07-28T22:43:36.000Z",
-      "key": "spacex:8652841002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "1f8252af-5383-44ad-ae97-4c555bc48adc",
-      "title": "Tech Lead Manager - SUT Team",
-      "location": "US-WA-Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/1f8252af-5383-44ad-ae97-4c555bc48adc",
-      "postedAt": "2026-07-28T22:41:40.054Z",
-      "key": "snowflake:1f8252af-5383-44ad-ae97-4c555bc48adc",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
     },
     {
       "id": "REF081849W",
