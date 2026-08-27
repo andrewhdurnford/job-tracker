@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-08-27T16:20:20.340Z",
+  "generatedAt": "2026-08-27T16:30:23.015Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "spacex:8748833002"
+    "atticus:299af7cf-5963-43a9-8262-be4358271358",
+    "atticus:03ed28c5-f496-4638-865d-302e895ccaaf",
+    "openai:984da843-107f-4ff6-ad27-07a06700e338",
+    "pinterest:8162046",
+    "roblox:8052237",
+    "upstart:8161883"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +17,7 @@
   "levelCounts": {
     "intern": 36,
     "new-grad": 20,
-    "experienced": 2150
+    "experienced": 2155
   },
   "companies": [
     {
@@ -480,7 +485,7 @@
     {
       "name": "Atticus",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -879,7 +884,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3516,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -3756,7 +3761,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -3769,10 +3774,10 @@
     },
     {
       "name": "Plaid",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Plane",
@@ -4239,7 +4244,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4698,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 143,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5303,7 +5308,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5706,105 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8162046",
+      "title": "Machine Learning Engineer II, Responsible AI",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162046",
+      "postedAt": "2026-08-27T16:29:11.000Z",
+      "key": "pinterest:8162046",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T16:30:23.015Z"
+    },
+    {
+      "id": "984da843-107f-4ff6-ad27-07a06700e338",
+      "title": "Software Engineer, Infrastructure ",
+      "location": "San Francisco (+1 more)",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/984da843-107f-4ff6-ad27-07a06700e338",
+      "postedAt": "2026-08-27T16:27:41.861Z",
+      "key": "openai:984da843-107f-4ff6-ad27-07a06700e338",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T16:30:23.015Z"
+    },
+    {
+      "id": "299af7cf-5963-43a9-8262-be4358271358",
+      "title": "Lead Data Engineer",
+      "location": "Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/atticus/299af7cf-5963-43a9-8262-be4358271358",
+      "postedAt": "2026-08-27T16:27:33.585Z",
+      "key": "atticus:299af7cf-5963-43a9-8262-be4358271358",
+      "company": "Atticus",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-08-27T16:30:23.015Z"
+    },
+    {
+      "id": "8052237",
+      "title": "Engineering Manager, Data Tooling",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8052237?gh_jid=8052237",
+      "postedAt": "2026-08-27T16:24:27.000Z",
+      "key": "roblox:8052237",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-27T16:30:23.015Z"
+    },
+    {
+      "id": "03ed28c5-f496-4638-865d-302e895ccaaf",
+      "title": "Engineering Manager",
+      "location": "Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/atticus/03ed28c5-f496-4638-865d-302e895ccaaf",
+      "postedAt": "2026-08-27T16:23:51.054Z",
+      "key": "atticus:03ed28c5-f496-4638-865d-302e895ccaaf",
+      "company": "Atticus",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-08-27T16:30:23.015Z"
+    },
+    {
+      "id": "8161883",
+      "title": "Senior Software Engineer - Machine Learning Platform",
+      "location": "United States | Remote",
+      "team": null,
+      "url": "https://careers.upstart.com/jobs?gh_jid=8161883",
+      "postedAt": "2026-08-27T16:22:50.000Z",
+      "key": "upstart:8161883",
+      "company": "Upstart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-08-27T16:30:23.015Z"
+    },
     {
       "id": "R999232",
       "title": "Staff Software Engineer - iOS",
@@ -41271,22 +41375,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "4700287006",
-      "title": "Senior Security Engineer (Cloud)",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4700287006",
-      "postedAt": "2026-07-28T16:21:39.000Z",
-      "key": "chainguard:4700287006",
-      "company": "Chainguard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
     },
     {
       "id": "R242748",
