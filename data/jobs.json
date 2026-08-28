@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-08-28T13:00:24.865Z",
+  "generatedAt": "2026-08-28T13:10:18.039Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "tripactions:8147410",
-    "tripactions:8128127",
-    "tripactions:8130171",
-    "thinkingmachines:a9469410-04c7-4e6a-b8b4-64c15933a2bf",
-    "thinkingmachines:c4cddfec-33de-4f67-9801-1308c2151952"
+    "spacex:8755393002",
+    "spacex:8758596002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +13,7 @@
   "levelCounts": {
     "intern": 34,
     "new-grad": 20,
-    "experienced": 2170
+    "experienced": 2171
   },
   "companies": [
     {
@@ -1303,7 +1300,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 140,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 142,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5706,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "8755393002",
+      "title": "Embedded Software Engineer, OS/Platform Software (Starlink)   ",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8755393002?gh_jid=8755393002",
+      "postedAt": "2026-08-28T13:00:24.000Z",
+      "key": "spacex:8755393002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T13:10:18.039Z"
+    },
+    {
       "id": "8130171",
       "title": "Sr. Software Engineer, Frontend",
       "location": "New York, NY",
@@ -5768,6 +5781,22 @@
         "us"
       ],
       "firstSeen": "2026-08-28T13:00:24.865Z"
+    },
+    {
+      "id": "8758596002",
+      "title": "Software Engineer, Embedded Software (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8758596002?gh_jid=8758596002",
+      "postedAt": "2026-08-28T12:55:42.000Z",
+      "key": "spacex:8758596002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T13:10:18.039Z"
     },
     {
       "id": "8147410",
@@ -16293,22 +16322,6 @@
       "firstSeen": "2026-08-20T14:20:17.413Z"
     },
     {
-      "id": "8141967",
-      "title": "Senior Data Engineer - Revenue Data Platform",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "team": null,
-      "url": "https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967",
-      "postedAt": "2026-08-20T13:47:35.000Z",
-      "key": "datadog:8141967",
-      "company": "Datadog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T09:40:18.761Z"
-    },
-    {
       "id": "R29729",
       "title": "Engineer II, Site Reliability (Remote, GBR)",
       "location": "United Kingdom - Remote",
@@ -19681,13 +19694,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -19697,13 +19710,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -22652,7 +22665,7 @@
     },
     {
       "id": "f1ea2699-9c06-465b-8171-29cfec1365d1",
-      "title": "HPC Engineer, AI and Data",
+      "title": "Simulation Engineer, AI/ML Development",
       "location": "Remote (United States)",
       "team": "HPC Engineering",
       "url": "https://jobs.ashbyhq.com/rescale/f1ea2699-9c06-465b-8171-29cfec1365d1",
@@ -39134,22 +39147,6 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
-      "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
-      "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-31T02:22:10.916Z"
-    },
-    {
       "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
       "location": "McGregor, TX",
@@ -39166,13 +39163,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658628002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Hawthorne, CA",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
-      "postedAt": "2026-07-30T23:49:28.000Z",
-      "key": "spacex:8658628002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "postedAt": "2026-07-30T23:49:29.000Z",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39189,6 +39186,22 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8658737002?gh_jid=8658737002",
       "postedAt": "2026-07-30T23:49:28.000Z",
       "key": "spacex:8658737002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-07-31T02:22:10.916Z"
+    },
+    {
+      "id": "8658628002",
+      "title": "Application Software Engineer, Applied AI",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658628002?gh_jid=8658628002",
+      "postedAt": "2026-07-30T23:49:28.000Z",
+      "key": "spacex:8658628002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
