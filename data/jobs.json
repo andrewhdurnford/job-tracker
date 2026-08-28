@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-28T20:50:19.630Z",
+  "generatedAt": "2026-08-28T21:00:26.965Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "neighbor:3c27afec-628f-4305-9519-9b525035e3f0",
+    "toast:8144016"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 34,
     "new-grad": 20,
-    "experienced": 2157
+    "experienced": 2154
   },
   "companies": [
     {
@@ -1451,7 +1454,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1829,7 +1832,7 @@
     {
       "name": "Flock Homes",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3257,7 +3260,7 @@
     {
       "name": "Neighbor",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 172,
+      "jobCount": 171,
       "error": null,
       "stale": false
     },
@@ -5105,7 +5108,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5371,7 +5374,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5553,7 +5556,7 @@
     {
       "name": "Workato",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3c27afec-628f-4305-9519-9b525035e3f0",
+      "title": "Mid-Level Software Engineer",
+      "location": "Lehi, UT",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/neighbor/3c27afec-628f-4305-9519-9b525035e3f0",
+      "postedAt": "2026-08-28T20:59:35.286Z",
+      "key": "neighbor:3c27afec-628f-4305-9519-9b525035e3f0",
+      "company": "Neighbor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T21:00:26.965Z"
+    },
+    {
+      "id": "8144016",
+      "title": "Senior Software Engineering Manager, ToastNow",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8144016",
+      "postedAt": "2026-08-28T20:50:28.000Z",
+      "key": "toast:8144016",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T21:00:26.965Z"
+    },
     {
       "id": "R29609",
       "title": "Engineer III - Platform Data Engineer (Remote)",
@@ -13683,22 +13718,6 @@
       "firstSeen": "2026-08-24T14:50:18.810Z"
     },
     {
-      "id": "8152861",
-      "title": "Staff Security Engineer, Proactive Security - Dasher",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8152861",
-      "postedAt": "2026-08-24T13:34:53.000Z",
-      "key": "doordashusa:8152861",
-      "company": "DoorDash",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T12:30:22.279Z"
-    },
-    {
       "id": "8152825",
       "title": "Senior Director of Engineering, Billing Platform",
       "location": "Austin, TX (+5 more)",
@@ -20586,22 +20605,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Lead-Systems-Software-Test-Engineer---CSP-Engagements_JR2020107",
       "postedAt": "2026-08-18T03:10:35.176Z",
       "key": "Nvidia:JR2020107",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T03:10:20.312Z"
-    },
-    {
-      "id": "JR2020646",
-      "title": "Engineering Manager, Agentic GenAI Platform",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Deep-Learning-Algorithms_JR2020646",
-      "postedAt": "2026-08-18T03:10:32.787Z",
-      "key": "Nvidia:JR2020646",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
@@ -41220,55 +41223,6 @@
         "us"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "4719723005",
-      "title": "Full Stack Software Engineer",
-      "location": "San Franciso or Denver",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/flockhomes/jobs/4719723005",
-      "postedAt": "2026-07-29T20:57:32.000Z",
-      "key": "flockhomes:4719723005",
-      "company": "Flock Homes",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "5199030007",
-      "title": "Staff Frontend Engineer - Design Systems",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5199030007",
-      "postedAt": "2026-07-29T20:55:06.000Z",
-      "key": "verkada:5199030007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
-      "id": "8657369002",
-      "title": "Senior Software Engineer (Ruby/RoR, Low-Code Apps)",
-      "location": "Tbilisi, Georgia",
-      "team": null,
-      "url": "https://www.workato.com/careers?gh_jid=8657369002#open-roles",
-      "postedAt": "2026-07-29T20:54:35.000Z",
-      "key": "workato:8657369002",
-      "company": "Workato",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T22:03:00.773Z",
       "seeded": true
     },
     {
