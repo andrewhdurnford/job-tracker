@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-08-28T15:40:20.051Z",
+  "generatedAt": "2026-08-28T15:50:18.032Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "lyft:8743513002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 34,
     "new-grad": 20,
-    "experienced": 2173
+    "experienced": 2171
   },
   "companies": [
     {
@@ -2844,7 +2846,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -3684,7 +3686,7 @@
     {
       "name": "Phantom",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 142,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4797,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -4860,7 +4862,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8743513002",
+      "title": "Android Software Engineer, Lyft Urban Solutions",
+      "location": "Montreal, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
+      "postedAt": "2026-08-28T15:41:34.000Z",
+      "key": "lyft:8743513002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-28T15:50:18.032Z"
+    },
     {
       "id": "R999347",
       "title": "Senior Lead Data Engineer",
@@ -22176,22 +22194,6 @@
       "postedAt": "2026-08-14T21:11:18.469Z",
       "key": "whoop:7cae97f2-075f-480a-9c4a-842554a84eb8",
       "company": "WHOOP",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-14T21:20:20.396Z"
-    },
-    {
-      "id": "8131144",
-      "title": "Backend Engineer, Link",
-      "location": "NYC, Sea, SF, Tor",
-      "team": "8560 Bank Connections - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8131144",
-      "postedAt": "2026-08-14T21:10:19.000Z",
-      "key": "stripe:8131144",
-      "company": "Stripe",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -41517,38 +41519,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "1a7b0f14-556b-4bb0-b1c1-43702d6b56c3",
-      "title": "Staff Software Engineer, Frontend (Trading)",
-      "location": "Remote",
-      "team": "Trading",
-      "url": "https://jobs.ashbyhq.com/phantom/1a7b0f14-556b-4bb0-b1c1-43702d6b56c3",
-      "postedAt": "2026-07-29T15:49:14.105Z",
-      "key": "phantom:1a7b0f14-556b-4bb0-b1c1-43702d6b56c3",
-      "company": "Phantom",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "f048dd68-63f8-4f98-9860-3d5a43c09a01",
-      "title": "Frontend Engineer",
-      "location": "Remote, Global",
-      "team": "Frontend",
-      "url": "https://jobs.ashbyhq.com/supabase/f048dd68-63f8-4f98-9860-3d5a43c09a01",
-      "postedAt": "2026-07-29T15:45:25.773Z",
-      "key": "supabase:f048dd68-63f8-4f98-9860-3d5a43c09a01",
-      "company": "Supabase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-04T14:01:13.480Z"
     },
     {
       "id": "JR2014509",
