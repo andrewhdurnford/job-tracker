@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-08-28T22:40:16.687Z",
+  "generatedAt": "2026-08-28T22:50:17.838Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Remitly:R_104735"
+    "assemblyai:4728911005",
+    "astranis:4709397006",
+    "Remitly:R_106388",
+    "Remitly:R_106314"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 33,
     "new-grad": 20,
-    "experienced": 2156
+    "experienced": 2158
   },
   "companies": [
     {
@@ -424,14 +427,14 @@
     {
       "name": "AssemblyAI",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
     {
       "name": "Astranis",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2447,7 +2450,7 @@
     {
       "name": "Inversion Space",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4134,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5373,7 +5376,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,71 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_106314",
+      "title": "Fullstack Software Development Engineer II- High Value Send",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Fullstack-Software-Development-Engineer-II_R_106314",
+      "postedAt": "2026-08-28T22:50:21.820Z",
+      "key": "Remitly:R_106314",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T22:50:17.838Z"
+    },
+    {
+      "id": "R_106388",
+      "title": "Fullstack Software Development Engineer II, High Value Send",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Fullstack-Software-Development-Engineer-II--USA-Regional-Experiences_R_106388",
+      "postedAt": "2026-08-28T22:50:21.820Z",
+      "key": "Remitly:R_106388",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T22:50:17.838Z"
+    },
+    {
+      "id": "4728911005",
+      "title": "Senior Software Engineer, Inference",
+      "location": "North America ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4728911005",
+      "postedAt": "2026-08-28T22:46:09.000Z",
+      "key": "assemblyai:4728911005",
+      "company": "AssemblyAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-28T22:50:17.838Z"
+    },
+    {
+      "id": "4709397006",
+      "title": "Senior Reliability Test Engineer",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4709397006",
+      "postedAt": "2026-08-28T22:45:36.000Z",
+      "key": "astranis:4709397006",
+      "company": "Astranis",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T22:50:17.838Z"
+    },
     {
       "id": "R_104735",
       "title": "Senior Software Development Engineer, Authorization",
@@ -36822,22 +36890,6 @@
       "firstSeen": "2026-08-05T19:33:31.081Z"
     },
     {
-      "id": "4720992005",
-      "title": "Front-End Software Engineer II",
-      "location": "Playa Vista, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4720992005",
-      "postedAt": "2026-08-03T23:24:21.000Z",
-      "key": "inversionspace:4720992005",
-      "company": "Inversion Space",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
-    },
-    {
       "id": "8077301",
       "title": "Staff Software Engineer, Time and Scheduling",
       "location": "New York, NY;Toronto, Ontario, CAN - Remote",
@@ -41177,22 +41229,6 @@
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
-    },
-    {
-      "id": "5195862007",
-      "title": "Senior Systems Engineer - Streaming",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5195862007",
-      "postedAt": "2026-07-29T22:49:40.000Z",
-      "key": "verkada:5195862007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "R26_848",
