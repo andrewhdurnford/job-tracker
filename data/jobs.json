@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-08-28T16:40:19.036Z",
+  "generatedAt": "2026-08-28T16:49:19.726Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Capital One:R249386",
+    "lyft:8760360002",
+    "lyft:8760350002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 34,
     "new-grad": 20,
-    "experienced": 2167
+    "experienced": 2166
   },
   "companies": [
     {
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 152,
+      "jobCount": 153,
       "error": null,
       "stale": false
     },
@@ -2844,7 +2848,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4692,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 132,
+      "jobCount": 130,
       "error": null,
       "stale": false
     },
@@ -5056,7 +5060,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5371,7 +5375,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R249386",
+      "title": "Principal Associate, Senior Software Engineer, Full Stack (Card Tech)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Senior-Software-Engineer--Full-Stack--Card-Tech-_R249386-2",
+      "postedAt": "2026-08-28T16:49:23.450Z",
+      "key": "Capital One:R249386",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T16:49:19.726Z"
+    },
+    {
+      "id": "8760360002",
+      "title": "Ingénieur Logiciel, LUS Plateformes Back-end",
+      "location": "Montreal, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8760360002?gh_jid=8760360002",
+      "postedAt": "2026-08-28T16:43:26.000Z",
+      "key": "lyft:8760360002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-28T16:49:19.726Z"
+    },
+    {
+      "id": "8760350002",
+      "title": "Software Engineer, LUS Backend Platforms",
+      "location": "Montreal, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002",
+      "postedAt": "2026-08-28T16:43:24.000Z",
+      "key": "lyft:8760350002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-28T16:49:19.726Z"
+    },
     {
       "id": "5406982008",
       "title": "Applied AI Architect, Startups",
@@ -28520,22 +28572,6 @@
       "firstSeen": "2026-08-10T21:10:16.486Z"
     },
     {
-      "id": "5205559007",
-      "title": "Front End Engineer II - Campaign Experiences",
-      "location": "Bellevue; New York; San Francisco; San Jose; Seattle",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5205559007",
-      "postedAt": "2026-08-10T21:00:47.000Z",
-      "key": "thetradedesk:5205559007",
-      "company": "The Trade Desk",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T23:09:02.332Z"
-    },
-    {
       "id": "R247651",
       "title": "Principal Associate, Data Scientist - Customer Protection Debit Transaction Fraud Data Science",
       "location": "McLean, VA",
@@ -41397,56 +41433,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "8656579002",
-      "title": "Software Engineer, CDN (Starlink)",
-      "location": "Palo Alto, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8656579002?gh_jid=8656579002",
-      "postedAt": "2026-07-29T16:46:32.000Z",
-      "key": "spacex:8656579002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8632172002",
-      "title": "Software Engineer, CDN (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8632172002?gh_jid=8632172002",
-      "postedAt": "2026-07-29T16:45:00.000Z",
-      "key": "spacex:8632172002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "5198628007",
-      "title": "Senior-Staff Software Engineer, Tooling",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5198628007",
-      "postedAt": "2026-07-29T16:42:53.000Z",
-      "key": "verkada:5198628007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "JR2014509",
