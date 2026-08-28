@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-08-28T12:50:21.434Z",
+  "generatedAt": "2026-08-28T13:00:24.865Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "tripactions:8147410",
+    "tripactions:8128127",
+    "tripactions:8130171",
+    "thinkingmachines:a9469410-04c7-4e6a-b8b4-64c15933a2bf",
+    "thinkingmachines:c4cddfec-33de-4f67-9801-1308c2151952"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +16,7 @@
   "levelCounts": {
     "intern": 34,
     "new-grad": 20,
-    "experienced": 2166
+    "experienced": 2170
   },
   "companies": [
     {
@@ -1241,7 +1247,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 77,
+      "jobCount": 76,
       "error": null,
       "stale": false
     },
@@ -3250,7 +3256,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 140,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5063,7 +5069,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8130171",
+      "title": "Sr. Software Engineer, Frontend",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8130171",
+      "postedAt": "2026-08-28T12:59:08.000Z",
+      "key": "tripactions:8130171",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T13:00:24.865Z"
+    },
+    {
+      "id": "c4cddfec-33de-4f67-9801-1308c2151952",
+      "title": "Site Reliability Engineer, Tinker",
+      "location": "San Francisco (+1 more)",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/c4cddfec-33de-4f67-9801-1308c2151952",
+      "postedAt": "2026-08-28T12:56:45.708Z",
+      "key": "thinkingmachines:c4cddfec-33de-4f67-9801-1308c2151952",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T13:00:24.865Z"
+    },
+    {
+      "id": "8128127",
+      "title": "Sr. Software Engineer, Backend",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8128127",
+      "postedAt": "2026-08-28T12:56:42.000Z",
+      "key": "tripactions:8128127",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T13:00:24.865Z"
+    },
+    {
+      "id": "a9469410-04c7-4e6a-b8b4-64c15933a2bf",
+      "title": "ML Infrastructure Engineer",
+      "location": "San Francisco (+1 more)",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/a9469410-04c7-4e6a-b8b4-64c15933a2bf",
+      "postedAt": "2026-08-28T12:56:24.369Z",
+      "key": "thinkingmachines:a9469410-04c7-4e6a-b8b4-64c15933a2bf",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T13:00:24.865Z"
+    },
+    {
+      "id": "8147410",
+      "title": "Sr. Software Engineer, AI",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8147410",
+      "postedAt": "2026-08-28T12:55:34.000Z",
+      "key": "tripactions:8147410",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T13:00:24.865Z"
+    },
     {
       "id": "5895013004",
       "title": "Staff Data Platform Engineer - Finance",
@@ -10417,22 +10503,6 @@
       "firstSeen": "2026-08-25T19:40:18.731Z"
     },
     {
-      "id": "R29878",
-      "title": "Sr. Data Scientist - Gen AI (Remote)",
-      "location": "3 Locations",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Data-Scientist---Gen-AI--Remote-_R29878",
-      "postedAt": "2026-08-25T19:30:32.493Z",
-      "key": "CrowdStrike:R29878",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-25T19:30:28.706Z"
-    },
-    {
       "id": "8100220",
       "title": "Senior Software Engineer, Media Creation",
       "location": "Remote - United States",
@@ -14851,7 +14921,7 @@
     },
     {
       "id": "a1320bbf-bfae-49a8-a1b7-12eeccaf39ca",
-      "title": "Developer Relations Engineer (San Francisco, CA)",
+      "title": "Developer Relations Engineer ",
       "location": "Remote, San Francisco, CA",
       "team": "Marketing",
       "url": "https://jobs.ashbyhq.com/supabase/a1320bbf-bfae-49a8-a1b7-12eeccaf39ca",
@@ -19081,7 +19151,7 @@
       "id": "b74b8513-25cd-44ea-a16f-d821c2bde016",
       "title": "Senior NPI Quality Engineer - Electrical",
       "location": "Austin, TX",
-      "team": "Quality Engineering",
+      "team": "Quality",
       "url": "https://jobs.ashbyhq.com/saronic/b74b8513-25cd-44ea-a16f-d821c2bde016",
       "postedAt": "2026-08-18T16:48:46.116Z",
       "key": "saronic:b74b8513-25cd-44ea-a16f-d821c2bde016",
@@ -19373,7 +19443,7 @@
       "id": "b6f96b31-7549-47a4-aa58-adb6eb284583",
       "title": "NPI Quality Engineer - Mechanical",
       "location": "Austin, TX",
-      "team": "Quality Engineering",
+      "team": "Quality",
       "url": "https://jobs.ashbyhq.com/saronic/b6f96b31-7549-47a4-aa58-adb6eb284583",
       "postedAt": "2026-08-18T14:51:42.982Z",
       "key": "saronic:b6f96b31-7549-47a4-aa58-adb6eb284583",
