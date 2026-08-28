@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-08-28T22:50:17.838Z",
+  "generatedAt": "2026-08-28T23:00:28.029Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "assemblyai:4728911005",
-    "astranis:4709397006",
-    "Remitly:R_106388",
-    "Remitly:R_106314"
+    "lyft:8761940002",
+    "Remitly:R_106593",
+    "roblox:8060254"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 33,
     "new-grad": 20,
-    "experienced": 2158
+    "experienced": 2159
   },
   "companies": [
     {
@@ -2849,7 +2848,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -3430,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 171,
+      "jobCount": 170,
       "error": null,
       "stale": false
     },
@@ -4137,7 +4136,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -4242,7 +4241,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 130,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5670,7 +5669,7 @@
     {
       "name": "Zip",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_106593",
+      "title": "Senior Fullstack Software Development Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Fullstack-Software-Development-Engineer_R_106593",
+      "postedAt": "2026-08-28T23:00:32.000Z",
+      "key": "Remitly:R_106593",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T23:00:28.029Z"
+    },
+    {
+      "id": "8060254",
+      "title": "Software Engineer, Economy Platform",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8060254?gh_jid=8060254",
+      "postedAt": "2026-08-28T22:57:08.000Z",
+      "key": "roblox:8060254",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T23:00:28.029Z"
+    },
+    {
+      "id": "8761940002",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8761940002?gh_jid=8761940002",
+      "postedAt": "2026-08-28T22:50:33.000Z",
+      "key": "lyft:8761940002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T23:00:28.029Z"
+    },
     {
       "id": "R_106314",
       "title": "Fullstack Software Development Engineer II- High Value Send",
@@ -16146,22 +16193,6 @@
       "firstSeen": "2026-08-21T00:30:21.379Z"
     },
     {
-      "id": "3b54f98b-c0a7-4c6b-8a8b-b34a224db0ad",
-      "title": "Software Engineer, Forward Deployed (Entry - Senior Level)",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/zip/3b54f98b-c0a7-4c6b-8a8b-b34a224db0ad",
-      "postedAt": "2026-08-21T00:00:19.445Z",
-      "key": "zip:3b54f98b-c0a7-4c6b-8a8b-b34a224db0ad",
-      "company": "Zip",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T00:10:17.319Z"
-    },
-    {
       "id": "8732364002",
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
@@ -18620,13 +18651,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -18636,13 +18667,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -21454,7 +21485,7 @@
     {
       "id": "983ea248-e6c9-43bc-a27d-914091173337",
       "title": "Senior/Staff Software Engineer, Front End",
-      "location": "California (+1 more)",
+      "location": "California",
       "team": "Product Engineering",
       "url": "https://jobs.ashbyhq.com/abridge/983ea248-e6c9-43bc-a27d-914091173337",
       "postedAt": "2026-08-17T17:31:05.644Z",
@@ -21675,22 +21706,6 @@
         "us"
       ],
       "firstSeen": "2026-08-21T15:49:09.059Z"
-    },
-    {
-      "id": "JR2018188",
-      "title": "Director, System Software - AV Platform",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--System-Software---AV-Platform_JR2018188",
-      "postedAt": "2026-08-17T15:40:30.951Z",
-      "key": "Nvidia:JR2018188",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T15:40:21.427Z"
     },
     {
       "id": "R249202",
@@ -28953,22 +28968,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -28981,6 +28980,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -30895,22 +30910,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -30923,6 +30922,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
