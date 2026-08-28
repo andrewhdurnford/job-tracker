@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-08-28T22:00:25.515Z",
+  "generatedAt": "2026-08-28T22:10:18.579Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "faire:8758597002",
-    "firecrawl:4fed8a26-d8e1-47b1-9283-59e547e6e02a",
-    "uipath:b14e2af1-b75f-42e7-a01b-e0a512e09d4d",
-    "upstart:8164825"
+    "stripe:8131144"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -3262,7 +3259,7 @@
     {
       "name": "Neighbor",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 130,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4802,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5800,22 +5797,6 @@
         "remote"
       ],
       "firstSeen": "2026-08-28T21:20:20.350Z"
-    },
-    {
-      "id": "3c27afec-628f-4305-9519-9b525035e3f0",
-      "title": "Software Engineer",
-      "location": "Lehi, UT",
-      "team": "Engineering",
-      "url": "https://jobs.lever.co/neighbor/3c27afec-628f-4305-9519-9b525035e3f0",
-      "postedAt": "2026-08-28T20:59:35.286Z",
-      "key": "neighbor:3c27afec-628f-4305-9519-9b525035e3f0",
-      "company": "Neighbor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T21:00:26.965Z"
     },
     {
       "id": "8144016",
@@ -18507,13 +18488,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -18523,13 +18504,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -22735,6 +22716,22 @@
         "us"
       ],
       "firstSeen": "2026-08-14T21:20:20.396Z"
+    },
+    {
+      "id": "8131144",
+      "title": "Backend Engineer, Link",
+      "location": "NYC, Sea, SF, Tor",
+      "team": "8560 Bank Connections - Eng",
+      "url": "https://stripe.com/jobs/search?gh_jid=8131144",
+      "postedAt": "2026-08-14T21:10:19.000Z",
+      "key": "stripe:8131144",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T22:10:18.579Z"
     },
     {
       "id": "526acc6c-99c3-425a-bfa8-e0bacad4db09",
@@ -28824,22 +28821,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -28852,6 +28833,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
