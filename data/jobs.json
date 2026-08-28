@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-08-28T16:10:20.186Z",
+  "generatedAt": "2026-08-28T16:20:17.350Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "cloudflare:8143511",
-    "illumio:30487846-9661-4f65-9dfe-2c64b2430021",
-    "nuro:8164473",
-    "ramp:c01a2ed9-fcb4-48c0-ad7a-c59476d9c986",
-    "vetcove:41ed06fc-98fc-479c-8b85-43880ac36788"
+    "benchling:c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b",
+    "benchling:f0c70d09-5a30-4380-a3a6-c73f4fd75f40",
+    "regent:183f87a9-2e66-4cca-a499-04c126f506af",
+    "regent:2fbaf0f4-1663-4197-9593-d926744b8ac1",
+    "thinkingmachines:a9469410-04c7-4e6a-b8b4-64c15933a2bf",
+    "thinkingmachines:d328e3d3-df94-47a1-9120-d2592a796142"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +17,7 @@
   "levelCounts": {
     "intern": 34,
     "new-grad": 20,
-    "experienced": 2168
+    "experienced": 2172
   },
   "companies": [
     {
@@ -554,7 +555,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4131,7 +4132,7 @@
     {
       "name": "REGENT",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4698,7 +4699,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 138,
+      "jobCount": 136,
       "error": null,
       "stale": false
     },
@@ -5069,7 +5070,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5707,86 @@
   ],
   "jobs": [
     {
+      "id": "183f87a9-2e66-4cca-a499-04c126f506af",
+      "title": "Principal Software Engineer",
+      "location": "North Kingstown, Rhode Island, USA",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/regent/183f87a9-2e66-4cca-a499-04c126f506af",
+      "postedAt": "2026-08-28T16:16:23.146Z",
+      "key": "regent:183f87a9-2e66-4cca-a499-04c126f506af",
+      "company": "REGENT",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T16:20:17.350Z"
+    },
+    {
+      "id": "a9469410-04c7-4e6a-b8b4-64c15933a2bf",
+      "title": "ML Infrastructure Engineer",
+      "location": "San Francisco (+1 more)",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/a9469410-04c7-4e6a-b8b4-64c15933a2bf",
+      "postedAt": "2026-08-28T16:14:18.540Z",
+      "key": "thinkingmachines:a9469410-04c7-4e6a-b8b4-64c15933a2bf",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T16:20:17.350Z"
+    },
+    {
+      "id": "d328e3d3-df94-47a1-9120-d2592a796142",
+      "title": "Software Engineer, ML Infra",
+      "location": "San Francisco (+1 more)",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/d328e3d3-df94-47a1-9120-d2592a796142",
+      "postedAt": "2026-08-28T16:14:15.316Z",
+      "key": "thinkingmachines:d328e3d3-df94-47a1-9120-d2592a796142",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T16:20:17.350Z"
+    },
+    {
+      "id": "f0c70d09-5a30-4380-a3a6-c73f4fd75f40",
+      "title": "Data Engineer",
+      "location": "Remote, US",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/benchling/f0c70d09-5a30-4380-a3a6-c73f4fd75f40",
+      "postedAt": "2026-08-28T16:13:25.522Z",
+      "key": "benchling:f0c70d09-5a30-4380-a3a6-c73f4fd75f40",
+      "company": "Benchling",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T16:20:17.350Z"
+    },
+    {
+      "id": "c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b",
+      "title": "Data Engineer",
+      "location": "San Francisco, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/benchling/c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b",
+      "postedAt": "2026-08-28T16:13:20.796Z",
+      "key": "benchling:c1ad7288-ad78-4a0f-8f19-1fcc3f6cf85b",
+      "company": "Benchling",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T16:20:17.350Z"
+    },
+    {
       "id": "8143511",
       "title": "Senior Engineering Manager",
       "location": "Austin, TX (+1 more)",
@@ -5802,6 +5883,22 @@
         "us"
       ],
       "firstSeen": "2026-08-28T16:00:25.733Z"
+    },
+    {
+      "id": "2fbaf0f4-1663-4197-9593-d926744b8ac1",
+      "title": "Senior Mission Software Engineer",
+      "location": "North Kingstown, Rhode Island, USA",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/regent/2fbaf0f4-1663-4197-9593-d926744b8ac1",
+      "postedAt": "2026-08-28T15:50:14.702Z",
+      "key": "regent:2fbaf0f4-1663-4197-9593-d926744b8ac1",
+      "company": "REGENT",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T16:20:17.350Z"
     },
     {
       "id": "8743513002",
@@ -17929,13 +18026,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -17945,13 +18042,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -28301,22 +28398,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -28329,6 +28410,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -39315,13 +39412,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39331,13 +39428,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40745,23 +40842,6 @@
       "seeded": true
     },
     {
-      "id": "7819656003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819656003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819654003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote US",
@@ -40774,6 +40854,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819656003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819656003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -41435,40 +41532,6 @@
       "postedAt": "2026-07-29T16:22:35.000Z",
       "key": "mongodb:8083761",
       "company": "MongoDB",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8631217002",
-      "title": "Software Engineer, Data (Starlink)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002",
-      "postedAt": "2026-07-29T16:18:34.000Z",
-      "key": "spacex:8631217002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8656465002",
-      "title": "Full Stack Software Engineer, Data (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8656465002?gh_jid=8656465002",
-      "postedAt": "2026-07-29T16:18:33.000Z",
-      "key": "spacex:8656465002",
-      "company": "SpaceX",
       "level": "experienced",
       "term": null,
       "regions": [
