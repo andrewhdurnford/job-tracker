@@ -1,12 +1,14 @@
 {
-  "generatedAt": "2026-08-28T20:30:22.147Z",
+  "generatedAt": "2026-08-28T20:40:18.124Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "Capital One:R999435",
-    "hyperbound:e58222f2-3835-4107-863c-c68947e48489",
-    "ServiceTitan:JR112973",
-    "ServiceTitan:JR114907"
+    "cohere:be48aafc-9610-4ebd-8414-a0722a3cd59a",
+    "cohere:b0bcef37-1d20-414f-aade-c54942d63df9",
+    "cohere:52a2b83b-7537-4e88-af7b-e4e9630a96e0",
+    "cohere:6a6120d5-5e02-4811-99d9-6baf0b910e37",
+    "CrowdStrike:R29609",
+    "toast:8159140"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +17,7 @@
   "levelCounts": {
     "intern": 34,
     "new-grad": 20,
-    "experienced": 2154
+    "experienced": 2157
   },
   "companies": [
     {
@@ -119,7 +121,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1015,7 +1017,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -1050,7 +1052,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -1246,7 +1248,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 76,
+      "jobCount": 77,
       "error": null,
       "stale": false
     },
@@ -3759,7 +3761,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5032,10 +5034,10 @@
     },
     {
       "name": "Temporal Technologies",
-      "ok": true,
+      "ok": false,
       "jobCount": 8,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Tempus AI",
@@ -5110,7 +5112,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5706,104 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29609",
+      "title": "Engineer III - Platform Data Engineer (Remote)",
+      "location": "USA - Remote, NY",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-NY/Engineer-III---Platform-Data-Engineer--Remote-_R29609",
+      "postedAt": "2026-08-28T20:40:22.793Z",
+      "key": "CrowdStrike:R29609",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T20:40:18.124Z"
+    },
+    {
+      "id": "be48aafc-9610-4ebd-8414-a0722a3cd59a",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
+      "location": "Toronto (+4 more)",
+      "team": "Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a",
+      "postedAt": "2026-08-28T20:36:13.897Z",
+      "key": "cohere:be48aafc-9610-4ebd-8414-a0722a3cd59a",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-28T20:40:18.124Z"
+    },
+    {
+      "id": "52a2b83b-7537-4e88-af7b-e4e9630a96e0",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Public Sector)",
+      "location": "Ottawa (+1 more)",
+      "team": "Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0",
+      "postedAt": "2026-08-28T20:35:23.101Z",
+      "key": "cohere:52a2b83b-7537-4e88-af7b-e4e9630a96e0",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-28T20:40:18.124Z"
+    },
+    {
+      "id": "6a6120d5-5e02-4811-99d9-6baf0b910e37",
+      "title": "Engineering Manager, FDE Infrastructure (NORAM)",
+      "location": "Canada (+1 more)",
+      "team": "Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cohere/6a6120d5-5e02-4811-99d9-6baf0b910e37",
+      "postedAt": "2026-08-28T20:34:05.703Z",
+      "key": "cohere:6a6120d5-5e02-4811-99d9-6baf0b910e37",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-28T20:40:18.124Z"
+    },
+    {
+      "id": "8159140",
+      "title": "Principal Software Engineer",
+      "location": "Remote, US",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8159140",
+      "postedAt": "2026-08-28T20:33:42.000Z",
+      "key": "toast:8159140",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-28T20:40:18.124Z"
+    },
+    {
+      "id": "b0bcef37-1d20-414f-aade-c54942d63df9",
+      "title": "Forward Deployed Engineer, Agentic Platform",
+      "location": "United States (+8 more)",
+      "team": "Agentic Platform",
+      "url": "https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9",
+      "postedAt": "2026-08-28T20:30:58.199Z",
+      "key": "cohere:b0bcef37-1d20-414f-aade-c54942d63df9",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-28T20:40:18.124Z"
+    },
     {
       "id": "JR112973",
       "title": "Senior AI Engineer",
@@ -14544,22 +14644,6 @@
       "postedAt": "2026-08-21T20:30:00.000Z",
       "key": "neuralink:7931610003",
       "company": "Neuralink",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T20:30:21.804Z"
-    },
-    {
-      "id": "8146265",
-      "title": "Software Engineer, Payments",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8146265?gh_jid=8146265",
-      "postedAt": "2026-08-21T20:27:49.000Z",
-      "key": "airbnb:8146265",
-      "company": "Airbnb",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -28651,22 +28735,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -28679,6 +28747,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -39582,13 +39666,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658738002",
+      "id": "8658740002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "Starbase, TX",
+      "location": "McGregor, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658738002",
+      "key": "spacex:8658740002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39598,13 +39682,13 @@
       "firstSeen": "2026-07-31T02:22:10.916Z"
     },
     {
-      "id": "8658740002",
+      "id": "8658738002",
       "title": "Application Software Engineer, Applied AI",
-      "location": "McGregor, TX",
+      "location": "Starbase, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8658740002?gh_jid=8658740002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8658738002?gh_jid=8658738002",
       "postedAt": "2026-07-30T23:49:29.000Z",
-      "key": "spacex:8658740002",
+      "key": "spacex:8658738002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -41012,23 +41096,6 @@
       "seeded": true
     },
     {
-      "id": "7819656003",
-      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
-      "postedAt": "2026-07-29T21:51:15.000Z",
-      "key": "affirm:7819656003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
       "id": "7819654003",
       "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
       "location": "Remote US",
@@ -41041,6 +41108,23 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-07-30T23:25:53.895Z",
+      "seeded": true
+    },
+    {
+      "id": "7819656003",
+      "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003",
+      "postedAt": "2026-07-29T21:51:15.000Z",
+      "key": "affirm:7819656003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
@@ -41192,40 +41276,6 @@
         "us"
       ],
       "firstSeen": "2026-08-19T22:03:00.773Z",
-      "seeded": true
-    },
-    {
-      "id": "7771029",
-      "title": "Staff Systems Engineer, Oracle EBS, Integration",
-      "location": "San Francisco, CA, US; Remote, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7771029",
-      "postedAt": "2026-07-29T20:32:19.000Z",
-      "key": "pinterest:7771029",
-      "company": "Pinterest",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "8088751",
-      "title": "Software Engineer, Cloudflare Network Interconnect",
-      "location": "Austin, TX",
-      "team": "Infrastructure",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751",
-      "postedAt": "2026-07-29T20:31:31.000Z",
-      "key": "cloudflare:8088751",
-      "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
     },
     {
