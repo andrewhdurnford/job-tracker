@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T05:10:18.840Z",
+  "generatedAt": "2026-08-29T05:20:20.940Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 36,
     "new-grad": 20,
-    "experienced": 2163
+    "experienced": 2162
   },
   "companies": [
     {
@@ -785,10 +785,10 @@
     },
     {
       "name": "Capital One",
-      "ok": true,
+      "ok": false,
       "jobCount": 155,
-      "error": null,
-      "stale": false
+      "error": "HTTP 500 Internal Server Error",
+      "stale": true
     },
     {
       "name": "CaptivateIQ",
@@ -1087,7 +1087,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 130,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -18889,13 +18889,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -18905,13 +18905,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -41232,22 +41232,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T19:33:31.081Z"
-    },
-    {
-      "id": "7e0572ec-fe77-4893-bc33-6d007bbcc5ff",
-      "title": "Software Engineer, RCM Core",
-      "location": "Mountain View, CA",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/7e0572ec-fe77-4893-bc33-6d007bbcc5ff",
-      "postedAt": "2026-07-30T05:18:50.224Z",
-      "key": "commure:7e0572ec-fe77-4893-bc33-6d007bbcc5ff",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
     },
     {
       "id": "JR2021259",
