@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-08-29T20:50:18.856Z",
+  "generatedAt": "2026-08-29T21:00:22.954Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "firecrawl:84c209e5-d65c-4b27-b42f-c53507461acd"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 36,
     "new-grad": 20,
-    "experienced": 2116
+    "experienced": 2114
   },
   "companies": [
     {
@@ -157,10 +155,10 @@
     },
     {
       "name": "Albedo",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Alchemy",
@@ -4596,7 +4594,7 @@
     {
       "name": "Smartsheet",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4722,7 +4720,7 @@
     {
       "name": "Spotify",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -18971,13 +18969,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -18987,13 +18985,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -21017,13 +21015,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -21033,13 +21031,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40475,39 +40473,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "8097667",
-      "title": "Software Engineer II - Full Stack (Remote Eligible)",
-      "location": " -REMOTE, USA-",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8097667",
-      "postedAt": "2026-07-30T20:58:29.000Z",
-      "key": "smartsheet:8097667",
-      "company": "Smartsheet",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
-      "seeded": true
-    },
-    {
-      "id": "9761af44-be41-43ca-8c01-79cdbb2aef93",
-      "title": "Staff Machine Learning Engineer, Personalization",
-      "location": "New York, NY",
-      "team": "Personalization",
-      "url": "https://jobs.lever.co/spotify/9761af44-be41-43ca-8c01-79cdbb2aef93",
-      "postedAt": "2026-07-30T20:55:39.455Z",
-      "key": "spotify:9761af44-be41-43ca-8c01-79cdbb2aef93",
-      "company": "Spotify",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "5930fed9-c4f6-43c3-87be-3402c2c46489",
