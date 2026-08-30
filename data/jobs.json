@@ -1,10 +1,16 @@
 {
-  "generatedAt": "2026-08-30T04:10:16.244Z",
+  "generatedAt": "2026-08-30T04:20:18.349Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 8,
   "newKeys": [
-    "Nvidia:JR2016466",
-    "Nvidia:JR2016558"
+    "Nvidia:JR2018839",
+    "Nvidia:JR2018686",
+    "Nvidia:JR2018387",
+    "Nvidia:JR2017457",
+    "Nvidia:JR2016469",
+    "Nvidia:JR2020021",
+    "Nvidia:JR2020644",
+    "Nvidia:JR2020551"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +19,7 @@
   "levelCounts": {
     "intern": 36,
     "new-grad": 20,
-    "experienced": 2096
+    "experienced": 2104
   },
   "companies": [
     {
@@ -1425,10 +1431,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": true,
+      "ok": false,
       "jobCount": 9,
-      "error": null,
-      "stale": false
+      "error": "HTTP 403 Forbidden",
+      "stale": true
     },
     {
       "name": "Dolls Kill",
@@ -3428,7 +3434,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 175,
+      "jobCount": 183,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5708,134 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2020551",
+      "title": "Principal Perception Engineer, Obstacle Foundation Models - Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Perception-Engineer--Obstacle-Foundation-Models---Autonomous-Vehicles_JR2020551",
+      "postedAt": "2026-08-30T04:21:24.376Z",
+      "key": "Nvidia:JR2020551",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-30T04:20:18.349Z"
+    },
+    {
+      "id": "JR2020644",
+      "title": "Principal Software Engineer, Vehicle Dynamics Simulation - AV",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer--Vehicle-Dynamics-Simulation---AV_JR2020644-1",
+      "postedAt": "2026-08-30T04:21:15.059Z",
+      "key": "Nvidia:JR2020644",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-30T04:20:18.349Z"
+    },
+    {
+      "id": "JR2020021",
+      "title": "Senior Software Engineer, World Model Systems Engineering - Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--World-Model-Systems-Engineering---Autonomous-Vehicles_JR2020021",
+      "postedAt": "2026-08-30T04:21:08.385Z",
+      "key": "Nvidia:JR2020021",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-30T04:20:18.349Z"
+    },
+    {
+      "id": "JR2018839",
+      "title": "Principal System Software Engineer - AV Platform",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-System-Software-Engineer---AV-Platform_JR2018839",
+      "postedAt": "2026-08-30T04:20:22.173Z",
+      "key": "Nvidia:JR2018839",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-30T04:20:18.349Z"
+    },
+    {
+      "id": "JR2018387",
+      "title": "Senior AI Architect, Foundation Models and SoC Co-Design – Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Architect--Foundation-Models-and-SoC-Co-Design---Autonomous-Vehicles_JR2018387",
+      "postedAt": "2026-08-30T04:20:22.173Z",
+      "key": "Nvidia:JR2018387",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-30T04:20:18.349Z"
+    },
+    {
+      "id": "JR2016469",
+      "title": "Senior System Software Engineer - Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles_JR2016469",
+      "postedAt": "2026-08-30T04:20:22.173Z",
+      "key": "Nvidia:JR2016469",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-30T04:20:18.349Z"
+    },
+    {
+      "id": "JR2017457",
+      "title": "Senior System Software Engineer - AV Platform",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2017457",
+      "postedAt": "2026-08-30T04:20:22.173Z",
+      "key": "Nvidia:JR2017457",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-30T04:20:18.349Z"
+    },
+    {
+      "id": "JR2018686",
+      "title": "Senior Systems Software Engineer - Autonomous Vehicles Platform",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles-Platform_JR2018686",
+      "postedAt": "2026-08-30T04:20:22.173Z",
+      "key": "Nvidia:JR2018686",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-30T04:20:18.349Z"
+    },
     {
       "id": "JR2016558",
       "title": "Senior System Software Engineer - AV Platform",
@@ -19100,13 +19234,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -19116,13 +19250,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -21146,13 +21280,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -21162,13 +21296,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
