@@ -1,14 +1,10 @@
 {
-  "generatedAt": "2026-08-31T14:00:27.876Z",
+  "generatedAt": "2026-08-31T14:10:21.155Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R247610",
-    "Capital One:R247598",
-    "Capital One:R248912",
-    "Nvidia:JR2022263",
-    "openai:7bdb15f0-1e3b-4352-b948-47fb35f25d71",
-    "openai:0a24703f-6108-4422-807e-78831dd98ed1"
+    "Capital One:R242185",
+    "Remitly:R_106404"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +13,7 @@
   "levelCounts": {
     "intern": 36,
     "new-grad": 20,
-    "experienced": 2062
+    "experienced": 2064
   },
   "companies": [
     {
@@ -793,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 150,
+      "jobCount": 151,
       "error": null,
       "stale": false
     },
@@ -2038,10 +2034,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -4139,7 +4135,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_106404",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Staff-Machine-Learning-Engineer_R_106404",
+      "postedAt": "2026-08-31T14:10:28.412Z",
+      "key": "Remitly:R_106404",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T14:10:21.155Z"
+    },
+    {
+      "id": "R242185",
+      "title": "Senior Staff Engineer, AI Compute (Remote Eligible)",
+      "location": "7 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Senior-Distinguished-Engineer--AI-Compute--Remote-Eligible-_R242185-1",
+      "postedAt": "2026-08-31T14:10:24.422Z",
+      "key": "Capital One:R242185",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-08-31T14:10:21.155Z"
+    },
     {
       "id": "JR2022263",
       "title": "Senior Software Engineer, Full-Stack",
