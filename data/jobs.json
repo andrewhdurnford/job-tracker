@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-08-31T19:10:17.426Z",
+  "generatedAt": "2026-08-31T19:20:18.628Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "afterquery:7df65be5-5338-4d54-bc0a-ac550633618b",
-    "epicgames:6173862004",
-    "Remitly:R_106829"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1426,10 +1422,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": true,
+      "ok": false,
       "jobCount": 10,
-      "error": null,
-      "stale": false
+      "error": "HTTP 403 Forbidden",
+      "stale": true
     },
     {
       "name": "Dolls Kill",
@@ -32924,22 +32920,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -32952,6 +32932,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
