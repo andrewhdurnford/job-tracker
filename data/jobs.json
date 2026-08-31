@@ -1,19 +1,21 @@
 {
-  "generatedAt": "2026-08-31T22:20:18.977Z",
+  "generatedAt": "2026-08-31T22:30:25.578Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Nvidia:JR2018261",
-    "Nvidia:JR2020431"
+    "Nvidia:JR2024715",
+    "Nvidia:JR2024639",
+    "stripe:8128745",
+    "stripe:8128744"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 37,
-    "new-grad": 22,
-    "experienced": 2129
+    "intern": 38,
+    "new-grad": 23,
+    "experienced": 2130
   },
   "companies": [
     {
@@ -3226,7 +3228,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3428,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 187,
+      "jobCount": 189,
       "error": null,
       "stale": false
     },
@@ -4800,7 +4802,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5227,7 +5229,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2024639",
+      "title": "Senior Developer Relations Manager - Omniverse",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---Omniverse_JR2024639",
+      "postedAt": "2026-08-31T22:30:30.469Z",
+      "key": "Nvidia:JR2024639",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T22:30:25.578Z"
+    },
+    {
+      "id": "JR2024715",
+      "title": "Senior Systems Software Engineer – GeForce NOW Cloud",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---GeForce-NOW-Cloud_JR2024715",
+      "postedAt": "2026-08-31T22:30:30.469Z",
+      "key": "Nvidia:JR2024715",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T22:30:25.578Z"
+    },
+    {
+      "id": "8128744",
+      "title": "Software Engineer, New Grad",
+      "location": "San Francisco, Seattle, New York",
+      "team": "5112 General University",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+      "postedAt": "2026-08-31T22:22:27.000Z",
+      "key": "stripe:8128744",
+      "company": "Stripe",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T22:30:25.578Z"
+    },
+    {
+      "id": "8128745",
+      "title": "Software Engineer, Intern ",
+      "location": "San Francisco, Seattle, New York City",
+      "team": "5112 General University",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "postedAt": "2026-08-31T22:20:45.000Z",
+      "key": "stripe:8128745",
+      "company": "Stripe",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T22:30:25.578Z"
+    },
     {
       "id": "JR2018261",
       "title": "Machine Learning Systems Engineer, Networking",
@@ -23339,13 +23405,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -23355,13 +23421,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -38134,22 +38200,6 @@
         "us"
       ],
       "firstSeen": "2026-07-31T23:18:41.116Z"
-    },
-    {
-      "id": "8099162",
-      "title": "Senior Software Engineer (L3)",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8099162",
-      "postedAt": "2026-08-04T20:08:51.000Z",
-      "key": "twilio:8099162",
-      "company": "Twilio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-21T17:40:17.540Z"
     },
     {
       "id": "8026207",
