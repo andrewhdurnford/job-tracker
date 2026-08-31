@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-31T20:10:18.974Z",
+  "generatedAt": "2026-08-31T20:20:24.139Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "cursor:167f0e93-6915-4d56-803a-be89d1441fb5",
+    "zscaler:5212682007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1276,7 +1279,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 130,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5322,7 +5325,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5686,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "167f0e93-6915-4d56-803a-be89d1441fb5",
+      "title": "Software Engineer, ML Platform",
+      "location": "San Francisco (+1 more)",
+      "team": "Machine Learning",
+      "url": "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5",
+      "postedAt": "2026-08-31T20:14:53.414Z",
+      "key": "cursor:167f0e93-6915-4d56-803a-be89d1441fb5",
+      "company": "Cursor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T20:20:24.139Z"
+    },
+    {
+      "id": "5212682007",
+      "title": "Sr. Staff Software Development Engineer",
+      "location": "USA - Update Location",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5212682007",
+      "postedAt": "2026-08-31T20:11:55.000Z",
+      "key": "zscaler:5212682007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T20:20:24.139Z"
+    },
     {
       "id": "REF081503W",
       "title": "Software Engineer - Sr. Consultant level",
@@ -12753,22 +12788,6 @@
       "postedAt": "2026-08-26T16:27:57.000Z",
       "key": "affirm:7819891003",
       "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-26T16:30:25.603Z"
-    },
-    {
-      "id": "bb2dc07f-eae3-44b3-8f7e-144d54571e03",
-      "title": "Senior Backend Software Engineer, Integrations Platform [Canada]",
-      "location": "Remote - Canada",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/bb2dc07f-eae3-44b3-8f7e-144d54571e03",
-      "postedAt": "2026-08-26T16:27:42.156Z",
-      "key": "vanta:bb2dc07f-eae3-44b3-8f7e-144d54571e03",
-      "company": "Vanta",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -24791,22 +24810,6 @@
         "us"
       ],
       "firstSeen": "2026-08-14T22:55:33.684Z"
-    },
-    {
-      "id": "e76ea2d6-a514-458c-87fd-0792e50ae6bf",
-      "title": "Senior Backend Software Engineer, Integrations Platform",
-      "location": "Remote U.S.",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/e76ea2d6-a514-458c-87fd-0792e50ae6bf",
-      "postedAt": "2026-08-14T22:41:07.282Z",
-      "key": "vanta:e76ea2d6-a514-458c-87fd-0792e50ae6bf",
-      "company": "Vanta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-14T22:50:17.817Z"
     },
     {
       "id": "4df6135c-b948-4858-a905-613103010227",
