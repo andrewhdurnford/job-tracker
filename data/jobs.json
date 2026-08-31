@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-08-31T07:00:27.497Z",
+  "generatedAt": "2026-08-31T07:10:24.441Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "CrowdStrike:R29607",
-    "CrowdStrike:R29970",
-    "tripactions:8105723"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -2063,10 +2059,10 @@
     },
     {
       "name": "Grammarly",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Gravis Robotics",
