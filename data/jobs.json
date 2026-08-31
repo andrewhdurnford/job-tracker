@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-08-31T14:20:18.900Z",
+  "generatedAt": "2026-08-31T14:30:22.535Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R999077",
+    "Capital One:R999207"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -78,10 +81,10 @@
     },
     {
       "name": "Affirm",
-      "ok": true,
+      "ok": false,
       "jobCount": 22,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "AfterQuery",
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 151,
+      "jobCount": 153,
       "error": null,
       "stale": false
     },
@@ -1065,10 +1068,10 @@
     },
     {
       "name": "CoLab",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Column",
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 183,
+      "jobCount": 181,
       "error": null,
       "stale": false
     },
@@ -5034,10 +5037,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 4,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tennr",
@@ -5700,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "R999077",
+      "title": "Lead Software Engineer",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer_R999077-1",
+      "postedAt": "2026-08-31T14:30:31.261Z",
+      "key": "Capital One:R999077",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T14:30:22.535Z"
+    },
+    {
+      "id": "R999207",
+      "title": "Lead Software Engineer, Full Stack (Risk Tech, Intelligent Foundations & Experiences)",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Full-Stack--Risk-Tech--Intelligent-Foundations---Experiences-_R999207-1",
+      "postedAt": "2026-08-31T14:30:31.261Z",
+      "key": "Capital One:R999207",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T14:30:22.535Z"
+    },
+    {
       "id": "R_106404",
       "title": "Staff Machine Learning Engineer",
       "location": "Seattle, Washington United States",
@@ -5730,22 +5765,6 @@
         "remote"
       ],
       "firstSeen": "2026-08-31T14:10:21.155Z"
-    },
-    {
-      "id": "JR2022263",
-      "title": "Senior Software Engineer, Full-Stack",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Full-Stack_JR2022263",
-      "postedAt": "2026-08-31T14:00:32.052Z",
-      "key": "Nvidia:JR2022263",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T14:00:27.876Z"
     },
     {
       "id": "R247610",
@@ -9317,7 +9336,7 @@
     {
       "id": "8081776",
       "title": "Senior Cloud Security Engineer",
-      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+      "location": "Bellevue, WA; Menlo Park, CA",
       "team": null,
       "url": "https://boards.greenhouse.io/robinhood/jobs/8081776?t=gh_src=&gh_jid=8081776",
       "postedAt": "2026-08-27T20:18:52.000Z",
@@ -21247,22 +21266,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T19:19:42.915Z"
-    },
-    {
-      "id": "JR2023352",
-      "title": "Senior Platform Engineer, Design Automation",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-Platform-Engineer--Design-Automation_JR2023352",
-      "postedAt": "2026-08-18T19:10:21.147Z",
-      "key": "Nvidia:JR2023352",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T19:10:16.938Z"
     },
     {
       "id": "8139998",
