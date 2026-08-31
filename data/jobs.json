@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-31T22:00:25.060Z",
+  "generatedAt": "2026-08-31T22:10:17.250Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "commure:eb7c3584-4708-45e7-b56a-31fcf6bf3c8e"
+    "billcom:6166032004",
+    "mixpanel:8162414",
+    "prelim:bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 37,
     "new-grad": 22,
-    "experienced": 2124
+    "experienced": 2127
   },
   "companies": [
     {
@@ -430,10 +432,10 @@
     },
     {
       "name": "Astranis",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Astro Mechanica",
@@ -564,7 +566,7 @@
     {
       "name": "Bill.com",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3091,7 +3093,7 @@
     {
       "name": "Mixpanel",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3868,7 +3870,7 @@
     {
       "name": "Prelim",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6166032004",
+      "title": "Senior Software Development Engineer in Test (SDET)",
+      "location": "United States",
+      "team": null,
+      "url": "https://www.bill.com/job?6166032004&gh_jid=6166032004",
+      "postedAt": "2026-08-31T22:09:47.000Z",
+      "key": "billcom:6166032004",
+      "company": "Bill.com",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T22:10:17.250Z"
+    },
+    {
+      "id": "bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409",
+      "title": "Software Engineer, Product",
+      "location": "New York",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409",
+      "postedAt": "2026-08-31T22:06:40.725Z",
+      "key": "prelim:bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409",
+      "company": "Prelim",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T22:10:17.250Z"
+    },
+    {
+      "id": "8162414",
+      "title": "Software Engineer, Data Runtime ",
+      "location": "San Francisco, US (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8162414",
+      "postedAt": "2026-08-31T22:00:38.000Z",
+      "key": "mixpanel:8162414",
+      "company": "Mixpanel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T22:10:17.250Z"
+    },
     {
       "id": "eb7c3584-4708-45e7-b56a-31fcf6bf3c8e",
       "title": "Senior Mobile Product Engineer, Ambient AI",
@@ -13586,7 +13636,7 @@
       "id": "09421bc9-987b-4fe3-aeac-bd183afc5b8e",
       "title": "Staff Engineer, Platform & Infrastructure",
       "location": "USA (+9 more)",
-      "team": "Nango",
+      "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/nango/09421bc9-987b-4fe3-aeac-bd183afc5b8e",
       "postedAt": "2026-08-26T11:37:53.017Z",
       "key": "nango:09421bc9-987b-4fe3-aeac-bd183afc5b8e",
@@ -13603,7 +13653,7 @@
       "id": "cc65bf5d-988e-4b82-827a-eb13eacb83a0",
       "title": "Staff Software Engineer, Backend",
       "location": "USA (+9 more)",
-      "team": "Nango",
+      "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/nango/cc65bf5d-988e-4b82-827a-eb13eacb83a0",
       "postedAt": "2026-08-26T11:37:40.941Z",
       "key": "nango:cc65bf5d-988e-4b82-827a-eb13eacb83a0",
@@ -13636,7 +13686,7 @@
       "id": "8df55632-71d5-481e-8424-1f7491f9e96d",
       "title": "Staff Platform Engineer",
       "location": "USA (+9 more)",
-      "team": "Nango",
+      "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/nango/8df55632-71d5-481e-8424-1f7491f9e96d",
       "postedAt": "2026-08-26T10:51:36.685Z",
       "key": "nango:8df55632-71d5-481e-8424-1f7491f9e96d",
@@ -21277,13 +21327,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -21293,13 +21343,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -31465,22 +31515,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -31493,6 +31527,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -33391,22 +33441,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -33419,6 +33453,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
