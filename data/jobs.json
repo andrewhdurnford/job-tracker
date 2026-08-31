@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-08-31T14:50:18.395Z",
+  "generatedAt": "2026-08-31T15:00:29.534Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "snowflake:9df37703-8086-48e7-93cc-3df4978c382d",
+    "suno:6eea0863-41c3-4bce-b54e-7a1ae1670166"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 36,
+    "intern": 35,
     "new-grad": 20,
-    "experienced": 2065
+    "experienced": 2066
   },
   "companies": [
     {
@@ -352,7 +355,7 @@
     {
       "name": "Arctic Wolf",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3845,7 +3848,7 @@
     {
       "name": "Postman",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4636,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 129,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4853,7 +4856,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5034,10 +5037,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 4,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tennr",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "9df37703-8086-48e7-93cc-3df4978c382d",
+      "title": "Senior Software Engineer - ManagedDB",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/9df37703-8086-48e7-93cc-3df4978c382d",
+      "postedAt": "2026-08-31T14:57:27.076Z",
+      "key": "snowflake:9df37703-8086-48e7-93cc-3df4978c382d",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T15:00:29.534Z"
+    },
+    {
+      "id": "6eea0863-41c3-4bce-b54e-7a1ae1670166",
+      "title": "Senior/Staff Software Engineer, Artists & Creators",
+      "location": "Boston (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/suno/6eea0863-41c3-4bce-b54e-7a1ae1670166",
+      "postedAt": "2026-08-31T14:52:05.249Z",
+      "key": "suno:6eea0863-41c3-4bce-b54e-7a1ae1670166",
+      "company": "Suno",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T15:00:29.534Z"
+    },
     {
       "id": "84c5fb4a-ef06-421d-add6-38fdb406eca7",
       "title": "Software Engineer, Agents ",
@@ -10179,22 +10214,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-08-27T16:00:29.899Z"
-    },
-    {
-      "id": "R26_954",
-      "title": "Staff AI Operations Engineer",
-      "location": "Remote, United States",
-      "team": null,
-      "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Remote-United-States/Staff-AI-Operations-Engineer_R26_954-1",
-      "postedAt": "2026-08-27T16:00:33.301Z",
-      "key": "Arctic Wolf:R26_954",
-      "company": "Arctic Wolf",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-08-27T16:00:29.899Z"
     },
@@ -30343,22 +30362,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -30371,6 +30374,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -39566,28 +39585,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-04T14:01:13.480Z"
-    },
-    {
-      "id": "7823417003",
-      "title": "AI Engineer, Internship - Summer 2026 - Applications Open Now",
-      "location": "Berkeley, California, United States; San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/postman/jobs/7823417003",
-      "postedAt": "2026-08-01T14:52:20.000Z",
-      "key": "postman:7823417003",
-      "company": "Postman",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2026",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2026
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-09T00:20:22.529Z"
     },
     {
       "id": "JR1997726",
