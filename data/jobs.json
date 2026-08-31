@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-08-31T21:20:24.924Z",
+  "generatedAt": "2026-08-31T21:30:29.043Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2021169"
+    "krea:963516ac-e115-4f1f-b6a2-12532c83ba0a",
+    "Nvidia:JR2020431",
+    "robinhood:8133116"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 37,
     "new-grad": 21,
-    "experienced": 2113
+    "experienced": 2116
   },
   "companies": [
     {
@@ -2643,7 +2645,7 @@
     {
       "name": "Krea",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 181,
+      "jobCount": 182,
       "error": null,
       "stale": false
     },
@@ -4232,7 +4234,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 130,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2020431",
+      "title": "Senior Software Development Engineer in Test",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test_JR2020431",
+      "postedAt": "2026-08-31T21:31:47.715Z",
+      "key": "Nvidia:JR2020431",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T21:30:29.043Z"
+    },
+    {
+      "id": "963516ac-e115-4f1f-b6a2-12532c83ba0a",
+      "title": "Product Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/krea/963516ac-e115-4f1f-b6a2-12532c83ba0a",
+      "postedAt": "2026-08-31T21:29:35.139Z",
+      "key": "krea:963516ac-e115-4f1f-b6a2-12532c83ba0a",
+      "company": "Krea",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T21:30:29.043Z"
+    },
+    {
+      "id": "8133116",
+      "title": "Senior Applications Engineer, Corporate Systems",
+      "location": "Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8133116?t=gh_src=&gh_jid=8133116",
+      "postedAt": "2026-08-31T21:29:34.000Z",
+      "key": "robinhood:8133116",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T21:30:29.043Z"
+    },
     {
       "id": "JR2021169",
       "title": "Senior Software Technical Program Driver - OEM and NCP Escalations",
@@ -31269,22 +31319,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -31297,6 +31331,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
