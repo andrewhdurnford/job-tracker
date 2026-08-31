@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-08-31T15:30:24.621Z",
+  "generatedAt": "2026-08-31T15:40:23.370Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "adyen:8113712",
-    "Capital One:R999281",
-    "vanta:b6064c79-c142-430f-9dbc-1bed9b2023c9",
-    "vanta:f2d314b3-4d49-4682-b10c-37039ddec995"
+    "Capital One:R243049",
+    "shieldai:ddbab7c4-cb54-49f9-b9ab-fff244fdbdbe"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +13,7 @@
   "levelCounts": {
     "intern": 35,
     "new-grad": 20,
-    "experienced": 2072
+    "experienced": 2074
   },
   "companies": [
     {
@@ -791,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 154,
+      "jobCount": 155,
       "error": null,
       "stale": false
     },
@@ -4473,7 +4471,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -5039,10 +5037,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -5704,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R243049",
+      "title": "Lead Platform Engineer - Palo Alto (Cloud Operations Resilience Engineering)",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Lead-Platform-Engineer--Cloud-Operations-Resilience-Engineering-_R243049-1",
+      "postedAt": "2026-08-31T15:40:27.211Z",
+      "key": "Capital One:R243049",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T15:40:23.370Z"
+    },
+    {
+      "id": "ddbab7c4-cb54-49f9-b9ab-fff244fdbdbe",
+      "title": "Senior Staff Engineer, ML Ops (R4941)",
+      "location": "San Mateo, California",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/shieldai/ddbab7c4-cb54-49f9-b9ab-fff244fdbdbe",
+      "postedAt": "2026-08-31T15:38:33.321Z",
+      "key": "shieldai:ddbab7c4-cb54-49f9-b9ab-fff244fdbdbe",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T15:40:23.370Z"
+    },
     {
       "id": "R999281",
       "title": "Lead Software Engineer, Full Stack (Java, GO)",
@@ -22221,13 +22251,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -22237,13 +22267,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -30460,22 +30490,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -30488,6 +30502,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
