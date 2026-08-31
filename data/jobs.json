@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-08-31T15:20:20.351Z",
+  "generatedAt": "2026-08-31T15:30:24.621Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "adyen:8113712",
+    "Capital One:R999281",
+    "vanta:b6064c79-c142-430f-9dbc-1bed9b2023c9",
+    "vanta:f2d314b3-4d49-4682-b10c-37039ddec995"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 35,
     "new-grad": 20,
-    "experienced": 2068
+    "experienced": 2072
   },
   "companies": [
     {
@@ -72,7 +77,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 153,
+      "jobCount": 154,
       "error": null,
       "stale": false
     },
@@ -5322,7 +5327,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R999281",
+      "title": "Lead Software Engineer, Full Stack (Java, GO)",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Lead-Software-Engineer--Full-Stack--Java--GO-_R999281-1",
+      "postedAt": "2026-08-31T15:30:28.737Z",
+      "key": "Capital One:R999281",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T15:30:24.621Z"
+    },
+    {
+      "id": "f2d314b3-4d49-4682-b10c-37039ddec995",
+      "title": "Principal Software Engineer, Program Structure",
+      "location": "Remote - Canada",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/f2d314b3-4d49-4682-b10c-37039ddec995",
+      "postedAt": "2026-08-31T15:25:05.324Z",
+      "key": "vanta:f2d314b3-4d49-4682-b10c-37039ddec995",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-31T15:30:24.621Z"
+    },
+    {
+      "id": "b6064c79-c142-430f-9dbc-1bed9b2023c9",
+      "title": "Principal Software Engineer, Program Structure",
+      "location": "Remote U.S.",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/b6064c79-c142-430f-9dbc-1bed9b2023c9",
+      "postedAt": "2026-08-31T15:24:54.094Z",
+      "key": "vanta:b6064c79-c142-430f-9dbc-1bed9b2023c9",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T15:30:24.621Z"
+    },
+    {
+      "id": "8113712",
+      "title": "Machine Learning Engineering Manager, Personalize Intelligence",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8113712",
+      "postedAt": "2026-08-31T15:24:46.000Z",
+      "key": "adyen:8113712",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T15:30:24.621Z"
+    },
     {
       "id": "JR2022263",
       "title": "Senior Software Engineer, Full-Stack",
@@ -22152,13 +22221,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -22168,13 +22237,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -30391,22 +30460,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -30419,6 +30472,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
