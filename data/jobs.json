@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-08-31T13:40:18.861Z",
+  "generatedAt": "2026-08-31T13:50:19.759Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "duolingo:8750636002",
-    "gitlab:8761409002",
-    "Nvidia:JR2021015",
-    "Visa:REF081333W"
+    "Capital One:R999409",
+    "duolingo:8750637002",
+    "duolingo:8750527002",
+    "duolingo:8750587002",
+    "nubank:d13b3914-2e39-4de7-9de6-e3fbeef0496c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +16,7 @@
   "levelCounts": {
     "intern": 36,
     "new-grad": 20,
-    "experienced": 2053
+    "experienced": 2056
   },
   "companies": [
     {
@@ -791,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 148,
+      "jobCount": 147,
       "error": null,
       "stale": false
     },
@@ -1491,7 +1492,7 @@
     {
       "name": "Duolingo",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -2066,7 +2067,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3402,7 +3403,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5705,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R999409",
+      "title": "Lead Software Engineer, Full Stack (Python, TypeScript, AWS)",
+      "location": "Cambridge, MA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cambridge-MA/Lead-Software-Engineer--Full-Stack--Python--TypeScript--AWS-_R999409-1",
+      "postedAt": "2026-08-31T13:50:23.362Z",
+      "key": "Capital One:R999409",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T13:50:19.759Z"
+    },
+    {
+      "id": "d13b3914-2e39-4de7-9de6-e3fbeef0496c",
+      "title": "Senior Staff Systems Engineer - Performance Engineer",
+      "location": "Toronto",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/d13b3914-2e39-4de7-9de6-e3fbeef0496c",
+      "postedAt": "2026-08-31T13:47:21.429Z",
+      "key": "nubank:d13b3914-2e39-4de7-9de6-e3fbeef0496c",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-31T13:50:19.759Z"
+    },
     {
       "id": "JR2021015",
       "title": "Senior Machine Learning Engineer",
@@ -8501,22 +8534,6 @@
         "us"
       ],
       "firstSeen": "2026-08-28T03:00:24.813Z"
-    },
-    {
-      "id": "R999194",
-      "title": "Lead Software Engineer, Full Stack",
-      "location": "Chicago, IL",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Lead-Software-Engineer--Full-Stack_R999194-1",
-      "postedAt": "2026-08-28T01:50:24.704Z",
-      "key": "Capital One:R999194",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T01:50:16.737Z"
     },
     {
       "id": "5409008008",
@@ -12016,6 +12033,22 @@
       "firstSeen": "2026-08-26T14:40:18.571Z"
     },
     {
+      "id": "8750637002",
+      "title": "Senior Data Scientist, Growth Forecasting",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://careers.duolingo.com/jobs/8750637002?gh_jid=8750637002",
+      "postedAt": "2026-08-26T14:25:38.000Z",
+      "key": "duolingo:8750637002",
+      "company": "Duolingo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T13:50:19.759Z"
+    },
+    {
       "id": "8750636002",
       "title": "Senior Data Scientist, Growth Forecasting",
       "location": "Pittsburgh, PA",
@@ -12046,6 +12079,38 @@
         "us"
       ],
       "firstSeen": "2026-08-26T14:20:37.438Z"
+    },
+    {
+      "id": "8750587002",
+      "title": "Senior Data Scientist, User Growth",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://careers.duolingo.com/jobs/8750587002?gh_jid=8750587002",
+      "postedAt": "2026-08-26T14:17:10.000Z",
+      "key": "duolingo:8750587002",
+      "company": "Duolingo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T13:50:19.759Z"
+    },
+    {
+      "id": "8750527002",
+      "title": "Senior Data Scientist, User Growth",
+      "location": "Pittsburgh, PA",
+      "team": null,
+      "url": "https://careers.duolingo.com/jobs/8750527002?gh_jid=8750527002",
+      "postedAt": "2026-08-26T14:17:08.000Z",
+      "key": "duolingo:8750527002",
+      "company": "Duolingo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T13:50:19.759Z"
     },
     {
       "id": "29751",
@@ -21901,13 +21966,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -21917,13 +21982,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -25125,22 +25190,6 @@
         "us"
       ],
       "firstSeen": "2026-08-14T14:00:24.093Z"
-    },
-    {
-      "id": "R248912",
-      "title": "Lead Software Engineer, Full Stack (Bank Tech)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Bank-Tech-_R248912-1",
-      "postedAt": "2026-08-14T13:50:20.965Z",
-      "key": "Capital One:R248912",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-14T13:50:17.774Z"
     },
     {
       "id": "R29733",
