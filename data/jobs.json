@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-08-31T16:40:18.085Z",
+  "generatedAt": "2026-08-31T16:50:21.089Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "cohere:cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
-    "coursera:6141559004",
-    "snowflake:3744bda5-c74a-4fa0-abb2-73da7fcfef09",
-    "verkada:5226335007",
-    "waymo:8163689"
+    "boxinc:8133233",
+    "Capital One:R249965",
+    "gusto:8104213",
+    "marianaminerals:eebc7048-02a3-42ba-80b7-04b8a997e50a"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +15,7 @@
   "levelCounts": {
     "intern": 35,
     "new-grad": 21,
-    "experienced": 2076
+    "experienced": 2080
   },
   "companies": [
     {
@@ -680,7 +679,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -792,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 155,
+      "jobCount": 156,
       "error": null,
       "stale": false
     },
@@ -2108,7 +2107,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -2892,7 +2891,7 @@
     {
       "name": "Mariana Minerals",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R249965",
+      "title": "Senior Lead Data Engineer",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Lead-Data-Engineer_R249965-1",
+      "postedAt": "2026-08-31T16:50:24.305Z",
+      "key": "Capital One:R249965",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T16:50:21.089Z"
+    },
+    {
+      "id": "8104213",
+      "title": "Software Engineer, Payments",
+      "location": "New York, New York, United States; San Francisco, CA - Hybrid",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8104213",
+      "postedAt": "2026-08-31T16:48:53.000Z",
+      "key": "gusto:8104213",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T16:50:21.089Z"
+    },
+    {
+      "id": "8133233",
+      "title": "Software Engineer III, DB Platform",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8133233",
+      "postedAt": "2026-08-31T16:40:36.000Z",
+      "key": "boxinc:8133233",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T16:50:21.089Z"
+    },
+    {
+      "id": "eebc7048-02a3-42ba-80b7-04b8a997e50a",
+      "title": "Full Stack Software Engineer",
+      "location": "San Francisco HQ (+2 more)",
+      "team": "Software Development",
+      "url": "https://jobs.ashbyhq.com/marianaminerals/eebc7048-02a3-42ba-80b7-04b8a997e50a",
+      "postedAt": "2026-08-31T16:40:18.869Z",
+      "key": "marianaminerals:eebc7048-02a3-42ba-80b7-04b8a997e50a",
+      "company": "Mariana Minerals",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T16:50:21.089Z"
+    },
     {
       "id": "6141559004",
       "title": "Senior Software Test Engineer",
@@ -32484,22 +32547,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -32512,6 +32559,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
