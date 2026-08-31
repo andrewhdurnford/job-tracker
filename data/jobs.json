@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-08-31T13:50:19.759Z",
+  "generatedAt": "2026-08-31T14:00:27.876Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "Capital One:R999409",
-    "duolingo:8750637002",
-    "duolingo:8750527002",
-    "duolingo:8750587002",
-    "nubank:d13b3914-2e39-4de7-9de6-e3fbeef0496c"
+    "Capital One:R247610",
+    "Capital One:R247598",
+    "Capital One:R248912",
+    "Nvidia:JR2022263",
+    "openai:7bdb15f0-1e3b-4352-b948-47fb35f25d71",
+    "openai:0a24703f-6108-4422-807e-78831dd98ed1"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +17,7 @@
   "levelCounts": {
     "intern": 36,
     "new-grad": 20,
-    "experienced": 2056
+    "experienced": 2062
   },
   "companies": [
     {
@@ -792,7 +793,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 147,
+      "jobCount": 150,
       "error": null,
       "stale": false
     },
@@ -2037,10 +2038,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -3431,7 +3432,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 182,
+      "jobCount": 183,
       "error": null,
       "stale": false
     },
@@ -3515,7 +3516,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -4438,10 +4439,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -5705,6 +5706,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2022263",
+      "title": "Senior Software Engineer, Full-Stack",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Full-Stack_JR2022263",
+      "postedAt": "2026-08-31T14:00:32.052Z",
+      "key": "Nvidia:JR2022263",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T14:00:27.876Z"
+    },
+    {
+      "id": "R247610",
+      "title": "Lead Data Engineer",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Data-Engineer_R247610-1",
+      "postedAt": "2026-08-31T14:00:31.299Z",
+      "key": "Capital One:R247610",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T14:00:27.876Z"
+    },
+    {
+      "id": "R247598",
+      "title": "Senior Lead Software Engineer, Full Stack-IC",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Lead-Software-Engineer--Full-Stack-IC_R247598-1",
+      "postedAt": "2026-08-31T14:00:31.299Z",
+      "key": "Capital One:R247598",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T14:00:27.876Z"
+    },
+    {
+      "id": "0a24703f-6108-4422-807e-78831dd98ed1",
+      "title": "Manager, Applied AI Engineering  (Enterprise)",
+      "location": "New York City (+2 more)",
+      "team": "Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/0a24703f-6108-4422-807e-78831dd98ed1",
+      "postedAt": "2026-08-31T13:59:22.188Z",
+      "key": "openai:0a24703f-6108-4422-807e-78831dd98ed1",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T14:00:27.876Z"
+    },
+    {
+      "id": "7bdb15f0-1e3b-4352-b948-47fb35f25d71",
+      "title": "Manager, Applied AI Engineering (Startups)",
+      "location": "San Francisco (+1 more)",
+      "team": "Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/7bdb15f0-1e3b-4352-b948-47fb35f25d71",
+      "postedAt": "2026-08-31T13:54:24.840Z",
+      "key": "openai:7bdb15f0-1e3b-4352-b948-47fb35f25d71",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T14:00:27.876Z"
+    },
     {
       "id": "R999409",
       "title": "Lead Software Engineer, Full Stack (Python, TypeScript, AWS)",
@@ -21966,13 +22047,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -21982,13 +22063,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -25125,6 +25206,22 @@
         "us"
       ],
       "firstSeen": "2026-08-21T16:30:25.442Z"
+    },
+    {
+      "id": "R248912",
+      "title": "Lead Software Engineer, Full Stack (Bank Tech)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--Bank-Tech-_R248912-1",
+      "postedAt": "2026-08-14T14:00:40.247Z",
+      "key": "Capital One:R248912",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T14:00:27.876Z"
     },
     {
       "id": "3712da7c-71f8-4245-a5b7-16b3c67072df",
