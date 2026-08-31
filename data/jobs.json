@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-08-31T21:30:29.043Z",
+  "generatedAt": "2026-08-31T21:40:19.525Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "krea:963516ac-e115-4f1f-b6a2-12532c83ba0a",
-    "Nvidia:JR2020431",
-    "robinhood:8133116"
+    "Adobe:R170714",
+    "Nvidia:JR2014725",
+    "openai:48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
+    "openai:6d1d835d-5882-4191-b78e-fd04a4c05f11",
+    "sierra:149f368c-52d5-408f-ba26-ad888f318a00",
+    "waymo:8164291"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,8 +16,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 37,
-    "new-grad": 21,
-    "experienced": 2116
+    "new-grad": 22,
+    "experienced": 2120
   },
   "companies": [
     {
@@ -69,7 +72,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -678,7 +681,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3432,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 182,
+      "jobCount": 183,
       "error": null,
       "stale": false
     },
@@ -3513,7 +3516,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 52,
       "error": null,
       "stale": false
     },
@@ -4493,7 +4496,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4698,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 130,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5480,7 +5483,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5706,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2014725",
+      "title": "Senior Software Engineer - CUDA Driver",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---CUDA-Driver_JR2014725",
+      "postedAt": "2026-08-31T21:41:15.578Z",
+      "key": "Nvidia:JR2014725",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T21:40:19.525Z"
+    },
+    {
+      "id": "R170714",
+      "title": "Senior Manager,  UI, Software Development",
+      "location": "San Jose",
+      "team": null,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Engineer--ML-Tech-Transfer_R170714",
+      "postedAt": "2026-08-31T21:40:26.921Z",
+      "key": "Adobe:R170714",
+      "company": "Adobe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T21:40:19.525Z"
+    },
+    {
+      "id": "6d1d835d-5882-4191-b78e-fd04a4c05f11",
+      "title": "AI Support Engineer, Government - Washington, D.C.",
+      "location": "Washington, DC",
+      "team": "Support Delivery",
+      "url": "https://jobs.ashbyhq.com/openai/6d1d835d-5882-4191-b78e-fd04a4c05f11",
+      "postedAt": "2026-08-31T21:38:56.669Z",
+      "key": "openai:6d1d835d-5882-4191-b78e-fd04a4c05f11",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T21:40:19.525Z"
+    },
+    {
+      "id": "48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
+      "title": "AI Support Engineer, Government - San Francisco, CA",
+      "location": "San Francisco",
+      "team": "Support Delivery",
+      "url": "https://jobs.ashbyhq.com/openai/48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
+      "postedAt": "2026-08-31T21:38:54.505Z",
+      "key": "openai:48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T21:40:19.525Z"
+    },
+    {
+      "id": "8164291",
+      "title": "Staff Software Engineer, Fleet Optimization",
+      "location": "San Francisco, CA ; Mountain View, CA ",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8164291",
+      "postedAt": "2026-08-31T21:38:03.000Z",
+      "key": "waymo:8164291",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T21:40:19.525Z"
+    },
     {
       "id": "JR2020431",
       "title": "Senior Software Development Engineer in Test",
@@ -6316,6 +6399,26 @@
       "firstSeen": "2026-08-31T18:00:25.127Z"
     },
     {
+      "id": "149f368c-52d5-408f-ba26-ad888f318a00",
+      "title": "Software Engineer, Agent (New Grad 2027)",
+      "location": "San Francisco, CA (+1 more)",
+      "team": "Agent Engineering New Grad",
+      "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
+      "postedAt": "2026-08-31T17:54:40.218Z",
+      "key": "sierra:149f368c-52d5-408f-ba26-ad888f318a00",
+      "company": "Sierra",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T21:40:19.525Z"
+    },
+    {
       "id": "REF087210W",
       "title": "Staff Site Reliability Engineer, CMDB",
       "location": "US - Denver, CO",
@@ -6554,22 +6657,6 @@
       "postedAt": "2026-08-31T16:48:53.000Z",
       "key": "gusto:8104213",
       "company": "Gusto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T16:50:21.089Z"
-    },
-    {
-      "id": "8133233",
-      "title": "Software Engineer III, DB Platform",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8133233",
-      "postedAt": "2026-08-31T16:40:36.000Z",
-      "key": "boxinc:8133233",
-      "company": "Box",
       "level": "experienced",
       "term": null,
       "regions": [
