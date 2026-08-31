@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-08-31T16:20:19.518Z",
+  "generatedAt": "2026-08-31T16:30:26.836Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R245563"
+    "cohere:28239d75-5dd9-41fb-ba43-cb08b491be2b",
+    "palantir:701a9307-0619-45d3-b077-cabe9897cd12"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -11,8 +12,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 35,
-    "new-grad": 20,
-    "experienced": 2074
+    "new-grad": 21,
+    "experienced": 2073
   },
   "companies": [
     {
@@ -3588,7 +3589,7 @@
     {
       "name": "Palantir",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5688,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "701a9307-0619-45d3-b077-cabe9897cd12",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+      "location": "Honolulu, HI",
+      "team": "Delta",
+      "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12",
+      "postedAt": "2026-08-31T16:27:36.814Z",
+      "key": "palantir:701a9307-0619-45d3-b077-cabe9897cd12",
+      "company": "Palantir",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T16:30:26.836Z"
+    },
+    {
+      "id": "28239d75-5dd9-41fb-ba43-cb08b491be2b",
+      "title": "Engineering Manager, GPU Infrastructure",
+      "location": "United States (+1 more)",
+      "team": "Training Infrastructure ",
+      "url": "https://jobs.ashbyhq.com/cohere/28239d75-5dd9-41fb-ba43-cb08b491be2b",
+      "postedAt": "2026-08-31T16:22:24.693Z",
+      "key": "cohere:28239d75-5dd9-41fb-ba43-cb08b491be2b",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-31T16:30:26.836Z"
+    },
     {
       "id": "R245563",
       "title": "Lead Data Engineer - Intelligent Foundations and Experiences (IFX)",
@@ -8287,22 +8321,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-28T16:10:20.186Z"
-    },
-    {
-      "id": "5223333007",
-      "title": "Director, Software Development",
-      "location": "Bellevue, Washington, USA; Remote - USA; San Jose, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5223333007",
-      "postedAt": "2026-08-28T15:58:30.000Z",
-      "key": "zscaler:5223333007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T16:00:25.733Z"
     },
     {
       "id": "2fbaf0f4-1663-4197-9593-d926744b8ac1",
@@ -18687,7 +18705,7 @@
     },
     {
       "id": "7896108003",
-      "title": "Senior Cloud Security Engineer",
+      "title": "Senior Cloud Security Engineer (AWS)",
       "location": "Remote - USA",
       "team": null,
       "url": "https://abnormal.ai/careers/jobs/7896108003?gh_jid=7896108003",
@@ -22087,23 +22105,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T13:56:58.146Z"
-    },
-    {
-      "id": "cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
-      "title": "Senior Security Engineer",
-      "location": "Toronto (+3 more)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
-      "postedAt": "2026-08-18T13:44:57.803Z",
-      "key": "cohere:cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
-      "company": "Cohere",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-18T13:50:22.416Z"
     },
     {
       "id": "R249241",
@@ -30505,22 +30506,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -30533,6 +30518,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
