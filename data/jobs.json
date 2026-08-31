@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-08-31T16:30:26.836Z",
+  "generatedAt": "2026-08-31T16:40:18.085Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "cohere:28239d75-5dd9-41fb-ba43-cb08b491be2b",
-    "palantir:701a9307-0619-45d3-b077-cabe9897cd12"
+    "cohere:cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
+    "coursera:6141559004",
+    "snowflake:3744bda5-c74a-4fa0-abb2-73da7fcfef09",
+    "verkada:5226335007",
+    "waymo:8163689"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 35,
     "new-grad": 21,
-    "experienced": 2073
+    "experienced": 2076
   },
   "companies": [
     {
@@ -789,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 156,
+      "jobCount": 155,
       "error": null,
       "stale": false
     },
@@ -1048,7 +1051,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -1209,7 +1212,7 @@
     {
       "name": "Coursera",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4639,7 +4642,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5482,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,87 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6141559004",
+      "title": "Senior Software Test Engineer",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6141559004",
+      "postedAt": "2026-08-31T16:38:48.000Z",
+      "key": "coursera:6141559004",
+      "company": "Coursera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-08-31T16:40:18.085Z"
+    },
+    {
+      "id": "8163689",
+      "title": "Senior Data Scientist, Simulation Capacity Optimization",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8163689",
+      "postedAt": "2026-08-31T16:35:16.000Z",
+      "key": "waymo:8163689",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T16:40:18.085Z"
+    },
+    {
+      "id": "3744bda5-c74a-4fa0-abb2-73da7fcfef09",
+      "title": "Staff Software Engineer - Snowflake Feature Store",
+      "location": "US-WA-Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/3744bda5-c74a-4fa0-abb2-73da7fcfef09",
+      "postedAt": "2026-08-31T16:34:16.440Z",
+      "key": "snowflake:3744bda5-c74a-4fa0-abb2-73da7fcfef09",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T16:40:18.085Z"
+    },
+    {
+      "id": "5226335007",
+      "title": "Senior Backend Engineer - Device Platform",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5226335007",
+      "postedAt": "2026-08-31T16:31:55.000Z",
+      "key": "verkada:5226335007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-08-31T16:40:18.085Z"
+    },
+    {
+      "id": "cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
+      "title": "Senior Security Engineer",
+      "location": "Toronto (+3 more)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
+      "postedAt": "2026-08-31T16:29:38.710Z",
+      "key": "cohere:cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-08-31T16:40:18.085Z"
+    },
     {
       "id": "701a9307-0619-45d3-b077-cabe9897cd12",
       "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
@@ -15068,22 +15152,6 @@
       "firstSeen": "2026-08-24T19:58:41.969Z"
     },
     {
-      "id": "R235710",
-      "title": "Lead Data Engineer (Bank Tech)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Data-Engineer--Bank-Tech-_R235710-1",
-      "postedAt": "2026-08-24T19:50:20.544Z",
-      "key": "Capital One:R235710",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T19:50:17.163Z"
-    },
-    {
       "id": "8154967",
       "title": "Senior Systems Engineer",
       "location": "San Diego, CA; Sunnyvale, CA; Seattle, WA; or New York, NY",
@@ -20708,22 +20776,6 @@
       "firstSeen": "2026-08-19T04:00:26.451Z"
     },
     {
-      "id": "5215842007",
-      "title": "Senior Backend Engineer - Device Platform",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5215842007",
-      "postedAt": "2026-08-19T03:26:47.000Z",
-      "key": "verkada:5215842007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T03:30:23.315Z"
-    },
-    {
       "id": "5215840007",
       "title": "Senior Frontend Engineer - Access Control",
       "location": "San Mateo, CA United States",
@@ -22267,13 +22319,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -22283,13 +22335,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -30506,22 +30558,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -30534,6 +30570,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
