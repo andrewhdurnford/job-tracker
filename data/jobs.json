@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-01T15:30:23.114Z",
+  "generatedAt": "2026-09-01T15:40:16.855Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "DocuSign:30225",
+    "shieldai:1b05ba43-1659-42d9-89c5-91e204da8d1f",
+    "spacex:8769502002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 40,
     "new-grad": 24,
-    "experienced": 2150
+    "experienced": 2152
   },
   "companies": [
     {
@@ -1423,7 +1427,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 190,
+      "jobCount": 189,
       "error": null,
       "stale": false
     },
@@ -4468,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 129,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 130,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5700,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "1b05ba43-1659-42d9-89c5-91e204da8d1f",
+      "title": "Staff Software Engineer, Autonomous Pilot Integration (R5395)",
+      "location": "San Mateo, California",
+      "team": "Flight System Integration",
+      "url": "https://jobs.lever.co/shieldai/1b05ba43-1659-42d9-89c5-91e204da8d1f",
+      "postedAt": "2026-09-01T15:36:24.294Z",
+      "key": "shieldai:1b05ba43-1659-42d9-89c5-91e204da8d1f",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T15:40:16.855Z"
+    },
+    {
+      "id": "30225",
+      "title": "Software Engineer",
+      "location": "US-Seattle-3rd",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30225/login",
+      "postedAt": "2026-09-01T15:34:00.000Z",
+      "key": "DocuSign:30225",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T15:40:16.855Z"
+    },
+    {
+      "id": "8769502002",
+      "title": "Sr. Full Stack Engineer, Developer Systems ",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8769502002?gh_jid=8769502002",
+      "postedAt": "2026-09-01T15:30:50.000Z",
+      "key": "spacex:8769502002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T15:40:16.855Z"
+    },
+    {
       "id": "R_106842",
       "title": "Senior AI Native Software Engineer",
       "location": "Burnaby, British Columbia, Canada",
@@ -5749,7 +5801,7 @@
     },
     {
       "id": "39dff357-4eda-48fb-97b7-2bc14f0908b6",
-      "title": "Senior Software Engineer, Autonomy Capabilities – Space (R5339)",
+      "title": "Senior Software Engineer, Autonomy Capabilities (R5339)",
       "location": "San Mateo, California",
       "team": "Flight System Integration",
       "url": "https://jobs.lever.co/shieldai/39dff357-4eda-48fb-97b7-2bc14f0908b6",
@@ -22075,13 +22127,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -22091,13 +22143,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -24056,13 +24108,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -24072,13 +24124,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39616,23 +39668,6 @@
       "postedAt": "2026-08-04T00:30:30.067Z",
       "key": "Adobe:R170522",
       "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
-      "id": "JR2007787",
-      "title": "Senior Firmware Engineer -  Development, Verification and Infrastructure",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer_JR2007787",
-      "postedAt": "2026-08-04T00:30:29.821Z",
-      "key": "Nvidia:JR2007787",
-      "company": "Nvidia",
       "level": "experienced",
       "term": null,
       "regions": [
