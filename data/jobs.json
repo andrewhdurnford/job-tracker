@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-01T18:00:27.869Z",
+  "generatedAt": "2026-09-01T18:10:25.605Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "block:5412832008",
-    "close:5bf4629b-d2ee-4129-980f-e31b96185c9c",
-    "Nvidia:JR2024491"
+    "boxinc:8133235",
+    "checkr:8171375",
+    "close:1022d31e-238a-4236-a44d-9d59c94f1ccd"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 24,
-    "experienced": 2173
+    "experienced": 2171
   },
   "companies": [
     {
@@ -678,7 +678,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -790,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 156,
+      "jobCount": 155,
       "error": null,
       "stale": false
     },
@@ -1007,7 +1007,7 @@
     {
       "name": "Close",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 187,
+      "jobCount": 186,
       "error": null,
       "stale": false
     },
@@ -3639,7 +3639,7 @@
     {
       "name": "Pendo",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5326,7 +5326,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "8171375",
+      "title": "Senior Software Engineer (Python), Mortgage",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8171375",
+      "postedAt": "2026-09-01T18:05:10.000Z",
+      "key": "checkr:8171375",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T18:10:25.605Z"
+    },
+    {
+      "id": "1022d31e-238a-4236-a44d-9d59c94f1ccd",
+      "title": "Senior Backend Engineer - CRM (USA Only, 100% Remote)",
+      "location": "USA - Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/close/1022d31e-238a-4236-a44d-9d59c94f1ccd",
+      "postedAt": "2026-09-01T18:04:14.597Z",
+      "key": "close:1022d31e-238a-4236-a44d-9d59c94f1ccd",
+      "company": "Close",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T18:10:25.605Z"
+    },
+    {
       "id": "JR2024491",
       "title": "Senior Site Reliability Engineer - Storage",
       "location": "US, CA, Santa Clara",
@@ -5721,7 +5753,7 @@
     },
     {
       "id": "5bf4629b-d2ee-4129-980f-e31b96185c9c",
-      "title": "Senior Software Engineer - Backend Platforms (USA Only, 100% Remote)",
+      "title": "Senior Backend Engineer - Backend Platform (USA Only, 100% Remote)",
       "location": "USA - Remote",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/close/5bf4629b-d2ee-4129-980f-e31b96185c9c",
@@ -6646,22 +6678,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T13:50:20.401Z"
-    },
-    {
-      "id": "ad10bda4-f02d-4682-9dc4-b374fa647c99",
-      "title": "Senior Fullstack Software Engineer, Expansion",
-      "location": "Remote U.S.",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/ad10bda4-f02d-4682-9dc4-b374fa647c99",
-      "postedAt": "2026-09-01T12:43:43.332Z",
-      "key": "vanta:ad10bda4-f02d-4682-9dc4-b374fa647c99",
-      "company": "Vanta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T12:50:20.215Z"
     },
     {
       "id": "8168866",
@@ -11064,22 +11080,6 @@
       "firstSeen": "2026-08-28T14:30:30.137Z"
     },
     {
-      "id": "JR2018371",
-      "title": "System Software Engineer, Engineering Workflow Platform",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Engineering-Workflow-Platform_JR2018371",
-      "postedAt": "2026-08-28T14:20:28.174Z",
-      "key": "Nvidia:JR2018371",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T14:20:24.318Z"
-    },
-    {
       "id": "8164181",
       "title": "Senior Applied Scientist",
       "location": "New York, New York, USA",
@@ -14175,22 +14175,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-26T18:10:24.118Z"
-    },
-    {
-      "id": "8728254002",
-      "title": "Software Engineer, Full Stack",
-      "location": "Raleigh, NC",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/pendo/jobs/8728254002",
-      "postedAt": "2026-08-26T17:57:54.000Z",
-      "key": "pendo:8728254002",
-      "company": "Pendo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T18:00:28.488Z"
     },
     {
       "id": "8148431",
@@ -17388,22 +17372,6 @@
       "firstSeen": "2026-08-24T20:26:30.747Z"
     },
     {
-      "id": "8155083",
-      "title": "Senior Software Engineer (Python), Mortgage",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/checkr/jobs/8155083",
-      "postedAt": "2026-08-24T20:09:01.000Z",
-      "key": "checkr:8155083",
-      "company": "Checkr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T20:10:18.938Z"
-    },
-    {
       "id": "8154983",
       "title": "Staff Software Engineer, Backend - Platform (Core AI Automation)",
       "location": "Remote - USA",
@@ -19539,22 +19507,6 @@
         "us"
       ],
       "firstSeen": "2026-08-21T16:13:36.678Z"
-    },
-    {
-      "id": "R249629",
-      "title": "Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer_R249629-1",
-      "postedAt": "2026-08-21T16:10:23.877Z",
-      "key": "Capital One:R249629",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T16:10:20.208Z"
     },
     {
       "id": "REF087097W",
@@ -24891,6 +24843,22 @@
         "us"
       ],
       "firstSeen": "2026-08-17T22:40:18.398Z"
+    },
+    {
+      "id": "8133235",
+      "title": "Software Engineer III, Edge",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8133235",
+      "postedAt": "2026-08-17T22:33:01.000Z",
+      "key": "boxinc:8133235",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T18:10:25.605Z"
     },
     {
       "id": "JR2023241",
@@ -34543,22 +34511,6 @@
       "firstSeen": "2026-09-01T17:30:29.190Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -34571,6 +34523,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
