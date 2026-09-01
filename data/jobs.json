@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-01T22:00:27.218Z",
+  "generatedAt": "2026-09-01T22:10:18.041Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "stripe:8172164"
+    "handshake:2d25a9c3-0482-430e-8be1-3fbb19e8bf43"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 23,
-    "experienced": 2202
+    "experienced": 2203
   },
   "companies": [
     {
@@ -843,10 +843,10 @@
     },
     {
       "name": "Carvana",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Casca",
@@ -2146,7 +2146,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3225,7 +3225,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 131,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "2d25a9c3-0482-430e-8be1-3fbb19e8bf43",
+      "title": "Senior Software Engineer, Frontend Platform",
+      "location": "San Francisco, CA",
+      "team": "Careers Engineering",
+      "url": "https://jobs.ashbyhq.com/handshake/2d25a9c3-0482-430e-8be1-3fbb19e8bf43",
+      "postedAt": "2026-09-01T22:01:18.298Z",
+      "key": "handshake:2d25a9c3-0482-430e-8be1-3fbb19e8bf43",
+      "company": "Handshake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T22:10:18.041Z"
+    },
     {
       "id": "8172164",
       "title": "Staff Software Engineer, Payments and Applied Machine Learning",
@@ -9065,7 +9081,7 @@
     },
     {
       "id": "R247430",
-      "title": "Director, Staff Engineer - Technical Lead (Remote-Eligible)",
+      "title": "Staff Engineer - Technical Lead (Remote-Eligible)",
       "location": "2 Locations",
       "team": null,
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Anytown-IL/Distinguished-Engineer---Technical-Lead--Remote-Eligible-_R247430",
