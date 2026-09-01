@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-09-01T21:57:41.174Z",
+  "generatedAt": "2026-09-01T22:00:27.218Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "pagerduty:6162595004",
-    "reddit:8090680"
+    "stripe:8172164"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 23,
-    "experienced": 2201
+    "experienced": 2202
   },
   "companies": [
     {
@@ -844,10 +843,10 @@
     },
     {
       "name": "Carvana",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Casca",
@@ -3226,7 +3225,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4694,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4800,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8172164",
+      "title": "Staff Software Engineer, Payments and Applied Machine Learning",
+      "location": "Seattle, New York, San Francisco",
+      "team": "8511 PayIntel - Eng",
+      "url": "https://stripe.com/jobs/search?gh_jid=8172164",
+      "postedAt": "2026-09-01T21:57:56.000Z",
+      "key": "stripe:8172164",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T22:00:27.218Z"
+    },
     {
       "id": "6162595004",
       "title": "Site Reliability Engineer II",
