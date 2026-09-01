@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-09-01T14:30:23.956Z",
+  "generatedAt": "2026-09-01T14:40:20.389Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Visa:REF082365W"
+    "databricks:8760282002",
+    "databricks:8760289002",
+    "databricks:8760281002",
+    "harvey:d2624850-8dd4-4eb4-b5dc-f386b715a26f"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -676,7 +679,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1292,7 +1295,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -2174,7 +2177,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,70 @@
   ],
   "jobs": [
     {
+      "id": "8760289002",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "New York City, New York",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002",
+      "postedAt": "2026-09-01T14:40:02.000Z",
+      "key": "databricks:8760289002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T14:40:20.389Z"
+    },
+    {
+      "id": "8760282002",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Bellevue, Washington; Seattle, Washington",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002",
+      "postedAt": "2026-09-01T14:39:58.000Z",
+      "key": "databricks:8760282002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T14:40:20.389Z"
+    },
+    {
+      "id": "8760281002",
+      "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "location": "Berkeley, California; Los Angeles, California; Mountain View, California; Orange County, California; Sacramento, California; San Diego, California; San Francisco, California; Santa Barbara, California",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002",
+      "postedAt": "2026-09-01T14:39:51.000Z",
+      "key": "databricks:8760281002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T14:40:20.389Z"
+    },
+    {
+      "id": "d2624850-8dd4-4eb4-b5dc-f386b715a26f",
+      "title": "Software Engineer, Security",
+      "location": "San Francisco",
+      "team": "SA",
+      "url": "https://jobs.ashbyhq.com/harvey/d2624850-8dd4-4eb4-b5dc-f386b715a26f",
+      "postedAt": "2026-09-01T14:38:55.762Z",
+      "key": "harvey:d2624850-8dd4-4eb4-b5dc-f386b715a26f",
+      "company": "Harvey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T14:40:20.389Z"
+    },
+    {
       "id": "REF082365W",
       "title": "Lead Software Engineer – IBM z/OS - Connex Advantage Clearing and Settlement",
       "location": "US - Denver, CO",
@@ -6558,22 +6625,6 @@
       "postedAt": "2026-08-31T21:11:19.604Z",
       "key": "Nvidia:JR2009423",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:10:19.753Z"
-    },
-    {
-      "id": "8168139",
-      "title": "Software Engineer III, Developer Platform",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8168139",
-      "postedAt": "2026-08-31T21:09:59.000Z",
-      "key": "boxinc:8168139",
-      "company": "Box",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -17838,22 +17889,6 @@
       "firstSeen": "2026-08-21T21:50:16.942Z"
     },
     {
-      "id": "5b744b64-b6e3-438b-a902-decb22020fcb",
-      "title": "Senior Product Security Engineer",
-      "location": "New York",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/harvey/5b744b64-b6e3-438b-a902-decb22020fcb",
-      "postedAt": "2026-08-21T21:30:36.020Z",
-      "key": "harvey:5b744b64-b6e3-438b-a902-decb22020fcb",
-      "company": "Harvey",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T21:33:29.996Z"
-    },
-    {
       "id": "7864959003",
       "title": "Manager, Software Engineering (Infra Foundations)",
       "location": "Remote Canada",
@@ -17872,7 +17907,7 @@
     {
       "id": "50a8df2a-c50e-4326-ae90-0c9f8ee0cf1d",
       "title": "Senior Product Security Engineer",
-      "location": "San Francisco",
+      "location": "San Francisco (+1 more)",
       "team": "Security",
       "url": "https://jobs.ashbyhq.com/harvey/50a8df2a-c50e-4326-ae90-0c9f8ee0cf1d",
       "postedAt": "2026-08-21T21:29:29.643Z",
@@ -17886,25 +17921,9 @@
       "firstSeen": "2026-08-21T21:30:22.483Z"
     },
     {
-      "id": "ca25e4fd-45bc-48ef-9089-0a160e1845f8",
-      "title": "Staff Product Security Engineer ",
-      "location": "New York",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/harvey/ca25e4fd-45bc-48ef-9089-0a160e1845f8",
-      "postedAt": "2026-08-21T21:27:36.669Z",
-      "key": "harvey:ca25e4fd-45bc-48ef-9089-0a160e1845f8",
-      "company": "Harvey",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T21:30:22.483Z"
-    },
-    {
       "id": "d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206",
       "title": "Staff Product Security Engineer",
-      "location": "San Francisco",
+      "location": "San Francisco (+1 more)",
       "team": "Security",
       "url": "https://jobs.ashbyhq.com/harvey/d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206",
       "postedAt": "2026-08-21T21:27:31.747Z",
@@ -20791,7 +20810,7 @@
     {
       "id": "f4b3077c-69dd-4656-851d-d9da65529634",
       "title": "Senior Software Engineer, Security",
-      "location": "San Francisco",
+      "location": "San Francisco (+1 more)",
       "team": "SA",
       "url": "https://jobs.ashbyhq.com/harvey/f4b3077c-69dd-4656-851d-d9da65529634",
       "postedAt": "2026-08-19T22:31:27.330Z",
@@ -23738,13 +23757,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -23754,13 +23773,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -24089,22 +24108,6 @@
         "us"
       ],
       "firstSeen": "2026-08-17T22:40:18.398Z"
-    },
-    {
-      "id": "8133235",
-      "title": "Software Engineer III, Edge",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8133235",
-      "postedAt": "2026-08-17T22:33:01.000Z",
-      "key": "boxinc:8133235",
-      "company": "Box",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T19:00:29.688Z"
     },
     {
       "id": "JR2023241",
