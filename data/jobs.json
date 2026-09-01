@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-09-01T21:40:16.792Z",
+  "generatedAt": "2026-09-01T21:50:19.620Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "redis:e7998e7f-a4a3-4ba7-b28c-cf30156bbf9a"
+    "Adobe:R170137",
+    "Capital One:R247610",
+    "Capital One:R999424",
+    "stabilityai:4966000101"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 23,
-    "experienced": 2195
+    "experienced": 2199
   },
   "companies": [
     {
@@ -67,7 +70,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -788,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 153,
+      "jobCount": 155,
       "error": null,
       "stale": false
     },
@@ -4757,7 +4760,7 @@
     {
       "name": "Stability AI",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R170137",
+      "title": "Senior Software Engineer  Model & Partnerships Management (Agentic Builders Experience team)",
+      "location": "San Jose",
+      "team": null,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Software-Engineer--Model---Partnerships-Management--Agentic-Builders-Experience-team-_R170137-1",
+      "postedAt": "2026-09-01T21:50:28.162Z",
+      "key": "Adobe:R170137",
+      "company": "Adobe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T21:50:19.620Z"
+    },
+    {
+      "id": "4966000101",
+      "title": "Forward Deployed Engineer ",
+      "location": "United States ",
+      "team": null,
+      "url": "http://stability.ai/careers?gh_jid=4966000101",
+      "postedAt": "2026-09-01T21:46:54.000Z",
+      "key": "stabilityai:4966000101",
+      "company": "Stability AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T21:50:19.620Z"
+    },
     {
       "id": "e7998e7f-a4a3-4ba7-b28c-cf30156bbf9a",
       "title": "Principal Manager, Communications & Developer Influence",
@@ -7910,6 +7945,22 @@
         "us"
       ],
       "firstSeen": "2026-08-31T21:50:17.572Z"
+    },
+    {
+      "id": "R247610",
+      "title": "Lead Data Engineer",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Data-Engineer_R247610-1",
+      "postedAt": "2026-08-31T21:50:25.285Z",
+      "key": "Capital One:R247610",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T21:50:19.620Z"
     },
     {
       "id": "8767158002",
@@ -10748,6 +10799,22 @@
         "remote"
       ],
       "firstSeen": "2026-08-28T22:00:25.515Z"
+    },
+    {
+      "id": "R999424",
+      "title": "Staff AI Engineer role  (Remote Eligible)",
+      "location": "6 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Staff-AI-Engineer-role---Remote-Eligible-_R999424-1",
+      "postedAt": "2026-08-28T21:50:26.314Z",
+      "key": "Capital One:R999424",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-01T21:50:19.620Z"
     },
     {
       "id": "8095021",
@@ -38993,23 +39060,6 @@
       "seeded": true
     },
     {
-      "id": "R241036",
-      "title": "Director, Staff Engineer - Agentic AI (Remote-Eligible)",
-      "location": "3 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer_R241036-1",
-      "postedAt": "2026-08-05T00:30:24.652Z",
-      "key": "Capital One:R241036",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
       "id": "R244400",
       "title": "Senior Staff Software Engineer - Capital One Travel Tech - Full-stack",
       "location": "Toronto, ON",
@@ -39039,6 +39089,23 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-05T19:33:31.081Z",
+      "seeded": true
+    },
+    {
+      "id": "R241036",
+      "title": "Staff Engineer - Agentic AI (Remote-Eligible)",
+      "location": "3 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Distinguished-Engineer_R241036-1",
+      "postedAt": "2026-08-05T00:30:24.652Z",
+      "key": "Capital One:R241036",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
       ],
       "firstSeen": "2026-08-05T19:33:31.081Z",
       "seeded": true
