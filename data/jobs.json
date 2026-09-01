@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-01T17:10:18.886Z",
+  "generatedAt": "2026-09-01T17:20:19.766Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "assemblyai:4729671005"
+    "jumptrading:8171060",
+    "pinterest:8096738"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1243,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 75,
+      "jobCount": 73,
       "error": null,
       "stale": false
     },
@@ -2517,7 +2518,7 @@
     {
       "name": "Jump Trading",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3225,7 +3226,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3756,7 +3757,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 131,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8171060",
+      "title": "Core Data Engineer",
+      "location": "New York or Chicago",
+      "team": null,
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8171060",
+      "postedAt": "2026-09-01T17:17:37.000Z",
+      "key": "jumptrading:8171060",
+      "company": "Jump Trading",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T17:20:19.766Z"
+    },
+    {
+      "id": "8096738",
+      "title": "Sr. Security Software Engineer, Security Operations   ",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8096738",
+      "postedAt": "2026-09-01T17:14:16.000Z",
+      "key": "pinterest:8096738",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T17:20:19.766Z"
+    },
     {
       "id": "4729671005",
       "title": "Senior Research Engineer",
@@ -8582,22 +8615,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T07:40:20.231Z"
-    },
-    {
-      "id": "R29607",
-      "title": "Sr. GovCloud Data Infrastructure Engineer (Remote)",
-      "location": "USA - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/GovCloud-Data-Infrastructure-Engineer--Remote-_R29607",
-      "postedAt": "2026-08-31T07:00:32.662Z",
-      "key": "CrowdStrike:R29607",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T07:00:27.497Z"
     },
     {
       "id": "R29970",
@@ -24300,7 +24317,7 @@
     {
       "id": "ee614940-c594-41da-8432-8a677e21520d",
       "title": "Senior Staff Customer Sustainment Engineer (R5502)",
-      "location": "United States",
+      "location": "San Diego, California (+1 more)",
       "team": "Applications Engineering",
       "url": "https://jobs.lever.co/shieldai/ee614940-c594-41da-8432-8a677e21520d",
       "postedAt": "2026-08-18T05:05:09.704Z",
@@ -24314,13 +24331,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -24330,13 +24347,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -33897,23 +33914,6 @@
       "seeded": true
     },
     {
-      "id": "R29007",
-      "title": "Sr. Backend Engineer - Cloud (Hybrid)",
-      "location": "USA - New York, NY",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---New-York-NY/Sr-Backend-Engineer---Cloud--Hybrid-_R29007",
-      "postedAt": "2026-08-07T21:33:29.116Z",
-      "key": "CrowdStrike:R29007",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T21:33:23.715Z",
-      "seeded": true
-    },
-    {
       "id": "R29267",
       "title": "Sr. Software Engineer, Vendor Semantics and Developer Experience (Remote)",
       "location": "USA - Remote",
@@ -34334,22 +34334,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -34362,6 +34346,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
