@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-09-01T17:00:27.854Z",
+  "generatedAt": "2026-09-01T17:10:18.886Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "openai:393b88d7-1fbc-466a-9108-a7c1bafeb8d8",
-    "spacex:8769729002"
+    "assemblyai:4729671005"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 24,
-    "experienced": 2164
+    "experienced": 2163
   },
   "companies": [
     {
@@ -425,7 +424,7 @@
     {
       "name": "AssemblyAI",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -551,7 +550,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2210,7 +2209,7 @@
     {
       "name": "Hex",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3226,7 +3225,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4694,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4729671005",
+      "title": "Senior Research Engineer",
+      "location": "Remote - New York",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4729671005",
+      "postedAt": "2026-09-01T17:01:55.000Z",
+      "key": "assemblyai:4729671005",
+      "company": "AssemblyAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T17:10:18.886Z"
+    },
     {
       "id": "8769729002",
       "title": "Full Stack Engineer, Flight Software",
@@ -7365,22 +7380,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T20:20:24.139Z"
-    },
-    {
-      "id": "50af1fde-125b-4442-b574-86d924f66cc6",
-      "title": "Analytics Engineer",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/hex/50af1fde-125b-4442-b574-86d924f66cc6",
-      "postedAt": "2026-08-31T19:51:41.848Z",
-      "key": "hex:50af1fde-125b-4442-b574-86d924f66cc6",
-      "company": "Hex",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T16:00:25.433Z"
     },
     {
       "id": "REF081503W",
@@ -10457,22 +10456,6 @@
       "postedAt": "2026-08-28T16:14:18.540Z",
       "key": "thinkingmachines:a9469410-04c7-4e6a-b8b4-64c15933a2bf",
       "company": "Thinking Machines Lab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T16:20:17.350Z"
-    },
-    {
-      "id": "f0c70d09-5a30-4380-a3a6-c73f4fd75f40",
-      "title": "Data Engineer",
-      "location": "Remote, US",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/benchling/f0c70d09-5a30-4380-a3a6-c73f4fd75f40",
-      "postedAt": "2026-08-28T16:13:25.522Z",
-      "key": "benchling:f0c70d09-5a30-4380-a3a6-c73f4fd75f40",
-      "company": "Benchling",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -28540,7 +28523,7 @@
     },
     {
       "id": "8075427",
-      "title": "Staff Software Engineer, Coupang Ads",
+      "title": "Staff Software Engineer, Ads",
       "location": "Seattle, USA",
       "team": null,
       "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8075427",
@@ -34351,22 +34334,6 @@
       "firstSeen": "2026-08-07T18:20:20.848Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -34379,6 +34346,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
