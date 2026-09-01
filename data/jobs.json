@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-01T18:50:17.804Z",
+  "generatedAt": "2026-09-01T19:00:27.590Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "jumptrading:8171513",
-    "stripe:8171539"
+    "cerebras:bc6bb81e-6ade-49a7-b76e-5123d87bcbba",
+    "cerebras:8318fcc4-cda9-426c-8ff5-9c8c01408268"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 24,
-    "experienced": 2173
+    "experienced": 2175
   },
   "companies": [
     {
@@ -866,7 +866,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 131,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5702,40 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8318fcc4-cda9-426c-8ff5-9c8c01408268",
+      "title": "Staff Cloud Infrastructure Engineer",
+      "location": "Sunnyvale, CA (+1 more)",
+      "team": "Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cerebras/8318fcc4-cda9-426c-8ff5-9c8c01408268",
+      "postedAt": "2026-09-01T18:56:26.667Z",
+      "key": "cerebras:8318fcc4-cda9-426c-8ff5-9c8c01408268",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-01T19:00:27.590Z"
+    },
+    {
+      "id": "bc6bb81e-6ade-49a7-b76e-5123d87bcbba",
+      "title": "Staff Software Engineer - Tools & Infrastructure / DevOps",
+      "location": "Sunnyvale, CA (+1 more)",
+      "team": "Developer Productivity",
+      "url": "https://jobs.ashbyhq.com/cerebras/bc6bb81e-6ade-49a7-b76e-5123d87bcbba",
+      "postedAt": "2026-09-01T18:54:23.580Z",
+      "key": "cerebras:bc6bb81e-6ade-49a7-b76e-5123d87bcbba",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-01T19:00:27.590Z"
+    },
     {
       "id": "8171513",
       "title": "Derived Data Engineer",
