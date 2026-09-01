@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-09-01T15:40:16.855Z",
+  "generatedAt": "2026-09-01T15:50:20.236Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "DocuSign:30225",
-    "shieldai:1b05ba43-1659-42d9-89c5-91e204da8d1f",
-    "spacex:8769502002"
+    "DocuSign:30223",
+    "mongodb:8161512",
+    "shieldai:94a05ffd-7376-4794-8d4b-80f6c56d151d",
+    "Visa:REF087556W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 40,
     "new-grad": 24,
-    "experienced": 2152
+    "experienced": 2155
   },
   "companies": [
     {
@@ -1427,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3135,7 +3136,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 189,
+      "jobCount": 188,
       "error": null,
       "stale": false
     },
@@ -4472,7 +4473,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5403,7 +5404,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF087556W",
+      "title": "Full Stack Software Architect (Sr. Consultant), Generative AI",
+      "location": "US - Bellevue, WA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Full-Stack-Software-Architect--Sr-Consultant---Generative-AI_REF087556W",
+      "postedAt": "2026-09-01T15:50:24.303Z",
+      "key": "Visa:REF087556W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T15:50:20.236Z"
+    },
+    {
+      "id": "94a05ffd-7376-4794-8d4b-80f6c56d151d",
+      "title": "Staff Software Engineer, Autonomy Behaviors (R5368)",
+      "location": "San Mateo, California",
+      "team": "Flight System Integration",
+      "url": "https://jobs.lever.co/shieldai/94a05ffd-7376-4794-8d4b-80f6c56d151d",
+      "postedAt": "2026-09-01T15:49:52.868Z",
+      "key": "shieldai:94a05ffd-7376-4794-8d4b-80f6c56d151d",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T15:50:20.236Z"
+    },
+    {
+      "id": "8161512",
+      "title": "Senior Software Engineer, SQL Engines",
+      "location": "United States",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8161512",
+      "postedAt": "2026-09-01T15:49:06.000Z",
+      "key": "mongodb:8161512",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T15:50:20.236Z"
+    },
+    {
+      "id": "30223",
+      "title": "Senior Software Engineer",
+      "location": "US-Seattle-3rd",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30223/login",
+      "postedAt": "2026-09-01T15:46:00.000Z",
+      "key": "DocuSign:30223",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T15:50:20.236Z"
+    },
     {
       "id": "1b05ba43-1659-42d9-89c5-91e204da8d1f",
       "title": "Staff Software Engineer, Autonomous Pilot Integration (R5395)",
@@ -41195,22 +41260,6 @@
       ],
       "firstSeen": "2026-08-19T22:03:00.773Z",
       "seeded": true
-    },
-    {
-      "id": "JR2022439",
-      "title": "Senior System Software Engineer – Data Center Compute Diagnostics",
-      "location": "US, NC, Durham",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-System-Software-Engineer---Data-Center-Compute-Diagnostics_JR2022439",
-      "postedAt": "2026-07-31T06:50:55.722Z",
-      "key": "Nvidia:JR2022439",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T06:50:20.794Z"
     },
     {
       "id": "R246873",
