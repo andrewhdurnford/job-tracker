@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-01T22:40:16.002Z",
+  "generatedAt": "2026-09-01T22:50:18.367Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "affirm:7980264003"
+    "cohere:52a2b83b-7537-4e88-af7b-e4e9630a96e0",
+    "coinbase:8170956",
+    "smartsheet:8172240"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 23,
-    "experienced": 2205
+    "experienced": 2208
   },
   "companies": [
     {
@@ -1047,14 +1049,14 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4596,7 +4598,7 @@
     {
       "name": "Smartsheet",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "52a2b83b-7537-4e88-af7b-e4e9630a96e0",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Public Sector)",
+      "location": "Ottawa (+1 more)",
+      "team": "Delivery Engineering - Infrastructure ",
+      "url": "https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0",
+      "postedAt": "2026-09-01T22:47:04.355Z",
+      "key": "cohere:52a2b83b-7537-4e88-af7b-e4e9630a96e0",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-01T22:50:18.367Z"
+    },
+    {
+      "id": "8172240",
+      "title": "Principal Software Engineer - Observability & Telemetry Data",
+      "location": "Bellevue, WA, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8172240",
+      "postedAt": "2026-09-01T22:43:58.000Z",
+      "key": "smartsheet:8172240",
+      "company": "Smartsheet",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T22:50:18.367Z"
+    },
+    {
+      "id": "8170956",
+      "title": "Staff Software Engineer, Developer Infrastructure ",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8170956?gh_jid=8170956",
+      "postedAt": "2026-09-01T22:41:45.000Z",
+      "key": "coinbase:8170956",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T22:50:18.367Z"
+    },
+    {
       "id": "7980264003",
       "title": "Senior Software Engineer, Backend (Card Ledger & Money Movement)",
       "location": "Remote US",
@@ -6039,7 +6089,7 @@
     },
     {
       "id": "8167616",
-      "title": "Senior Staff Security Engineer",
+      "title": "Senior Staff Software Security Engineer",
       "location": "Bellevue, WA; Menlo Park, CA",
       "team": null,
       "url": "https://boards.greenhouse.io/robinhood/jobs/8167616?t=gh_src=&gh_jid=8167616",
