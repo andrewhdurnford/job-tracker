@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-09-01T18:10:25.605Z",
+  "generatedAt": "2026-09-01T18:20:19.464Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "boxinc:8133235",
-    "checkr:8171375",
-    "close:1022d31e-238a-4236-a44d-9d59c94f1ccd"
+    "zip:f003bb4d-8453-44bd-8ae0-2c1ad244a26e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 24,
-    "experienced": 2171
+    "experienced": 2172
   },
   "companies": [
     {
@@ -1426,10 +1424,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": true,
+      "ok": false,
       "jobCount": 12,
-      "error": null,
-      "stale": false
+      "error": "HTTP 403 Forbidden",
+      "stale": true
     },
     {
       "name": "Dolls Kill",
@@ -5669,7 +5667,7 @@
     {
       "name": "Zip",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "f003bb4d-8453-44bd-8ae0-2c1ad244a26e",
+      "title": "Senior Software Engineer, Developer Platform",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/zip/f003bb4d-8453-44bd-8ae0-2c1ad244a26e",
+      "postedAt": "2026-09-01T18:17:56.160Z",
+      "key": "zip:f003bb4d-8453-44bd-8ae0-2c1ad244a26e",
+      "company": "Zip",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-01T18:20:19.464Z"
+    },
     {
       "id": "8171375",
       "title": "Senior Software Engineer (Python), Mortgage",
