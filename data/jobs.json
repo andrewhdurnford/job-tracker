@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T17:50:16.762Z",
+  "generatedAt": "2026-09-02T18:00:31.398Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "ServiceTitan:JR115077"
+    "cambio:34400221-9b07-4db9-929b-3441bdf00dd4"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 38,
     "new-grad": 21,
-    "experienced": 2209
+    "experienced": 2206
   },
   "companies": [
     {
@@ -739,7 +739,7 @@
     {
       "name": "Cambio",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -843,10 +843,10 @@
     },
     {
       "name": "Carvana",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Casca",
@@ -1418,7 +1418,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 181,
+      "jobCount": 180,
       "error": null,
       "stale": false
     },
@@ -4232,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4372,7 +4372,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,23 @@
   ],
   "jobs": [
     {
+      "id": "34400221-9b07-4db9-929b-3441bdf00dd4",
+      "title": "Backend Engineer",
+      "location": "Waterloo (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/cambio/34400221-9b07-4db9-929b-3441bdf00dd4",
+      "postedAt": "2026-09-02T17:54:48.313Z",
+      "key": "cambio:34400221-9b07-4db9-929b-3441bdf00dd4",
+      "company": "Cambio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-02T18:00:31.398Z"
+    },
+    {
       "id": "JR115077",
       "title": "Senior Site Reliability Engineer",
       "location": "US Remote",
@@ -5751,7 +5768,7 @@
     },
     {
       "id": "8174207",
-      "title": "Senior Systems Engineer, R2 Gateway",
+      "title": "Senior Software Engineer, R2 Gateway",
       "location": "Austin, TX (+1 more)",
       "team": "Emerging Technology and Incubation",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8174207?gh_jid=8174207",
@@ -8676,23 +8693,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-31T23:10:17.192Z"
-    },
-    {
-      "id": "776709dc-560e-4ef2-8d24-baf6b618716c",
-      "title": "Senior Software Engineer, Docker Desktop, Go/Backend Focus (East Coast)",
-      "location": "Canada (+1 more)",
-      "team": "ENG-Docker Desktop",
-      "url": "https://jobs.ashbyhq.com/docker/776709dc-560e-4ef2-8d24-baf6b618716c",
-      "postedAt": "2026-08-31T22:56:36.307Z",
-      "key": "docker:776709dc-560e-4ef2-8d24-baf6b618716c",
-      "company": "Docker",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-31T23:00:27.934Z"
     },
     {
       "id": "65bc2ffe-a622-47cd-949c-2ca8b7ec6951",
@@ -17481,7 +17481,7 @@
     },
     {
       "id": "8155463",
-      "title": "Systems Engineer, R2 Gateway",
+      "title": "Software Engineer, R2 Gateway",
       "location": "Austin, TX (+1 more)",
       "team": "Emerging Technology and Incubation",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8155463?gh_jid=8155463",
@@ -23887,13 +23887,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -23903,13 +23903,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -25900,13 +25900,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -25916,13 +25916,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -35596,22 +35596,6 @@
       "firstSeen": "2026-08-07T20:00:23.012Z"
     },
     {
-      "id": "JR2014797",
-      "title": "Senior Developer Relations Manager - AI Agents",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---AgentOps_JR2014797",
-      "postedAt": "2026-08-07T19:37:18.766Z",
-      "key": "Nvidia:JR2014797",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T19:36:57.063Z"
-    },
-    {
       "id": "8114754",
       "title": "Staff/Lead Machine Learning Engineer, Behavior & Planning",
       "location": "Mountain View, California (HQ)",
@@ -41920,38 +41904,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T00:29:41.637Z"
-    },
-    {
-      "id": "4720163005",
-      "title": "Chief of Staff, Public Sector Engineering & Security ",
-      "location": "Washington, DC",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720163005",
-      "postedAt": "2026-08-03T17:56:58.000Z",
-      "key": "scaleai:4720163005",
-      "company": "Scale AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-04T16:51:02.241Z"
-    },
-    {
-      "id": "8080939",
-      "title": "Staff Software Developer, DevX (Developer Infrastructure)",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8080939?t=gh_src=&gh_jid=8080939",
-      "postedAt": "2026-08-03T17:50:41.000Z",
-      "key": "robinhood:8080939",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-04T14:01:13.480Z"
     },
     {
       "id": "JR2022489",
