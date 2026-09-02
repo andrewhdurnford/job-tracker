@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-02T21:50:23.905Z",
+  "generatedAt": "2026-09-02T22:00:27.430Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "snowflake:31fdda97-2347-4031-8cb3-0d78207b58b4"
+    "reddit:8175131",
+    "waymo:8171214"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 38,
     "new-grad": 21,
-    "experienced": 2204
+    "experienced": 2203
   },
   "companies": [
     {
@@ -1243,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 74,
+      "jobCount": 73,
       "error": null,
       "stale": false
     },
@@ -4106,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 129,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5226,7 +5227,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8171214",
+      "title": "Data Infra Engineer ",
+      "location": "Mountain View, California, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8171214",
+      "postedAt": "2026-09-02T21:58:48.000Z",
+      "key": "waymo:8171214",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T22:00:27.430Z"
+    },
+    {
+      "id": "8175131",
+      "title": "Staff Software Engineer - Site Defense",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8175131",
+      "postedAt": "2026-09-02T21:55:28.000Z",
+      "key": "reddit:8175131",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T22:00:27.430Z"
+    },
     {
       "id": "31fdda97-2347-4031-8cb3-0d78207b58b4",
       "title": "Principal / Staff Applied Research Scientist",
@@ -6988,22 +7021,6 @@
         "us"
       ],
       "firstSeen": "2026-09-02T07:20:19.315Z"
-    },
-    {
-      "id": "R25320",
-      "title": "Sr Backend Engineer, Falcon NG-SIEM, Global Serverless Platform",
-      "location": "USA - Austin, TX",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Backend-Engineer-III--Falcon-NG-SIEM--Global-Serverless-Platform--Remote--East-Coast-_R25320",
-      "postedAt": "2026-09-02T05:00:28.824Z",
-      "key": "CrowdStrike:R25320",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T05:00:25.891Z"
     },
     {
       "id": "fe258c19-7d26-44df-bddf-9c9d0264f102",
@@ -41824,38 +41841,6 @@
       ],
       "firstSeen": "2026-08-19T22:03:00.773Z",
       "seeded": true
-    },
-    {
-      "id": "8103253",
-      "title": "Software Engineer (L4)",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8103253",
-      "postedAt": "2026-08-03T21:50:41.000Z",
-      "key": "twilio:8103253",
-      "company": "Twilio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-04T14:01:13.480Z"
-    },
-    {
-      "id": "8098945",
-      "title": "Software Engineer (L4)",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8098945",
-      "postedAt": "2026-08-03T21:50:40.000Z",
-      "key": "twilio:8098945",
-      "company": "Twilio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-04T14:01:13.480Z"
     },
     {
       "id": "REF085123W",
