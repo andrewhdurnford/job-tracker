@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-02T15:04:12.465Z",
+  "generatedAt": "2026-09-02T15:10:20.331Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "scaleai:4729820005"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 22,
-    "experienced": 2210
+    "experienced": 2211
   },
   "companies": [
     {
@@ -1422,10 +1424,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": true,
+      "ok": false,
       "jobCount": 12,
-      "error": null,
-      "stale": false
+      "error": "HTTP 403 Forbidden",
+      "stale": true
     },
     {
       "name": "Dolls Kill",
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4370,7 +4372,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4729820005",
+      "title": "Staff Software Engineer, RL Environments  ",
+      "location": "San Francisco, CA; New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729820005",
+      "postedAt": "2026-09-02T15:06:21.000Z",
+      "key": "scaleai:4729820005",
+      "company": "Scale AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T15:10:20.331Z"
+    },
     {
       "id": "547fef33-6371-4a49-9085-5810744f95b0",
       "title": "Founding Machine Learning Engineer",
