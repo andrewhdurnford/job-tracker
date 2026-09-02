@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-02T16:20:21.465Z",
+  "generatedAt": "2026-09-02T16:30:22.100Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "zscaler:5216930007"
+    "CrowdStrike:R29023",
+    "CrowdStrike:R27304",
+    "scaleai:4729820005"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 38,
     "new-grad": 22,
-    "experienced": 2207
+    "experienced": 2209
   },
   "companies": [
     {
@@ -788,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 154,
+      "jobCount": 153,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 72,
+      "jobCount": 74,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4372,7 +4374,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,22 @@
   ],
   "jobs": [
     {
+      "id": "R29023",
+      "title": "Sr. Data Scientist (Remote)",
+      "location": "58 Locations",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Data-Scientist_R29023",
+      "postedAt": "2026-09-02T16:30:25.997Z",
+      "key": "CrowdStrike:R29023",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-02T16:30:22.100Z"
+    },
+    {
       "id": "5216930007",
       "title": "Principal Software Engineer (C / Networking / Dataplane)",
       "location": "San Jose, California, USA",
@@ -5830,6 +5848,22 @@
         "us"
       ],
       "firstSeen": "2026-09-02T15:30:22.794Z"
+    },
+    {
+      "id": "4729820005",
+      "title": "Staff Software Engineer, RL Environments  ",
+      "location": "San Francisco, CA; New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729820005",
+      "postedAt": "2026-09-02T15:06:21.000Z",
+      "key": "scaleai:4729820005",
+      "company": "Scale AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T16:30:22.100Z"
     },
     {
       "id": "547fef33-6371-4a49-9085-5810744f95b0",
@@ -23519,22 +23553,6 @@
       "firstSeen": "2026-08-19T16:30:22.310Z"
     },
     {
-      "id": "R248568",
-      "title": "Lead Software Engineer, Full Stack ( Cloud Native, Microservices & AWS) ( Enterprise Platforms Technology)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack---Cloud-Native--Microservices---AWS----Enterprise-Platforms-Technology-_R248568-2",
-      "postedAt": "2026-08-19T16:20:24.619Z",
-      "key": "Capital One:R248568",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T16:20:19.266Z"
-    },
-    {
       "id": "c7112880-fa0c-4386-8c01-6eac0b31bc65",
       "title": "Forward Deployed Software Engineer",
       "location": "Cosmic HQ",
@@ -23663,13 +23681,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -23679,13 +23697,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -35567,22 +35585,6 @@
       "firstSeen": "2026-09-01T17:30:29.190Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -35595,6 +35597,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -35661,6 +35679,22 @@
         "us"
       ],
       "firstSeen": "2026-08-07T16:50:18.429Z"
+    },
+    {
+      "id": "R27304",
+      "title": "Software Engineering Manager - Cloud Security (Hybrid)",
+      "location": "USA - New York, NY",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---New-York-NY/Software-Engineering-Manager---Cloud-Security--Hybrid-_R27304",
+      "postedAt": "2026-08-07T16:30:33.500Z",
+      "key": "CrowdStrike:R27304",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T16:30:22.100Z"
     },
     {
       "id": "8691490002",
