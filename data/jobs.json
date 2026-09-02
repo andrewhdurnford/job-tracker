@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-02T21:20:17.985Z",
+  "generatedAt": "2026-09-02T21:30:22.840Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "cerebras:d114d16b-3c5f-44a1-9a15-26b37fb45369",
+    "handshake:c91b7ebf-2c69-4d91-809d-a30ea0b9dc18",
+    "runetech:ec8d2198-52b2-4186-ba31-6323e9fd3b76"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 38,
     "new-grad": 21,
-    "experienced": 2203
+    "experienced": 2206
   },
   "companies": [
     {
@@ -863,7 +867,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2144,7 +2148,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4279,7 +4283,7 @@
     {
       "name": "Rune Technologies",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 129,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "c91b7ebf-2c69-4d91-809d-a30ea0b9dc18",
+      "title": "Forward Deployed Engineer, Handshake AI Enterprise",
+      "location": "San Francisco, CA",
+      "team": "Enterprise Engineering",
+      "url": "https://jobs.ashbyhq.com/handshake/c91b7ebf-2c69-4d91-809d-a30ea0b9dc18",
+      "postedAt": "2026-09-02T21:26:27.034Z",
+      "key": "handshake:c91b7ebf-2c69-4d91-809d-a30ea0b9dc18",
+      "company": "Handshake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T21:30:22.840Z"
+    },
+    {
+      "id": "ec8d2198-52b2-4186-ba31-6323e9fd3b76",
+      "title": "Backend Software Engineer - Simulations",
+      "location": "Rosslyn, VA (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/runetech/ec8d2198-52b2-4186-ba31-6323e9fd3b76",
+      "postedAt": "2026-09-02T21:25:04.118Z",
+      "key": "runetech:ec8d2198-52b2-4186-ba31-6323e9fd3b76",
+      "company": "Rune Technologies",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T21:30:22.840Z"
+    },
+    {
+      "id": "d114d16b-3c5f-44a1-9a15-26b37fb45369",
+      "title": "Detection and Response Platform Engineer",
+      "location": "Sunnyvale, CA",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/cerebras/d114d16b-3c5f-44a1-9a15-26b37fb45369",
+      "postedAt": "2026-09-02T21:24:23.626Z",
+      "key": "cerebras:d114d16b-3c5f-44a1-9a15-26b37fb45369",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T21:30:22.840Z"
+    },
     {
       "id": "8053797",
       "title": "Senior Software Engineer II, AI Labs & Foundations",
@@ -26204,13 +26256,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -26220,13 +26272,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
