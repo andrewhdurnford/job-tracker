@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T06:20:18.834Z",
+  "generatedAt": "2026-09-02T06:30:24.993Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -30380,7 +30380,7 @@
     },
     {
       "id": "5388612008",
-      "title": "Software Engineer, Infrastructure, Interpretability",
+      "title": "Staff+ Software Engineer, Infrastructure, Interpretability",
       "location": "San Francisco, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388612008",
