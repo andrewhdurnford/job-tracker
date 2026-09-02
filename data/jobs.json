@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T19:20:18.995Z",
+  "generatedAt": "2026-09-02T19:30:29.690Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Procore:R0018565"
+    "asana:8174616"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 38,
     "new-grad": 21,
-    "experienced": 2208
+    "experienced": 2205
   },
   "companies": [
     {
@@ -263,7 +263,7 @@
     {
       "name": "Andera",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -389,7 +389,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1348,7 +1348,7 @@
     {
       "name": "Decagon",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1991,10 +1991,10 @@
     },
     {
       "name": "Glimpse",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Glossier",
@@ -2019,10 +2019,10 @@
     },
     {
       "name": "GoLinks",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Gong",
@@ -2040,17 +2040,17 @@
     },
     {
       "name": "GovDash",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "GovEagle",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Grafana Labs",
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2075,17 +2075,17 @@
     },
     {
       "name": "Great Question",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Greenboard",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Gridware",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8174616",
+      "title": "Senior Software Engineer, Product Frameworks",
+      "location": "New York City",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/8174616?gh_jid=8174616",
+      "postedAt": "2026-09-02T19:25:31.000Z",
+      "key": "asana:8174616",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T19:30:29.690Z"
+    },
     {
       "id": "R0018565",
       "title": "Senior Principal Software Engineer, Ruby",
@@ -24824,7 +24840,7 @@
     {
       "id": "8700605002",
       "title": "Staff Software Engineer, Experimentation Platform",
-      "location": "San Francisco Bay Area",
+      "location": "Remote (U.S.)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/discord/jobs/8700605002",
       "postedAt": "2026-08-18T22:26:49.000Z",
@@ -33978,22 +33994,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -34006,6 +34006,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -35887,22 +35903,6 @@
       "firstSeen": "2026-09-01T17:30:29.190Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -35915,6 +35915,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -41867,70 +41883,6 @@
       "postedAt": "2026-08-03T19:37:52.000Z",
       "key": "datadog:8103585",
       "company": "Datadog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-04T14:01:13.480Z"
-    },
-    {
-      "id": "e09840ce-d387-400e-9b0c-5e304d9d8f73",
-      "title": "Product Engineering Lead",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/andera/e09840ce-d387-400e-9b0c-5e304d9d8f73",
-      "postedAt": "2026-08-03T19:29:22.105Z",
-      "key": "andera:e09840ce-d387-400e-9b0c-5e304d9d8f73",
-      "company": "Andera",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "741ea122-763c-4152-9260-3038945058b8",
-      "title": "Founding AI Engineer",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/andera/741ea122-763c-4152-9260-3038945058b8",
-      "postedAt": "2026-08-03T19:28:27.256Z",
-      "key": "andera:741ea122-763c-4152-9260-3038945058b8",
-      "company": "Andera",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "dc7c3b51-5be0-4890-a481-5bb200df48eb",
-      "title": "Senior Software Engineer, Enterprise Product",
-      "location": "New York City",
-      "team": "Enterprise Product",
-      "url": "https://jobs.ashbyhq.com/decagon/dc7c3b51-5be0-4890-a481-5bb200df48eb",
-      "postedAt": "2026-08-03T19:26:40.137Z",
-      "key": "decagon:dc7c3b51-5be0-4890-a481-5bb200df48eb",
-      "company": "Decagon",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-04T14:01:13.480Z"
-    },
-    {
-      "id": "03f56b39-866b-41b7-a805-9cf2e16373b9",
-      "title": "Senior Software Engineer, Enterprise Product",
-      "location": "San Francisco",
-      "team": "Enterprise Product",
-      "url": "https://jobs.ashbyhq.com/decagon/03f56b39-866b-41b7-a805-9cf2e16373b9",
-      "postedAt": "2026-08-03T19:25:11.800Z",
-      "key": "decagon:03f56b39-866b-41b7-a805-9cf2e16373b9",
-      "company": "Decagon",
       "level": "experienced",
       "term": null,
       "regions": [
