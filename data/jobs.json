@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-09-02T16:30:22.100Z",
+  "generatedAt": "2026-09-02T16:40:18.543Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "CrowdStrike:R29023",
-    "CrowdStrike:R27304",
-    "scaleai:4729820005"
+    "boxinc:8133237"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +11,7 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 38,
-    "new-grad": 22,
+    "new-grad": 21,
     "experienced": 2209
   },
   "companies": [
@@ -41,7 +39,7 @@
     {
       "name": "Abridge",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 129,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -6330,22 +6328,6 @@
         "us"
       ],
       "firstSeen": "2026-09-02T00:20:20.679Z"
-    },
-    {
-      "id": "8172408",
-      "title": "Software Engineer III, DB Platform",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8172408",
-      "postedAt": "2026-09-02T00:09:20.000Z",
-      "key": "boxinc:8172408",
-      "company": "Box",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T00:10:16.111Z"
     },
     {
       "id": "R_106615",
@@ -15527,22 +15509,6 @@
       "firstSeen": "2026-08-27T16:20:20.340Z"
     },
     {
-      "id": "7d6ae2be-cd53-466c-8151-2dae2e87aace",
-      "title": "Software Engineer, Early Career",
-      "location": "SF Office",
-      "team": "Product Engineering",
-      "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
-      "postedAt": "2026-08-26T17:31:59.868Z",
-      "key": "abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace",
-      "company": "Abridge",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T17:40:23.703Z"
-    },
-    {
       "id": "R248139",
       "title": "Senior Associate, Data Scientist - US Card (Applied GenAI)",
       "location": "2 Locations",
@@ -24550,6 +24516,22 @@
         "us"
       ],
       "firstSeen": "2026-08-18T22:00:28.719Z"
+    },
+    {
+      "id": "8133237",
+      "title": "Senior Software Engineer, Microservice Foundation",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8133237",
+      "postedAt": "2026-08-18T21:41:44.000Z",
+      "key": "boxinc:8133237",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T16:40:18.543Z"
     },
     {
       "id": "7895529003",
