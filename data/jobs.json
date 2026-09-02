@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-02T12:20:19.705Z",
+  "generatedAt": "2026-09-02T12:30:23.380Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "cerebras:91bc61c1-29db-4a47-817d-30e921064af5",
+    "elastic:8099226",
+    "elastic:8173332"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 22,
-    "experienced": 2210
+    "experienced": 2213
   },
   "companies": [
     {
@@ -863,7 +867,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1521,7 +1525,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8099226",
+      "title": "Senior Software Engineer - EDR Workflows - Security",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8099226&gh_jid=8099226",
+      "postedAt": "2026-09-02T12:29:35.000Z",
+      "key": "elastic:8099226",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T12:30:23.380Z"
+    },
+    {
+      "id": "8173332",
+      "title": "Senior Software Engineer - EDR Workflows - Security",
+      "location": "Canada",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8173332&gh_jid=8173332",
+      "postedAt": "2026-09-02T12:28:16.000Z",
+      "key": "elastic:8173332",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-02T12:30:23.380Z"
+    },
+    {
+      "id": "91bc61c1-29db-4a47-817d-30e921064af5",
+      "title": "Application Security Engineer",
+      "location": "Sunnyvale, CA",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/cerebras/91bc61c1-29db-4a47-817d-30e921064af5",
+      "postedAt": "2026-09-02T12:21:41.067Z",
+      "key": "cerebras:91bc61c1-29db-4a47-817d-30e921064af5",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T12:30:23.380Z"
+    },
     {
       "id": "06752423-eebb-472c-95b5-c7ff2559fd60",
       "title": "Software Engineer - Branching",
@@ -25398,13 +25450,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -25414,13 +25466,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -35321,22 +35373,6 @@
       "firstSeen": "2026-09-01T17:30:29.190Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -35349,6 +35385,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
