@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-02T18:00:31.398Z",
+  "generatedAt": "2026-09-02T18:10:57.746Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "cambio:34400221-9b07-4db9-929b-3441bdf00dd4"
+    "affirm:7979491003",
+    "ginkgobioworks:5228742007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -81,7 +82,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -843,10 +844,10 @@
     },
     {
       "name": "Carvana",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Casca",
@@ -914,7 +915,7 @@
     {
       "name": "Checkr",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1628,7 +1629,7 @@
     {
       "name": "Etched",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -1957,7 +1958,7 @@
     {
       "name": "Ginkgo Bioworks",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 130,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5228742007",
+      "title": "Scientist, AI/ML — Antibody Developability",
+      "location": "California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5228742007",
+      "postedAt": "2026-09-02T18:09:57.000Z",
+      "key": "ginkgobioworks:5228742007",
+      "company": "Ginkgo Bioworks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T18:10:57.746Z"
+    },
+    {
+      "id": "7979491003",
+      "title": "Staff Software Engineer (Continuous Integration)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7979491003",
+      "postedAt": "2026-09-02T18:06:56.000Z",
+      "key": "affirm:7979491003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-02T18:10:57.746Z"
+    },
     {
       "id": "34400221-9b07-4db9-929b-3441bdf00dd4",
       "title": "Backend Engineer",
@@ -7533,22 +7566,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T18:20:19.464Z"
-    },
-    {
-      "id": "8171375",
-      "title": "Senior Software Engineer (Python), Mortgage",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/checkr/jobs/8171375",
-      "postedAt": "2026-09-01T18:05:10.000Z",
-      "key": "checkr:8171375",
-      "company": "Checkr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T18:10:25.605Z"
     },
     {
       "id": "1022d31e-238a-4236-a44d-9d59c94f1ccd",
@@ -33865,22 +33882,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -33893,6 +33894,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -41888,22 +41905,6 @@
         "us"
       ],
       "firstSeen": "2026-08-04T14:01:13.480Z"
-    },
-    {
-      "id": "6bb1c827-e9f0-4384-8113-1bb8ad8efb47",
-      "title": "Senior Manufacturing Software Engineer",
-      "location": "San Jose",
-      "team": "Production",
-      "url": "https://jobs.ashbyhq.com/etched/6bb1c827-e9f0-4384-8113-1bb8ad8efb47",
-      "postedAt": "2026-08-03T18:03:47.811Z",
-      "key": "etched:6bb1c827-e9f0-4384-8113-1bb8ad8efb47",
-      "company": "Etched",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T00:29:41.637Z"
     },
     {
       "id": "JR2022489",
