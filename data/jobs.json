@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-09-02T22:00:27.430Z",
+  "generatedAt": "2026-09-02T22:10:19.001Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "reddit:8175131",
-    "waymo:8171214"
+    "strava:f39b4232-33e1-4853-af84-163d1bcdef69"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1426,7 +1425,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 129,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4793,7 +4792,7 @@
     {
       "name": "Strava",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "f39b4232-33e1-4853-af84-163d1bcdef69",
+      "title": "Lead Data Scientist, Inference",
+      "location": "Strava SF",
+      "team": "Data and Insights",
+      "url": "https://jobs.ashbyhq.com/strava/f39b4232-33e1-4853-af84-163d1bcdef69",
+      "postedAt": "2026-09-02T22:06:17.384Z",
+      "key": "strava:f39b4232-33e1-4853-af84-163d1bcdef69",
+      "company": "Strava",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-02T22:10:19.001Z"
+    },
     {
       "id": "8171214",
       "title": "Data Infra Engineer ",
@@ -16761,22 +16776,6 @@
       "firstSeen": "2026-08-31T13:50:19.759Z"
     },
     {
-      "id": "29751",
-      "title": "Software Engineer",
-      "location": "US-SFO-Main",
-      "team": "Engineering",
-      "url": "https://uscareers-docusign.icims.com/jobs/29751/login",
-      "postedAt": "2026-08-26T14:17:00.000Z",
-      "key": "DocuSign:29751",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T19:30:22.072Z"
-    },
-    {
       "id": "R999185",
       "title": "Senior Manager, Software Engineering",
       "location": "Chicago, IL",
@@ -26287,13 +26286,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -26303,13 +26302,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -34236,22 +34235,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -34264,6 +34247,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -36129,22 +36128,6 @@
       "firstSeen": "2026-09-01T17:30:29.190Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -36157,6 +36140,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
