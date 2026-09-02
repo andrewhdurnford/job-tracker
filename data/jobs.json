@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-09-02T15:10:20.331Z",
+  "generatedAt": "2026-09-02T15:20:20.921Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "scaleai:4729820005"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 22,
-    "experienced": 2211
+    "experienced": 2209
   },
   "companies": [
     {
@@ -1424,10 +1422,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": false,
-      "jobCount": 12,
-      "error": "HTTP 403 Forbidden",
-      "stale": true
+      "ok": true,
+      "jobCount": 11,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Dolls Kill",
@@ -2063,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4372,7 +4370,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5701,22 +5699,6 @@
     }
   ],
   "jobs": [
-    {
-      "id": "4729820005",
-      "title": "Staff Software Engineer, RL Environments  ",
-      "location": "San Francisco, CA; New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4729820005",
-      "postedAt": "2026-09-02T15:06:21.000Z",
-      "key": "scaleai:4729820005",
-      "company": "Scale AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T15:10:20.331Z"
-    },
     {
       "id": "547fef33-6371-4a49-9085-5810744f95b0",
       "title": "Founding Machine Learning Engineer",
@@ -42022,22 +42004,6 @@
         "us"
       ],
       "firstSeen": "2026-08-07T19:40:04.314Z"
-    },
-    {
-      "id": "30024",
-      "title": "AI Agentic Engineer",
-      "location": "US-SFO-Main",
-      "team": "IT Infrastructure & Operations",
-      "url": "https://uscareers-docusign.icims.com/jobs/30024/login",
-      "postedAt": "2026-08-03T15:08:00.000Z",
-      "key": "DocuSign:30024",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:51:11.073Z"
     },
     {
       "id": "JR2021294",
