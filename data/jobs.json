@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-09-03T18:50:22.138Z",
+  "generatedAt": "2026-09-03T19:00:31.181Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "billcom:6180061004"
+    "cerebras:c35a389c-807e-45fb-bfda-03f6b1361871",
+    "neighbor:3c27afec-628f-4305-9519-9b525035e3f0",
+    "Nvidia:JR2025023",
+    "scaleai:4730512005",
+    "stripe:8177930",
+    "Tempus AI:JR202600672"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +17,7 @@
   "levelCounts": {
     "intern": 40,
     "new-grad": 21,
-    "experienced": 2190
+    "experienced": 2195
   },
   "companies": [
     {
@@ -865,7 +870,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -899,10 +904,10 @@
     },
     {
       "name": "Chariot Defense",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Charthop",
@@ -2896,7 +2901,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3259,7 +3264,7 @@
     {
       "name": "Neighbor",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3432,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 180,
+      "jobCount": 181,
       "error": null,
       "stale": false
     },
@@ -4372,7 +4377,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4698,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 129,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4799,7 +4804,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4855,7 +4860,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5037,7 +5042,7 @@
     {
       "name": "Tempus AI",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5706,87 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025023",
+      "title": "Senior Software Development Engineer in Test - NPI Bring-up SDET",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---NPI-Bring-up-SDET_JR2025023-1",
+      "postedAt": "2026-09-03T19:00:35.748Z",
+      "key": "Nvidia:JR2025023",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T19:00:31.181Z"
+    },
+    {
+      "id": "JR202600672",
+      "title": "Senior Endpoint Systems Engineer (HYBRID: Chicago)",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Chicago/Senior-Endpoint-Systems-Engineer--HYBRID--Chicago-_JR202600672-1",
+      "postedAt": "2026-09-03T19:00:35.251Z",
+      "key": "Tempus AI:JR202600672",
+      "company": "Tempus AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T19:00:31.181Z"
+    },
+    {
+      "id": "8177930",
+      "title": "Software Engineer, Online Database Infrastructure",
+      "location": "Seattle, WA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8177930",
+      "postedAt": "2026-09-03T18:57:02.000Z",
+      "key": "stripe:8177930",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T19:00:31.181Z"
+    },
+    {
+      "id": "c35a389c-807e-45fb-bfda-03f6b1361871",
+      "title": "ML Systems Integration Engineer",
+      "location": "Sunnyvale, CA (+1 more)",
+      "team": "CoDesign",
+      "url": "https://jobs.ashbyhq.com/cerebras/c35a389c-807e-45fb-bfda-03f6b1361871",
+      "postedAt": "2026-09-03T18:54:24.775Z",
+      "key": "cerebras:c35a389c-807e-45fb-bfda-03f6b1361871",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-03T19:00:31.181Z"
+    },
+    {
+      "id": "4730512005",
+      "title": "Senior Software Engineer, Platform",
+      "location": "San Francisco, CA; New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730512005",
+      "postedAt": "2026-09-03T18:53:30.000Z",
+      "key": "scaleai:4730512005",
+      "company": "Scale AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T19:00:31.181Z"
+    },
     {
       "id": "6180061004",
       "title": "Staff Machine Learning Engineer",
@@ -6688,7 +6774,7 @@
     {
       "id": "5229363007",
       "title": "OT Systems Engineer (Supercomputer Infrastructure)",
-      "location": "Memphis, Tennessee; Southaven, Mississippi",
+      "location": " Southaven, MS; Memphis, Tennessee",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5229363007",
       "postedAt": "2026-09-02T23:01:13.000Z",
@@ -7040,7 +7126,7 @@
     {
       "id": "5229153007",
       "title": "Site Reliability Engineer",
-      "location": "Memphis, Tennessee; Southaven, Mississippi",
+      "location": " Southaven, MS; Memphis, Tennessee",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5229153007",
       "postedAt": "2026-09-02T20:48:25.000Z",
@@ -13421,6 +13507,22 @@
         "remote"
       ],
       "firstSeen": "2026-08-28T21:20:20.350Z"
+    },
+    {
+      "id": "3c27afec-628f-4305-9519-9b525035e3f0",
+      "title": "Software Engineer",
+      "location": "Lehi, UT",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/neighbor/3c27afec-628f-4305-9519-9b525035e3f0",
+      "postedAt": "2026-08-28T20:59:35.286Z",
+      "key": "neighbor:3c27afec-628f-4305-9519-9b525035e3f0",
+      "company": "Neighbor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T19:00:31.181Z"
     },
     {
       "id": "8144016",
@@ -23451,7 +23553,7 @@
     {
       "id": "d86e0295-d4f3-45b7-93c2-b45309db9f89",
       "title": "Senior Product Security Engineer",
-      "location": "Americas or APAC",
+      "location": "United States | Canada",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/lancedb/d86e0295-d4f3-45b7-93c2-b45309db9f89",
       "postedAt": "2026-08-20T19:47:30.006Z",
@@ -23460,7 +23562,8 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "us",
+        "canada"
       ],
       "firstSeen": "2026-08-20T19:50:19.200Z"
     },
@@ -31367,7 +31470,7 @@
     {
       "id": "5211587007",
       "title": "Site Reliability Engineer - Data Center",
-      "location": "Memphis, Tennessee; Southaven, Mississippi",
+      "location": " Southaven, MS; Memphis, Tennessee",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5211587007",
       "postedAt": "2026-08-13T17:50:40.000Z",
@@ -32787,7 +32890,7 @@
     {
       "id": "5210564007",
       "title": "Analytics Engineer - X",
-      "location": "Palo Alto, California",
+      "location": " Palo Alto, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5210564007",
       "postedAt": "2026-08-12T18:39:14.000Z",
@@ -33957,7 +34060,7 @@
     {
       "id": "5209858007",
       "title": "Software Engineer - Data Center",
-      "location": "Memphis, Tennessee; Southaven, Mississippi",
+      "location": " Southaven, MS; Memphis, Tennessee",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5209858007",
       "postedAt": "2026-08-11T21:31:01.000Z",
@@ -39371,7 +39474,7 @@
     {
       "id": "5205179007",
       "title": "Software Engineer - Search Infrastructure",
-      "location": "Palo Alto, California",
+      "location": " Palo Alto, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5205179007",
       "postedAt": "2026-08-06T01:04:10.000Z",
@@ -40035,7 +40138,7 @@
     {
       "id": "5204788007",
       "title": "Software Engineer - X Developer Platform",
-      "location": "Palo Alto, California",
+      "location": " Palo Alto, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5204788007",
       "postedAt": "2026-08-05T21:13:28.000Z",
@@ -40163,7 +40266,7 @@
     {
       "id": "5204819007",
       "title": "Human Data - Engineer",
-      "location": "Palo Alto, California",
+      "location": " Palo Alto, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5204819007",
       "postedAt": "2026-08-05T20:25:39.000Z",
@@ -41595,22 +41698,6 @@
       "url": "https://jobs.ashbyhq.com/suno/57060694-5b78-452f-a2e7-fe2b545272f5",
       "postedAt": "2026-08-04T19:00:54.701Z",
       "key": "suno:57060694-5b78-452f-a2e7-fe2b545272f5",
-      "company": "Suno",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-04T20:00:07.073Z"
-    },
-    {
-      "id": "c4cdb6ad-5cf1-42ce-b0f3-94b507f72ee2",
-      "title": "Lead Security Engineer",
-      "location": "Boston (+3 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/suno/c4cdb6ad-5cf1-42ce-b0f3-94b507f72ee2",
-      "postedAt": "2026-08-04T18:56:53.763Z",
-      "key": "suno:c4cdb6ad-5cf1-42ce-b0f3-94b507f72ee2",
       "company": "Suno",
       "level": "experienced",
       "term": null,
