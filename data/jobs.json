@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-09-03T00:00:28.625Z",
+  "generatedAt": "2026-09-03T00:10:20.718Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "lucidmotors:5221417007",
-    "reddit:8175520"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -13,7 +10,7 @@
   "levelCounts": {
     "intern": 38,
     "new-grad": 21,
-    "experienced": 2206
+    "experienced": 2205
   },
   "companies": [
     {
@@ -711,10 +708,10 @@
     },
     {
       "name": "Brex",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "BridgeBio",
@@ -2064,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2812,7 +2809,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5702,22 +5699,6 @@
     }
   ],
   "jobs": [
-    {
-      "id": "5221417007",
-      "title": "Senior Data Scientist",
-      "location": "Phoenix, AZ",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221417007",
-      "postedAt": "2026-09-02T23:56:54.000Z",
-      "key": "lucidmotors:5221417007",
-      "company": "Lucid Motors",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T00:00:28.625Z"
-    },
     {
       "id": "8175520",
       "title": "Senior Frontend Engineer, Ads Creative",
