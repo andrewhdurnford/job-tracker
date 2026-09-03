@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T21:00:32.942Z",
+  "generatedAt": "2026-09-03T21:10:23.138Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "cloudflare:8175620",
-    "toast:8154719"
+    "cohere:28239d75-5dd9-41fb-ba43-cb08b491be2b",
+    "snowflake:1bad12df-f443-426f-9d09-e96fc780d698"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,8 +12,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 41,
-    "new-grad": 21,
-    "experienced": 2193
+    "new-grad": 22,
+    "experienced": 2191
   },
   "companies": [
     {
@@ -1048,7 +1048,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -3589,7 +3589,7 @@
     {
       "name": "Palantir",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1bad12df-f443-426f-9d09-e96fc780d698",
+      "title": "AI Research Scientist, New Grad – Agents & Reinforcement Learning",
+      "location": "US-WA-Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/1bad12df-f443-426f-9d09-e96fc780d698",
+      "postedAt": "2026-09-03T21:07:05.402Z",
+      "key": "snowflake:1bad12df-f443-426f-9d09-e96fc780d698",
+      "company": "Snowflake",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T21:10:23.138Z"
+    },
+    {
+      "id": "28239d75-5dd9-41fb-ba43-cb08b491be2b",
+      "title": "Engineering Manager, GPU Infrastructure",
+      "location": "United States (+1 more)",
+      "team": "Training Infrastructure ",
+      "url": "https://jobs.ashbyhq.com/cohere/28239d75-5dd9-41fb-ba43-cb08b491be2b",
+      "postedAt": "2026-09-03T21:03:53.727Z",
+      "key": "cohere:28239d75-5dd9-41fb-ba43-cb08b491be2b",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-03T21:10:23.138Z"
+    },
     {
       "id": "8175620",
       "title": "Systems Engineer, Growth Engineering",
@@ -24628,22 +24661,6 @@
       "firstSeen": "2026-08-19T23:10:19.870Z"
     },
     {
-      "id": "1ed263be-f6d1-41fb-8cd7-fc99112c2ca1",
-      "title": "Senior Software Engineer - Observability",
-      "location": "US-WA-Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/1ed263be-f6d1-41fb-8cd7-fc99112c2ca1",
-      "postedAt": "2026-08-19T22:53:47.224Z",
-      "key": "snowflake:1ed263be-f6d1-41fb-8cd7-fc99112c2ca1",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T23:00:26.828Z"
-    },
-    {
       "id": "a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
       "title": "Data Science Intern (Winter 2027)",
       "location": "San Francisco, California",
@@ -37375,22 +37392,6 @@
       "firstSeen": "2026-09-01T17:30:29.190Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -37403,6 +37404,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -41635,38 +41652,6 @@
       "postedAt": "2026-08-04T21:26:06.000Z",
       "key": "pinterest:8095343",
       "company": "Pinterest",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T13:31:45.768Z"
-    },
-    {
-      "id": "721fe5ca-73b8-4223-826e-93a528194821",
-      "title": "Platform Engineer - Identity Infrastructure",
-      "location": "Palo Alto, CA",
-      "team": "Information Security",
-      "url": "https://jobs.lever.co/palantir/721fe5ca-73b8-4223-826e-93a528194821",
-      "postedAt": "2026-08-04T21:07:54.169Z",
-      "key": "palantir:721fe5ca-73b8-4223-826e-93a528194821",
-      "company": "Palantir",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T13:31:45.768Z"
-    },
-    {
-      "id": "a80afc2b-2564-4a98-84c2-34cdcc0402df",
-      "title": "Platform Engineer - Identity Infrastructure",
-      "location": "Washington, D.C.",
-      "team": "Information Security",
-      "url": "https://jobs.lever.co/palantir/a80afc2b-2564-4a98-84c2-34cdcc0402df",
-      "postedAt": "2026-08-04T21:07:28.301Z",
-      "key": "palantir:a80afc2b-2564-4a98-84c2-34cdcc0402df",
-      "company": "Palantir",
       "level": "experienced",
       "term": null,
       "regions": [
