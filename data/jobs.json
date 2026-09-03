@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-02T23:50:16.948Z",
+  "generatedAt": "2026-09-03T00:00:28.625Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "gitlab:8738225002"
+    "lucidmotors:5221417007",
+    "reddit:8175520"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -438,7 +439,7 @@
     {
       "name": "Astro Mechanica",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -710,10 +711,10 @@
     },
     {
       "name": "Brex",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "BridgeBio",
@@ -2063,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2811,7 +2812,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4106,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -4840,10 +4841,10 @@
     },
     {
       "name": "Sumo Logic",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sunday",
@@ -5065,7 +5066,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5221417007",
+      "title": "Senior Data Scientist",
+      "location": "Phoenix, AZ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221417007",
+      "postedAt": "2026-09-02T23:56:54.000Z",
+      "key": "lucidmotors:5221417007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T00:00:28.625Z"
+    },
+    {
+      "id": "8175520",
+      "title": "Senior Frontend Engineer, Ads Creative",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
+      "postedAt": "2026-09-02T23:54:07.000Z",
+      "key": "reddit:8175520",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T00:00:28.625Z"
+    },
     {
       "id": "8738225002",
       "title": "Senior Software Engineer (Ruby), Security Platform: Authorization",
@@ -24466,13 +24499,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -24482,13 +24515,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -34396,22 +34429,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -34424,6 +34441,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -36289,22 +36322,6 @@
       "firstSeen": "2026-09-01T17:30:29.190Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -36317,6 +36334,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -40848,22 +40881,6 @@
       "firstSeen": "2026-08-16T19:30:21.835Z"
     },
     {
-      "id": "5585b16b-32ef-4f7f-a97e-90581416e921",
-      "title": "Software Engineer, Data Infra",
-      "location": "San Francisco",
-      "team": "Core Engineering",
-      "url": "https://jobs.ashbyhq.com/thinkingmachines/5585b16b-32ef-4f7f-a97e-90581416e921",
-      "postedAt": "2026-08-04T18:21:55.912Z",
-      "key": "thinkingmachines:5585b16b-32ef-4f7f-a97e-90581416e921",
-      "company": "Thinking Machines Lab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
       "id": "14bef671-162c-4513-bfcf-e679e41e10a8",
       "title": "Infrastructure Engineer, Security",
       "location": "San Francisco",
@@ -41788,22 +41805,6 @@
         "us"
       ],
       "firstSeen": "2026-08-04T14:01:13.480Z"
-    },
-    {
-      "id": "699bd777-248a-44ef-8ae2-8bd1d1f7fecb",
-      "title": "GNC Engineer",
-      "location": "San Francisco",
-      "team": "Software",
-      "url": "https://jobs.ashbyhq.com/astro-mechanica/699bd777-248a-44ef-8ae2-8bd1d1f7fecb",
-      "postedAt": "2026-08-03T23:53:08.168Z",
-      "key": "astro-mechanica:699bd777-248a-44ef-8ae2-8bd1d1f7fecb",
-      "company": "Astro Mechanica",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "JR2015536",
