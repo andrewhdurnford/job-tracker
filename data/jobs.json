@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-03T19:30:22.955Z",
+  "generatedAt": "2026-09-03T19:40:16.583Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "cerebras:ddc0eea7-3d35-41b5-98de-8978b1c7cdcf",
-    "cerebras:af87f29d-7ae1-4306-b6b0-61b21971b456"
+    "Capital One:R999798",
+    "Visa:REF081503W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 40,
     "new-grad": 21,
-    "experienced": 2192
+    "experienced": 2193
   },
   "companies": [
     {
@@ -789,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 158,
+      "jobCount": 159,
       "error": null,
       "stale": false
     },
@@ -2064,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4695,7 +4695,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 129,
+      "jobCount": 128,
       "error": null,
       "stale": false
     },
@@ -5402,7 +5402,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R999798",
+      "title": "Director, Demand Generation- Capital One Software (Remote)",
+      "location": "2 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Director--Demand-Generation--Capital-One-Software--Remote-_R999798-1",
+      "postedAt": "2026-09-03T19:40:19.794Z",
+      "key": "Capital One:R999798",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-03T19:40:16.583Z"
+    },
     {
       "id": "ddc0eea7-3d35-41b5-98de-8978b1c7cdcf",
       "title": "AI Inference Core - Senior SW Engineer for Platform & DevOps",
@@ -11050,6 +11066,22 @@
         "us"
       ],
       "firstSeen": "2026-08-31T19:40:22.408Z"
+    },
+    {
+      "id": "REF081503W",
+      "title": "Software Engineer - Sr. Consultant level",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Software-Engineer---Sr-Consultant-level_REF081503W",
+      "postedAt": "2026-08-31T19:40:24.578Z",
+      "key": "Visa:REF081503W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T19:40:16.583Z"
     },
     {
       "id": "8166040",
@@ -25452,13 +25484,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -25468,13 +25500,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -27433,13 +27465,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -27449,13 +27481,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37258,22 +37290,6 @@
       "firstSeen": "2026-09-01T17:30:29.190Z"
     },
     {
-      "id": "8691459002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691459002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691384002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "San Francisco, CA",
@@ -37286,6 +37302,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691459002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691459002?gh_jid=8691459002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691459002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -41630,22 +41662,6 @@
       "postedAt": "2026-08-04T19:52:01.000Z",
       "key": "twilio:8026203",
       "company": "Twilio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-04T20:00:07.073Z"
-    },
-    {
-      "id": "8677846002",
-      "title": "GNC Engineer - Embedded Controls, AI Satellites (Starmind)",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8677846002?gh_jid=8677846002",
-      "postedAt": "2026-08-04T19:38:56.000Z",
-      "key": "spacex:8677846002",
-      "company": "SpaceX",
       "level": "experienced",
       "term": null,
       "regions": [
