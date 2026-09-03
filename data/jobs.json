@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T13:40:18.662Z",
+  "generatedAt": "2026-09-03T13:50:18.512Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 38,
     "new-grad": 21,
-    "experienced": 2190
+    "experienced": 2189
   },
   "companies": [
     {
@@ -786,7 +786,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 156,
+      "jobCount": 155,
       "error": null,
       "stale": false
     },
@@ -2159,7 +2159,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -8209,7 +8209,7 @@
     },
     {
       "id": "4706145006",
-      "title": "Senior Software Engineer",
+      "title": "Senior Full-Stack Engineer",
       "location": "New York City",
       "team": null,
       "url": "https://job-boards.greenhouse.io/gongio/jobs/4706145006",
@@ -10003,7 +10003,7 @@
     {
       "id": "8167853",
       "title": "Senior Software Engineer II, Trial Engine",
-      "location": "New York, NY; Boston, MA",
+      "location": "New York, NY; Boston, MA; San Francisco, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/formationbio/jobs/8167853",
       "postedAt": "2026-08-31T21:02:30.000Z",
@@ -10019,7 +10019,7 @@
     {
       "id": "8167964",
       "title": "Engineering Manager, Infrastructure",
-      "location": "New York, NY; Boston, MA",
+      "location": "New York, NY; Boston, MA; San Francisco, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/formationbio/jobs/8167964",
       "postedAt": "2026-08-31T21:02:16.000Z",
@@ -10035,7 +10035,7 @@
     {
       "id": "8167989",
       "title": "Associate Director, Data Engineering",
-      "location": "New York, NY; Boston, MA",
+      "location": "New York, NY; Boston, MA; San Francisco, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/formationbio/jobs/8167989",
       "postedAt": "2026-08-31T21:02:01.000Z",
@@ -24673,13 +24673,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -24689,13 +24689,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -36496,22 +36496,6 @@
       "firstSeen": "2026-09-01T17:30:29.190Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -36524,6 +36508,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
@@ -38946,23 +38946,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
-      "id": "R248546",
-      "title": "Lead Machine Learning Engineer (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Machine-Learning-Engineer--Python--AWS--SQL--GenAI---Enterprise-Platforms-Technology-_R248546-2",
-      "postedAt": "2026-08-06T00:30:23.314Z",
-      "key": "Capital One:R248546",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T21:37:01.263Z",
       "seeded": true
     },
     {
