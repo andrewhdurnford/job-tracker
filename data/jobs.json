@@ -1,23 +1,19 @@
 {
-  "generatedAt": "2026-09-03T15:20:24.591Z",
+  "generatedAt": "2026-09-03T15:30:22.017Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "cerebras:84a9df6b-fe96-4711-8106-971d829b6dc2",
-    "DocuSign:30251",
-    "duolingo:8756745002",
-    "duolingo:8764849002",
-    "oscar:8177145",
-    "oscar:8177159"
+    "DocuSign:30253",
+    "waymo:8174099"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 38,
+    "intern": 39,
     "new-grad": 21,
-    "experienced": 2197
+    "experienced": 2198
   },
   "companies": [
     {
@@ -1430,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5483,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8174099",
+      "title": "2027 Summer Intern, BS, SysEng Software Engineer",
+      "location": "Mountain View, California, USA ",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+      "postedAt": "2026-09-03T15:21:07.000Z",
+      "key": "waymo:8174099",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T15:30:22.017Z"
+    },
+    {
+      "id": "30253",
+      "title": "Software Engineer",
+      "location": "US-Seattle-3rd",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30253/login",
+      "postedAt": "2026-09-03T15:20:00.000Z",
+      "key": "DocuSign:30253",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T15:30:22.017Z"
+    },
     {
       "id": "8764849002",
       "title": "Senior Engineering Manager, AI Platform ",
