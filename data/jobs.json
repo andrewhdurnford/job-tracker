@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-09-03T23:10:16.777Z",
+  "generatedAt": "2026-09-03T23:20:17.451Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "lucidmotors:5221417007"
+    "instacart:8175782",
+    "instacart:8175843",
+    "instacart:8178502",
+    "instacart:8178568",
+    "lucidmotors:5221423007",
+    "lucidmotors:5221419007",
+    "nubank:cf8d3122-c4ee-45b1-a4e0-b033f80f6dc3"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +18,7 @@
   "levelCounts": {
     "intern": 41,
     "new-grad": 22,
-    "experienced": 2187
+    "experienced": 2193
   },
   "companies": [
     {
@@ -1054,7 +1060,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -2419,7 +2425,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -2811,7 +2817,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3399,7 +3405,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4699,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 128,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5707,118 @@
     }
   ],
   "jobs": [
+    {
+      "id": "cf8d3122-c4ee-45b1-a4e0-b033f80f6dc3",
+      "title": "Lead Data Center Engineer - Global Office IT Physical Infra",
+      "location": "Miami",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/cf8d3122-c4ee-45b1-a4e0-b033f80f6dc3",
+      "postedAt": "2026-09-03T23:15:57.282Z",
+      "key": "nubank:cf8d3122-c4ee-45b1-a4e0-b033f80f6dc3",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T23:20:17.451Z"
+    },
+    {
+      "id": "8178502",
+      "title": "Senior Software Engineer, Fulfillment",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8178502",
+      "postedAt": "2026-09-03T23:15:51.000Z",
+      "key": "instacart:8178502",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T23:20:17.451Z"
+    },
+    {
+      "id": "8175843",
+      "title": "Senior Software Engineer, Caper AI",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8175843",
+      "postedAt": "2026-09-03T23:15:42.000Z",
+      "key": "instacart:8175843",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T23:20:17.451Z"
+    },
+    {
+      "id": "8178568",
+      "title": "Senior Software Engineer, Growth",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8178568",
+      "postedAt": "2026-09-03T23:15:13.000Z",
+      "key": "instacart:8178568",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T23:20:17.451Z"
+    },
+    {
+      "id": "8175782",
+      "title": "Senior Mobile Engineer",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8175782",
+      "postedAt": "2026-09-03T23:14:53.000Z",
+      "key": "instacart:8175782",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T23:20:17.451Z"
+    },
+    {
+      "id": "5221419007",
+      "title": "Sr. Field Quality Engineer-Harnesses & Hoses",
+      "location": "Coolidge, AZ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221419007",
+      "postedAt": "2026-09-03T23:14:40.000Z",
+      "key": "lucidmotors:5221419007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T23:20:17.451Z"
+    },
+    {
+      "id": "5221423007",
+      "title": "Sr. Field Quality Engineer-External Components",
+      "location": "Coolidge, AZ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221423007",
+      "postedAt": "2026-09-03T23:12:42.000Z",
+      "key": "lucidmotors:5221423007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T23:20:17.451Z"
+    },
     {
       "id": "df5f6bde-9761-4c7c-9e89-24c07e86db65",
       "title": "Senior Data Engineer (Hardware Data Platform)",
@@ -24306,22 +24424,6 @@
       "term": null,
       "regions": [
         "remote"
-      ],
-      "firstSeen": "2026-08-20T16:30:29.563Z"
-    },
-    {
-      "id": "8105437",
-      "title": "Senior Software Engineer, Blockchain Platform Nodes",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437",
-      "postedAt": "2026-08-20T16:21:28.000Z",
-      "key": "coinbase:8105437",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-08-20T16:30:29.563Z"
     },
