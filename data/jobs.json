@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-03T16:20:20.330Z",
+  "generatedAt": "2026-09-03T16:30:23.117Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "shieldai:fea7a624-ed27-4d31-9c98-276b42372c54",
-    "shieldai:16c81903-99cd-490c-85d9-bee947b37c2c",
-    "shieldai:82c0fcad-9d7e-4eed-a1c8-b2ce99895f16",
-    "shieldai:b4bbd2da-14d5-4518-a22b-0c30fa82c200"
+    "boxinc:8168139",
+    "CrowdStrike:R28231",
+    "Nvidia:JR2019107",
+    "stripe:8177513"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +15,7 @@
   "levelCounts": {
     "intern": 39,
     "new-grad": 21,
-    "experienced": 2202
+    "experienced": 2206
   },
   "companies": [
     {
@@ -679,7 +679,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1246,7 +1246,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 74,
+      "jobCount": 75,
       "error": null,
       "stale": false
     },
@@ -3430,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 178,
+      "jobCount": 179,
       "error": null,
       "stale": false
     },
@@ -4802,7 +4802,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2019107",
+      "title": "Software Engineering Manager, Robotics Neural Reconstruction and Real2Sim Applications",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Manager--Robotics-Neural-Reconstruction-and-Real2Sim-Applications_JR2019107",
+      "postedAt": "2026-09-03T16:30:27.035Z",
+      "key": "Nvidia:JR2019107",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T16:30:23.117Z"
+    },
+    {
+      "id": "R28231",
+      "title": "Engineer III - FinOps Data Analytics (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-II---Data-Analytics--Hybrid-_R28231",
+      "postedAt": "2026-09-03T16:30:26.986Z",
+      "key": "CrowdStrike:R28231",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T16:30:23.117Z"
+    },
+    {
+      "id": "8177513",
+      "title": "Staff Software Engineer, Card Issuing and Payments",
+      "location": "NYC, SEA, San Francisco",
+      "team": "8514 Connect - Eng",
+      "url": "https://stripe.com/jobs/search?gh_jid=8177513",
+      "postedAt": "2026-09-03T16:26:06.000Z",
+      "key": "stripe:8177513",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T16:30:23.117Z"
+    },
     {
       "id": "b4bbd2da-14d5-4518-a22b-0c30fa82c200",
       "title": "Staff DevSecOps Engineer (R5824)",
@@ -10378,6 +10426,22 @@
         "us"
       ],
       "firstSeen": "2026-08-31T21:10:19.753Z"
+    },
+    {
+      "id": "8168139",
+      "title": "Software Engineer III, Developer Platform",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8168139",
+      "postedAt": "2026-08-31T21:09:59.000Z",
+      "key": "boxinc:8168139",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-03T16:30:23.117Z"
     },
     {
       "id": "8157298",
@@ -34966,22 +35030,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -34994,6 +35042,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -36859,22 +36923,6 @@
       "firstSeen": "2026-09-01T17:30:29.190Z"
     },
     {
-      "id": "8691384002",
-      "title": "Staff Engineer - Experimentation Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
-      "postedAt": "2026-08-07T17:26:17.000Z",
-      "key": "faire:8691384002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T17:30:29.239Z"
-    },
-    {
       "id": "8691459002",
       "title": "Staff Engineer - Experimentation Platform",
       "location": "Kitchener-Waterloo, ON; Toronto, ON",
@@ -36887,6 +36935,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-07T17:30:29.239Z"
+    },
+    {
+      "id": "8691384002",
+      "title": "Staff Engineer - Experimentation Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8691384002?gh_jid=8691384002",
+      "postedAt": "2026-08-07T17:26:17.000Z",
+      "key": "faire:8691384002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-07T17:30:29.239Z"
     },
