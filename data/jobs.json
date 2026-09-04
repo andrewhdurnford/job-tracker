@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-04T14:50:18.677Z",
+  "generatedAt": "2026-09-04T15:00:41.160Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R248139"
+    "Capital One:R243766",
+    "okta:8171262"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -200,7 +201,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 153,
+      "jobCount": 154,
       "error": null,
       "stale": false
     },
@@ -3469,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -3742,7 +3743,7 @@
     {
       "name": "Pinecone",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 132,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R243766",
+      "title": "Lead Software Engineer, Back End (Risk Tech - Intelligent Foundations & Experiences)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Back-End--Risk-Tech---Intelligent-Foundations---Experiences-_R243766-1",
+      "postedAt": "2026-09-04T15:00:44.766Z",
+      "key": "Capital One:R243766",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T15:00:41.160Z"
+    },
+    {
+      "id": "8171262",
+      "title": "Staff Identity Engineer",
+      "location": "Bellevue, Washington; Chicago, Illinois; Washington, DC",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8171262?gh_jid=8171262",
+      "postedAt": "2026-09-04T14:59:43.000Z",
+      "key": "okta:8171262",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T15:00:41.160Z"
+    },
     {
       "id": "8179766",
       "title": "Manager I, Engineering - Coordination Systems Storage",
@@ -26426,13 +26459,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -26442,13 +26475,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -41559,38 +41592,6 @@
       "url": "https://jobs.ashbyhq.com/pinecone/ad347d1a-93d7-4867-83bc-99b06d3b5f01",
       "postedAt": "2026-08-05T15:08:07.116Z",
       "key": "pinecone:ad347d1a-93d7-4867-83bc-99b06d3b5f01",
-      "company": "Pinecone",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T17:12:16.397Z"
-    },
-    {
-      "id": "6132138004",
-      "title": "Senior Software Engineer New Markets",
-      "location": "Remote - Americas",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6132138004",
-      "postedAt": "2026-08-05T14:58:05.000Z",
-      "key": "alpaca:6132138004",
-      "company": "Alpaca",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
-    },
-    {
-      "id": "7ef089cb-a721-4ad8-a6d0-c390e64991d2",
-      "title": "Senior/Staff Software Engineer, Search & Retrieval Infrastructure",
-      "location": "US Remote",
-      "team": "R&D",
-      "url": "https://jobs.ashbyhq.com/pinecone/7ef089cb-a721-4ad8-a6d0-c390e64991d2",
-      "postedAt": "2026-08-05T14:51:49.947Z",
-      "key": "pinecone:7ef089cb-a721-4ad8-a6d0-c390e64991d2",
       "company": "Pinecone",
       "level": "experienced",
       "term": null,
