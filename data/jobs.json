@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-04T21:50:16.758Z",
+  "generatedAt": "2026-09-04T22:00:25.276Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "commure:cddd4e0f-c590-48f1-9ab2-cfd82906da1c",
+    "coupang:8178825",
+    "Nvidia:JR2021039"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1087,7 +1091,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1199,7 +1203,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 179,
+      "jobCount": 180,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 52,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -4174,7 +4178,7 @@
     {
       "name": "Retell AI",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5476,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2021039",
+      "title": "Senior DevOps Engineer, Cloud Simulation Infrastructure",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-Engineer--Cloud-Simulation-Infrastructure_JR2021039",
+      "postedAt": "2026-09-04T22:00:29.478Z",
+      "key": "Nvidia:JR2021039",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T22:00:25.276Z"
+    },
+    {
+      "id": "8178825",
+      "title": "Senior Security Engineer (Attack Surface Identification)",
+      "location": "Seattle, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8178825",
+      "postedAt": "2026-09-04T21:59:34.000Z",
+      "key": "coupang:8178825",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T22:00:25.276Z"
+    },
+    {
+      "id": "cddd4e0f-c590-48f1-9ab2-cfd82906da1c",
+      "title": "Staff Software Engineer, Data Warehouse",
+      "location": "Mountain View, CA (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/commure/cddd4e0f-c590-48f1-9ab2-cfd82906da1c",
+      "postedAt": "2026-09-04T21:51:19.291Z",
+      "key": "commure:cddd4e0f-c590-48f1-9ab2-cfd82906da1c",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T22:00:25.276Z"
+    },
     {
       "id": "6164698004",
       "title": "Software Engineering Intern",
@@ -41637,54 +41689,6 @@
       "postedAt": "2026-08-05T22:07:18.000Z",
       "key": "spacex:8682197002",
       "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T22:38:31.254Z"
-    },
-    {
-      "id": "4c0a6cb6-d365-4e5b-bdff-c093d951026d",
-      "title": "Software Engineer, API Enterprise Controls",
-      "location": "San Francisco",
-      "team": "Core Product & Platform | API",
-      "url": "https://jobs.ashbyhq.com/openai/4c0a6cb6-d365-4e5b-bdff-c093d951026d",
-      "postedAt": "2026-08-05T21:59:31.333Z",
-      "key": "openai:4c0a6cb6-d365-4e5b-bdff-c093d951026d",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T22:38:31.254Z"
-    },
-    {
-      "id": "8106385",
-      "title": "Staff Systems Test Engineer, Scenario Quality and Maintenance Systems",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8106385",
-      "postedAt": "2026-08-05T21:57:20.000Z",
-      "key": "waymo:8106385",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T22:38:31.254Z"
-    },
-    {
-      "id": "7a614b87-2dd8-4723-ae79-7cdca82aac73",
-      "title": "Senior Forward Deployed Engineer (Mandarin Fluency Required)",
-      "location": "San Francisco Bay Area (+1 more)",
-      "team": "Applied AI",
-      "url": "https://jobs.ashbyhq.com/retell-ai/7a614b87-2dd8-4723-ae79-7cdca82aac73",
-      "postedAt": "2026-08-05T21:54:37.642Z",
-      "key": "retell-ai:7a614b87-2dd8-4723-ae79-7cdca82aac73",
-      "company": "Retell AI",
       "level": "experienced",
       "term": null,
       "regions": [
