@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-04T19:10:17.697Z",
+  "generatedAt": "2026-09-04T19:20:16.290Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "waymo:8140393",
-    "waymo:8157888"
+    "clickup:0cb4e985-a3fa-4b96-8441-3471bcdeb5af",
+    "clickup:98ee63f7-dfe2-4fc6-a187-4e39a06be2a0",
+    "lucidmotors:5221402007",
+    "samsara:7852183"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 42,
     "new-grad": 22,
-    "experienced": 2208
+    "experienced": 2210
   },
   "companies": [
     {
@@ -992,7 +994,7 @@
     {
       "name": "ClickUp",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2064,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2812,7 +2814,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4338,7 +4340,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4471,7 +4473,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5689,7 +5691,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,72 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5221402007",
+      "title": "Staff Field Quality Engineer - Powertrain",
+      "location": "Phoenix, AZ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5221402007",
+      "postedAt": "2026-09-04T19:19:14.000Z",
+      "key": "lucidmotors:5221402007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T19:20:16.290Z"
+    },
+    {
+      "id": "98ee63f7-dfe2-4fc6-a187-4e39a06be2a0",
+      "title": "Senior Frontend Engineer",
+      "location": "Canada (+1 more)",
+      "team": "32015 Front End Engineering",
+      "url": "https://jobs.ashbyhq.com/clickup/98ee63f7-dfe2-4fc6-a187-4e39a06be2a0",
+      "postedAt": "2026-09-04T19:16:46.389Z",
+      "key": "clickup:98ee63f7-dfe2-4fc6-a187-4e39a06be2a0",
+      "company": "ClickUp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada",
+        "remote"
+      ],
+      "firstSeen": "2026-09-04T19:20:16.290Z"
+    },
+    {
+      "id": "0cb4e985-a3fa-4b96-8441-3471bcdeb5af",
+      "title": "Senior Frontend Engineer",
+      "location": "United States (+1 more)",
+      "team": "32015 Front End Engineering",
+      "url": "https://jobs.ashbyhq.com/clickup/0cb4e985-a3fa-4b96-8441-3471bcdeb5af",
+      "postedAt": "2026-09-04T19:13:23.567Z",
+      "key": "clickup:0cb4e985-a3fa-4b96-8441-3471bcdeb5af",
+      "company": "ClickUp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-09-04T19:20:16.290Z"
+    },
+    {
+      "id": "7852183",
+      "title": "Staff Offensive Security Engineer",
+      "location": "Remote - Austin",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183",
+      "postedAt": "2026-09-04T19:10:42.000Z",
+      "key": "samsara:7852183",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T19:20:16.290Z"
+    },
     {
       "id": "8157888",
       "title": "Site Reliability Engineer, Lead ",
@@ -25347,22 +25415,6 @@
       "firstSeen": "2026-08-20T19:10:21.353Z"
     },
     {
-      "id": "4a9a4b36-2eb4-4994-8827-58db794f9018",
-      "title": "Senior Engineer, Full-Stack Software (R5751)",
-      "location": "Dallas, Texas",
-      "team": "X-BAT Engineering - Software",
-      "url": "https://jobs.lever.co/shieldai/4a9a4b36-2eb4-4994-8827-58db794f9018",
-      "postedAt": "2026-08-20T18:55:53.113Z",
-      "key": "shieldai:4a9a4b36-2eb4-4994-8827-58db794f9018",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T18:59:30.048Z"
-    },
-    {
       "id": "32eb8288-f53a-40f6-9c90-1a0063bcabca",
       "title": "Director Analytics Engineering",
       "location": "Remote (United States | Canada)",
@@ -41715,22 +41767,6 @@
       "postedAt": "2026-08-05T19:16:06.855Z",
       "key": "uipath:28ad3557-b34b-47e3-8424-b01a781bd726",
       "company": "UiPath",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
-    },
-    {
-      "id": "5043554007",
-      "title": "Senior Staff Rust Developer",
-      "location": "Bellevue, Washington, USA; San Jose, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5043554007",
-      "postedAt": "2026-08-05T19:15:46.000Z",
-      "key": "zscaler:5043554007",
-      "company": "Zscaler",
       "level": "experienced",
       "term": null,
       "regions": [
