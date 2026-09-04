@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T14:30:22.966Z",
+  "generatedAt": "2026-09-04T14:40:19.876Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "garnerhealth:6181736004"
+    "datadog:8179766"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 41,
     "new-grad": 23,
-    "experienced": 2199
+    "experienced": 2198
   },
   "companies": [
     {
@@ -200,7 +200,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -788,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 153,
+      "jobCount": 152,
       "error": null,
       "stale": false
     },
@@ -1299,7 +1299,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 132,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8179766",
+      "title": "Manager I, Engineering - Coordination Systems Storage",
+      "location": "New York, New York, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8179766/?gh_jid=8179766",
+      "postedAt": "2026-09-04T14:32:19.000Z",
+      "key": "datadog:8179766",
+      "company": "Datadog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T14:40:19.876Z"
+    },
     {
       "id": "6181736004",
       "title": "Software Engineer III",
@@ -18479,22 +18495,6 @@
         "us"
       ],
       "firstSeen": "2026-08-27T16:20:20.340Z"
-    },
-    {
-      "id": "R248139",
-      "title": "Senior Associate, Data Scientist - US Card (Applied GenAI)",
-      "location": "2 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---US-Card--Applied-GenAI-_R248139-1",
-      "postedAt": "2026-08-26T17:30:38.958Z",
-      "key": "Capital One:R248139",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T17:30:35.590Z"
     },
     {
       "id": "8155661",
@@ -41614,23 +41614,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T17:12:16.397Z"
-    },
-    {
-      "id": "6122806004",
-      "title": "Senior Fullstack Engineer - Operational Automations",
-      "location": "North America",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6122806004",
-      "postedAt": "2026-08-05T14:34:21.000Z",
-      "key": "alpaca:6122806004",
-      "company": "Alpaca",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
     },
     {
       "id": "JR2022907",
