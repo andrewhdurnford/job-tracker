@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-04T14:40:19.876Z",
+  "generatedAt": "2026-09-04T14:50:18.677Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "datadog:8179766"
+    "Capital One:R248139"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 41,
     "new-grad": 23,
-    "experienced": 2198
+    "experienced": 2197
   },
   "companies": [
     {
@@ -788,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 152,
+      "jobCount": 153,
       "error": null,
       "stale": false
     },
@@ -879,7 +879,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 132,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -18881,6 +18881,22 @@
       "firstSeen": "2026-08-26T15:51:32.360Z"
     },
     {
+      "id": "R248139",
+      "title": "Senior Associate, Data Scientist - US Card (Applied GenAI)",
+      "location": "2 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---US-Card--Applied-GenAI-_R248139-1",
+      "postedAt": "2026-08-26T14:50:31.511Z",
+      "key": "Capital One:R248139",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T14:50:18.677Z"
+    },
+    {
       "id": "R170212",
       "title": "Senior Applied Scientist / Engineer, Training & Inference",
       "location": "San Jose",
@@ -26410,13 +26426,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -26426,13 +26442,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -28407,13 +28423,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -28423,13 +28439,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -34272,38 +34288,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T14:20:17.906Z"
-    },
-    {
-      "id": "4698958006",
-      "title": "Principal Software Engineer (Libraries Platform) ",
-      "location": "Canada - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4698958006",
-      "postedAt": "2026-08-12T14:20:21.000Z",
-      "key": "chainguard:4698958006",
-      "company": "Chainguard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-12T14:23:39.106Z"
-    },
-    {
-      "id": "4698956006",
-      "title": "Principal Software Engineer (Libraries Platform) ",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4698956006",
-      "postedAt": "2026-08-12T14:20:20.000Z",
-      "key": "chainguard:4698956006",
-      "company": "Chainguard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T14:23:39.106Z"
     },
     {
       "id": "0e4b08e7-ce05-42e6-950a-854d18946ca7",
