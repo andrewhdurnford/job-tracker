@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-04T20:20:16.959Z",
+  "generatedAt": "2026-09-04T20:30:20.447Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "waymo:8177515",
-    "zip:df6eb1ee-b360-46fe-b23f-658626ec59ea"
+    "block:5406194008",
+    "juicebox:1af7ec98-9c2e-4101-868e-58e6f35cd23a"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 42,
+    "intern": 43,
     "new-grad": 23,
-    "experienced": 2212
+    "experienced": 2210
   },
   "companies": [
     {
@@ -614,7 +614,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1489,7 +1489,7 @@
     {
       "name": "Duolingo",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -2504,7 +2504,7 @@
     {
       "name": "Juicebox",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2876,7 +2876,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4366,7 +4366,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5584,7 +5584,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+      "title": "Software Engineer Intern",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+      "postedAt": "2026-09-04T20:28:37.144Z",
+      "key": "juicebox:1af7ec98-9c2e-4101-868e-58e6f35cd23a",
+      "company": "Juicebox",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T20:30:20.447Z"
+    },
+    {
+      "id": "5406194008",
+      "title": "Software Engineer, Justice Engineering",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5406194008?gh_jid=5406194008",
+      "postedAt": "2026-09-04T20:24:12.000Z",
+      "key": "block:5406194008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T20:30:20.447Z"
+    },
     {
       "id": "8177515",
       "title": "Data Scientist",
@@ -9208,22 +9240,6 @@
         "us"
       ],
       "firstSeen": "2026-09-02T19:20:18.995Z"
-    },
-    {
-      "id": "8778700002",
-      "title": "Platform Engineer II",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://careers.duolingo.com/jobs/8778700002?gh_jid=8778700002",
-      "postedAt": "2026-09-02T19:02:08.000Z",
-      "key": "duolingo:8778700002",
-      "company": "Duolingo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T19:10:22.245Z"
     },
     {
       "id": "5227954007",
@@ -41774,38 +41790,6 @@
         "us"
       ],
       "firstSeen": "2026-08-06T20:26:28.594Z"
-    },
-    {
-      "id": "5204819007",
-      "title": "Human Data - Engineer",
-      "location": " Palo Alto, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5204819007",
-      "postedAt": "2026-08-05T20:25:39.000Z",
-      "key": "xai:5204819007",
-      "company": "xAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T21:37:01.263Z"
-    },
-    {
-      "id": "127af12f-be14-45d6-9085-fd4b7b347134",
-      "title": "Security Engineer, Application Security",
-      "location": "Austin, TX (+1 more)",
-      "team": "Cybersecurity",
-      "url": "https://jobs.ashbyhq.com/saronic/127af12f-be14-45d6-9085-fd4b7b347134",
-      "postedAt": "2026-08-05T20:24:15.582Z",
-      "key": "saronic:127af12f-be14-45d6-9085-fd4b7b347134",
-      "company": "Saronic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T21:37:01.263Z"
     },
     {
       "id": "28ad3557-b34b-47e3-8424-b01a781bd726",
