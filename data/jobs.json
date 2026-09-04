@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-09-04T23:00:24.133Z",
+  "generatedAt": "2026-09-04T23:10:17.058Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "marianaminerals:f574c668-30d8-40e1-8458-bc8ff87a3ec1",
-    "writer:52b3bf22-7f09-4b9d-9d62-ab9f218a4c66"
+    "decagon:f84db19b-8de3-49d6-a954-c9ee2e365956",
+    "decagon:aa6c2bf9-cba1-47f7-b268-bcbba41080c0",
+    "marianaminerals:dcc52a32-d608-44c7-a40d-c8af3d44c810"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 44,
     "new-grad": 23,
-    "experienced": 2204
+    "experienced": 2207
   },
   "companies": [
     {
@@ -1349,7 +1350,7 @@
     {
       "name": "Decagon",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2889,7 +2890,7 @@
     {
       "name": "Mariana Minerals",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5703,9 +5704,57 @@
   ],
   "jobs": [
     {
+      "id": "f84db19b-8de3-49d6-a954-c9ee2e365956",
+      "title": "Research Engineer, Safety",
+      "location": "San Francisco (+1 more)",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/decagon/f84db19b-8de3-49d6-a954-c9ee2e365956",
+      "postedAt": "2026-09-04T23:07:48.889Z",
+      "key": "decagon:f84db19b-8de3-49d6-a954-c9ee2e365956",
+      "company": "Decagon",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T23:10:17.058Z"
+    },
+    {
+      "id": "aa6c2bf9-cba1-47f7-b268-bcbba41080c0",
+      "title": "Senior Research Engineer, Safety",
+      "location": "San Francisco (+1 more)",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/decagon/aa6c2bf9-cba1-47f7-b268-bcbba41080c0",
+      "postedAt": "2026-09-04T23:05:59.292Z",
+      "key": "decagon:aa6c2bf9-cba1-47f7-b268-bcbba41080c0",
+      "company": "Decagon",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T23:10:17.058Z"
+    },
+    {
+      "id": "dcc52a32-d608-44c7-a40d-c8af3d44c810",
+      "title": "Staff Process Controls Engineer - Networking and Systems Administration",
+      "location": "San Francisco HQ (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/marianaminerals/dcc52a32-d608-44c7-a40d-c8af3d44c810",
+      "postedAt": "2026-09-04T23:00:16.373Z",
+      "key": "marianaminerals:dcc52a32-d608-44c7-a40d-c8af3d44c810",
+      "company": "Mariana Minerals",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T23:10:17.058Z"
+    },
+    {
       "id": "f574c668-30d8-40e1-8458-bc8ff87a3ec1",
       "title": "Staff Process Controls Engineer - Pilot Plant ",
-      "location": "San Francisco HQ (+1 more)",
+      "location": "San Francisco HQ",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/marianaminerals/f574c668-30d8-40e1-8458-bc8ff87a3ec1",
       "postedAt": "2026-09-04T22:52:26.921Z",
@@ -37282,22 +37331,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -37310,6 +37343,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
