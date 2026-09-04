@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-09-04T22:40:17.301Z",
+  "generatedAt": "2026-09-04T22:50:20.697Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 6,
+  "newKeys": [
+    "cloudflare:8158016",
+    "gridware:8ab11519-d906-4917-99fd-5d7210f1593a",
+    "marianaminerals:50d676d2-0ca3-4c3c-9f92-94c53a71e774",
+    "Nvidia:JR2021947",
+    "writer:97d2b656-e084-4910-85a9-ca8d55cd302c",
+    "writer:b07febfa-8c2e-479d-84a3-58cd7ccc1bc6"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +17,7 @@
   "levelCounts": {
     "intern": 44,
     "new-grad": 23,
-    "experienced": 2197
+    "experienced": 2203
   },
   "companies": [
     {
@@ -1010,7 +1017,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -2088,7 +2095,7 @@
     {
       "name": "Gridware",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2873,7 +2880,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2886,7 +2893,7 @@
     {
       "name": "Mariana Minerals",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3432,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 179,
+      "jobCount": 180,
       "error": null,
       "stale": false
     },
@@ -5574,7 +5581,7 @@
     {
       "name": "Writer",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5706,102 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2021947",
+      "title": "Data Center System Architect",
+      "location": "US, OR, Hillsboro",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Data-Center-System-Architect_JR2021947",
+      "postedAt": "2026-09-04T22:51:16.575Z",
+      "key": "Nvidia:JR2021947",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T22:50:20.697Z"
+    },
+    {
+      "id": "b07febfa-8c2e-479d-84a3-58cd7ccc1bc6",
+      "title": "Security engineer, application security",
+      "location": "New York City, NY (+2 more)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/writer/b07febfa-8c2e-479d-84a3-58cd7ccc1bc6",
+      "postedAt": "2026-09-04T22:48:13.804Z",
+      "key": "writer:b07febfa-8c2e-479d-84a3-58cd7ccc1bc6",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T22:50:20.697Z"
+    },
+    {
+      "id": "8158016",
+      "title": "Systems Engineer - Database Platform",
+      "location": "Austin, TX (+2 more)",
+      "team": "Infrastructure",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016",
+      "postedAt": "2026-09-04T22:47:51.000Z",
+      "key": "cloudflare:8158016",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T22:50:20.697Z"
+    },
+    {
+      "id": "8ab11519-d906-4917-99fd-5d7210f1593a",
+      "title": "Research Engineer, Electrical Sensing",
+      "location": "San Francisco, CA",
+      "team": "R&D",
+      "url": "https://jobs.lever.co/gridware/8ab11519-d906-4917-99fd-5d7210f1593a",
+      "postedAt": "2026-09-04T22:45:36.043Z",
+      "key": "gridware:8ab11519-d906-4917-99fd-5d7210f1593a",
+      "company": "Gridware",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T22:50:20.697Z"
+    },
+    {
+      "id": "97d2b656-e084-4910-85a9-ca8d55cd302c",
+      "title": "Infrastructure engineer",
+      "location": "New York City, NY (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/writer/97d2b656-e084-4910-85a9-ca8d55cd302c",
+      "postedAt": "2026-09-04T22:44:51.164Z",
+      "key": "writer:97d2b656-e084-4910-85a9-ca8d55cd302c",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T22:50:20.697Z"
+    },
+    {
+      "id": "50d676d2-0ca3-4c3c-9f92-94c53a71e774",
+      "title": "Staff Instrumentation and Controls Engineer",
+      "location": "Houston, TX (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/marianaminerals/50d676d2-0ca3-4c3c-9f92-94c53a71e774",
+      "postedAt": "2026-09-04T22:44:38.052Z",
+      "key": "marianaminerals:50d676d2-0ca3-4c3c-9f92-94c53a71e774",
+      "company": "Mariana Minerals",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T22:50:20.697Z"
+    },
     {
       "id": "8179210",
       "title": "Senior Staff Software Engineer, Institutional Exchange",
@@ -37151,22 +37254,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -37179,6 +37266,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
