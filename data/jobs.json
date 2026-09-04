@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-04T18:30:24.844Z",
+  "generatedAt": "2026-09-04T18:40:18.026Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "clickup:9fcbf37a-9860-4013-b98c-4c2b62cd5cbf",
-    "shieldai:4a63c673-bd68-4839-ba4b-b394bc6741e2",
-    "snowflake:351f89c9-7502-4c5c-b600-b3a1192c45eb"
+    "benchling:263fd507-eb03-4cfa-8297-ce276b729b52",
+    "clickup:920cfccb-7979-4aac-b15c-90270b151693",
+    "natera:6115665004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 42,
     "new-grad": 22,
-    "experienced": 2200
+    "experienced": 2202
   },
   "companies": [
     {
@@ -552,7 +552,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -993,7 +993,7 @@
     {
       "name": "ClickUp",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3247,7 +3247,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4108,7 +4108,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5290,10 +5290,10 @@
     },
     {
       "name": "UpDoc",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Uplane",
@@ -5703,6 +5703,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "263fd507-eb03-4cfa-8297-ce276b729b52",
+      "title": "Software Engineer, Agents",
+      "location": "San Francisco, CA",
+      "team": "Engineering: AI Agents",
+      "url": "https://jobs.ashbyhq.com/benchling/263fd507-eb03-4cfa-8297-ce276b729b52",
+      "postedAt": "2026-09-04T18:37:48.367Z",
+      "key": "benchling:263fd507-eb03-4cfa-8297-ce276b729b52",
+      "company": "Benchling",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T18:40:18.026Z"
+    },
+    {
+      "id": "920cfccb-7979-4aac-b15c-90270b151693",
+      "title": "Principal Frontend Engineer",
+      "location": "Canada (+1 more)",
+      "team": "32015 Front End Engineering",
+      "url": "https://jobs.ashbyhq.com/clickup/920cfccb-7979-4aac-b15c-90270b151693",
+      "postedAt": "2026-09-04T18:35:29.427Z",
+      "key": "clickup:920cfccb-7979-4aac-b15c-90270b151693",
+      "company": "ClickUp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada",
+        "remote"
+      ],
+      "firstSeen": "2026-09-04T18:40:18.026Z"
+    },
     {
       "id": "351f89c9-7502-4c5c-b600-b3a1192c45eb",
       "title": "Principal Software Engineer - Performance Engineering (Cloud Infrastructure)",
@@ -26703,6 +26736,22 @@
       "firstSeen": "2026-08-19T17:30:22.833Z"
     },
     {
+      "id": "6115665004",
+      "title": "Senior Software Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6115665004",
+      "postedAt": "2026-08-19T17:03:50.000Z",
+      "key": "natera:6115665004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T18:40:18.026Z"
+    },
+    {
       "id": "8127033",
       "title": "Senior Software Engineer, Privacy Infrastructure",
       "location": "San Mateo, CA, United States",
@@ -37925,22 +37974,6 @@
         "us"
       ],
       "firstSeen": "2026-08-07T23:30:27.982Z"
-    },
-    {
-      "id": "8115838",
-      "title": "Staff Machine Learning Engineer, Shopping Ads",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8115838",
-      "postedAt": "2026-08-07T23:10:34.000Z",
-      "key": "reddit:8115838",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-07T23:20:17.655Z"
     },
     {
       "id": "5383335008",
