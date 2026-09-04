@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-09-04T23:40:16.629Z",
+  "generatedAt": "2026-09-04T23:50:19.518Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "netskope:8181005",
+    "openai:a14780e7-0316-478c-8e6a-d7629c31c49d",
+    "shieldai:1803c365-1f43-4445-b5e0-376f0b221ec6",
+    "spacex:8784792002",
+    "tanium:8180082"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +16,7 @@
   "levelCounts": {
     "intern": 43,
     "new-grad": 23,
-    "experienced": 2212
+    "experienced": 2217
   },
   "companies": [
     {
@@ -3292,7 +3298,7 @@
     {
       "name": "Netskope",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3515,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -4468,7 +4474,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -4692,7 +4698,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 127,
+      "jobCount": 128,
       "error": null,
       "stale": false
     },
@@ -4972,7 +4978,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8181005",
+      "title": "Director, Engineering, AI SecOps",
+      "location": "Santa Clara, California, United States",
+      "team": null,
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8181005",
+      "postedAt": "2026-09-04T23:50:02.000Z",
+      "key": "netskope:8181005",
+      "company": "Netskope",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T23:50:19.518Z"
+    },
+    {
+      "id": "1803c365-1f43-4445-b5e0-376f0b221ec6",
+      "title": "Staff Engineer, Safety-Critical Software (R5826)",
+      "location": "San Diego, California",
+      "team": "Foundations",
+      "url": "https://jobs.lever.co/shieldai/1803c365-1f43-4445-b5e0-376f0b221ec6",
+      "postedAt": "2026-09-04T23:49:48.050Z",
+      "key": "shieldai:1803c365-1f43-4445-b5e0-376f0b221ec6",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T23:50:19.518Z"
+    },
+    {
+      "id": "8784792002",
+      "title": "IT Security Engineer - Top Secret Clearance",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8784792002?gh_jid=8784792002",
+      "postedAt": "2026-09-04T23:47:01.000Z",
+      "key": "spacex:8784792002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T23:50:19.518Z"
+    },
+    {
+      "id": "8180082",
+      "title": "Corporate AI Engineer",
+      "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8180082",
+      "postedAt": "2026-09-04T23:43:03.000Z",
+      "key": "tanium:8180082",
+      "company": "Tanium",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T23:50:19.518Z"
+    },
+    {
+      "id": "a14780e7-0316-478c-8e6a-d7629c31c49d",
+      "title": "Software Engineer, HSM Infrastructure Security, Consumer Devices",
+      "location": "San Francisco",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/openai/a14780e7-0316-478c-8e6a-d7629c31c49d",
+      "postedAt": "2026-09-04T23:40:07.105Z",
+      "key": "openai:a14780e7-0316-478c-8e6a-d7629c31c49d",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T23:50:19.518Z"
+    },
     {
       "id": "JR2021039",
       "title": "Senior DevOps Engineer, Cloud Simulation Infrastructure",
