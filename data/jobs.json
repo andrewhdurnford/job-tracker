@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-09-04T18:50:17.977Z",
+  "generatedAt": "2026-09-04T19:00:26.973Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Adobe:R171629",
-    "metriport:855fdc5a-e08a-4496-947c-79b9ec804af7"
+    "clickup:b6c0a31b-83b6-43f6-8e50-0d91dda7c767",
+    "clickup:58584445-a50e-4489-bcda-d547bdbde52c",
+    "epicgames:6181221004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 42,
     "new-grad": 22,
-    "experienced": 2204
+    "experienced": 2206
   },
   "companies": [
     {
@@ -992,7 +993,7 @@
     {
       "name": "ClickUp",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1615,7 +1616,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1916,7 +1917,7 @@
     {
       "name": "Garner Health",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 132,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,56 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6181221004",
+      "title": "Senior Gameplay Programmer",
+      "location": "Cary,North Carolina,United States",
+      "team": "Engineering Specialist",
+      "url": "https://epicgames.com/careers/jobs/6181221004?gh_jid=6181221004",
+      "postedAt": "2026-09-04T18:55:51.000Z",
+      "key": "epicgames:6181221004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-04T19:00:26.973Z"
+    },
+    {
+      "id": "58584445-a50e-4489-bcda-d547bdbde52c",
+      "title": "Staff Frontend Engineer",
+      "location": "Canada (+1 more)",
+      "team": "32015 Front End Engineering",
+      "url": "https://jobs.ashbyhq.com/clickup/58584445-a50e-4489-bcda-d547bdbde52c",
+      "postedAt": "2026-09-04T18:55:19.834Z",
+      "key": "clickup:58584445-a50e-4489-bcda-d547bdbde52c",
+      "company": "ClickUp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada",
+        "remote"
+      ],
+      "firstSeen": "2026-09-04T19:00:26.973Z"
+    },
+    {
+      "id": "b6c0a31b-83b6-43f6-8e50-0d91dda7c767",
+      "title": "Staff Frontend Engineer",
+      "location": "United States (+1 more)",
+      "team": "32015 Front End Engineering",
+      "url": "https://jobs.ashbyhq.com/clickup/b6c0a31b-83b6-43f6-8e50-0d91dda7c767",
+      "postedAt": "2026-09-04T18:50:50.377Z",
+      "key": "clickup:b6c0a31b-83b6-43f6-8e50-0d91dda7c767",
+      "company": "ClickUp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-09-04T19:00:26.973Z"
+    },
     {
       "id": "R171629",
       "title": "Senior Product Security Engineer",
@@ -26185,22 +26236,6 @@
       "firstSeen": "2026-08-19T20:50:18.613Z"
     },
     {
-      "id": "6147544004",
-      "title": "Staff Site Reliability Engineer",
-      "location": "Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6147544004",
-      "postedAt": "2026-08-19T20:45:27.000Z",
-      "key": "garnerhealth:6147544004",
-      "company": "Garner Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-19T20:45:53.017Z"
-    },
-    {
       "id": "c1261830-47f0-430f-8593-6f9c1203f5e5",
       "title": "Senior Fullstack Engineer, Ambient AI",
       "location": "Mountain View, CA (+1 more)",
@@ -28972,13 +29007,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -28988,13 +29023,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
