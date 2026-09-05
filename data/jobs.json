@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T18:10:16.988Z",
+  "generatedAt": "2026-09-05T18:20:17.338Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -1037,10 +1037,10 @@
     },
     {
       "name": "Cognition",
-      "ok": true,
+      "ok": false,
       "jobCount": 7,
-      "error": null,
-      "stale": false
+      "error": "board returned 0 jobs (streak 1/3) — keeping last snapshot",
+      "stale": true
     },
     {
       "name": "Cohere",
