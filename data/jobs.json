@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T07:30:24.302Z",
+  "generatedAt": "2026-09-05T07:40:17.081Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 43,
+    "intern": 42,
     "new-grad": 23,
-    "experienced": 2206
+    "experienced": 2198
   },
   "companies": [
     {
@@ -64,10 +64,10 @@
     },
     {
       "name": "Adobe",
-      "ok": false,
-      "jobCount": 40,
-      "error": "response was not valid JSON",
-      "stale": true
+      "ok": true,
+      "jobCount": 39,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Adyen",
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -1240,10 +1240,10 @@
     },
     {
       "name": "CrowdStrike",
-      "ok": false,
+      "ok": true,
       "jobCount": 72,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "CTGT",
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3424,10 +3424,10 @@
     },
     {
       "name": "Nvidia",
-      "ok": false,
-      "jobCount": 181,
-      "error": "response was not valid JSON",
-      "stale": true
+      "ok": true,
+      "jobCount": 173,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Oasis Security",
@@ -4131,10 +4131,10 @@
     },
     {
       "name": "Remitly",
-      "ok": false,
+      "ok": true,
       "jobCount": 46,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Remora",
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -4726,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -5034,10 +5034,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -5398,10 +5398,10 @@
     },
     {
       "name": "Visa",
-      "ok": false,
+      "ok": true,
       "jobCount": 24,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Vitalize",
@@ -5636,10 +5636,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zerocater",
@@ -37647,22 +37647,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -37675,6 +37659,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -41572,95 +41572,6 @@
       "firstSeen": "2026-08-24T08:00:27.735Z"
     },
     {
-      "id": "JR2005596",
-      "title": "Senior Research Scientist - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist---Autonomous-Vehicles_JR2005596",
-      "postedAt": "2026-08-06T06:50:48.640Z",
-      "key": "Nvidia:JR2005596",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T06:50:20.794Z"
-    },
-    {
-      "id": "JR2005597",
-      "title": "Senior Research Engineer - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Engineer---Autonomous-Vehicles_JR2005597",
-      "postedAt": "2026-08-06T06:30:49.426Z",
-      "key": "Nvidia:JR2005597",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T06:30:22.980Z"
-    },
-    {
-      "id": "JR2019406",
-      "title": "Senior Reliability Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Reliability-Engineer_JR2019406",
-      "postedAt": "2026-08-06T00:30:25.753Z",
-      "key": "Nvidia:JR2019406",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
-      "id": "JR2022295",
-      "title": "Software Engineering Intern, Dynamo - Fall 2026",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
-      "postedAt": "2026-08-06T00:30:25.753Z",
-      "key": "Nvidia:JR2022295",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "Fall 2026",
-        "seasons": [
-          "fall"
-        ],
-        "year": 2026
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
-      "id": "JR2022535",
-      "title": "Principal Linux Kernel Engineer – NVIDIA CPU Server Platforms",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Linux-Kernel-Engineer---NVIDIA-CPU-Server-Platforms_JR2022535",
-      "postedAt": "2026-08-06T00:30:24.190Z",
-      "key": "Nvidia:JR2022535",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T22:38:31.254Z",
-      "seeded": true
-    },
-    {
       "id": "JR2010334",
       "title": "Senior Software Development Engineer, Neural Graph Infrastructure",
       "location": "US, CA, Santa Clara",
@@ -41693,22 +41604,6 @@
       ],
       "firstSeen": "2026-08-05T19:33:31.081Z",
       "seeded": true
-    },
-    {
-      "id": "R170728",
-      "title": "Sr DevOps Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Sr-DevOps-Engineer_R170728",
-      "postedAt": "2026-08-05T20:26:37.505Z",
-      "key": "Adobe:R170728",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-06T20:26:28.594Z"
     },
     {
       "id": "28ad3557-b34b-47e3-8424-b01a781bd726",
@@ -41759,54 +41654,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-05T18:46:57.719Z"
-    },
-    {
-      "id": "JR2022907",
-      "title": "Principal Engineer, Cloud Site Reliability Engineering",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer--Cloud-Site-Reliability-Engineering_JR2022907-1",
-      "postedAt": "2026-08-05T08:50:45.128Z",
-      "key": "Nvidia:JR2022907",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T08:50:18.146Z"
-    },
-    {
-      "id": "JR1999298",
-      "title": "Senior AI Workflow Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Workflow-Engineer_JR1999298",
-      "postedAt": "2026-08-05T08:50:45.128Z",
-      "key": "Nvidia:JR1999298",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T08:50:18.146Z"
-    },
-    {
-      "id": "JR2022745",
-      "title": "Tech Lead Ethernet Networking Verification Engineer",
-      "location": "US, TX, Austin",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/Tech-Lead-Ethernet-Networking-Verification-Engineer_JR2022745",
-      "postedAt": "2026-08-05T08:50:45.128Z",
-      "key": "Nvidia:JR2022745",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T08:50:18.146Z"
     },
     {
       "id": "JR1998405",
