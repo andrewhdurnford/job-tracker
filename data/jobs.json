@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:20:19.491Z",
+  "generatedAt": "2026-09-06T09:30:20.984Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -983,7 +983,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4838,10 +4838,10 @@
     },
     {
       "name": "Sumo Logic",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sunday",
