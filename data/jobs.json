@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-09-08T19:20:21.967Z",
+  "generatedAt": "2026-09-08T19:30:24.542Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "discord:8769799002",
-    "newrelic:5390637008",
-    "peloton:8154261"
+    "Capital One:R249010",
+    "h1:fb675dc5-5d08-481d-88a4-61376a9004cb"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 48,
+    "intern": 49,
     "new-grad": 20,
-    "experienced": 2067
+    "experienced": 2068
   },
   "companies": [
     {
@@ -691,10 +690,10 @@
     },
     {
       "name": "Braze",
-      "ok": true,
+      "ok": false,
       "jobCount": 20,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Breeze.cash",
@@ -790,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 140,
+      "jobCount": 141,
       "error": null,
       "stale": false
     },
@@ -1671,10 +1670,10 @@
     },
     {
       "name": "Faire",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "FamPay",
@@ -2113,7 +2112,7 @@
     {
       "name": "H1",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,28 @@
   ],
   "jobs": [
     {
+      "id": "R249010",
+      "title": "Intern, Full Stack Software Engineer - Team Sprout - Winter 2027",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010",
+      "postedAt": "2026-09-08T19:30:27.919Z",
+      "key": "Capital One:R249010",
+      "company": "Capital One",
+      "level": "intern",
+      "term": {
+        "label": "Winter 2027",
+        "seasons": [
+          "winter"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-08T19:30:24.542Z"
+    },
+    {
       "id": "8769799002",
       "title": "Senior Platform Security Engineer ",
       "location": "San Francisco Bay Area ",
@@ -6503,6 +6524,22 @@
         "us"
       ],
       "firstSeen": "2026-09-08T14:10:17.781Z"
+    },
+    {
+      "id": "fb675dc5-5d08-481d-88a4-61376a9004cb",
+      "title": "Director, Software Engineering",
+      "location": "New York",
+      "team": "Product Engineering",
+      "url": "https://jobs.lever.co/h1/fb675dc5-5d08-481d-88a4-61376a9004cb",
+      "postedAt": "2026-09-08T13:59:47.423Z",
+      "key": "h1:fb675dc5-5d08-481d-88a4-61376a9004cb",
+      "company": "H1",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T19:30:24.542Z"
     },
     {
       "id": "39c1aea3-d6df-4661-872d-082ba11df5fc",
@@ -38386,22 +38423,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -38414,6 +38435,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
