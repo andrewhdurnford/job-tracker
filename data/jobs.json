@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-08T21:50:16.783Z",
+  "generatedAt": "2026-09-08T22:00:26.557Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R999806",
-    "waymo:8180692"
+    "DocuSign:30240",
+    "elevenlabs:6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+    "ramp:9916e9da-7491-4c99-afd1-e4b8158fa58b",
+    "snorkelai:6185944004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 49,
     "new-grad": 21,
-    "experienced": 2082
+    "experienced": 2086
   },
   "companies": [
     {
@@ -53,10 +55,10 @@
     },
     {
       "name": "ACLU",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Adaptive Security",
@@ -1426,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1538,7 +1540,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2897,7 +2899,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4037,7 +4039,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4632,7 +4634,7 @@
     {
       "name": "Snorkel AI",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4771,10 +4773,10 @@
     },
     {
       "name": "Starcloud",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "STARK BANK",
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+      "title": "Forward Deployed Engineer - Software Engineer - North America",
+      "location": "San Francisco (+2 more)",
+      "team": "Enterprise - Deployment",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+      "postedAt": "2026-09-08T21:58:04.004Z",
+      "key": "elevenlabs:6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T22:00:26.557Z"
+    },
+    {
+      "id": "9916e9da-7491-4c99-afd1-e4b8158fa58b",
+      "title": "Software Engineer, Forward Deployed",
+      "location": "San Francisco, CA (+1 more)",
+      "team": "Forward Deployed",
+      "url": "https://jobs.ashbyhq.com/ramp/9916e9da-7491-4c99-afd1-e4b8158fa58b",
+      "postedAt": "2026-09-08T21:55:39.097Z",
+      "key": "ramp:9916e9da-7491-4c99-afd1-e4b8158fa58b",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T22:00:26.557Z"
+    },
+    {
+      "id": "6185944004",
+      "title": "Senior / Staff AI Engineer",
+      "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6185944004",
+      "postedAt": "2026-09-08T21:55:14.000Z",
+      "key": "snorkelai:6185944004",
+      "company": "Snorkel AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T22:00:26.557Z"
+    },
+    {
+      "id": "30240",
+      "title": "Software Engineer",
+      "location": "US-Seattle-3rd",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30240/login",
+      "postedAt": "2026-09-08T21:53:00.000Z",
+      "key": "DocuSign:30240",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T22:00:26.557Z"
+    },
     {
       "id": "R999806",
       "title": "Lead Software Engineer, Full Stack",
@@ -16984,7 +17050,7 @@
     },
     {
       "id": "2e75cbe8-bebb-4762-a65e-47518624201a",
-      "title": "Software Engineer II",
+      "title": "Software Engineer",
       "location": "San Francisco",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/arini/2e75cbe8-bebb-4762-a65e-47518624201a",
@@ -17000,7 +17066,7 @@
     },
     {
       "id": "b6c08d01-aace-485d-a334-adac80673175",
-      "title": "Software Engineer",
+      "title": "Software Engineer II",
       "location": "San Francisco",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/arini/b6c08d01-aace-485d-a334-adac80673175",
