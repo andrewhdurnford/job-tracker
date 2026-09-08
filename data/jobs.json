@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:10:19.126Z",
+  "generatedAt": "2026-09-08T12:20:16.423Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 42,
     "new-grad": 20,
-    "experienced": 2043
+    "experienced": 2042
   },
   "companies": [
     {
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -1241,7 +1241,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -4726,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5636,10 +5636,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -10671,22 +10671,6 @@
         "us"
       ],
       "firstSeen": "2026-09-02T16:50:17.845Z"
-    },
-    {
-      "id": "R29023",
-      "title": "Sr. Data Scientist (Remote)",
-      "location": "58 Locations",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Data-Scientist_R29023",
-      "postedAt": "2026-09-02T16:30:25.997Z",
-      "key": "CrowdStrike:R29023",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-02T16:30:22.100Z"
     },
     {
       "id": "5216930007",
@@ -30150,13 +30134,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -30166,13 +30150,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37860,22 +37844,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -37888,6 +37856,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
