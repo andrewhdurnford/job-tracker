@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-09-08T17:40:19.453Z",
+  "generatedAt": "2026-09-08T17:50:17.725Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "Capital One:R999988",
+    "handshake:aee8a130-794d-4103-8abd-3676f9c91060",
+    "jfrog:8185302",
+    "roblox:8161954"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 47,
     "new-grad": 20,
-    "experienced": 2057
+    "experienced": 2060
   },
   "companies": [
     {
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 138,
+      "jobCount": 139,
       "error": null,
       "stale": false
     },
@@ -2144,7 +2149,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2487,7 +2492,7 @@
     {
       "name": "JFrog",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4237,7 +4242,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 130,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5686,7 +5691,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8185302",
+      "title": "Developer Support Engineer (Sunnyvale)",
+      "location": "Sunnyvale, California",
+      "team": null,
+      "url": "https://join.jfrog.com/job/?job=8185302&gh_jid=8185302",
+      "postedAt": "2026-09-08T17:49:58.000Z",
+      "key": "jfrog:8185302",
+      "company": "JFrog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T17:50:17.725Z"
+    },
+    {
+      "id": "aee8a130-794d-4103-8abd-3676f9c91060",
+      "title": "Senior Software Engineer, Consumer Experience",
+      "location": "San Francisco, CA",
+      "team": "Careers Engineering",
+      "url": "https://jobs.ashbyhq.com/handshake/aee8a130-794d-4103-8abd-3676f9c91060",
+      "postedAt": "2026-09-08T17:47:56.825Z",
+      "key": "handshake:aee8a130-794d-4103-8abd-3676f9c91060",
+      "company": "Handshake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T17:50:17.725Z"
+    },
+    {
+      "id": "8161954",
+      "title": "Senior Engineering Manager, Ads Data Platform",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8161954?gh_jid=8161954",
+      "postedAt": "2026-09-08T17:43:32.000Z",
+      "key": "roblox:8161954",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T17:50:17.725Z"
+    },
     {
       "id": "R999163",
       "title": "Lead Software Engineer, Full Stack",
@@ -6374,6 +6427,22 @@
         "us"
       ],
       "firstSeen": "2026-09-07T21:30:23.301Z"
+    },
+    {
+      "id": "R999988",
+      "title": "Senior Lead Software Engineer, Full Stack (Python, Angular)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Full-Stack--Python--Angular-_R999988-1",
+      "postedAt": "2026-09-07T17:50:23.244Z",
+      "key": "Capital One:R999988",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T17:50:17.725Z"
     },
     {
       "id": "8106224",
@@ -27719,22 +27788,6 @@
         "us"
       ],
       "firstSeen": "2026-08-19T21:34:12.483Z"
-    },
-    {
-      "id": "5208831007",
-      "title": "Senior IT Security Operations Engineer",
-      "location": "Remote - USA; San Jose, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5208831007",
-      "postedAt": "2026-08-19T21:28:40.000Z",
-      "key": "zscaler:5208831007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T21:30:24.773Z"
     },
     {
       "id": "8731172002",
