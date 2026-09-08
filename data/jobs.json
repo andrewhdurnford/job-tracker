@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-09-08T18:40:17.165Z",
+  "generatedAt": "2026-09-08T18:50:19.088Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R247320",
-    "clickup:920fb54c-ba58-4eac-919d-e85da9080802",
-    "Visa:REF088217W"
+    "Nvidia:JR2024881",
+    "rollstack:da40d360-66f6-4d4b-b96b-aa5eb2cd8b37"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -790,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 143,
+      "jobCount": 142,
       "error": null,
       "stale": false
     },
@@ -1245,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -2427,10 +2426,10 @@
     },
     {
       "name": "Intercom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Interfere",
@@ -2877,7 +2876,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3429,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 167,
+      "jobCount": 168,
       "error": null,
       "stale": false
     },
@@ -4262,7 +4261,7 @@
     {
       "name": "Rollstack",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2024881",
+      "title": "Senior AI Workflow Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Workflow-Engineer_JR2024881-1",
+      "postedAt": "2026-09-08T18:50:23.344Z",
+      "key": "Nvidia:JR2024881",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T18:50:19.088Z"
+    },
+    {
+      "id": "da40d360-66f6-4d4b-b96b-aa5eb2cd8b37",
+      "title": "AI Software Engineer",
+      "location": "United States (+5 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/rollstack/da40d360-66f6-4d4b-b96b-aa5eb2cd8b37",
+      "postedAt": "2026-09-08T18:48:26.061Z",
+      "key": "rollstack:da40d360-66f6-4d4b-b96b-aa5eb2cd8b37",
+      "company": "Rollstack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-08T18:50:19.088Z"
+    },
     {
       "id": "REF088217W",
       "title": "Senior Manager, Data Engineering",
@@ -11219,22 +11251,6 @@
         "us"
       ],
       "firstSeen": "2026-09-02T17:40:25.930Z"
-    },
-    {
-      "id": "R244394",
-      "title": "Senior Associate, Data Scientist - People Strategy & Analytics",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---People-Strategy---Analytics_R244394-1",
-      "postedAt": "2026-09-02T17:30:25.837Z",
-      "key": "Capital One:R244394",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T17:30:22.578Z"
     },
     {
       "id": "8174207",
@@ -28733,13 +28749,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -28749,13 +28765,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -32452,22 +32468,6 @@
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-II-Full-Stack-Engineer--Cloud-Native---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29791",
       "postedAt": "2026-08-14T23:30:25.754Z",
       "key": "CrowdStrike:R29791",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-14T23:30:21.135Z"
-    },
-    {
-      "id": "R29793",
-      "title": "SDET - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
-      "location": "USA - Sunnyvale, CA",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/SDET---AI-Detection-and-Response--AIDR---Hybrid-_R29793",
-      "postedAt": "2026-08-14T23:30:25.142Z",
-      "key": "CrowdStrike:R29793",
       "company": "CrowdStrike",
       "level": "experienced",
       "term": null,
@@ -38391,22 +38391,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -38419,6 +38403,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
