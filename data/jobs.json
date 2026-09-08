@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-09-08T22:10:18.116Z",
+  "generatedAt": "2026-09-08T22:40:19.201Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 8,
   "newKeys": [
-    "openai:60573bf4-13ad-4933-aba7-729f428e9f69",
-    "sentinellabs:7985679003"
+    "Adobe:R171628",
+    "coinbase:8175471",
+    "coinbase:8175459",
+    "coinbase:8175462",
+    "coinbase:8175441",
+    "coinbase:8168315",
+    "coinbase:8177946",
+    "robinhood:7543005"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 49,
+    "intern": 54,
     "new-grad": 21,
-    "experienced": 2087
+    "experienced": 2090
   },
   "companies": [
     {
@@ -68,7 +74,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -1055,7 +1061,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4233,7 +4239,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4700,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5708,134 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R171628",
+      "title": "Research Scientist II",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Research-Scientist-II_R171628",
+      "postedAt": "2026-09-08T22:40:26.353Z",
+      "key": "Adobe:R171628",
+      "company": "Adobe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T22:40:19.201Z"
+    },
+    {
+      "id": "8175441",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Hybrid - San Francisco, CA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
+      "postedAt": "2026-09-08T22:22:07.000Z",
+      "key": "coinbase:8175441",
+      "company": "Coinbase",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T22:40:19.201Z"
+    },
+    {
+      "id": "8175471",
+      "title": "Analytics Engineer Intern",
+      "location": "Hybrid - San Francisco, CA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+      "postedAt": "2026-09-08T22:20:56.000Z",
+      "key": "coinbase:8175471",
+      "company": "Coinbase",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T22:40:19.201Z"
+    },
+    {
+      "id": "8175462",
+      "title": "Data Science Intern",
+      "location": "Hybrid - San Francisco, CA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
+      "postedAt": "2026-09-08T22:20:03.000Z",
+      "key": "coinbase:8175462",
+      "company": "Coinbase",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T22:40:19.201Z"
+    },
+    {
+      "id": "8175459",
+      "title": "Data Engineer Intern",
+      "location": "Hybrid - San Francisco, CA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
+      "postedAt": "2026-09-08T22:19:13.000Z",
+      "key": "coinbase:8175459",
+      "company": "Coinbase",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T22:40:19.201Z"
+    },
+    {
+      "id": "8177946",
+      "title": "Software Engineer- Money Movement ",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946",
+      "postedAt": "2026-09-08T22:17:36.000Z",
+      "key": "coinbase:8177946",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-08T22:40:19.201Z"
+    },
+    {
+      "id": "7543005",
+      "title": "Web Developer ",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7543005?t=gh_src=&gh_jid=7543005",
+      "postedAt": "2026-09-08T22:15:01.000Z",
+      "key": "robinhood:7543005",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-08T22:40:19.201Z"
+    },
+    {
+      "id": "8168315",
+      "title": "Software Engineer Intern",
+      "location": "Hybrid - San Francisco, CA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315",
+      "postedAt": "2026-09-08T22:12:20.000Z",
+      "key": "coinbase:8168315",
+      "company": "Coinbase",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T22:40:19.201Z"
+    },
     {
       "id": "7985679003",
       "title": "Sr. Application Security Engineer",
@@ -15736,7 +15870,7 @@
       "title": "Senior Software Test Engineer",
       "location": "Toronto, Canada",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/coursera/jobs/6141559004",
+      "url": "https://app.careerpuck.com/job-board/udemy/job/6141559004?gh_jid=6141559004",
       "postedAt": "2026-08-31T16:38:48.000Z",
       "key": "coursera:6141559004",
       "company": "Coursera",
@@ -38748,22 +38882,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -38776,6 +38894,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
