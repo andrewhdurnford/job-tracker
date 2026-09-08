@@ -1,15 +1,19 @@
 {
-  "generatedAt": "2026-09-08T13:00:31.521Z",
+  "generatedAt": "2026-09-08T13:10:20.132Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Capital One:R999619",
+    "Capital One:R999617",
+    "Capital One:R999616"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 42,
-    "new-grad": 20,
+    "intern": 44,
+    "new-grad": 21,
     "experienced": 2043
   },
   "companies": [
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 138,
+      "jobCount": 141,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 130,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R999616",
+      "title": "Associate, Data Scientist - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+      "postedAt": "2026-09-08T13:10:23.854Z",
+      "key": "Capital One:R999616",
+      "company": "Capital One",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-08T13:10:20.132Z"
+    },
+    {
+      "id": "R999617",
+      "title": "Intern, Data Analytics Engineering - Winter 2027",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Winter-2027_R999617-1",
+      "postedAt": "2026-09-08T13:10:23.854Z",
+      "key": "Capital One:R999617",
+      "company": "Capital One",
+      "level": "intern",
+      "term": {
+        "label": "Winter 2027",
+        "seasons": [
+          "winter"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-08T13:10:20.132Z"
+    },
+    {
+      "id": "R999619",
+      "title": "Intern, Data Scientist - Winter 2027",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
+      "postedAt": "2026-09-08T13:10:23.854Z",
+      "key": "Capital One:R999619",
+      "company": "Capital One",
+      "level": "intern",
+      "term": {
+        "label": "Winter 2027",
+        "seasons": [
+          "winter"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-08T13:10:20.132Z"
+    },
     {
       "id": "R29878",
       "title": "Sr. Data Scientist - Gen AI (Remote)",
@@ -37860,22 +37928,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -37888,6 +37940,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
