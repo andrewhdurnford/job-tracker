@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-09-08T21:20:17.801Z",
+  "generatedAt": "2026-09-08T21:30:21.837Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "neighbor:3c27afec-628f-4305-9519-9b525035e3f0",
+    "neighbor:7d66629f-3f4b-41ee-a324-fe0154e13c46",
+    "spacex:8743362002",
+    "valaratomics:4398511009"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 48,
-    "new-grad": 20,
-    "experienced": 2079
+    "intern": 49,
+    "new-grad": 21,
+    "experienced": 2080
   },
   "companies": [
     {
@@ -1423,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3257,7 +3262,7 @@
     {
       "name": "Neighbor",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4692,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 130,
+      "jobCount": 131,
       "error": null,
       "stale": false
     },
@@ -5315,7 +5320,7 @@
     {
       "name": "Valar Atomics",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4398511009",
+      "title": "Senior Software Security Engineer",
+      "location": "Torrance, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4398511009",
+      "postedAt": "2026-09-08T21:28:23.000Z",
+      "key": "valaratomics:4398511009",
+      "company": "Valar Atomics",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T21:30:21.837Z"
+    },
+    {
+      "id": "8743362002",
+      "title": "New Graduate Engineer, Software (Starship)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8743362002?gh_jid=8743362002",
+      "postedAt": "2026-09-08T21:27:54.000Z",
+      "key": "spacex:8743362002",
+      "company": "SpaceX",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T21:30:21.837Z"
+    },
     {
       "id": "d8d93018-b5c2-4623-b252-5f032eab46ac",
       "title": "Software Engineer, Edge & Field Systems",
@@ -6405,22 +6442,6 @@
       "regions": [
         "us",
         "remote"
-      ],
-      "firstSeen": "2026-09-08T17:10:19.398Z"
-    },
-    {
-      "id": "29549",
-      "title": "Software Engineer",
-      "location": "US-SFO-Main",
-      "team": "Engineering",
-      "url": "https://uscareers-docusign.icims.com/jobs/29549/login",
-      "postedAt": "2026-09-08T17:00:00.000Z",
-      "key": "DocuSign:29549",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-09-08T17:10:19.398Z"
     },
@@ -10123,6 +10144,26 @@
         "us"
       ],
       "firstSeen": "2026-09-03T16:50:22.182Z"
+    },
+    {
+      "id": "7d66629f-3f4b-41ee-a324-fe0154e13c46",
+      "title": "Software Engineer Intern 2027",
+      "location": "Lehi, UT",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46",
+      "postedAt": "2026-09-03T16:41:37.983Z",
+      "key": "neighbor:7d66629f-3f4b-41ee-a324-fe0154e13c46",
+      "company": "Neighbor",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T21:30:21.837Z"
     },
     {
       "id": "8167496",
@@ -17459,6 +17500,22 @@
         "remote"
       ],
       "firstSeen": "2026-08-28T21:20:20.350Z"
+    },
+    {
+      "id": "3c27afec-628f-4305-9519-9b525035e3f0",
+      "title": "Software Engineer",
+      "location": "Lehi, UT",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/neighbor/3c27afec-628f-4305-9519-9b525035e3f0",
+      "postedAt": "2026-08-28T20:59:35.286Z",
+      "key": "neighbor:3c27afec-628f-4305-9519-9b525035e3f0",
+      "company": "Neighbor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T21:30:21.837Z"
     },
     {
       "id": "8144016",
