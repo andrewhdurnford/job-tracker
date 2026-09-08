@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-09-08T13:10:20.132Z",
+  "generatedAt": "2026-09-08T13:20:20.274Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R999619",
-    "Capital One:R999617",
-    "Capital One:R999616"
+    "Capital One:R999996"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 44,
     "new-grad": 21,
-    "experienced": 2043
+    "experienced": 2044
   },
   "companies": [
     {
@@ -790,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 141,
+      "jobCount": 142,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 130,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R999996",
+      "title": "Lead Data Engineer (Python, Spark, AWS, ETL)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Data-Engineer--Python--Spark--AWS--ETL-_R999996",
+      "postedAt": "2026-09-08T13:20:24.001Z",
+      "key": "Capital One:R999996",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T13:20:20.274Z"
+    },
     {
       "id": "R999616",
       "title": "Associate, Data Scientist - New Grad, 2027 Start",
@@ -28189,13 +28203,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -28205,13 +28219,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -37928,22 +37942,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -37956,6 +37954,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
