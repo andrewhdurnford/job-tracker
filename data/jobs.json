@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-09-08T18:30:25.017Z",
+  "generatedAt": "2026-09-08T18:40:17.165Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "boxinc:8186622",
-    "Capital One:R999987",
-    "Capital One:R999617",
-    "Capital One:R999619",
-    "Capital One:R1000176"
+    "Capital One:R247320",
+    "clickup:920fb54c-ba58-4eac-919d-e85da9080802",
+    "Visa:REF088217W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,8 +13,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 49,
-    "new-grad": 19,
-    "experienced": 2065
+    "new-grad": 20,
+    "experienced": 2066
   },
   "companies": [
     {
@@ -792,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 142,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -995,7 +993,7 @@
     {
       "name": "ClickUp",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2879,7 +2877,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5705,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088217W",
+      "title": "Senior Manager, Data Engineering",
+      "location": "US - Foster City, CA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Senior-Manager--Data-Engineering_REF088217W",
+      "postedAt": "2026-09-08T18:40:21.422Z",
+      "key": "Visa:REF088217W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T18:40:17.165Z"
+    },
+    {
+      "id": "R247320",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "postedAt": "2026-09-08T18:40:20.776Z",
+      "key": "Capital One:R247320",
+      "company": "Capital One",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-08T18:40:17.165Z"
+    },
+    {
+      "id": "920fb54c-ba58-4eac-919d-e85da9080802",
+      "title": "Machine Learning Engineer, Ranking & Retrieval",
+      "location": "United States",
+      "team": "32010 Backend Engineering",
+      "url": "https://jobs.ashbyhq.com/clickup/920fb54c-ba58-4eac-919d-e85da9080802",
+      "postedAt": "2026-09-08T18:38:27.922Z",
+      "key": "clickup:920fb54c-ba58-4eac-919d-e85da9080802",
+      "company": "ClickUp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T18:40:17.165Z"
+    },
     {
       "id": "R999617",
       "title": "Intern, Data Analytics Engineering - Winter 2027",
@@ -37041,23 +37087,6 @@
         "us"
       ],
       "firstSeen": "2026-08-11T21:39:44.726Z"
-    },
-    {
-      "id": "REF078975W",
-      "title": "Director, Software Engineering",
-      "location": "US - Bellevue, WA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Director--Software-Engineering_REF078975W-1",
-      "postedAt": "2026-08-11T21:33:29.616Z",
-      "key": "Visa:REF078975W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T21:33:23.715Z",
-      "seeded": true
     },
     {
       "id": "R29345",
