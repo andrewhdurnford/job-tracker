@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-09-08T20:10:21.035Z",
+  "generatedAt": "2026-09-08T20:20:18.804Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "newrelic:5418578008"
+    "1password:f51cc73a-fde2-4686-b54b-f183cdaedb45",
+    "checkr:8178764",
+    "janestreet:8786447002",
+    "janestreet:8786398002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,13 +15,13 @@
   "levelCounts": {
     "intern": 48,
     "new-grad": 20,
-    "experienced": 2071
+    "experienced": 2075
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -914,7 +917,7 @@
     {
       "name": "Checkr",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2425,10 +2428,10 @@
     },
     {
       "name": "Intercom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Interfere",
@@ -2475,7 +2478,7 @@
     {
       "name": "Jane Street",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,71 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8178764",
+      "title": "Senior Engineering Manager, Machine Learning",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8178764",
+      "postedAt": "2026-09-08T20:16:47.000Z",
+      "key": "checkr:8178764",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T20:20:18.804Z"
+    },
+    {
+      "id": "8786398002",
+      "title": "Data Center Operations Engineer",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://www.janestreet.com/join-jane-street/apply/8786398002?gh_jid=8786398002",
+      "postedAt": "2026-09-08T20:14:29.000Z",
+      "key": "janestreet:8786398002",
+      "company": "Jane Street",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T20:20:18.804Z"
+    },
+    {
+      "id": "8786447002",
+      "title": "Data Center Operations Engineer",
+      "location": "Austin, Texas, United States",
+      "team": null,
+      "url": "https://www.janestreet.com/join-jane-street/apply/8786447002?gh_jid=8786447002",
+      "postedAt": "2026-09-08T20:13:29.000Z",
+      "key": "janestreet:8786447002",
+      "company": "Jane Street",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T20:20:18.804Z"
+    },
+    {
+      "id": "f51cc73a-fde2-4686-b54b-f183cdaedb45",
+      "title": "Developer, Full Stack/iOS",
+      "location": "Remote (United States | Canada)",
+      "team": "Technology",
+      "url": "https://jobs.ashbyhq.com/1password/f51cc73a-fde2-4686-b54b-f183cdaedb45",
+      "postedAt": "2026-09-08T20:11:07.322Z",
+      "key": "1password:f51cc73a-fde2-4686-b54b-f183cdaedb45",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-08T20:20:18.804Z"
+    },
     {
       "id": "5418578008",
       "title": "Lead Software Engineer - Java",
@@ -28850,13 +28918,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -28866,13 +28934,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -38454,22 +38522,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833950003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote US",
@@ -38482,6 +38534,22 @@
       "term": null,
       "regions": [
         "us"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833952003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833952003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
