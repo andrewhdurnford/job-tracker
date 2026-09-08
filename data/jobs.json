@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-09-08T20:00:26.992Z",
+  "generatedAt": "2026-09-08T20:10:21.035Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "block:5418716008",
-    "block:5412922008"
+    "newrelic:5418578008"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -2064,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3323,7 +3322,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4240,7 +4239,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 130,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5418578008",
+      "title": "Lead Software Engineer - Java",
+      "location": "Portland, Oregon, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5418578008",
+      "postedAt": "2026-09-08T20:07:22.000Z",
+      "key": "newrelic:5418578008",
+      "company": "New Relic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-08T20:10:21.035Z"
+    },
     {
       "id": "5418716008",
       "title": "Senior Data Scientist, Risk and Support",
@@ -31374,22 +31389,6 @@
         "us"
       ],
       "firstSeen": "2026-08-17T20:40:17.769Z"
-    },
-    {
-      "id": "8123004",
-      "title": "Software Engineer, Foundation AI",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8123004?gh_jid=8123004",
-      "postedAt": "2026-08-17T20:14:00.000Z",
-      "key": "roblox:8123004",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T20:20:17.344Z"
     },
     {
       "id": "8120329",
