@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-09-09T22:30:22.760Z",
+  "generatedAt": "2026-09-09T22:40:52.437Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R999963",
-    "lyft:8772602002",
-    "lyft:8772592002",
-    "lyft:8772594002",
-    "lyft:8772571002"
+    "cerebras:74abc38e-f2c8-4c9b-bda2-945dea2c365d",
+    "cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+    "harvey:7797d468-fabc-4bda-b861-726db7171f23",
+    "harvey:2efd8803-3b24-4271-9c86-98a8b35be9ed"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,8 +14,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 58,
-    "new-grad": 24,
-    "experienced": 2117
+    "new-grad": 25,
+    "experienced": 2116
   },
   "companies": [
     {
@@ -36,7 +35,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -85,7 +84,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -869,7 +868,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -1282,7 +1281,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2178,7 +2177,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5705,55 @@
   ],
   "jobs": [
     {
+      "id": "2efd8803-3b24-4271-9c86-98a8b35be9ed",
+      "title": "Staff/Sr. Staff Software Engineer, Product Engineering",
+      "location": "New York",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/harvey/2efd8803-3b24-4271-9c86-98a8b35be9ed",
+      "postedAt": "2026-09-09T22:37:11.288Z",
+      "key": "harvey:2efd8803-3b24-4271-9c86-98a8b35be9ed",
+      "company": "Harvey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T22:40:52.437Z"
+    },
+    {
+      "id": "7797d468-fabc-4bda-b861-726db7171f23",
+      "title": "Staff/Sr. Staff Software Engineer, Product Engineering",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/harvey/7797d468-fabc-4bda-b861-726db7171f23",
+      "postedAt": "2026-09-09T22:35:24.400Z",
+      "key": "harvey:7797d468-fabc-4bda-b861-726db7171f23",
+      "company": "Harvey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T22:40:52.437Z"
+    },
+    {
+      "id": "74abc38e-f2c8-4c9b-bda2-945dea2c365d",
+      "title": "Staff GPU Inference SDET",
+      "location": "Sunnyvale, CA (+1 more)",
+      "team": "Inference Service",
+      "url": "https://jobs.ashbyhq.com/cerebras/74abc38e-f2c8-4c9b-bda2-945dea2c365d",
+      "postedAt": "2026-09-09T22:33:33.947Z",
+      "key": "cerebras:74abc38e-f2c8-4c9b-bda2-945dea2c365d",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-09T22:40:52.437Z"
+    },
+    {
       "id": "R999963",
       "title": "Lead Data Engineer (Python, AWS, Spark, SQL, Snowflake, Databricks, & GenAI) (Enterprise Platforms Technology)",
       "location": "New York, NY",
@@ -7528,6 +7576,26 @@
         "us"
       ],
       "firstSeen": "2026-09-09T00:20:17.428Z"
+    },
+    {
+      "id": "d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+      "title": "Software Engineer, New Grad 2027",
+      "location": "San Francisco (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+      "postedAt": "2026-09-08T23:51:35.588Z",
+      "key": "cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+      "company": "Cursor",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T22:40:52.437Z"
     },
     {
       "id": "56d541d3-02b5-44d8-b40b-4df72cdd0405",
@@ -17304,38 +17372,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-31T18:30:25.873Z"
-    },
-    {
-      "id": "7982154003",
-      "title": "Software Engineer II - Data Security",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://abnormal.ai/careers/jobs/7982154003?gh_jid=7982154003",
-      "postedAt": "2026-08-31T18:18:48.000Z",
-      "key": "abnormalsecurity:7982154003",
-      "company": "Abnormal Security",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-31T18:20:19.824Z"
-    },
-    {
-      "id": "7981482003",
-      "title": "Software Engineer II - Data Security",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://abnormal.ai/careers/jobs/7981482003?gh_jid=7981482003",
-      "postedAt": "2026-08-31T18:18:46.000Z",
-      "key": "abnormalsecurity:7981482003",
-      "company": "Abnormal Security",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T18:20:19.824Z"
     },
     {
       "id": "7966022003",
@@ -40250,38 +40286,6 @@
         "us"
       ],
       "firstSeen": "2026-08-10T22:50:17.528Z"
-    },
-    {
-      "id": "7833952003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833952003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833952003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
     },
     {
       "id": "R171153",
