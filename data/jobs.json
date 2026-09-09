@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-09T15:20:22.497Z",
+  "generatedAt": "2026-09-09T15:30:25.610Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "Nvidia:JR2025110",
-    "Nvidia:JR2025003"
+    "stripe:8172503",
+    "whoop:99243af1-0913-4a35-8a40-022d22b70e76"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2084
+    "experienced": 2086
   },
   "companies": [
     {
@@ -2064,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4800,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5514,7 +5514,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5733,6 +5733,38 @@
         "us"
       ],
       "firstSeen": "2026-09-09T15:20:22.497Z"
+    },
+    {
+      "id": "99243af1-0913-4a35-8a40-022d22b70e76",
+      "title": "Senior NPI Quality Engineer (Hardware)",
+      "location": "Boston, MA",
+      "team": "Hardware",
+      "url": "https://jobs.ashbyhq.com/whoop/99243af1-0913-4a35-8a40-022d22b70e76",
+      "postedAt": "2026-09-09T15:19:24.031Z",
+      "key": "whoop:99243af1-0913-4a35-8a40-022d22b70e76",
+      "company": "WHOOP",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T15:30:25.610Z"
+    },
+    {
+      "id": "8172503",
+      "title": "Abuse Research Engineer",
+      "location": "Remote from the US",
+      "team": "8611 Security Analytics",
+      "url": "https://stripe.com/jobs/search?gh_jid=8172503",
+      "postedAt": "2026-09-09T14:52:09.000Z",
+      "key": "stripe:8172503",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T15:30:25.610Z"
     },
     {
       "id": "60fa8c9b-e031-476e-a9d3-011966c4b495",
@@ -22739,7 +22771,7 @@
     },
     {
       "id": "5390966008",
-      "title": "AI Engineer, GTM Claudification ",
+      "title": "Staff AI Engineer, GTM Claudification ",
       "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008",
