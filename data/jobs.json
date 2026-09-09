@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-09T20:00:24.984Z",
+  "generatedAt": "2026-09-09T20:10:18.423Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "carvana:8188615",
+    "fivetran:7818380003"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -842,7 +845,7 @@
     {
       "name": "Carvana",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1423,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1787,7 +1790,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 167,
+      "jobCount": 166,
       "error": null,
       "stale": false
     },
@@ -5700,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "8188615",
+      "title": "Data Product Engineer",
+      "location": "Tempe, AZ",
+      "team": null,
+      "url": "https://www.carvana.com/careers/apply?gh_jid=8188615",
+      "postedAt": "2026-09-09T20:01:02.000Z",
+      "key": "carvana:8188615",
+      "company": "Carvana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T20:10:18.423Z"
+    },
+    {
       "id": "8189557",
       "title": "Staff Software Engineer - Front End",
       "location": "Manhattan, New York, United States; New York City",
@@ -7168,6 +7187,22 @@
         "us"
       ],
       "firstSeen": "2026-09-08T23:30:21.307Z"
+    },
+    {
+      "id": "7818380003",
+      "title": "Senior Staff Systems Engineer",
+      "location": "Oakland, California, United States",
+      "team": null,
+      "url": "https://www.fivetran.com/careers/job?gh_jid=7818380003",
+      "postedAt": "2026-09-08T22:50:50.000Z",
+      "key": "fivetran:7818380003",
+      "company": "Fivetran",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T20:10:18.423Z"
     },
     {
       "id": "R171628",
@@ -12067,22 +12102,6 @@
         "us"
       ],
       "firstSeen": "2026-09-03T15:20:24.591Z"
-    },
-    {
-      "id": "30251",
-      "title": "Software Engineer",
-      "location": "US-Seattle-3rd",
-      "team": "Engineering",
-      "url": "https://uscareers-docusign.icims.com/jobs/30251/login",
-      "postedAt": "2026-09-03T15:17:00.000Z",
-      "key": "DocuSign:30251",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-07T08:50:18.002Z"
     },
     {
       "id": "8177159",
@@ -20928,22 +20947,6 @@
         "us"
       ],
       "firstSeen": "2026-08-27T17:30:22.615Z"
-    },
-    {
-      "id": "JR2024273",
-      "title": "Senior Software Engineer, AV Planner - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--AV-Planner---Autonomous-Vehicles_JR2024273-1",
-      "postedAt": "2026-08-27T17:20:22.164Z",
-      "key": "Nvidia:JR2024273",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-27T17:20:17.576Z"
     },
     {
       "id": "1eba42fe-07a5-475a-b3ee-f17c533ee7a3",
@@ -39736,22 +39739,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -39764,6 +39751,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
