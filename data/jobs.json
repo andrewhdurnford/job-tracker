@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-09-09T21:30:21.137Z",
+  "generatedAt": "2026-09-09T21:40:18.268Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "abundant:5304659b-c31f-409a-84a1-0c6fca69f18a"
+    "benchling:ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e",
+    "boxinc:8133235",
+    "boxinc:8186622",
+    "candidhealth:0842afe5-f841-49af-967c-f8ef36297f01",
+    "mercury:6186862004",
+    "sierra:34b31b67-268c-4270-b48f-72e59064c96e",
+    "sierra:02e1c456-8489-4a74-9fe7-af8845b040e4"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 56,
+    "intern": 58,
     "new-grad": 24,
-    "experienced": 2105
+    "experienced": 2110
   },
   "companies": [
     {
@@ -550,7 +556,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -676,7 +682,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -767,7 +773,7 @@
     {
       "name": "Candid Health",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2986,7 +2992,7 @@
     {
       "name": "Mercury",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4491,7 +4497,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4699,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 132,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5610,10 +5616,10 @@
     },
     {
       "name": "Yuno",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zapier",
@@ -5701,6 +5707,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6186862004",
+      "title": "Senior Machine Learning Operations Engineer",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6186862004",
+      "postedAt": "2026-09-09T21:37:53.000Z",
+      "key": "mercury:6186862004",
+      "company": "Mercury",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-09T21:40:18.268Z"
+    },
+    {
+      "id": "ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e",
+      "title": "Software Engineer, Tools and Automation",
+      "location": "San Francisco, CA",
+      "team": "Engineering: Security",
+      "url": "https://jobs.ashbyhq.com/benchling/ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e",
+      "postedAt": "2026-09-09T21:31:50.026Z",
+      "key": "benchling:ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e",
+      "company": "Benchling",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T21:40:18.268Z"
+    },
+    {
+      "id": "0842afe5-f841-49af-967c-f8ef36297f01",
+      "title": "TechOps Engineer",
+      "location": "San Francisco (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/candidhealth/0842afe5-f841-49af-967c-f8ef36297f01",
+      "postedAt": "2026-09-09T21:30:32.917Z",
+      "key": "candidhealth:0842afe5-f841-49af-967c-f8ef36297f01",
+      "company": "Candid Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T21:40:18.268Z"
+    },
     {
       "id": "5304659b-c31f-409a-84a1-0c6fca69f18a",
       "title": "Member of Technical Staff, Platform Engineering",
@@ -8215,6 +8270,22 @@
         "us"
       ],
       "firstSeen": "2026-09-08T18:30:25.017Z"
+    },
+    {
+      "id": "8186622",
+      "title": "Software Engineer III, Network Platform",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8186622",
+      "postedAt": "2026-09-08T18:22:04.000Z",
+      "key": "boxinc:8186622",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T21:40:18.268Z"
     },
     {
       "id": "JR2024887",
@@ -16055,6 +16126,28 @@
       "firstSeen": "2026-09-01T01:50:20.554Z"
     },
     {
+      "id": "02e1c456-8489-4a74-9fe7-af8845b040e4",
+      "title": "Software Engineer Intern, Agent (Winter 2027)",
+      "location": "San Francisco, CA",
+      "team": "Intern",
+      "url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4",
+      "postedAt": "2026-09-01T01:18:27.232Z",
+      "key": "sierra:02e1c456-8489-4a74-9fe7-af8845b040e4",
+      "company": "Sierra",
+      "level": "intern",
+      "term": {
+        "label": "Winter 2027",
+        "seasons": [
+          "winter"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T21:40:18.268Z"
+    },
+    {
       "id": "1f6cf3eb-f70f-480b-9fff-befd56c7fd07",
       "title": "ML Infra Engineer, Data Systems",
       "location": "San Francisco",
@@ -16484,6 +16577,28 @@
         "us"
       ],
       "firstSeen": "2026-08-31T21:50:17.572Z"
+    },
+    {
+      "id": "34b31b67-268c-4270-b48f-72e59064c96e",
+      "title": "Software Engineer Intern, Agent (Summer 2027)",
+      "location": "San Francisco, CA (+1 more)",
+      "team": "Intern",
+      "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+      "postedAt": "2026-08-31T21:42:19.593Z",
+      "key": "sierra:34b31b67-268c-4270-b48f-72e59064c96e",
+      "company": "Sierra",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T21:40:18.268Z"
     },
     {
       "id": "JR2014725",
@@ -32850,6 +32965,22 @@
         "us"
       ],
       "firstSeen": "2026-08-17T22:40:18.398Z"
+    },
+    {
+      "id": "8133235",
+      "title": "Software Engineer III, Edge",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8133235",
+      "postedAt": "2026-08-17T22:33:01.000Z",
+      "key": "boxinc:8133235",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T21:40:18.268Z"
     },
     {
       "id": "JR2019190",
