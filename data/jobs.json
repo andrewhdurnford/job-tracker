@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-09T07:00:26.174Z",
+  "generatedAt": "2026-09-09T07:10:17.908Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "updoc:74a66e62-7d22-4028-8614-bb001cdf282e"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2086
+    "experienced": 2087
   },
   "companies": [
     {
@@ -2913,10 +2915,10 @@
     },
     {
       "name": "Material Security",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Mattermost",
@@ -5287,7 +5289,7 @@
     {
       "name": "UpDoc",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "74a66e62-7d22-4028-8614-bb001cdf282e",
+      "title": "Senior Software Engineer - Automation",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/updoc/74a66e62-7d22-4028-8614-bb001cdf282e",
+      "postedAt": "2026-09-09T07:07:40.883Z",
+      "key": "updoc:74a66e62-7d22-4028-8614-bb001cdf282e",
+      "company": "UpDoc",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T07:10:17.908Z"
+    },
     {
       "id": "JR2023969",
       "title": "Staff Site Reliability Engineer - AI Platform Runtime",
