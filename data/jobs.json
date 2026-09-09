@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-09-09T18:00:25.673Z",
+  "generatedAt": "2026-09-09T18:10:21.270Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "airbnb:8154705",
-    "chime:8790231002",
-    "permitflow:9b2d3e2c-48e6-4951-87b5-497c37f91072"
+    "braintrust:15f6868c-4172-4568-b39f-d9047c092ca8",
+    "gitlab:8770702002",
+    "openai:5a1a0c32-0b82-482a-8149-e6b096c3e732",
+    "permitflow:b7bd4cfc-69bb-4cdd-9bbc-46c8f206e45c",
+    "thinkingmachines:4d51cb65-5e5b-42d2-8c28-7073b8574e4b"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +16,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2096
+    "experienced": 2101
   },
   "companies": [
     {
@@ -685,7 +687,7 @@
     {
       "name": "Braintrust",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1966,7 +1968,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -3513,7 +3515,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -3660,7 +3662,7 @@
     {
       "name": "PermitFlow",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5067,7 +5069,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5706,55 @@
   ],
   "jobs": [
     {
+      "id": "8770702002",
+      "title": "Staff Backend Engineer, Database Automation (Go)",
+      "location": "Remote, Canada; Remote, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770702002",
+      "postedAt": "2026-09-09T18:06:57.000Z",
+      "key": "gitlab:8770702002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-09T18:10:21.270Z"
+    },
+    {
+      "id": "4d51cb65-5e5b-42d2-8c28-7073b8574e4b",
+      "title": "Research Software Engineer, Post Training",
+      "location": "San Francisco",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/4d51cb65-5e5b-42d2-8c28-7073b8574e4b",
+      "postedAt": "2026-09-09T18:03:41.380Z",
+      "key": "thinkingmachines:4d51cb65-5e5b-42d2-8c28-7073b8574e4b",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T18:10:21.270Z"
+    },
+    {
+      "id": "5a1a0c32-0b82-482a-8149-e6b096c3e732",
+      "title": "Android Engineer, ChatGPT Library Team",
+      "location": "Seattle",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/5a1a0c32-0b82-482a-8149-e6b096c3e732",
+      "postedAt": "2026-09-09T18:00:25.985Z",
+      "key": "openai:5a1a0c32-0b82-482a-8149-e6b096c3e732",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T18:10:21.270Z"
+    },
+    {
       "id": "8154705",
       "title": "Staff Software Engineer, Data Catalog",
       "location": "USA",
@@ -5718,6 +5769,22 @@
         "us"
       ],
       "firstSeen": "2026-09-09T18:00:25.673Z"
+    },
+    {
+      "id": "b7bd4cfc-69bb-4cdd-9bbc-46c8f206e45c",
+      "title": "Engineering Manager (New Products)",
+      "location": "New York City, NY",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/permitflow/b7bd4cfc-69bb-4cdd-9bbc-46c8f206e45c",
+      "postedAt": "2026-09-09T17:59:05.188Z",
+      "key": "permitflow:b7bd4cfc-69bb-4cdd-9bbc-46c8f206e45c",
+      "company": "PermitFlow",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T18:10:21.270Z"
     },
     {
       "id": "9b2d3e2c-48e6-4951-87b5-497c37f91072",
@@ -6247,6 +6314,22 @@
         "us"
       ],
       "firstSeen": "2026-09-09T15:30:25.610Z"
+    },
+    {
+      "id": "15f6868c-4172-4568-b39f-d9047c092ca8",
+      "title": "Platform Support Engineer",
+      "location": "San Francisco (+2 more)",
+      "team": "Platform Support Engineering",
+      "url": "https://jobs.ashbyhq.com/braintrust/15f6868c-4172-4568-b39f-d9047c092ca8",
+      "postedAt": "2026-09-09T15:16:27.297Z",
+      "key": "braintrust:15f6868c-4172-4568-b39f-d9047c092ca8",
+      "company": "Braintrust",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T18:10:21.270Z"
     },
     {
       "id": "8172503",
@@ -30013,13 +30096,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -30029,13 +30112,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -39457,22 +39540,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -39485,6 +39552,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
