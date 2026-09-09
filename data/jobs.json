@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-09-09T14:00:25.588Z",
+  "generatedAt": "2026-09-09T14:10:56.723Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "affirm:7832326003",
+    "affirm:7832324003",
+    "samsara:8186992",
+    "securityscorecard:8188422"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2086
+    "experienced": 2089
   },
   "companies": [
     {
@@ -79,7 +84,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4230,7 +4235,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4335,7 +4340,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4384,7 +4389,7 @@
     {
       "name": "Security Scorecard",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4770,7 +4775,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7832326003",
+      "title": "Senior Software Engineer, Backend (Partner Merchant Interface)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7832326003",
+      "postedAt": "2026-09-09T14:07:40.000Z",
+      "key": "affirm:7832326003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-09T14:10:56.723Z"
+    },
+    {
+      "id": "7832324003",
+      "title": "Senior Software Engineer, Backend (Partner Merchant Interface)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7832324003",
+      "postedAt": "2026-09-09T14:07:37.000Z",
+      "key": "affirm:7832324003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T14:10:56.723Z"
+    },
+    {
+      "id": "8188422",
+      "title": "Senior Forward Deployed Engineer",
+      "location": "Remote (United States)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/8188422",
+      "postedAt": "2026-09-09T14:06:56.000Z",
+      "key": "securityscorecard:8188422",
+      "company": "Security Scorecard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T14:10:56.723Z"
+    },
+    {
+      "id": "8186992",
+      "title": "Senior Software Engineer",
+      "location": "Remote - SF Bay Area",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8186992?gh_jid=8186992",
+      "postedAt": "2026-09-09T14:02:18.000Z",
+      "key": "samsara:8186992",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T14:10:56.723Z"
+    },
     {
       "id": "R29841",
       "title": "Sr. Machine Learning Engineer (Remote)",
@@ -6907,7 +6976,7 @@
     {
       "id": "8186538",
       "title": "Senior Forward Deployed Engineer",
-      "location": "Remote (United States)",
+      "location": "Remote (NYC)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/8186538",
       "postedAt": "2026-09-08T18:00:34.000Z",
@@ -34937,22 +35006,6 @@
       "firstSeen": "2026-08-13T22:10:15.890Z"
     },
     {
-      "id": "8067604",
-      "title": "Software Engineer, Proactive Capabilities",
-      "location": "Bellevue, WA; Menlo Park, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&gh_jid=8067604",
-      "postedAt": "2026-08-13T21:47:54.000Z",
-      "key": "robinhood:8067604",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T14:10:34.874Z"
-    },
-    {
       "id": "8126399",
       "title": "Senior Data Scientist ",
       "location": "Remote (Canada)",
@@ -38938,22 +38991,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -38966,6 +39003,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
