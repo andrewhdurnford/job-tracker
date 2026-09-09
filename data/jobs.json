@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-09T17:30:23.911Z",
+  "generatedAt": "2026-09-09T17:40:19.614Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Capital One:R1000209"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2094
+    "experienced": 2093
   },
   "companies": [
     {
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 141,
+      "jobCount": 142,
       "error": null,
       "stale": false
     },
@@ -1423,7 +1425,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4153,7 +4155,7 @@
     {
       "name": "Render",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 132,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1000209",
+      "title": "Principal Associate, Software Engineer - Capital One Travel - Android (Mobile)",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Principal-Associate--Software-Engineer---Capital-One-Travel---Android--Mobile-_R1000209-2",
+      "postedAt": "2026-09-09T17:40:23.093Z",
+      "key": "Capital One:R1000209",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-09T17:40:19.614Z"
+    },
     {
       "id": "9b07c4dd-966f-4376-b0b5-399b704cf249",
       "title": "Senior Engineer, Software (R5970)",
@@ -11556,22 +11574,6 @@
         ],
         "year": 2027
       },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T15:30:22.017Z"
-    },
-    {
-      "id": "30253",
-      "title": "Software Engineer",
-      "location": "US-Seattle-3rd",
-      "team": "Engineering",
-      "url": "https://uscareers-docusign.icims.com/jobs/30253/login",
-      "postedAt": "2026-09-03T15:20:00.000Z",
-      "key": "DocuSign:30253",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
       "regions": [
         "us"
       ],
@@ -23138,7 +23140,7 @@
     },
     {
       "id": "5390966008",
-      "title": "Staff AI Engineer, GTM Claudification ",
+      "title": "AI Engineer, GTM Claudification ",
       "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390966008",
@@ -39907,23 +39909,6 @@
         "us"
       ],
       "firstSeen": "2026-08-10T18:00:24.855Z"
-    },
-    {
-      "id": "06377f8a-a255-412a-8032-18ace1d005a5",
-      "title": "Software Engineer, Expansion (all levels)",
-      "location": "Remote: United States (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/render/06377f8a-a255-412a-8032-18ace1d005a5",
-      "postedAt": "2026-08-10T17:36:07.905Z",
-      "key": "render:06377f8a-a255-412a-8032-18ace1d005a5",
-      "company": "Render",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-10T17:40:18.164Z"
     },
     {
       "id": "JR2022760",
