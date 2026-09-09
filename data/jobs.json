@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-09-09T21:10:18.905Z",
+  "generatedAt": "2026-09-09T21:20:21.015Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "nubank:c07cdb76-d50d-4cdf-bf05-365a1ec79ba2",
-    "Nvidia:JR2024273"
+    "greenboard:e5deef5b-8667-48d7-be48-a0b6616eaba5",
+    "Nvidia:JR2025158",
+    "Nvidia:JR2025157",
+    "okta:7254170",
+    "Visa:REF087840W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 56,
     "new-grad": 24,
-    "experienced": 2101
+    "experienced": 2105
   },
   "companies": [
     {
@@ -2084,7 +2087,7 @@
     {
       "name": "Greenboard",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 167,
+      "jobCount": 169,
       "error": null,
       "stale": false
     },
@@ -3470,7 +3473,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 132,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5325,7 +5328,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5402,7 +5405,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025157",
+      "title": "Senior Developer Technology Engineer - Simulation Performance",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Simulation-Performance_JR2025157",
+      "postedAt": "2026-09-09T21:20:25.477Z",
+      "key": "Nvidia:JR2025157",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T21:20:21.015Z"
+    },
+    {
+      "id": "JR2025158",
+      "title": "Senior Robotics Systems Engineer — Sim-to-Real",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Systems-Engineer---Sim-to-Real_JR2025158",
+      "postedAt": "2026-09-09T21:20:25.477Z",
+      "key": "Nvidia:JR2025158",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T21:20:21.015Z"
+    },
+    {
+      "id": "REF087840W",
+      "title": "Cybersecurity Engineer",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Cybersecurity-Engineer_REF087840W",
+      "postedAt": "2026-09-09T21:20:25.057Z",
+      "key": "Visa:REF087840W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T21:20:21.015Z"
+    },
+    {
+      "id": "e5deef5b-8667-48d7-be48-a0b6616eaba5",
+      "title": "Software Engineer (2027 Grads)",
+      "location": "New York City",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/greenboard/e5deef5b-8667-48d7-be48-a0b6616eaba5",
+      "postedAt": "2026-09-09T21:12:46.014Z",
+      "key": "greenboard:e5deef5b-8667-48d7-be48-a0b6616eaba5",
+      "company": "Greenboard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T21:20:21.015Z"
+    },
+    {
+      "id": "7254170",
+      "title": "Senior Software Engineer, Device Identity ( Toronto)",
+      "location": "Toronto, Ontario, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/7254170?gh_jid=7254170",
+      "postedAt": "2026-09-09T21:11:04.000Z",
+      "key": "okta:7254170",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-09T21:20:21.015Z"
+    },
     {
       "id": "JR2024273",
       "title": "Senior Software Engineer, AV Planner - Autonomous Vehicles",
@@ -39995,22 +40078,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-10T21:50:24.849Z"
-    },
-    {
-      "id": "2e68c5e8-5de2-4428-bad0-ddcf518399c4",
-      "title": "Senior Manager, Systems Engineering",
-      "location": "Remote U.S.",
-      "team": "Corporate Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/2e68c5e8-5de2-4428-bad0-ddcf518399c4",
-      "postedAt": "2026-08-10T21:18:32.576Z",
-      "key": "vanta:2e68c5e8-5de2-4428-bad0-ddcf518399c4",
-      "company": "Vanta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T21:20:19.234Z"
     },
     {
       "id": "R247651",
