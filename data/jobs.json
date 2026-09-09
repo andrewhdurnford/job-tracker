@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-09T16:40:19.967Z",
+  "generatedAt": "2026-09-09T16:50:19.255Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R248316",
-    "Capital One:R248318",
-    "cloudflare:8178593",
-    "garnerhealth:6186647004"
+    "cribl:6173732004",
+    "CrowdStrike:R25320",
+    "Nvidia:JR2025110",
+    "Nvidia:JR2025003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +15,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2086
+    "experienced": 2090
   },
   "companies": [
     {
@@ -1232,7 +1232,7 @@
     {
       "name": "Cribl",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1246,7 +1246,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -3430,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 164,
+      "jobCount": 166,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 133,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5705,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "R25320",
+      "title": "Sr Backend Engineer, Falcon NG-SIEM, Global Serverless Platform",
+      "location": "USA - Austin, TX",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Backend-Engineer-III--Falcon-NG-SIEM--Global-Serverless-Platform--Remote--East-Coast-_R25320",
+      "postedAt": "2026-09-09T16:50:23.288Z",
+      "key": "CrowdStrike:R25320",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T16:50:19.255Z"
+    },
+    {
+      "id": "JR2025003",
+      "title": "Senior Infrastructure Engineer - AI, Automation, Observability and Monitoring",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Infrastructure-Engineer---AI--Automation--Observability-and-Monitoring_JR2025003",
+      "postedAt": "2026-09-09T16:50:22.851Z",
+      "key": "Nvidia:JR2025003",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T16:50:19.255Z"
+    },
+    {
+      "id": "JR2025110",
+      "title": "Senior Network Security Architect",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Network-Security-Architect_JR2025110",
+      "postedAt": "2026-09-09T16:50:22.851Z",
+      "key": "Nvidia:JR2025110",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T16:50:19.255Z"
+    },
+    {
       "id": "R248316",
       "title": "Lead Software Engineer, Full Stack - Card Tech",
       "location": "McLean, VA",
@@ -5735,6 +5783,22 @@
         "us"
       ],
       "firstSeen": "2026-09-09T16:40:19.967Z"
+    },
+    {
+      "id": "6173732004",
+      "title": "Sr. Engineering Manager, SDET",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://cribl.io/job-detail/?gh_jid=6173732004",
+      "postedAt": "2026-09-09T16:40:19.000Z",
+      "key": "cribl:6173732004",
+      "company": "Cribl",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T16:50:19.255Z"
     },
     {
       "id": "8178593",
@@ -5818,7 +5882,7 @@
     },
     {
       "id": "8163523",
-      "title": "Distributed Systems Engineer - Cache",
+      "title": "Senior Distributed Systems Engineer - Cache",
       "location": "Atlanta, GA (+7 more)",
       "team": "Engineering",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8163523?gh_jid=8163523",
