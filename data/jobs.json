@@ -1,14 +1,18 @@
 {
-  "generatedAt": "2026-09-09T19:40:20.745Z",
+  "generatedAt": "2026-09-09T19:50:19.655Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "coinbase:8094196",
+    "saronic:cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce",
+    "saronic:60afb634-5515-4347-824a-3816735541c2"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 54,
+    "intern": 56,
     "new-grad": 24,
     "experienced": 2098
   },
@@ -1052,7 +1056,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -1787,7 +1791,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4363,7 +4367,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,66 @@
     }
   ],
   "jobs": [
+    {
+      "id": "cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce",
+      "title": "Forward Deployed Engineer Intern (Summer 2027)",
+      "location": "Austin, TX",
+      "team": "Internships & Co-Ops",
+      "url": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce",
+      "postedAt": "2026-09-09T19:46:26.327Z",
+      "key": "saronic:cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce",
+      "company": "Saronic",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T19:50:19.655Z"
+    },
+    {
+      "id": "8094196",
+      "title": "Senior Software Engineer- Blockchain Network",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8094196?gh_jid=8094196",
+      "postedAt": "2026-09-09T19:45:26.000Z",
+      "key": "coinbase:8094196",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T19:50:19.655Z"
+    },
+    {
+      "id": "60afb634-5515-4347-824a-3816735541c2",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "location": "Austin, TX",
+      "team": "Internships & Co-Ops",
+      "url": "https://jobs.ashbyhq.com/saronic/60afb634-5515-4347-824a-3816735541c2",
+      "postedAt": "2026-09-09T19:45:15.873Z",
+      "key": "saronic:60afb634-5515-4347-824a-3816735541c2",
+      "company": "Saronic",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T19:50:19.655Z"
+    },
     {
       "id": "R29483",
       "title": "Security Engineer III - SIEM (Hybrid)",
@@ -25337,7 +25401,7 @@
     },
     {
       "id": "8743183002",
-      "title": "Senior Software Engineer - Frontend",
+      "title": "Senior Software Engineer - Design Platform - Frontend",
       "location": "Toronto, ON",
       "team": null,
       "url": "https://boards.greenhouse.io/faire/jobs/8743183002?gh_jid=8743183002",
@@ -32197,13 +32261,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -32213,13 +32277,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -39948,22 +40012,6 @@
         "us"
       ],
       "firstSeen": "2026-08-10T20:00:23.773Z"
-    },
-    {
-      "id": "7823193003",
-      "title": "Staff Software Engineer, Metadata",
-      "location": "Oakland, California, United States",
-      "team": null,
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7823193003",
-      "postedAt": "2026-08-10T19:45:42.000Z",
-      "key": "fivetran:7823193003",
-      "company": "Fivetran",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T16:40:17.653Z"
     },
     {
       "id": "JR2023052",
