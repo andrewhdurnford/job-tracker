@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-09-09T16:50:19.255Z",
+  "generatedAt": "2026-09-09T17:00:29.263Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "cribl:6173732004",
-    "CrowdStrike:R25320",
-    "Nvidia:JR2025110",
-    "Nvidia:JR2025003"
+    "Capital One:R999645",
+    "instacart:8188987",
+    "lucidmotors:5198254007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2090
+    "experienced": 2091
   },
   "companies": [
     {
@@ -1526,7 +1525,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -2422,7 +2421,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -2814,7 +2813,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 133,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R999645",
+      "title": "Lead Software Engineer, Full Stack (GO/Java/Python, Vue/Node)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack--GO-Java-Python--Vue-Node-_R999645-1",
+      "postedAt": "2026-09-09T17:00:32.949Z",
+      "key": "Capital One:R999645",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T17:00:29.263Z"
+    },
+    {
+      "id": "8188987",
+      "title": "Software Engineer II, - Ads",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8188987",
+      "postedAt": "2026-09-09T16:56:03.000Z",
+      "key": "instacart:8188987",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-09T17:00:29.263Z"
+    },
+    {
+      "id": "5198254007",
+      "title": "Staff Engineer, Powertrain Reliability",
+      "location": "Newark, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/5198254007",
+      "postedAt": "2026-09-09T16:52:09.000Z",
+      "key": "lucidmotors:5198254007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T17:00:29.263Z"
+    },
     {
       "id": "R25320",
       "title": "Sr Backend Engineer, Falcon NG-SIEM, Global Serverless Platform",
@@ -26465,22 +26512,6 @@
       "firstSeen": "2026-08-21T19:40:18.477Z"
     },
     {
-      "id": "R249305",
-      "title": "Lead Software Engineer",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer_R249305-1",
-      "postedAt": "2026-08-21T19:30:25.702Z",
-      "key": "Capital One:R249305",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T19:30:22.093Z"
-    },
-    {
       "id": "6150355004",
       "title": "Software Engineer (Applied AI/ML)",
       "location": "Santa Clara, CA or Remote",
@@ -29789,13 +29820,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141756",
+      "id": "8141757",
       "title": "Staff Software Engineer",
-      "location": "Chicago",
+      "location": "San Francisco",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141756",
+      "key": "braze:8141757",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -29805,13 +29836,13 @@
       "firstSeen": "2026-08-19T15:10:20.180Z"
     },
     {
-      "id": "8141757",
+      "id": "8141756",
       "title": "Staff Software Engineer",
-      "location": "San Francisco",
+      "location": "Chicago",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8141757",
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8141756",
       "postedAt": "2026-08-19T15:09:29.000Z",
-      "key": "braze:8141757",
+      "key": "braze:8141756",
       "company": "Braze",
       "level": "experienced",
       "term": null,
@@ -39864,22 +39895,6 @@
         "us"
       ],
       "firstSeen": "2026-08-10T17:00:24.741Z"
-    },
-    {
-      "id": "8119442",
-      "title": "Senior Security Research Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8119442&gh_jid=8119442",
-      "postedAt": "2026-08-10T16:52:39.000Z",
-      "key": "elastic:8119442",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T13:30:22.424Z"
     },
     {
       "id": "R248757",
