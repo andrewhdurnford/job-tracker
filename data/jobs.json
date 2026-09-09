@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-09-09T17:50:16.563Z",
+  "generatedAt": "2026-09-09T18:00:25.673Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "anyscale:5104d34f-d58a-4165-bb30-9a96c8ff311c",
-    "DocuSign:30272"
+    "airbnb:8154705",
+    "chime:8790231002",
+    "permitflow:9b2d3e2c-48e6-4951-87b5-497c37f91072"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2094
+    "experienced": 2096
   },
   "companies": [
     {
@@ -117,7 +118,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -929,7 +930,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1412,7 +1413,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -2064,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3659,7 +3660,7 @@
     {
       "name": "PermitFlow",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8154705",
+      "title": "Staff Software Engineer, Data Catalog",
+      "location": "USA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8154705?gh_jid=8154705",
+      "postedAt": "2026-09-09T17:59:25.000Z",
+      "key": "airbnb:8154705",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T18:00:25.673Z"
+    },
+    {
+      "id": "9b2d3e2c-48e6-4951-87b5-497c37f91072",
+      "title": "Engineering Manager, AI",
+      "location": "New York City, NY",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/permitflow/9b2d3e2c-48e6-4951-87b5-497c37f91072",
+      "postedAt": "2026-09-09T17:55:58.849Z",
+      "key": "permitflow:9b2d3e2c-48e6-4951-87b5-497c37f91072",
+      "company": "PermitFlow",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T18:00:25.673Z"
+    },
+    {
+      "id": "8790231002",
+      "title": "Senior Data Scientist, Organic Growth",
+      "location": "San Francisco, CA, USA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/chime/jobs/8790231002?gh_jid=8790231002",
+      "postedAt": "2026-09-09T17:55:42.000Z",
+      "key": "chime:8790231002",
+      "company": "Chime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T18:00:25.673Z"
+    },
     {
       "id": "5104d34f-d58a-4165-bb30-9a96c8ff311c",
       "title": "Staff Software Engineer, Ray Data",
@@ -36439,7 +36488,7 @@
       "id": "1929137d-1aef-4eae-9490-b934a90bc2ab",
       "title": "Senior Software Engineer, Infrastructure Foundations",
       "location": "United States",
-      "team": "Foundations",
+      "team": "Infrastructure",
       "url": "https://jobs.ashbyhq.com/temporal/1929137d-1aef-4eae-9490-b934a90bc2ab",
       "postedAt": "2026-08-12T23:28:55.909Z",
       "key": "temporal:1929137d-1aef-4eae-9490-b934a90bc2ab",
@@ -39910,22 +39959,6 @@
         "us"
       ],
       "firstSeen": "2026-08-10T18:09:30.458Z"
-    },
-    {
-      "id": "8691572002",
-      "title": "Staff Data Engineer - Data Infrastructure",
-      "location": "San Francisco Bay Area",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8691572002",
-      "postedAt": "2026-08-10T17:56:48.000Z",
-      "key": "discord:8691572002",
-      "company": "Discord",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T18:00:24.855Z"
     },
     {
       "id": "JR2022760",
