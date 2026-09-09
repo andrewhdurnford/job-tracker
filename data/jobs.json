@@ -1,15 +1,10 @@
 {
-  "generatedAt": "2026-09-09T02:40:20.475Z",
+  "generatedAt": "2026-09-09T02:50:17.007Z",
   "bootstrap": false,
-  "lastRunNewCount": 7,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "anthropic:5418610008",
-    "verkada:5233097007",
-    "verkada:5233096007",
-    "verkada:5233095007",
-    "verkada:5233094007",
-    "verkada:5233093007",
-    "verkada:5233100007"
+    "verkada:5233102007",
+    "verkada:5233103007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -4699,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5707,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5233103007",
+      "title": "Senior Backend Engineer - Access Control",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5233103007",
+      "postedAt": "2026-09-09T02:42:35.000Z",
+      "key": "verkada:5233103007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T02:50:17.007Z"
+    },
+    {
+      "id": "5233102007",
+      "title": "Embedded Software Engineer - Access Control",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5233102007",
+      "postedAt": "2026-09-09T02:42:04.000Z",
+      "key": "verkada:5233102007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T02:50:17.007Z"
+    },
     {
       "id": "5233100007",
       "title": "Staff Frontend Engineer - Design Systems",
@@ -29859,22 +29886,6 @@
       "firstSeen": "2026-08-19T03:30:23.315Z"
     },
     {
-      "id": "5215838007",
-      "title": "Senior Backend Engineer - Access Control",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5215838007",
-      "postedAt": "2026-08-19T03:24:31.000Z",
-      "key": "verkada:5215838007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T03:30:23.315Z"
-    },
-    {
       "id": "29c316b0-ffdc-4184-9efe-13a11591e22c",
       "title": "Engineering Manager, Subscriptions ",
       "location": "Strava SF",
@@ -36699,22 +36710,6 @@
       "firstSeen": "2026-08-12T17:50:23.131Z"
     },
     {
-      "id": "5210563007",
-      "title": "Embedded Software Engineer - Access Control",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5210563007",
-      "postedAt": "2026-08-12T17:43:20.000Z",
-      "key": "verkada:5210563007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T17:50:23.131Z"
-    },
-    {
       "id": "8091855",
       "title": "Senior AI Data Engineer",
       "location": "Remote - US",
@@ -38961,22 +38956,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -38989,6 +38968,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
