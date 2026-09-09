@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-09T15:40:19.039Z",
+  "generatedAt": "2026-09-09T15:50:20.499Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "garnerhealth:6186559004",
+    "spacex:8788050002",
+    "spacex:8788058002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2085
+    "experienced": 2087
   },
   "companies": [
     {
@@ -1913,7 +1917,7 @@
     {
       "name": "Garner Health",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -3089,7 +3093,7 @@
     {
       "name": "Mixpanel",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 131,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 133,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6186559004",
+      "title": "Staff Software Engineer (Developer Experience)",
+      "location": "Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6186559004",
+      "postedAt": "2026-09-09T15:50:18.000Z",
+      "key": "garnerhealth:6186559004",
+      "company": "Garner Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-09T15:50:20.499Z"
+    },
+    {
+      "id": "8788058002",
+      "title": "Sr. Launch Reliability Engineer (Launch Pads & Recovery)",
+      "location": "Cape Canaveral, FL",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8788058002?gh_jid=8788058002",
+      "postedAt": "2026-09-09T15:47:05.000Z",
+      "key": "spacex:8788058002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T15:50:20.499Z"
+    },
+    {
+      "id": "8788050002",
+      "title": "CMM Programmer (Valves) - 2nd Shift",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8788050002?gh_jid=8788050002",
+      "postedAt": "2026-09-09T15:46:56.000Z",
+      "key": "spacex:8788050002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T15:50:20.499Z"
+    },
     {
       "id": "JR2025003",
       "title": "Senior Infrastructure Engineer - AI, Automation, Observability and Monitoring",
@@ -39067,22 +39119,6 @@
       "firstSeen": "2026-08-10T22:50:17.528Z"
     },
     {
-      "id": "7833950003",
-      "title": "Staff Software Engineer, Backend (Online Storage) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
-      "postedAt": "2026-08-10T22:39:50.000Z",
-      "key": "affirm:7833950003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T22:40:20.168Z"
-    },
-    {
       "id": "7833952003",
       "title": "Staff Software Engineer, Backend (Online Storage) ",
       "location": "Remote Canada",
@@ -39095,6 +39131,22 @@
       "term": null,
       "regions": [
         "canada"
+      ],
+      "firstSeen": "2026-08-10T22:40:20.168Z"
+    },
+    {
+      "id": "7833950003",
+      "title": "Staff Software Engineer, Backend (Online Storage) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003",
+      "postedAt": "2026-08-10T22:39:50.000Z",
+      "key": "affirm:7833950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
       ],
       "firstSeen": "2026-08-10T22:40:20.168Z"
     },
@@ -39779,22 +39831,6 @@
       ],
       "firstSeen": "2026-08-19T22:03:00.773Z",
       "seeded": true
-    },
-    {
-      "id": "8115028",
-      "title": "Senior Data Scientist, AI Product Insights",
-      "location": "San Francisco, US (Hybrid)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8115028",
-      "postedAt": "2026-08-10T15:48:55.000Z",
-      "key": "mixpanel:8115028",
-      "company": "Mixpanel",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T15:50:21.384Z"
     },
     {
       "id": "R248757",
