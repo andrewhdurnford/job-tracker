@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-09T16:20:17.515Z",
+  "generatedAt": "2026-09-09T16:30:25.062Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "pinterest:8157900"
+    "cribl:6183372004",
+    "handshake:2f936add-3a94-48d9-9759-90c1e2c64d3e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2084
+    "experienced": 2082
   },
   "companies": [
     {
@@ -1229,7 +1230,7 @@
     {
       "name": "Cribl",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -2146,7 +2147,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2419,7 +2420,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -3133,7 +3134,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3756,7 +3757,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 133,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4772,7 +4773,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "2f936add-3a94-48d9-9759-90c1e2c64d3e",
+      "title": "Software Engineer I, Quality",
+      "location": "San Francisco, CA",
+      "team": "HAI Engineering",
+      "url": "https://jobs.ashbyhq.com/handshake/2f936add-3a94-48d9-9759-90c1e2c64d3e",
+      "postedAt": "2026-09-09T16:22:54.248Z",
+      "key": "handshake:2f936add-3a94-48d9-9759-90c1e2c64d3e",
+      "company": "Handshake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T16:30:25.062Z"
+    },
+    {
+      "id": "6183372004",
+      "title": "Senior Legal AI Platform Engineer",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://cribl.io/job-detail/?gh_jid=6183372004",
+      "postedAt": "2026-09-09T16:20:58.000Z",
+      "key": "cribl:6183372004",
+      "company": "Cribl",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T16:30:25.062Z"
+    },
     {
       "id": "8157900",
       "title": "Staff Software Engineer, Workflow Platform",
@@ -13385,7 +13418,7 @@
     {
       "id": "6162484004",
       "title": "Site Reliability Engineer I",
-      "location": "Atlanta",
+      "location": "Atlanta; Toronto",
       "team": null,
       "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6162484004",
       "postedAt": "2026-09-01T22:14:00.000Z",
@@ -13394,7 +13427,8 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "us",
+        "canada"
       ],
       "firstSeen": "2026-09-01T22:20:18.735Z"
     },
@@ -16806,22 +16840,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T07:00:27.497Z"
-    },
-    {
-      "id": "R29963",
-      "title": "Sr. Engineer, Compiler - SaLT (Remote, GBR)",
-      "location": "United Kingdom - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Engineer--Compiler---SaLT--Remote--GBR-_R29963",
-      "postedAt": "2026-08-31T05:30:31.623Z",
-      "key": "CrowdStrike:R29963",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-31T05:30:26.173Z"
     },
     {
       "id": "8749208002",
@@ -36050,7 +36068,7 @@
     },
     {
       "id": "8076151",
-      "title": "Staff Software Engineer, Dashboard",
+      "title": "Staff Software Engineer, Dashboard Product",
       "location": "San Francisco",
       "team": "8414 MerchantXP - Eng",
       "url": "https://stripe.com/jobs/search?gh_jid=8076151",
@@ -39732,54 +39750,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T13:30:22.424Z"
-    },
-    {
-      "id": "8065483",
-      "title": "Senior Software Engineer",
-      "location": "Atlanta; Austin; Baltimore; Boston; Charlotte; Chicago; Columbus; Dallas; Miami; Nashville; New York City; Philadelphia; Pittsburgh; Princeton; Raleigh; Tysons; Washington DC",
-      "team": null,
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8065483",
-      "postedAt": "2026-08-10T16:28:40.000Z",
-      "key": "mongodb:8065483",
-      "company": "MongoDB",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T16:30:21.707Z"
-    },
-    {
-      "id": "8119683",
-      "title": "Senior Software Engineer, Marketing Platform Tooling",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8119683",
-      "postedAt": "2026-08-10T16:27:01.000Z",
-      "key": "instacart:8119683",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-11T22:40:17.240Z"
-    },
-    {
-      "id": "8075888",
-      "title": "Staff Software Engineer, Web Product Enablement ",
-      "location": "San Francisco, CA, US; Remote, CA, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8075888",
-      "postedAt": "2026-08-10T16:26:10.000Z",
-      "key": "pinterest:8075888",
-      "company": "Pinterest",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T20:10:19.612Z"
     },
     {
       "id": "R248757",
