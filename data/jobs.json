@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-09T14:50:18.077Z",
+  "generatedAt": "2026-09-09T15:00:31.026Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "stripe:8172503"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 55,
     "new-grad": 21,
-    "experienced": 2087
+    "experienced": 2084
   },
   "companies": [
     {
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 139,
+      "jobCount": 137,
       "error": null,
       "stale": false
     },
@@ -1199,7 +1201,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4797,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5511,7 +5513,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8172503",
+      "title": "Abuse Research Engineer",
+      "location": "Remote from the US",
+      "team": "8611 Security Analytics",
+      "url": "https://stripe.com/jobs/search?gh_jid=8172503",
+      "postedAt": "2026-09-09T14:52:09.000Z",
+      "key": "stripe:8172503",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-09T15:00:31.026Z"
+    },
     {
       "id": "60fa8c9b-e031-476e-a9d3-011966c4b495",
       "title": "Staff Agentic AI Engineer - Marketing",
@@ -11321,22 +11339,6 @@
       "firstSeen": "2026-09-03T13:20:17.496Z"
     },
     {
-      "id": "R245975",
-      "title": "Lead Software Engineer, Front End",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Front-End_R245975-1",
-      "postedAt": "2026-09-03T12:30:27.497Z",
-      "key": "Capital One:R245975",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T12:30:23.527Z"
-    },
-    {
       "id": "82622c6f-9b8f-44d1-b8fc-2d4634f5abbf",
       "title": "Silicon Validation Engineer, Software",
       "location": "San Jose",
@@ -16212,7 +16214,7 @@
     },
     {
       "id": "3744bda5-c74a-4fa0-abb2-73da7fcfef09",
-      "title": "Staff Software Engineer - Snowflake Feature Store",
+      "title": "Senior / Staff Software Engineer - Snowflake Feature Store",
       "location": "US-WA-Bellevue",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/snowflake/3744bda5-c74a-4fa0-abb2-73da7fcfef09",
@@ -25977,22 +25979,6 @@
         "us"
       ],
       "firstSeen": "2026-08-21T21:30:22.483Z"
-    },
-    {
-      "id": "R249343",
-      "title": "Senior Staff Software Engineer",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Senior-Staff-Software-Engineer_R249343-1",
-      "postedAt": "2026-08-21T21:10:28.859Z",
-      "key": "Capital One:R249343",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-21T21:10:25.253Z"
     },
     {
       "id": "8146039",
@@ -39796,39 +39782,6 @@
         "us"
       ],
       "firstSeen": "2026-08-10T15:10:20.611Z"
-    },
-    {
-      "id": "8110739",
-      "title": "Staff II, Computer Vision Engineer",
-      "location": "Mountain View, USA",
-      "team": null,
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8110739",
-      "postedAt": "2026-08-10T14:58:07.000Z",
-      "key": "coupang:8110739",
-      "company": "Coupang",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T22:03:00.773Z",
-      "seeded": true
-    },
-    {
-      "id": "bad22437-eb14-4aa9-bbf8-8ce0f0b63c85",
-      "title": "Senior Data Product Engineer",
-      "location": "Boston, MA",
-      "team": "Machine Learning & Research",
-      "url": "https://jobs.ashbyhq.com/whoop/bad22437-eb14-4aa9-bbf8-8ce0f0b63c85",
-      "postedAt": "2026-08-10T14:57:28.753Z",
-      "key": "whoop:bad22437-eb14-4aa9-bbf8-8ce0f0b63c85",
-      "company": "WHOOP",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-10T15:00:29.889Z"
     },
     {
       "id": "R248808",
