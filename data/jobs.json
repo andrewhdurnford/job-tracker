@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-09-10T18:10:21.429Z",
+  "generatedAt": "2026-09-10T18:20:17.983Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "fastly:8189311",
+    "tanium:8181017"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 62,
+    "intern": 63,
     "new-grad": 25,
-    "experienced": 2123
+    "experienced": 2124
   },
   "companies": [
     {
@@ -1689,7 +1692,7 @@
     {
       "name": "Fastly",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4972,7 +4975,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8181017",
+      "title": "Software Engineering Intern – Summer 2027",
+      "location": "Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
+      "postedAt": "2026-09-10T18:19:05.000Z",
+      "key": "tanium:8181017",
+      "company": "Tanium",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T18:20:17.983Z"
+    },
+    {
+      "id": "8189311",
+      "title": "Senior Software Engineer, Edge Security",
+      "location": "Denver, CO; New York City, NY; San Francisco, CA",
+      "team": null,
+      "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8189311",
+      "postedAt": "2026-09-10T18:16:45.000Z",
+      "key": "fastly:8189311",
+      "company": "Fastly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T18:20:17.983Z"
+    },
     {
       "id": "R1000306",
       "title": "Lead Software Engineer",
