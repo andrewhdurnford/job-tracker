@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T19:10:17.900Z",
+  "generatedAt": "2026-09-10T19:20:19.355Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "cerebras:e62f91e4-3079-45aa-87ff-b848b56c54e6"
+    "Procore:R0018386"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 63,
     "new-grad": 25,
-    "experienced": 2123
+    "experienced": 2118
   },
   "companies": [
     {
@@ -3413,7 +3413,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3889,7 +3889,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4772,7 +4772,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4799,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5324,7 +5324,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R0018386",
+      "title": "Senior Software Engineer, Backend (Java)",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-Software-Engineer--Backend--Java-_R0018386",
+      "postedAt": "2026-09-10T19:20:22.618Z",
+      "key": "Procore:R0018386",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T19:20:19.355Z"
+    },
     {
       "id": "e62f91e4-3079-45aa-87ff-b848b56c54e6",
       "title": "Software Engineer - Host and Network IO",
@@ -33970,13 +33986,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -33986,13 +34002,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40466,105 +40482,6 @@
       "url": "https://nuro.ai/careersitem?gh_jid=8122537",
       "postedAt": "2026-08-11T19:23:02.000Z",
       "key": "nuro:8122537",
-      "company": "Nuro",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T22:03:00.773Z",
-      "seeded": true
-    },
-    {
-      "id": "8122528",
-      "title": "Senior/Staff Software Engineer, ML Inference Platform",
-      "location": "Mountain View, California (HQ)",
-      "team": null,
-      "url": "https://nuro.ai/careersitem?gh_jid=8122528",
-      "postedAt": "2026-08-11T19:20:09.000Z",
-      "key": "nuro:8122528",
-      "company": "Nuro",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T22:03:00.773Z",
-      "seeded": true
-    },
-    {
-      "id": "62945aae-55b0-4598-977a-b2dd00ec9081",
-      "title": "Senior Software Engineer, Product Platform",
-      "location": "Remote - Canada",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/62945aae-55b0-4598-977a-b2dd00ec9081",
-      "postedAt": "2026-08-11T19:17:33.731Z",
-      "key": "vanta:62945aae-55b0-4598-977a-b2dd00ec9081",
-      "company": "Vanta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-11T19:20:18.335Z"
-    },
-    {
-      "id": "021cca9c-f937-4d97-8be7-bc83af8307be",
-      "title": "Senior Software Engineer, Product Platform",
-      "location": "Remote U.S.",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/021cca9c-f937-4d97-8be7-bc83af8307be",
-      "postedAt": "2026-08-11T19:17:30.850Z",
-      "key": "vanta:021cca9c-f937-4d97-8be7-bc83af8307be",
-      "company": "Vanta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T19:20:18.335Z"
-    },
-    {
-      "id": "8120494",
-      "title": "Staff Software Engineer, Financial Crimes",
-      "location": "Toronto",
-      "team": "8217 Risk Engineering",
-      "url": "https://stripe.com/jobs/search?gh_jid=8120494",
-      "postedAt": "2026-08-11T19:17:09.000Z",
-      "key": "stripe:8120494",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-11T19:20:18.335Z"
-    },
-    {
-      "id": "8122483",
-      "title": "Software Engineer, ML Infrastructure Platform",
-      "location": "Mountain View, California (HQ)",
-      "team": null,
-      "url": "https://nuro.ai/careersitem?gh_jid=8122483",
-      "postedAt": "2026-08-11T19:13:46.000Z",
-      "key": "nuro:8122483",
-      "company": "Nuro",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T22:03:00.773Z",
-      "seeded": true
-    },
-    {
-      "id": "8122477",
-      "title": "Senior Software Engineer, ML Infrastructure Platform",
-      "location": "Mountain View, California (HQ)",
-      "team": null,
-      "url": "https://nuro.ai/careersitem?gh_jid=8122477",
-      "postedAt": "2026-08-11T19:11:44.000Z",
-      "key": "nuro:8122477",
       "company": "Nuro",
       "level": "experienced",
       "term": null,
