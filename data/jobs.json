@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-10T18:50:17.257Z",
+  "generatedAt": "2026-09-10T19:00:26.091Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "cloudflare:8192032",
-    "stripe:8142302"
+    "block:5421096008",
+    "block:5414624008",
+    "perplexity:5c561bd0-c180-4ee1-b079-647f3c20bdc0",
+    "Procore:R0018525"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -614,7 +616,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3673,7 +3675,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3890,7 +3892,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 133,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 131,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5346,7 +5348,7 @@
     {
       "name": "Vercel",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R0018525",
+      "title": "Principal Site Reliability Engineer, AI Automation and Orchestration",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Principal-Site-Reliability-Engineer--AI-Automation-and-Orchestration_R0018525",
+      "postedAt": "2026-09-10T19:00:29.766Z",
+      "key": "Procore:R0018525",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T19:00:26.091Z"
+    },
+    {
+      "id": "5421096008",
+      "title": "Staff Software Engineer, Financial Platform - Issuing",
+      "location": "Seattle, WA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5421096008?gh_jid=5421096008",
+      "postedAt": "2026-09-10T18:57:06.000Z",
+      "key": "block:5421096008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T19:00:26.091Z"
+    },
+    {
+      "id": "5414624008",
+      "title": "Staff Software Engineer, Financial Platform - Issuing",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5414624008?gh_jid=5414624008",
+      "postedAt": "2026-09-10T18:56:02.000Z",
+      "key": "block:5414624008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T19:00:26.091Z"
+    },
+    {
+      "id": "5c561bd0-c180-4ee1-b079-647f3c20bdc0",
+      "title": "Member of Technical Staff (Applied AI Engineer, Agent Capabilities)",
+      "location": "San Francisco (+1 more)",
+      "team": "AI Products",
+      "url": "https://jobs.ashbyhq.com/perplexity/5c561bd0-c180-4ee1-b079-647f3c20bdc0",
+      "postedAt": "2026-09-10T18:49:57.605Z",
+      "key": "perplexity:5c561bd0-c180-4ee1-b079-647f3c20bdc0",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T19:00:26.091Z"
+    },
     {
       "id": "8192032",
       "title": "Senior Manager, Forward Deployed Engineering",
@@ -26499,38 +26565,6 @@
       "firstSeen": "2026-08-25T11:20:19.749Z"
     },
     {
-      "id": "6161129004",
-      "title": "Software Engineer, Data Platform ",
-      "location": "Hybrid - San Francisco, New York City",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
-      "postedAt": "2026-08-25T11:03:57.000Z",
-      "key": "vercel:6161129004",
-      "company": "Vercel",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T11:10:22.329Z"
-    },
-    {
-      "id": "5914473004",
-      "title": "Senior Data Engineer - GTM",
-      "location": "Hybrid - San Francisco, New York City",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/5914473004",
-      "postedAt": "2026-08-25T10:38:06.000Z",
-      "key": "vercel:5914473004",
-      "company": "Vercel",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T10:40:19.063Z"
-    },
-    {
       "id": "5220950007",
       "title": "Senior/Staff Software Engineer, Platform Infrastructure",
       "location": "San Mateo, CA United States",
@@ -40525,38 +40559,6 @@
       ],
       "firstSeen": "2026-08-19T22:03:00.773Z",
       "seeded": true
-    },
-    {
-      "id": "8696900002",
-      "title": "Sr. Full Stack Engineer, Internal Systems",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696900002?gh_jid=8696900002",
-      "postedAt": "2026-08-11T18:54:52.000Z",
-      "key": "spacex:8696900002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T19:00:26.542Z"
-    },
-    {
-      "id": "8696897002",
-      "title": "Full Stack Software Engineer, MES (Manufacturing Execution System)",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696897002?gh_jid=8696897002",
-      "postedAt": "2026-08-11T18:53:33.000Z",
-      "key": "spacex:8696897002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T19:00:26.542Z"
     },
     {
       "id": "e906188a-e089-4b86-85b9-aad0d4413c68",
