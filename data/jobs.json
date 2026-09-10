@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-09-10T15:30:28.307Z",
+  "generatedAt": "2026-09-10T15:40:18.675Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "doordashusa:8191134",
-    "Nvidia:JR2024601",
-    "Nvidia:JR2010934"
+    "Nvidia:JR2024769",
+    "Nvidia:JR2024380",
+    "Nvidia:JR2024492",
+    "Nvidia:JR2018368"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 61,
     "new-grad": 25,
-    "experienced": 2125
+    "experienced": 2129
   },
   "companies": [
     {
@@ -3429,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 165,
+      "jobCount": 169,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 133,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2024769",
+      "title": "Senior Platform Security Engineer – Device Trust, Attestation and Secure Browser",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Security-Engineer---Device-Trust--Attestation-and-Secure-Browser_JR2024769",
+      "postedAt": "2026-09-10T15:40:32.206Z",
+      "key": "Nvidia:JR2024769",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T15:40:18.675Z"
+    },
+    {
+      "id": "JR2018368",
+      "title": "Senior System Software Engineer, RTL-to-GDS Flow Platform",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-System-Software-Engineer--RTL-to-GDS-Flow-Platform_JR2018368",
+      "postedAt": "2026-09-10T15:40:32.206Z",
+      "key": "Nvidia:JR2018368",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T15:40:18.675Z"
+    },
+    {
+      "id": "JR2024492",
+      "title": "Senior Systems Software Engineer - Infrastructure",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Infrastructure_JR2024492",
+      "postedAt": "2026-09-10T15:40:32.206Z",
+      "key": "Nvidia:JR2024492",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T15:40:18.675Z"
+    },
+    {
+      "id": "JR2024380",
+      "title": "Staff Security Engineer - PAM and Agentic Identity",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-Security-Engineer---PAM-and-Agentic-Identity_JR2024380",
+      "postedAt": "2026-09-10T15:40:32.206Z",
+      "key": "Nvidia:JR2024380",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T15:40:18.675Z"
+    },
     {
       "id": "JR2010934",
       "title": "Senior Software Engineer, Data Platform",
