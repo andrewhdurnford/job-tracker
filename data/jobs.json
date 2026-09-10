@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-10T00:40:17.683Z",
+  "generatedAt": "2026-09-10T00:50:21.707Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "cape:7d19a584-40c0-47ea-9729-53a82d70a625",
-    "Nvidia:JR2025013",
-    "Nvidia:JR2024711"
+    "Nvidia:JR2019457",
+    "Nvidia:JR2020429",
+    "stripe:8174965"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 61,
     "new-grad": 25,
-    "experienced": 2122
+    "experienced": 2125
   },
   "companies": [
     {
@@ -2877,7 +2877,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3429,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 171,
+      "jobCount": 173,
       "error": null,
       "stale": false
     },
@@ -4801,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2019457",
+      "title": "Director, Software Engineering for NVIDIA Experience",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Director--Solution-Engineering-for-NVIDIA-Experience_JR2019457",
+      "postedAt": "2026-09-10T00:50:25.584Z",
+      "key": "Nvidia:JR2019457",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T00:50:21.707Z"
+    },
+    {
+      "id": "JR2020429",
+      "title": "Senior Software Development Engineer in Test, Confidential Computing - SDET",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test--Confidential-Computing---SDET_JR2020429-1",
+      "postedAt": "2026-09-10T00:50:25.584Z",
+      "key": "Nvidia:JR2020429",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T00:50:21.707Z"
+    },
+    {
+      "id": "8174965",
+      "title": "Security Engineer ",
+      "location": "US Remote ",
+      "team": "8611 Security Analytics",
+      "url": "https://stripe.com/jobs/search?gh_jid=8174965",
+      "postedAt": "2026-09-10T00:41:43.000Z",
+      "key": "stripe:8174965",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T00:50:21.707Z"
+    },
     {
       "id": "JR2025013",
       "title": "Senior Infrastructure Engineer - Infrastructure Security and Core Services",
