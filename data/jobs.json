@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T02:50:20.230Z",
+  "generatedAt": "2026-09-10T03:00:27.188Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -983,7 +983,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2915,7 +2915,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4467,10 +4467,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 33,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Shiru",
