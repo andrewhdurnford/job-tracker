@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-10T15:20:19.787Z",
+  "generatedAt": "2026-09-10T15:30:28.307Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Visa:REF081854W"
+    "doordashusa:8191134",
+    "Nvidia:JR2024601",
+    "Nvidia:JR2010934"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1375,10 +1377,10 @@
     },
     {
       "name": "Deepnote",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Deeptune",
@@ -1453,7 +1455,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -3392,7 +3394,7 @@
     {
       "name": "Nox Metals",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 164,
+      "jobCount": 165,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2010934",
+      "title": "Senior Software Engineer, Data Platform",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Data-Platform_JR2010934",
+      "postedAt": "2026-09-10T15:30:32.712Z",
+      "key": "Nvidia:JR2010934",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T15:30:28.307Z"
+    },
+    {
+      "id": "JR2024601",
+      "title": "Senior Storage Platform Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Storage-Platform-Engineer_JR2024601-1",
+      "postedAt": "2026-09-10T15:30:32.712Z",
+      "key": "Nvidia:JR2024601",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T15:30:28.307Z"
+    },
+    {
+      "id": "8191134",
+      "title": "Senior Software Engineer, Storage - Distributed Caching",
+      "location": "San Francisco, CA; Seattle, WA; New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8191134",
+      "postedAt": "2026-09-10T15:26:04.000Z",
+      "key": "doordashusa:8191134",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T15:30:28.307Z"
+    },
     {
       "id": "REF081854W",
       "title": "Lead Research Scientist",
@@ -29565,22 +29615,6 @@
       "firstSeen": "2026-08-20T23:23:29.318Z"
     },
     {
-      "id": "JR2018368",
-      "title": "Senior System Software Engineer, RTL-to-GDS Flow Platform",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-System-Software-Engineer--RTL-to-GDS-Flow-Platform_JR2018368",
-      "postedAt": "2026-08-20T23:23:33.491Z",
-      "key": "Nvidia:JR2018368",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T23:23:29.318Z"
-    },
-    {
       "id": "8688078002",
       "title": "Intermediate Software Engineer, Security Factory: Vulnerability Management ",
       "location": "Remote, Canada; Remote, Israel; Remote, United Kingdom",
@@ -40610,38 +40644,6 @@
       "postedAt": "2026-08-11T15:30:33.940Z",
       "key": "Capital One:R248785",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T15:30:30.195Z"
-    },
-    {
-      "id": "8108995",
-      "title": "Senior Seating and Restraints Architecture Engineer",
-      "location": "Mountain View, CA, US",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8108995",
-      "postedAt": "2026-08-11T15:23:02.000Z",
-      "key": "waymo:8108995",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T15:30:30.195Z"
-    },
-    {
-      "id": "ad5ed9b3-b4d3-447c-ad97-7573fef883ae",
-      "title": "Software Engineer",
-      "location": "Detroit",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/nox-metals/ad5ed9b3-b4d3-447c-ad97-7573fef883ae",
-      "postedAt": "2026-08-11T15:21:36.132Z",
-      "key": "nox-metals:ad5ed9b3-b4d3-447c-ad97-7573fef883ae",
-      "company": "Nox Metals",
       "level": "experienced",
       "term": null,
       "regions": [
