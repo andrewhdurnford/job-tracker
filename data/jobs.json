@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-10T21:30:23.418Z",
+  "generatedAt": "2026-09-10T21:40:19.871Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "baseten:4d91f30b-8c06-48c2-a56e-f48fc34968d4"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 62,
     "new-grad": 25,
-    "experienced": 2118
+    "experienced": 2115
   },
   "companies": [
     {
@@ -65,7 +67,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -520,7 +522,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4636,7 +4638,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5581,7 +5583,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4d91f30b-8c06-48c2-a56e-f48fc34968d4",
+      "title": "Emerging Clouds & International Coverage Lead",
+      "location": "San Francisco",
+      "team": "Compute",
+      "url": "https://jobs.ashbyhq.com/baseten/4d91f30b-8c06-48c2-a56e-f48fc34968d4",
+      "postedAt": "2026-09-10T21:30:54.723Z",
+      "key": "baseten:4d91f30b-8c06-48c2-a56e-f48fc34968d4",
+      "company": "Baseten",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T21:40:19.871Z"
+    },
     {
       "id": "8189317",
       "title": "Backend Engineer, IAM",
@@ -34466,22 +34484,6 @@
       "firstSeen": "2026-08-17T23:30:24.125Z"
     },
     {
-      "id": "R171086",
-      "title": "Software Development Engineer 3",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer-3_R171086",
-      "postedAt": "2026-08-17T23:20:24.995Z",
-      "key": "Adobe:R171086",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T23:20:17.221Z"
-    },
-    {
       "id": "ff741902-a4e7-4d91-8d1d-e6d7af599043",
       "title": "Software Engineer",
       "location": "New York",
@@ -40354,38 +40356,6 @@
       "firstSeen": "2026-08-11T22:00:36.037Z"
     },
     {
-      "id": "6cb3d18f-da62-4465-9eda-1c2cec33b3a0",
-      "title": "Senior Security Engineer, Incident Response",
-      "location": "US-USA-Remote",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/6cb3d18f-da62-4465-9eda-1c2cec33b3a0",
-      "postedAt": "2026-08-11T21:38:43.783Z",
-      "key": "snowflake:6cb3d18f-da62-4465-9eda-1c2cec33b3a0",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T21:39:44.726Z"
-    },
-    {
-      "id": "10f51a30-17eb-4eed-80b0-bb03c9d473c6",
-      "title": "Senior Security Engineer, Incident Response",
-      "location": "US-CA-Menlo Park (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/10f51a30-17eb-4eed-80b0-bb03c9d473c6",
-      "postedAt": "2026-08-11T21:37:06.998Z",
-      "key": "snowflake:10f51a30-17eb-4eed-80b0-bb03c9d473c6",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T21:39:44.726Z"
-    },
-    {
       "id": "R29345",
       "title": "Sr. Software Engineer - Cloud - Asset Platform (Hybrid)",
       "location": "USA - New York, NY",
@@ -40401,22 +40371,6 @@
       ],
       "firstSeen": "2026-08-13T21:33:23.715Z",
       "seeded": true
-    },
-    {
-      "id": "5209858007",
-      "title": "Software Engineer, Data Center - Memphis",
-      "location": " Southaven, MS; Memphis, TN",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5209858007",
-      "postedAt": "2026-08-11T21:31:01.000Z",
-      "key": "xai:5209858007",
-      "company": "xAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T21:39:44.726Z"
     },
     {
       "id": "R248786",
