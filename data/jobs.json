@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T14:40:21.549Z",
+  "generatedAt": "2026-09-10T14:50:20.419Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -64,10 +64,10 @@
     },
     {
       "name": "Adobe",
-      "ok": true,
+      "ok": false,
       "jobCount": 34,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Adyen",
@@ -1375,7 +1375,7 @@
       "name": "Deepnote",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3424,10 +3424,10 @@
     },
     {
       "name": "Nvidia",
-      "ok": true,
+      "ok": false,
       "jobCount": 164,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Oasis Security",
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 133,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5398,10 +5398,10 @@
     },
     {
       "name": "Visa",
-      "ok": true,
+      "ok": false,
       "jobCount": 24,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Vitalize",
