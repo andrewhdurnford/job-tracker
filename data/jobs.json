@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-10T18:40:21.802Z",
+  "generatedAt": "2026-09-10T18:50:17.257Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "cloudflare:8192032",
+    "stripe:8142302"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1010,7 +1013,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 133,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4797,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5371,7 +5374,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5399,7 +5402,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8192032",
+      "title": "Senior Manager, Forward Deployed Engineering",
+      "location": "Austin, TX (+1 more)",
+      "team": "Developer Relations",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8192032?gh_jid=8192032",
+      "postedAt": "2026-09-10T18:41:40.000Z",
+      "key": "cloudflare:8192032",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T18:50:17.257Z"
+    },
     {
       "id": "8191972",
       "title": "Principal AI Architect",
@@ -12115,7 +12134,7 @@
     },
     {
       "id": "8157344",
-      "title": "Staff Security Engineer",
+      "title": "Staff Security Engineer, Threat Hunting",
       "location": "Remote - US",
       "team": null,
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8157344",
@@ -30260,22 +30279,6 @@
       "firstSeen": "2026-08-20T19:58:06.458Z"
     },
     {
-      "id": "REF083050W",
-      "title": "Staff Data Engineer",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-Data-Engineer_REF083050W",
-      "postedAt": "2026-08-20T19:50:23.212Z",
-      "key": "Visa:REF083050W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T19:50:19.200Z"
-    },
-    {
       "id": "d86e0295-d4f3-45b7-93c2-b45309db9f89",
       "title": "Senior Product Security Engineer",
       "location": "United States | Canada",
@@ -31340,6 +31343,22 @@
         "us"
       ],
       "firstSeen": "2026-08-19T20:45:53.017Z"
+    },
+    {
+      "id": "8142302",
+      "title": "Security Incident Response Engineer",
+      "location": "US Remote",
+      "team": "8611 Security Analytics",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142302",
+      "postedAt": "2026-08-19T20:33:11.000Z",
+      "key": "stripe:8142302",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T18:50:17.257Z"
     },
     {
       "id": "83f7f33a-9c74-459a-a324-b2dea2e709dd",
@@ -40538,22 +40557,6 @@
         "us"
       ],
       "firstSeen": "2026-08-11T19:00:26.542Z"
-    },
-    {
-      "id": "5209588007",
-      "title": "Senior Embedded Linux Engineer - Connectivity",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5209588007",
-      "postedAt": "2026-08-11T18:43:52.000Z",
-      "key": "verkada:5209588007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T18:50:20.317Z"
     },
     {
       "id": "e906188a-e089-4b86-85b9-aad0d4413c68",
