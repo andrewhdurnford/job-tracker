@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-10T21:40:19.871Z",
+  "generatedAt": "2026-09-10T21:49:34.633Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "baseten:4d91f30b-8c06-48c2-a56e-f48fc34968d4"
+    "coinbase:8177946"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 62,
     "new-grad": 25,
-    "experienced": 2115
+    "experienced": 2111
   },
   "companies": [
     {
@@ -676,7 +676,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1054,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 131,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 128,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -9362,6 +9362,22 @@
       "firstSeen": "2026-09-08T22:40:19.201Z"
     },
     {
+      "id": "8177946",
+      "title": "Software Engineer- Money Movement ",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8177946?gh_jid=8177946",
+      "postedAt": "2026-09-08T22:17:36.000Z",
+      "key": "coinbase:8177946",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T21:49:34.633Z"
+    },
+    {
       "id": "7543005",
       "title": "Web Developer ",
       "location": "Toronto, Canada",
@@ -10026,22 +10042,6 @@
         "us"
       ],
       "firstSeen": "2026-09-08T18:30:25.017Z"
-    },
-    {
-      "id": "8186622",
-      "title": "Software Engineer III, Network Platform",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8186622",
-      "postedAt": "2026-09-08T18:22:04.000Z",
-      "key": "boxinc:8186622",
-      "company": "Box",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T21:40:18.268Z"
     },
     {
       "id": "JR2024887",
@@ -34532,22 +34532,6 @@
       "firstSeen": "2026-08-17T22:40:18.398Z"
     },
     {
-      "id": "8133235",
-      "title": "Software Engineer III, Edge",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8133235",
-      "postedAt": "2026-08-17T22:33:01.000Z",
-      "key": "boxinc:8133235",
-      "company": "Box",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T21:40:18.268Z"
-    },
-    {
       "id": "JR2019190",
       "title": "Applied AI Engineer - VLSI Design",
       "location": "US, CA, Santa Clara",
@@ -40304,54 +40288,6 @@
       "regions": [
         "us",
         "canada"
-      ],
-      "firstSeen": "2026-08-11T22:00:36.037Z"
-    },
-    {
-      "id": "8692270002",
-      "title": "Software Infrastructure Engineer, Flight Software (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8692270002?gh_jid=8692270002",
-      "postedAt": "2026-08-11T21:49:09.000Z",
-      "key": "spacex:8692270002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T22:00:36.037Z"
-    },
-    {
-      "id": "8692268002",
-      "title": "Platform Engineer, Flight Software (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8692268002?gh_jid=8692268002",
-      "postedAt": "2026-08-11T21:49:08.000Z",
-      "key": "spacex:8692268002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T22:00:36.037Z"
-    },
-    {
-      "id": "8692260002",
-      "title": "Flight Software Infrastructure Engineer (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8692260002?gh_jid=8692260002",
-      "postedAt": "2026-08-11T21:49:07.000Z",
-      "key": "spacex:8692260002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-08-11T22:00:36.037Z"
     },
