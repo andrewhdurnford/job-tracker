@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-10T20:10:21.668Z",
+  "generatedAt": "2026-09-10T20:20:17.723Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "coinbase:7964398"
+    "baseten:64181d8a-960d-4aa4-8d98-3cb22b1e0616",
+    "captivateiq:696f8b9b-5693-44fc-a3b3-9ecfe1bc1a1b",
+    "spacex:8796056002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 62,
     "new-grad": 25,
-    "experienced": 2117
+    "experienced": 2120
   },
   "companies": [
     {
@@ -522,7 +524,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -795,7 +797,7 @@
     {
       "name": "CaptivateIQ",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3867,24 +3869,24 @@
     },
     {
       "name": "Prelim",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Probably Genetic",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Probook",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Procore",
@@ -4694,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 131,
+      "jobCount": 132,
       "error": null,
       "stale": false
     },
@@ -5702,8 +5704,40 @@
   ],
   "jobs": [
     {
+      "id": "64181d8a-960d-4aa4-8d98-3cb22b1e0616",
+      "title": "AI Engineer",
+      "location": "San Francisco",
+      "team": "Compute",
+      "url": "https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616",
+      "postedAt": "2026-09-10T20:18:58.856Z",
+      "key": "baseten:64181d8a-960d-4aa4-8d98-3cb22b1e0616",
+      "company": "Baseten",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T20:20:17.723Z"
+    },
+    {
+      "id": "8796056002",
+      "title": "Software Engineer, Test Engineering and Operations",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8796056002?gh_jid=8796056002",
+      "postedAt": "2026-09-10T20:17:30.000Z",
+      "key": "spacex:8796056002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T20:20:17.723Z"
+    },
+    {
       "id": "7964398",
-      "title": "Senior Software Engineer",
+      "title": "Senior Software Engineer, Developer Infrastructure",
       "location": "Remote - USA",
       "team": null,
       "url": "https://www.coinbase.com/careers/positions/7964398?gh_jid=7964398",
@@ -18658,6 +18692,23 @@
         "us"
       ],
       "firstSeen": "2026-08-31T18:50:21.293Z"
+    },
+    {
+      "id": "696f8b9b-5693-44fc-a3b3-9ecfe1bc1a1b",
+      "title": "Senior Software Engineer - ICM",
+      "location": "Remote",
+      "team": "Software Engineering Team",
+      "url": "https://jobs.lever.co/captivateiq/696f8b9b-5693-44fc-a3b3-9ecfe1bc1a1b",
+      "postedAt": "2026-08-31T18:37:52.468Z",
+      "key": "captivateiq:696f8b9b-5693-44fc-a3b3-9ecfe1bc1a1b",
+      "company": "CaptivateIQ",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-09-10T20:20:17.723Z"
     },
     {
       "id": "5226418007",
@@ -34082,13 +34133,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -34098,13 +34149,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
