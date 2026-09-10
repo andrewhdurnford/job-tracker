@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-10T16:20:18.286Z",
+  "generatedAt": "2026-09-10T16:30:25.169Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Visa:REF088340W"
+    "assemblyai:4732736005",
+    "robinhood:8120094",
+    "roblox:8190596"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 61,
     "new-grad": 25,
-    "experienced": 2124
+    "experienced": 2126
   },
   "companies": [
     {
@@ -424,7 +426,7 @@
     {
       "name": "AssemblyAI",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -788,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 144,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -2875,7 +2877,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4232,14 +4234,14 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8190596",
+      "title": "Technical Developer Specialist, USA (Part-Time Contract) Contract ",
+      "location": "Remote",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8190596?gh_jid=8190596",
+      "postedAt": "2026-09-10T16:22:43.000Z",
+      "key": "roblox:8190596",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-10T16:30:25.169Z"
+    },
+    {
+      "id": "4732736005",
+      "title": "Security Operations Engineer",
+      "location": "Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4732736005",
+      "postedAt": "2026-09-10T16:21:07.000Z",
+      "key": "assemblyai:4732736005",
+      "company": "AssemblyAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-10T16:30:25.169Z"
+    },
     {
       "id": "REF088340W",
       "title": "Director, Mac & Mobile Engineering",
@@ -32982,6 +33016,22 @@
       "firstSeen": "2026-08-18T18:30:25.076Z"
     },
     {
+      "id": "8120094",
+      "title": "Software Engineer, Enterprise Build",
+      "location": "Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8120094?t=gh_src=&gh_jid=8120094",
+      "postedAt": "2026-08-18T18:25:23.000Z",
+      "key": "robinhood:8120094",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T16:30:25.169Z"
+    },
+    {
       "id": "7905709",
       "title": "Software Engineer, Marketplace Logistic",
       "location": "Mountain View, CA, United States ",
@@ -41476,23 +41526,6 @@
       "postedAt": "2026-07-23T00:30:51.649Z",
       "key": "Nvidia:JR2018660",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
-      "id": "R247300",
-      "title": "Lead Software Engineer, Full Stack (React, Java, AWS)",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer--Full-Stack--React--Java--AWS-_R247300-1",
-      "postedAt": "2026-07-23T00:30:32.005Z",
-      "key": "Capital One:R247300",
-      "company": "Capital One",
       "level": "experienced",
       "term": null,
       "regions": [
