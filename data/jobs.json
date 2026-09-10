@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-09-10T14:00:32.899Z",
+  "generatedAt": "2026-09-10T14:10:19.450Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "arq:9b53bbd7-98dc-477a-b215-09e8f635b00d"
+    "aiprise:fdc840eb-bfbc-4b92-a313-6f9552862893",
+    "Capital One:R1000130",
+    "Capital One:R1000131",
+    "toast:8154719"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 61,
     "new-grad": 25,
-    "experienced": 2119
+    "experienced": 2123
   },
   "companies": [
     {
@@ -109,7 +112,7 @@
     {
       "name": "AiPrise",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -788,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 141,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5107,7 +5110,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1000130",
+      "title": "Lead Software Engineer, DevOps",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Software-Engineer--DevOps_R1000130-1",
+      "postedAt": "2026-09-10T14:10:22.268Z",
+      "key": "Capital One:R1000130",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T14:10:19.450Z"
+    },
+    {
+      "id": "R1000131",
+      "title": "Lead Software Engineer, DevOps",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Lead-Software-Engineer--DevOps_R1000131-1",
+      "postedAt": "2026-09-10T14:10:22.268Z",
+      "key": "Capital One:R1000131",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T14:10:19.450Z"
+    },
+    {
+      "id": "fdc840eb-bfbc-4b92-a313-6f9552862893",
+      "title": "Bilingual Forward Deployed Engineer (English/Spanish)",
+      "location": "San Jose",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/aiprise/fdc840eb-bfbc-4b92-a313-6f9552862893",
+      "postedAt": "2026-09-10T14:08:03.535Z",
+      "key": "aiprise:fdc840eb-bfbc-4b92-a313-6f9552862893",
+      "company": "AiPrise",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T14:10:19.450Z"
+    },
     {
       "id": "8790999002",
       "title": "Firmware Engineer, LUS",
@@ -12414,6 +12465,22 @@
         "us"
       ],
       "firstSeen": "2026-09-03T21:00:32.942Z"
+    },
+    {
+      "id": "8154719",
+      "title": "Senior Software Engineer, Retail",
+      "location": "Remote, US",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8154719",
+      "postedAt": "2026-09-03T20:50:19.000Z",
+      "key": "toast:8154719",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T14:10:19.450Z"
     },
     {
       "id": "8162337",
@@ -33466,13 +33533,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -33482,13 +33549,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
