@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-09-10T20:00:25.508Z",
+  "generatedAt": "2026-09-10T20:10:21.668Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R248689",
-    "langchain:e725293d-c27b-4a79-959d-19f5618f2f8e",
-    "snowflake:81f44bce-ec85-4674-b07e-1c9bda452788"
+    "coinbase:7964398"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 62,
     "new-grad": 25,
-    "experienced": 2118
+    "experienced": 2117
   },
   "companies": [
     {
@@ -1056,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -2163,7 +2161,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2294,10 +2292,10 @@
     },
     {
       "name": "Human Interest",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Humanly",
@@ -2631,7 +2629,7 @@
     {
       "name": "Kong",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3541,7 +3539,7 @@
     {
       "name": "Oscar Health",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3869,24 +3867,24 @@
     },
     {
       "name": "Prelim",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Probably Genetic",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Probook",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Procore",
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 131,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7964398",
+      "title": "Senior Software Engineer",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/7964398?gh_jid=7964398",
+      "postedAt": "2026-09-10T20:07:04.000Z",
+      "key": "coinbase:7964398",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-10T20:10:21.668Z"
+    },
     {
       "id": "R248689",
       "title": "Senior Lead Software Engineer, Full Stack - Shopping (Remote- Eligible)",
@@ -40403,39 +40417,6 @@
         "us"
       ],
       "firstSeen": "2026-08-11T20:30:23.331Z"
-    },
-    {
-      "id": "8119736",
-      "title": "Staff AI Engineer",
-      "location": "New York, New York, United States",
-      "team": null,
-      "url": "http://www.hioscar.com/careers/8119736?gh_jid=8119736",
-      "postedAt": "2026-08-11T20:06:52.000Z",
-      "key": "oscar:8119736",
-      "company": "Oscar Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T22:03:00.773Z",
-      "seeded": true
-    },
-    {
-      "id": "ea7b507b-b249-4cf2-88ea-09fbbaf32acb",
-      "title": "Senior Staff Software Engineer - Agent Marketplace",
-      "location": "San Francisco, California, United States",
-      "team": "OCEO",
-      "url": "https://jobs.ashbyhq.com/kong/ea7b507b-b249-4cf2-88ea-09fbbaf32acb",
-      "postedAt": "2026-08-11T20:03:43.995Z",
-      "key": "kong:ea7b507b-b249-4cf2-88ea-09fbbaf32acb",
-      "company": "Kong",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-11T20:04:52.090Z"
     },
     {
       "id": "JR2017846",
