@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-11T15:40:16.578Z",
+  "generatedAt": "2026-09-11T15:50:20.498Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Nvidia:JR2025391"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1416,7 +1418,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2873,7 +2875,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 167,
+      "jobCount": 168,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 128,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025391",
+      "title": "Senior Software Engineer, Capacity Management - DGX Cloud",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Capacity-Management---DGX-Cloud_JR2025391",
+      "postedAt": "2026-09-11T15:50:25.188Z",
+      "key": "Nvidia:JR2025391",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T15:50:20.498Z"
+    },
     {
       "id": "JR114182",
       "title": "Senior Software Engineer, Test (Org Modeling)",
@@ -34681,13 +34699,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -34697,13 +34715,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40038,22 +40056,6 @@
         "us"
       ],
       "firstSeen": "2026-08-12T16:10:16.480Z"
-    },
-    {
-      "id": "aa9dac2f-ad93-4aa8-ab07-851685725806",
-      "title": "Senior Software Engineer, Sandboxes (London or East Coast Preferred)",
-      "location": "London, UK (+1 more)",
-      "team": "ENG-Engine",
-      "url": "https://jobs.ashbyhq.com/docker/aa9dac2f-ad93-4aa8-ab07-851685725806",
-      "postedAt": "2026-08-12T15:44:37.684Z",
-      "key": "docker:aa9dac2f-ad93-4aa8-ab07-851685725806",
-      "company": "Docker",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T15:50:21.965Z"
     },
     {
       "id": "R248981",
