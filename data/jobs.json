@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-09-11T15:50:20.498Z",
+  "generatedAt": "2026-09-11T16:00:26.239Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Nvidia:JR2025391"
+    "Capital One:R1000428",
+    "lyft:8790623002",
+    "lyft:8795875002",
+    "Nvidia:JR2025344",
+    "odyssey:4a947f92-00a1-4da9-b2bd-061865bd208c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 63,
     "new-grad": 25,
-    "experienced": 2091
+    "experienced": 2095
   },
   "companies": [
     {
@@ -788,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 142,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1247,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -1473,10 +1477,10 @@
     },
     {
       "name": "Dropbox",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Duffel",
@@ -2846,7 +2850,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -2896,7 +2900,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3427,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 168,
+      "jobCount": 169,
       "error": null,
       "stale": false
     },
@@ -3448,7 +3452,7 @@
     {
       "name": "Odyssey",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5031,7 +5035,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5302,10 +5306,10 @@
     },
     {
       "name": "Upstart",
-      "ok": true,
+      "ok": false,
       "jobCount": 7,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "UserGems",
@@ -5701,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025344",
+      "title": "Senior System Software Engineer – Linux-Tegra Power Management and Performance Optimization",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Linux-Tegra-Power-Management-and-Performance-Optimization_JR2025344",
+      "postedAt": "2026-09-11T16:00:29.971Z",
+      "key": "Nvidia:JR2025344",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:00:26.239Z"
+    },
+    {
+      "id": "R1000428",
+      "title": "Senior Lead Software Engineer, Full Stack",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Lead-Software-Engineer--Full-Stack_R1000428-1",
+      "postedAt": "2026-09-11T16:00:28.895Z",
+      "key": "Capital One:R1000428",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:00:26.239Z"
+    },
+    {
+      "id": "8790623002",
+      "title": "Business Systems Engineer, Intelligent Automation",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8790623002?gh_jid=8790623002",
+      "postedAt": "2026-09-11T16:00:17.000Z",
+      "key": "lyft:8790623002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T16:00:26.239Z"
+    },
+    {
+      "id": "8795875002",
+      "title": "Senior Software Engineer, Data Pipelines",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8795875002?gh_jid=8795875002",
+      "postedAt": "2026-09-11T15:58:54.000Z",
+      "key": "lyft:8795875002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T16:00:26.239Z"
+    },
+    {
+      "id": "4a947f92-00a1-4da9-b2bd-061865bd208c",
+      "title": "Sr. Full Stack Software Engineer",
+      "location": "New York, NY",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/odyssey/4a947f92-00a1-4da9-b2bd-061865bd208c",
+      "postedAt": "2026-09-11T15:56:45.784Z",
+      "key": "odyssey:4a947f92-00a1-4da9-b2bd-061865bd208c",
+      "company": "Odyssey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:00:26.239Z"
+    },
     {
       "id": "JR2025391",
       "title": "Senior Software Engineer, Capacity Management - DGX Cloud",
@@ -34699,13 +34783,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -34715,13 +34799,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -35811,22 +35895,6 @@
         "us"
       ],
       "firstSeen": "2026-08-21T09:40:17.850Z"
-    },
-    {
-      "id": "R29716",
-      "title": "Technical Support Engineer - Cloud (Remote, ROU)",
-      "location": "Romania - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Romania---Remote/Technical-Support-Engineer---Cloud--Remote--ROU-_R29716",
-      "postedAt": "2026-08-17T08:20:23.260Z",
-      "key": "CrowdStrike:R29716",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-17T08:20:19.780Z"
     },
     {
       "id": "JR2019870",
