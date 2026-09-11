@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-11T15:10:18.469Z",
+  "generatedAt": "2026-09-11T15:20:19.578Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "ServiceTitan:JR114182"
+    "Nvidia:JR2021919"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 63,
     "new-grad": 25,
-    "experienced": 2092
+    "experienced": 2093
   },
   "companies": [
     {
@@ -1928,10 +1928,10 @@
     },
     {
       "name": "General Proximity",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Genesis Molecular AI",
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 167,
+      "jobCount": 168,
       "error": null,
       "stale": false
     },
@@ -4119,10 +4119,10 @@
     },
     {
       "name": "Reflection AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "REGENT",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2021919",
+      "title": "Senior Developer Technology Engineer - Agentic AI",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Agentic-SoC-Performance_JR2021919",
+      "postedAt": "2026-09-11T15:20:24.427Z",
+      "key": "Nvidia:JR2021919",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T15:20:19.578Z"
+    },
     {
       "id": "JR114182",
       "title": "Senior Software Engineer, Test (Org Modeling)",
