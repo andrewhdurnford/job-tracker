@@ -1,11 +1,15 @@
 {
-  "generatedAt": "2026-09-11T20:54:13.492Z",
+  "generatedAt": "2026-09-11T21:00:26.098Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "Nvidia:JR2025124",
-    "Nvidia:JR2025122",
-    "Nvidia:JR2025455"
+    "Adobe:R171718",
+    "Adobe:R171719",
+    "Capital One:R1000592",
+    "doordashusa:8197854",
+    "openai:7f4c5eef-37f9-4454-a1fb-ef1e66b075d9",
+    "openai:967f94aa-1706-4dba-ac89-bfbc2c38b688",
+    "stripe:8197891"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +18,7 @@
   "levelCounts": {
     "intern": 74,
     "new-grad": 27,
-    "experienced": 2105
+    "experienced": 2112
   },
   "companies": [
     {
@@ -69,7 +73,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -790,7 +794,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 149,
+      "jobCount": 150,
       "error": null,
       "stale": false
     },
@@ -1455,7 +1459,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3513,7 +3517,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 53,
+      "jobCount": 55,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4699,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 126,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4801,7 +4805,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5565,7 +5569,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5703,6 +5707,118 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R171718",
+      "title": "Machine Learning Engineer",
+      "location": "San Jose",
+      "team": null,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171718",
+      "postedAt": "2026-09-11T21:00:30.132Z",
+      "key": "Adobe:R171718",
+      "company": "Adobe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T21:00:26.098Z"
+    },
+    {
+      "id": "R171719",
+      "title": "Machine Learning Engineer",
+      "location": "San Jose",
+      "team": null,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171719",
+      "postedAt": "2026-09-11T21:00:30.132Z",
+      "key": "Adobe:R171719",
+      "company": "Adobe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T21:00:26.098Z"
+    },
+    {
+      "id": "R1000592",
+      "title": "Part-Time Applied Data Scientist",
+      "location": "Cambridge, MA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cambridge-MA/Part-Time-Applied-Data-Scientist_R1000592",
+      "postedAt": "2026-09-11T21:00:29.605Z",
+      "key": "Capital One:R1000592",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T21:00:26.098Z"
+    },
+    {
+      "id": "8197854",
+      "title": "Software Engineer - Developer Experience, Web",
+      "location": "San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA; New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8197854",
+      "postedAt": "2026-09-11T21:00:22.000Z",
+      "key": "doordashusa:8197854",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T21:00:26.098Z"
+    },
+    {
+      "id": "8197891",
+      "title": "Software Engineer, Online Database Infrastructure",
+      "location": "Seattle, WA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8197891",
+      "postedAt": "2026-09-11T20:59:16.000Z",
+      "key": "stripe:8197891",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T21:00:26.098Z"
+    },
+    {
+      "id": "7f4c5eef-37f9-4454-a1fb-ef1e66b075d9",
+      "title": "Forward Deployed Engineer (FDE) - Seattle",
+      "location": "Seattle",
+      "team": "Forward Deployed Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/7f4c5eef-37f9-4454-a1fb-ef1e66b075d9",
+      "postedAt": "2026-09-11T20:56:13.406Z",
+      "key": "openai:7f4c5eef-37f9-4454-a1fb-ef1e66b075d9",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T21:00:26.098Z"
+    },
+    {
+      "id": "967f94aa-1706-4dba-ac89-bfbc2c38b688",
+      "title": "Forward Deployed Engineer (FDE) - SF",
+      "location": "San Francisco",
+      "team": "Forward Deployed Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/967f94aa-1706-4dba-ac89-bfbc2c38b688",
+      "postedAt": "2026-09-11T20:56:10.864Z",
+      "key": "openai:967f94aa-1706-4dba-ac89-bfbc2c38b688",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T21:00:26.098Z"
+    },
     {
       "id": "JR2025455",
       "title": "Senior AI and ML Software Engineer",
