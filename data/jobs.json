@@ -1,21 +1,19 @@
 {
-  "generatedAt": "2026-09-11T19:50:18.111Z",
+  "generatedAt": "2026-09-11T20:00:23.580Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "chainguard:4711370006",
-    "cloudflare:8157997",
-    "kong:60c71802-2f21-4294-a0f3-fc14949d88ff",
-    "Remitly:R_106896"
+    "authzed:3bfb826e-1125-4ea4-b5ea-a0dbe776ab18",
+    "lyft:8802332002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 74,
+    "intern": 75,
     "new-grad": 27,
-    "experienced": 2106
+    "experienced": 2107
   },
   "companies": [
     {
@@ -497,7 +495,7 @@
     {
       "name": "authzed",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2849,7 +2847,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -3247,10 +3245,10 @@
     },
     {
       "name": "Natera",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Navan",
@@ -5704,6 +5702,45 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3bfb826e-1125-4ea4-b5ea-a0dbe776ab18",
+      "title": "Senior Software Engineer",
+      "location": "United States (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/authzed/3bfb826e-1125-4ea4-b5ea-a0dbe776ab18",
+      "postedAt": "2026-09-11T19:58:41.360Z",
+      "key": "authzed:3bfb826e-1125-4ea4-b5ea-a0dbe776ab18",
+      "company": "authzed",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T20:00:23.580Z"
+    },
+    {
+      "id": "8802332002",
+      "title": "Software Engineer Intern, Machine Learning (Summer 2027)",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
+      "postedAt": "2026-09-11T19:58:05.000Z",
+      "key": "lyft:8802332002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T20:00:23.580Z"
+    },
     {
       "id": "R_106896",
       "title": "Security Engineer",
