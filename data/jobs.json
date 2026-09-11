@@ -1,20 +1,29 @@
 {
-  "generatedAt": "2026-09-11T16:40:52.482Z",
+  "generatedAt": "2026-09-11T16:50:17.760Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 12,
   "newKeys": [
-    "Capital One:R999616",
-    "netskope:8196024",
-    "Nvidia:JR2021919"
+    "lyft:8797376002",
+    "lyft:8767723002",
+    "lyft:8767697002",
+    "lyft:8796124002",
+    "lyft:8796052002",
+    "lyft:8767726002",
+    "lyft:8767710002",
+    "lyft:8796054002",
+    "lyft:8797837002",
+    "lyft:8797859002",
+    "lyft:8767534002",
+    "spacex:8784022002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 64,
+    "intern": 74,
     "new-grad": 26,
-    "experienced": 2094
+    "experienced": 2095
   },
   "companies": [
     {
@@ -1413,7 +1422,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2848,7 +2857,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4704,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 128,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 129,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5704,6 +5713,242 @@
   ],
   "jobs": [
     {
+      "id": "8796054002",
+      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "location": "Montreal, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
+      "postedAt": "2026-09-11T16:49:30.000Z",
+      "key": "lyft:8796054002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
+      "id": "8796052002",
+      "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027)",
+      "location": "Montreal, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
+      "postedAt": "2026-09-11T16:49:27.000Z",
+      "key": "lyft:8796052002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
+      "id": "8767534002",
+      "title": "Software Engineer Intern, Test Automation (Summer 2027)",
+      "location": "Montreal, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002",
+      "postedAt": "2026-09-11T16:49:13.000Z",
+      "key": "lyft:8767534002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
+      "id": "8797376002",
+      "title": "Data Engineer Intern (Summer 2027)",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002",
+      "postedAt": "2026-09-11T16:48:58.000Z",
+      "key": "lyft:8797376002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
+      "id": "8797859002",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
+      "postedAt": "2026-09-11T16:48:36.000Z",
+      "key": "lyft:8797859002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
+      "id": "8767697002",
+      "title": "Data Science Intern, Algorithms (Summer 2027)",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
+      "postedAt": "2026-09-11T16:48:11.000Z",
+      "key": "lyft:8767697002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
+      "id": "8767710002",
+      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
+      "postedAt": "2026-09-11T16:48:00.000Z",
+      "key": "lyft:8767710002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
+      "id": "8797837002",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
+      "postedAt": "2026-09-11T16:47:31.000Z",
+      "key": "lyft:8797837002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
+      "id": "8796124002",
+      "title": "Data Science Intern, Algorithms (Summer 2027)",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+      "postedAt": "2026-09-11T16:47:07.000Z",
+      "key": "lyft:8796124002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
+      "id": "8767723002",
+      "title": "Data Science Intern, Algorithms (Summer 2027)",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
+      "postedAt": "2026-09-11T16:47:05.000Z",
+      "key": "lyft:8767723002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
+      "id": "8767726002",
+      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
+      "postedAt": "2026-09-11T16:46:45.000Z",
+      "key": "lyft:8767726002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
+    },
+    {
       "id": "JR2021919",
       "title": "Senior Developer Technology Engineer - Agentic AI",
       "location": "US, CA, Santa Clara",
@@ -5754,6 +5999,22 @@
         "us"
       ],
       "firstSeen": "2026-09-11T16:40:52.482Z"
+    },
+    {
+      "id": "8784022002",
+      "title": "Data Engineer, Ground Network Engineering (Gateway)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8784022002?gh_jid=8784022002",
+      "postedAt": "2026-09-11T16:31:22.000Z",
+      "key": "spacex:8784022002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:50:17.760Z"
     },
     {
       "id": "5421528008",
@@ -10954,7 +11215,7 @@
     },
     {
       "id": "cbff2229-0bf0-4ca4-a794-fb3ff358e8e6",
-      "title": "Tech Lead Manager, Frontier Data Products - Multimodal  ",
+      "title": "Tech Lead Manager, Frontier Data Products",
       "location": "New York City",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/mercor/cbff2229-0bf0-4ca4-a794-fb3ff358e8e6",
@@ -15341,7 +15602,7 @@
       "id": "d16bd223-cb68-46f3-8bf6-41267b9770cb",
       "title": "Staff Security Software Engineer, IAM",
       "location": "San Francisco",
-      "team": "SecENG",
+      "team": "Security",
       "url": "https://jobs.ashbyhq.com/harvey/d16bd223-cb68-46f3-8bf6-41267b9770cb",
       "postedAt": "2026-09-02T23:13:53.367Z",
       "key": "harvey:d16bd223-cb68-46f3-8bf6-41267b9770cb",
@@ -18298,7 +18559,7 @@
       "id": "d2624850-8dd4-4eb4-b5dc-f386b715a26f",
       "title": "Software Engineer, Security",
       "location": "San Francisco",
-      "team": "SA",
+      "team": "Security",
       "url": "https://jobs.ashbyhq.com/harvey/d2624850-8dd4-4eb4-b5dc-f386b715a26f",
       "postedAt": "2026-09-01T14:38:55.762Z",
       "key": "harvey:d2624850-8dd4-4eb4-b5dc-f386b715a26f",
@@ -32146,7 +32407,7 @@
       "id": "f4b3077c-69dd-4656-851d-d9da65529634",
       "title": "Senior Software Engineer, Security",
       "location": "San Francisco (+1 more)",
-      "team": "SA",
+      "team": "Security",
       "url": "https://jobs.ashbyhq.com/harvey/f4b3077c-69dd-4656-851d-d9da65529634",
       "postedAt": "2026-08-19T22:31:27.330Z",
       "key": "harvey:f4b3077c-69dd-4656-851d-d9da65529634",
@@ -34897,13 +35158,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -34913,13 +35174,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40094,22 +40355,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-12T17:00:27.826Z"
-    },
-    {
-      "id": "8697883002",
-      "title": "Senior Software Engineer, Ads",
-      "location": "San Francisco Bay Area",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8697883002",
-      "postedAt": "2026-08-12T16:44:44.000Z",
-      "key": "discord:8697883002",
-      "company": "Discord",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T16:50:17.535Z"
     },
     {
       "id": "6e328b72-9f57-49e0-a1a8-4428abf8ff81",
