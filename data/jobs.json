@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-11T16:30:21.655Z",
+  "generatedAt": "2026-09-11T16:40:52.482Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "mattermost:5421528008"
+    "Capital One:R999616",
+    "netskope:8196024",
+    "Nvidia:JR2021919"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -11,8 +13,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 64,
-    "new-grad": 25,
-    "experienced": 2093
+    "new-grad": 26,
+    "experienced": 2094
   },
   "companies": [
     {
@@ -235,7 +237,7 @@
     {
       "name": "Amplitude",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -788,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 142,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -2896,7 +2898,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3294,7 +3296,7 @@
     {
       "name": "Netskope",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 169,
+      "jobCount": 170,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 128,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,58 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2021919",
+      "title": "Senior Developer Technology Engineer - Agentic AI",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Agentic-SoC-Performance_JR2021919",
+      "postedAt": "2026-09-11T16:40:56.849Z",
+      "key": "Nvidia:JR2021919",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:40:52.482Z"
+    },
+    {
+      "id": "R999616",
+      "title": "Associate, Data Scientist - New Grad, 2027 Start",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
+      "postedAt": "2026-09-11T16:40:55.921Z",
+      "key": "Capital One:R999616",
+      "company": "Capital One",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T16:40:52.482Z"
+    },
+    {
+      "id": "8196024",
+      "title": "Principal Engineer, Secure Web Gateway",
+      "location": "Santa Clara, California, United States",
+      "team": null,
+      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8196024",
+      "postedAt": "2026-09-11T16:35:39.000Z",
+      "key": "netskope:8196024",
+      "company": "Netskope",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:40:52.482Z"
+    },
     {
       "id": "5421528008",
       "title": "Senior Mobile Engineer ",
@@ -40056,22 +40110,6 @@
         "us"
       ],
       "firstSeen": "2026-08-12T16:50:17.535Z"
-    },
-    {
-      "id": "8700618002",
-      "title": "Software Engineer II, Growth",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8700618002",
-      "postedAt": "2026-08-12T16:33:28.000Z",
-      "key": "amplitude:8700618002",
-      "company": "Amplitude",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T16:40:18.966Z"
     },
     {
       "id": "6e328b72-9f57-49e0-a1a8-4428abf8ff81",
