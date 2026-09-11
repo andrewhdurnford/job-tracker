@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-11T02:00:26.505Z",
+  "generatedAt": "2026-09-11T02:10:19.447Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "cohere:70313283-6532-450a-8cae-18f9e05a7673"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 63,
     "new-grad": 25,
-    "experienced": 2107
+    "experienced": 2108
   },
   "companies": [
     {
@@ -1045,7 +1047,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 128,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "70313283-6532-450a-8cae-18f9e05a7673",
+      "title": "Software Engineer, Data Infrastructure",
+      "location": "United States (+2 more)",
+      "team": "Engineering & Infra",
+      "url": "https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673",
+      "postedAt": "2026-09-11T02:02:46.540Z",
+      "key": "cohere:70313283-6532-450a-8cae-18f9e05a7673",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T02:10:19.447Z"
+    },
     {
       "id": "b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
       "title": "Software Engineer, API Frontiers",
