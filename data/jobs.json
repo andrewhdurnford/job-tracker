@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-09-11T23:30:21.773Z",
+  "generatedAt": "2026-09-11T23:40:17.368Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "Capital One:R1000377",
+    "openai:bd2b8228-bb0f-42e0-94bd-c853cdd56140",
+    "spacex:8802897002",
+    "spacex:8802882002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 74,
-    "new-grad": 27,
-    "experienced": 2122
+    "new-grad": 29,
+    "experienced": 2121
   },
   "companies": [
     {
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 158,
+      "jobCount": 159,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 56,
+      "jobCount": 57,
       "error": null,
       "stale": false
     },
@@ -3719,7 +3724,7 @@
     {
       "name": "Physical Intelligence",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4104,7 +4109,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4237,7 +4242,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -4692,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 125,
+      "jobCount": 127,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1000377",
+      "title": "Director, AI Engineering (Remote - eligible)",
+      "location": "4 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--AI-Engineering_R1000377-1",
+      "postedAt": "2026-09-11T23:40:20.795Z",
+      "key": "Capital One:R1000377",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-11T23:40:17.368Z"
+    },
+    {
+      "id": "bd2b8228-bb0f-42e0-94bd-c853cdd56140",
+      "title": "Research Engineer, AI for Chip Design",
+      "location": "San Francisco",
+      "team": "AI for Chip Design",
+      "url": "https://jobs.ashbyhq.com/openai/bd2b8228-bb0f-42e0-94bd-c853cdd56140",
+      "postedAt": "2026-09-11T23:38:19.412Z",
+      "key": "openai:bd2b8228-bb0f-42e0-94bd-c853cdd56140",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T23:40:17.368Z"
+    },
+    {
+      "id": "8802897002",
+      "title": "New Graduate Engineer, Security Software (Starshield) ",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8802897002?gh_jid=8802897002",
+      "postedAt": "2026-09-11T23:36:47.000Z",
+      "key": "spacex:8802897002",
+      "company": "SpaceX",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T23:40:17.368Z"
+    },
+    {
+      "id": "8802882002",
+      "title": "New Graduate Engineer, Security Software (Starshield) ",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8802882002?gh_jid=8802882002",
+      "postedAt": "2026-09-11T23:36:45.000Z",
+      "key": "spacex:8802882002",
+      "company": "SpaceX",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T23:40:17.368Z"
+    },
     {
       "id": "5422684008",
       "title": "Staff Software Engineer, Search",
@@ -29341,22 +29410,6 @@
       "firstSeen": "2026-08-24T22:37:02.724Z"
     },
     {
-      "id": "8131273",
-      "title": "Senior Software Engineer (Backend), Communities",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8131273?gh_jid=8131273",
-      "postedAt": "2026-08-24T22:23:41.000Z",
-      "key": "roblox:8131273",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T22:30:22.310Z"
-    },
-    {
       "id": "3fbb23bd-c06c-49da-8834-4da67200275e",
       "title": " Research Engineer, Model Evaluation and Improvement",
       "location": "San Francisco, CA",
@@ -30945,22 +30998,6 @@
         "us"
       ],
       "firstSeen": "2026-08-21T21:10:25.253Z"
-    },
-    {
-      "id": "031e9b1e-6e58-4c81-b608-3cfda0514082",
-      "title": "Fullstack Software Engineer ",
-      "location": "San Francisco",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/physicalintelligence/031e9b1e-6e58-4c81-b608-3cfda0514082",
-      "postedAt": "2026-08-21T20:43:28.591Z",
-      "key": "physicalintelligence:031e9b1e-6e58-4c81-b608-3cfda0514082",
-      "company": "Physical Intelligence",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T20:50:18.917Z"
     },
     {
       "id": "R29866",
@@ -40587,22 +40624,6 @@
         "us"
       ],
       "firstSeen": "2026-08-13T00:20:17.749Z"
-    },
-    {
-      "id": "8127002",
-      "title": "Staff Android Engineer, Brand Ad Formats",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8127002",
-      "postedAt": "2026-08-12T23:32:32.000Z",
-      "key": "reddit:8127002",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T23:40:17.564Z"
     },
     {
       "id": "5210998007",
