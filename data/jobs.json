@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-09-11T21:40:17.375Z",
+  "generatedAt": "2026-09-11T21:50:20.474Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "DocuSign:30183",
-    "fivetran:7990752003",
-    "Nvidia:JR2019101"
+    "affirm:7985907003",
+    "Arctic Wolf:R26_737",
+    "Capital One:R1000317",
+    "chainguard:4712233006",
+    "chainguard:4712228006"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +16,7 @@
   "levelCounts": {
     "intern": 74,
     "new-grad": 27,
-    "experienced": 2115
+    "experienced": 2119
   },
   "companies": [
     {
@@ -83,7 +85,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -356,7 +358,7 @@
     {
       "name": "Arctic Wolf",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -790,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 151,
+      "jobCount": 152,
       "error": null,
       "stale": false
     },
@@ -881,7 +883,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4339,7 +4341,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 126,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5705,87 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R26_737",
+      "title": "Manager, Engineering - Endpoint Security",
+      "location": "Remote, United States",
+      "team": null,
+      "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Remote-United-States/Manager--Engineering---Endpoint-Security_R26_737",
+      "postedAt": "2026-09-11T21:50:24.100Z",
+      "key": "Arctic Wolf:R26_737",
+      "company": "Arctic Wolf",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T21:50:20.474Z"
+    },
+    {
+      "id": "R1000317",
+      "title": "Lead Data Engineer (Python, Spark, AWS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Data-Engineer--Python--Spark--AWS-_R1000317-1",
+      "postedAt": "2026-09-11T21:50:23.994Z",
+      "key": "Capital One:R1000317",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T21:50:20.474Z"
+    },
+    {
+      "id": "7985907003",
+      "title": "Software Engineer I, Frontend (Upfunnel)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003",
+      "postedAt": "2026-09-11T21:47:40.000Z",
+      "key": "affirm:7985907003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T21:50:20.474Z"
+    },
+    {
+      "id": "4712228006",
+      "title": "Staff Software Engineer ",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4712228006",
+      "postedAt": "2026-09-11T21:46:12.000Z",
+      "key": "chainguard:4712228006",
+      "company": "Chainguard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T21:50:20.474Z"
+    },
+    {
+      "id": "4712233006",
+      "title": "Senior Software Engineer ",
+      "location": "Canada - Remote; United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4712233006",
+      "postedAt": "2026-09-11T21:42:43.000Z",
+      "key": "chainguard:4712233006",
+      "company": "Chainguard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-11T21:50:20.474Z"
+    },
     {
       "id": "7990752003",
       "title": "Senior Staff Site Reliability Engineer",
@@ -39336,22 +39419,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T17:26:44.391Z"
-    },
-    {
-      "id": "8129161",
-      "title": "Senior Software Engineer II",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161",
-      "postedAt": "2026-08-13T21:00:44.000Z",
-      "key": "samsara:8129161",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-28T21:30:24.262Z"
     },
     {
       "id": "7d009e77-9b6d-417c-a0a2-fde94587e1f1",
