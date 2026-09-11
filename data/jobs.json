@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-09-11T18:50:16.665Z",
+  "generatedAt": "2026-09-11T19:00:27.226Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "Capital One:R1000307",
+    "Capital One:R1000308",
+    "Capital One:R1000480",
+    "casca:83618a63-6e9f-43c7-baa7-70460f4db8a7",
+    "wrapbook:20ae44c3-dc45-4289-a4c6-3c270191f52f"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +16,7 @@
   "levelCounts": {
     "intern": 74,
     "new-grad": 27,
-    "experienced": 2098
+    "experienced": 2101
   },
   "companies": [
     {
@@ -170,7 +176,7 @@
     {
       "name": "Aleo",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -786,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 144,
+      "jobCount": 147,
       "error": null,
       "stale": false
     },
@@ -849,7 +855,7 @@
     {
       "name": "Casca",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 129,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 128,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5559,15 +5565,15 @@
     },
     {
       "name": "World Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Wrapbook",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5700,6 +5706,86 @@
   ],
   "jobs": [
     {
+      "id": "R1000308",
+      "title": "Lead Data Engineer",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Data-Engineer_R1000308-2",
+      "postedAt": "2026-09-11T19:00:30.096Z",
+      "key": "Capital One:R1000308",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T19:00:27.226Z"
+    },
+    {
+      "id": "R1000307",
+      "title": "Lead Software Engineer",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer_R1000307-1",
+      "postedAt": "2026-09-11T19:00:30.096Z",
+      "key": "Capital One:R1000307",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T19:00:27.226Z"
+    },
+    {
+      "id": "R1000480",
+      "title": "Lead Software Engineer, Full Stack",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R1000480-1",
+      "postedAt": "2026-09-11T19:00:30.096Z",
+      "key": "Capital One:R1000480",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T19:00:27.226Z"
+    },
+    {
+      "id": "83618a63-6e9f-43c7-baa7-70460f4db8a7",
+      "title": "Senior Infrastructure Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/casca/83618a63-6e9f-43c7-baa7-70460f4db8a7",
+      "postedAt": "2026-09-11T18:57:49.404Z",
+      "key": "casca:83618a63-6e9f-43c7-baa7-70460f4db8a7",
+      "company": "Casca",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T19:00:27.226Z"
+    },
+    {
+      "id": "20ae44c3-dc45-4289-a4c6-3c270191f52f",
+      "title": "Manager, Engineering - Frontend",
+      "location": "Remote - US & Canada",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/wrapbook/20ae44c3-dc45-4289-a4c6-3c270191f52f",
+      "postedAt": "2026-09-11T18:54:20.825Z",
+      "key": "wrapbook:20ae44c3-dc45-4289-a4c6-3c270191f52f",
+      "company": "Wrapbook",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T19:00:27.226Z"
+    },
+    {
       "id": "REF083050W",
       "title": "Staff Data Engineer",
       "location": "US - Austin, TX",
@@ -5717,7 +5803,7 @@
     },
     {
       "id": "536f32ad-b84f-4164-9ed2-9928c9aac7a5",
-      "title": "Forward Deployed Engineer",
+      "title": "Forward Deployed Engineer - Strategic Account",
       "location": "New York City",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/metal/536f32ad-b84f-4164-9ed2-9928c9aac7a5",
@@ -24263,7 +24349,7 @@
     {
       "id": "7a9c5827-cbeb-4397-b364-b7a5177b9f62",
       "title": "Developer Advocate",
-      "location": "San Francisco Bay Area",
+      "location": "San Francisco",
       "team": "Marketing",
       "url": "https://jobs.ashbyhq.com/fireworks/7a9c5827-cbeb-4397-b364-b7a5177b9f62",
       "postedAt": "2026-08-27T16:55:47.881Z",
@@ -24649,7 +24735,7 @@
     },
     {
       "id": "3e5ac6d6-40f0-4299-a353-bb84bd906f14",
-      "title": "Senior Principal Engineer, Central Ops & Systems ",
+      "title": "Senior Principal Engineer, Central Ops & Systems",
       "location": "Seattle, WA",
       "team": "GA-Central Ops & Systems",
       "url": "https://jobs.ashbyhq.com/docker/3e5ac6d6-40f0-4299-a353-bb84bd906f14",
@@ -25017,22 +25103,6 @@
         "us"
       ],
       "firstSeen": "2026-08-27T00:00:28.846Z"
-    },
-    {
-      "id": "8753254002",
-      "title": "Sr. Power Systems Engineer",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8753254002?gh_jid=8753254002",
-      "postedAt": "2026-08-26T23:36:28.000Z",
-      "key": "spacex:8753254002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T23:40:19.842Z"
     },
     {
       "id": "8407913002",
@@ -35408,13 +35478,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -35424,13 +35494,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40365,22 +40435,6 @@
         "us"
       ],
       "firstSeen": "2026-08-12T19:10:18.300Z"
-    },
-    {
-      "id": "4479fd25-0a0c-4d58-851e-a66165d11a54",
-      "title": "Senior Frontend Engineer",
-      "location": "Remote",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/provable/4479fd25-0a0c-4d58-851e-a66165d11a54",
-      "postedAt": "2026-08-12T18:58:15.556Z",
-      "key": "provable:4479fd25-0a0c-4d58-851e-a66165d11a54",
-      "company": "Aleo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-12T19:00:26.230Z"
     },
     {
       "id": "JR2022838",
