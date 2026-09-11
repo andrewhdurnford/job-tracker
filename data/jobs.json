@@ -1,22 +1,19 @@
 {
-  "generatedAt": "2026-09-11T16:00:26.239Z",
+  "generatedAt": "2026-09-11T16:10:17.036Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1000428",
-    "lyft:8790623002",
-    "lyft:8795875002",
-    "Nvidia:JR2025344",
-    "odyssey:4a947f92-00a1-4da9-b2bd-061865bd208c"
+    "abridge:3f07a457-dc14-4238-bf4e-5c33b5c1f883",
+    "snowflake:1c90dd70-ffa8-4a50-844d-00a3e8726bd3"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 63,
+    "intern": 64,
     "new-grad": 25,
-    "experienced": 2095
+    "experienced": 2094
   },
   "companies": [
     {
@@ -43,7 +40,7 @@
     {
       "name": "Abridge",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1226,7 +1223,7 @@
     {
       "name": "Cresta",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -1477,10 +1474,10 @@
     },
     {
       "name": "Dropbox",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Duffel",
@@ -2900,7 +2897,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3137,7 +3134,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4642,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -5035,7 +5032,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5306,10 +5303,10 @@
     },
     {
       "name": "Upstart",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "UserGems",
@@ -5705,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1c90dd70-ffa8-4a50-844d-00a3e8726bd3",
+      "title": "Senior Software Engineer - Security Foundations",
+      "location": "US-WA-Bellevue (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/1c90dd70-ffa8-4a50-844d-00a3e8726bd3",
+      "postedAt": "2026-09-11T16:06:10.471Z",
+      "key": "snowflake:1c90dd70-ffa8-4a50-844d-00a3e8726bd3",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:10:17.036Z"
+    },
+    {
+      "id": "3f07a457-dc14-4238-bf4e-5c33b5c1f883",
+      "title": "Software Engineer, Intern",
+      "location": "SF Office (+1 more)",
+      "team": "Product Engineering",
+      "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883",
+      "postedAt": "2026-09-11T16:02:37.613Z",
+      "key": "abridge:3f07a457-dc14-4238-bf4e-5c33b5c1f883",
+      "company": "Abridge",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-11T16:10:17.036Z"
+    },
     {
       "id": "JR2025344",
       "title": "Senior System Software Engineer – Linux-Tegra Power Management and Performance Optimization",
@@ -34783,13 +34812,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -34799,13 +34828,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40092,38 +40121,6 @@
         "us"
       ],
       "firstSeen": "2026-08-12T16:15:31.847Z"
-    },
-    {
-      "id": "5376093008",
-      "title": "Senior Developer Relations Engineer",
-      "location": "United States (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/cresta/jobs/5376093008",
-      "postedAt": "2026-08-12T16:02:54.000Z",
-      "key": "cresta:5376093008",
-      "company": "Cresta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T16:10:16.480Z"
-    },
-    {
-      "id": "8065401",
-      "title": "Lead Forward Deployed Engineer",
-      "location": "New York City",
-      "team": null,
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8065401",
-      "postedAt": "2026-08-12T16:01:12.000Z",
-      "key": "mongodb:8065401",
-      "company": "MongoDB",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-12T16:10:16.480Z"
     },
     {
       "id": "R248981",
