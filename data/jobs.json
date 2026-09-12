@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-12T03:10:18.819Z",
+  "generatedAt": "2026-09-12T03:20:17.307Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "openai:241154df-ab1a-4dfa-8b18-66e087d1e636",
+    "retell-ai:161bcfc9-56dd-4d0c-869d-e5de1431a940"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1052,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 57,
+      "jobCount": 58,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 127,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "241154df-ab1a-4dfa-8b18-66e087d1e636",
+      "title": "Engineering Manager, Cooperative Systems ",
+      "location": "San Francisco",
+      "team": "Support Automation",
+      "url": "https://jobs.ashbyhq.com/openai/241154df-ab1a-4dfa-8b18-66e087d1e636",
+      "postedAt": "2026-09-12T03:19:39.860Z",
+      "key": "openai:241154df-ab1a-4dfa-8b18-66e087d1e636",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-12T03:20:17.307Z"
+    },
+    {
+      "id": "161bcfc9-56dd-4d0c-869d-e5de1431a940",
+      "title": "Forward Deployed Engineer, New Grad",
+      "location": "San Francisco Bay Area",
+      "team": "Applied AI",
+      "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940",
+      "postedAt": "2026-09-12T03:15:19.815Z",
+      "key": "retell-ai:161bcfc9-56dd-4d0c-869d-e5de1431a940",
+      "company": "Retell AI",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-12T03:20:17.307Z"
+    },
     {
       "id": "19cbe5dc-4248-4b21-aed4-8c33e484c1f4",
       "title": "Senior Fullstack Engineer, AI Orchestration",
@@ -7943,22 +7978,6 @@
         "us"
       ],
       "firstSeen": "2026-09-11T01:20:52.860Z"
-    },
-    {
-      "id": "8193862",
-      "title": "Senior Software Engineer, Backend (Institutional - ",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8193862?gh_jid=8193862",
-      "postedAt": "2026-09-11T00:20:55.000Z",
-      "key": "coinbase:8193862",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T00:30:26.582Z"
     },
     {
       "id": "8194328",
@@ -25855,22 +25874,6 @@
         "us"
       ],
       "firstSeen": "2026-08-27T07:30:25.551Z"
-    },
-    {
-      "id": "7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9",
-      "title": "Forward Deployed Engineer, New Grad",
-      "location": "San Francisco Bay Area",
-      "team": "Applied AI",
-      "url": "https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9",
-      "postedAt": "2026-08-27T05:26:00.278Z",
-      "key": "retell-ai:7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9",
-      "company": "Retell AI",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-27T05:30:25.350Z"
     },
     {
       "id": "09ab60f0-de73-4bde-9de2-f5b6809f8dce",
