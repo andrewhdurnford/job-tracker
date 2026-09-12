@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-12T04:30:19.927Z",
+  "generatedAt": "2026-09-12T04:40:15.692Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "vapi:a3bde43c-4762-4cf2-86f5-464abd4a78e6"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 73,
     "new-grad": 29,
-    "experienced": 2115
+    "experienced": 2116
   },
   "companies": [
     {
@@ -785,10 +787,10 @@
     },
     {
       "name": "Capital One",
-      "ok": false,
+      "ok": true,
       "jobCount": 159,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "CaptivateIQ",
@@ -3886,10 +3888,10 @@
     },
     {
       "name": "Procore",
-      "ok": false,
+      "ok": true,
       "jobCount": 12,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Prodigal",
@@ -5329,7 +5331,7 @@
     {
       "name": "Vapi",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a3bde43c-4762-4cf2-86f5-464abd4a78e6",
+      "title": "Member of Technical Staff, Infrastructure Engineer",
+      "location": "San Francisco",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/vapi/a3bde43c-4762-4cf2-86f5-464abd4a78e6",
+      "postedAt": "2026-09-12T04:31:34.840Z",
+      "key": "vapi:a3bde43c-4762-4cf2-86f5-464abd4a78e6",
+      "company": "Vapi",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-12T04:40:15.692Z"
+    },
     {
       "id": "241154df-ab1a-4dfa-8b18-66e087d1e636",
       "title": "Engineering Manager, Cooperative Systems ",
