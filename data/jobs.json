@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-12T23:20:16.216Z",
+  "generatedAt": "2026-09-12T23:24:34.477Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "physicalintelligence:50f00992-a6c4-480b-a000-2efba5283379"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -114,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1205,10 +1207,10 @@
     },
     {
       "name": "Coursera",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Coverbase",
@@ -3719,7 +3721,7 @@
     {
       "name": "Physical Intelligence",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "50f00992-a6c4-480b-a000-2efba5283379",
+      "title": "Embedded Engineer",
+      "location": "San Francisco",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/physicalintelligence/50f00992-a6c4-480b-a000-2efba5283379",
+      "postedAt": "2026-09-12T23:21:30.943Z",
+      "key": "physicalintelligence:50f00992-a6c4-480b-a000-2efba5283379",
+      "company": "Physical Intelligence",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-12T23:24:34.477Z"
+    },
     {
       "id": "780ba862-a9c2-4912-93c4-90af1fd9fe99",
       "title": "Engineering Lead - Prism",
@@ -39570,22 +39588,6 @@
         "us"
       ],
       "firstSeen": "2026-08-21T23:52:58.582Z"
-    },
-    {
-      "id": "8129371",
-      "title": "Staff Machine Learning Engineer, Traffic Intelligence",
-      "location": "United States",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8129371?gh_jid=8129371",
-      "postedAt": "2026-08-13T23:22:22.000Z",
-      "key": "airbnb:8129371",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T23:30:21.231Z"
     },
     {
       "id": "R29535",
