@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T22:20:17.299Z",
+  "generatedAt": "2026-09-12T22:30:21.202Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 74,
     "new-grad": 29,
-    "experienced": 2063
+    "experienced": 2061
   },
   "companies": [
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3152,7 +3152,7 @@
     {
       "name": "Multiply Labs",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4013,7 +4013,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 124,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -39634,38 +39634,6 @@
         "us"
       ],
       "firstSeen": "2026-08-21T22:30:20.435Z"
-    },
-    {
-      "id": "f384450c-697b-427e-8930-58fc195016d2",
-      "title": "Full Stack Engineer",
-      "location": "Denver, CO",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/quindar/f384450c-697b-427e-8930-58fc195016d2",
-      "postedAt": "2026-08-13T22:29:27.478Z",
-      "key": "quindar:f384450c-697b-427e-8930-58fc195016d2",
-      "company": "Quindar",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-13T22:30:20.654Z"
-    },
-    {
-      "id": "a4fb0594-1ecc-4a4f-97db-da56a27cc959",
-      "title": "Senior Staff Robotics Software Engineer",
-      "location": "San Francisco",
-      "team": "Robotics Software",
-      "url": "https://jobs.lever.co/multiplylabs/a4fb0594-1ecc-4a4f-97db-da56a27cc959",
-      "postedAt": "2026-08-13T22:23:01.616Z",
-      "key": "multiplylabs:a4fb0594-1ecc-4a4f-97db-da56a27cc959",
-      "company": "Multiply Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-14T17:10:16.803Z"
     },
     {
       "id": "R_106771",
