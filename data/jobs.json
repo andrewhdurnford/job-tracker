@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T04:20:17.889Z",
+  "generatedAt": "2026-09-12T04:30:19.927Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -785,10 +785,10 @@
     },
     {
       "name": "Capital One",
-      "ok": true,
+      "ok": false,
       "jobCount": 159,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "CaptivateIQ",
@@ -3886,10 +3886,10 @@
     },
     {
       "name": "Procore",
-      "ok": true,
+      "ok": false,
       "jobCount": 12,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Prodigal",
