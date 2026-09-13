@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T17:20:16.701Z",
+  "generatedAt": "2026-09-13T17:30:20.688Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 74,
     "new-grad": 23,
-    "experienced": 2014
+    "experienced": 2012
   },
   "companies": [
     {
@@ -114,7 +114,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1766,7 +1766,7 @@
     {
       "name": "Firecrawl",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 117,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5029,7 +5029,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -24347,22 +24347,6 @@
       "firstSeen": "2026-08-28T05:40:17.565Z"
     },
     {
-      "id": "4fed8a26-d8e1-47b1-9283-59e547e6e02a",
-      "title": "Product Engineer - Parse",
-      "location": "San Francisco, CA",
-      "team": "Engineering Team",
-      "url": "https://jobs.ashbyhq.com/firecrawl/4fed8a26-d8e1-47b1-9283-59e547e6e02a",
-      "postedAt": "2026-08-28T03:06:08.696Z",
-      "key": "firecrawl:4fed8a26-d8e1-47b1-9283-59e547e6e02a",
-      "company": "Firecrawl",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T22:00:25.515Z"
-    },
-    {
       "id": "c9cc56f4-3393-4531-9798-cfc11cd92075",
       "title": "Software Quality Engineering Lead",
       "location": "United States",
@@ -38816,22 +38800,6 @@
         "us"
       ],
       "firstSeen": "2026-08-14T17:50:20.356Z"
-    },
-    {
-      "id": "8123037",
-      "title": "Senior Data Scientist - Payments (Inference)",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8123037?gh_jid=8123037",
-      "postedAt": "2026-08-14T17:25:31.000Z",
-      "key": "airbnb:8123037",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-14T17:30:23.278Z"
     },
     {
       "id": "JR2014047",
