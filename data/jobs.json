@@ -1,14 +1,17 @@
 {
-  "generatedAt": "2026-09-13T22:00:25.645Z",
+  "generatedAt": "2026-09-13T22:10:16.253Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Nvidia:JR2024171",
+    "Nvidia:JR2025588"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 71,
+    "intern": 72,
     "new-grad": 22,
     "experienced": 1982
   },
@@ -303,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 161,
+      "jobCount": 163,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 115,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,42 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2024171",
+      "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
+      "postedAt": "2026-09-13T22:10:19.853Z",
+      "key": "Nvidia:JR2024171",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-13T22:10:16.253Z"
+    },
+    {
+      "id": "JR2025588",
+      "title": "Senior Software Engineer - Embedded Platform",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Embedded-Platform_JR2025588",
+      "postedAt": "2026-09-13T22:10:19.853Z",
+      "key": "Nvidia:JR2025588",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-13T22:10:16.253Z"
+    },
     {
       "id": "a172ada5-1a6e-4646-8e0d-26747422af24",
       "title": "Member of Technical Staff (AI Software Engineer, Agents)",
@@ -38061,22 +38100,6 @@
         "us"
       ],
       "firstSeen": "2026-08-14T22:37:36.860Z"
-    },
-    {
-      "id": "5391151008",
-      "title": "AI Operations Engineer, Partnerships",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008",
-      "postedAt": "2026-08-14T22:07:17.000Z",
-      "key": "anthropic:5391151008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-14T22:10:03.545Z"
     },
     {
       "id": "R0018330",
