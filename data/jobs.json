@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-14T18:10:16.479Z",
+  "generatedAt": "2026-09-14T18:20:19.059Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "gitlab:8771527002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 83,
     "new-grad": 23,
-    "experienced": 1988
+    "experienced": 1989
   },
   "companies": [
     {
@@ -1962,7 +1964,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 114,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8771527002",
+      "title": "Senior Platform Engineer, GitLab Orbit",
+      "location": "Remote, Canada; Remote, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771527002",
+      "postedAt": "2026-09-14T18:18:38.000Z",
+      "key": "gitlab:8771527002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-14T18:20:19.059Z"
+    },
     {
       "id": "8198165",
       "title": "Software Engineer - Fullstack",
