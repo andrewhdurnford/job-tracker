@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-09-14T17:30:22.728Z",
+  "generatedAt": "2026-09-14T17:40:23.789Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "boxinc:8172408"
+    "figma:6178857004",
+    "figma:6143238004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 81,
+    "intern": 83,
     "new-grad": 23,
-    "experienced": 1988
+    "experienced": 1984
   },
   "companies": [
     {
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 147,
+      "jobCount": 146,
       "error": null,
       "stale": false
     },
@@ -941,10 +942,10 @@
     },
     {
       "name": "CircleCI",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "CircuitHub",
@@ -1243,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -1425,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1705,7 +1706,7 @@
     {
       "name": "Figma",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4406,10 +4407,10 @@
     },
     {
       "name": "SentinelOne",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sentry",
@@ -5499,7 +5500,7 @@
     {
       "name": "Webflow",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,48 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6178857004",
+      "title": "Data Science Intern (2027)",
+      "location": "San Francisco, CA • New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+      "postedAt": "2026-09-14T17:36:27.000Z",
+      "key": "figma:6178857004",
+      "company": "Figma",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T17:40:23.789Z"
+    },
+    {
+      "id": "6143238004",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "location": "San Francisco, CA • New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
+      "postedAt": "2026-09-14T17:36:20.000Z",
+      "key": "figma:6143238004",
+      "company": "Figma",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T17:40:23.789Z"
+    },
     {
       "id": "7818394003",
       "title": "Software Engineer II",
@@ -12903,22 +12946,6 @@
       "postedAt": "2026-09-08T21:55:14.000Z",
       "key": "snorkelai:6185944004",
       "company": "Snorkel AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T22:00:26.557Z"
-    },
-    {
-      "id": "30240",
-      "title": "Software Engineer",
-      "location": "US-Seattle-3rd",
-      "team": "Engineering",
-      "url": "https://uscareers-docusign.icims.com/jobs/30240/login",
-      "postedAt": "2026-09-08T21:53:00.000Z",
-      "key": "DocuSign:30240",
-      "company": "DocuSign",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -31088,22 +31115,6 @@
       "firstSeen": "2026-08-24T15:10:18.667Z"
     },
     {
-      "id": "8148362",
-      "title": "Senior Platform Engineer, Infrastructure",
-      "location": "U.S. Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/webflow/jobs/8148362",
-      "postedAt": "2026-08-24T15:00:45.000Z",
-      "key": "webflow:8148362",
-      "company": "Webflow",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T15:10:18.667Z"
-    },
-    {
       "id": "1fc309c8-da20-4ff2-84c7-8b863ece2b0a",
       "title": "Software Engineer, Developer Platform",
       "location": "San Francisco, California (+1 more)",
@@ -32868,22 +32879,6 @@
         "remote"
       ],
       "firstSeen": "2026-08-21T10:00:27.969Z"
-    },
-    {
-      "id": "R29877",
-      "title": "Systems Engineer II (Remote)",
-      "location": "USA - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Systems-Engineer-II--Remote-_R29877",
-      "postedAt": "2026-08-21T07:20:21.815Z",
-      "key": "CrowdStrike:R29877",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T07:20:17.299Z"
     },
     {
       "id": "a04c4545-b34e-40d4-b1ac-17f17976e93e",
@@ -37191,13 +37186,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37207,13 +37202,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37934,22 +37929,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Lead-Software-Engineer--DevOps_R249365",
       "postedAt": "2026-08-17T16:45:56.625Z",
       "key": "Capital One:R249365",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T16:45:53.308Z"
-    },
-    {
-      "id": "R249404",
-      "title": "Lead Software Engineer, Full Stack",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R249404-1",
-      "postedAt": "2026-08-17T16:45:56.625Z",
-      "key": "Capital One:R249404",
       "company": "Capital One",
       "level": "experienced",
       "term": null,
