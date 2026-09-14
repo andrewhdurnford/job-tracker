@@ -1,16 +1,20 @@
 {
-  "generatedAt": "2026-09-14T19:00:26.570Z",
+  "generatedAt": "2026-09-14T19:10:21.287Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "lancedb:d72f807c-7d73-4356-8f49-4597293aa5ef",
+    "Visa:REF088064W",
+    "waymo:8197899"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 84,
+    "intern": 85,
     "new-grad": 23,
-    "experienced": 1993
+    "experienced": 1995
   },
   "companies": [
     {
@@ -2669,7 +2673,7 @@
     {
       "name": "LanceDB",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5399,7 +5403,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5476,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,60 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088064W",
+      "title": "Data Engineer",
+      "location": "US - Foster City, CA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Data-Engineer_REF088064W",
+      "postedAt": "2026-09-14T19:10:25.281Z",
+      "key": "Visa:REF088064W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T19:10:21.287Z"
+    },
+    {
+      "id": "d72f807c-7d73-4356-8f49-4597293aa5ef",
+      "title": "AI Research Engineer",
+      "location": "Americas timezones",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/lancedb/d72f807c-7d73-4356-8f49-4597293aa5ef",
+      "postedAt": "2026-09-14T19:04:51.973Z",
+      "key": "lancedb:d72f807c-7d73-4356-8f49-4597293aa5ef",
+      "company": "LanceDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T19:10:21.287Z"
+    },
+    {
+      "id": "8197899",
+      "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
+      "postedAt": "2026-09-14T19:03:20.000Z",
+      "key": "waymo:8197899",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T19:10:21.287Z"
+    },
     {
       "id": "8806470002",
       "title": "Staff Software Engineer - DevX",
