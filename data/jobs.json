@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-14T15:40:20.926Z",
+  "generatedAt": "2026-09-14T15:50:19.507Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "boxinc:8133235",
-    "boxinc:8186622",
-    "skyways:fb1e015f-9278-4b95-9750-24a42488a9d3",
-    "skyways:a5409c44-c84e-46ff-bd55-518b3b6f1a27"
+    "Capital One:R1000590",
+    "cloudflare:8185561",
+    "kong:dc722822-ddf7-4932-aee1-1f4f9becae2c",
+    "uipath:fd84fcf2-01c1-4da8-97c9-2641d179e250"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +15,7 @@
   "levelCounts": {
     "intern": 80,
     "new-grad": 22,
-    "experienced": 1974
+    "experienced": 1978
   },
   "companies": [
     {
@@ -791,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 147,
+      "jobCount": 148,
       "error": null,
       "stale": false
     },
@@ -1015,7 +1015,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -2632,7 +2632,7 @@
     {
       "name": "Kong",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 114,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5257,7 +5257,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "R1000590",
+      "title": "Senior Lead Software Engineer (Java, Python, AWS)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Lead-Software-Engineer--Java--Python--AWS-_R1000590",
+      "postedAt": "2026-09-14T15:50:23.264Z",
+      "key": "Capital One:R1000590",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T15:50:19.507Z"
+    },
+    {
+      "id": "fd84fcf2-01c1-4da8-97c9-2641d179e250",
+      "title": "Senior Forward Deployed Engineer",
+      "location": "Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/uipath/fd84fcf2-01c1-4da8-97c9-2641d179e250",
+      "postedAt": "2026-09-14T15:46:55.330Z",
+      "key": "uipath:fd84fcf2-01c1-4da8-97c9-2641d179e250",
+      "company": "UiPath",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T15:50:19.507Z"
+    },
+    {
+      "id": "dc722822-ddf7-4932-aee1-1f4f9becae2c",
+      "title": "Senior Software Engineer - Golang",
+      "location": "United States",
+      "team": "OCTO",
+      "url": "https://jobs.ashbyhq.com/kong/dc722822-ddf7-4932-aee1-1f4f9becae2c",
+      "postedAt": "2026-09-14T15:41:04.984Z",
+      "key": "kong:dc722822-ddf7-4932-aee1-1f4f9becae2c",
+      "company": "Kong",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T15:50:19.507Z"
+    },
+    {
       "id": "a5409c44-c84e-46ff-bd55-518b3b6f1a27",
       "title": "Staff Software Engineer",
       "location": "Austin, TX",
@@ -5767,6 +5815,22 @@
         "canada"
       ],
       "firstSeen": "2026-09-14T15:10:18.666Z"
+    },
+    {
+      "id": "8185561",
+      "title": "Senior Software Engineer, Internal Fraud Platform",
+      "location": "Austin, TX (+2 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8185561?gh_jid=8185561",
+      "postedAt": "2026-09-14T14:31:08.000Z",
+      "key": "cloudflare:8185561",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T15:50:19.507Z"
     },
     {
       "id": "8201208",
@@ -9592,7 +9656,7 @@
     {
       "id": "4732736005",
       "title": "Security Operations Engineer",
-      "location": "Remote",
+      "location": "United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4732736005",
       "postedAt": "2026-09-10T16:21:07.000Z",
@@ -9601,7 +9665,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "remote"
+        "us"
       ],
       "firstSeen": "2026-09-10T16:30:25.169Z"
     },
