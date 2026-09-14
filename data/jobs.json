@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-14T19:30:22.022Z",
+  "generatedAt": "2026-09-14T19:40:17.745Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "saronic:18a313ac-1090-45dd-a4e8-89e6192a6dbf"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -674,7 +676,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2213,10 +2215,10 @@
     },
     {
       "name": "Hightouch",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Hilbert",
@@ -4363,7 +4365,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 115,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "18a313ac-1090-45dd-a4e8-89e6192a6dbf",
+      "title": "Supplier Quality Engineer",
+      "location": "Franklin, LA",
+      "team": "Procurement",
+      "url": "https://jobs.ashbyhq.com/saronic/18a313ac-1090-45dd-a4e8-89e6192a6dbf",
+      "postedAt": "2026-09-14T19:31:12.153Z",
+      "key": "saronic:18a313ac-1090-45dd-a4e8-89e6192a6dbf",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T19:40:17.745Z"
+    },
     {
       "id": "JR2017737",
       "title": "Senior Architect, Simulation Kernel Modelling",
@@ -12602,7 +12620,7 @@
     {
       "id": "17c06970-0b47-43bc-beb7-ce34cc98f93c",
       "title": "Full-Stack Engineer - Creative Studio",
-      "location": "United Kingdom (+25 more)",
+      "location": "United Kingdom (+24 more)",
       "team": "Creative Ads",
       "url": "https://jobs.ashbyhq.com/elevenlabs/17c06970-0b47-43bc-beb7-ce34cc98f93c",
       "postedAt": "2026-09-09T13:44:15.957Z",
@@ -21896,22 +21914,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T21:10:19.753Z"
-    },
-    {
-      "id": "8168139",
-      "title": "Software Engineer III, Developer Platform",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8168139",
-      "postedAt": "2026-08-31T21:09:59.000Z",
-      "key": "boxinc:8168139",
-      "company": "Box",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T16:30:23.117Z"
     },
     {
       "id": "8157298",
