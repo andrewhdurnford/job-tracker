@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-14T11:10:26.224Z",
+  "generatedAt": "2026-09-14T11:20:18.967Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "hilberts:400dfa15-6f14-40f5-8cb5-4c01f2c59dce",
+    "hilberts:07e58dda-7ec9-4541-8506-4d5e73876a5b"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 72,
     "new-grad": 22,
-    "experienced": 1957
+    "experienced": 1959
   },
   "companies": [
     {
@@ -2221,7 +2224,7 @@
     {
       "name": "Hilbert",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3536,10 +3539,10 @@
     },
     {
       "name": "Oscar Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "error": "HTTP 404 Not Found",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "OutRival",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "400dfa15-6f14-40f5-8cb5-4c01f2c59dce",
+      "title": "AI Engineer - Core",
+      "location": "San Francisco",
+      "team": "AI/ML",
+      "url": "https://jobs.ashbyhq.com/hilberts/400dfa15-6f14-40f5-8cb5-4c01f2c59dce",
+      "postedAt": "2026-09-14T11:19:23.166Z",
+      "key": "hilberts:400dfa15-6f14-40f5-8cb5-4c01f2c59dce",
+      "company": "Hilbert",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T11:20:18.967Z"
+    },
+    {
+      "id": "07e58dda-7ec9-4541-8506-4d5e73876a5b",
+      "title": "Senior AI Engineer - Core",
+      "location": "San Francisco",
+      "team": "AI/ML",
+      "url": "https://jobs.ashbyhq.com/hilberts/07e58dda-7ec9-4541-8506-4d5e73876a5b",
+      "postedAt": "2026-09-14T11:15:30.274Z",
+      "key": "hilberts:07e58dda-7ec9-4541-8506-4d5e73876a5b",
+      "company": "Hilbert",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T11:20:18.967Z"
+    },
     {
       "id": "R171810",
       "title": "Senior Software Development Engineer",
@@ -16764,7 +16799,7 @@
       "title": "Senior Security Engineer I, Product Security",
       "location": "San Francisco, California, United States",
       "team": null,
-      "url": "http://www.hioscar.com/careers/8177159?gh_jid=8177159",
+      "url": "https://job-boards.greenhouse.io/oscar/jobs/8177159",
       "postedAt": "2026-09-03T15:16:29.000Z",
       "key": "oscar:8177159",
       "company": "Oscar Health",
@@ -16780,7 +16815,7 @@
       "title": "Senior Security Engineer I, Product Security",
       "location": "Tempe, Arizona, United States",
       "team": null,
-      "url": "http://www.hioscar.com/careers/8177145?gh_jid=8177145",
+      "url": "https://job-boards.greenhouse.io/oscar/jobs/8177145",
       "postedAt": "2026-09-03T15:11:59.000Z",
       "key": "oscar:8177145",
       "company": "Oscar Health",
@@ -17293,7 +17328,7 @@
       "title": "Senior Security Engineer I, Product Security",
       "location": "Los Angeles, California, United States",
       "team": null,
-      "url": "http://www.hioscar.com/careers/8175148?gh_jid=8175148",
+      "url": "https://job-boards.greenhouse.io/oscar/jobs/8175148",
       "postedAt": "2026-09-02T21:55:13.000Z",
       "key": "oscar:8175148",
       "company": "Oscar Health",
@@ -33180,7 +33215,7 @@
       "title": "Staff Security Engineer, GRC",
       "location": "New York, New York, United States",
       "team": null,
-      "url": "http://www.hioscar.com/careers/8131843?gh_jid=8131843",
+      "url": "https://job-boards.greenhouse.io/oscar/jobs/8131843",
       "postedAt": "2026-08-20T17:23:05.000Z",
       "key": "oscar:8131843",
       "company": "Oscar Health",
