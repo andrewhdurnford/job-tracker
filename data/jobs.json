@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-09-14T22:20:16.772Z",
+  "generatedAt": "2026-09-14T22:30:21.179Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Nvidia:JR2025621",
-    "stripe:8198280"
+    "campfire:d7f80e1c-e92a-49df-8ac8-4be6179e5387",
+    "pinterest:8015517",
+    "Remitly:R_106568",
+    "roblox:8186640",
+    "waymo:8202084"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 87,
     "new-grad": 23,
-    "experienced": 2020
+    "experienced": 2025
   },
   "companies": [
     {
@@ -754,7 +757,7 @@
     {
       "name": "Campfire",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1691,10 +1694,10 @@
     },
     {
       "name": "Fastly",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Fieldguide",
@@ -3757,7 +3760,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4135,7 +4138,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -4240,7 +4243,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5482,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8186640",
+      "title": "Senior Software Engineer (Backend), Co-Experience",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8186640?gh_jid=8186640",
+      "postedAt": "2026-09-14T22:25:32.000Z",
+      "key": "roblox:8186640",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T22:30:21.179Z"
+    },
+    {
+      "id": "8015517",
+      "title": "Engineering Manager II, iOS Modernization",
+      "location": "Toronto, ON, CA",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015517",
+      "postedAt": "2026-09-14T22:24:20.000Z",
+      "key": "pinterest:8015517",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-14T22:30:21.179Z"
+    },
+    {
+      "id": "8202084",
+      "title": "Technical Lead Manager, Pullover Manuevers",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8202084",
+      "postedAt": "2026-09-14T22:23:17.000Z",
+      "key": "waymo:8202084",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T22:30:21.179Z"
+    },
+    {
+      "id": "d7f80e1c-e92a-49df-8ac8-4be6179e5387",
+      "title": "Staff AI Engineer - Ember Agents",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/campfire/d7f80e1c-e92a-49df-8ac8-4be6179e5387",
+      "postedAt": "2026-09-14T22:21:11.550Z",
+      "key": "campfire:d7f80e1c-e92a-49df-8ac8-4be6179e5387",
+      "company": "Campfire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T22:30:21.179Z"
+    },
     {
       "id": "JR2025621",
       "title": "Senior System Software Engineer, Agentic Kernel Development",
@@ -20380,6 +20447,22 @@
         "us"
       ],
       "firstSeen": "2026-09-01T22:40:16.002Z"
+    },
+    {
+      "id": "R_106568",
+      "title": "Software Development Engineer II",
+      "location": "Burnaby, British Columbia, Canada",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Software-Development-Engineer-II_R_106568",
+      "postedAt": "2026-09-01T22:30:25.573Z",
+      "key": "Remitly:R_106568",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-14T22:30:21.179Z"
     },
     {
       "id": "8127056",
@@ -37858,13 +37941,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37874,13 +37957,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
