@@ -1,18 +1,22 @@
 {
-  "generatedAt": "2026-09-14T18:20:19.059Z",
+  "generatedAt": "2026-09-14T18:30:22.339Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "gitlab:8771527002"
+    "Nvidia:JR2025377",
+    "roblox:8129410",
+    "singlestore:8154399",
+    "spacex:8806384002",
+    "whoop:730967ec-2823-4674-aa7a-4d91fd482590"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 83,
+    "intern": 84,
     "new-grad": 23,
-    "experienced": 1989
+    "experienced": 1993
   },
   "companies": [
     {
@@ -3427,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 163,
+      "jobCount": 164,
       "error": null,
       "stale": false
     },
@@ -4239,7 +4243,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4533,7 +4537,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 114,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 115,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5031,7 +5035,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5513,7 +5517,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025377",
+      "title": "Principal AI Workflow Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-AI-Workflow-Engineer_JR2025377",
+      "postedAt": "2026-09-14T18:30:26.223Z",
+      "key": "Nvidia:JR2025377",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T18:30:22.339Z"
+    },
+    {
+      "id": "8806384002",
+      "title": "Sr. Network Security Engineer ",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8806384002?gh_jid=8806384002",
+      "postedAt": "2026-09-14T18:26:19.000Z",
+      "key": "spacex:8806384002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T18:30:22.339Z"
+    },
+    {
+      "id": "730967ec-2823-4674-aa7a-4d91fd482590",
+      "title": "Embedded Engineer II ",
+      "location": "Boston, MA",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/whoop/730967ec-2823-4674-aa7a-4d91fd482590",
+      "postedAt": "2026-09-14T18:25:11.179Z",
+      "key": "whoop:730967ec-2823-4674-aa7a-4d91fd482590",
+      "company": "WHOOP",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T18:30:22.339Z"
+    },
+    {
+      "id": "8129410",
+      "title": "Principal Software Engineer - Roblox Database",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8129410?gh_jid=8129410",
+      "postedAt": "2026-09-14T18:22:41.000Z",
+      "key": "roblox:8129410",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T18:30:22.339Z"
+    },
+    {
+      "id": "8154399",
+      "title": "Software Engineer Intern",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
+      "postedAt": "2026-09-14T18:21:07.000Z",
+      "key": "singlestore:8154399",
+      "company": "SingleStore",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T18:30:22.339Z"
+    },
     {
       "id": "8771527002",
       "title": "Senior Platform Engineer, GitLab Orbit",
@@ -29910,7 +29994,7 @@
     },
     {
       "id": "R0018530",
-      "title": "Principal Software Engineer – Data & AI Platform",
+      "title": "Senior Principal Software Engineer – Data & AI Platform",
       "location": "US - Texas - Austin",
       "team": null,
       "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Principal-Software-Engineer---Data---AI-Platform_R0018530",
