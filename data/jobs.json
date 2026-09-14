@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-14T22:40:16.517Z",
+  "generatedAt": "2026-09-14T22:50:16.728Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "openai:55150071-fce8-48f5-aea4-14ed78b83511",
-    "openai:acbf80cd-20a7-47fe-aaf9-3e9224d1570c"
+    "airbnb:8165656",
+    "astranis:4711347006",
+    "doordashusa:8163709",
+    "Nvidia:JR2019482"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,8 +14,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 87,
-    "new-grad": 23,
-    "experienced": 2027
+    "new-grad": 24,
+    "experienced": 2030
   },
   "companies": [
     {
@@ -117,7 +119,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -432,7 +434,7 @@
     {
       "name": "Astranis",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1454,7 +1456,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2064,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2918,7 +2920,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3428,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 166,
+      "jobCount": 167,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2019482",
+      "title": "Deep Learning Product Research Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Product-Research-Engineer_JR2019482",
+      "postedAt": "2026-09-14T22:50:21.163Z",
+      "key": "Nvidia:JR2019482",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T22:50:16.728Z"
+    },
+    {
+      "id": "4711347006",
+      "title": "Senior Ground Station Systems Engineer",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4711347006",
+      "postedAt": "2026-09-14T22:50:00.000Z",
+      "key": "astranis:4711347006",
+      "company": "Astranis",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T22:50:16.728Z"
+    },
+    {
+      "id": "8165656",
+      "title": "Senior Software Engineer, Storage",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8165656?gh_jid=8165656",
+      "postedAt": "2026-09-14T22:42:19.000Z",
+      "key": "airbnb:8165656",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T22:50:16.728Z"
+    },
     {
       "id": "acbf80cd-20a7-47fe-aaf9-3e9224d1570c",
       "title": "Data Engineering Manager, Growth & Revenue",
@@ -14581,7 +14631,7 @@
     },
     {
       "id": "8e64dc7f-e925-4361-86d5-b01ee518c987",
-      "title": "Software Engineer Intern, Cloud Platform",
+      "title": "Software Engineer Intern",
       "location": "San Francisco Office",
       "team": "Engineering Org",
       "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
@@ -17004,6 +17054,29 @@
         "us"
       ],
       "firstSeen": "2026-09-04T13:00:27.330Z"
+    },
+    {
+      "id": "8163709",
+      "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+      "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
+      "postedAt": "2026-09-04T10:21:45.000Z",
+      "key": "doordashusa:8163709",
+      "company": "DoorDash",
+      "level": "new-grad",
+      "term": {
+        "label": "Fall/Summer 2026",
+        "seasons": [
+          "fall",
+          "summer"
+        ],
+        "year": 2026
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T22:50:16.728Z"
     },
     {
       "id": "R171212",
@@ -30662,7 +30735,7 @@
     },
     {
       "id": "R0018530",
-      "title": "Software Architect",
+      "title": "Senior Principal Software Engineer",
       "location": "US - Texas - Austin",
       "team": null,
       "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Principal-Software-Engineer---Data---AI-Platform_R0018530",
@@ -37970,13 +38043,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37986,13 +38059,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
