@@ -1,21 +1,20 @@
 {
-  "generatedAt": "2026-09-14T22:50:16.728Z",
+  "generatedAt": "2026-09-14T23:00:25.181Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "airbnb:8165656",
-    "astranis:4711347006",
-    "doordashusa:8163709",
-    "Nvidia:JR2019482"
+    "cloudflare:8155495",
+    "doordashusa:8171041",
+    "togetherai:5223190007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 87,
+    "intern": 88,
     "new-grad": 24,
-    "experienced": 2030
+    "experienced": 2031
   },
   "companies": [
     {
@@ -1015,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -1456,7 +1455,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -2066,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2920,7 +2919,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3430,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 167,
+      "jobCount": 166,
       "error": null,
       "stale": false
     },
@@ -5117,7 +5116,7 @@
     {
       "name": "Together AI",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5705,20 +5704,26 @@
   ],
   "jobs": [
     {
-      "id": "JR2019482",
-      "title": "Deep Learning Product Research Engineer",
-      "location": "US, CA, Santa Clara",
+      "id": "8171041",
+      "title": "Software Engineer, Intern (Summer 2027) - US",
+      "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
       "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Product-Research-Engineer_JR2019482",
-      "postedAt": "2026-09-14T22:50:21.163Z",
-      "key": "Nvidia:JR2019482",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+      "postedAt": "2026-09-14T22:51:00.000Z",
+      "key": "doordashusa:8171041",
+      "company": "DoorDash",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
       "regions": [
         "us"
       ],
-      "firstSeen": "2026-09-14T22:50:16.728Z"
+      "firstSeen": "2026-09-14T23:00:25.181Z"
     },
     {
       "id": "4711347006",
@@ -24669,6 +24674,22 @@
       "firstSeen": "2026-08-29T01:00:25.650Z"
     },
     {
+      "id": "5223190007",
+      "title": "GTM Data Analytics Engineer",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5223190007",
+      "postedAt": "2026-08-29T00:39:54.000Z",
+      "key": "togetherai:5223190007",
+      "company": "Together AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T23:00:25.181Z"
+    },
+    {
       "id": "8090680",
       "title": "Senior Site Reliability Engineer, Ads",
       "location": "San Francisco, CA",
@@ -30620,6 +30641,22 @@
         "us"
       ],
       "firstSeen": "2026-08-25T16:00:26.419Z"
+    },
+    {
+      "id": "8155495",
+      "title": "Software Engineer, Enterprise Integrations",
+      "location": "Austin, TX",
+      "team": "Information Technology",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8155495?gh_jid=8155495",
+      "postedAt": "2026-08-25T15:38:49.000Z",
+      "key": "cloudflare:8155495",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T23:00:25.181Z"
     },
     {
       "id": "2174aa8f-3ecc-4fe0-b726-db4c73d73e37",
@@ -38043,13 +38080,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -38059,13 +38096,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
