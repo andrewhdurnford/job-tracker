@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-09-14T21:40:17.310Z",
+  "generatedAt": "2026-09-14T21:50:17.531Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "cerebras:c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
+    "mystenlabs:40a02b97-2263-4500-83c3-b7a432bfa36d",
+    "singlestore:8159062",
+    "stripe:8198207"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 86,
+    "intern": 87,
     "new-grad": 23,
-    "experienced": 2013
+    "experienced": 2016
   },
   "companies": [
     {
@@ -863,7 +868,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -3180,7 +3185,7 @@
     {
       "name": "Mysten Labs",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4531,7 +4536,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4797,7 +4802,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8198207",
+      "title": "Software Engineer, Payins Card Networks",
+      "location": "Seattle, WA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8198207",
+      "postedAt": "2026-09-14T21:46:08.000Z",
+      "key": "stripe:8198207",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T21:50:17.531Z"
+    },
+    {
+      "id": "40a02b97-2263-4500-83c3-b7a432bfa36d",
+      "title": "Engineering Manager, Wallet",
+      "location": "USA (Remote) (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mystenlabs/40a02b97-2263-4500-83c3-b7a432bfa36d",
+      "postedAt": "2026-09-14T21:43:57.127Z",
+      "key": "mystenlabs:40a02b97-2263-4500-83c3-b7a432bfa36d",
+      "company": "Mysten Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-14T21:50:17.531Z"
+    },
+    {
+      "id": "c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
+      "title": "DevOps Engineer Intern - PEY",
+      "location": "Toronto, CAN",
+      "team": "University Departments",
+      "url": "https://jobs.ashbyhq.com/cerebras/c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
+      "postedAt": "2026-09-14T21:41:26.730Z",
+      "key": "cerebras:c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
+      "company": "Cerebras Systems",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-14T21:50:17.531Z"
+    },
     {
       "id": "R249443",
       "title": "Senior Manager, Software Engineering, Full Stack",
@@ -28986,6 +29040,22 @@
       "firstSeen": "2026-08-26T13:20:18.412Z"
     },
     {
+      "id": "8159062",
+      "title": "Software Engineer | Aura Platform ",
+      "location": "United States ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8159062",
+      "postedAt": "2026-08-26T12:54:32.000Z",
+      "key": "singlestore:8159062",
+      "company": "SingleStore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-14T21:50:17.531Z"
+    },
+    {
       "id": "09421bc9-987b-4fe3-aeac-bd183afc5b8e",
       "title": "Staff Engineer, Platform & Infrastructure",
       "location": "USA (+9 more)",
@@ -37726,13 +37796,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -37742,13 +37812,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
