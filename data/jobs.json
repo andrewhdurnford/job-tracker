@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-09-15T17:30:22.879Z",
+  "generatedAt": "2026-09-15T17:40:17.449Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "openai:65b255da-4fd9-414e-98d4-0bec4eecf8ff"
+    "datadog:8203657",
+    "roblox:8052237"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 90,
+    "intern": 91,
     "new-grad": 24,
     "experienced": 2079
   },
@@ -39,7 +40,7 @@
     {
       "name": "Abridge",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -985,7 +986,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1299,7 +1300,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4239,7 +4240,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "8203657",
+      "title": "Research Science Intern (PhD)",
+      "location": "New York, New York, USA; Pittsburgh, Pennsylvania, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657",
+      "postedAt": "2026-09-15T17:30:59.000Z",
+      "key": "datadog:8203657",
+      "company": "Datadog",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T17:40:17.449Z"
+    },
+    {
       "id": "65b255da-4fd9-414e-98d4-0bec4eecf8ff",
       "title": "Product Manufacturing & Quality Engineer ",
       "location": "San Francisco",
@@ -5806,22 +5823,6 @@
       "postedAt": "2026-09-15T16:49:30.000Z",
       "key": "eve:4406926009",
       "company": "Eve",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T16:50:16.645Z"
-    },
-    {
-      "id": "7d6ae2be-cd53-466c-8151-2dae2e87aace",
-      "title": "Junior Software Engineer",
-      "location": "SF Office",
-      "team": "Product Engineering",
-      "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
-      "postedAt": "2026-09-15T16:42:09.125Z",
-      "key": "abridge:7d6ae2be-cd53-466c-8151-2dae2e87aace",
-      "company": "Abridge",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -6008,7 +6009,7 @@
     {
       "id": "8805925002",
       "title": "Software Engineer, Intern",
-      "location": "New York, NY; Pittsburgh, PA; Seattle, WA",
+      "location": "New York, NY; New York, NY; Pittsburgh, PA; Pittsburgh, PA; Seattle, WA; Seattle, WA",
       "team": null,
       "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
       "postedAt": "2026-09-15T16:00:00.000Z",
@@ -28259,6 +28260,22 @@
         "us"
       ],
       "firstSeen": "2026-08-27T16:40:18.627Z"
+    },
+    {
+      "id": "8052237",
+      "title": "Engineering Manager, Data Tooling",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8052237?gh_jid=8052237",
+      "postedAt": "2026-08-27T16:24:27.000Z",
+      "key": "roblox:8052237",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T17:40:17.449Z"
     },
     {
       "id": "03ed28c5-f496-4638-865d-302e895ccaaf",
