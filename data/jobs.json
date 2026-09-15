@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T13:00:28.505Z",
+  "generatedAt": "2026-09-15T13:10:18.318Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "instacart:7963840"
+    "datadog:8202699"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 88,
     "new-grad": 24,
-    "experienced": 2050
+    "experienced": 2051
   },
   "companies": [
     {
@@ -1299,7 +1299,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 127,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5563,7 +5563,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8202699",
+      "title": "Staff Software Engineer - Frontend",
+      "location": "New York, New York, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8202699/?gh_jid=8202699",
+      "postedAt": "2026-09-15T13:09:58.000Z",
+      "key": "datadog:8202699",
+      "company": "Datadog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T13:10:18.318Z"
+    },
     {
       "id": "7963840",
       "title": "Senior Machine Learning Engineer, Ads Response Prediction",
