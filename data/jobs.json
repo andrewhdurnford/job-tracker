@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-15T21:20:18.800Z",
+  "generatedAt": "2026-09-15T21:30:20.351Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "anthropic:5420994008",
+    "chime:8788272002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 24,
-    "experienced": 2108
+    "experienced": 2109
   },
   "companies": [
     {
@@ -303,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -926,7 +929,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2857,10 +2860,10 @@
     },
     {
       "name": "Magentic",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Magic Eden",
@@ -5567,7 +5570,7 @@
     {
       "name": "Wrapbook",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8788272002",
+      "title": "Senior Software Engineer, AI Enablement ",
+      "location": "San Francisco, CA, USA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/chime/jobs/8788272002?gh_jid=8788272002",
+      "postedAt": "2026-09-15T21:27:09.000Z",
+      "key": "chime:8788272002",
+      "company": "Chime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T21:30:20.351Z"
+    },
+    {
+      "id": "5420994008",
+      "title": "Salesforce Developer, Partnerships",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420994008",
+      "postedAt": "2026-09-15T21:23:33.000Z",
+      "key": "anthropic:5420994008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T21:30:20.351Z"
+    },
     {
       "id": "8193298",
       "title": "Staff Android Engineer, In-Car Experience",
@@ -38733,22 +38768,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-18T19:00:27.697Z"
-    },
-    {
-      "id": "a9bbaf3d-4793-4b9d-8ba2-ba4ced2d2527",
-      "title": "Senior Analytics Engineer II",
-      "location": "Remote - US & Canada",
-      "team": "Analytics",
-      "url": "https://jobs.ashbyhq.com/wrapbook/a9bbaf3d-4793-4b9d-8ba2-ba4ced2d2527",
-      "postedAt": "2026-08-18T18:48:17.465Z",
-      "key": "wrapbook:a9bbaf3d-4793-4b9d-8ba2-ba4ced2d2527",
-      "company": "Wrapbook",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T18:50:17.896Z"
     },
     {
       "id": "1d8caf8a-e73d-417c-8a8a-d9cb1beec067",
