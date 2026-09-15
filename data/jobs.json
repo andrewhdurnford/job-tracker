@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-09-15T21:30:20.351Z",
+  "generatedAt": "2026-09-15T21:40:17.279Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "anthropic:5420994008",
-    "chime:8788272002"
+    "benepass:79cc7bee-ac76-467b-9066-835f28c01925",
+    "coupang:8204842",
+    "reddit:8205402",
+    "singlestore:8205427",
+    "singlestore:8205389"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,8 +15,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 93,
-    "new-grad": 24,
-    "experienced": 2109
+    "new-grad": 26,
+    "experienced": 2112
   },
   "companies": [
     {
@@ -558,7 +561,7 @@
     {
       "name": "Benepass",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1202,7 +1205,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4107,7 +4110,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4534,7 +4537,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,94 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8205427",
+      "title": "Software Engineer-New Grad 2027",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205427",
+      "postedAt": "2026-09-15T21:39:29.000Z",
+      "key": "singlestore:8205427",
+      "company": "SingleStore",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T21:40:17.279Z"
+    },
+    {
+      "id": "8205402",
+      "title": "Staff Software Engineer - Ingestion Platform ",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8205402",
+      "postedAt": "2026-09-15T21:38:14.000Z",
+      "key": "reddit:8205402",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T21:40:17.279Z"
+    },
+    {
+      "id": "8205389",
+      "title": "Software Engineer-New Grad 2027",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205389",
+      "postedAt": "2026-09-15T21:37:06.000Z",
+      "key": "singlestore:8205389",
+      "company": "SingleStore",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T21:40:17.279Z"
+    },
+    {
+      "id": "79cc7bee-ac76-467b-9066-835f28c01925",
+      "title": "Engineering Manager",
+      "location": "U.S Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/benepass/79cc7bee-ac76-467b-9066-835f28c01925",
+      "postedAt": "2026-09-15T21:36:36.288Z",
+      "key": "benepass:79cc7bee-ac76-467b-9066-835f28c01925",
+      "company": "Benepass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T21:40:17.279Z"
+    },
+    {
+      "id": "8204842",
+      "title": "Staff Machine Learning Engineer - Search Ranking",
+      "location": "Mountain View, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8204842",
+      "postedAt": "2026-09-15T21:30:37.000Z",
+      "key": "coupang:8204842",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T21:40:17.279Z"
+    },
     {
       "id": "8788272002",
       "title": "Senior Software Engineer, AI Enablement ",
