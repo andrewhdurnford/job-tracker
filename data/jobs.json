@@ -1,20 +1,17 @@
 {
-  "generatedAt": "2026-09-15T21:40:17.279Z",
+  "generatedAt": "2026-09-15T21:50:17.940Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "benepass:79cc7bee-ac76-467b-9066-835f28c01925",
-    "coupang:8204842",
-    "reddit:8205402",
-    "singlestore:8205427",
-    "singlestore:8205389"
+    "quindar:f0c4d299-0ab6-4db4-8939-0171926919ef",
+    "singlestore:8205514"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 93,
+    "intern": 94,
     "new-grad": 26,
     "experienced": 2112
   },
@@ -3361,7 +3358,7 @@
     {
       "name": "Northwood Space",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4019,7 +4016,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4537,7 +4534,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 127,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5705,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8205514",
+      "title": "Software Engineer Intern",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
+      "postedAt": "2026-09-15T21:49:19.000Z",
+      "key": "singlestore:8205514",
+      "company": "SingleStore",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T21:50:17.940Z"
+    },
+    {
+      "id": "f0c4d299-0ab6-4db4-8939-0171926919ef",
+      "title": "Ground System Integration Engineer",
+      "location": "Denver, CO (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/quindar/f0c4d299-0ab6-4db4-8939-0171926919ef",
+      "postedAt": "2026-09-15T21:44:21.551Z",
+      "key": "quindar:f0c4d299-0ab6-4db4-8939-0171926919ef",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T21:50:17.940Z"
+    },
     {
       "id": "8205427",
       "title": "Software Engineer-New Grad 2027",
@@ -9595,22 +9624,6 @@
         "us"
       ],
       "firstSeen": "2026-09-12T23:24:34.477Z"
-    },
-    {
-      "id": "780ba862-a9c2-4912-93c4-90af1fd9fe99",
-      "title": "Engineering Lead - Prism",
-      "location": "Torrance, CA",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/northwoodspace/780ba862-a9c2-4912-93c4-90af1fd9fe99",
-      "postedAt": "2026-09-12T17:51:40.816Z",
-      "key": "northwoodspace:780ba862-a9c2-4912-93c4-90af1fd9fe99",
-      "company": "Northwood Space",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-12T17:55:40.394Z"
     },
     {
       "id": "e6d2bc1e-e0b9-4076-be01-ef8681863c01",
