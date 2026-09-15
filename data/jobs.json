@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-09-15T18:20:17.449Z",
+  "generatedAt": "2026-09-15T18:30:24.724Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "cohere:7133d205-5421-4336-a8e2-6037b5f55073",
+    "rilla:0e111ca4-3837-43d2-8507-6030a0dc32d9"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 92,
+    "intern": 93,
     "new-grad": 24,
-    "experienced": 2084
+    "experienced": 2085
   },
   "companies": [
     {
@@ -1045,7 +1048,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4209,7 +4212,7 @@
     {
       "name": "Rilla",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4621,10 +4624,10 @@
     },
     {
       "name": "Snappr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Snorkel AI",
@@ -5699,6 +5702,42 @@
     }
   ],
   "jobs": [
+    {
+      "id": "0e111ca4-3837-43d2-8507-6030a0dc32d9",
+      "title": "Software Engineering Intern, 2028 Graduates ",
+      "location": "New York City",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9",
+      "postedAt": "2026-09-15T18:27:02.877Z",
+      "key": "rilla:0e111ca4-3837-43d2-8507-6030a0dc32d9",
+      "company": "Rilla",
+      "level": "intern",
+      "term": {
+        "label": "2028",
+        "seasons": [],
+        "year": 2028
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-15T18:30:24.724Z"
+    },
+    {
+      "id": "7133d205-5421-4336-a8e2-6037b5f55073",
+      "title": "Senior Full-Stack Engineer, Internal Applications ",
+      "location": "Toronto",
+      "team": "Internal Applications",
+      "url": "https://jobs.ashbyhq.com/cohere/7133d205-5421-4336-a8e2-6037b5f55073",
+      "postedAt": "2026-09-15T18:21:37.401Z",
+      "key": "cohere:7133d205-5421-4336-a8e2-6037b5f55073",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-15T18:30:24.724Z"
+    },
     {
       "id": "JR2025406",
       "title": "Research Intern, Fundamental Generative AI - 2027",
