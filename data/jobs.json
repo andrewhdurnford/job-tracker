@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-09-16T00:50:17.163Z",
+  "generatedAt": "2026-09-16T01:00:23.723Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "atomic:b2bfa182-5a40-4545-9e03-980ededc979e",
+    "kong:ee3ce7ed-3e21-4254-b6f0-9c0fd21f3ffc",
+    "Nvidia:JR2020271",
+    "openai:1bec1791-b073-4f2a-9de6-34e36238c216"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 26,
-    "experienced": 2129
+    "experienced": 2132
   },
   "companies": [
     {
@@ -464,7 +469,7 @@
     {
       "name": "Atomic Industries",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2627,7 +2632,7 @@
     {
       "name": "Kong",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3054,7 +3059,7 @@
     {
       "name": "Mirage",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 171,
+      "jobCount": 172,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 62,
+      "jobCount": 63,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 128,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2020271",
+      "title": "Senior Systems Software Engineer – GPU Software",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---GPU-Software_JR2020271",
+      "postedAt": "2026-09-16T01:00:28.239Z",
+      "key": "Nvidia:JR2020271",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T01:00:23.723Z"
+    },
+    {
+      "id": "ee3ce7ed-3e21-4254-b6f0-9c0fd21f3ffc",
+      "title": "Forward Deployed Engineer",
+      "location": "New Jersey, United States (+1 more)",
+      "team": "Field Engineering",
+      "url": "https://jobs.ashbyhq.com/kong/ee3ce7ed-3e21-4254-b6f0-9c0fd21f3ffc",
+      "postedAt": "2026-09-16T00:59:44.640Z",
+      "key": "kong:ee3ce7ed-3e21-4254-b6f0-9c0fd21f3ffc",
+      "company": "Kong",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T01:00:23.723Z"
+    },
+    {
+      "id": "b2bfa182-5a40-4545-9e03-980ededc979e",
+      "title": "Founding Forward Deployed Engineer",
+      "location": "Remote - US",
+      "team": "Pre-Launch Companies",
+      "url": "https://jobs.ashbyhq.com/atomic/b2bfa182-5a40-4545-9e03-980ededc979e",
+      "postedAt": "2026-09-16T00:53:45.516Z",
+      "key": "atomic:b2bfa182-5a40-4545-9e03-980ededc979e",
+      "company": "Atomic Industries",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T01:00:23.723Z"
+    },
+    {
+      "id": "1bec1791-b073-4f2a-9de6-34e36238c216",
+      "title": "Staff PLM & Engineering Applications Engineer, Consumer Devices",
+      "location": "San Francisco",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/openai/1bec1791-b073-4f2a-9de6-34e36238c216",
+      "postedAt": "2026-09-16T00:52:14.001Z",
+      "key": "openai:1bec1791-b073-4f2a-9de6-34e36238c216",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T01:00:23.723Z"
+    },
     {
       "id": "JR2025745",
       "title": "Senior Deep Learning Engineer, Cosmo 3D Spatial",
@@ -41028,22 +41097,6 @@
         "us"
       ],
       "firstSeen": "2026-08-17T02:03:19.195Z"
-    },
-    {
-      "id": "48f6319b-9db8-45ae-b328-1f59547cde95",
-      "title": "Research Engineer, Generative Video",
-      "location": "Union Square, New York City",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mirage/48f6319b-9db8-45ae-b328-1f59547cde95",
-      "postedAt": "2026-08-17T00:55:56.323Z",
-      "key": "mirage:48f6319b-9db8-45ae-b328-1f59547cde95",
-      "company": "Mirage",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T01:00:28.306Z"
     },
     {
       "id": "R169413",
