@@ -1,18 +1,20 @@
 {
-  "generatedAt": "2026-09-16T18:40:20.089Z",
+  "generatedAt": "2026-09-16T18:50:18.261Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "DocuSign:30319"
+    "airbnb:8209061",
+    "notion:ead663e3-3eb2-4e0e-97e5-86820062dd68",
+    "persona:eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 99,
+    "intern": 100,
     "new-grad": 26,
-    "experienced": 2157
+    "experienced": 2158
   },
   "companies": [
     {
@@ -116,7 +118,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -985,7 +987,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3371,7 +3373,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3679,7 +3681,7 @@
     {
       "name": "Persona",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3847,7 +3849,7 @@
     {
       "name": "Postman",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,60 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8209061",
+      "title": "Senior Software Engineer, Tech Foundations",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8209061?gh_jid=8209061",
+      "postedAt": "2026-09-16T18:49:32.000Z",
+      "key": "airbnb:8209061",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T18:50:18.261Z"
+    },
+    {
+      "id": "eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
+      "title": "Software Engineer, Intern (Summer 2027) ",
+      "location": "San Francisco",
+      "team": "Engineering-Intern",
+      "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
+      "postedAt": "2026-09-16T18:48:17.428Z",
+      "key": "persona:eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
+      "company": "Persona",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T18:50:18.261Z"
+    },
+    {
+      "id": "ead663e3-3eb2-4e0e-97e5-86820062dd68",
+      "title": "Software Engineer, User Database Infrastructure",
+      "location": "San Francisco, California",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/notion/ead663e3-3eb2-4e0e-97e5-86820062dd68",
+      "postedAt": "2026-09-16T18:46:07.790Z",
+      "key": "notion:ead663e3-3eb2-4e0e-97e5-86820062dd68",
+      "company": "Notion",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T18:50:18.261Z"
+    },
     {
       "id": "30319",
       "title": "Software Engineer",
@@ -29292,22 +29348,6 @@
       "firstSeen": "2026-08-27T22:20:16.697Z"
     },
     {
-      "id": "7979746003",
-      "title": "Software Engineer, IAM",
-      "location": "Cupertino, California, United States; San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/postman/jobs/7979746003",
-      "postedAt": "2026-08-27T22:11:33.000Z",
-      "key": "postman:7979746003",
-      "company": "Postman",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-27T22:20:16.697Z"
-    },
-    {
       "id": "JR2024547",
       "title": "Senior Systems Software Engineer, Low Latency Streaming Technology - Automotive",
       "location": "US, CA, Santa Clara",
@@ -42133,7 +42173,7 @@
     },
     {
       "id": "JR2011122",
-      "title": "Senior Software Development Engineer in Test - Datacenter Server OS",
+      "title": "Platform Validation Engineer",
       "location": "US, CA, Santa Clara",
       "team": null,
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2011122",
