@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T16:40:18.206Z",
+  "generatedAt": "2026-09-16T16:50:18.250Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 99,
     "new-grad": 26,
-    "experienced": 2154
+    "experienced": 2151
   },
   "companies": [
     {
@@ -2417,7 +2417,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -2592,7 +2592,7 @@
     {
       "name": "Knowtex",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2915,7 +2915,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 129,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5399,7 +5399,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -6008,22 +6008,6 @@
       "postedAt": "2026-09-16T15:20:22.576Z",
       "key": "Nvidia:JR2025866",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T15:20:18.078Z"
-    },
-    {
-      "id": "REF088539W",
-      "title": "Senior Software Engineer Pipeline (GenAI, Backend, or Fullstack)",
-      "location": "US - Bellevue, WA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Senior-Software-Engineer-Pipeline--GenAI--Backend--or-Fullstack-_REF088539W",
-      "postedAt": "2026-09-16T15:20:22.386Z",
-      "key": "Visa:REF088539W",
-      "company": "Visa",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -26076,7 +26060,7 @@
       "title": "Senior Software Test Engineer",
       "location": "Toronto, Canada",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/coursera?gh_jid=6141559004",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6141559004",
       "postedAt": "2026-08-31T16:38:48.000Z",
       "key": "coursera:6141559004",
       "company": "Coursera",
@@ -38574,7 +38558,7 @@
     {
       "id": "8730197002",
       "title": "Senior Software Engineer ",
-      "location": "San Francisco, CA",
+      "location": "San Diego, CA; San Francisco, CA; Seattle, WA; Vancouver, BC, Canada",
       "team": null,
       "url": "https://job-boards.greenhouse.io/amplitude/jobs/8730197002",
       "postedAt": "2026-08-19T17:15:05.000Z",
@@ -38583,7 +38567,8 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "us",
+        "canada"
       ],
       "firstSeen": "2026-08-19T17:30:22.833Z"
     },
@@ -41333,22 +41318,6 @@
       "firstSeen": "2026-08-17T16:50:18.226Z"
     },
     {
-      "id": "501ccbb9-72ec-40e6-8c6c-2b4e8b837eab",
-      "title": "ML Engineer: Speech & LLMs",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/knowtex/501ccbb9-72ec-40e6-8c6c-2b4e8b837eab",
-      "postedAt": "2026-08-17T16:49:22.771Z",
-      "key": "knowtex:501ccbb9-72ec-40e6-8c6c-2b4e8b837eab",
-      "company": "Knowtex",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T16:50:18.226Z"
-    },
-    {
       "id": "R249365",
       "title": "Lead Software Engineer, DevOps",
       "location": "Riverwoods, IL",
@@ -41357,22 +41326,6 @@
       "postedAt": "2026-08-17T16:45:56.625Z",
       "key": "Capital One:R249365",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T16:45:53.308Z"
-    },
-    {
-      "id": "8132846",
-      "title": "Senior Data Engineer II, Finance",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8132846",
-      "postedAt": "2026-08-17T16:40:40.000Z",
-      "key": "instacart:8132846",
-      "company": "Instacart",
       "level": "experienced",
       "term": null,
       "regions": [
