@@ -1,19 +1,16 @@
 {
-  "generatedAt": "2026-09-16T20:50:18.059Z",
+  "generatedAt": "2026-09-16T21:00:33.856Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "marianaminerals:4dbcddee-27e1-4c71-90b3-9e00401afff4",
-    "openai:c2aeb70d-3eca-4c4f-a414-6394b30fea80"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 99,
+    "intern": 97,
     "new-grad": 26,
-    "experienced": 2163
+    "experienced": 2159
   },
   "companies": [
     {
@@ -68,7 +65,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -789,7 +786,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 149,
+      "jobCount": 147,
       "error": null,
       "stale": false
     },
@@ -1943,10 +1940,10 @@
     },
     {
       "name": "Gensyn",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Gigs",
@@ -3400,7 +3397,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5402,7 +5399,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -6268,7 +6265,7 @@
     {
       "id": "8207877",
       "title": "Software Engineer, Full Stack - Developer Insights",
-      "location": "San francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA",
+      "location": "San Francisco, CA; New York, NY; Los Angeles, CA; Seattle, WA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8207877",
       "postedAt": "2026-09-16T17:45:23.000Z",
@@ -6702,22 +6699,6 @@
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Lead-Software-Engineer_REF077435W",
       "postedAt": "2026-09-16T15:30:24.870Z",
       "key": "Visa:REF077435W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T15:30:21.194Z"
-    },
-    {
-      "id": "REF088538W",
-      "title": "Senior Software Engineer (GenAI, Backend, or Fullstack)",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Senior-Software-Engineer-Pipeline--GenAI--Backend--or-Fullstack-_REF088538W",
-      "postedAt": "2026-09-16T15:30:24.870Z",
-      "key": "Visa:REF088538W",
       "company": "Visa",
       "level": "experienced",
       "term": null,
@@ -23907,22 +23888,6 @@
       "firstSeen": "2026-09-01T23:10:22.324Z"
     },
     {
-      "id": "R169674",
-      "title": "Senior Software Development Engineer, Web Platform",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Software-Development-Engineer_R169674",
-      "postedAt": "2026-09-01T23:00:36.886Z",
-      "key": "Adobe:R169674",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T23:00:30.032Z"
-    },
-    {
       "id": "52a2b83b-7537-4e88-af7b-e4e9630a96e0",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (Public Sector)",
       "location": "Ottawa (+1 more)",
@@ -34138,22 +34103,6 @@
       "firstSeen": "2026-08-25T01:50:21.407Z"
     },
     {
-      "id": "R170525",
-      "title": "Software Development Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R170525",
-      "postedAt": "2026-08-25T01:10:24.367Z",
-      "key": "Adobe:R170525",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T01:10:18.223Z"
-    },
-    {
       "id": "8148653",
       "title": "Staff Machine Learning Engineer, Financial Connections",
       "location": "New York",
@@ -41637,50 +41586,6 @@
       "firstSeen": "2026-08-17T14:30:22.436Z"
     },
     {
-      "id": "R249022",
-      "title": "Intern, Backend Software Engineer - Team Interstellar - Winter 2027",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022",
-      "postedAt": "2026-08-17T14:20:22.326Z",
-      "key": "Capital One:R249022",
-      "company": "Capital One",
-      "level": "intern",
-      "term": {
-        "label": "Winter 2027",
-        "seasons": [
-          "winter"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-17T14:20:19.025Z"
-    },
-    {
-      "id": "R249015",
-      "title": "Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015",
-      "postedAt": "2026-08-17T14:20:22.326Z",
-      "key": "Capital One:R249015",
-      "company": "Capital One",
-      "level": "intern",
-      "term": {
-        "label": "Winter 2027",
-        "seasons": [
-          "winter"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-17T14:20:19.025Z"
-    },
-    {
       "id": "JR2018334",
       "title": "Senior Software Engineer — cuEquivariance",
       "location": "US, CA, Santa Clara",
@@ -42527,23 +42432,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T19:33:31.081Z"
-    },
-    {
-      "id": "c5d9d4bf-ed51-4fdc-b658-58056b3fec19",
-      "title": "Staff Software Engineer - Digital Experience Platform",
-      "location": "São Paulo (+6 more)",
-      "team": "Engineer",
-      "url": "https://jobs.ashbyhq.com/nubank/c5d9d4bf-ed51-4fdc-b658-58056b3fec19",
-      "postedAt": "2026-08-05T16:46:11.799Z",
-      "key": "nubank:c5d9d4bf-ed51-4fdc-b658-58056b3fec19",
-      "company": "Nubank",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-05T18:18:55.108Z"
     },
     {
       "id": "5204483007",
