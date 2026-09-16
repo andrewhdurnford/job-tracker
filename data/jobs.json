@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-16T22:10:18.000Z",
+  "generatedAt": "2026-09-16T22:20:16.465Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "coupang:8208567"
+    "brex:8815495002",
+    "brex:8815476002",
+    "brex:8815490002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 97,
     "new-grad": 26,
-    "experienced": 2161
+    "experienced": 2162
   },
   "companies": [
     {
@@ -711,7 +713,7 @@
     {
       "name": "Brex",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3252,7 +3254,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 131,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5688,7 +5690,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8815495002",
+      "title": "Senior Software Engineer, Backend (Product Engineering)",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://www.brex.com/careers/8815495002?gh_jid=8815495002",
+      "postedAt": "2026-09-16T22:13:39.000Z",
+      "key": "brex:8815495002",
+      "company": "Brex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T22:20:16.465Z"
+    },
+    {
+      "id": "8815490002",
+      "title": "Senior Software Engineer, Backend (Product Engineering)",
+      "location": "Seattle, Washington, United States",
+      "team": null,
+      "url": "https://www.brex.com/careers/8815490002?gh_jid=8815490002",
+      "postedAt": "2026-09-16T22:13:38.000Z",
+      "key": "brex:8815490002",
+      "company": "Brex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T22:20:16.465Z"
+    },
+    {
+      "id": "8815476002",
+      "title": "Senior Software Engineer, Backend (Product Engineering)",
+      "location": "New York, New York, United States",
+      "team": null,
+      "url": "https://www.brex.com/careers/8815476002?gh_jid=8815476002",
+      "postedAt": "2026-09-16T22:13:36.000Z",
+      "key": "brex:8815476002",
+      "company": "Brex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T22:20:16.465Z"
+    },
     {
       "id": "8208567",
       "title": "Senior Staff Applied Scientist",
@@ -24855,7 +24905,7 @@
     {
       "id": "4729671005",
       "title": "Senior Research Engineer",
-      "location": "Remote - New York",
+      "location": "Remote",
       "team": null,
       "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4729671005",
       "postedAt": "2026-09-01T17:01:55.000Z",
@@ -24864,7 +24914,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "remote"
       ],
       "firstSeen": "2026-09-01T17:10:18.886Z"
     },
@@ -25814,7 +25864,7 @@
     {
       "id": "bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409",
       "title": "Software Engineer, Product",
-      "location": "New York",
+      "location": "Remote | US",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/prelim/bf4c1a5d-32d5-4f3b-b1d2-42a3e1fd7409",
       "postedAt": "2026-08-31T22:06:40.725Z",
@@ -25823,7 +25873,8 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "us",
+        "remote"
       ],
       "firstSeen": "2026-08-31T22:10:17.250Z"
     },
@@ -41420,38 +41471,6 @@
       "postedAt": "2026-08-17T22:20:20.874Z",
       "key": "Nvidia:JR2019190",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T22:20:16.392Z"
-    },
-    {
-      "id": "5202464007",
-      "title": "Staff Software Engineer - AI Security (Go/Rust/Python)",
-      "location": "San Jose, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5202464007",
-      "postedAt": "2026-08-17T22:18:48.000Z",
-      "key": "zscaler:5202464007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T22:20:16.392Z"
-    },
-    {
-      "id": "8125738",
-      "title": "Internal AI Innovation Lead",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://navan.com/careers/openings?gh_jid=8125738",
-      "postedAt": "2026-08-17T22:12:18.000Z",
-      "key": "tripactions:8125738",
-      "company": "Navan",
       "level": "experienced",
       "term": null,
       "regions": [
