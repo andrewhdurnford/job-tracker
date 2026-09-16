@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-09-16T16:00:29.274Z",
+  "generatedAt": "2026-09-16T16:10:17.709Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "hyperbound:e875cc8d-9913-45a6-969d-22382797e0b8",
-    "stripe:7988264"
+    "adyen:8113712",
+    "shieldai:a03a9f27-32e4-49ff-9e34-3404a62cff51",
+    "spacex:8814662002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 97,
     "new-grad": 26,
-    "experienced": 2145
+    "experienced": 2147
   },
   "companies": [
     {
@@ -75,7 +76,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1783,7 +1784,7 @@
     {
       "name": "Fireworks AI",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4471,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 128,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 129,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a03a9f27-32e4-49ff-9e34-3404a62cff51",
+      "title": "Senior Systems Engineer (R5981)",
+      "location": "United States (+4 more)",
+      "team": "X-BAT Engineering - System Engineering & Integrated Test",
+      "url": "https://jobs.lever.co/shieldai/a03a9f27-32e4-49ff-9e34-3404a62cff51",
+      "postedAt": "2026-09-16T16:08:22.915Z",
+      "key": "shieldai:a03a9f27-32e4-49ff-9e34-3404a62cff51",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T16:10:17.709Z"
+    },
+    {
+      "id": "8814662002",
+      "title": "HVAC Programmer ",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8814662002?gh_jid=8814662002",
+      "postedAt": "2026-09-16T16:00:52.000Z",
+      "key": "spacex:8814662002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T16:10:17.709Z"
+    },
     {
       "id": "e875cc8d-9913-45a6-969d-22382797e0b8",
       "title": "Full-Stack Software Engineer",
@@ -26081,6 +26114,22 @@
       "firstSeen": "2026-08-31T15:30:24.621Z"
     },
     {
+      "id": "8113712",
+      "title": "Engineering Manager, Machine Learning - Personalize Intelligence",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8113712",
+      "postedAt": "2026-08-31T15:24:46.000Z",
+      "key": "adyen:8113712",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T16:10:17.709Z"
+    },
+    {
       "id": "8706480002",
       "title": "Embedded Software Engineer (Starlink)",
       "location": "Bastrop, TX",
@@ -41178,22 +41227,6 @@
         "us"
       ],
       "firstSeen": "2026-08-17T16:45:53.308Z"
-    },
-    {
-      "id": "ff11ca2c-d95f-4802-8370-09c2cf394842",
-      "title": "Member of Technical Staff - Reliability Engineering",
-      "location": "San Mateo (+1 more)",
-      "team": "Infrastructure",
-      "url": "https://jobs.ashbyhq.com/fireworks/ff11ca2c-d95f-4802-8370-09c2cf394842",
-      "postedAt": "2026-08-17T16:03:26.993Z",
-      "key": "fireworks:ff11ca2c-d95f-4802-8370-09c2cf394842",
-      "company": "Fireworks AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T16:10:17.445Z"
     },
     {
       "id": "R249202",
