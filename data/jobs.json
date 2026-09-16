@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:20:16.154Z",
+  "generatedAt": "2026-09-16T00:30:19.713Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 26,
-    "experienced": 2126
+    "experienced": 2125
   },
   "companies": [
     {
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4377,7 +4377,7 @@
     {
       "name": "Scanner",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5468,10 +5468,10 @@
     },
     {
       "name": "Waymark",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Waymo",
@@ -14099,7 +14099,7 @@
     {
       "id": "ef91ea5c-d9f7-40b4-a62d-62453cf942d2",
       "title": "Senior Staff Forward Deployed Engineer",
-      "location": "California, United States",
+      "location": "Texas, United States",
       "team": "Field Engineering",
       "url": "https://jobs.ashbyhq.com/kong/ef91ea5c-d9f7-40b4-a62d-62453cf942d2",
       "postedAt": "2026-09-09T21:43:54.059Z",
@@ -40980,22 +40980,6 @@
         "us"
       ],
       "firstSeen": "2026-08-17T01:00:28.306Z"
-    },
-    {
-      "id": "4371445009",
-      "title": "Senior DevOps Engineer",
-      "location": "San Francisco, CA (Hybrid)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/scanner/jobs/4371445009",
-      "postedAt": "2026-08-17T00:27:09.000Z",
-      "key": "scanner:4371445009",
-      "company": "Scanner",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T00:29:23.414Z"
     },
     {
       "id": "R169413",
