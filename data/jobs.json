@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-09-16T00:30:19.713Z",
+  "generatedAt": "2026-09-16T00:35:35.790Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "cursor:c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+    "lucidmotors:5215439007",
+    "Nvidia:JR2025745",
+    "openai:3b08148d-085e-4835-9934-1b7f60e0fdce"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 26,
-    "experienced": 2125
+    "experienced": 2129
   },
   "companies": [
     {
@@ -1276,7 +1281,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2809,7 +2814,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 170,
+      "jobCount": 171,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 61,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -5468,10 +5473,10 @@
     },
     {
       "name": "Waymark",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Waymo",
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025745",
+      "title": "Senior Deep Learning Engineer, Cosmo 3D Spatial",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Engineer--Cosmo-3D-Spatial_JR2025745",
+      "postedAt": "2026-09-16T00:35:39.175Z",
+      "key": "Nvidia:JR2025745",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T00:35:35.790Z"
+    },
+    {
+      "id": "c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+      "title": "Software Engineer, RL Environments",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+      "postedAt": "2026-09-16T00:33:21.885Z",
+      "key": "cursor:c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+      "company": "Cursor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T00:35:35.790Z"
+    },
+    {
+      "id": "5215439007",
+      "title": "Senior Software Engineer, Access Controls",
+      "location": "Phoenix, AZ",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5215439007?gh_jid=5215439007",
+      "postedAt": "2026-09-16T00:31:33.000Z",
+      "key": "lucidmotors:5215439007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T00:35:35.790Z"
+    },
+    {
+      "id": "3b08148d-085e-4835-9934-1b7f60e0fdce",
+      "title": "Software Engineer, Manufacturing Infrastructure",
+      "location": "San Francisco",
+      "team": "Hardware",
+      "url": "https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce",
+      "postedAt": "2026-09-16T00:30:26.055Z",
+      "key": "openai:3b08148d-085e-4835-9934-1b7f60e0fdce",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T00:35:35.790Z"
+    },
     {
       "id": "c1ac67d4-645a-4632-a178-ea6b5f49bb26",
       "title": "Software Engineer, Research Tools",
