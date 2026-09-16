@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-16T19:20:17.052Z",
+  "generatedAt": "2026-09-16T19:30:23.251Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "tanium:8165481"
+    "phantom:504baea1-48c7-458d-9f45-36e24dbf7035",
+    "spacex:8814943002",
+    "spacex:8815068002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 26,
-    "experienced": 2153
+    "experienced": 2154
   },
   "companies": [
     {
@@ -985,7 +987,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -1033,7 +1035,7 @@
     {
       "name": "Cockroach Labs",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -1411,7 +1413,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3686,7 +3688,7 @@
     {
       "name": "Phantom",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 129,
+      "jobCount": 131,
       "error": null,
       "stale": false
     },
@@ -4772,7 +4774,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "504baea1-48c7-458d-9f45-36e24dbf7035",
+      "title": "Staff Platform Security Engineer (Security)",
+      "location": "Remote",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/phantom/504baea1-48c7-458d-9f45-36e24dbf7035",
+      "postedAt": "2026-09-16T19:25:32.271Z",
+      "key": "phantom:504baea1-48c7-458d-9f45-36e24dbf7035",
+      "company": "Phantom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-16T19:30:23.251Z"
+    },
+    {
+      "id": "8814943002",
+      "title": "IT Network Infrastructure Engineer, Data Centers",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8814943002?gh_jid=8814943002",
+      "postedAt": "2026-09-16T19:21:30.000Z",
+      "key": "spacex:8814943002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T19:30:23.251Z"
+    },
+    {
+      "id": "8815068002",
+      "title": "IT Network Infrastructure Engineer, Outside Plant",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8815068002?gh_jid=8815068002",
+      "postedAt": "2026-09-16T19:21:15.000Z",
+      "key": "spacex:8815068002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T19:30:23.251Z"
+    },
     {
       "id": "8165481",
       "title": "Senior Security Engineer, Customer Transparency",
@@ -26612,23 +26662,6 @@
       "firstSeen": "2026-08-31T14:40:18.284Z"
     },
     {
-      "id": "8055385",
-      "title": "Member of Technical Staff (Developer Infrastructure) ",
-      "location": "New York, NY; San Mateo, CA; Toronto, Canada",
-      "team": null,
-      "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=8055385",
-      "postedAt": "2026-08-31T14:31:59.000Z",
-      "key": "cockroachlabs:8055385",
-      "company": "Cockroach Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-14T16:10:17.031Z"
-    },
-    {
       "id": "R999077",
       "title": "Lead Software Engineer",
       "location": "McLean, VA",
@@ -40831,13 +40864,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40847,13 +40880,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -41325,22 +41358,6 @@
         "remote"
       ],
       "firstSeen": "2026-08-25T19:40:18.731Z"
-    },
-    {
-      "id": "8652853002",
-      "title": "Staff Data Scientist, Causal Inference & Experimentation",
-      "location": "San Francisco Bay Area",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8652853002",
-      "postedAt": "2026-08-17T19:25:09.000Z",
-      "key": "discord:8652853002",
-      "company": "Discord",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T19:30:22.691Z"
     },
     {
       "id": "R249404",
