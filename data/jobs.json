@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-09-16T22:00:24.157Z",
+  "generatedAt": "2026-09-16T22:10:18.000Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "brex:8815463002",
-    "brex:8815457002",
-    "brex:8815462002",
-    "Nvidia:JR2021476"
+    "coupang:8208567"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 97,
     "new-grad": 26,
-    "experienced": 2162
+    "experienced": 2161
   },
   "companies": [
     {
@@ -1204,7 +1201,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4116,7 +4113,7 @@
     {
       "name": "Redis",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4802,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8208567",
+      "title": "Senior Staff Applied Scientist",
+      "location": "Seattle, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8208567",
+      "postedAt": "2026-09-16T22:03:03.000Z",
+      "key": "coupang:8208567",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T22:10:18.000Z"
+    },
     {
       "id": "JR2021476",
       "title": "ECAD PCB Tools Developer",
@@ -41445,38 +41458,6 @@
         "us"
       ],
       "firstSeen": "2026-08-17T22:20:16.392Z"
-    },
-    {
-      "id": "8137997",
-      "title": "Machine Learning Engineer",
-      "location": "South San Francisco, CA",
-      "team": "Global Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8137997",
-      "postedAt": "2026-08-17T22:06:29.000Z",
-      "key": "stripe:8137997",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T22:10:15.905Z"
-    },
-    {
-      "id": "66bc9c95-1248-45f6-b3f1-d5c2d3994198",
-      "title": "Director, Developer Marketing",
-      "location": "HQ (San Francisco)",
-      "team": "Product & Technical Marketing",
-      "url": "https://jobs.ashbyhq.com/redis/66bc9c95-1248-45f6-b3f1-d5c2d3994198",
-      "postedAt": "2026-08-17T22:05:02.015Z",
-      "key": "redis:66bc9c95-1248-45f6-b3f1-d5c2d3994198",
-      "company": "Redis",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T15:30:22.947Z"
     },
     {
       "id": "R249383",
