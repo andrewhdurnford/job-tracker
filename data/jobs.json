@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-16T14:00:24.817Z",
+  "generatedAt": "2026-09-16T14:10:20.832Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Nvidia:JR2018371"
+    "affirm:7979912003",
+    "kaizenlabs:3ee935bd-f153-4f8b-bcbe-7ec8ba0d07a7"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 26,
-    "experienced": 2134
+    "experienced": 2136
   },
   "companies": [
     {
@@ -81,7 +82,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -2538,7 +2539,7 @@
     {
       "name": "Kaizen Labs",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 128,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3ee935bd-f153-4f8b-bcbe-7ec8ba0d07a7",
+      "title": "Software Engineer, Cleared (TS/SCI)",
+      "location": "Washington, D.C. (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/kaizenlabs/3ee935bd-f153-4f8b-bcbe-7ec8ba0d07a7",
+      "postedAt": "2026-09-16T14:08:31.853Z",
+      "key": "kaizenlabs:3ee935bd-f153-4f8b-bcbe-7ec8ba0d07a7",
+      "company": "Kaizen Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T14:10:20.832Z"
+    },
+    {
+      "id": "7979912003",
+      "title": "Analytics Lead, Full Stack (Collections & Recoveries)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7979912003",
+      "postedAt": "2026-09-16T14:06:13.000Z",
+      "key": "affirm:7979912003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-16T14:10:20.832Z"
+    },
     {
       "id": "JR2018371",
       "title": "System Software Engineer, Engineering Workflow Platform",
@@ -40100,13 +40133,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40116,13 +40149,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
