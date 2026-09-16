@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-16T18:20:17.394Z",
+  "generatedAt": "2026-09-16T18:30:24.603Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Adobe:R171645"
+    "mongodb:8153137",
+    "nubank:21c3aa78-3d05-4243-9486-550762a08a61",
+    "robinhood:8189869"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 99,
     "new-grad": 26,
-    "experienced": 2154
+    "experienced": 2157
   },
   "companies": [
     {
@@ -1755,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3133,7 +3135,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3399,7 +3401,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4232,7 +4234,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -4772,7 +4774,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5701,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "21c3aa78-3d05-4243-9486-550762a08a61",
+      "title": "Staff Software Engineer, AI & Credit Card Platform",
+      "location": "Toronto (+3 more)",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/21c3aa78-3d05-4243-9486-550762a08a61",
+      "postedAt": "2026-09-16T18:29:31.163Z",
+      "key": "nubank:21c3aa78-3d05-4243-9486-550762a08a61",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-16T18:30:24.603Z"
+    },
+    {
+      "id": "8189869",
+      "title": "Senior Staff Software Developer, Developer Infrastructure",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8189869?t=gh_src=&gh_jid=8189869",
+      "postedAt": "2026-09-16T18:27:48.000Z",
+      "key": "robinhood:8189869",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-16T18:30:24.603Z"
+    },
+    {
+      "id": "8153137",
+      "title": "Forward Deployed Engineer, Industry Solutions",
+      "location": "Toronto",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8153137",
+      "postedAt": "2026-09-16T18:24:13.000Z",
+      "key": "mongodb:8153137",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-16T18:30:24.603Z"
+    },
     {
       "id": "R171645",
       "title": "Machine Learning Engineer",
@@ -40776,13 +40827,13 @@
       "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
-      "id": "8719865002",
+      "id": "8719860002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
+      "location": "Hawthorne, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
+      "key": "spacex:8719860002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -40792,13 +40843,13 @@
       "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
-      "id": "8719860002",
+      "id": "8719865002",
       "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
+      "location": "Bastrop, TX",
       "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
       "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
+      "key": "spacex:8719865002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
