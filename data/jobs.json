@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-16T21:30:23.194Z",
+  "generatedAt": "2026-09-16T21:40:16.477Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "reddit:8172457"
+    "brex:8815438002",
+    "brex:8815443002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -711,7 +712,7 @@
     {
       "name": "Brex",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2917,7 +2918,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3756,7 +3757,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 131,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8815443002",
+      "title": "Software Engineer II, Backend",
+      "location": "New York, New York, United States",
+      "team": null,
+      "url": "https://www.brex.com/careers/8815443002?gh_jid=8815443002",
+      "postedAt": "2026-09-16T21:36:01.000Z",
+      "key": "brex:8815443002",
+      "company": "Brex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T21:40:16.477Z"
+    },
+    {
+      "id": "8815438002",
+      "title": "Software Engineer II, Backend",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://www.brex.com/careers/8815438002?gh_jid=8815438002",
+      "postedAt": "2026-09-16T21:36:00.000Z",
+      "key": "brex:8815438002",
+      "company": "Brex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T21:40:16.477Z"
+    },
     {
       "id": "3f6911c0-b49b-4d8e-a434-4064df2cde44",
       "title": "Web Developer, Marketing Site",
@@ -34563,38 +34596,6 @@
       "postedAt": "2026-08-24T20:53:14.551Z",
       "key": "cursor:0320a8db-cb1b-407b-bd62-b23734b83330",
       "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T20:56:05.954Z"
-    },
-    {
-      "id": "8047425",
-      "title": "Staff Software Engineer, Storage Services",
-      "location": "New York, NY, US; Remote, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8047425",
-      "postedAt": "2026-08-24T20:51:34.000Z",
-      "key": "pinterest:8047425",
-      "company": "Pinterest",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T20:56:05.954Z"
-    },
-    {
-      "id": "8076015",
-      "title": "Staff Software Engineer, Data Warehouse Foundation ",
-      "location": "Palo Alto, CA, US; Remote, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8076015",
-      "postedAt": "2026-08-24T20:51:26.000Z",
-      "key": "pinterest:8076015",
-      "company": "Pinterest",
       "level": "experienced",
       "term": null,
       "regions": [
