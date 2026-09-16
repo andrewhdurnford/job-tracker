@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-16T15:50:18.222Z",
+  "generatedAt": "2026-09-16T16:00:29.274Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "hyperbound:e875cc8d-9913-45a6-969d-22382797e0b8",
+    "stripe:7988264"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 97,
     "new-grad": 26,
-    "experienced": 2146
+    "experienced": 2145
   },
   "companies": [
     {
@@ -2305,7 +2308,7 @@
     {
       "name": "Hyperbound",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2564,7 +2567,7 @@
     {
       "name": "Kindred",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2704,7 +2707,7 @@
     {
       "name": "LaunchDarkly",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 128,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5700,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "e875cc8d-9913-45a6-969d-22382797e0b8",
+      "title": "Full-Stack Software Engineer",
+      "location": "San Francisco",
+      "team": "Product",
+      "url": "https://jobs.ashbyhq.com/hyperbound/e875cc8d-9913-45a6-969d-22382797e0b8",
+      "postedAt": "2026-09-16T15:49:49.092Z",
+      "key": "hyperbound:e875cc8d-9913-45a6-969d-22382797e0b8",
+      "company": "Hyperbound",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T16:00:29.274Z"
+    },
+    {
       "id": "8185558",
       "title": "Senior Engineering Manager, Observability",
       "location": "Austin, TX (+3 more)",
@@ -6425,6 +6444,22 @@
         "us"
       ],
       "firstSeen": "2026-09-15T23:50:23.290Z"
+    },
+    {
+      "id": "7988264",
+      "title": "Backend Engineer, Intelligent Commerce",
+      "location": "Seattle, San Francisco, New York",
+      "team": "8510 Agentic Commerce",
+      "url": "https://stripe.com/jobs/search?gh_jid=7988264",
+      "postedAt": "2026-09-15T23:32:22.000Z",
+      "key": "stripe:7988264",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-16T16:00:29.274Z"
     },
     {
       "id": "JR2025370",
@@ -41159,55 +41194,6 @@
         "us"
       ],
       "firstSeen": "2026-08-17T16:10:17.445Z"
-    },
-    {
-      "id": "8118929",
-      "title": "Full Stack Engineer, Enterprise & Ecosystem",
-      "location": "US",
-      "team": "8571 Ecosystem Product",
-      "url": "https://stripe.com/jobs/search?gh_jid=8118929",
-      "postedAt": "2026-08-17T15:59:47.000Z",
-      "key": "stripe:8118929",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T16:00:25.433Z"
-    },
-    {
-      "id": "7886222003",
-      "title": "Staff Frontend Engineer, Feature Management",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7886222003",
-      "postedAt": "2026-08-17T15:59:46.000Z",
-      "key": "launchdarkly:7886222003",
-      "company": "LaunchDarkly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T16:00:25.433Z"
-    },
-    {
-      "id": "6070b239-54da-4e17-8f46-880a70629586",
-      "title": "Full-Stack Engineer",
-      "location": "Remote - US or Canada",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/kindred/6070b239-54da-4e17-8f46-880a70629586",
-      "postedAt": "2026-08-17T15:53:09.605Z",
-      "key": "kindred:6070b239-54da-4e17-8f46-880a70629586",
-      "company": "Kindred",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-17T16:00:25.433Z"
     },
     {
       "id": "R249202",
