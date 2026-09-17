@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-09-17T17:50:17.313Z",
+  "generatedAt": "2026-09-17T18:00:25.119Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "nubank:302f1e7c-6e2d-40f3-bf15-6dc60eb74b69"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 26,
-    "experienced": 2143
+    "experienced": 2141
   },
   "companies": [
     {
@@ -843,10 +841,10 @@
     },
     {
       "name": "Carvana",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Casca",
@@ -2063,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2104,7 +2102,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2174,7 +2172,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -2917,7 +2915,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5563,7 +5561,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -6069,22 +6067,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-17T14:40:19.472Z"
-    },
-    {
-      "id": "ab7758a9-b09e-4d9c-9f6a-4da79836ea5e",
-      "title": "Engineering Manager, Embedded Experience",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/harvey/ab7758a9-b09e-4d9c-9f6a-4da79836ea5e",
-      "postedAt": "2026-09-17T14:25:23.515Z",
-      "key": "harvey:ab7758a9-b09e-4d9c-9f6a-4da79836ea5e",
-      "company": "Harvey",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-17T14:30:58.950Z"
     },
     {
       "id": "8167546",
@@ -23619,7 +23601,7 @@
     },
     {
       "id": "dddfb92d-ad05-4845-b6fa-87650b9166f3",
-      "title": "Sr. Engineering Manager - Architecture",
+      "title": "Sr. Engineering Manager",
       "location": "HQ - Sunnyvale (Office)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/illumio/dddfb92d-ad05-4845-b6fa-87650b9166f3",
@@ -41544,22 +41526,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T18:10:17.194Z"
-    },
-    {
-      "id": "8110106",
-      "title": "Staff Software Engineer, Business Insurance",
-      "location": "New York, NY - Hybrid",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8110106",
-      "postedAt": "2026-08-18T17:59:26.000Z",
-      "key": "gusto:8110106",
-      "company": "Gusto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T18:00:27.099Z"
     },
     {
       "id": "JR2023503",
