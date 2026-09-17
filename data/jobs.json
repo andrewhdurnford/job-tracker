@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-17T15:30:21.300Z",
+  "generatedAt": "2026-09-17T15:40:17.026Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "DocuSign:30349",
+    "openai:4167047e-33c2-4be4-b693-71c6c039bc56"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 26,
-    "experienced": 2148
+    "experienced": 2149
   },
   "companies": [
     {
@@ -1423,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3467,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 63,
+      "jobCount": 64,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 120,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "30349",
+      "title": "Software Engineer",
+      "location": "US-SFO-Main",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30349/login",
+      "postedAt": "2026-09-17T15:33:00.000Z",
+      "key": "DocuSign:30349",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T15:40:17.026Z"
+    },
+    {
+      "id": "4167047e-33c2-4be4-b693-71c6c039bc56",
+      "title": "Applied AI Architect, Retail",
+      "location": "San Francisco",
+      "team": "Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/4167047e-33c2-4be4-b693-71c6c039bc56",
+      "postedAt": "2026-09-17T15:32:18.866Z",
+      "key": "openai:4167047e-33c2-4be4-b693-71c6c039bc56",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T15:40:17.026Z"
+    },
     {
       "id": "JR2005063",
       "title": "Senior Software Engineer, Humanoid Robotics",
@@ -41610,22 +41645,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T15:50:21.220Z"
-    },
-    {
-      "id": "8139280",
-      "title": "Software Engineer II, Streaming Foundations",
-      "location": "Toronto, Ontario, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8139280?gh_jid=8139280",
-      "postedAt": "2026-08-18T15:33:09.000Z",
-      "key": "okta:8139280",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-08T20:30:23.622Z"
     },
     {
       "id": "JR2023503",
