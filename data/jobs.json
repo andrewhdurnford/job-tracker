@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-09-17T19:10:16.509Z",
+  "generatedAt": "2026-09-17T19:20:17.360Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "alpaca:6145152004",
-    "Capital One:R1000209"
+    "Adobe:R170815",
+    "lumos:3b2097a1-9627-484b-88d3-00c49f4b3946",
+    "lumos:cd45d775-b61b-437f-952c-0d02e477b5de",
+    "lumos:6ebb1a20-019f-4780-a945-81fb42937fee",
+    "reddit:8211850"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 26,
-    "experienced": 2145
+    "experienced": 2148
   },
   "companies": [
     {
@@ -68,7 +71,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -2840,7 +2843,7 @@
     {
       "name": "Lumos",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3512,7 +3515,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 64,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -4107,7 +4110,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 116,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5706,70 @@
   ],
   "jobs": [
     {
+      "id": "R170815",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Jose",
+      "team": null,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R170815",
+      "postedAt": "2026-09-17T19:20:25.268Z",
+      "key": "Adobe:R170815",
+      "company": "Adobe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T19:20:17.360Z"
+    },
+    {
+      "id": "6ebb1a20-019f-4780-a945-81fb42937fee",
+      "title": "Software Engineer, Integrations",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/lumos/6ebb1a20-019f-4780-a945-81fb42937fee",
+      "postedAt": "2026-09-17T19:13:25.652Z",
+      "key": "lumos:6ebb1a20-019f-4780-a945-81fb42937fee",
+      "company": "Lumos",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T19:20:17.360Z"
+    },
+    {
+      "id": "8211850",
+      "title": "Senior iOS Engineer, Media Experience",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8211850",
+      "postedAt": "2026-09-17T19:13:03.000Z",
+      "key": "reddit:8211850",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T19:20:17.360Z"
+    },
+    {
+      "id": "3b2097a1-9627-484b-88d3-00c49f4b3946",
+      "title": "Software Engineer, Data Engineering",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/lumos/3b2097a1-9627-484b-88d3-00c49f4b3946",
+      "postedAt": "2026-09-17T19:10:21.115Z",
+      "key": "lumos:3b2097a1-9627-484b-88d3-00c49f4b3946",
+      "company": "Lumos",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T19:20:17.360Z"
+    },
+    {
       "id": "R1000209",
       "title": "Principal Associate, Software Engineer - Capital One Travel - Full Stack",
       "location": "Toronto, ON",
@@ -5717,6 +5784,22 @@
         "canada"
       ],
       "firstSeen": "2026-09-17T19:10:16.509Z"
+    },
+    {
+      "id": "cd45d775-b61b-437f-952c-0d02e477b5de",
+      "title": "Software Engineer, Identity Platform",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/lumos/cd45d775-b61b-437f-952c-0d02e477b5de",
+      "postedAt": "2026-09-17T19:10:17.242Z",
+      "key": "lumos:cd45d775-b61b-437f-952c-0d02e477b5de",
+      "company": "Lumos",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T19:20:17.360Z"
     },
     {
       "id": "55e9aa63-e7b6-43b7-9ca7-8cc398dbbb00",
@@ -7878,7 +7961,7 @@
     {
       "id": "6194973004",
       "title": "Software Engineer - Core Trading",
-      "location": "Remote - Americas ",
+      "location": "Remote - Americas or EU",
       "team": null,
       "url": "https://job-boards.greenhouse.io/alpaca/jobs/6194973004",
       "postedAt": "2026-09-16T17:34:21.000Z",
@@ -39676,22 +39759,6 @@
       "firstSeen": "2026-08-20T00:45:27.815Z"
     },
     {
-      "id": "2bf44c13-a463-4ec7-b152-b8367075246c",
-      "title": "Software Engineer, Trainium ",
-      "location": "San Francisco",
-      "team": "Kernels",
-      "url": "https://jobs.ashbyhq.com/openai/2bf44c13-a463-4ec7-b152-b8367075246c",
-      "postedAt": "2026-08-19T23:09:36.243Z",
-      "key": "openai:2bf44c13-a463-4ec7-b152-b8367075246c",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T23:10:19.870Z"
-    },
-    {
       "id": "a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
       "title": "Data Science Intern (Winter 2027)",
       "location": "San Francisco, California",
@@ -41576,22 +41643,6 @@
         "us"
       ],
       "firstSeen": "2026-09-04T06:20:16.261Z"
-    },
-    {
-      "id": "71838fdf-4476-490c-81b6-4bf0746f6774",
-      "title": "Software Engineer, Plugin Developer Platform",
-      "location": "San Francisco",
-      "team": "Applied AI Engineering",
-      "url": "https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774",
-      "postedAt": "2026-08-18T19:12:23.311Z",
-      "key": "openai:71838fdf-4476-490c-81b6-4bf0746f6774",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T19:19:42.915Z"
     },
     {
       "id": "JR2023503",
