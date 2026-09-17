@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-09-17T18:20:16.650Z",
+  "generatedAt": "2026-09-17T18:30:23.224Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "aclu:8816450002",
-    "grafanalabs:6146605004",
-    "grafanalabs:6146604004",
-    "gusto:8168028",
-    "roofr:4734539005"
+    "Nvidia:JR2025776",
+    "reddit:8147617",
+    "Remitly:R_106876",
+    "Remitly:R_106682"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +15,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 26,
-    "experienced": 2145
+    "experienced": 2146
   },
   "companies": [
     {
@@ -3326,7 +3325,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3431,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 174,
+      "jobCount": 175,
       "error": null,
       "stale": false
     },
@@ -3473,7 +3472,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4110,7 +4109,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -4138,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -5482,7 +5481,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025776",
+      "title": "Senior DevOps Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-Engineer_JR2025776",
+      "postedAt": "2026-09-17T18:30:27.580Z",
+      "key": "Nvidia:JR2025776",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T18:30:23.224Z"
+    },
+    {
+      "id": "R_106682",
+      "title": "Senior Software Engineer",
+      "location": "Burnaby, British Columbia, Canada",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Senior-Software-Engineer_R_106682",
+      "postedAt": "2026-09-17T18:30:26.895Z",
+      "key": "Remitly:R_106682",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-17T18:30:23.224Z"
+    },
+    {
+      "id": "R_106876",
+      "title": "Staff Software Development Engineer- Remitly Business",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Staff-Software-Development-Engineer--Remitly-Business_R_106876",
+      "postedAt": "2026-09-17T18:30:26.895Z",
+      "key": "Remitly:R_106876",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T18:30:23.224Z"
+    },
+    {
+      "id": "8147617",
+      "title": "Senior Frontend Software Engineer, Consumer Engineering",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8147617",
+      "postedAt": "2026-09-17T18:29:16.000Z",
+      "key": "reddit:8147617",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T18:30:23.224Z"
+    },
     {
       "id": "8816450002",
       "title": "Analytics Engineer",
@@ -19152,22 +19215,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-08T20:20:18.804Z"
-    },
-    {
-      "id": "5418578008",
-      "title": "Lead Software Engineer - Java",
-      "location": "Portland, Oregon, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5418578008",
-      "postedAt": "2026-09-08T20:07:22.000Z",
-      "key": "newrelic:5418578008",
-      "company": "New Relic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T20:10:21.035Z"
     },
     {
       "id": "5418716008",
@@ -41558,38 +41605,6 @@
       "postedAt": "2026-08-18T18:37:27.491Z",
       "key": "strava:1d8caf8a-e73d-417c-8a8a-d9cb1beec067",
       "company": "Strava",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T18:40:18.219Z"
-    },
-    {
-      "id": "8139696",
-      "title": "Staff Machine Learning Engineer, Generative AI (Auth0)",
-      "location": "Toronto, Ontario, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8139696?gh_jid=8139696",
-      "postedAt": "2026-08-18T18:30:11.000Z",
-      "key": "okta:8139696",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-18T18:30:25.076Z"
-    },
-    {
-      "id": "7905709",
-      "title": "Software Engineer, Marketplace Logistic",
-      "location": "Mountain View, CA, United States ",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7905709",
-      "postedAt": "2026-08-18T18:21:35.000Z",
-      "key": "waymo:7905709",
-      "company": "Waymo",
       "level": "experienced",
       "term": null,
       "regions": [
