@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-17T15:00:33.387Z",
+  "generatedAt": "2026-09-17T15:10:19.060Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "DocuSign:30352",
+    "givecampus:4409577009",
+    "Nvidia:JR2005063"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 26,
-    "experienced": 2152
+    "experienced": 2153
   },
   "companies": [
     {
@@ -1241,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -1423,7 +1427,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1969,7 +1973,7 @@
     {
       "name": "GiveCampus",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 172,
+      "jobCount": 173,
       "error": null,
       "stale": false
     },
@@ -3999,7 +4003,7 @@
     {
       "name": "Quicknode",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2005063",
+      "title": "Senior Software Engineer, Humanoid Robotics",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Humanoid-Robotics_JR2005063",
+      "postedAt": "2026-09-17T15:10:23.059Z",
+      "key": "Nvidia:JR2005063",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T15:10:19.060Z"
+    },
+    {
+      "id": "4409577009",
+      "title": "Software Engineer, Online Giving",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/givecampus/jobs/4409577009",
+      "postedAt": "2026-09-17T15:04:41.000Z",
+      "key": "givecampus:4409577009",
+      "company": "GiveCampus",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T15:10:19.060Z"
+    },
+    {
+      "id": "30352",
+      "title": "Software Engineer",
+      "location": "US-Seattle-3rd",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30352/login",
+      "postedAt": "2026-09-17T15:03:00.000Z",
+      "key": "DocuSign:30352",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T15:10:19.060Z"
+    },
     {
       "id": "a40a998a-acfd-403d-8de9-0d4365030503",
       "title": "AI Platform Engineer, Enablement and Governance Operations",
@@ -24308,7 +24360,7 @@
     },
     {
       "id": "6179231004",
-      "title": "Senior Data Scientist",
+      "title": "Senior Data Scientist - Risk ML",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6179231004",
@@ -24438,7 +24490,7 @@
     },
     {
       "id": "6178814004",
-      "title": "Staff Data Scientist",
+      "title": "Staff Data Scientist - Risk ML",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6178814004",
@@ -41660,22 +41712,6 @@
       "firstSeen": "2026-08-18T15:26:57.749Z"
     },
     {
-      "id": "bb8ff69d-ef1d-4e26-94be-abe7b0f825c2",
-      "title": "Senior Infrastructure Engineer, Core Systems",
-      "location": "United States (+1 more)",
-      "team": "Infrastructure Engineering",
-      "url": "https://jobs.ashbyhq.com/quicknode/bb8ff69d-ef1d-4e26-94be-abe7b0f825c2",
-      "postedAt": "2026-08-18T15:08:51.123Z",
-      "key": "quicknode:bb8ff69d-ef1d-4e26-94be-abe7b0f825c2",
-      "company": "Quicknode",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-14T15:30:22.753Z"
-    },
-    {
       "id": "JR2023503",
       "title": "Senior DFX Software Engineer - Machine Learning",
       "location": "US, CA, Santa Clara",
@@ -41859,22 +41895,6 @@
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer--Cloud-Native---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29790",
       "postedAt": "2026-08-14T23:37:39.544Z",
       "key": "CrowdStrike:R29790",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-14T23:37:35.902Z"
-    },
-    {
-      "id": "R29827",
-      "title": "Staff AI Security Scientist",
-      "location": "USA - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Staff-AI-Security-Scientist_R29827",
-      "postedAt": "2026-08-14T23:37:38.857Z",
-      "key": "CrowdStrike:R29827",
       "company": "CrowdStrike",
       "level": "experienced",
       "term": null,
