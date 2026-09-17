@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-09-17T18:10:18.839Z",
+  "generatedAt": "2026-09-17T18:20:16.650Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "coinbase:8211490"
+    "aclu:8816450002",
+    "grafanalabs:6146605004",
+    "grafanalabs:6146604004",
+    "gusto:8168028",
+    "roofr:4734539005"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 26,
-    "experienced": 2141
+    "experienced": 2145
   },
   "companies": [
     {
@@ -53,7 +57,7 @@
     {
       "name": "ACLU",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2055,7 +2059,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2104,7 +2108,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4176,7 +4180,7 @@
     {
       "name": "Retell AI",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4267,7 +4271,7 @@
     {
       "name": "Roofr",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5246,10 +5250,10 @@
     },
     {
       "name": "Udio",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "UiPath",
@@ -5701,6 +5705,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8816450002",
+      "title": "Analytics Engineer",
+      "location": "New York, New York, United States; San Francisco, California, United States; Washington, District of Columbia, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/aclu/jobs/8816450002",
+      "postedAt": "2026-09-17T18:17:54.000Z",
+      "key": "aclu:8816450002",
+      "company": "ACLU",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T18:20:16.650Z"
+    },
+    {
+      "id": "8168028",
+      "title": "Staff Software Engineer, HR Experience",
+      "location": "New York, NY - Hybrid",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8168028",
+      "postedAt": "2026-09-17T18:16:54.000Z",
+      "key": "gusto:8168028",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T18:20:16.650Z"
+    },
+    {
+      "id": "4734539005",
+      "title": "Staff Data Scientist ",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/roofr/jobs/4734539005",
+      "postedAt": "2026-09-17T18:14:30.000Z",
+      "key": "roofr:4734539005",
+      "company": "Roofr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-17T18:20:16.650Z"
+    },
     {
       "id": "8211490",
       "title": "Senior Machine Learning Platform Engineer",
@@ -31396,22 +31448,6 @@
       "firstSeen": "2026-08-27T18:50:18.059Z"
     },
     {
-      "id": "1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c",
-      "title": "Applied AI Engineer (Customer Facing)",
-      "location": "San Francisco Bay Area (+1 more)",
-      "team": "Technical Success ",
-      "url": "https://jobs.ashbyhq.com/retell-ai/1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c",
-      "postedAt": "2026-08-27T18:37:13.808Z",
-      "key": "retell-ai:1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c",
-      "company": "Retell AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-27T18:50:18.059Z"
-    },
-    {
       "id": "JR2024482",
       "title": "Senior Manager, Developer Relations - Higher Education and Research",
       "location": "US, CA, Santa Clara",
@@ -41255,6 +41291,38 @@
         "us"
       ],
       "firstSeen": "2026-08-18T20:20:18.056Z"
+    },
+    {
+      "id": "6146604004",
+      "title": "Staff Backend Engineer - Mimir Query, Databases | USA | Remote",
+      "location": "United States (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6146604004",
+      "postedAt": "2026-08-18T19:44:54.000Z",
+      "key": "grafanalabs:6146604004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T18:20:16.650Z"
+    },
+    {
+      "id": "6146605004",
+      "title": "Staff Backend Engineer - Mimir Query, Databases | Canada | Remote",
+      "location": "Canada (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6146605004",
+      "postedAt": "2026-08-18T19:44:53.000Z",
+      "key": "grafanalabs:6146605004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-17T18:20:16.650Z"
     },
     {
       "id": "8139781",
