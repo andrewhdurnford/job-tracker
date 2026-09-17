@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-09-17T03:30:24.700Z",
+  "generatedAt": "2026-09-17T03:40:17.629Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "waymo:8203200"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 96,
+    "intern": 97,
     "new-grad": 26,
-    "experienced": 2170
+    "experienced": 2161
   },
   "companies": [
     {
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 131,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 122,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5476,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8203200",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+      "postedAt": "2026-09-17T03:33:58.000Z",
+      "key": "waymo:8203200",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T03:40:17.629Z"
+    },
     {
       "id": "5f4d4f60-e8b8-4e03-a709-0117b3e7d48e",
       "title": "Staff Software Engineer, Ray Core",
@@ -41371,150 +41395,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T19:10:18.288Z"
-    },
-    {
-      "id": "8719860002",
-      "title": "Security Software Engineer (Starlink)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002",
-      "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719860002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T03:30:21.898Z"
-    },
-    {
-      "id": "8719865002",
-      "title": "Security Software Engineer (Starlink)",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002",
-      "postedAt": "2026-08-18T03:23:15.000Z",
-      "key": "spacex:8719865002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T03:30:21.898Z"
-    },
-    {
-      "id": "8719864002",
-      "title": "Product Security Engineer (Starlink)",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719864002?gh_jid=8719864002",
-      "postedAt": "2026-08-18T03:23:12.000Z",
-      "key": "spacex:8719864002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T03:30:21.898Z"
-    },
-    {
-      "id": "8719854002",
-      "title": "Security Software Engineer (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719854002?gh_jid=8719854002",
-      "postedAt": "2026-08-18T03:23:12.000Z",
-      "key": "spacex:8719854002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T03:30:21.898Z"
-    },
-    {
-      "id": "8719859002",
-      "title": "Product Security Engineer (Starlink)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719859002?gh_jid=8719859002",
-      "postedAt": "2026-08-18T03:23:11.000Z",
-      "key": "spacex:8719859002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T03:30:21.898Z"
-    },
-    {
-      "id": "8719856002",
-      "title": "Product Security Engineer (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719856002?gh_jid=8719856002",
-      "postedAt": "2026-08-18T03:23:07.000Z",
-      "key": "spacex:8719856002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T03:30:21.898Z"
-    },
-    {
-      "id": "8719863002",
-      "title": "Embedded Security Engineer (Starlink)",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719863002?gh_jid=8719863002",
-      "postedAt": "2026-08-18T03:23:06.000Z",
-      "key": "spacex:8719863002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T03:30:21.898Z"
-    },
-    {
-      "id": "8719858002",
-      "title": "Embedded Security Engineer (Starlink)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719858002?gh_jid=8719858002",
-      "postedAt": "2026-08-18T03:23:05.000Z",
-      "key": "spacex:8719858002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T03:30:21.898Z"
-    },
-    {
-      "id": "8719857002",
-      "title": "Embedded Security Engineer (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8719857002?gh_jid=8719857002",
-      "postedAt": "2026-08-18T03:23:04.000Z",
-      "key": "spacex:8719857002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T03:30:21.898Z"
     },
     {
       "id": "JR2020107",
