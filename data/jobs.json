@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-16T23:50:19.647Z",
+  "generatedAt": "2026-09-17T00:00:29.003Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "openai:40f2f959-20f8-40ca-8b8c-154b6774193a"
+    "Nvidia:JR2025674"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 97,
+    "intern": 96,
     "new-grad": 26,
-    "experienced": 2170
+    "experienced": 2171
   },
   "companies": [
     {
@@ -500,10 +500,10 @@
     },
     {
       "name": "Azra Games",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Backflip AI",
@@ -1312,10 +1312,10 @@
     },
     {
       "name": "Dataiku",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "DataRobot",
@@ -1830,10 +1830,10 @@
     },
     {
       "name": "Flock Homes",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Flow Engineering",
@@ -2161,7 +2161,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -2803,10 +2803,10 @@
     },
     {
       "name": "LTSE Services, Inc.",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Lucid Motors",
@@ -3132,10 +3132,10 @@
     },
     {
       "name": "MongoDB",
-      "ok": true,
+      "ok": false,
       "jobCount": 10,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Motherduck",
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 176,
+      "jobCount": 177,
       "error": null,
       "stale": false
     },
@@ -3679,7 +3679,7 @@
     {
       "name": "Persona",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3944,10 +3944,10 @@
     },
     {
       "name": "Prospa",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Protege",
@@ -4756,10 +4756,10 @@
     },
     {
       "name": "Stability AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Stacker",
@@ -5031,7 +5031,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5113,10 +5113,10 @@
     },
     {
       "name": "Together AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Topsort",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025674",
+      "title": "Senior Software Engineer - Embedded Linux for Edge",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Embedded-Linux-for-Edge_JR2025674",
+      "postedAt": "2026-09-17T00:00:32.785Z",
+      "key": "Nvidia:JR2025674",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T00:00:29.003Z"
+    },
     {
       "id": "40f2f959-20f8-40ca-8b8c-154b6774193a",
       "title": "Software Engineer, Compute Foundations",
@@ -6540,28 +6556,6 @@
       "company": "Airbnb",
       "level": "experienced",
       "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T18:50:18.261Z"
-    },
-    {
-      "id": "eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
-      "title": "Software Engineer, Intern (Summer 2027) ",
-      "location": "San Francisco",
-      "team": "Engineering-Intern",
-      "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
-      "postedAt": "2026-09-16T18:48:17.428Z",
-      "key": "persona:eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
-      "company": "Persona",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
       "regions": [
         "us"
       ],
