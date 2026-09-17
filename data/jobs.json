@@ -1,16 +1,20 @@
 {
-  "generatedAt": "2026-09-17T21:20:17.838Z",
+  "generatedAt": "2026-09-17T21:30:22.431Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "persona:eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
+    "samsara:8212286",
+    "temporal:a58b6b5f-204f-454d-9cd5-e8b2acc44b65"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 112,
+    "intern": 113,
     "new-grad": 26,
-    "experienced": 2143
+    "experienced": 2145
   },
   "companies": [
     {
@@ -3677,7 +3681,7 @@
     {
       "name": "Persona",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4335,7 +4339,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5021,7 +5025,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,60 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8212286",
+      "title": "Senior Security Operations Engineer I",
+      "location": "Remote - OR",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8212286?gh_jid=8212286",
+      "postedAt": "2026-09-17T21:24:04.000Z",
+      "key": "samsara:8212286",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T21:30:22.431Z"
+    },
+    {
+      "id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
+      "title": "Senior Developer Success Engineer - East",
+      "location": "United States (+4 more)",
+      "team": "Customer Support",
+      "url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
+      "postedAt": "2026-09-17T21:23:05.663Z",
+      "key": "temporal:a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T21:30:22.431Z"
+    },
+    {
+      "id": "eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
+      "title": "Software Engineer, Intern (Summer 2027) ",
+      "location": "San Francisco",
+      "team": "Engineering-Intern",
+      "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
+      "postedAt": "2026-09-17T21:23:03.918Z",
+      "key": "persona:eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3",
+      "company": "Persona",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T21:30:22.431Z"
+    },
     {
       "id": "6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e",
       "title": "Software Engineering Intern, Spring",
@@ -14281,7 +14339,7 @@
     },
     {
       "id": "8802332002",
-      "title": "Software Engineer Intern, Machine Learning (Summer 2027)",
+      "title": "Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
       "location": "Toronto, Canada",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002",
@@ -14810,7 +14868,7 @@
     },
     {
       "id": "8796054002",
-      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "title": "Software Engineer Intern, Backend (Summer 2027 - Montreal)",
       "location": "Montreal, Canada",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002",
@@ -14832,7 +14890,7 @@
     },
     {
       "id": "8796052002",
-      "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027)",
+      "title": "Développeur Logiciels (Stagiaire), Backend (l'été 2027 - Montreal)",
       "location": "Montreal, Canada",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002",
@@ -14892,7 +14950,7 @@
     },
     {
       "id": "8797859002",
-      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
       "location": "Toronto, Canada",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002",
@@ -14914,7 +14972,7 @@
     },
     {
       "id": "8767697002",
-      "title": "Data Science Intern, Algorithms (Summer 2027)",
+      "title": "Data Science Intern, Algorithms (Summer 2027 - Toronto)",
       "location": "Toronto, Canada",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002",
@@ -14936,7 +14994,7 @@
     },
     {
       "id": "8767710002",
-      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "title": "Software Engineer Intern, Backend (Summer 2027 - Toronto)",
       "location": "Toronto, Canada",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002",
@@ -14958,7 +15016,7 @@
     },
     {
       "id": "8797837002",
-      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027 - NYC)",
       "location": "New York, NY",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002",
@@ -14980,7 +15038,7 @@
     },
     {
       "id": "8796124002",
-      "title": "Data Science Intern, Algorithms (Summer 2027)",
+      "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
       "location": "New York, NY",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
@@ -15002,7 +15060,7 @@
     },
     {
       "id": "8767723002",
-      "title": "Data Science Intern, Algorithms (Summer 2027)",
+      "title": "Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
       "location": "San Francisco, CA",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
@@ -15024,7 +15082,7 @@
     },
     {
       "id": "8767726002",
-      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "title": "Software Engineer Intern, Backend (Summer 2027 - SF)",
       "location": "San Francisco, CA",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002",
