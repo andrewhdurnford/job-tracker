@@ -1,18 +1,8 @@
 {
-  "generatedAt": "2026-09-17T13:00:28.561Z",
+  "generatedAt": "2026-09-17T13:10:18.246Z",
   "bootstrap": false,
-  "lastRunNewCount": 9,
-  "newKeys": [
-    "Visa:REF088599W",
-    "Visa:REF088597W",
-    "Visa:REF088596W",
-    "Visa:REF088594W",
-    "Visa:REF088591W",
-    "Visa:REF088582W",
-    "Visa:REF088579W",
-    "Visa:REF088583W",
-    "Visa:REF088578W"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -20,7 +10,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 26,
-    "experienced": 2147
+    "experienced": 2145
   },
   "companies": [
     {
@@ -1062,7 +1052,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -1763,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2071,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2883,7 +2873,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4701,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 122,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4751,7 +4741,7 @@
     {
       "name": "Squarespace",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -41568,38 +41558,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T13:20:18.061Z"
-    },
-    {
-      "id": "8125420",
-      "title": "Staff Software Engineer, Revenue Systems",
-      "location": "New York City",
-      "team": null,
-      "url": "http://www.squarespace.com/about/careers?gh_jid=8125420",
-      "postedAt": "2026-08-18T13:07:06.000Z",
-      "key": "squarespace:8125420",
-      "company": "Squarespace",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T16:30:23.190Z"
-    },
-    {
-      "id": "8103569",
-      "title": "Senior Software Engineer, Simple Trade Experience",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569",
-      "postedAt": "2026-08-18T13:06:07.000Z",
-      "key": "coinbase:8103569",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T13:10:19.219Z"
     },
     {
       "id": "R29568",
