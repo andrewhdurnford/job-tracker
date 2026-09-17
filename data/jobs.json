@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-17T18:00:25.119Z",
+  "generatedAt": "2026-09-17T18:10:18.839Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "coinbase:8211490"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -841,10 +843,10 @@
     },
     {
       "name": "Carvana",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Casca",
@@ -1052,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -1297,7 +1299,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2915,7 +2917,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5244,10 +5246,10 @@
     },
     {
       "name": "Udio",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "UiPath",
@@ -5561,7 +5563,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8211490",
+      "title": "Senior Machine Learning Platform Engineer",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8211490?gh_jid=8211490",
+      "postedAt": "2026-09-17T18:06:33.000Z",
+      "key": "coinbase:8211490",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T18:10:18.839Z"
+    },
     {
       "id": "302f1e7c-6e2d-40f3-bf15-6dc60eb74b69",
       "title": "Staff Software Engineer - Deposits",
@@ -41510,22 +41528,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T18:40:18.219Z"
-    },
-    {
-      "id": "8139662",
-      "title": "Developer Advocate - Service Management",
-      "location": "California, USA, Remote; New York, USA, Remote",
-      "team": null,
-      "url": "https://careers.datadoghq.com/detail/8139662/?gh_jid=8139662",
-      "postedAt": "2026-08-18T18:03:28.000Z",
-      "key": "datadog:8139662",
-      "company": "Datadog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T18:10:17.194Z"
     },
     {
       "id": "JR2023503",
