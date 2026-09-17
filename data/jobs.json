@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-09-17T21:50:15.684Z",
+  "generatedAt": "2026-09-17T22:00:25.280Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "render:f846e1fc-0099-4456-9232-9abe83dff272"
+    "attentive:4408455009",
+    "attentive:4410440009",
+    "render:8685ba32-883a-42e5-b98b-f3c51a77bceb",
+    "vercel:6199608004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 113,
     "new-grad": 26,
-    "experienced": 2144
+    "experienced": 2147
   },
   "companies": [
     {
@@ -80,10 +83,10 @@
     },
     {
       "name": "Affirm",
-      "ok": true,
+      "ok": false,
       "jobCount": 24,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "AfterQuery",
@@ -473,7 +476,7 @@
     {
       "name": "Attentive",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3573,10 +3576,10 @@
     },
     {
       "name": "PagerDuty",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pair Team",
@@ -4106,7 +4109,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4155,7 +4158,7 @@
     {
       "name": "Render",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5345,7 +5348,7 @@
     {
       "name": "Vercel",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5563,7 +5566,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5702,8 +5705,72 @@
   ],
   "jobs": [
     {
+      "id": "6199608004",
+      "title": "Software Engineer, Agentic Infrastructure",
+      "location": "Hybrid - San Francisco, New York City",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6199608004",
+      "postedAt": "2026-09-17T21:56:20.000Z",
+      "key": "vercel:6199608004",
+      "company": "Vercel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T22:00:25.280Z"
+    },
+    {
+      "id": "4410440009",
+      "title": "Principal Software Engineer, Machine Learning",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4410440009",
+      "postedAt": "2026-09-17T21:55:13.000Z",
+      "key": "attentive:4410440009",
+      "company": "Attentive",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T22:00:25.280Z"
+    },
+    {
+      "id": "4408455009",
+      "title": "Principal Software Engineer, Machine Learning",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4408455009",
+      "postedAt": "2026-09-17T21:55:10.000Z",
+      "key": "attentive:4408455009",
+      "company": "Attentive",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T22:00:25.280Z"
+    },
+    {
+      "id": "8685ba32-883a-42e5-b98b-f3c51a77bceb",
+      "title": "Senior/Staff Data Scientist ",
+      "location": "Remote: United States",
+      "team": "Data Science",
+      "url": "https://jobs.ashbyhq.com/render/8685ba32-883a-42e5-b98b-f3c51a77bceb",
+      "postedAt": "2026-09-17T21:50:30.803Z",
+      "key": "render:8685ba32-883a-42e5-b98b-f3c51a77bceb",
+      "company": "Render",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T22:00:25.280Z"
+    },
+    {
       "id": "f846e1fc-0099-4456-9232-9abe83dff272",
-      "title": "Staff Data Engineer",
+      "title": "Senior/Staff Data Engineer",
       "location": "SF or Remote (US/Canada)",
       "team": "Product",
       "url": "https://jobs.ashbyhq.com/render/f846e1fc-0099-4456-9232-9abe83dff272",
@@ -41600,22 +41667,6 @@
       ],
       "firstSeen": "2026-08-19T22:03:00.773Z",
       "seeded": true
-    },
-    {
-      "id": "8093006",
-      "title": "Senior Backend Engineer, Safety",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8093006",
-      "postedAt": "2026-08-18T21:57:34.000Z",
-      "key": "reddit:8093006",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-18T22:00:28.719Z"
     },
     {
       "id": "5214260007",
