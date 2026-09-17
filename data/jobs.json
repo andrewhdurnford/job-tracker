@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T14:30:58.950Z",
+  "generatedAt": "2026-09-17T14:40:19.472Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "harvey:ab7758a9-b09e-4d9c-9f6a-4da79836ea5e",
-    "robinhood:8167546"
+    "kraken.com:a40a998a-acfd-403d-8de9-0d4365030503",
+    "kraken.com:7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -789,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 142,
+      "jobCount": 141,
       "error": null,
       "stale": false
     },
@@ -1756,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2064,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2637,7 +2637,7 @@
     {
       "name": "Kraken",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2876,7 +2876,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4639,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a40a998a-acfd-403d-8de9-0d4365030503",
+      "title": "AI Platform Engineer, Enablement and Governance Operations",
+      "location": "United States",
+      "team": "AI & Machine Learning",
+      "url": "https://jobs.ashbyhq.com/kraken.com/a40a998a-acfd-403d-8de9-0d4365030503",
+      "postedAt": "2026-09-17T14:33:02.933Z",
+      "key": "kraken.com:a40a998a-acfd-403d-8de9-0d4365030503",
+      "company": "Kraken",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-17T14:40:19.472Z"
+    },
+    {
+      "id": "7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e",
+      "title": "AI Platform Engineer, Enablement and Governance Operations",
+      "location": "Poland (+21 more)",
+      "team": "AI & Machine Learning",
+      "url": "https://jobs.ashbyhq.com/kraken.com/7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e",
+      "postedAt": "2026-09-17T14:32:59.900Z",
+      "key": "kraken.com:7d6a3e1a-79ef-4bd5-a759-7bd6f9628e9e",
+      "company": "Kraken",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-17T14:40:19.472Z"
+    },
     {
       "id": "ab7758a9-b09e-4d9c-9f6a-4da79836ea5e",
       "title": "Engineering Manager, Embedded Experience",
@@ -17389,22 +17421,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T17:50:16.563Z"
-    },
-    {
-      "id": "R1000209",
-      "title": "Principal Associate, Software Engineer - Capital One Travel - Android (Mobile)",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Principal-Associate--Software-Engineer---Capital-One-Travel---Android--Mobile-_R1000209-2",
-      "postedAt": "2026-09-09T17:40:23.093Z",
-      "key": "Capital One:R1000209",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-09T17:40:19.614Z"
     },
     {
       "id": "9b07c4dd-966f-4376-b0b5-399b704cf249",
@@ -42958,23 +42974,6 @@
         "us"
       ],
       "firstSeen": "2026-08-05T19:33:31.081Z",
-      "seeded": true
-    },
-    {
-      "id": "52925922-7cfc-4ee5-bcd2-a52850a7c067",
-      "title": "Staff Research Scientist - Physical AI / Multimodality ",
-      "location": "US-WA-Bellevue (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/52925922-7cfc-4ee5-bcd2-a52850a7c067",
-      "postedAt": "2026-07-24T17:53:07.431Z",
-      "key": "snowflake:52925922-7cfc-4ee5-bcd2-a52850a7c067",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-07-30T23:25:53.895Z",
       "seeded": true
     },
     {
