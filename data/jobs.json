@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-18T20:30:20.728Z",
+  "generatedAt": "2026-09-18T20:40:22.021Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "twilio:8213541"
+    "nubank:b547ca02-6872-4535-8d47-8cd4046f49bc",
+    "nubank:26b47cca-4cc4-43d9-bd91-cec7301bfba2"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 116,
     "new-grad": 26,
-    "experienced": 2184
+    "experienced": 2185
   },
   "companies": [
     {
@@ -3399,7 +3400,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 111,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4799,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "26b47cca-4cc4-43d9-bd91-cec7301bfba2",
+      "title": "Senior Staff Software Engineer - Developer Experience",
+      "location": "Palo Alto (+2 more)",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/26b47cca-4cc4-43d9-bd91-cec7301bfba2",
+      "postedAt": "2026-09-18T20:34:10.314Z",
+      "key": "nubank:26b47cca-4cc4-43d9-bd91-cec7301bfba2",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T20:40:22.021Z"
+    },
+    {
+      "id": "b547ca02-6872-4535-8d47-8cd4046f49bc",
+      "title": "Lead Software Engineer (Cloud Network)",
+      "location": "Palo Alto (+2 more)",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/b547ca02-6872-4535-8d47-8cd4046f49bc",
+      "postedAt": "2026-09-18T20:32:26.984Z",
+      "key": "nubank:b547ca02-6872-4535-8d47-8cd4046f49bc",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T20:40:22.021Z"
+    },
     {
       "id": "8213541",
       "title": "Onboarding Operations Tech Lead",
@@ -42241,22 +42274,6 @@
         "us"
       ],
       "firstSeen": "2026-08-19T20:45:53.017Z"
-    },
-    {
-      "id": "8142302",
-      "title": "Security Incident Response Engineer",
-      "location": "US Remote",
-      "team": "8611 Security Analytics",
-      "url": "https://stripe.com/jobs/search?gh_jid=8142302",
-      "postedAt": "2026-08-19T20:33:11.000Z",
-      "key": "stripe:8142302",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-10T18:50:17.257Z"
     },
     {
       "id": "JR2021237",
