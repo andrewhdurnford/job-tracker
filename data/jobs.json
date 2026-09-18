@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-09-18T18:30:22.283Z",
+  "generatedAt": "2026-09-18T18:40:18.741Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "discord:8817776002",
-    "snowflake:e47d5736-b86b-4c10-a487-4cc3a012096e",
-    "toast:8191751"
+    "twilio:8213861"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 114,
     "new-grad": 27,
-    "experienced": 2197
+    "experienced": 2195
   },
   "companies": [
     {
@@ -307,7 +305,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -475,7 +473,7 @@
     {
       "name": "Attentive",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1757,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2065,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2212,7 +2210,7 @@
       "name": "Hex",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3758,7 +3756,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4646,10 +4644,10 @@
     },
     {
       "name": "Snyk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Socket",
@@ -5228,7 +5226,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8213861",
+      "title": "Software Architect - Enterprise AI",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8213861",
+      "postedAt": "2026-09-18T18:34:54.000Z",
+      "key": "twilio:8213861",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-18T18:40:18.741Z"
+    },
     {
       "id": "8191751",
       "title": "Software Engineer I, Websites",
@@ -21092,22 +21106,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T16:30:25.062Z"
-    },
-    {
-      "id": "8157900",
-      "title": "Staff Software Engineer, Workflow Platform",
-      "location": "Palo Alto, CA, US; Remote, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8157900",
-      "postedAt": "2026-09-09T16:14:51.000Z",
-      "key": "pinterest:8157900",
-      "company": "Pinterest",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T16:20:17.515Z"
     },
     {
       "id": "8163523",
@@ -40100,22 +40098,6 @@
       "firstSeen": "2026-08-21T16:30:25.442Z"
     },
     {
-      "id": "4374632009",
-      "title": "Software Engineer II, Segment Optimization",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/attentive/jobs/4374632009",
-      "postedAt": "2026-08-21T16:28:06.000Z",
-      "key": "attentive:4374632009",
-      "company": "Attentive",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T16:30:25.442Z"
-    },
-    {
       "id": "8120054",
       "title": "Senior Software Engineer, Creator Experience",
       "location": "San Mateo, CA, United States",
@@ -42411,22 +42393,6 @@
         "us"
       ],
       "firstSeen": "2026-08-19T18:50:20.034Z"
-    },
-    {
-      "id": "5392856008",
-      "title": "DevOps / AgentOps Engineer, GTM Systems",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392856008",
-      "postedAt": "2026-08-19T18:30:39.000Z",
-      "key": "anthropic:5392856008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T18:32:50.579Z"
     },
     {
       "id": "JR2021237",
