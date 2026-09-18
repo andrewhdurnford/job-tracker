@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-18T18:20:16.615Z",
+  "generatedAt": "2026-09-18T18:30:22.283Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Visa:REF087977W"
+    "discord:8817776002",
+    "snowflake:e47d5736-b86b-4c10-a487-4cc3a012096e",
+    "toast:8191751"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -305,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -1411,7 +1413,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2210,7 +2212,7 @@
       "name": "Hex",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4470,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 118,
+      "jobCount": 117,
       "error": null,
       "stale": false
     },
@@ -5107,7 +5109,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8191751",
+      "title": "Software Engineer I, Websites",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8191751",
+      "postedAt": "2026-09-18T18:29:41.000Z",
+      "key": "toast:8191751",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T18:30:22.283Z"
+    },
+    {
+      "id": "8817776002",
+      "title": "Senior Software Engineer - Safety Experience",
+      "location": "San Francisco Bay Area or Remote (U.S.)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8817776002",
+      "postedAt": "2026-09-18T18:26:37.000Z",
+      "key": "discord:8817776002",
+      "company": "Discord",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T18:30:22.283Z"
+    },
+    {
+      "id": "e47d5736-b86b-4c10-a487-4cc3a012096e",
+      "title": "Senior Software Engineer - Billing Platform ",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/e47d5736-b86b-4c10-a487-4cc3a012096e",
+      "postedAt": "2026-09-18T18:26:06.385Z",
+      "key": "snowflake:e47d5736-b86b-4c10-a487-4cc3a012096e",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T18:30:22.283Z"
+    },
     {
       "id": "REF087977W",
       "title": "Staff Software Engineer, AI Solutions",
@@ -8335,22 +8385,6 @@
         "us"
       ],
       "firstSeen": "2026-09-18T02:20:19.407Z"
-    },
-    {
-      "id": "5427236008",
-      "title": "National Security Partnerships Lead, Intelligence and International Security",
-      "location": "New York City, NY; Remote-Friendly, United States; San Francisco, CA; Washington, DC",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427236008",
-      "postedAt": "2026-09-18T00:00:10.000Z",
-      "key": "anthropic:5427236008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T00:00:28.048Z"
     },
     {
       "id": "8212517",
@@ -42393,38 +42427,6 @@
         "us"
       ],
       "firstSeen": "2026-08-19T18:32:50.579Z"
-    },
-    {
-      "id": "30d135cd-3193-4add-97b0-b228df883ecf",
-      "title": "Senior Software Engineer, Autonomous Pilot Integration (R5423)",
-      "location": "San Mateo, California",
-      "team": "Flight System Integration",
-      "url": "https://jobs.lever.co/shieldai/30d135cd-3193-4add-97b0-b228df883ecf",
-      "postedAt": "2026-08-19T18:25:44.820Z",
-      "key": "shieldai:30d135cd-3193-4add-97b0-b228df883ecf",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T15:10:19.457Z"
-    },
-    {
-      "id": "8728763002",
-      "title": "Build Engineer (Starship Mechanisms) ",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8728763002?gh_jid=8728763002",
-      "postedAt": "2026-08-19T18:20:18.000Z",
-      "key": "spacex:8728763002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T18:30:28.355Z"
     },
     {
       "id": "JR2021237",
