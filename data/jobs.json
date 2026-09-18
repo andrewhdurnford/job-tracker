@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-18T20:00:26.847Z",
+  "generatedAt": "2026-09-18T20:10:21.890Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "amplitude:8822305002",
+    "flexport:8213955",
+    "flexport:8213953"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 116,
     "new-grad": 26,
-    "experienced": 2184
+    "experienced": 2185
   },
   "companies": [
     {
@@ -233,7 +237,7 @@
     {
       "name": "Amplitude",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -983,7 +987,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1815,7 +1819,7 @@
     {
       "name": "Flexport",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4230,7 +4234,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 113,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 112,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5700,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "8213955",
+      "title": "Senior IT Systems Engineer ",
+      "location": "U.S. Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8213955",
+      "postedAt": "2026-09-18T20:08:41.000Z",
+      "key": "flexport:8213955",
+      "company": "Flexport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T20:10:21.890Z"
+    },
+    {
+      "id": "8213953",
+      "title": "Senior IT Systems Engineer ",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8213953",
+      "postedAt": "2026-09-18T20:08:39.000Z",
+      "key": "flexport:8213953",
+      "company": "Flexport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T20:10:21.890Z"
+    },
+    {
+      "id": "8822305002",
+      "title": "Senior Salesforce Platform Engineer",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8822305002",
+      "postedAt": "2026-09-18T20:04:41.000Z",
+      "key": "amplitude:8822305002",
+      "company": "Amplitude",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T20:10:21.890Z"
+    },
+    {
       "id": "eee33705-21b6-4f35-a941-d43772ddb919",
       "title": "Forward Deployed Engineer",
       "location": "US (remote)",
@@ -5798,7 +5850,7 @@
     {
       "id": "8214142",
       "title": "Offensive Security Intern (Summer 2027)",
-      "location": "Bellevue, WA",
+      "location": "Bellevue, WA; Menlo Park, CA",
       "team": null,
       "url": "https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142",
       "postedAt": "2026-09-18T18:42:52.000Z",
@@ -42224,38 +42276,6 @@
         "us"
       ],
       "firstSeen": "2026-08-19T20:20:17.200Z"
-    },
-    {
-      "id": "8142285",
-      "title": "Senior Quality Engineer",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8142285?t=gh_src=&gh_jid=8142285",
-      "postedAt": "2026-08-19T20:01:05.000Z",
-      "key": "robinhood:8142285",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-19T20:10:20.210Z"
-    },
-    {
-      "id": "8696881002",
-      "title": "Automation Build Engineer, Development (Starlink) ",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8696881002?gh_jid=8696881002",
-      "postedAt": "2026-08-19T19:57:54.000Z",
-      "key": "spacex:8696881002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T20:00:26.269Z"
     },
     {
       "id": "JR2021237",
