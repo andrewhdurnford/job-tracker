@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-09-18T20:40:22.021Z",
+  "generatedAt": "2026-09-18T20:50:16.362Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "nubank:b547ca02-6872-4535-8d47-8cd4046f49bc",
-    "nubank:26b47cca-4cc4-43d9-bd91-cec7301bfba2"
+    "datadog:8185652",
+    "shieldai:633a3038-574c-45ff-babb-7e1b8b7c6196",
+    "spacex:8821415002",
+    "spacex:8821448002",
+    "verkada:5242766007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 116,
     "new-grad": 26,
-    "experienced": 2185
+    "experienced": 2186
   },
   "companies": [
     {
@@ -1090,7 +1093,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1300,7 +1303,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4471,7 +4474,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 111,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5374,7 +5377,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5242766007",
+      "title": "Senior Embedded Engineer - Camera Platform",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5242766007",
+      "postedAt": "2026-09-18T20:48:00.000Z",
+      "key": "verkada:5242766007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T20:50:16.362Z"
+    },
+    {
+      "id": "8185652",
+      "title": "Web Content Engineering & AI Visibility Lead",
+      "location": "New York, New York, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8185652/?gh_jid=8185652",
+      "postedAt": "2026-09-18T20:41:18.000Z",
+      "key": "datadog:8185652",
+      "company": "Datadog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T20:50:16.362Z"
+    },
+    {
+      "id": "8821448002",
+      "title": "Principal Cybersecurity Engineer (Starshield)",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8821448002?gh_jid=8821448002",
+      "postedAt": "2026-09-18T20:37:23.000Z",
+      "key": "spacex:8821448002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T20:50:16.362Z"
+    },
+    {
+      "id": "8821415002",
+      "title": "Principal Cybersecurity Engineer (Starshield)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8821415002?gh_jid=8821415002",
+      "postedAt": "2026-09-18T20:37:20.000Z",
+      "key": "spacex:8821415002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T20:50:16.362Z"
+    },
     {
       "id": "26b47cca-4cc4-43d9-bd91-cec7301bfba2",
       "title": "Senior Staff Software Engineer - Developer Experience",
@@ -8636,6 +8703,22 @@
         "us"
       ],
       "firstSeen": "2026-09-18T02:20:19.407Z"
+    },
+    {
+      "id": "633a3038-574c-45ff-babb-7e1b8b7c6196",
+      "title": "Software Engineer I (R6052)",
+      "location": "Seattle, Washington",
+      "team": "X-BAT Engineering",
+      "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196",
+      "postedAt": "2026-09-17T23:36:04.711Z",
+      "key": "shieldai:633a3038-574c-45ff-babb-7e1b8b7c6196",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T20:50:16.362Z"
     },
     {
       "id": "8212517",
@@ -16290,7 +16373,7 @@
     },
     {
       "id": "c2aeb70d-3eca-4c4f-a414-6394b30fea80",
-      "title": "Software Engineer, Consumer Health (Health AI)",
+      "title": "Software Engineer, Consumer Health",
       "location": "San Francisco",
       "team": "Applied AI Engineering",
       "url": "https://jobs.ashbyhq.com/openai/c2aeb70d-3eca-4c4f-a414-6394b30fea80",
@@ -42210,70 +42293,6 @@
         "us"
       ],
       "firstSeen": "2026-08-19T21:20:19.744Z"
-    },
-    {
-      "id": "8731256002",
-      "title": "Software Engineer (Application Software)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8731256002?gh_jid=8731256002",
-      "postedAt": "2026-08-19T20:50:00.000Z",
-      "key": "spacex:8731256002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T20:50:18.613Z"
-    },
-    {
-      "id": "fe3e0991-d9e7-4948-ac30-c0caf8d7bae5",
-      "title": "Senior Backend Engineer, Ambient AI",
-      "location": "Mountain View, CA",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/fe3e0991-d9e7-4948-ac30-c0caf8d7bae5",
-      "postedAt": "2026-08-19T20:47:15.004Z",
-      "key": "commure:fe3e0991-d9e7-4948-ac30-c0caf8d7bae5",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T20:50:18.613Z"
-    },
-    {
-      "id": "c1261830-47f0-430f-8593-6f9c1203f5e5",
-      "title": "Senior Fullstack Engineer, Ambient AI",
-      "location": "Mountain View, CA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/c1261830-47f0-430f-8593-6f9c1203f5e5",
-      "postedAt": "2026-08-19T20:45:24.055Z",
-      "key": "commure:c1261830-47f0-430f-8593-6f9c1203f5e5",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T20:50:18.613Z"
-    },
-    {
-      "id": "8697058002",
-      "title": "Maintenance Engineer, High Pressure Die Casting (Starlink)   ",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8697058002?gh_jid=8697058002",
-      "postedAt": "2026-08-19T20:43:52.000Z",
-      "key": "spacex:8697058002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T20:45:53.017Z"
     },
     {
       "id": "JR2021237",
