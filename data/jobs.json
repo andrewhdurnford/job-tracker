@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-17T23:50:16.336Z",
+  "generatedAt": "2026-09-18T00:00:28.048Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "anthropic:5427236008"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -303,7 +305,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2208,7 +2210,7 @@
       "name": "Hex",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5029,7 +5031,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5112,7 +5114,7 @@
     {
       "name": "Together AI",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5427236008",
+      "title": "National Security Partnerships Lead, Intelligence and International Security",
+      "location": "New York City, NY; San Francisco, CA; Washington, DC",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427236008",
+      "postedAt": "2026-09-18T00:00:10.000Z",
+      "key": "anthropic:5427236008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T00:00:28.048Z"
+    },
     {
       "id": "8212517",
       "title": "Software Engineer, Early Career — Immediate Start",
@@ -41522,22 +41540,6 @@
         "us"
       ],
       "firstSeen": "2026-08-19T00:20:16.425Z"
-    },
-    {
-      "id": "5211627007",
-      "title": "Manager, International Cloud Sourcing",
-      "location": "San Francisco or NYC",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211627007",
-      "postedAt": "2026-08-18T23:57:54.000Z",
-      "key": "togetherai:5211627007",
-      "company": "Together AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T00:00:28.703Z"
     },
     {
       "id": "JR2017026",
