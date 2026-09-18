@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-18T22:00:29.133Z",
+  "generatedAt": "2026-09-18T22:10:16.986Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "snowflake:ccefa621-7c3c-4908-a7ce-380033415bd8"
+    "waymo:8214519"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 121,
+    "intern": 122,
     "new-grad": 26,
     "experienced": 2179
   },
@@ -2161,7 +2161,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2355,10 +2355,10 @@
     },
     {
       "name": "Inceptive",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Included Health",
@@ -5478,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8214519",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "location": "Mountain View, California, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519",
+      "postedAt": "2026-09-18T22:09:27.000Z",
+      "key": "waymo:8214519",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T22:10:16.986Z"
+    },
     {
       "id": "ccefa621-7c3c-4908-a7ce-380033415bd8",
       "title": "Senior Social Media Manager, Developer Community",
@@ -6391,7 +6413,7 @@
     },
     {
       "id": "8199365",
-      "title": "2027 Summer Intern, PhD, Data Science",
+      "title": "2027 Summer Intern, PhD, Product Data Science",
       "location": "San Francisco, California, United States",
       "team": null,
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
