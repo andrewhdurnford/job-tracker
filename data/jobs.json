@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-18T17:10:19.568Z",
+  "generatedAt": "2026-09-18T17:15:40.578Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "ambiencehealthcare:ef7ec50a-e69b-4e20-bb95-f4786ca81656",
-    "roblox:8213384",
-    "waymo:8212478"
+    "airbnb:8189189",
+    "campfire:2b30b7a1-3649-40e5-804a-ea07bfc94318",
+    "verkada:5242253007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 115,
     "new-grad": 27,
-    "experienced": 2192
+    "experienced": 2194
   },
   "companies": [
     {
@@ -118,7 +118,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -237,7 +237,7 @@
     {
       "name": "Amplitude",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -755,7 +755,7 @@
     {
       "name": "Campfire",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 119,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5375,7 +5375,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "2b30b7a1-3649-40e5-804a-ea07bfc94318",
+      "title": "Data Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/campfire/2b30b7a1-3649-40e5-804a-ea07bfc94318",
+      "postedAt": "2026-09-18T17:15:02.616Z",
+      "key": "campfire:2b30b7a1-3649-40e5-804a-ea07bfc94318",
+      "company": "Campfire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T17:15:40.578Z"
+    },
+    {
+      "id": "5242253007",
+      "title": "Embedded Engineering Manager - Storage Systems",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5242253007",
+      "postedAt": "2026-09-18T17:13:43.000Z",
+      "key": "verkada:5242253007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T17:15:40.578Z"
+    },
+    {
+      "id": "8189189",
+      "title": "Senior Web Software Engineer, Data Science Prototyping",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8189189?gh_jid=8189189",
+      "postedAt": "2026-09-18T17:12:10.000Z",
+      "key": "airbnb:8189189",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-18T17:15:40.578Z"
+    },
     {
       "id": "ef7ec50a-e69b-4e20-bb95-f4786ca81656",
       "title": "Staff Security Engineer",
@@ -42353,22 +42401,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-19T17:20:21.758Z"
-    },
-    {
-      "id": "8730197002",
-      "title": "Senior Software Engineer ",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/amplitude/jobs/8730197002",
-      "postedAt": "2026-08-19T17:15:05.000Z",
-      "key": "amplitude:8730197002",
-      "company": "Amplitude",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-19T17:30:22.833Z"
     },
     {
       "id": "JR2021237",
