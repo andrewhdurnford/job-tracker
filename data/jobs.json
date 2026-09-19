@@ -1,17 +1,16 @@
 {
-  "generatedAt": "2026-09-19T00:30:21.912Z",
+  "generatedAt": "2026-09-19T00:40:18.940Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "okta:8214882",
-    "samsara:8148638"
+    "pinterest:8213988"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 122,
+    "intern": 121,
     "new-grad": 26,
     "experienced": 2190
   },
@@ -1615,7 +1614,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3512,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 63,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -3757,7 +3756,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 112,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8213988",
+      "title": "Software Engineer II, Data Analytics & Engineering",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
+      "postedAt": "2026-09-19T00:32:32.000Z",
+      "key": "pinterest:8213988",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-19T00:40:18.940Z"
+    },
     {
       "id": "8214882",
       "title": "Director of Engineering, AI Takeoff Team",
@@ -39959,22 +39974,6 @@
       "firstSeen": "2026-08-21T22:30:20.435Z"
     },
     {
-      "id": "7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
-      "title": "Applied AI Architect - EDU",
-      "location": "San Francisco",
-      "team": "Applied AI",
-      "url": "https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
-      "postedAt": "2026-08-21T22:27:14.737Z",
-      "key": "openai:7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T22:30:20.435Z"
-    },
-    {
       "id": "7927799003",
       "title": "Senior Software Engineer, Frontend (App Experience)",
       "location": "Remote Canada",
@@ -42417,22 +42416,6 @@
       "key": "Nvidia:JR2023184",
       "company": "Nvidia",
       "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T00:45:27.815Z"
-    },
-    {
-      "id": "6147167004",
-      "title": "Tools Programmer Intern",
-      "location": "Cary,North Carolina,United States",
-      "team": "Engineering Generalist",
-      "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
-      "postedAt": "2026-08-20T00:33:20.000Z",
-      "key": "epicgames:6147167004",
-      "company": "Epic Games",
-      "level": "intern",
       "term": null,
       "regions": [
         "us"
