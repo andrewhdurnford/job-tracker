@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-19T06:10:16.270Z",
+  "generatedAt": "2026-09-19T06:20:17.015Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "block:5426213008"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 121,
     "new-grad": 26,
-    "experienced": 2186
+    "experienced": 2187
   },
   "companies": [
     {
@@ -353,7 +355,7 @@
       "name": "Arctic Wolf",
       "ok": false,
       "jobCount": 1,
-      "error": "HTTP 500 Internal Server Error",
+      "error": "response was not valid JSON",
       "stale": true
     },
     {
@@ -611,7 +613,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -1242,7 +1244,7 @@
       "name": "CrowdStrike",
       "ok": false,
       "jobCount": 36,
-      "error": "HTTP 500 Internal Server Error",
+      "error": "response was not valid JSON",
       "stale": true
     },
     {
@@ -6141,6 +6143,22 @@
         "us"
       ],
       "firstSeen": "2026-09-18T21:30:25.127Z"
+    },
+    {
+      "id": "5426213008",
+      "title": "Software Engineer",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5426213008?gh_jid=5426213008",
+      "postedAt": "2026-09-18T21:18:24.000Z",
+      "key": "block:5426213008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-19T06:20:17.015Z"
     },
     {
       "id": "8209010",
