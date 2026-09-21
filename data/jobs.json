@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-21T23:20:16.310Z",
+  "generatedAt": "2026-09-21T23:30:40.126Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "airbnb:8197715",
+    "cerebras:17a6a5e1-a2a7-4f77-8ff5-38884736838e",
+    "chainguard:4715303006"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 128,
     "new-grad": 27,
-    "experienced": 2100
+    "experienced": 2102
   },
   "companies": [
     {
@@ -30,7 +34,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -114,7 +118,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -863,7 +867,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -877,7 +881,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5700,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "17a6a5e1-a2a7-4f77-8ff5-38884736838e",
+      "title": "Staff Software Engineer, Inference API",
+      "location": "Toronto, CAN",
+      "team": "Inference Service",
+      "url": "https://jobs.ashbyhq.com/cerebras/17a6a5e1-a2a7-4f77-8ff5-38884736838e",
+      "postedAt": "2026-09-21T23:21:09.775Z",
+      "key": "cerebras:17a6a5e1-a2a7-4f77-8ff5-38884736838e",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-21T23:30:40.126Z"
+    },
+    {
+      "id": "4715303006",
+      "title": "Senior Manager, Engineering (Container Product Engineering)",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4715303006",
+      "postedAt": "2026-09-21T23:20:55.000Z",
+      "key": "chainguard:4715303006",
+      "company": "Chainguard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T23:30:40.126Z"
+    },
+    {
       "id": "30379",
       "title": "Senior Software Engineer",
       "location": "US-SFO-Main",
@@ -6990,22 +7026,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T17:30:22.638Z"
-    },
-    {
-      "id": "8000334003",
-      "title": "Software Engineer I - Data Platforms",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://abnormal.ai/careers/jobs/8000334003?gh_jid=8000334003",
-      "postedAt": "2026-09-21T17:20:16.000Z",
-      "key": "abnormalsecurity:8000334003",
-      "company": "Abnormal Security",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T23:10:19.240Z"
     },
     {
       "id": "8220919",
@@ -13944,7 +13964,7 @@
       "id": "7d46d026-aadc-4560-96ea-0cbe63f7d984",
       "title": "Lead Security Engineer",
       "location": "Remote | US",
-      "team": "Design",
+      "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/prelim/7d46d026-aadc-4560-96ea-0cbe63f7d984",
       "postedAt": "2026-09-16T20:00:06.211Z",
       "key": "prelim:7d46d026-aadc-4560-96ea-0cbe63f7d984",
@@ -19910,6 +19930,22 @@
         "remote"
       ],
       "firstSeen": "2026-09-11T20:50:21.425Z"
+    },
+    {
+      "id": "8197715",
+      "title": "Staff Software Engineer, Data Warehouse",
+      "location": "USA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8197715?gh_jid=8197715",
+      "postedAt": "2026-09-11T20:29:55.000Z",
+      "key": "airbnb:8197715",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T23:30:40.126Z"
     },
     {
       "id": "8801834002",
