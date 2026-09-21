@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-09-21T06:50:16.729Z",
+  "generatedAt": "2026-09-21T07:00:32.054Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "mercury:6199367004",
+    "Nvidia:JR2025121"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 114,
+    "intern": 115,
     "new-grad": 26,
-    "experienced": 2041
+    "experienced": 2033
   },
   "companies": [
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 118,
+      "jobCount": 115,
       "error": null,
       "stale": false
     },
@@ -1241,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -2984,7 +2987,7 @@
     {
       "name": "Mercury",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 161,
+      "jobCount": 162,
       "error": null,
       "stale": false
     },
@@ -3887,7 +3890,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5399,7 +5402,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,45 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025121",
+      "title": "Senior Software Control Integration Engineer - Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Control-Integration-Engineer---Autonomous-Vehicles_JR2025121",
+      "postedAt": "2026-09-21T07:00:36.702Z",
+      "key": "Nvidia:JR2025121",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T07:00:32.054Z"
+    },
+    {
+      "id": "6199367004",
+      "title": "Software Engineering Intern - Spring 2027",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
+      "postedAt": "2026-09-21T07:00:00.000Z",
+      "key": "mercury:6199367004",
+      "company": "Mercury",
+      "level": "intern",
+      "term": {
+        "label": "Spring 2027",
+        "seasons": [
+          "spring"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-21T07:00:32.054Z"
+    },
     {
       "id": "JR2026249",
       "title": "System Software Engineer - CUDA Chips",
@@ -39875,22 +39917,6 @@
       "firstSeen": "2026-08-21T20:42:57.188Z"
     },
     {
-      "id": "R0018485",
-      "title": "Security Engineer II",
-      "location": "US - Texas - Austin",
-      "team": null,
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Security-Engineer-II_R0018485",
-      "postedAt": "2026-08-21T18:50:20.730Z",
-      "key": "Procore:R0018485",
-      "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T18:50:17.385Z"
-    },
-    {
       "id": "R249816",
       "title": "Staff AI Engineer (Remote Eligible)",
       "location": "5 Locations",
@@ -39969,118 +39995,6 @@
         "us"
       ],
       "firstSeen": "2026-08-21T16:20:18.993Z"
-    },
-    {
-      "id": "REF087097W",
-      "title": "Sr. Manager, Software Engineering",
-      "location": "US - Bellevue, WA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Sr-Manager--Software-Engineering_REF087097W",
-      "postedAt": "2026-08-21T16:00:28.875Z",
-      "key": "Visa:REF087097W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T16:00:24.775Z"
-    },
-    {
-      "id": "REF087281W",
-      "title": "Director, Software Engineering",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Director--Software-Engineering_REF087281W",
-      "postedAt": "2026-08-21T14:46:35.990Z",
-      "key": "Visa:REF087281W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T14:46:31.799Z"
-    },
-    {
-      "id": "REF087336W",
-      "title": "Sr. Manager, Software Engineering",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Sr-Manager--Software-Engineering_REF087336W",
-      "postedAt": "2026-08-21T14:46:35.990Z",
-      "key": "Visa:REF087336W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T14:46:31.799Z"
-    },
-    {
-      "id": "R249608",
-      "title": "Lead Machine Learning Engineer",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Machine-Learning-Engineer_R249608",
-      "postedAt": "2026-08-21T14:30:43.862Z",
-      "key": "Capital One:R249608",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T14:30:26.677Z"
-    },
-    {
-      "id": "R249558",
-      "title": "Senior Lead Software Engineer, Front End Web (JavaScript, Angular, React, Node) (Enterprise Platforms Technology)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Lead-Software-Engineer--Front-End-Web--JavaScript--Angular--React--Node---Enterprise-Platforms-Technology-_R249558-1",
-      "postedAt": "2026-08-21T14:30:29.514Z",
-      "key": "Capital One:R249558",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T14:30:26.696Z"
-    },
-    {
-      "id": "R29835",
-      "title": "Sr. Engineer - Cloud Backend (Hybrid) - Sunnyvale",
-      "location": "USA - Sunnyvale, CA",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer---Cloud-Backend--Hybrid----Sunnyvale_R29835",
-      "postedAt": "2026-08-21T10:10:24.473Z",
-      "key": "CrowdStrike:R29835",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T10:10:20.166Z"
-    },
-    {
-      "id": "R29756",
-      "title": "Technical Support Engineer - Cloud (Remote, GBR)",
-      "location": "United Kingdom - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Technical-Support-Engineer---Cloud--Remote--GBR-_R29756",
-      "postedAt": "2026-08-21T10:00:31.743Z",
-      "key": "CrowdStrike:R29756",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-21T10:00:27.969Z"
     },
     {
       "id": "5218240007",
@@ -40306,22 +40220,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T14:10:21.471Z"
-    },
-    {
-      "id": "R249350",
-      "title": "Lead Software Engineer",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer_R249350",
-      "postedAt": "2026-08-16T02:10:22.989Z",
-      "key": "Capital One:R249350",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-16T02:10:19.292Z"
     },
     {
       "id": "b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
