@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-20T23:50:17.008Z",
+  "generatedAt": "2026-09-21T00:00:26.193Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "spacex:8826632002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 114,
     "new-grad": 26,
-    "experienced": 2051
+    "experienced": 2052
   },
   "companies": [
     {
@@ -2801,10 +2803,10 @@
     },
     {
       "name": "LTSE Services, Inc.",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Lucid Motors",
@@ -4684,15 +4686,15 @@
     },
     {
       "name": "Sourcegraph",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 103,
+      "jobCount": 104,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8826632002",
+      "title": "Software Engineer, Manufacturing ",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8826632002?gh_jid=8826632002",
+      "postedAt": "2026-09-20T23:53:02.000Z",
+      "key": "spacex:8826632002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T00:00:26.193Z"
+    },
     {
       "id": "JR2025388",
       "title": "Senior Software Engineer, Capacity Management - DGX Cloud",
