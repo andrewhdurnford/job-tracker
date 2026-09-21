@@ -1,28 +1,21 @@
 {
-  "generatedAt": "2026-09-21T17:10:16.797Z",
+  "generatedAt": "2026-09-21T17:20:25.230Z",
   "bootstrap": false,
-  "lastRunNewCount": 11,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "amplitude:8827511002",
-    "Capital One:R1001268",
-    "carta:7992629003",
-    "cloudflare:8191516",
-    "cloudflare:8191453",
-    "cloudflare:8157281",
-    "urbancompass:8189557",
-    "openai:e42305bf-2266-4dff-82ad-42be7ddac495",
-    "Procore:R0017690",
-    "roblox:8202168",
-    "stripe:8197886"
+    "apolloio:6199327004",
+    "givecampus:4412861009",
+    "singlestore:8220919",
+    "singlestore:8220941"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 119,
+    "intern": 121,
     "new-grad": 26,
-    "experienced": 2055
+    "experienced": 2054
   },
   "companies": [
     {
@@ -343,7 +336,7 @@
     {
       "name": "Apollo.io",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -706,10 +699,10 @@
     },
     {
       "name": "Breeze.cash",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Bretton AI",
@@ -798,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 117,
+      "jobCount": 115,
       "error": null,
       "stale": false
     },
@@ -1981,7 +1974,7 @@
     {
       "name": "GiveCampus",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4137,7 +4130,7 @@
     {
       "name": "REGENT",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4543,7 +4536,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4703,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 103,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5712,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "8220919",
+      "title": "MIT- Software Engineer Intern | Engine",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220919",
+      "postedAt": "2026-09-21T17:19:23.000Z",
+      "key": "singlestore:8220919",
+      "company": "SingleStore",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T17:20:25.230Z"
+    },
+    {
+      "id": "8220941",
+      "title": "MIT- Software Engineer Intern | Helios",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220941",
+      "postedAt": "2026-09-21T17:13:38.000Z",
+      "key": "singlestore:8220941",
+      "company": "SingleStore",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T17:20:25.230Z"
+    },
+    {
+      "id": "4412861009",
+      "title": "Site Reliability Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/givecampus/jobs/4412861009",
+      "postedAt": "2026-09-21T17:11:56.000Z",
+      "key": "givecampus:4412861009",
+      "company": "GiveCampus",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T17:20:25.230Z"
+    },
+    {
       "id": "R1001268",
       "title": "Machine Learning Engineer 5",
       "location": "McLean, VA",
@@ -5854,6 +5895,22 @@
         "us"
       ],
       "firstSeen": "2026-09-21T16:50:17.568Z"
+    },
+    {
+      "id": "6199327004",
+      "title": "Senior Director of Engineering, Native Data ",
+      "location": "Hybrid, San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/apolloio/jobs/6199327004",
+      "postedAt": "2026-09-21T16:46:40.000Z",
+      "key": "apolloio:6199327004",
+      "company": "Apollo.io",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T17:20:25.230Z"
     },
     {
       "id": "4f986c94-5c3a-461a-952a-cc46dfd42a4d",
@@ -32173,7 +32230,7 @@
       "title": "Senior Software Test Engineer",
       "location": "Toronto, Canada",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/coursera/...?gh_jid=6141559004",
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6141559004",
       "postedAt": "2026-08-31T16:38:48.000Z",
       "key": "coursera:6141559004",
       "company": "Coursera",
@@ -34517,38 +34574,6 @@
         "us"
       ],
       "firstSeen": "2026-08-28T14:00:26.108Z"
-    },
-    {
-      "id": "R999289",
-      "title": "Lead Software Engineer, Full Stack",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R999289-1",
-      "postedAt": "2026-08-28T13:20:22.606Z",
-      "key": "Capital One:R999289",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T13:20:18.918Z"
-    },
-    {
-      "id": "R999291",
-      "title": "Lead Software Engineer, Full Stack",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R999291-1",
-      "postedAt": "2026-08-28T13:20:22.606Z",
-      "key": "Capital One:R999291",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T13:20:18.918Z"
     },
     {
       "id": "c4cddfec-33de-4f67-9801-1308c2151952",
@@ -40348,22 +40373,6 @@
         "us"
       ],
       "firstSeen": "2026-08-23T02:10:20.556Z"
-    },
-    {
-      "id": "08ca09d3-563a-438f-af0e-49a641279708",
-      "title": "Manager, Mission Software",
-      "location": "North Kingstown, Rhode Island, USA",
-      "team": "Software",
-      "url": "https://jobs.ashbyhq.com/regent/08ca09d3-563a-438f-af0e-49a641279708",
-      "postedAt": "2026-08-22T17:12:04.875Z",
-      "key": "regent:08ca09d3-563a-438f-af0e-49a641279708",
-      "company": "REGENT",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T13:30:23.542Z"
     },
     {
       "id": "JR2023147",
