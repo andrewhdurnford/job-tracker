@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-21T14:00:30.306Z",
+  "generatedAt": "2026-09-21T14:10:17.258Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1001167",
-    "grafanalabs:6202563004",
-    "grafanalabs:6202562004"
+    "Capital One:R1001154",
+    "Capital One:R1001158",
+    "Capital One:R999960"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 119,
     "new-grad": 26,
-    "experienced": 2033
+    "experienced": 2034
   },
   "companies": [
     {
@@ -790,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 113,
+      "jobCount": 114,
       "error": null,
       "stale": false
     },
@@ -2877,7 +2877,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5033,15 +5033,15 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
       "name": "Tempus AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tennr",
@@ -5703,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001154",
+      "title": "Full Stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1001154-2",
+      "postedAt": "2026-09-21T14:10:20.775Z",
+      "key": "Capital One:R1001154",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T14:10:17.258Z"
+    },
+    {
+      "id": "R1001158",
+      "title": "Full Stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1001158-1",
+      "postedAt": "2026-09-21T14:10:20.775Z",
+      "key": "Capital One:R1001158",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T14:10:17.258Z"
+    },
     {
       "id": "R1001167",
       "title": "Full Stack Engineer 5",
@@ -19183,6 +19215,22 @@
         "us"
       ],
       "firstSeen": "2026-09-11T14:20:18.824Z"
+    },
+    {
+      "id": "R999960",
+      "title": "Lead Software Engineer",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Lead-Software-Engineer_R999960-1",
+      "postedAt": "2026-09-11T14:10:26.640Z",
+      "key": "Capital One:R999960",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T14:10:17.258Z"
     },
     {
       "id": "8167541",
@@ -40734,22 +40782,6 @@
       "firstSeen": "2026-08-20T18:30:21.713Z"
     },
     {
-      "id": "R248808",
-      "title": "Sr Lead Software Engineer - Shopping (Remote - Eligible)",
-      "location": "2 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Lead-Software-Engineer---Shopping--Remote---Eligible-_R248808-1",
-      "postedAt": "2026-08-10T13:20:25.073Z",
-      "key": "Capital One:R248808",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-10T13:20:21.523Z"
-    },
-    {
       "id": "R248687",
       "title": "Lead Software Engineer, Full Stack (Golang, Python, Java, AWS)",
       "location": "McLean, VA",
@@ -40797,22 +40829,6 @@
         "us"
       ],
       "firstSeen": "2026-08-07T20:00:23.012Z"
-    },
-    {
-      "id": "R248686",
-      "title": "Lead Software Engineer, Full Stack - Shopping (Remote)",
-      "location": "2 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/US-Remote/Lead-Software-Engineer--Full-Stack---Shopping--Remote-_R248686-2",
-      "postedAt": "2026-08-07T13:50:23.543Z",
-      "key": "Capital One:R248686",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-07T13:50:19.895Z"
     },
     {
       "id": "JR2022034",
