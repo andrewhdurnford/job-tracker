@@ -1,19 +1,27 @@
 {
-  "generatedAt": "2026-09-21T22:30:22.665Z",
+  "generatedAt": "2026-09-21T22:40:17.574Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 10,
   "newKeys": [
-    "robinhood:8202863",
-    "upstart:8213476"
+    "culturebiosciences:8001434003",
+    "ramp:7cd46077-05fe-4cd7-816f-5528638342f1",
+    "samsara:8221852",
+    "singlestore:8221924",
+    "stripe:8221776",
+    "upstart:8220246",
+    "valaratomics:4413931009",
+    "valaratomics:4414003009",
+    "waymo:8221795",
+    "waymo:8221851"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 123,
+    "intern": 126,
     "new-grad": 27,
-    "experienced": 2096
+    "experienced": 2100
   },
   "companies": [
     {
@@ -1265,7 +1273,7 @@
     {
       "name": "Culture Biosciences",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3134,7 +3142,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4037,7 +4045,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4240,7 +4248,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -4338,7 +4346,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4534,7 +4542,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4702,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 103,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4800,7 +4808,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5227,7 +5235,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5304,7 +5312,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5318,7 +5326,7 @@
     {
       "name": "Valar Atomics",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5487,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5711,22 @@
   ],
   "jobs": [
     {
+      "id": "7cd46077-05fe-4cd7-816f-5528638342f1",
+      "title": "Software Engineer, Frontend, Growth",
+      "location": "New York, NY (HQ) (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1",
+      "postedAt": "2026-09-21T22:38:37.920Z",
+      "key": "ramp:7cd46077-05fe-4cd7-816f-5528638342f1",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T22:40:17.574Z"
+    },
+    {
       "id": "JR2025098",
       "title": "PhD Research Intern, Networking - 2027",
       "location": "US, CA, Santa Clara",
@@ -5819,6 +5843,22 @@
       "firstSeen": "2026-09-21T22:00:29.356Z"
     },
     {
+      "id": "4414003009",
+      "title": "CNC Programmer",
+      "location": "Torrance, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4414003009",
+      "postedAt": "2026-09-21T21:57:11.000Z",
+      "key": "valaratomics:4414003009",
+      "company": "Valar Atomics",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T22:40:17.574Z"
+    },
+    {
       "id": "46da838e-af45-4cb9-bb15-d1818613a876",
       "title": "Software Engineer: Fullstack",
       "location": "New York City",
@@ -5851,6 +5891,22 @@
       "firstSeen": "2026-09-21T22:00:29.356Z"
     },
     {
+      "id": "8221924",
+      "title": "MIT- Software Engineer Intern | Engine",
+      "location": "San Francisco, CA, United States ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8221924",
+      "postedAt": "2026-09-21T21:51:00.000Z",
+      "key": "singlestore:8221924",
+      "company": "SingleStore",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T22:40:17.574Z"
+    },
+    {
       "id": "JR2026218",
       "title": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027",
       "location": "US, CA, Santa Clara",
@@ -5881,6 +5937,82 @@
         "us"
       ],
       "firstSeen": "2026-09-21T21:50:18.738Z"
+    },
+    {
+      "id": "8221776",
+      "title": "AI Solutions Developer",
+      "location": "SEA. SF, NYC, CHI",
+      "team": "6425 Finance Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8221776",
+      "postedAt": "2026-09-21T21:44:55.000Z",
+      "key": "stripe:8221776",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T22:40:17.574Z"
+    },
+    {
+      "id": "8221851",
+      "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+      "location": "Mountain View, California, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+      "postedAt": "2026-09-21T21:40:43.000Z",
+      "key": "waymo:8221851",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T22:40:17.574Z"
+    },
+    {
+      "id": "4413931009",
+      "title": "CMM Programmer",
+      "location": "Torrance, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4413931009",
+      "postedAt": "2026-09-21T21:32:59.000Z",
+      "key": "valaratomics:4413931009",
+      "company": "Valar Atomics",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T22:40:17.574Z"
+    },
+    {
+      "id": "8221795",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+      "location": "Mountain View, California, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+      "postedAt": "2026-09-21T21:30:27.000Z",
+      "key": "waymo:8221795",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T22:40:17.574Z"
     },
     {
       "id": "R1001465",
@@ -5947,6 +6079,38 @@
       "firstSeen": "2026-09-21T21:30:22.950Z"
     },
     {
+      "id": "8221852",
+      "title": "Manager II, Software Engineering, Infrastructure",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8221852?gh_jid=8221852",
+      "postedAt": "2026-09-21T21:24:02.000Z",
+      "key": "samsara:8221852",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-21T22:40:17.574Z"
+    },
+    {
+      "id": "8001434003",
+      "title": "Software Engineer,  Automation and Control",
+      "location": "South San Francisco, CA",
+      "team": null,
+      "url": "https://culturebiosciences.com/careers?gh_jid=8001434003",
+      "postedAt": "2026-09-21T21:23:44.000Z",
+      "key": "culturebiosciences:8001434003",
+      "company": "Culture Biosciences",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-21T22:40:17.574Z"
+    },
+    {
       "id": "R1001456",
       "title": "Full-stack Engineer 4 (Java, Python, AWS)",
       "location": "Plano, TX",
@@ -6009,6 +6173,23 @@
         "us"
       ],
       "firstSeen": "2026-09-21T21:00:27.688Z"
+    },
+    {
+      "id": "8220246",
+      "title": "Software Engineer II, Marketplace Optimzation",
+      "location": "United States | Remote",
+      "team": null,
+      "url": "https://careers.upstart.com/jobs?gh_jid=8220246",
+      "postedAt": "2026-09-21T20:58:21.000Z",
+      "key": "upstart:8220246",
+      "company": "Upstart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-09-21T22:40:17.574Z"
     },
     {
       "id": "3962be8a-60e3-4fc3-9bb6-3a84addb8e08",
@@ -7939,7 +8120,7 @@
     {
       "id": "8148638",
       "title": "Manager II, Software Engineering, Infrastructure",
-      "location": "Remote - SF Bay Area",
+      "location": "Remote - US",
       "team": null,
       "url": "https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638",
       "postedAt": "2026-09-19T00:22:37.000Z",
@@ -15143,22 +15324,6 @@
       "postedAt": "2026-09-15T22:22:53.492Z",
       "key": "strava:1d00950c-885f-49d1-83db-29ecc33cfc69",
       "company": "Strava",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T22:26:16.231Z"
-    },
-    {
-      "id": "8178588",
-      "title": "Machine Learning Engineer L2",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8178588",
-      "postedAt": "2026-09-15T22:22:21.000Z",
-      "key": "twilio:8178588",
-      "company": "Twilio",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -30889,22 +31054,6 @@
       "firstSeen": "2026-09-01T19:10:21.523Z"
     },
     {
-      "id": "8167460",
-      "title": "Senior Software Engineer, Stream Processing",
-      "location": "New York City",
-      "team": null,
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8167460",
-      "postedAt": "2026-09-01T18:58:16.000Z",
-      "key": "mongodb:8167460",
-      "company": "MongoDB",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T19:10:21.523Z"
-    },
-    {
       "id": "8318fcc4-cda9-426c-8ff5-9c8c01408268",
       "title": "Staff Cloud Infrastructure Engineer",
       "location": "Sunnyvale, CA (+1 more)",
@@ -31969,22 +32118,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T23:20:17.782Z"
-    },
-    {
-      "id": "8129395",
-      "title": "Senior Software Engineer, Observability",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8129395?gh_jid=8129395",
-      "postedAt": "2026-08-31T23:10:10.000Z",
-      "key": "roblox:8129395",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T23:10:17.192Z"
     },
     {
       "id": "094067c8-29ec-4809-8617-06c7269593fb",
