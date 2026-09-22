@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-09-22T19:20:26.415Z",
+  "generatedAt": "2026-09-22T19:30:22.336Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "faire:8831768002",
-    "quindar:9cb54039-35c6-4e07-ab0f-6784d0b83114",
-    "writer:df56ef1b-4d8b-4eda-bc03-ce9db800e533",
-    "writer:a6fdca42-743a-48bc-91ce-307734065593",
-    "writer:dd94d37b-1e37-4872-a79e-3a73a69d936e"
+    "faire:8831888002",
+    "openai:ac442f1f-c0d2-4608-a155-bfc89190e01c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +13,7 @@
   "levelCounts": {
     "intern": 130,
     "new-grad": 27,
-    "experienced": 2188
+    "experienced": 2186
   },
   "companies": [
     {
@@ -792,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 154,
+      "jobCount": 152,
       "error": null,
       "stale": false
     },
@@ -1759,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2067,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3515,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 62,
+      "jobCount": 63,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5559,7 +5556,7 @@
     {
       "name": "Workato",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5706,20 +5703,36 @@
   ],
   "jobs": [
     {
-      "id": "8831768002",
-      "title": "Senior Product Engineer - Faire Pay",
-      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "id": "ac442f1f-c0d2-4608-a155-bfc89190e01c",
+      "title": "Fullstack Engineer, Child Safety Tools & Systems",
+      "location": "San Francisco (+1 more)",
+      "team": "Intelligence & Investigations",
+      "url": "https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c",
+      "postedAt": "2026-09-22T19:29:04.677Z",
+      "key": "openai:ac442f1f-c0d2-4608-a155-bfc89190e01c",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T19:30:22.336Z"
+    },
+    {
+      "id": "8831888002",
+      "title": "Senior Data Scientist / Machine Learning Engineer - Listing Quality",
+      "location": "San Francisco, CA",
       "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8831768002?gh_jid=8831768002",
-      "postedAt": "2026-09-22T19:20:02.000Z",
-      "key": "faire:8831768002",
+      "url": "https://boards.greenhouse.io/faire/jobs/8831888002?gh_jid=8831888002",
+      "postedAt": "2026-09-22T19:25:03.000Z",
+      "key": "faire:8831888002",
       "company": "Faire",
       "level": "experienced",
       "term": null,
       "regions": [
-        "canada"
+        "us"
       ],
-      "firstSeen": "2026-09-22T19:20:26.415Z"
+      "firstSeen": "2026-09-22T19:30:22.336Z"
     },
     {
       "id": "9cb54039-35c6-4e07-ab0f-6784d0b83114",
@@ -6406,22 +6419,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-09-22T17:00:32.071Z"
-    },
-    {
-      "id": "8480805002",
-      "title": "Senior Infrastructure Engineer",
-      "location": "San Francisco, California",
-      "team": null,
-      "url": "https://www.workato.com/careers?gh_jid=8480805002#open-roles",
-      "postedAt": "2026-09-22T16:57:01.000Z",
-      "key": "workato:8480805002",
-      "company": "Workato",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-09-22T17:00:32.071Z"
     },
@@ -30704,22 +30701,6 @@
       "firstSeen": "2026-09-03T14:26:17.612Z"
     },
     {
-      "id": "R239255",
-      "title": "Sr. Lead, Machine Learning Engineer (Enterprise Platforms Technology)",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Sr-Lead--Machine-Learning-Engineer--Enterprise-Platforms-Technology-_R239255-1",
-      "postedAt": "2026-09-03T14:10:22.359Z",
-      "key": "Capital One:R239255",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T14:10:18.782Z"
-    },
-    {
       "id": "120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
       "title": "HPC Infrastructure Engineer - GPU Clusters",
       "location": "United States",
@@ -31763,22 +31744,6 @@
         "us"
       ],
       "firstSeen": "2026-09-02T17:00:26.639Z"
-    },
-    {
-      "id": "R249897",
-      "title": "Lead Software Engineer, Front End",
-      "location": "Richmond, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Front-End_R249897-1",
-      "postedAt": "2026-09-02T16:50:21.252Z",
-      "key": "Capital One:R249897",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T16:50:17.845Z"
     },
     {
       "id": "5216930007",
