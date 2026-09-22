@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-09-22T15:20:22.071Z",
+  "generatedAt": "2026-09-22T15:30:23.922Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1001486",
-    "Capital One:R1001309"
+    "Capital One:R1001273",
+    "Capital One:R1001287",
+    "Visa:REF084919W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 130,
     "new-grad": 27,
-    "experienced": 2138
+    "experienced": 2141
   },
   "companies": [
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 135,
+      "jobCount": 137,
       "error": null,
       "stale": false
     },
@@ -5402,7 +5403,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -5564,7 +5565,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF084919W",
+      "title": "Director, Software Engineering",
+      "location": "US - Foster City, CA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Lead-SW-Engineer_REF084919W",
+      "postedAt": "2026-09-22T15:30:28.158Z",
+      "key": "Visa:REF084919W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T15:30:23.922Z"
+    },
+    {
+      "id": "R1001273",
+      "title": "Full-stack Engineer 4 (React, TypeScript, AWS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--React--TypeScript--AWS-_R1001273-1",
+      "postedAt": "2026-09-22T15:30:27.272Z",
+      "key": "Capital One:R1001273",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T15:30:23.922Z"
+    },
+    {
+      "id": "R1001287",
+      "title": "Mobile Engineer 4 (Android, Kotlin, JetPack Compose)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-4--Android--Kotlin--JetPack-Compose-_R1001287-1",
+      "postedAt": "2026-09-22T15:30:27.272Z",
+      "key": "Capital One:R1001287",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T15:30:23.922Z"
+    },
     {
       "id": "R1001309",
       "title": "Full-stack Engineer 4 (Go, AWS)",
