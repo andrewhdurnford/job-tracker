@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-09-22T02:20:18.557Z",
+  "generatedAt": "2026-09-22T02:30:22.064Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "spacex:8829698002",
+    "spacex:8825659002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 131,
+    "intern": 130,
     "new-grad": 27,
-    "experienced": 2112
+    "experienced": 2114
   },
   "companies": [
     {
@@ -4531,7 +4534,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 115,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 117,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8829698002",
+      "title": "Full Stack Engineer, Launch Software",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8829698002?gh_jid=8829698002",
+      "postedAt": "2026-09-22T02:24:12.000Z",
+      "key": "spacex:8829698002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T02:30:22.064Z"
+    },
+    {
+      "id": "8825659002",
+      "title": "HVAC Programmer (Starbase)",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8825659002?gh_jid=8825659002",
+      "postedAt": "2026-09-22T02:15:10.000Z",
+      "key": "spacex:8825659002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T02:30:22.064Z"
+    },
     {
       "id": "8829684002",
       "title": "Sr. Site Reliability Engineer, AI Infrastructure (Starshield)",
@@ -7395,22 +7430,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T22:20:19.938Z"
-    },
-    {
-      "id": "8220948",
-      "title": "MIT- Software Engineer Intern |Helios|",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220948",
-      "postedAt": "2026-09-21T17:13:41.000Z",
-      "key": "singlestore:8220948",
-      "company": "SingleStore",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T02:00:26.168Z"
     },
     {
       "id": "8220941",
