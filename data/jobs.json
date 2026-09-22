@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-09-22T21:10:22.132Z",
+  "generatedAt": "2026-09-22T21:20:18.165Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 7,
+  "newKeys": [
+    "block:5431987008",
+    "Capital One:R1001684",
+    "Capital One:R1001486",
+    "mercor:a217f1a6-c63c-4dfb-81c3-ecc0c5d44f98",
+    "Nvidia:JR2019589",
+    "Nvidia:JR2020431",
+    "snowflake:ab0abd7e-7e3f-4f1e-bca0-297765ed6425"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +18,7 @@
   "levelCounts": {
     "intern": 131,
     "new-grad": 27,
-    "experienced": 2186
+    "experienced": 2193
   },
   "companies": [
     {
@@ -611,7 +619,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -786,7 +794,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 153,
+      "jobCount": 155,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1761,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2069,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2970,7 +2978,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3433,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 157,
+      "jobCount": 159,
       "error": null,
       "stale": false
     },
@@ -4636,7 +4644,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5707,118 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001486",
+      "title": "Mobile Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Mobile-Engineer-4_R1001486-1",
+      "postedAt": "2026-09-22T21:20:22.527Z",
+      "key": "Capital One:R1001486",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T21:20:18.165Z"
+    },
+    {
+      "id": "JR2020431",
+      "title": "Senior Software Development Engineer in Test",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test_JR2020431",
+      "postedAt": "2026-09-22T21:20:21.719Z",
+      "key": "Nvidia:JR2020431",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T21:20:18.165Z"
+    },
+    {
+      "id": "JR2019589",
+      "title": "Senior Software Development Engineer in Test - SDET",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---SDET_JR2019589",
+      "postedAt": "2026-09-22T21:20:21.719Z",
+      "key": "Nvidia:JR2019589",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T21:20:18.165Z"
+    },
+    {
+      "id": "R1001684",
+      "title": "Full-stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001684-1",
+      "postedAt": "2026-09-22T21:20:21.707Z",
+      "key": "Capital One:R1001684",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T21:20:18.165Z"
+    },
+    {
+      "id": "5431987008",
+      "title": "Staff Machine Learning Engineer (Modeling), Support",
+      "location": "Seattle, WA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5431987008?gh_jid=5431987008",
+      "postedAt": "2026-09-22T21:19:49.000Z",
+      "key": "block:5431987008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T21:20:18.165Z"
+    },
+    {
+      "id": "ab0abd7e-7e3f-4f1e-bca0-297765ed6425",
+      "title": "Software Engineer",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/ab0abd7e-7e3f-4f1e-bca0-297765ed6425",
+      "postedAt": "2026-09-22T21:17:44.132Z",
+      "key": "snowflake:ab0abd7e-7e3f-4f1e-bca0-297765ed6425",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T21:20:18.165Z"
+    },
+    {
+      "id": "a217f1a6-c63c-4dfb-81c3-ecc0c5d44f98",
+      "title": "Software Engineer, Robotics ",
+      "location": "San Francisco",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/a217f1a6-c63c-4dfb-81c3-ecc0c5d44f98",
+      "postedAt": "2026-09-22T21:17:28.801Z",
+      "key": "mercor:a217f1a6-c63c-4dfb-81c3-ecc0c5d44f98",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T21:20:18.165Z"
+    },
     {
       "id": "R1001756",
       "title": "Full Stack Engineer 4",
@@ -8663,7 +8783,7 @@
     },
     {
       "id": "8220246",
-      "title": "Software Engineer II, Marketplace Optimzation",
+      "title": "Software Engineer II, Marketplace Optimization",
       "location": "United States | Remote",
       "team": null,
       "url": "https://careers.upstart.com/jobs?gh_jid=8220246",
