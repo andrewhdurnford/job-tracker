@@ -1,10 +1,14 @@
 {
-  "generatedAt": "2026-09-22T18:50:18.296Z",
+  "generatedAt": "2026-09-22T19:00:31.396Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "cursor:1703501f-53a1-4307-93ec-84b723be92ef",
-    "netskope:8224070"
+    "airbnb:8224032",
+    "Capital One:R1001703",
+    "coupang:8207114",
+    "Nvidia:JR2026364",
+    "ramp:3c43dea1-3cd7-45ab-96f1-4054cfa875ff",
+    "shieldai:c1d2401c-1dd2-4fcd-b01d-858d82e814b8"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +17,7 @@
   "levelCounts": {
     "intern": 130,
     "new-grad": 27,
-    "experienced": 2174
+    "experienced": 2179
   },
   "companies": [
     {
@@ -117,7 +121,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -789,7 +793,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 152,
+      "jobCount": 153,
       "error": null,
       "stale": false
     },
@@ -1202,7 +1206,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -1756,7 +1760,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3400,7 +3404,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3432,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 169,
+      "jobCount": 170,
       "error": null,
       "stale": false
     },
@@ -4037,7 +4041,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4471,7 +4475,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5706,102 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026364",
+      "title": "Senior System Software Engineer - Embedded Controller",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Embedded-Controller_JR2026364",
+      "postedAt": "2026-09-22T19:00:35.304Z",
+      "key": "Nvidia:JR2026364",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T19:00:31.396Z"
+    },
+    {
+      "id": "R1001703",
+      "title": "Staff AI Engineer (Remote Eligible)",
+      "location": "6 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Staff-AI-Engineer--Remote-Eligible-_R1001703-1",
+      "postedAt": "2026-09-22T19:00:34.814Z",
+      "key": "Capital One:R1001703",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-22T19:00:31.396Z"
+    },
+    {
+      "id": "3c43dea1-3cd7-45ab-96f1-4054cfa875ff",
+      "title": "Tech Lead, Ramp Travel",
+      "location": "New York, NY (HQ)",
+      "team": "Ramp Travel",
+      "url": "https://jobs.ashbyhq.com/ramp/3c43dea1-3cd7-45ab-96f1-4054cfa875ff",
+      "postedAt": "2026-09-22T19:00:18.922Z",
+      "key": "ramp:3c43dea1-3cd7-45ab-96f1-4054cfa875ff",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T19:00:31.396Z"
+    },
+    {
+      "id": "8224032",
+      "title": "Senior Staff Data Engineer, Foundational Data",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8224032?gh_jid=8224032",
+      "postedAt": "2026-09-22T18:58:28.000Z",
+      "key": "airbnb:8224032",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T19:00:31.396Z"
+    },
+    {
+      "id": "c1d2401c-1dd2-4fcd-b01d-858d82e814b8",
+      "title": "Senior Engineer, Sustaining (R6024)",
+      "location": "Dallas, Texas",
+      "team": "V-BAT Engineering - Mechanical",
+      "url": "https://jobs.lever.co/shieldai/c1d2401c-1dd2-4fcd-b01d-858d82e814b8",
+      "postedAt": "2026-09-22T18:52:19.288Z",
+      "key": "shieldai:c1d2401c-1dd2-4fcd-b01d-858d82e814b8",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T19:00:31.396Z"
+    },
+    {
+      "id": "8207114",
+      "title": "Staff Computer Vision Engineer - Search AI Product Engineering",
+      "location": "Mountain View, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/coupang/jobs/8207114",
+      "postedAt": "2026-09-22T18:50:22.000Z",
+      "key": "coupang:8207114",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T19:00:31.396Z"
+    },
     {
       "id": "8224070",
       "title": "Sr. Staff Engineer, Endpoint Security",
@@ -24574,23 +24674,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-09-09T21:10:18.905Z"
-    },
-    {
-      "id": "c07cdb76-d50d-4cdf-bf05-365a1ec79ba2",
-      "title": "Staff Software Engineer, AI Agents — Purple Journey",
-      "location": "São Paulo (+3 more)",
-      "team": "Engineer",
-      "url": "https://jobs.ashbyhq.com/nubank/c07cdb76-d50d-4cdf-bf05-365a1ec79ba2",
-      "postedAt": "2026-09-09T21:04:17.186Z",
-      "key": "nubank:c07cdb76-d50d-4cdf-bf05-365a1ec79ba2",
-      "company": "Nubank",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
       ],
       "firstSeen": "2026-09-09T21:10:18.905Z"
     },
