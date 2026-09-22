@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-09-22T13:10:17.780Z",
+  "generatedAt": "2026-09-22T13:20:20.431Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "Capital One:R1001525",
+    "Capital One:R1001211",
+    "Capital One:R1001214",
+    "tanium:8176398"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 130,
+    "intern": 131,
     "new-grad": 27,
-    "experienced": 2123
+    "experienced": 2125
   },
   "companies": [
     {
@@ -72,7 +77,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 121,
+      "jobCount": 124,
       "error": null,
       "stale": false
     },
@@ -4972,7 +4977,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5678,10 +5683,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001211",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1001211-1",
+      "postedAt": "2026-09-22T13:20:23.745Z",
+      "key": "Capital One:R1001211",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T13:20:20.431Z"
+    },
+    {
+      "id": "R1001214",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1001214-1",
+      "postedAt": "2026-09-22T13:20:23.745Z",
+      "key": "Capital One:R1001214",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T13:20:20.431Z"
+    },
+    {
+      "id": "R1001525",
+      "title": "Mobile Engineer 5",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-5_R1001525-1",
+      "postedAt": "2026-09-22T13:20:23.745Z",
+      "key": "Capital One:R1001525",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T13:20:20.431Z"
+    },
+    {
+      "id": "8176398",
+      "title": "Cloud Security Intern",
+      "location": "Durham, NC (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8176398",
+      "postedAt": "2026-09-22T13:16:18.000Z",
+      "key": "tanium:8176398",
+      "company": "Tanium",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T13:20:20.431Z"
+    },
     {
       "id": "931963c1-f069-44ea-9caf-490a2d06029e",
       "title": "Senior iOS Engineer",
@@ -7129,22 +7198,6 @@
       "postedAt": "2026-09-21T19:20:27.301Z",
       "key": "Capital One:R1001444",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T19:20:24.080Z"
-    },
-    {
-      "id": "8153114",
-      "title": "Software Engineer I (Front End) - Lifecycle Experience",
-      "location": "Chicago",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8153114",
-      "postedAt": "2026-09-21T19:15:19.000Z",
-      "key": "adyen:8153114",
-      "company": "Adyen",
       "level": "experienced",
       "term": null,
       "regions": [
