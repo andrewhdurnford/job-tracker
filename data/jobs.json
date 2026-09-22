@@ -1,14 +1,12 @@
 {
-  "generatedAt": "2026-09-22T19:00:31.396Z",
+  "generatedAt": "2026-09-22T19:10:17.867Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "airbnb:8224032",
-    "Capital One:R1001703",
-    "coupang:8207114",
-    "Nvidia:JR2026364",
-    "ramp:3c43dea1-3cd7-45ab-96f1-4054cfa875ff",
-    "shieldai:c1d2401c-1dd2-4fcd-b01d-858d82e814b8"
+    "Capital One:R1001592",
+    "datadog:8223819",
+    "thumbtack:a91c8c47-784d-4dd0-8ecf-91104a9da786",
+    "thumbtack:88d9ff7a-e1f6-4423-884f-b4646729a2f3"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +15,7 @@
   "levelCounts": {
     "intern": 130,
     "new-grad": 27,
-    "experienced": 2179
+    "experienced": 2183
   },
   "companies": [
     {
@@ -793,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 153,
+      "jobCount": 154,
       "error": null,
       "stale": false
     },
@@ -1304,7 +1302,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1760,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5084,7 +5082,7 @@
     {
       "name": "Thumbtack",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001592",
+      "title": "Full-stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001592-1",
+      "postedAt": "2026-09-22T19:10:20.950Z",
+      "key": "Capital One:R1001592",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T19:10:17.867Z"
+    },
+    {
+      "id": "8223819",
+      "title": "Senior Software Engineer - Source Security",
+      "location": "New York, New York, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8223819/?gh_jid=8223819",
+      "postedAt": "2026-09-22T19:07:13.000Z",
+      "key": "datadog:8223819",
+      "company": "Datadog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T19:10:17.867Z"
+    },
+    {
+      "id": "88d9ff7a-e1f6-4423-884f-b4646729a2f3",
+      "title": "Manager, Data Engineering",
+      "location": "Remote, Ontario (+1 more)",
+      "team": "People",
+      "url": "https://jobs.ashbyhq.com/thumbtack/88d9ff7a-e1f6-4423-884f-b4646729a2f3",
+      "postedAt": "2026-09-22T19:01:31.818Z",
+      "key": "thumbtack:88d9ff7a-e1f6-4423-884f-b4646729a2f3",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-22T19:10:17.867Z"
+    },
+    {
+      "id": "a91c8c47-784d-4dd0-8ecf-91104a9da786",
+      "title": "Manager, Data Engineering",
+      "location": "Remote, United States",
+      "team": "People",
+      "url": "https://jobs.ashbyhq.com/thumbtack/a91c8c47-784d-4dd0-8ecf-91104a9da786",
+      "postedAt": "2026-09-22T19:01:29.751Z",
+      "key": "thumbtack:a91c8c47-784d-4dd0-8ecf-91104a9da786",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T19:10:17.867Z"
+    },
     {
       "id": "JR2026364",
       "title": "Senior System Software Engineer - Embedded Controller",
