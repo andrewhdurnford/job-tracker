@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-22T19:30:22.336Z",
+  "generatedAt": "2026-09-22T19:40:19.558Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "faire:8831888002",
-    "openai:ac442f1f-c0d2-4608-a155-bfc89190e01c"
+    "stripe:8194604",
+    "stripe:8194606"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 130,
     "new-grad": 27,
-    "experienced": 2186
+    "experienced": 2187
   },
   "companies": [
     {
@@ -75,7 +75,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1756,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2064,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 118,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4800,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5703,8 +5703,40 @@
   ],
   "jobs": [
     {
+      "id": "8194604",
+      "title": "Frontend Engineer, Data Product Experiences",
+      "location": "Canada Locations",
+      "team": "8122 Data Foundations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194604",
+      "postedAt": "2026-09-22T19:34:29.000Z",
+      "key": "stripe:8194604",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-22T19:40:19.558Z"
+    },
+    {
+      "id": "8194606",
+      "title": "Frontend Engineer, Data Product Experiences",
+      "location": "US",
+      "team": "8122 Data Foundations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194606",
+      "postedAt": "2026-09-22T19:31:09.000Z",
+      "key": "stripe:8194606",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T19:40:19.558Z"
+    },
+    {
       "id": "ac442f1f-c0d2-4608-a155-bfc89190e01c",
-      "title": "Fullstack Engineer, Child Safety Tools & Systems",
+      "title": "Fullstack Software Engineer, Child Safety Tools & Systems",
       "location": "San Francisco (+1 more)",
       "team": "Intelligence & Investigations",
       "url": "https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c",
@@ -7049,7 +7081,7 @@
     },
     {
       "id": "8831207002",
-      "title": "Staff Software Engineer (Infrastructure)",
+      "title": "Staff Software Engineer ",
       "location": "Vancouver, BC, Canada",
       "team": null,
       "url": "https://job-boards.greenhouse.io/amplitude/jobs/8831207002",
@@ -8595,22 +8627,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T19:20:24.080Z"
-    },
-    {
-      "id": "8153114",
-      "title": "Software Engineer I (Front End) - Lifecycle Experience",
-      "location": "Chicago",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8153114",
-      "postedAt": "2026-09-21T19:15:19.000Z",
-      "key": "adyen:8153114",
-      "company": "Adyen",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T16:50:19.348Z"
     },
     {
       "id": "R1001417",
