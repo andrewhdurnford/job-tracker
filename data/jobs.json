@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-22T15:03:08.338Z",
+  "generatedAt": "2026-09-22T15:10:24.723Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1001437"
+    "asana:8155344",
+    "Capital One:R1001292",
+    "Capital One:R1001314"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 130,
     "new-grad": 27,
-    "experienced": 2133
+    "experienced": 2136
   },
   "companies": [
     {
@@ -389,7 +391,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -788,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 131,
+      "jobCount": 133,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 118,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001314",
+      "title": "Full-stack Engineer 4 (Golang, Python, Java, AWS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Golang--Python--Java--AWS-_R1001314-1",
+      "postedAt": "2026-09-22T15:10:28.320Z",
+      "key": "Capital One:R1001314",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T15:10:24.723Z"
+    },
+    {
+      "id": "R1001292",
+      "title": "Full-stack Engineer 5 (Go/Java, Angular, AWS)",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-5--Go-Java--Angular--AWS-_R1001292-1",
+      "postedAt": "2026-09-22T15:10:28.320Z",
+      "key": "Capital One:R1001292",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T15:10:24.723Z"
+    },
+    {
+      "id": "8155344",
+      "title": "Software Engineer, AI Teammates Experience",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/8155344?gh_jid=8155344",
+      "postedAt": "2026-09-22T15:10:09.000Z",
+      "key": "asana:8155344",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T15:10:24.723Z"
+    },
     {
       "id": "R1001156",
       "title": "Full Stack Engineer 4 (Go, AWS)",
