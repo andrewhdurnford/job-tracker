@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-09-22T03:30:30.444Z",
+  "generatedAt": "2026-09-22T03:40:19.381Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Nvidia:JR2024551"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 131,
+    "intern": 130,
     "new-grad": 27,
-    "experienced": 2113
+    "experienced": 2114
   },
   "companies": [
     {
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 168,
+      "jobCount": 169,
       "error": null,
       "stale": false
     },
@@ -4531,7 +4533,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 117,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2024551",
+      "title": "Data Application Engineer, Enterprise Data Management",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Application-Engineer--Enterprise-Data-Management_JR2024551",
+      "postedAt": "2026-09-22T03:40:23.804Z",
+      "key": "Nvidia:JR2024551",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T03:40:19.381Z"
+    },
     {
       "id": "5215437007",
       "title": "Senior Software QA Engineer, Vehicle Infotainment",
@@ -7427,22 +7445,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T22:20:19.938Z"
-    },
-    {
-      "id": "8220948",
-      "title": "MIT- Software Engineer Intern |Helios|",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220948",
-      "postedAt": "2026-09-21T17:13:41.000Z",
-      "key": "singlestore:8220948",
-      "company": "SingleStore",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T03:20:24.034Z"
     },
     {
       "id": "8220941",
