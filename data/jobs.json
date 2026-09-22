@@ -1,9 +1,18 @@
 {
-  "generatedAt": "2026-09-22T19:50:18.035Z",
+  "generatedAt": "2026-09-22T20:00:25.677Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 10,
   "newKeys": [
-    "Capital One:R1001279"
+    "Capital One:R1001271",
+    "Capital One:R1001276",
+    "coinbase:8211452",
+    "sentry:f34d1bfd-4b09-4436-976a-79fd6648cf7b",
+    "vercel:6188400004",
+    "vercel:5895013004",
+    "vercel:5914474004",
+    "vercel:6137958004",
+    "writer:40f9e2b4-3284-4a20-b45d-0f5e5dd9108d",
+    "writer:c21128b0-28cd-424c-b1a8-27b1ead69d97"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +21,7 @@
   "levelCounts": {
     "intern": 130,
     "new-grad": 27,
-    "experienced": 2187
+    "experienced": 2190
   },
   "companies": [
     {
@@ -788,7 +797,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 153,
+      "jobCount": 155,
       "error": null,
       "stale": false
     },
@@ -1054,7 +1063,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1764,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3427,7 +3436,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 170,
+      "jobCount": 165,
       "error": null,
       "stale": false
     },
@@ -4414,7 +4423,7 @@
     {
       "name": "Sentry",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4722,7 +4731,7 @@
     {
       "name": "Spotify",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5065,7 +5074,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5345,7 +5354,7 @@
     {
       "name": "Vercel",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5576,7 +5585,7 @@
     {
       "name": "Writer",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5710,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001276",
+      "title": "Full-stack Engineer 4 (Python, Java)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Python--Java-_R1001276-1",
+      "postedAt": "2026-09-22T20:00:29.005Z",
+      "key": "Capital One:R1001276",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:00:25.677Z"
+    },
+    {
+      "id": "R1001271",
+      "title": "Full-stack Engineer 5 (Go, TypeScript and Angular)",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-5--Go--TypeScript-and-Angular-_R1001271-1",
+      "postedAt": "2026-09-22T20:00:29.005Z",
+      "key": "Capital One:R1001271",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:00:25.677Z"
+    },
+    {
+      "id": "c21128b0-28cd-424c-b1a8-27b1ead69d97",
+      "title": "AI research scientist",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/writer/c21128b0-28cd-424c-b1a8-27b1ead69d97",
+      "postedAt": "2026-09-22T19:57:30.241Z",
+      "key": "writer:c21128b0-28cd-424c-b1a8-27b1ead69d97",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:00:25.677Z"
+    },
+    {
+      "id": "40f9e2b4-3284-4a20-b45d-0f5e5dd9108d",
+      "title": "AI engineer ",
+      "location": "San Francisco, CA (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/writer/40f9e2b4-3284-4a20-b45d-0f5e5dd9108d",
+      "postedAt": "2026-09-22T19:55:57.584Z",
+      "key": "writer:40f9e2b4-3284-4a20-b45d-0f5e5dd9108d",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:00:25.677Z"
+    },
+    {
+      "id": "f34d1bfd-4b09-4436-976a-79fd6648cf7b",
+      "title": "Engineering Manager, Infrastructure",
+      "location": "San Francisco, California",
+      "team": "Engineering ",
+      "url": "https://jobs.ashbyhq.com/sentry/f34d1bfd-4b09-4436-976a-79fd6648cf7b",
+      "postedAt": "2026-09-22T19:51:24.036Z",
+      "key": "sentry:f34d1bfd-4b09-4436-976a-79fd6648cf7b",
+      "company": "Sentry",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:00:25.677Z"
+    },
     {
       "id": "R1001279",
       "title": "Machine Learning Engineer 5 (Senior Manager, IC)",
@@ -7550,22 +7639,6 @@
       "url": "https://jobs.ashbyhq.com/thinkingmachines/cc4f4b4e-8671-4f7b-8d3d-a2514a43f5b2",
       "postedAt": "2026-09-22T01:25:07.910Z",
       "key": "thinkingmachines:cc4f4b4e-8671-4f7b-8d3d-a2514a43f5b2",
-      "company": "Thinking Machines Lab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T01:30:22.734Z"
-    },
-    {
-      "id": "f32485ca-2de5-458f-bfae-680e124cb9f1",
-      "title": "Software Engineer, Developer Productivity, AI Tools",
-      "location": "San Francisco (+1 more)",
-      "team": "Core Engineering",
-      "url": "https://jobs.ashbyhq.com/thinkingmachines/f32485ca-2de5-458f-bfae-680e124cb9f1",
-      "postedAt": "2026-09-22T01:21:09.436Z",
-      "key": "thinkingmachines:f32485ca-2de5-458f-bfae-680e124cb9f1",
       "company": "Thinking Machines Lab",
       "level": "experienced",
       "term": null,
@@ -10038,22 +10111,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-21T07:00:32.054Z"
-    },
-    {
-      "id": "JR2026249",
-      "title": "System Software Engineer - CUDA Chips",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---CUDA-Chips_JR2026249-1",
-      "postedAt": "2026-09-21T00:40:21.303Z",
-      "key": "Nvidia:JR2026249",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T00:40:16.504Z"
     },
     {
       "id": "8826632002",
@@ -13991,6 +14048,22 @@
       "firstSeen": "2026-09-21T20:10:18.996Z"
     },
     {
+      "id": "8211452",
+      "title": "Senior Software Engineer, Backend - Platform (Core AI Automation)",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8211452?gh_jid=8211452",
+      "postedAt": "2026-09-17T20:09:48.000Z",
+      "key": "coinbase:8211452",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:00:25.677Z"
+    },
+    {
       "id": "98620ae5-a584-40fc-bc5b-be04827f8b9d",
       "title": "Senior Server Engineer, Data Products",
       "location": "Strava SF",
@@ -15586,6 +15659,22 @@
         "us"
       ],
       "firstSeen": "2026-09-16T21:40:16.477Z"
+    },
+    {
+      "id": "6188400004",
+      "title": "Software Engineer - Data Platform",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6188400004",
+      "postedAt": "2026-09-16T21:25:01.000Z",
+      "key": "vercel:6188400004",
+      "company": "Vercel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:00:25.677Z"
     },
     {
       "id": "3f6911c0-b49b-4d8e-a434-4064df2cde44",
@@ -18207,22 +18296,6 @@
       "firstSeen": "2026-09-15T16:20:16.762Z"
     },
     {
-      "id": "318f73b5-6a78-49c7-b625-ecb1481042b9",
-      "title": "Backend Engineer, Personalization",
-      "location": "New York, NY",
-      "team": "Personalization",
-      "url": "https://jobs.lever.co/spotify/318f73b5-6a78-49c7-b625-ecb1481042b9",
-      "postedAt": "2026-09-15T16:11:21.381Z",
-      "key": "spotify:318f73b5-6a78-49c7-b625-ecb1481042b9",
-      "company": "Spotify",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T19:30:22.705Z"
-    },
-    {
       "id": "5235296007",
       "title": "Senior Information Security Engineer",
       "location": "Remote - USA",
@@ -20162,22 +20235,6 @@
         "us"
       ],
       "firstSeen": "2026-09-14T16:40:18.994Z"
-    },
-    {
-      "id": "JR2025254",
-      "title": "Senior Applied AI Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-AI-Engineer_JR2025254-1",
-      "postedAt": "2026-09-14T16:30:29.938Z",
-      "key": "Nvidia:JR2025254",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-14T16:30:26.441Z"
     },
     {
       "id": "4404472009",
@@ -22641,22 +22698,6 @@
       "firstSeen": "2026-09-11T16:00:26.239Z"
     },
     {
-      "id": "JR2025391",
-      "title": "Senior Software Engineer, Capacity Management - DGX Cloud",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Capacity-Management---DGX-Cloud_JR2025391",
-      "postedAt": "2026-09-11T15:50:25.188Z",
-      "key": "Nvidia:JR2025391",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T15:50:20.498Z"
-    },
-    {
       "id": "8195746",
       "title": "Software Engineer - Egress (Go/Rust)",
       "location": "Austin, TX (+2 more)",
@@ -23813,22 +23854,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-System-Software-Engineer--RTL-to-GDS-Flow-Platform_JR2018368",
       "postedAt": "2026-09-10T15:40:32.206Z",
       "key": "Nvidia:JR2018368",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-10T15:40:18.675Z"
-    },
-    {
-      "id": "JR2024492",
-      "title": "Senior Systems Software Engineer - Infrastructure",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Infrastructure_JR2024492",
-      "postedAt": "2026-09-10T15:40:32.206Z",
-      "key": "Nvidia:JR2024492",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
@@ -31552,6 +31577,22 @@
       "firstSeen": "2026-09-02T18:10:57.746Z"
     },
     {
+      "id": "6137958004",
+      "title": "Software Engineer - Next.js",
+      "location": "Hybrid - San Francisco, New York City",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6137958004",
+      "postedAt": "2026-09-02T18:04:16.000Z",
+      "key": "vercel:6137958004",
+      "company": "Vercel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:00:25.677Z"
+    },
+    {
       "id": "34400221-9b07-4db9-929b-3441bdf00dd4",
       "title": "Backend Engineer",
       "location": "Waterloo (+2 more)",
@@ -37212,6 +37253,22 @@
       "firstSeen": "2026-08-28T13:00:24.865Z"
     },
     {
+      "id": "5895013004",
+      "title": "Software Engineer, Financial Data Platform",
+      "location": "Hybrid - San Francisco, New York City",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5895013004",
+      "postedAt": "2026-08-28T11:07:19.000Z",
+      "key": "vercel:5895013004",
+      "company": "Vercel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:00:25.677Z"
+    },
+    {
       "id": "9fbd9227-57e0-4221-9255-1a1d967be8ed",
       "title": "Research Engineer - Data Infrastructure",
       "location": "United Kingdom (+3 more)",
@@ -38881,22 +38938,6 @@
         "remote"
       ],
       "firstSeen": "2026-08-27T03:10:18.113Z"
-    },
-    {
-      "id": "JR2019589",
-      "title": "Senior Software Development Engineer in Test - SDET",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---SDET_JR2019589",
-      "postedAt": "2026-08-27T02:31:37.516Z",
-      "key": "Nvidia:JR2019589",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-27T02:30:22.494Z"
     },
     {
       "id": "c30b2b86-47b1-453f-a2dc-7459a7c2fe80",
@@ -41612,6 +41653,22 @@
         "us"
       ],
       "firstSeen": "2026-09-22T11:10:17.082Z"
+    },
+    {
+      "id": "5914474004",
+      "title": "Software Engineer, GTM ",
+      "location": "Hybrid - San Francisco, New York City",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5914474004",
+      "postedAt": "2026-08-25T10:45:27.000Z",
+      "key": "vercel:5914474004",
+      "company": "Vercel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:00:25.677Z"
     },
     {
       "id": "5220950007",
