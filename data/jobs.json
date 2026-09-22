@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-09-22T18:30:20.876Z",
+  "generatedAt": "2026-09-22T18:40:19.309Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R1001359",
-    "roblox:8211271",
-    "sentry:81f09568-da7d-4ed1-8283-614f846c9b00"
+    "cloudflare:8212352",
+    "newrelic:5416517008",
+    "roblox:8187491",
+    "shieldai:c946dfe1-c619-46f1-a7d7-8faaaebe763c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 130,
     "new-grad": 27,
-    "experienced": 2172
+    "experienced": 2176
   },
   "companies": [
     {
@@ -1014,7 +1015,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -1757,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2065,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3324,7 +3325,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4241,7 +4242,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4472,7 +4473,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8212352",
+      "title": "Senior Software Engineer - Load Balancing",
+      "location": "Austin, TX",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8212352?gh_jid=8212352",
+      "postedAt": "2026-09-22T18:38:56.000Z",
+      "key": "cloudflare:8212352",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T18:40:19.309Z"
+    },
+    {
+      "id": "8187491",
+      "title": "Senior Software Engineer, Automation Tools",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8187491?gh_jid=8187491",
+      "postedAt": "2026-09-22T18:31:46.000Z",
+      "key": "roblox:8187491",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T18:40:19.309Z"
+    },
+    {
+      "id": "c946dfe1-c619-46f1-a7d7-8faaaebe763c",
+      "title": "Staff Engineer, Platform (R6019)",
+      "location": "San Diego, California (+1 more)",
+      "team": "Forge",
+      "url": "https://jobs.lever.co/shieldai/c946dfe1-c619-46f1-a7d7-8faaaebe763c",
+      "postedAt": "2026-09-22T18:31:02.537Z",
+      "key": "shieldai:c946dfe1-c619-46f1-a7d7-8faaaebe763c",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T18:40:19.309Z"
+    },
     {
       "id": "R1001359",
       "title": "Full-stack Engineer 5 ( Python, AWS)",
@@ -28715,6 +28764,22 @@
         "us"
       ],
       "firstSeen": "2026-09-05T00:01:02.843Z"
+    },
+    {
+      "id": "5416517008",
+      "title": "Software Engineer - IAM (Java)",
+      "location": "Portland, Oregon, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5416517008",
+      "postedAt": "2026-09-04T16:43:51.000Z",
+      "key": "newrelic:5416517008",
+      "company": "New Relic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T18:40:19.309Z"
     },
     {
       "id": "489bba93-eb55-4da9-b65f-8109afdef7ee",
