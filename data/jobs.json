@@ -1,18 +1,14 @@
 {
-  "generatedAt": "2026-09-22T20:00:25.677Z",
+  "generatedAt": "2026-09-22T20:10:18.507Z",
   "bootstrap": false,
-  "lastRunNewCount": 10,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "Capital One:R1001271",
-    "Capital One:R1001276",
-    "coinbase:8211452",
-    "sentry:f34d1bfd-4b09-4436-976a-79fd6648cf7b",
-    "vercel:6188400004",
-    "vercel:5895013004",
-    "vercel:5914474004",
-    "vercel:6137958004",
-    "writer:40f9e2b4-3284-4a20-b45d-0f5e5dd9108d",
-    "writer:c21128b0-28cd-424c-b1a8-27b1ead69d97"
+    "Nvidia:JR2025407",
+    "wrapbook:1f7f8e6e-860e-4045-a810-f4bc073debbc",
+    "writer:d22a420f-786e-4c66-8846-c77878483cd5",
+    "writer:55dc4451-a89c-46d3-b482-9d2b5e9879d3",
+    "writer:40021ec1-fc21-4230-8d95-0eca8fd51bec",
+    "writer:699a2c97-5273-4954-a92a-a2ccee95c95e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -21,7 +17,7 @@
   "levelCounts": {
     "intern": 130,
     "new-grad": 27,
-    "experienced": 2190
+    "experienced": 2188
   },
   "companies": [
     {
@@ -1764,7 +1760,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3436,7 +3432,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 165,
+      "jobCount": 161,
       "error": null,
       "stale": false
     },
@@ -5578,14 +5574,14 @@
     {
       "name": "Wrapbook",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
     {
       "name": "Writer",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5711,6 +5707,86 @@
   ],
   "jobs": [
     {
+      "id": "JR2025407",
+      "title": "Senior Developer Relations, Automated Synthetic Chemistry Science Lead",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations--Automated-Synthetic-Chemistry-Science-Lead_JR2025407",
+      "postedAt": "2026-09-22T20:10:22.580Z",
+      "key": "Nvidia:JR2025407",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:10:18.507Z"
+    },
+    {
+      "id": "699a2c97-5273-4954-a92a-a2ccee95c95e",
+      "title": "Software engineer, connectors & MCP",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/writer/699a2c97-5273-4954-a92a-a2ccee95c95e",
+      "postedAt": "2026-09-22T20:07:30.675Z",
+      "key": "writer:699a2c97-5273-4954-a92a-a2ccee95c95e",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:10:18.507Z"
+    },
+    {
+      "id": "40021ec1-fc21-4230-8d95-0eca8fd51bec",
+      "title": "Software engineer, agents",
+      "location": "New York City, NY (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/writer/40021ec1-fc21-4230-8d95-0eca8fd51bec",
+      "postedAt": "2026-09-22T20:06:00.252Z",
+      "key": "writer:40021ec1-fc21-4230-8d95-0eca8fd51bec",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:10:18.507Z"
+    },
+    {
+      "id": "55dc4451-a89c-46d3-b482-9d2b5e9879d3",
+      "title": "Security engineer, detection and response",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/writer/55dc4451-a89c-46d3-b482-9d2b5e9879d3",
+      "postedAt": "2026-09-22T20:02:38.383Z",
+      "key": "writer:55dc4451-a89c-46d3-b482-9d2b5e9879d3",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:10:18.507Z"
+    },
+    {
+      "id": "1f7f8e6e-860e-4045-a810-f4bc073debbc",
+      "title": "Senior Platform Engineer I",
+      "location": "Remote - Canada Only",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/wrapbook/1f7f8e6e-860e-4045-a810-f4bc073debbc",
+      "postedAt": "2026-09-22T20:01:21.001Z",
+      "key": "wrapbook:1f7f8e6e-860e-4045-a810-f4bc073debbc",
+      "company": "Wrapbook",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-22T20:10:18.507Z"
+    },
+    {
       "id": "R1001276",
       "title": "Full-stack Engineer 4 (Python, Java)",
       "location": "Richmond, VA",
@@ -5741,6 +5817,22 @@
         "us"
       ],
       "firstSeen": "2026-09-22T20:00:25.677Z"
+    },
+    {
+      "id": "d22a420f-786e-4c66-8846-c77878483cd5",
+      "title": "Infrastructure engineer",
+      "location": "New York City, NY (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/writer/d22a420f-786e-4c66-8846-c77878483cd5",
+      "postedAt": "2026-09-22T20:00:15.667Z",
+      "key": "writer:d22a420f-786e-4c66-8846-c77878483cd5",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T20:10:18.507Z"
     },
     {
       "id": "c21128b0-28cd-424c-b1a8-27b1ead69d97",
@@ -8205,22 +8297,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T22:00:29.356Z"
-    },
-    {
-      "id": "JR2026218",
-      "title": "Compiler Engineer, Agentic Compilation Systems - New College Grad 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218",
-      "postedAt": "2026-09-21T21:50:23.753Z",
-      "key": "Nvidia:JR2026218",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T21:50:18.738Z"
     },
     {
       "id": "JR2026097",
@@ -16814,22 +16890,6 @@
       "firstSeen": "2026-09-16T14:10:20.832Z"
     },
     {
-      "id": "JR2018371",
-      "title": "System Software Engineer, Engineering Workflow Platform",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Engineering-Workflow-Platform_JR2018371",
-      "postedAt": "2026-09-16T14:00:29.089Z",
-      "key": "Nvidia:JR2018371",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T14:00:24.817Z"
-    },
-    {
       "id": "ead55e1a-873d-4837-8450-95fe8f4c8931",
       "title": "Inference Engineering and Product Lead ",
       "location": "San Francisco",
@@ -19095,22 +19155,6 @@
         "us"
       ],
       "firstSeen": "2026-09-15T00:20:16.963Z"
-    },
-    {
-      "id": "JR2019482",
-      "title": "Deep Learning Product Research Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Product-Research-Engineer_JR2019482",
-      "postedAt": "2026-09-15T00:00:30.091Z",
-      "key": "Nvidia:JR2019482",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T00:00:25.692Z"
     },
     {
       "id": "8200007",
@@ -21695,22 +21739,6 @@
         "us"
       ],
       "firstSeen": "2026-09-11T21:00:26.098Z"
-    },
-    {
-      "id": "JR2025455",
-      "title": "Senior AI and ML Software Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-and-ML-Software-Engineer_JR2025455",
-      "postedAt": "2026-09-11T20:54:17.416Z",
-      "key": "Nvidia:JR2025455",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T20:54:13.492Z"
     },
     {
       "id": "JR2025124",
@@ -26787,22 +26815,6 @@
       "firstSeen": "2026-09-08T19:20:21.967Z"
     },
     {
-      "id": "4481d8e1-4d86-4173-9cd0-9203c81365db",
-      "title": "Software engineer, connectors & MCP",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/writer/4481d8e1-4d86-4173-9cd0-9203c81365db",
-      "postedAt": "2026-09-08T19:06:27.134Z",
-      "key": "writer:4481d8e1-4d86-4173-9cd0-9203c81365db",
-      "company": "Writer",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T19:10:21.929Z"
-    },
-    {
       "id": "8139255",
       "title": "Senior Manager, Quality Engineering",
       "location": "Remote - CA",
@@ -28155,22 +28167,6 @@
       "firstSeen": "2026-09-04T23:00:24.133Z"
     },
     {
-      "id": "52b3bf22-7f09-4b9d-9d62-ab9f218a4c66",
-      "title": "Security engineer, detection and response",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/writer/52b3bf22-7f09-4b9d-9d62-ab9f218a4c66",
-      "postedAt": "2026-09-04T22:50:37.584Z",
-      "key": "writer:52b3bf22-7f09-4b9d-9d62-ab9f218a4c66",
-      "company": "Writer",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-04T23:00:24.133Z"
-    },
-    {
       "id": "b07febfa-8c2e-479d-84a3-58cd7ccc1bc6",
       "title": "Security engineer, application security",
       "location": "New York City, NY (+2 more)",
@@ -28211,22 +28207,6 @@
       "postedAt": "2026-09-04T22:45:36.043Z",
       "key": "gridware:8ab11519-d906-4917-99fd-5d7210f1593a",
       "company": "Gridware",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-04T22:50:20.697Z"
-    },
-    {
-      "id": "97d2b656-e084-4910-85a9-ca8d55cd302c",
-      "title": "Infrastructure engineer",
-      "location": "New York City, NY (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/writer/97d2b656-e084-4910-85a9-ca8d55cd302c",
-      "postedAt": "2026-09-04T22:44:51.164Z",
-      "key": "writer:97d2b656-e084-4910-85a9-ca8d55cd302c",
-      "company": "Writer",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -39291,22 +39271,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T21:40:18.305Z"
-    },
-    {
-      "id": "JR2023334",
-      "title": "Senior System Software Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer_JR2023334",
-      "postedAt": "2026-08-26T21:14:45.764Z",
-      "key": "Nvidia:JR2023334",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T21:14:40.943Z"
     },
     {
       "id": "8727410002",
