@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-22T01:20:26.802Z",
+  "generatedAt": "2026-09-22T01:30:22.734Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "thinkingmachines:f32485ca-2de5-458f-bfae-680e124cb9f1",
+    "thinkingmachines:cc4f4b4e-8671-4f7b-8d3d-a2514a43f5b2"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 130,
     "new-grad": 27,
-    "experienced": 2107
+    "experienced": 2108
   },
   "companies": [
     {
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 111,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5063,7 +5066,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "cc4f4b4e-8671-4f7b-8d3d-a2514a43f5b2",
+      "title": "Software Engineer, Sandboxing",
+      "location": "San Francisco (+1 more)",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/cc4f4b4e-8671-4f7b-8d3d-a2514a43f5b2",
+      "postedAt": "2026-09-22T01:25:07.910Z",
+      "key": "thinkingmachines:cc4f4b4e-8671-4f7b-8d3d-a2514a43f5b2",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T01:30:22.734Z"
+    },
+    {
+      "id": "f32485ca-2de5-458f-bfae-680e124cb9f1",
+      "title": "Software Engineer, Developer Productivity, AI Tools",
+      "location": "San Francisco (+1 more)",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/f32485ca-2de5-458f-bfae-680e124cb9f1",
+      "postedAt": "2026-09-22T01:21:09.436Z",
+      "key": "thinkingmachines:f32485ca-2de5-458f-bfae-680e124cb9f1",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-22T01:30:22.734Z"
+    },
     {
       "id": "8829307002",
       "title": "Software Engineer, Simulations (Vehicle Engineering) ",
@@ -38951,22 +38986,6 @@
       "key": "epicgames:6152263004",
       "company": "Epic Games",
       "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T00:10:19.047Z"
-    },
-    {
-      "id": "6afeaa7a-8674-4e32-9364-fb14cc28e79a",
-      "title": "Software Engineer, Sandboxing",
-      "location": "San Francisco",
-      "team": "Core Engineering",
-      "url": "https://jobs.ashbyhq.com/thinkingmachines/6afeaa7a-8674-4e32-9364-fb14cc28e79a",
-      "postedAt": "2026-08-26T00:01:05.844Z",
-      "key": "thinkingmachines:6afeaa7a-8674-4e32-9364-fb14cc28e79a",
-      "company": "Thinking Machines Lab",
-      "level": "experienced",
       "term": null,
       "regions": [
         "us"
