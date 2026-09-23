@@ -1,16 +1,13 @@
 {
-  "generatedAt": "2026-09-23T17:30:22.096Z",
+  "generatedAt": "2026-09-23T17:40:17.211Z",
   "bootstrap": false,
-  "lastRunNewCount": 8,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "ambiencehealthcare:167c30e8-25ee-475a-88ef-d1cb15fc4d76",
-    "braze:8226919",
-    "braze:8226604",
-    "braze:8226920",
-    "braze:8226922",
-    "braze:8226918",
-    "natera:6187834004",
-    "robinhood:8224564"
+    "commure:259988fe-0389-461f-823c-36d81840d465",
+    "commure:ab427dd6-e14e-47a8-8f2d-d445b4bc1ec2",
+    "commure:0e3440aa-4ddc-4a43-b4c3-804e60a1b2ff",
+    "openai:d4cd5172-d4bc-4f9e-956e-c6bcaef1c355",
+    "openai:b3fcdad3-abcb-4612-8fd9-a69e17210f0f"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -19,7 +16,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 27,
-    "experienced": 2242
+    "experienced": 2247
   },
   "companies": [
     {
@@ -1096,7 +1093,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1762,7 +1759,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2070,7 +2067,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2168,7 +2165,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3518,7 +3515,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 62,
+      "jobCount": 64,
       "error": null,
       "stale": false
     },
@@ -5709,6 +5706,54 @@
   ],
   "jobs": [
     {
+      "id": "d4cd5172-d4bc-4f9e-956e-c6bcaef1c355",
+      "title": "Full Stack Staff+ Software Engineer, Consumer Monetization",
+      "location": "San Francisco",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/d4cd5172-d4bc-4f9e-956e-c6bcaef1c355",
+      "postedAt": "2026-09-23T17:37:04.246Z",
+      "key": "openai:d4cd5172-d4bc-4f9e-956e-c6bcaef1c355",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:40:17.211Z"
+    },
+    {
+      "id": "b3fcdad3-abcb-4612-8fd9-a69e17210f0f",
+      "title": "Staff+ Software Engineer, Payments & Billing, Consumer Monetization",
+      "location": "San Francisco",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/b3fcdad3-abcb-4612-8fd9-a69e17210f0f",
+      "postedAt": "2026-09-23T17:36:13.662Z",
+      "key": "openai:b3fcdad3-abcb-4612-8fd9-a69e17210f0f",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:40:17.211Z"
+    },
+    {
+      "id": "259988fe-0389-461f-823c-36d81840d465",
+      "title": "Software Engineer, Scribe AI",
+      "location": "Mountain View, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465",
+      "postedAt": "2026-09-23T17:30:18.217Z",
+      "key": "commure:259988fe-0389-461f-823c-36d81840d465",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:40:17.211Z"
+    },
+    {
       "id": "8224564",
       "title": "Manager of Data Engineering",
       "location": "Toronto, Canada",
@@ -5723,6 +5768,38 @@
         "canada"
       ],
       "firstSeen": "2026-09-23T17:30:22.096Z"
+    },
+    {
+      "id": "ab427dd6-e14e-47a8-8f2d-d445b4bc1ec2",
+      "title": "Senior Software Engineer, Voice Agents",
+      "location": "Mountain View, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/commure/ab427dd6-e14e-47a8-8f2d-d445b4bc1ec2",
+      "postedAt": "2026-09-23T17:29:13.755Z",
+      "key": "commure:ab427dd6-e14e-47a8-8f2d-d445b4bc1ec2",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:40:17.211Z"
+    },
+    {
+      "id": "0e3440aa-4ddc-4a43-b4c3-804e60a1b2ff",
+      "title": "Software Engineer, Voice Agents",
+      "location": "Mountain View, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/commure/0e3440aa-4ddc-4a43-b4c3-804e60a1b2ff",
+      "postedAt": "2026-09-23T17:29:11.591Z",
+      "key": "commure:0e3440aa-4ddc-4a43-b4c3-804e60a1b2ff",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:40:17.211Z"
     },
     {
       "id": "6187834004",
