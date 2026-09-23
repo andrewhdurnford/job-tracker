@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-09-23T15:50:18.316Z",
+  "generatedAt": "2026-09-23T16:00:26.958Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Capital One:R1001617"
+    "affirm:7994795003",
+    "spacex:8831632002",
+    "spacex:8831452002",
+    "spacex:8831610002",
+    "tanium:8212716"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 27,
-    "experienced": 2224
+    "experienced": 2229
   },
   "companies": [
     {
@@ -81,7 +85,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -3848,7 +3852,7 @@
       "name": "Postman",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4694,7 +4698,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 122,
+      "jobCount": 125,
       "error": null,
       "stale": false
     },
@@ -4974,7 +4978,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5706,86 @@
   ],
   "jobs": [
     {
+      "id": "8831632002",
+      "title": "Site Reliability Engineer (High Performance Computing) ",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8831632002?gh_jid=8831632002",
+      "postedAt": "2026-09-23T15:58:59.000Z",
+      "key": "spacex:8831632002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T16:00:26.958Z"
+    },
+    {
+      "id": "8212716",
+      "title": "Senior Software Engineer",
+      "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8212716",
+      "postedAt": "2026-09-23T15:58:24.000Z",
+      "key": "tanium:8212716",
+      "company": "Tanium",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T16:00:26.958Z"
+    },
+    {
+      "id": "7994795003",
+      "title": "Senior Software Engineer, Backend (Consumer Authentication Platform) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7994795003",
+      "postedAt": "2026-09-23T15:55:30.000Z",
+      "key": "affirm:7994795003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T16:00:26.958Z"
+    },
+    {
+      "id": "8831610002",
+      "title": "Sr. HPC  Systems Engineer (High Performance Computing) ",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8831610002?gh_jid=8831610002",
+      "postedAt": "2026-09-23T15:54:16.000Z",
+      "key": "spacex:8831610002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T16:00:26.958Z"
+    },
+    {
+      "id": "8831452002",
+      "title": "Sr. High Performance Computing (HPC) Systems Engineer ",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8831452002?gh_jid=8831452002",
+      "postedAt": "2026-09-23T15:54:14.000Z",
+      "key": "spacex:8831452002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T16:00:26.958Z"
+    },
+    {
       "id": "R1001617",
       "title": "Machine Learning Engineer 4 - Intelligent Foundations and Experiences (IFX)",
       "location": "New York, NY",
@@ -5977,7 +6061,7 @@
     },
     {
       "id": "4715630006",
-      "title": "Senior Software Engineer (Repositories) ",
+      "title": "Senior Software Engineer (Repository)",
       "location": "United States - Remote",
       "team": null,
       "url": "https://job-boards.greenhouse.io/chainguard/jobs/4715630006",
