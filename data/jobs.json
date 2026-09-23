@@ -1,10 +1,14 @@
 {
-  "generatedAt": "2026-09-23T16:59:39.967Z",
+  "generatedAt": "2026-09-23T17:10:20.281Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "cerebras:78f1098a-6022-40ba-b7a0-948711921de2",
-    "pinterest:8226802"
+    "Capital One:R1001794",
+    "sierra:f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
+    "sierra:33dbd62f-8212-4ea8-9b59-74370c1f2803",
+    "sierra:7dae2e7c-6556-438c-bf60-509931d8188c",
+    "sierra:c729c633-0376-436e-8f2b-1501088b85b0",
+    "sierra:b9b9b5e0-7304-4265-aa71-d71d80d29402"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +17,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 27,
-    "experienced": 2227
+    "experienced": 2231
   },
   "companies": [
     {
@@ -1756,7 +1760,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4492,7 +4496,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4698,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 125,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5706,103 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001794",
+      "title": "Full-Stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4_R1001794-2",
+      "postedAt": "2026-09-23T17:10:23.332Z",
+      "key": "Capital One:R1001794",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:10:20.281Z"
+    },
+    {
+      "id": "b9b9b5e0-7304-4265-aa71-d71d80d29402",
+      "title": "Software Engineer, Agent - Insurance",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Agent Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/b9b9b5e0-7304-4265-aa71-d71d80d29402",
+      "postedAt": "2026-09-23T17:07:19.284Z",
+      "key": "sierra:b9b9b5e0-7304-4265-aa71-d71d80d29402",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:10:20.281Z"
+    },
+    {
+      "id": "c729c633-0376-436e-8f2b-1501088b85b0",
+      "title": "Software Engineer, Agent - Retail",
+      "location": "San Francisco, CA (+3 more)",
+      "team": "Agent Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/c729c633-0376-436e-8f2b-1501088b85b0",
+      "postedAt": "2026-09-23T17:06:32.307Z",
+      "key": "sierra:c729c633-0376-436e-8f2b-1501088b85b0",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T17:10:20.281Z"
+    },
+    {
+      "id": "7dae2e7c-6556-438c-bf60-509931d8188c",
+      "title": "Software Engineer, Agent - Public Sector",
+      "location": "San Francisco, CA (+1 more)",
+      "team": "Agent Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/7dae2e7c-6556-438c-bf60-509931d8188c",
+      "postedAt": "2026-09-23T17:06:01.317Z",
+      "key": "sierra:7dae2e7c-6556-438c-bf60-509931d8188c",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:10:20.281Z"
+    },
+    {
+      "id": "33dbd62f-8212-4ea8-9b59-74370c1f2803",
+      "title": "Software Engineer, Agent - Financial Services",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Agent Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803",
+      "postedAt": "2026-09-23T17:05:41.540Z",
+      "key": "sierra:33dbd62f-8212-4ea8-9b59-74370c1f2803",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:10:20.281Z"
+    },
+    {
+      "id": "f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
+      "title": "Software Engineer, Agent - Healthcare",
+      "location": "New York, NY",
+      "team": "Agent Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
+      "postedAt": "2026-09-23T17:05:12.660Z",
+      "key": "sierra:f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:10:20.281Z"
+    },
     {
       "id": "8226802",
       "title": "Staff Software Engineer, Programmatic Ads ",
@@ -11232,22 +11333,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Lead-Software-Engineer--Full-Stack_R1000480-1",
       "postedAt": "2026-09-21T15:10:24.733Z",
       "key": "Capital One:R1000480",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T15:10:21.064Z"
-    },
-    {
-      "id": "R999604",
-      "title": "Lead Software Engineer, Full Stack",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R999604-2",
-      "postedAt": "2026-09-21T15:10:24.733Z",
-      "key": "Capital One:R999604",
       "company": "Capital One",
       "level": "experienced",
       "term": null,
@@ -43594,22 +43679,6 @@
         "us"
       ],
       "firstSeen": "2026-08-24T18:15:52.400Z"
-    },
-    {
-      "id": "c66b30fc-9588-4699-85c1-2166b23b8778",
-      "title": "Software Engineer, Agent - Public Sector",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Agent Engineering",
-      "url": "https://jobs.ashbyhq.com/sierra/c66b30fc-9588-4699-85c1-2166b23b8778",
-      "postedAt": "2026-08-24T17:50:09.805Z",
-      "key": "sierra:c66b30fc-9588-4699-85c1-2166b23b8778",
-      "company": "Sierra",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T18:00:31.052Z"
     },
     {
       "id": "JR114680",
