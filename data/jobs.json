@@ -1,18 +1,22 @@
 {
-  "generatedAt": "2026-09-23T19:20:16.440Z",
+  "generatedAt": "2026-09-23T19:30:21.771Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "snowflake:dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd"
+    "fivetran:8003720003",
+    "fivetran:7980977003",
+    "fivetran:8003725003",
+    "waymo:8224746",
+    "waymo:8224729"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 139,
+    "intern": 141,
     "new-grad": 28,
-    "experienced": 2257
+    "experienced": 2259
   },
   "companies": [
     {
@@ -305,7 +309,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -1032,10 +1036,10 @@
     },
     {
       "name": "Cockroach Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Cognition",
@@ -1755,7 +1759,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1789,7 +1793,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5482,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5705,98 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8224729",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer",
+      "location": "Mountain View, California",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729",
+      "postedAt": "2026-09-23T19:28:59.000Z",
+      "key": "waymo:8224729",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:30:21.771Z"
+    },
+    {
+      "id": "8224746",
+      "title": "2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer ",
+      "location": "Mountain View, California",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+      "postedAt": "2026-09-23T19:28:48.000Z",
+      "key": "waymo:8224746",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:30:21.771Z"
+    },
+    {
+      "id": "8003725003",
+      "title": "Senior Software Engineer - Orchestration",
+      "location": "Oakland, California, United States",
+      "team": null,
+      "url": "https://www.fivetran.com/careers/job?gh_jid=8003725003",
+      "postedAt": "2026-09-23T19:20:14.000Z",
+      "key": "fivetran:8003725003",
+      "company": "Fivetran",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:30:21.771Z"
+    },
+    {
+      "id": "8003720003",
+      "title": "Senior Software Engineer - Orchestration",
+      "location": "Denver, Colorado, United States, AMER",
+      "team": null,
+      "url": "https://www.fivetran.com/careers/job?gh_jid=8003720003",
+      "postedAt": "2026-09-23T19:20:12.000Z",
+      "key": "fivetran:8003720003",
+      "company": "Fivetran",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:30:21.771Z"
+    },
+    {
+      "id": "7980977003",
+      "title": "Senior Software Engineer - Orchestration",
+      "location": "Ontario, Canada",
+      "team": null,
+      "url": "https://www.fivetran.com/careers/job?gh_jid=7980977003",
+      "postedAt": "2026-09-23T19:20:09.000Z",
+      "key": "fivetran:7980977003",
+      "company": "Fivetran",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T19:30:21.771Z"
+    },
     {
       "id": "dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd",
       "title": "Principal Software Engineer - Agentic Pipelines",
@@ -44076,22 +44172,6 @@
         "us"
       ],
       "firstSeen": "2026-08-24T19:37:13.099Z"
-    },
-    {
-      "id": "5400012008",
-      "title": "Staff + Sr. Software Engineer, Scaling",
-      "location": "New York City, NY; San Francisco, CA | Seattle, WA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400012008",
-      "postedAt": "2026-08-24T19:24:05.000Z",
-      "key": "anthropic:5400012008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T19:30:22.168Z"
     },
     {
       "id": "JR2015666",
