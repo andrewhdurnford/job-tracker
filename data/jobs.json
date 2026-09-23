@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-23T19:30:21.771Z",
+  "generatedAt": "2026-09-23T19:40:19.145Z",
   "bootstrap": false,
   "lastRunNewCount": 5,
   "newKeys": [
-    "fivetran:8003720003",
-    "fivetran:7980977003",
-    "fivetran:8003725003",
-    "waymo:8224746",
-    "waymo:8224729"
+    "bankjoy:1a65b1c8-41b2-4b7b-9df6-682daaf9d61f",
+    "Capital One:R1001843",
+    "figma:6178851004",
+    "ramp:2888b101-b1da-4e53-a02e-1bb9b1b5a951",
+    "sambanovasystems:6206856004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 141,
+    "intern": 142,
     "new-grad": 28,
-    "experienced": 2259
+    "experienced": 2262
   },
   "companies": [
     {
@@ -519,7 +519,7 @@
     {
       "name": "Bankjoy",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -792,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 159,
+      "jobCount": 160,
       "error": null,
       "stale": false
     },
@@ -1709,7 +1709,7 @@
     {
       "name": "Figma",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2165,7 +2165,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3229,7 +3229,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4040,7 +4040,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4334,7 +4334,7 @@
     {
       "name": "SambaNova Systems",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4663,7 +4663,7 @@
     {
       "name": "SoFi",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5035,7 +5035,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5705,6 +5705,91 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001843",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001843-1",
+      "postedAt": "2026-09-23T19:40:22.802Z",
+      "key": "Capital One:R1001843",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:40:19.145Z"
+    },
+    {
+      "id": "6206856004",
+      "title": "Senior Developer Advocate, AI Content & Community",
+      "location": "San Jose, California, United States",
+      "team": null,
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6206856004",
+      "postedAt": "2026-09-23T19:39:14.000Z",
+      "key": "sambanovasystems:6206856004",
+      "company": "SambaNova Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:40:19.145Z"
+    },
+    {
+      "id": "2888b101-b1da-4e53-a02e-1bb9b1b5a951",
+      "title": "Machine Learning Engineer",
+      "location": "New York, NY (HQ)",
+      "team": "Data",
+      "url": "https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951",
+      "postedAt": "2026-09-23T19:39:11.015Z",
+      "key": "ramp:2888b101-b1da-4e53-a02e-1bb9b1b5a951",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:40:19.145Z"
+    },
+    {
+      "id": "1a65b1c8-41b2-4b7b-9df6-682daaf9d61f",
+      "title": "Senior Software Engineer - Full Stack - .NET",
+      "location": "Canada (+1 more)",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/bankjoy/1a65b1c8-41b2-4b7b-9df6-682daaf9d61f",
+      "postedAt": "2026-09-23T19:31:11.445Z",
+      "key": "bankjoy:1a65b1c8-41b2-4b7b-9df6-682daaf9d61f",
+      "company": "Bankjoy",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T19:40:19.145Z"
+    },
+    {
+      "id": "6178851004",
+      "title": "Data Engineer Intern (2027)",
+      "location": "San Francisco, CA • New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+      "postedAt": "2026-09-23T19:30:27.000Z",
+      "key": "figma:6178851004",
+      "company": "Figma",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:40:19.145Z"
+    },
     {
       "id": "8224729",
       "title": "2027 Summer Intern, MS/PhD, Software Engineer",
@@ -44156,22 +44241,6 @@
         "us"
       ],
       "firstSeen": "2026-08-24T19:50:17.163Z"
-    },
-    {
-      "id": "7963969003",
-      "title": "Senior Engineering Manager-People Analytics",
-      "location": "United States",
-      "team": null,
-      "url": "https://sofi.com/careers/job/7963969003?gh_jid=7963969003",
-      "postedAt": "2026-08-24T19:33:29.000Z",
-      "key": "sofi:7963969003",
-      "company": "SoFi",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T19:37:13.099Z"
     },
     {
       "id": "JR2015666",
