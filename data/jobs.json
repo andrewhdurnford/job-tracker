@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-09-23T18:50:17.273Z",
+  "generatedAt": "2026-09-23T19:00:25.759Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 9,
   "newKeys": [
-    "modal:a518f2cd-e0c7-4105-9004-d7971f7b1daf"
+    "bankjoy:26449f3a-64c7-471c-a39a-d4ab40f21846",
+    "bankjoy:0c389137-0c97-45c0-bde8-61f2f3bf1205",
+    "bankjoy:9ebfec14-14b7-43d8-8496-29f3beeca7a2",
+    "boxinc:8186622",
+    "Capital One:R1001914",
+    "commure:04fc9c4e-7ff1-49ac-8f5d-b1b70a0567c8",
+    "sunday:bd525705-1430-4f45-adb2-888165d45aa6",
+    "Visa:REF088446W",
+    "Visa:REF088445W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +20,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 28,
-    "experienced": 2253
+    "experienced": 2258
   },
   "companies": [
     {
@@ -515,7 +523,7 @@
     {
       "name": "Bankjoy",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -676,7 +684,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1089,7 +1097,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1453,7 +1461,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3519,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 63,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4646,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4701,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 127,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4848,7 +4856,7 @@
     {
       "name": "Sunday",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5401,7 +5409,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5709,137 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088446W",
+      "title": "Software Engineer (Android / iOS)",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Software-Engineer--Android---iOS-_REF088446W",
+      "postedAt": "2026-09-23T19:00:29.370Z",
+      "key": "Visa:REF088446W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:00:25.759Z"
+    },
+    {
+      "id": "REF088445W",
+      "title": "Staff Software Engineer (Android / iOS)",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-Software-Engineer--Android---iOS-_REF088445W",
+      "postedAt": "2026-09-23T19:00:29.370Z",
+      "key": "Visa:REF088445W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:00:25.759Z"
+    },
+    {
+      "id": "R1001914",
+      "title": "Staff AI Engineer (Remote Eligible)",
+      "location": "6 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Staff-AI-Engineer--Remote-Eligible-_R1001914",
+      "postedAt": "2026-09-23T19:00:28.183Z",
+      "key": "Capital One:R1001914",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-23T19:00:25.759Z"
+    },
+    {
+      "id": "0c389137-0c97-45c0-bde8-61f2f3bf1205",
+      "title": "Senior iOS Engineer",
+      "location": "Canada (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/bankjoy/0c389137-0c97-45c0-bde8-61f2f3bf1205",
+      "postedAt": "2026-09-23T18:59:40.880Z",
+      "key": "bankjoy:0c389137-0c97-45c0-bde8-61f2f3bf1205",
+      "company": "Bankjoy",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T19:00:25.759Z"
+    },
+    {
+      "id": "04fc9c4e-7ff1-49ac-8f5d-b1b70a0567c8",
+      "title": "Senior Engineering Manager, Payments & Reconciliation",
+      "location": "Mountain View, CA (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/commure/04fc9c4e-7ff1-49ac-8f5d-b1b70a0567c8",
+      "postedAt": "2026-09-23T18:58:34.849Z",
+      "key": "commure:04fc9c4e-7ff1-49ac-8f5d-b1b70a0567c8",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:00:25.759Z"
+    },
+    {
+      "id": "9ebfec14-14b7-43d8-8496-29f3beeca7a2",
+      "title": "Senior Android Engineer",
+      "location": "Canada (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/bankjoy/9ebfec14-14b7-43d8-8496-29f3beeca7a2",
+      "postedAt": "2026-09-23T18:54:59.019Z",
+      "key": "bankjoy:9ebfec14-14b7-43d8-8496-29f3beeca7a2",
+      "company": "Bankjoy",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T19:00:25.759Z"
+    },
+    {
+      "id": "bd525705-1430-4f45-adb2-888165d45aa6",
+      "title": "Robotics Systems Software Integration Engineer",
+      "location": "Redwood City, CA",
+      "team": "Robotics",
+      "url": "https://jobs.ashbyhq.com/sunday/bd525705-1430-4f45-adb2-888165d45aa6",
+      "postedAt": "2026-09-23T18:54:26.278Z",
+      "key": "sunday:bd525705-1430-4f45-adb2-888165d45aa6",
+      "company": "Sunday",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:00:25.759Z"
+    },
+    {
+      "id": "26449f3a-64c7-471c-a39a-d4ab40f21846",
+      "title": "Lead Android Engineer",
+      "location": "Canada (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/bankjoy/26449f3a-64c7-471c-a39a-d4ab40f21846",
+      "postedAt": "2026-09-23T18:50:21.292Z",
+      "key": "bankjoy:26449f3a-64c7-471c-a39a-d4ab40f21846",
+      "company": "Bankjoy",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T19:00:25.759Z"
+    },
     {
       "id": "a518f2cd-e0c7-4105-9004-d7971f7b1daf",
       "title": "Analytics Engineer",
@@ -9304,22 +9443,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-Stack-Engineer-4---Mainframe-DB2-DBA_R1001438-1",
       "postedAt": "2026-09-22T14:30:24.281Z",
       "key": "Capital One:R1001438",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T14:30:21.472Z"
-    },
-    {
-      "id": "R1001443",
-      "title": "Full Stack Engineer 4 - Mainframe Engineer",
-      "location": "Riverwoods, IL",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-Stack-Engineer-4---Mainframe-Engineer_R1001443",
-      "postedAt": "2026-09-22T14:30:24.281Z",
-      "key": "Capital One:R1001443",
       "company": "Capital One",
       "level": "experienced",
       "term": null,
@@ -28769,6 +28892,22 @@
       "firstSeen": "2026-09-08T18:30:25.017Z"
     },
     {
+      "id": "8186622",
+      "title": "Software Engineer III, Network Platform",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8186622",
+      "postedAt": "2026-09-08T18:22:04.000Z",
+      "key": "boxinc:8186622",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:00:25.759Z"
+    },
+    {
       "id": "8773546002",
       "title": "Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)",
       "location": "Remote",
@@ -43978,54 +44117,6 @@
         "us"
       ],
       "firstSeen": "2026-08-29T00:10:16.707Z"
-    },
-    {
-      "id": "21ed6b75-331d-472d-a36c-48520377d3d3",
-      "title": "Engineering Manager - Cost Intelligence",
-      "location": "US-WA-Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/21ed6b75-331d-472d-a36c-48520377d3d3",
-      "postedAt": "2026-08-24T18:56:59.023Z",
-      "key": "snowflake:21ed6b75-331d-472d-a36c-48520377d3d3",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T19:00:17.653Z"
-    },
-    {
-      "id": "8154443",
-      "title": "Engineering Manager, Proactive Security - Platform",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8154443",
-      "postedAt": "2026-08-24T18:52:34.000Z",
-      "key": "doordashusa:8154443",
-      "company": "DoorDash",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T13:00:30.738Z"
-    },
-    {
-      "id": "9248eab6-74e0-4940-98eb-ca09b17da532",
-      "title": "Software Engineer, AI accelerator Runtime",
-      "location": "San Francisco",
-      "team": "Hardware",
-      "url": "https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532",
-      "postedAt": "2026-08-24T18:51:59.391Z",
-      "key": "openai:9248eab6-74e0-4940-98eb-ca09b17da532",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T19:00:17.653Z"
     },
     {
       "id": "JR2015666",
