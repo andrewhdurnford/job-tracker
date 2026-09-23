@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-23T16:30:20.636Z",
+  "generatedAt": "2026-09-23T16:40:16.115Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "waymo:8142863"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 27,
-    "experienced": 2228
+    "experienced": 2227
   },
   "companies": [
     {
@@ -2235,7 +2237,7 @@
     {
       "name": "Honeycomb",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 63,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 125,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4770,7 +4772,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5476,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8142863",
+      "title": "Staff Tech Lead, ML Data Infrastructure and Inference Platform ",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8142863",
+      "postedAt": "2026-09-23T16:38:41.000Z",
+      "key": "waymo:8142863",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T16:40:16.115Z"
+    },
     {
       "id": "8223367",
       "title": "Senior Platform Engineer, Growth Product Engineering",
@@ -25544,7 +25562,7 @@
     {
       "id": "a6f44fdc-093f-4db6-9f88-5181ec75f895",
       "title": "Mission Systems Software Engineer (R5888)",
-      "location": "Seattle, Washington (+1 more)",
+      "location": "Dallas, Texas (+1 more)",
       "team": "X-BAT Engineering - Software",
       "url": "https://jobs.lever.co/shieldai/a6f44fdc-093f-4db6-9f88-5181ec75f895",
       "postedAt": "2026-09-10T07:31:05.609Z",
@@ -43591,38 +43609,6 @@
         "us"
       ],
       "firstSeen": "2026-08-24T17:00:32.781Z"
-    },
-    {
-      "id": "ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
-      "title": "Software Engineer, Model Runtime",
-      "location": "San Francisco",
-      "team": "Hardware",
-      "url": "https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
-      "postedAt": "2026-08-24T16:34:31.338Z",
-      "key": "openai:ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T16:40:18.770Z"
-    },
-    {
-      "id": "5389580008",
-      "title": "Senior Software Engineer II - Storage",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5389580008",
-      "postedAt": "2026-08-24T16:30:23.000Z",
-      "key": "honeycomb:5389580008",
-      "company": "Honeycomb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T16:40:18.770Z"
     },
     {
       "id": "JR114680",
