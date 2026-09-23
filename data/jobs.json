@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-23T16:50:26.121Z",
+  "generatedAt": "2026-09-23T16:59:39.967Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "cerebras:78f1098a-6022-40ba-b7a0-948711921de2",
+    "pinterest:8226802"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1667,10 +1670,10 @@
     },
     {
       "name": "Faire",
-      "ok": false,
+      "ok": true,
       "jobCount": 9,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "FamPay",
@@ -3754,7 +3757,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4272,7 +4275,7 @@
     {
       "name": "Rowspace",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8226802",
+      "title": "Staff Software Engineer, Programmatic Ads ",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8226802",
+      "postedAt": "2026-09-23T16:57:31.000Z",
+      "key": "pinterest:8226802",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T16:59:39.967Z"
+    },
+    {
+      "id": "78f1098a-6022-40ba-b7a0-948711921de2",
+      "title": "Staff Software Engineer, Inference API",
+      "location": "Toronto, CAN",
+      "team": "Inference Service",
+      "url": "https://jobs.ashbyhq.com/cerebras/78f1098a-6022-40ba-b7a0-948711921de2",
+      "postedAt": "2026-09-23T16:51:14.897Z",
+      "key": "cerebras:78f1098a-6022-40ba-b7a0-948711921de2",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T16:59:39.967Z"
+    },
     {
       "id": "8142863",
       "title": "Staff Tech Lead, ML Data Infrastructure and Inference Platform ",
@@ -9447,22 +9482,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-21T23:40:19.499Z"
-    },
-    {
-      "id": "17a6a5e1-a2a7-4f77-8ff5-38884736838e",
-      "title": "Staff Software Engineer, Inference API",
-      "location": "Toronto, CAN",
-      "team": "Inference Service",
-      "url": "https://jobs.ashbyhq.com/cerebras/17a6a5e1-a2a7-4f77-8ff5-38884736838e",
-      "postedAt": "2026-09-21T23:21:09.775Z",
-      "key": "cerebras:17a6a5e1-a2a7-4f77-8ff5-38884736838e",
-      "company": "Cerebras Systems",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-21T23:30:40.126Z"
     },
     {
       "id": "4715303006",
@@ -18462,7 +18481,7 @@
     {
       "id": "ee3ce7ed-3e21-4254-b6f0-9c0fd21f3ffc",
       "title": "Forward Deployed Engineer",
-      "location": "New Jersey, United States",
+      "location": "North Dakota, United State",
       "team": "Field Engineering",
       "url": "https://jobs.ashbyhq.com/kong/ee3ce7ed-3e21-4254-b6f0-9c0fd21f3ffc",
       "postedAt": "2026-09-16T00:59:44.640Z",
@@ -43591,22 +43610,6 @@
         "us"
       ],
       "firstSeen": "2026-08-24T18:00:31.052Z"
-    },
-    {
-      "id": "b9ed5e99-c920-46a4-913f-906015718301",
-      "title": "Corporate IT and Security Engineer",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/rowspace/b9ed5e99-c920-46a4-913f-906015718301",
-      "postedAt": "2026-08-24T16:58:06.855Z",
-      "key": "rowspace:b9ed5e99-c920-46a4-913f-906015718301",
-      "company": "Rowspace",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T17:00:32.781Z"
     },
     {
       "id": "JR114680",
