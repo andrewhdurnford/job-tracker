@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-09-23T20:40:16.840Z",
+  "generatedAt": "2026-09-23T20:50:26.211Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "adyen:8068230",
-    "braze:8220764",
-    "Nvidia:JR2026387",
-    "toast:8221127",
-    "toast:8221107"
+    "mystenlabs:cd2d17ec-46a7-4f25-a5fe-aa9c51ff11b1",
+    "Nvidia:JR2016032"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +13,7 @@
   "levelCounts": {
     "intern": 143,
     "new-grad": 29,
-    "experienced": 2272
+    "experienced": 2270
   },
   "companies": [
     {
@@ -309,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -1058,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -1759,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2067,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3186,7 +3183,7 @@
     {
       "name": "Mysten Labs",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 127,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5328,7 +5325,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2016032",
+      "title": "Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
+      "postedAt": "2026-09-23T20:50:30.221Z",
+      "key": "Nvidia:JR2016032",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T20:50:26.211Z"
+    },
+    {
+      "id": "cd2d17ec-46a7-4f25-a5fe-aa9c51ff11b1",
+      "title": "Senior Security Engineer, DeFi",
+      "location": "USA (Remote) (+1 more)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/mystenlabs/cd2d17ec-46a7-4f25-a5fe-aa9c51ff11b1",
+      "postedAt": "2026-09-23T20:40:49.786Z",
+      "key": "mystenlabs:cd2d17ec-46a7-4f25-a5fe-aa9c51ff11b1",
+      "company": "Mysten Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T20:50:26.211Z"
+    },
     {
       "id": "JR2026387",
       "title": "Security Architect - New College Grad 2026",
@@ -22762,22 +22792,6 @@
       "firstSeen": "2026-09-14T16:30:26.441Z"
     },
     {
-      "id": "8197831",
-      "title": "Staff Software Engineer- Wallets, Liquidity & Bridging",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8197831?gh_jid=8197831",
-      "postedAt": "2026-09-14T16:12:46.000Z",
-      "key": "coinbase:8197831",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-14T16:20:17.181Z"
-    },
-    {
       "id": "8193731",
       "title": "2027 Summer Intern, BS/MS, Software Engineer",
       "location": "San Francisco, California",
@@ -38278,22 +38292,6 @@
       "firstSeen": "2026-08-30T04:00:25.442Z"
     },
     {
-      "id": "JR2001991",
-      "title": "Technical Lead, GenAI - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Technical-Product-Manager--GenAI---Autonomous-Vehicles_JR2001991",
-      "postedAt": "2026-08-30T03:41:32.955Z",
-      "key": "Nvidia:JR2001991",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-30T03:40:17.332Z"
-    },
-    {
       "id": "JR2001988",
       "title": "Senior Developer Relationship Manager - Autonomous Vehicles",
       "location": "US, CA, Santa Clara",
@@ -44420,38 +44418,6 @@
         "us"
       ],
       "firstSeen": "2026-08-24T20:56:05.954Z"
-    },
-    {
-      "id": "87d75493-1d6e-490e-b5ac-d807f5fb5621",
-      "title": "Staff Software Engineer, Foundations Data Platform",
-      "location": "Remote U.S.",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/87d75493-1d6e-490e-b5ac-d807f5fb5621",
-      "postedAt": "2026-08-24T20:47:38.879Z",
-      "key": "vanta:87d75493-1d6e-490e-b5ac-d807f5fb5621",
-      "company": "Vanta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T20:50:20.552Z"
-    },
-    {
-      "id": "5400153008",
-      "title": "Software Engineer, Business Technology",
-      "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400153008",
-      "postedAt": "2026-08-24T20:45:36.000Z",
-      "key": "anthropic:5400153008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T20:50:20.552Z"
     },
     {
       "id": "JR2015666",
