@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T23:20:19.068Z",
+  "generatedAt": "2026-09-23T23:30:18.390Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 29,
-    "experienced": 2271
+    "experienced": 2268
   },
   "companies": [
     {
@@ -562,7 +562,7 @@
     {
       "name": "Bill.com",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3410,10 +3410,10 @@
     },
     {
       "name": "Nuro",
-      "ok": true,
+      "ok": false,
       "jobCount": 14,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "NUVACORE",
@@ -4692,7 +4692,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 129,
+      "jobCount": 128,
       "error": null,
       "stale": false
     },
@@ -5476,7 +5476,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -12273,22 +12273,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T19:20:24.080Z"
-    },
-    {
-      "id": "6202740004",
-      "title": "Staff Software Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://www.bill.com/job?6202740004&gh_jid=6202740004",
-      "postedAt": "2026-09-21T17:36:47.000Z",
-      "key": "billcom:6202740004",
-      "company": "Bill.com",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T23:50:18.990Z"
     },
     {
       "id": "8220863",
@@ -44445,38 +44429,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T00:00:26.567Z"
-    },
-    {
-      "id": "8743394002",
-      "title": "Sr. Automation & Controls Engineer, Infrastructure & Utility (Starship)",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8743394002?gh_jid=8743394002",
-      "postedAt": "2026-08-24T23:27:52.000Z",
-      "key": "spacex:8743394002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T23:30:24.268Z"
-    },
-    {
-      "id": "8140089",
-      "title": "Principal Software Engineer, Post Training",
-      "location": "Mountain View, CA. USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8140089",
-      "postedAt": "2026-08-24T23:25:01.000Z",
-      "key": "waymo:8140089",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T23:30:24.268Z"
     },
     {
       "id": "JR2020745",
