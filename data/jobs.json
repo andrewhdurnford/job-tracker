@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-23T13:20:31.995Z",
+  "generatedAt": "2026-09-23T13:30:18.334Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "shieldai:57461bb3-9853-43d3-b2aa-f4b9e637fd41"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 27,
-    "experienced": 2210
+    "experienced": 2209
   },
   "companies": [
     {
@@ -65,7 +67,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 73,
+      "jobCount": 72,
       "error": null,
       "stale": false
     },
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 152,
+      "jobCount": 151,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4468,7 +4470,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "57461bb3-9853-43d3-b2aa-f4b9e637fd41",
+      "title": "Staff Application Security Engineer",
+      "location": "Remote",
+      "team": "Cybersecurity",
+      "url": "https://jobs.lever.co/shieldai/57461bb3-9853-43d3-b2aa-f4b9e637fd41",
+      "postedAt": "2026-09-23T13:25:56.307Z",
+      "key": "shieldai:57461bb3-9853-43d3-b2aa-f4b9e637fd41",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-09-23T13:30:18.334Z"
+    },
     {
       "id": "30395",
       "title": "Senior Software Engineer",
@@ -13414,22 +13433,6 @@
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R171675-1",
       "postedAt": "2026-09-18T08:10:27.301Z",
       "key": "Adobe:R171675",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
-      "id": "R171624",
-      "title": "Staff Product Security Engineer",
-      "location": "New York",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Staff-Product-Security-Engineer_R171624",
-      "postedAt": "2026-09-18T08:10:27.301Z",
-      "key": "Adobe:R171624",
       "company": "Adobe",
       "level": "experienced",
       "term": null,
@@ -41050,22 +41053,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T03:30:23.034Z"
-    },
-    {
-      "id": "R999094",
-      "title": "Lead Software Engineer, Back End",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Back-End_R999094-2",
-      "postedAt": "2026-08-26T02:20:20.116Z",
-      "key": "Capital One:R999094",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T02:20:16.862Z"
     },
     {
       "id": "2ba8accd-e97e-49b3-aa3f-1f2f2ad09c04",
