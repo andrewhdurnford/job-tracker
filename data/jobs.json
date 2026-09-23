@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T19:10:18.748Z",
+  "generatedAt": "2026-09-23T19:20:16.440Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1001163"
+    "snowflake:dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,13 +12,13 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 28,
-    "experienced": 2258
+    "experienced": 2257
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1032,10 +1032,10 @@
     },
     {
       "name": "Cockroach Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Cognition",
@@ -1755,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4638,7 +4638,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd",
+      "title": "Principal Software Engineer - Agentic Pipelines",
+      "location": "US-WA-Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd",
+      "postedAt": "2026-09-23T19:14:09.827Z",
+      "key": "snowflake:dd0b29a3-6bc8-4d6c-8fa6-79da445c70bd",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T19:20:16.440Z"
+    },
     {
       "id": "R1001163",
       "title": "Full Stack Engineer 4 - MLOps",
@@ -44076,39 +44092,6 @@
         "us"
       ],
       "firstSeen": "2026-08-24T19:30:22.168Z"
-    },
-    {
-      "id": "c6933be3-80a6-41f0-8e37-e70f72cae134",
-      "title": "Senior .NET Developer, SaaS Manager",
-      "location": "Remote (United States | Canada)",
-      "team": "Product Engineering",
-      "url": "https://jobs.ashbyhq.com/1password/c6933be3-80a6-41f0-8e37-e70f72cae134",
-      "postedAt": "2026-08-24T19:16:45.211Z",
-      "key": "1password:c6933be3-80a6-41f0-8e37-e70f72cae134",
-      "company": "1Password",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-24T19:20:18.827Z"
-    },
-    {
-      "id": "8152556",
-      "title": "Staff ML Engineer, Foundation Models",
-      "location": "Mountain View, CA, USA ",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8152556",
-      "postedAt": "2026-08-24T19:15:00.000Z",
-      "key": "waymo:8152556",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-29T00:10:16.707Z"
     },
     {
       "id": "JR2015666",
