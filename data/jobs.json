@@ -1,11 +1,16 @@
 {
-  "generatedAt": "2026-09-23T17:20:20.674Z",
+  "generatedAt": "2026-09-23T17:30:22.096Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 8,
   "newKeys": [
-    "anthropic:5382518008",
-    "sierra:d2dc9baf-30d4-4708-9227-62a946b4b37e",
-    "sierra:fd5df98a-e2c8-4d47-a803-daee5cccb36f"
+    "ambiencehealthcare:167c30e8-25ee-475a-88ef-d1cb15fc4d76",
+    "braze:8226919",
+    "braze:8226604",
+    "braze:8226920",
+    "braze:8226922",
+    "braze:8226918",
+    "natera:6187834004",
+    "robinhood:8224564"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +19,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 27,
-    "experienced": 2234
+    "experienced": 2242
   },
   "companies": [
     {
@@ -216,7 +221,7 @@
     {
       "name": "Ambience Healthcare",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -692,7 +697,7 @@
     {
       "name": "Braze",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -1757,7 +1762,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2065,7 +2070,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2163,7 +2168,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3247,7 +3252,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4234,7 +4239,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5708,134 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8224564",
+      "title": "Manager of Data Engineering",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8224564?t=gh_src=&gh_jid=8224564",
+      "postedAt": "2026-09-23T17:29:45.000Z",
+      "key": "robinhood:8224564",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T17:30:22.096Z"
+    },
+    {
+      "id": "6187834004",
+      "title": "Senior Software Engineer, AI Governance",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6187834004",
+      "postedAt": "2026-09-23T17:28:55.000Z",
+      "key": "natera:6187834004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:30:22.096Z"
+    },
+    {
+      "id": "167c30e8-25ee-475a-88ef-d1cb15fc4d76",
+      "title": "Senior Software Engineer, Product",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ambiencehealthcare/167c30e8-25ee-475a-88ef-d1cb15fc4d76",
+      "postedAt": "2026-09-23T17:25:59.251Z",
+      "key": "ambiencehealthcare:167c30e8-25ee-475a-88ef-d1cb15fc4d76",
+      "company": "Ambience Healthcare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:30:22.096Z"
+    },
+    {
+      "id": "8226922",
+      "title": "Senior Software Engineer I",
+      "location": "Toronto",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8226922",
+      "postedAt": "2026-09-23T17:20:47.000Z",
+      "key": "braze:8226922",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-23T17:30:22.096Z"
+    },
+    {
+      "id": "8226920",
+      "title": "Senior Software Engineer I",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8226920",
+      "postedAt": "2026-09-23T17:20:45.000Z",
+      "key": "braze:8226920",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:30:22.096Z"
+    },
+    {
+      "id": "8226919",
+      "title": "Senior Software Engineer I",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8226919",
+      "postedAt": "2026-09-23T17:20:43.000Z",
+      "key": "braze:8226919",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:30:22.096Z"
+    },
+    {
+      "id": "8226918",
+      "title": "Senior Software Engineer I",
+      "location": "Austin",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8226918",
+      "postedAt": "2026-09-23T17:20:42.000Z",
+      "key": "braze:8226918",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:30:22.096Z"
+    },
+    {
+      "id": "8226604",
+      "title": "Senior Software Engineer I",
+      "location": "New York City",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8226604",
+      "postedAt": "2026-09-23T17:20:40.000Z",
+      "key": "braze:8226604",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:30:22.096Z"
+    },
     {
       "id": "5382518008",
       "title": "Applied AI Architect, Public Sector ",
