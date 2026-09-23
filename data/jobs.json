@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-09-23T04:00:25.278Z",
+  "generatedAt": "2026-09-23T04:10:19.132Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "astranis:4705629006",
-    "astranis:4705626006",
-    "Nvidia:JR2026405",
-    "Nvidia:JR2026393"
+    "Nvidia:JR2026206"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 27,
-    "experienced": 2202
+    "experienced": 2203
   },
   "companies": [
     {
@@ -3430,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 162,
+      "jobCount": 163,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 119,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026206",
+      "title": "Senior Firmware Verification Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Verification-Engineer_JR2026206",
+      "postedAt": "2026-09-23T04:10:22.936Z",
+      "key": "Nvidia:JR2026206",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T04:10:19.132Z"
+    },
     {
       "id": "JR2026405",
       "title": "Senior System Software Engineer - GPU Power and Performance Management",
