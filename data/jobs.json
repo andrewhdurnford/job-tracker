@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-09-23T00:00:28.687Z",
+  "generatedAt": "2026-09-23T00:10:19.946Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Nvidia:JR2021102"
+    "marianaminerals:356d39f8-7fa4-440e-a04e-c70705c322db",
+    "waymo:8214350"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 136,
+    "intern": 137,
     "new-grad": 27,
-    "experienced": 2200
+    "experienced": 2201
   },
   "companies": [
     {
@@ -290,10 +291,10 @@
     },
     {
       "name": "Ansa Biotechnologies",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Anterior",
@@ -2888,7 +2889,7 @@
     {
       "name": "Mariana Minerals",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "356d39f8-7fa4-440e-a04e-c70705c322db",
+      "title": "Sr. Data Scientist ",
+      "location": "San Francisco HQ (+2 more)",
+      "team": "Software Development",
+      "url": "https://jobs.ashbyhq.com/marianaminerals/356d39f8-7fa4-440e-a04e-c70705c322db",
+      "postedAt": "2026-09-23T00:05:14.509Z",
+      "key": "marianaminerals:356d39f8-7fa4-440e-a04e-c70705c322db",
+      "company": "Mariana Minerals",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T00:10:19.946Z"
+    },
+    {
+      "id": "8214350",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
+      "postedAt": "2026-09-23T00:04:03.000Z",
+      "key": "waymo:8214350",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T00:10:19.946Z"
+    },
     {
       "id": "JR2021102",
       "title": "Senior System Software Engineer - AV Platform",
