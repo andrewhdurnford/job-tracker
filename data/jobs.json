@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-09-23T17:40:17.211Z",
+  "generatedAt": "2026-09-23T17:50:17.927Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "commure:259988fe-0389-461f-823c-36d81840d465",
-    "commure:ab427dd6-e14e-47a8-8f2d-d445b4bc1ec2",
-    "commure:0e3440aa-4ddc-4a43-b4c3-804e60a1b2ff",
-    "openai:d4cd5172-d4bc-4f9e-956e-c6bcaef1c355",
-    "openai:b3fcdad3-abcb-4612-8fd9-a69e17210f0f"
+    "spacex:8838385002",
+    "Visa:REF088661W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +13,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 27,
-    "experienced": 2247
+    "experienced": 2248
   },
   "companies": [
     {
@@ -3206,10 +3203,10 @@
     },
     {
       "name": "Nabis",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nabla Bio",
@@ -3229,7 +3226,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3760,7 +3757,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4698,7 +4695,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 125,
+      "jobCount": 126,
       "error": null,
       "stale": false
     },
@@ -5405,7 +5402,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088661W",
+      "title": "Full Stack Senior Consultant/ Software Engineer, Generative AI",
+      "location": "US - Bellevue, WA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Full-Stack-Senior-Consultant--Software-Engineer--Generative-AI_REF088661W",
+      "postedAt": "2026-09-23T17:50:21.685Z",
+      "key": "Visa:REF088661W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:50:17.927Z"
+    },
+    {
+      "id": "8838385002",
+      "title": "Project Controls Engineer, Starship Infrastructure",
+      "location": "Cape Canaveral, FL",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8838385002?gh_jid=8838385002",
+      "postedAt": "2026-09-23T17:47:57.000Z",
+      "key": "spacex:8838385002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:50:17.927Z"
+    },
     {
       "id": "d4cd5172-d4bc-4f9e-956e-c6bcaef1c355",
       "title": "Full Stack Staff+ Software Engineer, Consumer Monetization",
@@ -38453,7 +38482,7 @@
     },
     {
       "id": "8143511",
-      "title": "Senior Engineering Manager",
+      "title": "Senior Engineering Manager - Fintech",
       "location": "Austin, TX (+1 more)",
       "team": "Engineering",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8143511?gh_jid=8143511",
@@ -42014,22 +42043,6 @@
       "postedAt": "2026-08-25T23:38:55.348Z",
       "key": "harvey:504ba806-2e23-47f4-887f-b4aa777faae5",
       "company": "Harvey",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T23:40:16.304Z"
-    },
-    {
-      "id": "7494956",
-      "title": "Sr. Staff Software Engineer, Big Data Platform",
-      "location": "Palo Alto; Seattle, WA; New York, NY; San Francisco, CA, US; Remote, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494956",
-      "postedAt": "2026-08-25T23:38:08.000Z",
-      "key": "pinterest:7494956",
-      "company": "Pinterest",
       "level": "experienced",
       "term": null,
       "regions": [
