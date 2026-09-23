@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-09-23T17:10:20.281Z",
+  "generatedAt": "2026-09-23T17:20:20.674Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1001794",
-    "sierra:f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
-    "sierra:33dbd62f-8212-4ea8-9b59-74370c1f2803",
-    "sierra:7dae2e7c-6556-438c-bf60-509931d8188c",
-    "sierra:c729c633-0376-436e-8f2b-1501088b85b0",
-    "sierra:b9b9b5e0-7304-4265-aa71-d71d80d29402"
+    "anthropic:5382518008",
+    "sierra:d2dc9baf-30d4-4708-9227-62a946b4b37e",
+    "sierra:fd5df98a-e2c8-4d47-a803-daee5cccb36f"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +14,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 27,
-    "experienced": 2231
+    "experienced": 2234
   },
   "companies": [
     {
@@ -310,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -1760,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4496,7 +4493,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4698,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 125,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5707,6 +5704,22 @@
   ],
   "jobs": [
     {
+      "id": "5382518008",
+      "title": "Applied AI Architect, Public Sector ",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+      "postedAt": "2026-09-23T17:17:43.000Z",
+      "key": "anthropic:5382518008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:20:20.674Z"
+    },
+    {
       "id": "R1001794",
       "title": "Full-Stack Engineer 4",
       "location": "McLean, VA",
@@ -5721,6 +5734,38 @@
         "us"
       ],
       "firstSeen": "2026-09-23T17:10:20.281Z"
+    },
+    {
+      "id": "fd5df98a-e2c8-4d47-a803-daee5cccb36f",
+      "title": "Software Engineer, Agent - Tech, Media & Telecom",
+      "location": "San Francisco, CA (+1 more)",
+      "team": "Agent Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f",
+      "postedAt": "2026-09-23T17:08:47.244Z",
+      "key": "sierra:fd5df98a-e2c8-4d47-a803-daee5cccb36f",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:20:20.674Z"
+    },
+    {
+      "id": "d2dc9baf-30d4-4708-9227-62a946b4b37e",
+      "title": "Software Engineer, Agent - Travel & Hospitality",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Agent Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e",
+      "postedAt": "2026-09-23T17:08:27.771Z",
+      "key": "sierra:d2dc9baf-30d4-4708-9227-62a946b4b37e",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-23T17:20:20.674Z"
     },
     {
       "id": "b9b9b5e0-7304-4265-aa71-d71d80d29402",
