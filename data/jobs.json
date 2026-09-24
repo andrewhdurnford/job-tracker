@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-09-24T16:50:17.000Z",
+  "generatedAt": "2026-09-24T17:00:24.289Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R1001718",
-    "Capital One:R1001708",
-    "physicalintelligence:86237337-963a-4e0e-bcf7-82d366e5f0fc"
+    "okta:8186804",
+    "smartsheet:8230517",
+    "stripe:8230952",
+    "thinkingmachines:a5559c53-7085-45ff-8a0f-5e47b5e822bc"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 29,
-    "experienced": 2289
+    "experienced": 2291
   },
   "companies": [
     {
@@ -68,10 +69,10 @@
     },
     {
       "name": "Adobe",
-      "ok": true,
+      "ok": false,
       "jobCount": 74,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Adyen",
@@ -1525,7 +1526,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -3471,7 +3472,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4598,7 +4599,7 @@
     {
       "name": "Smartsheet",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4696,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 127,
+      "jobCount": 126,
       "error": null,
       "stale": false
     },
@@ -4801,7 +4802,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5067,7 +5068,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8230517",
+      "title": "Senior Software Engineer I (Observability Platform)",
+      "location": "-REMOTE, USA-",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8230517",
+      "postedAt": "2026-09-24T16:55:39.000Z",
+      "key": "smartsheet:8230517",
+      "company": "Smartsheet",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:00:24.289Z"
+    },
+    {
+      "id": "a5559c53-7085-45ff-8a0f-5e47b5e822bc",
+      "title": "Web Crawling - Research Engineer",
+      "location": "San Francisco",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/a5559c53-7085-45ff-8a0f-5e47b5e822bc",
+      "postedAt": "2026-09-24T16:55:05.812Z",
+      "key": "thinkingmachines:a5559c53-7085-45ff-8a0f-5e47b5e822bc",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:00:24.289Z"
+    },
+    {
+      "id": "8230952",
+      "title": "Senior Software Engineer, Backend",
+      "location": "Seattle, WA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8230952",
+      "postedAt": "2026-09-24T16:53:45.000Z",
+      "key": "stripe:8230952",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:00:24.289Z"
+    },
+    {
+      "id": "8186804",
+      "title": "Senior Software Engineer, Fullstack",
+      "location": "Toronto, Ontario, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8186804?gh_jid=8186804",
+      "postedAt": "2026-09-24T16:51:08.000Z",
+      "key": "okta:8186804",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-24T17:00:24.289Z"
+    },
     {
       "id": "R1001718",
       "title": "Full-stack Engineer 4",
@@ -38263,7 +38328,7 @@
     {
       "id": "43eb663b-2624-4d3c-bc79-25c93a94adec",
       "title": "Senior Software Engineer I - Platform Enablement ",
-      "location": "Remote - US & Canada",
+      "location": "Remote - Canada Only",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/wrapbook/43eb663b-2624-4d3c-bc79-25c93a94adec",
       "postedAt": "2026-08-31T18:44:55.389Z",
@@ -38272,7 +38337,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "canada"
       ],
       "firstSeen": "2026-08-31T18:50:21.293Z"
     },
@@ -44719,38 +44784,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T17:10:20.575Z"
-    },
-    {
-      "id": "8746439002",
-      "title": "Full Stack Software Engineer, Data Platform (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002",
-      "postedAt": "2026-08-25T16:56:56.000Z",
-      "key": "spacex:8746439002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T17:10:20.575Z"
-    },
-    {
-      "id": "8138060",
-      "title": "Lead Salesforce Full Stack Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8138060&gh_jid=8138060",
-      "postedAt": "2026-08-25T16:53:07.000Z",
-      "key": "elastic:8138060",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T17:00:25.349Z"
     },
     {
       "id": "REF083345W",
