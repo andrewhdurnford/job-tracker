@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-09-24T16:10:18.606Z",
+  "generatedAt": "2026-09-24T16:20:18.757Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R1002021",
-    "coupang:8180333",
-    "shieldai:86b55811-f0b1-4c7b-886e-71a9906b2d51"
+    "coinbase:8193862",
+    "factory:a6386a06-e9b4-4c0c-95c4-0d5a845c8d4e",
+    "spacex:8834054002",
+    "spacex:8833870002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -202,7 +203,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -307,7 +308,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -741,7 +742,7 @@
     {
       "name": "Cambio",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1056,7 +1057,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -1665,7 +1666,7 @@
     {
       "name": "Factory",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3850,7 +3851,7 @@
       "name": "Postman",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4136,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 125,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 127,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5704,6 +5705,38 @@
   ],
   "jobs": [
     {
+      "id": "a6386a06-e9b4-4c0c-95c4-0d5a845c8d4e",
+      "title": "Head of Developer Relations",
+      "location": "United States",
+      "team": "GTM",
+      "url": "https://jobs.ashbyhq.com/factory/a6386a06-e9b4-4c0c-95c4-0d5a845c8d4e",
+      "postedAt": "2026-09-24T16:17:16.200Z",
+      "key": "factory:a6386a06-e9b4-4c0c-95c4-0d5a845c8d4e",
+      "company": "Factory",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T16:20:18.757Z"
+    },
+    {
+      "id": "8833870002",
+      "title": "Reliability Engineer",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8833870002?gh_jid=8833870002",
+      "postedAt": "2026-09-24T16:10:46.000Z",
+      "key": "spacex:8833870002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T16:20:18.757Z"
+    },
+    {
       "id": "R1002021",
       "title": "Senior Manager, Full-stack Engineer (PL)-Risk Tech",
       "location": "New York, NY",
@@ -5734,6 +5767,22 @@
         "us"
       ],
       "firstSeen": "2026-09-24T16:10:18.606Z"
+    },
+    {
+      "id": "8834054002",
+      "title": "EEE Component Reliability Engineer",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8834054002?gh_jid=8834054002",
+      "postedAt": "2026-09-24T16:09:56.000Z",
+      "key": "spacex:8834054002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T16:20:18.757Z"
     },
     {
       "id": "8180333",
@@ -26598,6 +26647,22 @@
       "firstSeen": "2026-09-11T01:20:52.860Z"
     },
     {
+      "id": "8193862",
+      "title": "Senior Software Engineer, Backend (Institutional - ",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8193862?gh_jid=8193862",
+      "postedAt": "2026-09-11T00:20:55.000Z",
+      "key": "coinbase:8193862",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T16:20:18.757Z"
+    },
+    {
       "id": "8194328",
       "title": "Senior Software Engineer, Product Velocity",
       "location": "Seattle, WA",
@@ -39639,22 +39704,6 @@
       "firstSeen": "2026-08-28T22:50:17.838Z"
     },
     {
-      "id": "R_106388",
-      "title": "Fullstack Software Development Engineer II, High Value Send",
-      "location": "Seattle, Washington United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Fullstack-Software-Development-Engineer-II--USA-Regional-Experiences_R_106388",
-      "postedAt": "2026-08-28T22:50:21.820Z",
-      "key": "Remitly:R_106388",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T22:50:17.838Z"
-    },
-    {
       "id": "4728911005",
       "title": "Senior Software Engineer, Inference",
       "location": "North America",
@@ -44401,22 +44450,6 @@
       "firstSeen": "2026-08-25T18:00:25.573Z"
     },
     {
-      "id": "5387754008",
-      "title": "Manager, Applied AI Architect, Enterprise Tech",
-      "location": "San Francisco, CA | New York City, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387754008",
-      "postedAt": "2026-08-25T17:38:58.000Z",
-      "key": "anthropic:5387754008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T17:40:20.139Z"
-    },
-    {
       "id": "8155463",
       "title": "Software Engineer, R2 Gateway",
       "location": "Austin, TX (+1 more)",
@@ -44575,38 +44608,6 @@
         "us"
       ],
       "firstSeen": "2026-09-04T19:10:17.697Z"
-    },
-    {
-      "id": "6533655d-d73d-48cf-9e69-e3380954a66b",
-      "title": "AI Engineer",
-      "location": "Waterloo (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/cambio/6533655d-d73d-48cf-9e69-e3380954a66b",
-      "postedAt": "2026-08-25T16:19:36.980Z",
-      "key": "cambio:6533655d-d73d-48cf-9e69-e3380954a66b",
-      "company": "Cambio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-25T16:20:19.856Z"
-    },
-    {
-      "id": "6161010004",
-      "title": "Senior Software Engineer New Markets - EU",
-      "location": "Remote - Americas",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6161010004",
-      "postedAt": "2026-08-25T16:15:16.000Z",
-      "key": "alpaca:6161010004",
-      "company": "Alpaca",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-25T16:20:19.856Z"
     },
     {
       "id": "60dbe8f9-4b0f-4edf-818d-f069d9323171",
