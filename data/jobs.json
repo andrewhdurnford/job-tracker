@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-24T01:00:27.454Z",
+  "generatedAt": "2026-09-24T01:10:18.883Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8"
+    "ramp:b66be397-240b-41a6-9b05-493299b270a9"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 148,
+    "intern": 149,
     "new-grad": 29,
-    "experienced": 2266
+    "experienced": 2265
   },
   "companies": [
     {
@@ -985,7 +985,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4036,7 +4036,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 127,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4799,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "b66be397-240b-41a6-9b05-493299b270a9",
+      "title": "Software Engineering Intern, iOS",
+      "location": "New York, NY (HQ)",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+      "postedAt": "2026-09-24T01:01:49.394Z",
+      "key": "ramp:b66be397-240b-41a6-9b05-493299b270a9",
+      "company": "Ramp",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T01:10:18.883Z"
+    },
     {
       "id": "fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
       "title": "Software Engineering Intern, Android",
@@ -44383,22 +44399,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T01:50:21.407Z"
-    },
-    {
-      "id": "8148653",
-      "title": "Staff Machine Learning Engineer, Financial Connections",
-      "location": "New York",
-      "team": "8560 Bank Connections - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8148653",
-      "postedAt": "2026-08-25T01:06:11.000Z",
-      "key": "stripe:8148653",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T01:10:18.223Z"
     },
     {
       "id": "R_106796",
