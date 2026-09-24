@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-24T18:40:19.500Z",
+  "generatedAt": "2026-09-24T18:50:16.442Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1001936"
+    "snowflake:c03acc32-f60b-40de-9838-e954d3f419b9",
+    "wizinc:4711762006"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 29,
-    "experienced": 2299
+    "experienced": 2295
   },
   "companies": [
     {
@@ -550,7 +551,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2489,7 +2490,7 @@
     {
       "name": "JFrog",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4106,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 127,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4799,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5541,7 +5542,7 @@
     {
       "name": "Wiz",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5688,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "c03acc32-f60b-40de-9838-e954d3f419b9",
+      "title": "SENIOR SOFTWARE ENGINEER",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/c03acc32-f60b-40de-9838-e954d3f419b9",
+      "postedAt": "2026-09-24T18:48:07.673Z",
+      "key": "snowflake:c03acc32-f60b-40de-9838-e954d3f419b9",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T18:50:16.442Z"
+    },
+    {
+      "id": "4711762006",
+      "title": "Security Engineer, Product & Production Infrastructure",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.wiz.io/careers/job/4711762006/:title?gh_jid=4711762006",
+      "postedAt": "2026-09-24T18:46:41.000Z",
+      "key": "wizinc:4711762006",
+      "company": "Wiz",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T18:50:16.442Z"
+    },
     {
       "id": "R1001936",
       "title": "Lead, Full Stack Developer (Web)- Capital One Software (Remote)",
@@ -18570,22 +18603,6 @@
       "firstSeen": "2026-09-17T20:50:18.842Z"
     },
     {
-      "id": "5237917007",
-      "title": "Senior Director of Production Engineering-Observability & Telemetry Platforms",
-      "location": "San Jose, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5237917007",
-      "postedAt": "2026-09-17T20:46:16.000Z",
-      "key": "zscaler:5237917007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-17T20:50:18.842Z"
-    },
-    {
       "id": "5241119007",
       "title": "Software Engineer III - Driver Developer (Autonomous Lab)",
       "location": "Boston, Massachusetts",
@@ -19021,7 +19038,7 @@
     {
       "id": "302f1e7c-6e2d-40f3-bf15-6dc60eb74b69",
       "title": "Staff Software Engineer - Deposits",
-      "location": "São Paulo (+7 more)",
+      "location": "São Paulo (+6 more)",
       "team": "Engineer",
       "url": "https://jobs.ashbyhq.com/nubank/302f1e7c-6e2d-40f3-bf15-6dc60eb74b69",
       "postedAt": "2026-09-17T17:47:36.564Z",
@@ -19030,7 +19047,6 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us",
         "canada"
       ],
       "firstSeen": "2026-09-17T17:50:17.313Z"
@@ -30072,22 +30088,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T18:10:21.270Z"
-    },
-    {
-      "id": "8172503",
-      "title": "Offensive Security Engineer",
-      "location": "Remote from the US",
-      "team": "8611 Security Analytics",
-      "url": "https://stripe.com/jobs/search?gh_jid=8172503",
-      "postedAt": "2026-09-09T14:52:09.000Z",
-      "key": "stripe:8172503",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T15:30:25.610Z"
     },
     {
       "id": "60fa8c9b-e031-476e-a9d3-011966c4b495",
@@ -44769,70 +44769,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T18:57:14.732Z"
-    },
-    {
-      "id": "a338cb38-bf43-40dd-9fbf-dc9205b30bb1",
-      "title": "Software Engineer, Platform (Developer Experience)",
-      "location": "Boston, MA",
-      "team": "Engineering: PAI",
-      "url": "https://jobs.ashbyhq.com/benchling/a338cb38-bf43-40dd-9fbf-dc9205b30bb1",
-      "postedAt": "2026-08-25T18:43:54.489Z",
-      "key": "benchling:a338cb38-bf43-40dd-9fbf-dc9205b30bb1",
-      "company": "Benchling",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T18:50:19.414Z"
-    },
-    {
-      "id": "63d7d126-efaf-4a48-b328-f8d85b640ebf",
-      "title": "Software Engineer, Platform (Developer Experience)",
-      "location": "San Francisco, CA",
-      "team": "Engineering: PAI",
-      "url": "https://jobs.ashbyhq.com/benchling/63d7d126-efaf-4a48-b328-f8d85b640ebf",
-      "postedAt": "2026-08-25T18:43:47.823Z",
-      "key": "benchling:63d7d126-efaf-4a48-b328-f8d85b640ebf",
-      "company": "Benchling",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T18:50:19.414Z"
-    },
-    {
-      "id": "8157049",
-      "title": "Senior Professional Services DevOps Engineer",
-      "location": "Remote, Canada",
-      "team": null,
-      "url": "https://join.jfrog.com/job/?job=8157049&gh_jid=8157049",
-      "postedAt": "2026-08-25T18:42:39.000Z",
-      "key": "jfrog:8157049",
-      "company": "JFrog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-25T18:50:19.414Z"
-    },
-    {
-      "id": "8157275",
-      "title": "Senior Staff Machine Learning Systems Engineer, Ads ML Platform",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8157275",
-      "postedAt": "2026-08-25T18:40:31.000Z",
-      "key": "reddit:8157275",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T18:50:19.414Z"
     },
     {
       "id": "JR2022219",
