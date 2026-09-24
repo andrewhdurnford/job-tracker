@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-09-24T00:50:15.487Z",
+  "generatedAt": "2026-09-24T01:00:27.454Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74"
+    "ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 147,
+    "intern": 148,
     "new-grad": 29,
     "experienced": 2266
   },
@@ -985,7 +985,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4036,7 +4036,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 127,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+      "title": "Software Engineering Intern, Android",
+      "location": "New York, NY (HQ)",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+      "postedAt": "2026-09-24T00:55:33.807Z",
+      "key": "ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+      "company": "Ramp",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T01:00:27.454Z"
+    },
     {
       "id": "a13ae586-f4cb-4385-8822-c42b9b54ed74",
       "title": "Software Engineer Internship, Frontend",
