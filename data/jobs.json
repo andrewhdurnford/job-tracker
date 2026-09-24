@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-24T17:00:24.289Z",
+  "generatedAt": "2026-09-24T17:10:16.022Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "okta:8186804",
-    "smartsheet:8230517",
-    "stripe:8230952",
-    "thinkingmachines:a5559c53-7085-45ff-8a0f-5e47b5e822bc"
+    "anthropic:5427236008",
+    "Capital One:R1001633",
+    "mercor:374cd009-516f-4a1f-abbf-bcca5287daae",
+    "pendo:8675727002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +15,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 29,
-    "experienced": 2291
+    "experienced": 2293
   },
   "companies": [
     {
@@ -69,10 +69,10 @@
     },
     {
       "name": "Adobe",
-      "ok": false,
+      "ok": true,
       "jobCount": 74,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Adyen",
@@ -308,7 +308,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -2975,7 +2975,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -3640,7 +3640,7 @@
     {
       "name": "Pendo",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3983,7 +3983,7 @@
     {
       "name": "Pyka",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "R1001633",
+      "title": "Senior Staff Full-Stack Engineer (Remote Eligible)",
+      "location": "6 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Staff-Full-Stack-Engineer--Remote-Eligible-_R1001633-1",
+      "postedAt": "2026-09-24T17:10:19.542Z",
+      "key": "Capital One:R1001633",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-24T17:10:16.022Z"
+    },
+    {
+      "id": "8675727002",
+      "title": "Software Engineer, Full Stack",
+      "location": "Raleigh, NC",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8675727002",
+      "postedAt": "2026-09-24T17:09:36.000Z",
+      "key": "pendo:8675727002",
+      "company": "Pendo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:10:16.022Z"
+    },
+    {
+      "id": "374cd009-516f-4a1f-abbf-bcca5287daae",
+      "title": "Member of Technical Staff, Applied AI Backend",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/374cd009-516f-4a1f-abbf-bcca5287daae",
+      "postedAt": "2026-09-24T17:02:38.276Z",
+      "key": "mercor:374cd009-516f-4a1f-abbf-bcca5287daae",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:10:16.022Z"
+    },
+    {
       "id": "8230517",
       "title": "Senior Software Engineer I (Observability Platform)",
       "location": "-REMOTE, USA-",
@@ -6160,22 +6208,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Manager--IC--Risk-Tech_R1002018-1",
       "postedAt": "2026-09-24T16:00:28.475Z",
       "key": "Capital One:R1002018",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-24T16:00:25.305Z"
-    },
-    {
-      "id": "R1002019",
-      "title": "Full-stack Engineer 5 (Senior Manager, IC)-Risk Tech",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5--Senior-Manager--IC--Risk-Tech_R1002019-1",
-      "postedAt": "2026-09-24T16:00:28.475Z",
-      "key": "Capital One:R1002019",
       "company": "Capital One",
       "level": "experienced",
       "term": null,
@@ -17733,6 +17765,22 @@
       "firstSeen": "2026-09-18T02:20:19.407Z"
     },
     {
+      "id": "5427236008",
+      "title": "National Security Partnerships Lead, Intelligence and International Security",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427236008",
+      "postedAt": "2026-09-18T00:00:10.000Z",
+      "key": "anthropic:5427236008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:10:16.022Z"
+    },
+    {
       "id": "8212517",
       "title": "Software Engineer, Early Career — Immediate Start",
       "location": "Toronto",
@@ -20462,7 +20510,7 @@
     {
       "id": "8814842002",
       "title": "Staff Software Engineer ",
-      "location": "Ontario, Canada (Remote)",
+      "location": "Ontario, Canada (Remote), United Kingdom (Remote)",
       "team": null,
       "url": "http://www.circleci.com/careers/jobs/8814842002/?gh_jid=8814842002",
       "postedAt": "2026-09-16T16:53:00.000Z",
@@ -34141,8 +34189,8 @@
     },
     {
       "id": "8177513",
-      "title": "Staff Software Engineer, Card Issuing and Payments",
-      "location": "NYC, SEA, San Francisco",
+      "title": "Staff Software Engineer, Money Movement Platform",
+      "location": "SEA, San Francisco",
       "team": "8514 Connect - Eng",
       "url": "https://stripe.com/jobs/search?gh_jid=8177513",
       "postedAt": "2026-09-03T16:26:06.000Z",
@@ -44768,22 +44816,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T17:30:22.602Z"
-    },
-    {
-      "id": "583a6d1b-8369-43a0-8377-90efa1660727",
-      "title": "Fleet Software Engineer (Multiple Levels)",
-      "location": "Alameda HQ",
-      "team": "Software Engineering",
-      "url": "https://jobs.lever.co/pyka/583a6d1b-8369-43a0-8377-90efa1660727",
-      "postedAt": "2026-08-25T17:03:22.755Z",
-      "key": "pyka:583a6d1b-8369-43a0-8377-90efa1660727",
-      "company": "Pyka",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T17:10:20.575Z"
     },
     {
       "id": "REF083345W",
