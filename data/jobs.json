@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-09-24T16:20:18.757Z",
+  "generatedAt": "2026-09-24T16:30:24.498Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "coinbase:8193862",
-    "factory:a6386a06-e9b4-4c0c-95c4-0d5a845c8d4e",
-    "spacex:8834054002",
-    "spacex:8833870002"
+    "affirm:7985862003",
+    "affirm:7985860003",
+    "pinterest:8162046"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 29,
-    "experienced": 2280
+    "experienced": 2282
   },
   "companies": [
     {
@@ -84,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -1758,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2066,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2878,7 +2877,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -2920,7 +2919,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3486,7 +3485,7 @@
     {
       "name": "Omada Health",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3759,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7985862003",
+      "title": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7985862003",
+      "postedAt": "2026-09-24T16:29:37.000Z",
+      "key": "affirm:7985862003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-24T16:30:24.498Z"
+    },
+    {
+      "id": "7985860003",
+      "title": "Software Engineer II, Backend (Identity Decisioning)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7985860003",
+      "postedAt": "2026-09-24T16:29:36.000Z",
+      "key": "affirm:7985860003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T16:30:24.498Z"
+    },
     {
       "id": "a6386a06-e9b4-4c0c-95c4-0d5a845c8d4e",
       "title": "Head of Developer Relations",
@@ -40914,22 +40945,6 @@
       "firstSeen": "2026-08-27T22:50:19.028Z"
     },
     {
-      "id": "8157230",
-      "title": "Software Engineer II",
-      "location": "Remote, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8157230",
-      "postedAt": "2026-08-27T22:48:23.000Z",
-      "key": "omadahealth:8157230",
-      "company": "Omada Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-27T22:50:19.028Z"
-    },
-    {
       "id": "6167756004",
       "title": "Technical Lead, Patient Experience",
       "location": "Remote (SF or NY hybrid optional)",
@@ -41746,6 +41761,22 @@
         "us"
       ],
       "firstSeen": "2026-08-27T16:40:18.627Z"
+    },
+    {
+      "id": "8162046",
+      "title": "Machine Learning Engineer II, Responsible AI",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162046",
+      "postedAt": "2026-08-27T16:29:11.000Z",
+      "key": "pinterest:8162046",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T16:30:24.498Z"
     },
     {
       "id": "299af7cf-5963-43a9-8262-be4358271358",
