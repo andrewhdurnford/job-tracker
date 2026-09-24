@@ -1,21 +1,23 @@
 {
-  "generatedAt": "2026-09-24T17:10:16.022Z",
+  "generatedAt": "2026-09-24T17:20:18.951Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "anthropic:5427236008",
-    "Capital One:R1001633",
-    "mercor:374cd009-516f-4a1f-abbf-bcca5287daae",
-    "pendo:8675727002"
+    "astranis:4705665006",
+    "astranis:4715989006",
+    "astrocade:ed4b6d48-9f47-4073-a7ae-202917e45c2a",
+    "Capital One:R1000827",
+    "Capital One:R1002019",
+    "nubank:01dfff26-50a3-471f-890e-1be083ec113d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
+    "intern": 150,
     "new-grad": 29,
-    "experienced": 2293
+    "experienced": 2298
   },
   "companies": [
     {
@@ -434,7 +436,7 @@
     {
       "name": "Astranis",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -448,7 +450,7 @@
     {
       "name": "Astrocade",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -791,7 +793,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 184,
+      "jobCount": 186,
       "error": null,
       "stale": false
     },
@@ -3402,7 +3404,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5706,108 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1000827",
+      "title": "Data Engineer 4 (Manager, IC)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Data-Engineer-4--Manager--IC-_R1000827-2",
+      "postedAt": "2026-09-24T17:20:22.152Z",
+      "key": "Capital One:R1000827",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:20:18.951Z"
+    },
+    {
+      "id": "R1002019",
+      "title": "Full-stack Engineer 5 (Senior Manager, IC)-Risk Tech",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5--Senior-Manager--IC--Risk-Tech_R1002019-1",
+      "postedAt": "2026-09-24T17:20:22.152Z",
+      "key": "Capital One:R1002019",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:20:18.951Z"
+    },
+    {
+      "id": "4705665006",
+      "title": "Supplier Quality Engineer Associate (Winter 2027)",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705665006",
+      "postedAt": "2026-09-24T17:19:18.000Z",
+      "key": "astranis:4705665006",
+      "company": "Astranis",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:20:18.951Z"
+    },
+    {
+      "id": "01dfff26-50a3-471f-890e-1be083ec113d",
+      "title": "Senior Staff Software Engineer - Remittance",
+      "location": "Palo Alto",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/01dfff26-50a3-471f-890e-1be083ec113d",
+      "postedAt": "2026-09-24T17:19:05.121Z",
+      "key": "nubank:01dfff26-50a3-471f-890e-1be083ec113d",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:20:18.951Z"
+    },
+    {
+      "id": "4715989006",
+      "title": "Supplier Quality Engineer Intern (Winter 2027)",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4715989006",
+      "postedAt": "2026-09-24T17:17:19.000Z",
+      "key": "astranis:4715989006",
+      "company": "Astranis",
+      "level": "intern",
+      "term": {
+        "label": "Winter 2027",
+        "seasons": [
+          "winter"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:20:18.951Z"
+    },
+    {
+      "id": "ed4b6d48-9f47-4073-a7ae-202917e45c2a",
+      "title": "ML Engineer",
+      "location": "Palo Alto",
+      "team": "AI",
+      "url": "https://jobs.ashbyhq.com/astrocade/ed4b6d48-9f47-4073-a7ae-202917e45c2a",
+      "postedAt": "2026-09-24T17:15:11.980Z",
+      "key": "astrocade:ed4b6d48-9f47-4073-a7ae-202917e45c2a",
+      "company": "Astrocade",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T17:20:18.951Z"
+    },
     {
       "id": "R1001633",
       "title": "Senior Staff Full-Stack Engineer (Remote Eligible)",
@@ -17767,7 +17871,7 @@
     {
       "id": "5427236008",
       "title": "National Security Partnerships Lead, Intelligence and International Security",
-      "location": "Washington, DC",
+      "location": "San Francisco, CA | New York City, NY | Washington, DC",
       "team": null,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427236008",
       "postedAt": "2026-09-18T00:00:10.000Z",
