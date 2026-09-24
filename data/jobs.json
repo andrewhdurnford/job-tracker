@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-24T20:00:22.557Z",
+  "generatedAt": "2026-09-24T20:10:17.074Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "notion:2b587e66-deac-421a-a824-9415ba78b5a7"
+    "Capital One:R1002012",
+    "okta:8212358"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 151,
     "new-grad": 29,
-    "experienced": 2304
+    "experienced": 2306
   },
   "companies": [
     {
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 191,
+      "jobCount": 192,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3469,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002012",
+      "title": "Full-stack Engineer 4 (Node, TypeScript, AWS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Node--TypeScript--AWS-_R1002012-1",
+      "postedAt": "2026-09-24T20:10:20.445Z",
+      "key": "Capital One:R1002012",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T20:10:17.074Z"
+    },
+    {
+      "id": "8212358",
+      "title": "Senior Software Engineer - Core Infrastructure",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8212358?gh_jid=8212358",
+      "postedAt": "2026-09-24T20:09:28.000Z",
+      "key": "okta:8212358",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T20:10:17.074Z"
+    },
     {
       "id": "2b587e66-deac-421a-a824-9415ba78b5a7",
       "title": "Software Engineer Intern, Mobile (Winter 2027)",
