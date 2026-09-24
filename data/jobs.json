@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T01:10:18.883Z",
+  "generatedAt": "2026-09-24T01:20:16.601Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "ramp:b66be397-240b-41a6-9b05-493299b270a9"
+    "Nvidia:JR2026242"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 29,
-    "experienced": 2265
+    "experienced": 2266
   },
   "companies": [
     {
@@ -985,7 +985,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 168,
+      "jobCount": 169,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 127,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026242",
+      "title": "Software QA Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer_JR2026242",
+      "postedAt": "2026-09-24T01:20:20.908Z",
+      "key": "Nvidia:JR2026242",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T01:20:16.601Z"
+    },
     {
       "id": "b66be397-240b-41a6-9b05-493299b270a9",
       "title": "Software Engineering Intern, iOS",
