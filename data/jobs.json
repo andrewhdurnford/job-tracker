@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-24T21:40:15.569Z",
+  "generatedAt": "2026-09-24T21:50:17.489Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "ServiceTitan:JR112971"
+    "asana:8078102",
+    "launchdarkly:8004607003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 26,
-    "experienced": 2313
+    "experienced": 2314
   },
   "companies": [
     {
@@ -389,7 +390,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1705,7 +1706,7 @@
     {
       "name": "Figma",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2706,7 +2707,7 @@
     {
       "name": "LaunchDarkly",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5031,7 +5032,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8004607003",
+      "title": "Engineering Manager, Cloud Engineering",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8004607003",
+      "postedAt": "2026-09-24T21:47:27.000Z",
+      "key": "launchdarkly:8004607003",
+      "company": "LaunchDarkly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T21:50:17.489Z"
+    },
+    {
+      "id": "8078102",
+      "title": "Software Engineer",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/8078102?gh_jid=8078102",
+      "postedAt": "2026-09-24T21:42:35.000Z",
+      "key": "asana:8078102",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T21:50:17.489Z"
+    },
     {
       "id": "JR112971",
       "title": "Senior Software Engineer",
@@ -45033,22 +45066,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T21:56:14.433Z"
-    },
-    {
-      "id": "6158162004",
-      "title": "Forward Deployed Engineer",
-      "location": "San Francisco, CA • New York, NY • United States",
-      "team": null,
-      "url": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004",
-      "postedAt": "2026-08-25T21:42:20.000Z",
-      "key": "figma:6158162004",
-      "company": "Figma",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T21:50:19.511Z"
     },
     {
       "id": "R_106820",
