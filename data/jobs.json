@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T20:30:20.655Z",
+  "generatedAt": "2026-09-24T20:40:16.350Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "jfrog:8231383"
+    "gusto:8193631"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -11,8 +11,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 151,
-    "new-grad": 29,
-    "experienced": 2305
+    "new-grad": 28,
+    "experienced": 2304
   },
   "companies": [
     {
@@ -788,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 192,
+      "jobCount": 191,
       "error": null,
       "stale": false
     },
@@ -2104,7 +2104,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 127,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5513,7 +5513,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5667,7 +5667,7 @@
     {
       "name": "Zip",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8193631",
+      "title": "Staff Software Engineer, PEO Growth",
+      "location": "San Francisco, CA - Hybrid",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8193631",
+      "postedAt": "2026-09-24T20:33:39.000Z",
+      "key": "gusto:8193631",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T20:40:16.350Z"
+    },
     {
       "id": "8231383",
       "title": "Developer Support Engineer (Atlanta)",
@@ -30321,22 +30337,6 @@
       "firstSeen": "2026-09-09T16:50:19.255Z"
     },
     {
-      "id": "R248316",
-      "title": "Lead Software Engineer, Full Stack - Card Tech",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack---Card-Tech_R248316-1",
-      "postedAt": "2026-09-09T16:40:28.053Z",
-      "key": "Capital One:R248316",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T16:40:19.967Z"
-    },
-    {
       "id": "R248318",
       "title": "Lead Software Engineer, Full Stack - Card Tech",
       "location": "McLean, VA",
@@ -44963,42 +44963,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-25T20:46:24.235Z"
-    },
-    {
-      "id": "97fdb239-1cf3-47de-906a-96fddd2f361f",
-      "title": "Platform Engineer II (Application Infrastructure)",
-      "location": "Boston, MA",
-      "team": "Software",
-      "url": "https://jobs.ashbyhq.com/whoop/97fdb239-1cf3-47de-906a-96fddd2f361f",
-      "postedAt": "2026-08-25T20:38:33.123Z",
-      "key": "whoop:97fdb239-1cf3-47de-906a-96fddd2f361f",
-      "company": "WHOOP",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T20:40:18.276Z"
-    },
-    {
-      "id": "df6eb1ee-b360-46fe-b23f-658626ec59ea",
-      "title": "Software Engineer, New Grad (2027 Start)",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/zip/df6eb1ee-b360-46fe-b23f-658626ec59ea",
-      "postedAt": "2026-08-25T20:37:11.884Z",
-      "key": "zip:df6eb1ee-b360-46fe-b23f-658626ec59ea",
-      "company": "Zip",
-      "level": "new-grad",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-04T20:20:16.959Z"
     },
     {
       "id": "R_106820",
