@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-09-24T16:00:25.305Z",
+  "generatedAt": "2026-09-24T16:10:18.606Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1002019",
-    "Capital One:R1002018",
-    "peloton:8223450",
-    "Visa:REF080662W",
-    "Visa:REF088499W"
+    "Capital One:R1002021",
+    "coupang:8180333",
+    "shieldai:86b55811-f0b1-4c7b-886e-71a9906b2d51"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +14,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 29,
-    "experienced": 2277
+    "experienced": 2280
   },
   "companies": [
     {
@@ -792,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 172,
+      "jobCount": 173,
       "error": null,
       "stale": false
     },
@@ -1205,7 +1203,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -3852,7 +3850,7 @@
       "name": "Postman",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4474,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 125,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5705,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002021",
+      "title": "Senior Manager, Full-stack Engineer (PL)-Risk Tech",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Manager--Full-stack-Engineer--PL--Risk-Tech_R1002021-1",
+      "postedAt": "2026-09-24T16:10:20.984Z",
+      "key": "Capital One:R1002021",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T16:10:18.606Z"
+    },
+    {
+      "id": "86b55811-f0b1-4c7b-886e-71a9906b2d51",
+      "title": "Director, International Growth Campaign Leader (R5851)",
+      "location": "Washington, D.C.",
+      "team": "Executive Office",
+      "url": "https://jobs.lever.co/shieldai/86b55811-f0b1-4c7b-886e-71a9906b2d51",
+      "postedAt": "2026-09-24T16:10:13.328Z",
+      "key": "shieldai:86b55811-f0b1-4c7b-886e-71a9906b2d51",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T16:10:18.606Z"
+    },
+    {
+      "id": "8180333",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Seattle, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/coupang/jobs/8180333",
+      "postedAt": "2026-09-24T16:07:44.000Z",
+      "key": "coupang:8180333",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T16:10:18.606Z"
+    },
     {
       "id": "REF088499W",
       "title": "Cybersecurity Engineer - Product Development",
