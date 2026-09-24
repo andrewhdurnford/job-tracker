@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-24T18:50:16.442Z",
+  "generatedAt": "2026-09-24T19:00:27.315Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "snowflake:c03acc32-f60b-40de-9838-e954d3f419b9",
-    "wizinc:4711762006"
+    "Adobe:R171447",
+    "Capital One:R1001623",
+    "Capital One:R1001621",
+    "roblox:8193712"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 29,
-    "experienced": 2295
+    "experienced": 2296
   },
   "companies": [
     {
@@ -33,7 +35,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -68,7 +70,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 74,
+      "jobCount": 75,
       "error": null,
       "stale": false
     },
@@ -3226,7 +3228,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3637,10 +3639,10 @@
     },
     {
       "name": "Pendo",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pendulum",
@@ -4240,7 +4242,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 127,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R171447",
+      "title": "Forward Deployed Engineer",
+      "location": "San Jose",
+      "team": null,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Forward-Deployed-Engineer_R171447-1",
+      "postedAt": "2026-09-24T19:00:31.197Z",
+      "key": "Adobe:R171447",
+      "company": "Adobe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:00:27.315Z"
+    },
+    {
+      "id": "R1001623",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001623-1",
+      "postedAt": "2026-09-24T19:00:30.672Z",
+      "key": "Capital One:R1001623",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:00:27.315Z"
+    },
+    {
+      "id": "R1001621",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001621-1",
+      "postedAt": "2026-09-24T19:00:30.672Z",
+      "key": "Capital One:R1001621",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:00:27.315Z"
+    },
+    {
+      "id": "8193712",
+      "title": "Senior Data Scientist, Engine Infra",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8193712?gh_jid=8193712",
+      "postedAt": "2026-09-24T18:58:27.000Z",
+      "key": "roblox:8193712",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:00:27.315Z"
+    },
     {
       "id": "c03acc32-f60b-40de-9838-e954d3f419b9",
       "title": "SENIOR SOFTWARE ENGINEER",
@@ -26270,22 +26336,6 @@
       "firstSeen": "2026-09-11T19:20:16.677Z"
     },
     {
-      "id": "R1000307",
-      "title": "Lead Software Engineer",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer_R1000307-1",
-      "postedAt": "2026-09-11T19:00:30.096Z",
-      "key": "Capital One:R1000307",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T19:00:27.226Z"
-    },
-    {
       "id": "83618a63-6e9f-43c7-baa7-70460f4db8a7",
       "title": "Senior Infrastructure Engineer",
       "location": "San Francisco",
@@ -27963,22 +28013,6 @@
         "us"
       ],
       "firstSeen": "2026-09-10T18:20:17.983Z"
-    },
-    {
-      "id": "R1000306",
-      "title": "Lead Software Engineer",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Lead-Software-Engineer_R1000306-1",
-      "postedAt": "2026-09-10T18:00:34.991Z",
-      "key": "Capital One:R1000306",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-10T18:00:31.343Z"
     },
     {
       "id": "4732798005",
@@ -44747,22 +44781,6 @@
       "postedAt": "2026-08-25T18:57:18.508Z",
       "key": "CrowdStrike:R29404",
       "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T18:57:14.732Z"
-    },
-    {
-      "id": "7967606003",
-      "title": "Software Engineer II - Dev Accelerator",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://abnormal.ai/careers/jobs/7967606003?gh_jid=7967606003",
-      "postedAt": "2026-08-25T18:54:00.000Z",
-      "key": "abnormalsecurity:7967606003",
-      "company": "Abnormal Security",
       "level": "experienced",
       "term": null,
       "regions": [
