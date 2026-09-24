@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-09-24T19:00:27.315Z",
+  "generatedAt": "2026-09-24T19:10:22.272Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Adobe:R171447",
-    "Capital One:R1001623",
-    "Capital One:R1001621",
-    "roblox:8193712"
+    "Capital One:R1001902",
+    "spotify:cb29d857-395b-401d-9749-367e666ff870",
+    "Visa:REF085123W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 29,
-    "experienced": 2296
+    "experienced": 2297
   },
   "companies": [
     {
@@ -35,7 +34,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -791,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 190,
+      "jobCount": 191,
       "error": null,
       "stale": false
     },
@@ -3228,7 +3227,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3639,10 +3638,10 @@
     },
     {
       "name": "Pendo",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Pendulum",
@@ -4109,7 +4108,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -4725,7 +4724,7 @@
     {
       "name": "Spotify",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5404,7 +5403,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 55,
+      "jobCount": 56,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "REF085123W",
+      "title": "Sr. Software Engineer - Core Automation Platform",
+      "location": "US - Ashburn, VA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Sr-Software-Engineer---Core-Automation-Platform_REF085123W",
+      "postedAt": "2026-09-24T19:10:26.213Z",
+      "key": "Visa:REF085123W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:10:22.272Z"
+    },
+    {
+      "id": "R1001902",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001902-1",
+      "postedAt": "2026-09-24T19:10:25.417Z",
+      "key": "Capital One:R1001902",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:10:22.272Z"
+    },
+    {
       "id": "R171447",
       "title": "Forward Deployed Engineer",
       "location": "San Jose",
@@ -5767,6 +5798,22 @@
         "us"
       ],
       "firstSeen": "2026-09-24T19:00:27.315Z"
+    },
+    {
+      "id": "cb29d857-395b-401d-9749-367e666ff870",
+      "title": "Security Engineer - Detection and Response",
+      "location": "New York, NY",
+      "team": "Platform",
+      "url": "https://jobs.lever.co/spotify/cb29d857-395b-401d-9749-367e666ff870",
+      "postedAt": "2026-09-24T18:52:39.195Z",
+      "key": "spotify:cb29d857-395b-401d-9749-367e666ff870",
+      "company": "Spotify",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:10:22.272Z"
     },
     {
       "id": "c03acc32-f60b-40de-9838-e954d3f419b9",
@@ -44733,38 +44780,6 @@
       "postedAt": "2026-08-25T19:10:32.150Z",
       "key": "Remitly:R_106820",
       "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T19:10:28.207Z"
-    },
-    {
-      "id": "7976390003",
-      "title": "Software Engineer II - Dev Accelerator",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://abnormal.ai/careers/jobs/7976390003?gh_jid=7976390003",
-      "postedAt": "2026-08-25T19:07:13.000Z",
-      "key": "abnormalsecurity:7976390003",
-      "company": "Abnormal Security",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-25T19:10:28.207Z"
-    },
-    {
-      "id": "8048988",
-      "title": "Senior Software Engineer, Media Experience",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8048988",
-      "postedAt": "2026-08-25T19:06:38.000Z",
-      "key": "reddit:8048988",
-      "company": "Reddit",
       "level": "experienced",
       "term": null,
       "regions": [
