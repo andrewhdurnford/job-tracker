@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-24T19:30:21.505Z",
+  "generatedAt": "2026-09-24T19:40:16.705Z",
   "bootstrap": false,
   "lastRunNewCount": 7,
   "newKeys": [
-    "astranis:4705615006",
-    "astranis:4705617006",
-    "astranis:4705597006",
-    "astranis:4705599006",
-    "langchain:14727440-65bd-4cce-bed1-27d0c863eab3",
-    "replit:1015fa18-69d0-49e5-a785-afe5cbcc4760",
-    "shieldai:942abc1f-eb47-4dbd-b3fc-c16f40d41ae3"
+    "CrowdStrike:R30174",
+    "CrowdStrike:R30192",
+    "CrowdStrike:R30113",
+    "CrowdStrike:R30175",
+    "lyft:8817900002",
+    "Visa:REF088255W",
+    "zscaler:5237917007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
+    "intern": 150,
     "new-grad": 29,
-    "experienced": 2302
+    "experienced": 2307
   },
   "companies": [
     {
@@ -871,7 +871,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1249,7 +1249,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -2852,7 +2852,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -4699,10 +4699,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 126,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5407,7 +5407,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 56,
+      "jobCount": 57,
       "error": null,
       "stale": false
     },
@@ -5694,7 +5694,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5707,6 +5707,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088255W",
+      "title": "Director, Platform Engineering",
+      "location": "US - Foster City, CA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Director--Platform-Engineering_REF088255W",
+      "postedAt": "2026-09-24T19:40:19.926Z",
+      "key": "Visa:REF088255W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:40:16.705Z"
+    },
+    {
+      "id": "R30113",
+      "title": "Engineer II, Full Stack (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-II--Full-Stack--Remote-_R30113",
+      "postedAt": "2026-09-24T19:40:19.921Z",
+      "key": "CrowdStrike:R30113",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:40:16.705Z"
+    },
+    {
+      "id": "R30174",
+      "title": "Infrastructure Engineer, TechOps CICD Image Management (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Infrastructure-Engineer--TechOps-CICD-Image-Management--Remote-_R30174",
+      "postedAt": "2026-09-24T19:40:19.921Z",
+      "key": "CrowdStrike:R30174",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:40:16.705Z"
+    },
+    {
+      "id": "R30192",
+      "title": "Sr. AI SDLC Engineer (Remote)",
+      "location": "USA - Remote, OR",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-OR/Sr-AI-SDLC-Engineer--Remote-_R30192",
+      "postedAt": "2026-09-24T19:40:19.921Z",
+      "key": "CrowdStrike:R30192",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:40:16.705Z"
+    },
+    {
+      "id": "R30175",
+      "title": "Sr. Engineer - Platform Data Engineer (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Engineer---Platform-Data-Engineer--Remote-_R30175",
+      "postedAt": "2026-09-24T19:40:19.921Z",
+      "key": "CrowdStrike:R30175",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:40:16.705Z"
+    },
     {
       "id": "4705617006",
       "title": "Software Developer, Network Software Associate (Winter 2027)",
@@ -5846,6 +5926,28 @@
         "us"
       ],
       "firstSeen": "2026-09-24T19:19:45.349Z"
+    },
+    {
+      "id": "8817900002",
+      "title": "Content Systems Intern (Summer 2027)",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8817900002?gh_jid=8817900002",
+      "postedAt": "2026-09-24T19:18:38.000Z",
+      "key": "lyft:8817900002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-24T19:40:16.705Z"
     },
     {
       "id": "8171920",
@@ -18906,6 +19008,22 @@
         "us"
       ],
       "firstSeen": "2026-09-17T20:50:18.842Z"
+    },
+    {
+      "id": "5237917007",
+      "title": "Senior Director of Production Engineering-Observability & Telemetry Platforms",
+      "location": "San Jose, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5237917007",
+      "postedAt": "2026-09-17T20:46:16.000Z",
+      "key": "zscaler:5237917007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T19:40:16.705Z"
     },
     {
       "id": "5241119007",
@@ -44897,23 +45015,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T20:00:25.655Z"
-    },
-    {
-      "id": "2b22599f-b1ee-46ef-8684-1475bc49bac0",
-      "title": "Cloud Infrastructure Engineer",
-      "location": "Sunnyvale, CA (+1 more)",
-      "team": "Developer Productivity",
-      "url": "https://jobs.ashbyhq.com/cerebras/2b22599f-b1ee-46ef-8684-1475bc49bac0",
-      "postedAt": "2026-08-25T19:33:09.604Z",
-      "key": "cerebras:2b22599f-b1ee-46ef-8684-1475bc49bac0",
-      "company": "Cerebras Systems",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-25T19:40:18.731Z"
     },
     {
       "id": "R_106820",
