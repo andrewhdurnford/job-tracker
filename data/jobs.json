@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-24T22:00:22.332Z",
+  "generatedAt": "2026-09-24T22:10:16.431Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "zscaler:5239093007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1962,7 +1964,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5686,7 +5688,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5239093007",
+      "title": " Architect, Software Development (Layer 7 Security & Proxy)",
+      "location": "San Jose, California, USA; Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239093007",
+      "postedAt": "2026-09-24T22:09:01.000Z",
+      "key": "zscaler:5239093007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T22:10:16.431Z"
+    },
     {
       "id": "8004607003",
       "title": "Engineering Manager, Cloud Engineering",
@@ -36044,23 +36062,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-02T20:50:18.075Z"
-    },
-    {
-      "id": "8770689002",
-      "title": "Principal Security Awareness & Human Risk Engineer",
-      "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770689002",
-      "postedAt": "2026-09-02T20:02:27.000Z",
-      "key": "gitlab:8770689002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-02T20:10:18.482Z"
     },
     {
       "id": "R244244",
