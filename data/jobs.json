@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-24T22:40:16.295Z",
+  "generatedAt": "2026-09-24T22:50:17.117Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "fieldguide:a6d776ef-a66f-47b8-bcaf-ecdee5cf8651"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 26,
-    "experienced": 2309
+    "experienced": 2310
   },
   "companies": [
     {
@@ -983,7 +985,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -1696,7 +1698,7 @@
     {
       "name": "Fieldguide",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3620,10 +3622,10 @@
     },
     {
       "name": "Pelago",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Peloton",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a6d776ef-a66f-47b8-bcaf-ecdee5cf8651",
+      "title": "Software Engineer, Quality & Automation",
+      "location": "San Francisco, CA or Remote (USA)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/fieldguide/a6d776ef-a66f-47b8-bcaf-ecdee5cf8651",
+      "postedAt": "2026-09-24T22:46:20.252Z",
+      "key": "fieldguide:a6d776ef-a66f-47b8-bcaf-ecdee5cf8651",
+      "company": "Fieldguide",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T22:50:17.117Z"
+    },
     {
       "id": "87f2a303-c2a1-484e-9e4b-efdcaafa440e",
       "title": "Software Engineer, Horizon",
