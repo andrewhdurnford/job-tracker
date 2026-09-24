@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-09-24T20:40:16.350Z",
+  "generatedAt": "2026-09-24T20:50:18.607Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "gusto:8193631"
+    "illumio:1dd8a852-5075-43f7-8a9c-ea900efe091f",
+    "openai:9d4d2727-27f3-4a63-857c-a96466130645",
+    "samsara:8231949",
+    "samsara:8186910",
+    "singlestore:8185163",
+    "verkada:5248650007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -11,8 +16,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 151,
-    "new-grad": 28,
-    "experienced": 2304
+    "new-grad": 27,
+    "experienced": 2308
   },
   "companies": [
     {
@@ -1789,7 +1794,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2342,7 +2347,7 @@
     {
       "name": "Illumio",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3516,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 61,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -4337,7 +4342,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4533,7 +4538,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4698,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 127,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 126,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5373,7 +5378,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -5667,7 +5672,7 @@
     {
       "name": "Zip",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5706,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8231949",
+      "title": "Senior Software Engineer",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949",
+      "postedAt": "2026-09-24T20:49:21.000Z",
+      "key": "samsara:8231949",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-24T20:50:18.607Z"
+    },
+    {
+      "id": "8186910",
+      "title": "Senior Software Engineer",
+      "location": "Remote - SF Bay Area",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8186910?gh_jid=8186910",
+      "postedAt": "2026-09-24T20:49:19.000Z",
+      "key": "samsara:8186910",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T20:50:18.607Z"
+    },
+    {
+      "id": "1dd8a852-5075-43f7-8a9c-ea900efe091f",
+      "title": "Staff Engineer",
+      "location": "HQ - Sunnyvale (Office)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/illumio/1dd8a852-5075-43f7-8a9c-ea900efe091f",
+      "postedAt": "2026-09-24T20:46:59.170Z",
+      "key": "illumio:1dd8a852-5075-43f7-8a9c-ea900efe091f",
+      "company": "Illumio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T20:50:18.607Z"
+    },
+    {
+      "id": "5248650007",
+      "title": "Staff Frontend Engineer - Mapping & Spatial Platform",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5248650007",
+      "postedAt": "2026-09-24T20:45:33.000Z",
+      "key": "verkada:5248650007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T20:50:18.607Z"
+    },
+    {
+      "id": "9d4d2727-27f3-4a63-857c-a96466130645",
+      "title": "Machine Learning Engineer, Core Experimentation",
+      "location": "Seattle",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645",
+      "postedAt": "2026-09-24T20:40:14.837Z",
+      "key": "openai:9d4d2727-27f3-4a63-857c-a96466130645",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T20:50:18.607Z"
+    },
     {
       "id": "8193631",
       "title": "Staff Software Engineer, PEO Growth",
@@ -7448,6 +7533,22 @@
         "us"
       ],
       "firstSeen": "2026-09-24T14:00:25.480Z"
+    },
+    {
+      "id": "8185163",
+      "title": "Software Engineer | Observability ",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8185163",
+      "postedAt": "2026-09-24T13:59:08.000Z",
+      "key": "singlestore:8185163",
+      "company": "SingleStore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-24T20:50:18.607Z"
     },
     {
       "id": "daeb5243-d175-448b-b545-2c316bc98a94",
@@ -44911,58 +45012,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T21:00:27.617Z"
-    },
-    {
-      "id": "7976827003",
-      "title": "Senior Staff Software Engineer",
-      "location": "Oakland, California, United States",
-      "team": null,
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7976827003",
-      "postedAt": "2026-08-25T20:44:21.000Z",
-      "key": "fivetran:7976827003",
-      "company": "Fivetran",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T20:46:24.235Z"
-    },
-    {
-      "id": "8738577002",
-      "title": "Build Reliability Engineer (Falcon/Dragon)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8738577002?gh_jid=8738577002",
-      "postedAt": "2026-08-25T20:41:07.000Z",
-      "key": "spacex:8738577002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-25T20:46:24.235Z"
-    },
-    {
-      "id": "b5242472-5679-4084-af77-238b6335b792",
-      "title": "Software Engineer, New Grad (2027 Start)",
-      "location": "Toronto",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/zip/b5242472-5679-4084-af77-238b6335b792",
-      "postedAt": "2026-08-25T20:40:17.404Z",
-      "key": "zip:b5242472-5679-4084-af77-238b6335b792",
-      "company": "Zip",
-      "level": "new-grad",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-25T20:46:24.235Z"
     },
     {
       "id": "R_106820",
