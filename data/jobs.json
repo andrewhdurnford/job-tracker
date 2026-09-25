@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-25T10:50:19.409Z",
+  "generatedAt": "2026-09-25T11:00:25.926Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R1001675",
+    "Capital One:R1001666"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 191,
+      "jobCount": 192,
       "error": null,
       "stale": false
     },
@@ -1408,10 +1411,10 @@
     },
     {
       "name": "Discord",
-      "ok": true,
+      "ok": false,
       "jobCount": 11,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Docker",
@@ -3215,7 +3218,7 @@
     {
       "name": "Nango",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001666",
+      "title": "Full-stack Engineer 4 (Manager, IC - Node.js, TypeScript, AWS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager--IC---Nodejs--TypeScript--AWS-_R1001666",
+      "postedAt": "2026-09-25T11:00:28.606Z",
+      "key": "Capital One:R1001666",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T11:00:25.926Z"
+    },
+    {
+      "id": "R1001675",
+      "title": "Senior Manager Data Engineer (Databricks, Pyspark, Snowflake)",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Manager-Data-Engineer--Databricks--Pyspark--Snowflake-_R1001675",
+      "postedAt": "2026-09-25T11:00:28.606Z",
+      "key": "Capital One:R1001675",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T11:00:25.926Z"
+    },
     {
       "id": "a576c5ef-2a51-4522-9c98-bca5ac2abbb3",
       "title": "Software Engineer – Query Engines",
@@ -27229,22 +27264,6 @@
       "firstSeen": "2026-09-11T18:10:19.924Z"
     },
     {
-      "id": "R1000387",
-      "title": "Senior Manager Data Engineer (Databricks, Pyspark, Snowflake)",
-      "location": "Chicago, IL",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Manager-Data-Engineer--Databricks--Pyspark--Snowflake-_R1000387-1",
-      "postedAt": "2026-09-11T18:00:29.828Z",
-      "key": "Capital One:R1000387",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T18:00:25.931Z"
-    },
-    {
       "id": "7992780003",
       "title": "Software Engineer II - Insider Risk",
       "location": "Hybrid - San Francisco, CA, USA",
@@ -44877,23 +44896,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T11:10:18.512Z"
-    },
-    {
-      "id": "8df55632-71d5-481e-8424-1f7491f9e96d",
-      "title": "Staff Platform Engineer",
-      "location": "USA (+9 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/nango/8df55632-71d5-481e-8424-1f7491f9e96d",
-      "postedAt": "2026-08-26T10:51:36.685Z",
-      "key": "nango:8df55632-71d5-481e-8424-1f7491f9e96d",
-      "company": "Nango",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-26T11:00:31.061Z"
     },
     {
       "id": "JR2021574",
