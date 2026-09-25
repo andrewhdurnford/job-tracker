@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-25T17:20:18.142Z",
+  "generatedAt": "2026-09-25T17:30:19.969Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "adyen:8113723",
+    "dominodatalab:8227732",
+    "quindar:a4e0c464-decb-410b-897b-ea039203c33e"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -72,7 +76,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1437,7 +1441,7 @@
     {
       "name": "Domino Data Lab",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 63,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -3670,7 +3674,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4013,7 +4017,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4104,7 +4108,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8227732",
+      "title": "Forward Deployed Engineer",
+      "location": "New York, New York",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/8227732?gh_jid=8227732",
+      "postedAt": "2026-09-25T17:27:32.000Z",
+      "key": "dominodatalab:8227732",
+      "company": "Domino Data Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T17:30:19.969Z"
+    },
+    {
+      "id": "8113723",
+      "title": "Machine Learning Scientist, Personalize Intelligence",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8113723",
+      "postedAt": "2026-09-25T17:20:50.000Z",
+      "key": "adyen:8113723",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T17:30:19.969Z"
+    },
+    {
+      "id": "a4e0c464-decb-410b-897b-ea039203c33e",
+      "title": "Backend Engineer",
+      "location": "Denver, CO",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e",
+      "postedAt": "2026-09-25T17:20:09.136Z",
+      "key": "quindar:a4e0c464-decb-410b-897b-ea039203c33e",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T17:30:19.969Z"
+    },
     {
       "id": "R1002145",
       "title": "Full-stack Engineer 2",
@@ -44541,54 +44593,6 @@
         "us"
       ],
       "firstSeen": "2026-08-27T16:20:20.340Z"
-    },
-    {
-      "id": "8155661",
-      "title": "Senior Software Engineer, Home Experience",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8155661",
-      "postedAt": "2026-08-26T17:29:03.000Z",
-      "key": "reddit:8155661",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T17:30:35.590Z"
-    },
-    {
-      "id": "b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
-      "title": "Member of Technical Staff (Software Engineer, Desktop Apps)",
-      "location": "San Francisco (+3 more)",
-      "team": "AI Products",
-      "url": "https://jobs.ashbyhq.com/perplexity/b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
-      "postedAt": "2026-08-26T17:26:55.714Z",
-      "key": "perplexity:b00cbb00-f672-4909-a7be-bbd02c7d7b5f",
-      "company": "Perplexity",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T17:30:35.590Z"
-    },
-    {
-      "id": "efed424b-e025-400f-8ac3-73e962b85751",
-      "title": "Operating Systems Engineer | Consumer Devices",
-      "location": "San Francisco",
-      "team": "Software",
-      "url": "https://jobs.ashbyhq.com/openai/efed424b-e025-400f-8ac3-73e962b85751",
-      "postedAt": "2026-08-26T17:25:11.223Z",
-      "key": "openai:efed424b-e025-400f-8ac3-73e962b85751",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T17:30:35.590Z"
     },
     {
       "id": "JR2023423",
