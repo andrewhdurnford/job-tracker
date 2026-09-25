@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-25T17:00:25.284Z",
+  "generatedAt": "2026-09-25T17:10:15.819Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "roblox:8104808"
+    "Capital One:R1002145",
+    "spacex:8843974002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 142,
     "new-grad": 26,
-    "experienced": 2297
+    "experienced": 2295
   },
   "companies": [
     {
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 192,
+      "jobCount": 193,
       "error": null,
       "stale": false
     },
@@ -872,7 +873,7 @@
     {
       "name": "Chai Discovery",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1201,7 +1202,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -1816,10 +1817,10 @@
     },
     {
       "name": "Flexport",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Flint",
@@ -3399,7 +3400,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3848,7 +3849,7 @@
       "name": "Postman",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4015,7 +4016,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 127,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 128,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "R1002145",
+      "title": "Full-stack Engineer 2",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-2_R1002145",
+      "postedAt": "2026-09-25T17:10:19.495Z",
+      "key": "Capital One:R1002145",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T17:10:15.819Z"
+    },
+    {
+      "id": "8843974002",
+      "title": "Security Engineer (Vulnerability Management)",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8843974002?gh_jid=8843974002",
+      "postedAt": "2026-09-25T17:01:48.000Z",
+      "key": "spacex:8843974002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T17:10:15.819Z"
+    },
+    {
       "id": "8104808",
       "title": "Distinguished Engineer, Machine Learning Systems - Discovery",
       "location": "San Mateo, CA, United States",
@@ -6625,22 +6658,6 @@
       "url": "https://jobs.ashbyhq.com/chaidiscovery/dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
       "postedAt": "2026-09-24T23:45:49.396Z",
       "key": "chaidiscovery:dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
-      "company": "Chai Discovery",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T16:20:21.759Z"
-    },
-    {
-      "id": "38c316c8-564e-4e1d-834e-2e7d420eb8a7",
-      "title": "Research Engineer",
-      "location": "San Francisco office",
-      "team": "Research",
-      "url": "https://jobs.ashbyhq.com/chaidiscovery/38c316c8-564e-4e1d-834e-2e7d420eb8a7",
-      "postedAt": "2026-09-24T23:37:03.591Z",
-      "key": "chaidiscovery:38c316c8-564e-4e1d-834e-2e7d420eb8a7",
       "company": "Chai Discovery",
       "level": "experienced",
       "term": null,
@@ -12056,22 +12073,6 @@
       "postedAt": "2026-09-22T21:00:29.658Z",
       "key": "Capital One:R1001756",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T21:00:26.740Z"
-    },
-    {
-      "id": "d1d11006-d1e8-42c4-b1ea-02f4013c1ddb",
-      "title": "Senior Software Engineer, Flight + Plan",
-      "location": "Washington, DC",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/quindar/d1d11006-d1e8-42c4-b1ea-02f4013c1ddb",
-      "postedAt": "2026-09-22T20:56:59.114Z",
-      "key": "quindar:d1d11006-d1e8-42c4-b1ea-02f4013c1ddb",
-      "company": "Quindar",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -44655,38 +44656,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T17:20:35.426Z"
-    },
-    {
-      "id": "8063701",
-      "title": "Staff Data Engineer",
-      "location": "Mountain View, USA",
-      "team": null,
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8063701",
-      "postedAt": "2026-08-26T17:08:59.000Z",
-      "key": "coupang:8063701",
-      "company": "Coupang",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T17:10:19.666Z"
-    },
-    {
-      "id": "9d600645-ed53-4c6e-a3ab-3492f9bfa219",
-      "title": "Staff Mobile Software Engineer (AI Private Banker, SV) - US - IC7 - 2026",
-      "location": "Palo Alto",
-      "team": "Engineer",
-      "url": "https://jobs.ashbyhq.com/nubank/9d600645-ed53-4c6e-a3ab-3492f9bfa219",
-      "postedAt": "2026-08-26T17:05:47.569Z",
-      "key": "nubank:9d600645-ed53-4c6e-a3ab-3492f9bfa219",
-      "company": "Nubank",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T17:10:19.666Z"
     },
     {
       "id": "JR2023423",
