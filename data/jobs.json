@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-25T16:10:17.985Z",
+  "generatedAt": "2026-09-25T16:20:21.759Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R1002007",
-    "Capital One:R1002009",
-    "robinhood:8187448",
-    "roblox:8213903"
+    "Capital One:R1002095",
+    "chaidiscovery:dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
+    "chaidiscovery:d9fbc2b6-b695-4282-976f-73b91ef6c8bb",
+    "chaidiscovery:38c316c8-564e-4e1d-834e-2e7d420eb8a7"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 146,
+    "intern": 142,
     "new-grad": 26,
-    "experienced": 2299
+    "experienced": 2303
   },
   "companies": [
     {
@@ -791,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 190,
+      "jobCount": 191,
       "error": null,
       "stale": false
     },
@@ -875,7 +875,7 @@
     {
       "name": "Chai Discovery",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1758,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2066,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3228,7 +3228,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5404,7 +5404,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5704,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002095",
+      "title": "Staff Full-Stack Engineer",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1002095-2",
+      "postedAt": "2026-09-25T16:20:25.313Z",
+      "key": "Capital One:R1002095",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T16:20:21.759Z"
+    },
     {
       "id": "R1002007",
       "title": "Full-stack Engineer 5 - Shopping (Remote-Eligible)",
@@ -6477,6 +6493,22 @@
       "firstSeen": "2026-09-25T00:00:24.386Z"
     },
     {
+      "id": "d9fbc2b6-b695-4282-976f-73b91ef6c8bb",
+      "title": "Research Engineer - Auto Research",
+      "location": "San Francisco office",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/chaidiscovery/d9fbc2b6-b695-4282-976f-73b91ef6c8bb",
+      "postedAt": "2026-09-24T23:51:19.350Z",
+      "key": "chaidiscovery:d9fbc2b6-b695-4282-976f-73b91ef6c8bb",
+      "company": "Chai Discovery",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T16:20:21.759Z"
+    },
+    {
       "id": "JR114418",
       "title": "Senior Software Engineer",
       "location": "US Remote",
@@ -6491,6 +6523,38 @@
         "us"
       ],
       "firstSeen": "2026-09-24T23:50:15.452Z"
+    },
+    {
+      "id": "dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
+      "title": "Research Engineer - ML Infrastructure",
+      "location": "San Francisco office",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/chaidiscovery/dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
+      "postedAt": "2026-09-24T23:45:49.396Z",
+      "key": "chaidiscovery:dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
+      "company": "Chai Discovery",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T16:20:21.759Z"
+    },
+    {
+      "id": "38c316c8-564e-4e1d-834e-2e7d420eb8a7",
+      "title": "Research Engineer",
+      "location": "San Francisco office",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/chaidiscovery/38c316c8-564e-4e1d-834e-2e7d420eb8a7",
+      "postedAt": "2026-09-24T23:37:03.591Z",
+      "key": "chaidiscovery:38c316c8-564e-4e1d-834e-2e7d420eb8a7",
+      "company": "Chai Discovery",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T16:20:21.759Z"
     },
     {
       "id": "8232153",
@@ -16801,46 +16865,6 @@
       "firstSeen": "2026-09-18T21:49:13.224Z"
     },
     {
-      "id": "REF088596W",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Austin",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
-      "postedAt": "2026-09-18T21:40:23.906Z",
-      "key": "Visa:REF088596W",
-      "company": "Visa",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T21:40:19.957Z"
-    },
-    {
-      "id": "REF088594W",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Bellevue",
-      "location": "US - Bellevue, WA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
-      "postedAt": "2026-09-18T21:40:23.906Z",
-      "key": "Visa:REF088594W",
-      "company": "Visa",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T21:40:19.957Z"
-    },
-    {
       "id": "8187190",
       "title": "Senior Staff Software Engineer, Tech Foundations",
       "location": "Remote",
@@ -16855,46 +16879,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-18T21:40:19.957Z"
-    },
-    {
-      "id": "REF088599W",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
-      "location": "US - Ashburn, VA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1",
-      "postedAt": "2026-09-18T21:30:29.307Z",
-      "key": "Visa:REF088599W",
-      "company": "Visa",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T21:30:25.127Z"
-    },
-    {
-      "id": "REF088591W",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Foster City",
-      "location": "US - Foster City, CA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1",
-      "postedAt": "2026-09-18T21:30:29.307Z",
-      "key": "Visa:REF088591W",
-      "company": "Visa",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T21:30:25.127Z"
     },
     {
       "id": "5426213008",
