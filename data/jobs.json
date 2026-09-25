@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-25T18:10:23.719Z",
+  "generatedAt": "2026-09-25T18:20:16.628Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "cloudflare:8225899"
+    "stripe:8142952",
+    "zscaler:5216932007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -4694,7 +4695,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 127,
+      "jobCount": 126,
       "error": null,
       "stale": false
     },
@@ -4792,14 +4793,14 @@
     {
       "name": "Strava",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5688,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5216932007",
+      "title": "Staff Software Development Engineer",
+      "location": "San Jose, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216932007",
+      "postedAt": "2026-09-25T18:18:40.000Z",
+      "key": "zscaler:5216932007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T18:20:16.628Z"
+    },
+    {
+      "id": "8142952",
+      "title": "Staff Software Engineer, Link - Bank Connections",
+      "location": "San Francisco, Seattle, New York",
+      "team": "8560 Bank Connections - Eng",
+      "url": "https://stripe.com/jobs/search?gh_jid=8142952",
+      "postedAt": "2026-09-25T18:11:53.000Z",
+      "key": "stripe:8142952",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T18:20:16.628Z"
+    },
     {
       "id": "8225899",
       "title": "Senior Manager, Engineering",
@@ -17673,22 +17706,6 @@
       "postedAt": "2026-09-18T17:31:24.000Z",
       "key": "datadog:8212114",
       "company": "Datadog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T17:40:20.349Z"
-    },
-    {
-      "id": "e8c0730d-6a6f-451f-83e0-309c12bf405e",
-      "title": "Senior Data Engineer",
-      "location": "Strava SF",
-      "team": "Data and Insights",
-      "url": "https://jobs.ashbyhq.com/strava/e8c0730d-6a6f-451f-83e0-309c12bf405e",
-      "postedAt": "2026-09-18T17:31:07.566Z",
-      "key": "strava:e8c0730d-6a6f-451f-83e0-309c12bf405e",
-      "company": "Strava",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -44457,22 +44474,6 @@
         "remote"
       ],
       "firstSeen": "2026-08-26T18:30:22.281Z"
-    },
-    {
-      "id": "8751097002",
-      "title": "Satellite Systems Software Engineer (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002",
-      "postedAt": "2026-08-26T18:15:09.000Z",
-      "key": "spacex:8751097002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T18:20:18.250Z"
     },
     {
       "id": "JR2024421",
