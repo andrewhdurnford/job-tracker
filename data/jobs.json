@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-25T20:40:16.845Z",
+  "generatedAt": "2026-09-25T20:50:17.992Z",
   "bootstrap": false,
   "lastRunNewCount": 5,
   "newKeys": [
-    "harnessinc:5249738007",
-    "neuralink:8005762003",
-    "thumbtack:c1b25268-09ef-44d0-b08c-af68b650463b",
-    "thumbtack:f82051f8-b3f1-498d-b273-58e1b56f4925",
-    "waymo:8231711"
+    "lucidmotors:5242880007",
+    "roblox:8224135",
+    "shieldai:be90a4fc-598c-4de9-a5b4-312203aa4cee",
+    "thumbtack:517f1620-7250-4495-a181-2aecffad6475",
+    "thumbtack:db0a220d-07de-4136-afa1-2c08c2aeebf8"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +16,7 @@
   "levelCounts": {
     "intern": 142,
     "new-grad": 26,
-    "experienced": 2293
+    "experienced": 2298
   },
   "companies": [
     {
@@ -2016,10 +2016,10 @@
     },
     {
       "name": "GoCardless",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GoLinks",
@@ -2815,7 +2815,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4243,7 +4243,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -4474,7 +4474,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 126,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5083,7 +5083,7 @@
     {
       "name": "Thumbtack",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "db0a220d-07de-4136-afa1-2c08c2aeebf8",
+      "title": "Senior Native Engineer, Partnerships",
+      "location": "Remote, Ontario (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/thumbtack/db0a220d-07de-4136-afa1-2c08c2aeebf8",
+      "postedAt": "2026-09-25T20:44:45.673Z",
+      "key": "thumbtack:db0a220d-07de-4136-afa1-2c08c2aeebf8",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-25T20:50:17.992Z"
+    },
+    {
+      "id": "517f1620-7250-4495-a181-2aecffad6475",
+      "title": "Senior Native Engineer, Partnerships",
+      "location": "Remote, United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/thumbtack/517f1620-7250-4495-a181-2aecffad6475",
+      "postedAt": "2026-09-25T20:44:44.137Z",
+      "key": "thumbtack:517f1620-7250-4495-a181-2aecffad6475",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:50:17.992Z"
+    },
+    {
+      "id": "be90a4fc-598c-4de9-a5b4-312203aa4cee",
+      "title": "Staff Engineer, Software (R6114)",
+      "location": "Seattle, Washington",
+      "team": "X-BAT Engineering",
+      "url": "https://jobs.lever.co/shieldai/be90a4fc-598c-4de9-a5b4-312203aa4cee",
+      "postedAt": "2026-09-25T20:44:37.546Z",
+      "key": "shieldai:be90a4fc-598c-4de9-a5b4-312203aa4cee",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:50:17.992Z"
+    },
+    {
+      "id": "8224135",
+      "title": "Principal Software Engineer - Object Store",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8224135?gh_jid=8224135",
+      "postedAt": "2026-09-25T20:43:59.000Z",
+      "key": "roblox:8224135",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:50:17.992Z"
+    },
+    {
+      "id": "5242880007",
+      "title": "Perception Software Engineer, Autonomous Driving",
+      "location": "Newark, CA",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5242880007?gh_jid=5242880007",
+      "postedAt": "2026-09-25T20:43:54.000Z",
+      "key": "lucidmotors:5242880007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:50:17.992Z"
+    },
     {
       "id": "8005762003",
       "title": "Software Engineer - Simulation",
