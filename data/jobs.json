@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T17:50:17.275Z",
+  "generatedAt": "2026-09-25T18:00:23.156Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "contentful:8233486"
+    "instacart:8233716"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 141,
     "new-grad": 26,
-    "experienced": 2290
+    "experienced": 2288
   },
   "companies": [
     {
@@ -1755,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2419,7 +2419,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2516,10 +2516,10 @@
     },
     {
       "name": "Jump Trading",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Junction",
@@ -3413,7 +3413,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3637,7 +3637,7 @@
     {
       "name": "Pendo",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4106,7 +4106,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8233716",
+      "title": "Software Engineer II, Advertiser Optimization",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8233716",
+      "postedAt": "2026-09-25T17:57:51.000Z",
+      "key": "instacart:8233716",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-25T18:00:23.156Z"
+    },
     {
       "id": "8233486",
       "title": "Software Engineer, Applied AI Solutions",
@@ -12536,7 +12552,7 @@
     },
     {
       "id": "8831888002",
-      "title": "Senior Data Scientist / Machine Learning Engineer - Listing Quality",
+      "title": "Senior Applied AI/ML Scientist - Listing Quality",
       "location": "San Francisco, CA",
       "team": null,
       "url": "https://boards.greenhouse.io/faire/jobs/8831888002?gh_jid=8831888002",
@@ -44490,54 +44506,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-26T18:10:24.118Z"
-    },
-    {
-      "id": "8728254002",
-      "title": "Software Engineer (AI)",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/pendo/jobs/8728254002",
-      "postedAt": "2026-08-26T17:57:54.000Z",
-      "key": "pendo:8728254002",
-      "company": "Pendo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-04T17:00:24.196Z"
-    },
-    {
-      "id": "8148431",
-      "title": "Backend Software Engineer, PDP Experience",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8148431",
-      "postedAt": "2026-08-26T17:56:44.000Z",
-      "key": "reddit:8148431",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T18:00:28.488Z"
-    },
-    {
-      "id": "8160091",
-      "title": "Tech Lead Software Engineer, Fleet Connectivity",
-      "location": "Mountain View, California (HQ)",
-      "team": null,
-      "url": "https://nuro.ai/careersitem?gh_jid=8160091",
-      "postedAt": "2026-08-26T17:54:35.000Z",
-      "key": "nuro:8160091",
-      "company": "Nuro",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T18:00:28.488Z"
     },
     {
       "id": "R29847",
