@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-09-25T16:00:31.369Z",
+  "generatedAt": "2026-09-25T16:10:17.985Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "Capital One:R1002007",
+    "Capital One:R1002009",
+    "robinhood:8187448",
+    "roblox:8213903"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 147,
+    "intern": 146,
     "new-grad": 26,
-    "experienced": 2295
+    "experienced": 2299
   },
   "companies": [
     {
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 188,
+      "jobCount": 190,
       "error": null,
       "stale": false
     },
@@ -4230,14 +4235,14 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 129,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5399,7 +5404,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002007",
+      "title": "Full-stack Engineer 5 - Shopping (Remote-Eligible)",
+      "location": "2 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5---Shopping--Remote-Eligible-_R1002007",
+      "postedAt": "2026-09-25T16:10:21.581Z",
+      "key": "Capital One:R1002007",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-25T16:10:17.985Z"
+    },
+    {
+      "id": "R1002009",
+      "title": "Mobile Engineer 4 - Android (Remote-Eligible)",
+      "location": "2 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-4---Android--Remote-Eligible-_R1002009-1",
+      "postedAt": "2026-09-25T16:10:21.581Z",
+      "key": "Capital One:R1002009",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-25T16:10:17.985Z"
+    },
+    {
+      "id": "8213903",
+      "title": "Senior Software Engineer, Creator Services Translation ",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8213903?gh_jid=8213903",
+      "postedAt": "2026-09-25T16:05:24.000Z",
+      "key": "roblox:8213903",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T16:10:17.985Z"
+    },
+    {
+      "id": "8187448",
+      "title": "Quality Engineer",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8187448?t=gh_src=&gh_jid=8187448",
+      "postedAt": "2026-09-25T16:02:14.000Z",
+      "key": "robinhood:8187448",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-25T16:10:17.985Z"
+    },
     {
       "id": "R1002040",
       "title": "Front-End Engineer 5 (JavaScript, Angular, React, Node) (Enterprise Platforms Technology)",
@@ -20895,26 +20964,6 @@
         "us"
       ],
       "firstSeen": "2026-09-17T13:00:28.561Z"
-    },
-    {
-      "id": "REF088587W",
-      "title": "Software Engineer, Intern - Foster City 2027",
-      "location": "US - Foster City, CA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
-      "postedAt": "2026-09-17T12:50:23.253Z",
-      "key": "Visa:REF088587W",
-      "company": "Visa",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-17T12:50:19.297Z"
     },
     {
       "id": "REF088586W",
