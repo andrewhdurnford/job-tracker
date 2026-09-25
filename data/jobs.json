@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-09-25T20:20:16.168Z",
+  "generatedAt": "2026-09-25T20:30:24.205Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "neuralink:8005730003",
-    "snorkelai:6208895004",
-    "vitalize:6d9347cb-f118-4186-a382-a0d94af582b5"
+    "natera:6204494004",
+    "waymo:8224900"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 140,
+    "intern": 141,
     "new-grad": 26,
-    "experienced": 2291
+    "experienced": 2290
   },
   "companies": [
     {
@@ -1091,7 +1090,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1757,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2065,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3247,7 +3246,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5326,7 +5325,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6204494004",
+      "title": "Senior Software Engineer, LIMS",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6204494004",
+      "postedAt": "2026-09-25T20:29:14.000Z",
+      "key": "natera:6204494004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:30:24.205Z"
+    },
+    {
+      "id": "8224900",
+      "title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
+      "postedAt": "2026-09-25T20:20:21.000Z",
+      "key": "waymo:8224900",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:30:24.205Z"
+    },
     {
       "id": "8005730003",
       "title": "Software Engineer - HIL",
@@ -44476,22 +44513,6 @@
       "firstSeen": "2026-08-26T20:50:19.010Z"
     },
     {
-      "id": "ed632c31-2a66-4c91-8d29-f450bbd4de67",
-      "title": "Senior Fullstack Software Engineer, Authoring Experience",
-      "location": "Remote U.S.",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/ed632c31-2a66-4c91-8d29-f450bbd4de67",
-      "postedAt": "2026-08-26T20:28:52.130Z",
-      "key": "vanta:ed632c31-2a66-4c91-8d29-f450bbd4de67",
-      "company": "Vanta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T20:30:21.003Z"
-    },
-    {
       "id": "5222955007",
       "title": "Senior Engineering Manager - Test Systems & Tooling",
       "location": "United States",
@@ -45099,22 +45120,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T14:10:21.471Z"
-    },
-    {
-      "id": "b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
-      "title": "Senior Software Engineer, Air AI",
-      "location": "Mountain View, CA (+3 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
-      "postedAt": "2026-08-15T01:03:39.856Z",
-      "key": "commure:b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-15T01:10:25.742Z"
     },
     {
       "id": "R29790",
