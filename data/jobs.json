@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-09-25T18:20:16.628Z",
+  "generatedAt": "2026-09-25T18:30:20.827Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "stripe:8142952",
-    "zscaler:5216932007"
+    "Capital One:R1001547",
+    "fastly:8226276",
+    "roblox:8168346",
+    "toast:8227132",
+    "waymo:8231900"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 141,
     "new-grad": 26,
-    "experienced": 2287
+    "experienced": 2290
   },
   "companies": [
     {
@@ -75,7 +78,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -789,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 193,
+      "jobCount": 194,
       "error": null,
       "stale": false
     },
@@ -1692,7 +1695,7 @@
     {
       "name": "Fastly",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4240,7 +4243,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -5108,7 +5111,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5304,7 +5307,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5482,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5706,86 @@
   ],
   "jobs": [
     {
+      "id": "R1001547",
+      "title": "Senior Full Stack Engineer - Dealer Tech",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Full-Stack-Engineer---Dealer-Tech_R1001547-1",
+      "postedAt": "2026-09-25T18:30:23.443Z",
+      "key": "Capital One:R1001547",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T18:30:20.827Z"
+    },
+    {
+      "id": "8226276",
+      "title": "Senior Engineer - Production Cloud and Container Services",
+      "location": "Denver, CO; New York City, NY; San Francisco, CA",
+      "team": null,
+      "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8226276",
+      "postedAt": "2026-09-25T18:29:53.000Z",
+      "key": "fastly:8226276",
+      "company": "Fastly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T18:30:20.827Z"
+    },
+    {
+      "id": "8227132",
+      "title": "Staff Software Engineer, Tech Lead Payroll Onboarding",
+      "location": "Remote, USA",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8227132",
+      "postedAt": "2026-09-25T18:28:17.000Z",
+      "key": "toast:8227132",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T18:30:20.827Z"
+    },
+    {
+      "id": "8231900",
+      "title": "Senior Systems Integration Engineer",
+      "location": "Mountain View, CA, USA ",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8231900",
+      "postedAt": "2026-09-25T18:28:09.000Z",
+      "key": "waymo:8231900",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T18:30:20.827Z"
+    },
+    {
+      "id": "8168346",
+      "title": "Senior Frontend Engineer, Discovery UX",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8168346?gh_jid=8168346",
+      "postedAt": "2026-09-25T18:20:50.000Z",
+      "key": "roblox:8168346",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T18:30:20.827Z"
+    },
+    {
       "id": "5216932007",
       "title": "Staff Software Development Engineer",
       "location": "San Jose, California, USA",
@@ -5840,22 +5923,6 @@
       "postedAt": "2026-09-25T17:27:32.000Z",
       "key": "dominodatalab:8227732",
       "company": "Domino Data Lab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T17:30:19.969Z"
-    },
-    {
-      "id": "8113723",
-      "title": "Machine Learning Scientist, Personalize Intelligence",
-      "location": "Chicago",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8113723",
-      "postedAt": "2026-09-25T17:20:50.000Z",
-      "key": "adyen:8113723",
-      "company": "Adyen",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -44455,23 +44522,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-08-26T18:30:22.281Z"
-    },
-    {
-      "id": "8159614",
-      "title": "Software Engineer II, Delivery",
-      "location": "United States | Remote",
-      "team": null,
-      "url": "https://careers.upstart.com/jobs?gh_jid=8159614",
-      "postedAt": "2026-08-26T18:26:47.000Z",
-      "key": "upstart:8159614",
-      "company": "Upstart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
       ],
       "firstSeen": "2026-08-26T18:30:22.281Z"
     },
