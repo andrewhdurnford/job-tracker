@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-09-25T16:20:21.759Z",
+  "generatedAt": "2026-09-25T16:30:20.932Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1002095",
-    "chaidiscovery:dd8bf1b0-be34-42ba-94f7-76e6ebe204f6",
-    "chaidiscovery:d9fbc2b6-b695-4282-976f-73b91ef6c8bb",
-    "chaidiscovery:38c316c8-564e-4e1d-834e-2e7d420eb8a7"
+    "spacex:8843293002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 142,
     "new-grad": 26,
-    "experienced": 2303
+    "experienced": 2299
   },
   "companies": [
     {
@@ -84,7 +81,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1758,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2066,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2814,7 +2811,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -3228,7 +3225,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4696,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 129,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 127,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5719,6 +5716,22 @@
         "us"
       ],
       "firstSeen": "2026-09-25T16:20:21.759Z"
+    },
+    {
+      "id": "8843293002",
+      "title": "Sr. Software Engineer, Additive Manufacturing (Raptor)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8843293002?gh_jid=8843293002",
+      "postedAt": "2026-09-25T16:20:00.000Z",
+      "key": "spacex:8843293002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T16:30:20.932Z"
     },
     {
       "id": "R1002007",
@@ -44706,86 +44719,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T16:50:17.490Z"
-    },
-    {
-      "id": "7819891003",
-      "title": "Senior Software Engineer, Backend (Authentication Experience)",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7819891003",
-      "postedAt": "2026-08-26T16:27:57.000Z",
-      "key": "affirm:7819891003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-26T16:30:25.603Z"
-    },
-    {
-      "id": "5216837007",
-      "title": "Senior Software Engineer, ADAS Feature Integration ",
-      "location": "Southfield, MI",
-      "team": null,
-      "url": "https://lucidmotors.com/careers/search/5216837007?gh_jid=5216837007",
-      "postedAt": "2026-08-26T16:22:53.000Z",
-      "key": "lucidmotors:5216837007",
-      "company": "Lucid Motors",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T16:30:25.603Z"
-    },
-    {
-      "id": "8745828002",
-      "title": "Solar Cell Quality Engineer (Starlink)",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8745828002?gh_jid=8745828002",
-      "postedAt": "2026-08-26T16:18:29.000Z",
-      "key": "spacex:8745828002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T16:20:19.220Z"
-    },
-    {
-      "id": "8750881002",
-      "title": "Sr. Software Engineer, Data Platform (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8750881002?gh_jid=8750881002",
-      "postedAt": "2026-08-26T16:16:25.000Z",
-      "key": "spacex:8750881002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T16:20:19.220Z"
-    },
-    {
-      "id": "8750868002",
-      "title": "Sr. Software Engineer, Data (Starlink)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8750868002?gh_jid=8750868002",
-      "postedAt": "2026-08-26T16:15:42.000Z",
-      "key": "spacex:8750868002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T16:20:19.220Z"
     },
     {
       "id": "JR2023423",
