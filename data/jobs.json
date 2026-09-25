@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T04:20:21.792Z",
+  "generatedAt": "2026-09-25T04:30:22.565Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 26,
-    "experienced": 2305
+    "experienced": 2304
   },
   "companies": [
     {
@@ -2159,7 +2159,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4230,7 +4230,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 128,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -41422,22 +41422,6 @@
       "postedAt": "2026-08-28T18:55:34.000Z",
       "key": "flexport:8164901",
       "company": "Flexport",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T19:00:28.713Z"
-    },
-    {
-      "id": "8164943",
-      "title": "Senior Software Engineer, Developer Experience (DevX)",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8164943?t=gh_src=&gh_jid=8164943",
-      "postedAt": "2026-08-28T18:53:12.000Z",
-      "key": "robinhood:8164943",
-      "company": "Robinhood",
       "level": "experienced",
       "term": null,
       "regions": [
