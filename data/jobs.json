@@ -1,19 +1,22 @@
 {
-  "generatedAt": "2026-09-25T20:30:24.205Z",
+  "generatedAt": "2026-09-25T20:40:16.845Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "natera:6204494004",
-    "waymo:8224900"
+    "harnessinc:5249738007",
+    "neuralink:8005762003",
+    "thumbtack:c1b25268-09ef-44d0-b08c-af68b650463b",
+    "thumbtack:f82051f8-b3f1-498d-b273-58e1b56f4925",
+    "waymo:8231711"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 141,
+    "intern": 142,
     "new-grad": 26,
-    "experienced": 2290
+    "experienced": 2293
   },
   "companies": [
     {
@@ -1756,7 +1759,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2064,7 +2067,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2168,7 +2171,7 @@
     {
       "name": "Harness",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3309,7 +3312,7 @@
     {
       "name": "Neuralink",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4856,7 +4859,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5080,7 +5083,7 @@
     {
       "name": "Thumbtack",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5482,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5706,76 @@
   ],
   "jobs": [
     {
+      "id": "8005762003",
+      "title": "Software Engineer - Simulation",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "team": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003?gh_jid=8005762003",
+      "postedAt": "2026-09-25T20:37:44.000Z",
+      "key": "neuralink:8005762003",
+      "company": "Neuralink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:40:16.845Z"
+    },
+    {
+      "id": "8231711",
+      "title": "2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
+      "location": "Mountain View, CA, USA ",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8231711",
+      "postedAt": "2026-09-25T20:33:28.000Z",
+      "key": "waymo:8231711",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:40:16.845Z"
+    },
+    {
+      "id": "c1b25268-09ef-44d0-b08c-af68b650463b",
+      "title": "Senior Software Engineer, Design Systems",
+      "location": "Remote, Ontario (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/thumbtack/c1b25268-09ef-44d0-b08c-af68b650463b",
+      "postedAt": "2026-09-25T20:30:44.642Z",
+      "key": "thumbtack:c1b25268-09ef-44d0-b08c-af68b650463b",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-25T20:40:16.845Z"
+    },
+    {
+      "id": "f82051f8-b3f1-498d-b273-58e1b56f4925",
+      "title": "Senior Software Engineer, Design Systems",
+      "location": "Remote, United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/thumbtack/f82051f8-b3f1-498d-b273-58e1b56f4925",
+      "postedAt": "2026-09-25T20:30:43.136Z",
+      "key": "thumbtack:f82051f8-b3f1-498d-b273-58e1b56f4925",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:40:16.845Z"
+    },
+    {
       "id": "6204494004",
       "title": "Senior Software Engineer, LIMS",
       "location": "US Remote",
@@ -5717,6 +5790,22 @@
         "us"
       ],
       "firstSeen": "2026-09-25T20:30:24.205Z"
+    },
+    {
+      "id": "5249738007",
+      "title": "Forward Deployed Engineer (Implementation Engineering)",
+      "location": "Chicago, Illinois, United States; New York, New York, United States; San Francisco, California, United States",
+      "team": null,
+      "url": "https://www.harness.io/company/jobs/apply?gh_jid=5249738007&gh_jid=5249738007",
+      "postedAt": "2026-09-25T20:28:36.000Z",
+      "key": "harnessinc:5249738007",
+      "company": "Harness",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:40:16.845Z"
     },
     {
       "id": "8224900",
@@ -44495,22 +44584,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T21:00:26.212Z"
-    },
-    {
-      "id": "2058717a-ac2a-4092-9c83-dc7f3241e789",
-      "title": "Senior / Staff Data Scientist, Trust & Safety",
-      "location": "San Francisco",
-      "team": "Data",
-      "url": "https://jobs.ashbyhq.com/suno/2058717a-ac2a-4092-9c83-dc7f3241e789",
-      "postedAt": "2026-08-26T20:37:52.594Z",
-      "key": "suno:2058717a-ac2a-4092-9c83-dc7f3241e789",
-      "company": "Suno",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T20:50:19.010Z"
     },
     {
       "id": "5222955007",
