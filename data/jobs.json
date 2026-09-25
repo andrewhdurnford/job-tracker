@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T18:00:23.156Z",
+  "generatedAt": "2026-09-25T18:10:23.719Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "instacart:8233716"
+    "cloudflare:8225899"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 141,
     "new-grad": 26,
-    "experienced": 2288
+    "experienced": 2287
   },
   "companies": [
     {
@@ -1012,7 +1012,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -1047,7 +1047,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2516,10 +2516,10 @@
     },
     {
       "name": "Jump Trading",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Junction",
@@ -5023,7 +5023,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8225899",
+      "title": "Senior Manager, Engineering",
+      "location": "Austin, TX (+1 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8225899?gh_jid=8225899",
+      "postedAt": "2026-09-25T18:05:49.000Z",
+      "key": "cloudflare:8225899",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T18:10:23.719Z"
+    },
     {
       "id": "8233716",
       "title": "Software Engineer II, Advertiser Optimization",
@@ -21164,23 +21180,6 @@
         "us"
       ],
       "firstSeen": "2026-09-17T05:40:21.919Z"
-    },
-    {
-      "id": "f8b1d059-32d7-4d78-aea6-2e64dd3e9f6a",
-      "title": "Staff Cloud Security Engineer",
-      "location": "United States (Remote) (+1 more)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/temporal/f8b1d059-32d7-4d78-aea6-2e64dd3e9f6a",
-      "postedAt": "2026-09-17T04:37:19.589Z",
-      "key": "temporal:f8b1d059-32d7-4d78-aea6-2e64dd3e9f6a",
-      "company": "Temporal",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-17T04:40:16.832Z"
     },
     {
       "id": "8203200",
@@ -44488,22 +44487,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-08-26T18:10:24.118Z"
-    },
-    {
-      "id": "cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3",
-      "title": "Senior Mobile Engineer (iOS or Android)",
-      "location": "Toronto (+4 more)",
-      "team": "Product Software Engineering ",
-      "url": "https://jobs.ashbyhq.com/cohere/cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3",
-      "postedAt": "2026-08-26T18:04:03.315Z",
-      "key": "cohere:cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3",
-      "company": "Cohere",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-08-26T18:10:24.118Z"
     },
