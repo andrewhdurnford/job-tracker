@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-09-25T20:10:16.633Z",
+  "generatedAt": "2026-09-25T20:20:16.168Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "alpaca:6208691004",
-    "ashby:eef95ecb-f946-4339-913d-beed66201bef"
+    "neuralink:8005730003",
+    "snorkelai:6208895004",
+    "vitalize:6d9347cb-f118-4186-a382-a0d94af582b5"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1965,7 +1966,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -2706,10 +2707,10 @@
     },
     {
       "name": "LaunchDarkly",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Ledgy",
@@ -3309,7 +3310,7 @@
     {
       "name": "Neuralink",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3470,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -4632,7 +4633,7 @@
     {
       "name": "Snorkel AI",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 126,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5374,7 +5375,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5409,7 +5410,7 @@
     {
       "name": "Vitalize",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8005730003",
+      "title": "Software Engineer - HIL",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "team": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/8005730003?gh_jid=8005730003",
+      "postedAt": "2026-09-25T20:18:26.000Z",
+      "key": "neuralink:8005730003",
+      "company": "Neuralink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:20:16.168Z"
+    },
+    {
+      "id": "6208895004",
+      "title": "Research Scientist - Human-AI Systems",
+      "location": "San Francisco, CA (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6208895004",
+      "postedAt": "2026-09-25T20:17:42.000Z",
+      "key": "snorkelai:6208895004",
+      "company": "Snorkel AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T20:20:16.168Z"
+    },
     {
       "id": "eef95ecb-f946-4339-913d-beed66201bef",
       "title": "QA Engineer ",
@@ -7906,6 +7939,22 @@
         "us"
       ],
       "firstSeen": "2026-09-24T18:30:23.378Z"
+    },
+    {
+      "id": "6d9347cb-f118-4186-a382-a0d94af582b5",
+      "title": "Platform Engineer ",
+      "location": "Remote",
+      "team": "Product & Eng",
+      "url": "https://jobs.ashbyhq.com/vitalize/6d9347cb-f118-4186-a382-a0d94af582b5",
+      "postedAt": "2026-09-24T18:17:08.310Z",
+      "key": "vitalize:6d9347cb-f118-4186-a382-a0d94af582b5",
+      "company": "Vitalize",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-25T20:20:16.168Z"
     },
     {
       "id": "8842963002",
@@ -36953,22 +37002,6 @@
       "firstSeen": "2026-09-02T18:20:18.798Z"
     },
     {
-      "id": "8769103002",
-      "title": "Staff Infrastructure Security Engineer (USA)",
-      "location": "Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8769103002",
-      "postedAt": "2026-09-02T18:15:11.000Z",
-      "key": "gitlab:8769103002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T18:20:18.798Z"
-    },
-    {
       "id": "5228742007",
       "title": "Scientist, AI/ML — Antibody Developability",
       "location": "California, United States",
@@ -44457,38 +44490,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T20:30:21.003Z"
-    },
-    {
-      "id": "5216393007",
-      "title": "Engineering Manager, Core Platform",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5216393007",
-      "postedAt": "2026-08-26T20:18:20.000Z",
-      "key": "verkada:5216393007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T20:20:17.792Z"
-    },
-    {
-      "id": "8160475",
-      "title": "Manager, Site Reliability Engineering (Auth0)",
-      "location": "New York, New York; Washington, DC",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8160475?gh_jid=8160475",
-      "postedAt": "2026-08-26T20:15:02.000Z",
-      "key": "okta:8160475",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T20:20:17.792Z"
     },
     {
       "id": "5222955007",
