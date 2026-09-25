@@ -1,20 +1,21 @@
 {
-  "generatedAt": "2026-09-25T21:00:23.507Z",
+  "generatedAt": "2026-09-25T21:10:17.053Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "doordashusa:8204111",
-    "doordashusa:8233953",
-    "Tempus AI:JR202600980"
+    "instacart:8234282",
+    "mindrobotics:375e5c16-b4a7-475a-8a5b-5c98c01ff512",
+    "spacex:8841324002",
+    "waymo:8233746"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 144,
+    "intern": 145,
     "new-grad": 26,
-    "experienced": 2295
+    "experienced": 2298
   },
   "companies": [
     {
@@ -2421,7 +2422,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3044,7 +3045,7 @@
     {
       "name": "Mind Robotics",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 126,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 127,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5480,7 +5481,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5705,60 @@
   ],
   "jobs": [
     {
+      "id": "8234282",
+      "title": "Senior Software Engineer II - Ads Quality ",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8234282",
+      "postedAt": "2026-09-25T21:04:42.000Z",
+      "key": "instacart:8234282",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T21:10:17.053Z"
+    },
+    {
+      "id": "375e5c16-b4a7-475a-8a5b-5c98c01ff512",
+      "title": "Software Engineer, Data Platform",
+      "location": "Palo Alto",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/mindrobotics/375e5c16-b4a7-475a-8a5b-5c98c01ff512",
+      "postedAt": "2026-09-25T21:02:43.540Z",
+      "key": "mindrobotics:375e5c16-b4a7-475a-8a5b-5c98c01ff512",
+      "company": "Mind Robotics",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T21:10:17.053Z"
+    },
+    {
+      "id": "8233746",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8233746",
+      "postedAt": "2026-09-25T21:01:50.000Z",
+      "key": "waymo:8233746",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T21:10:17.053Z"
+    },
+    {
       "id": "JR202600980",
       "title": "Senior Software Engineer (Platform Engineering)-Remote, USA",
       "location": "Remote - California",
@@ -5718,6 +5773,22 @@
         "us"
       ],
       "firstSeen": "2026-09-25T21:00:23.507Z"
+    },
+    {
+      "id": "8841324002",
+      "title": "Software Engineer (Starlink Ground Network)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002",
+      "postedAt": "2026-09-25T20:46:12.000Z",
+      "key": "spacex:8841324002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T21:10:17.053Z"
     },
     {
       "id": "db0a220d-07de-4136-afa1-2c08c2aeebf8",
