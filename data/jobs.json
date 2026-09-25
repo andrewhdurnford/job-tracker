@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-09-25T13:50:17.834Z",
+  "generatedAt": "2026-09-25T14:00:26.069Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R241036",
-    "gitlab:8815140002"
+    "adyen:8210671",
+    "epicgames:6200780004",
+    "epicgames:6208474004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 26,
-    "experienced": 2299
+    "experienced": 2302
   },
   "companies": [
     {
@@ -75,7 +76,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1615,7 +1616,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5310,10 +5311,10 @@
     },
     {
       "name": "UserGems",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Valar Atomics",
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8210671",
+      "title": "Software Engineer II (Kotlin) - Core Experience",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8210671",
+      "postedAt": "2026-09-25T13:52:45.000Z",
+      "key": "adyen:8210671",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T14:00:26.069Z"
+    },
+    {
+      "id": "6208474004",
+      "title": "Principal AI Programmer, Unreal Assistant",
+      "location": "Vancouver,British Columbia,Canada",
+      "team": "Engineering Specialist",
+      "url": "https://epicgames.com/careers/jobs/6208474004?gh_jid=6208474004",
+      "postedAt": "2026-09-25T13:51:20.000Z",
+      "key": "epicgames:6208474004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-25T14:00:26.069Z"
+    },
+    {
+      "id": "6200780004",
+      "title": "Principal AI Engineer, Unreal Assistant",
+      "location": "Cary,North Carolina,United States",
+      "team": "Engineering Specialist",
+      "url": "https://epicgames.com/careers/jobs/6200780004?gh_jid=6200780004",
+      "postedAt": "2026-09-25T13:51:16.000Z",
+      "key": "epicgames:6200780004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T14:00:26.069Z"
+    },
     {
       "id": "R241036",
       "title": "Staff Engineer - Agentic AI (Remote-Eligible)",
