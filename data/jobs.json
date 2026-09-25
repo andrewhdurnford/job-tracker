@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-09-25T19:00:24.123Z",
+  "generatedAt": "2026-09-25T19:10:17.225Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "gleanwork:4738120005",
-    "neuralink:8005649003",
-    "stripe:8233889"
+    "Capital One:R1002055",
+    "waymo:8232448"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 141,
+    "intern": 140,
     "new-grad": 26,
-    "experienced": 2287
+    "experienced": 2288
   },
   "companies": [
     {
@@ -790,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 194,
+      "jobCount": 195,
       "error": null,
       "stale": false
     },
@@ -867,7 +866,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -2877,7 +2876,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3227,7 +3226,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5326,7 +5325,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002055",
+      "title": "Full Stack Engineer 4",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1002055-1",
+      "postedAt": "2026-09-25T19:10:20.078Z",
+      "key": "Capital One:R1002055",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T19:10:17.225Z"
+    },
+    {
+      "id": "8232448",
+      "title": "Technical Lead Manager, Motion Control Test Engineering",
+      "location": "Mountain View, CA, US; San Francisco, CA, US",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8232448",
+      "postedAt": "2026-09-25T19:00:27.000Z",
+      "key": "waymo:8232448",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T19:10:17.225Z"
+    },
     {
       "id": "8005649003",
       "title": "IT Security & Identity Engineer",
@@ -20188,7 +20219,7 @@
       "id": "f846e1fc-0099-4456-9232-9abe83dff272",
       "title": "Senior/Staff Data Engineer",
       "location": "SF or Remote (US/Canada)",
-      "team": "Product",
+      "team": "Data Science",
       "url": "https://jobs.ashbyhq.com/render/f846e1fc-0099-4456-9232-9abe83dff272",
       "postedAt": "2026-09-17T21:48:28.244Z",
       "key": "render:f846e1fc-0099-4456-9232-9abe83dff272",
@@ -25440,22 +25471,6 @@
       "term": null,
       "regions": [
         "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-14T21:50:17.531Z"
-    },
-    {
-      "id": "c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
-      "title": "DevOps Engineer Intern - PEY",
-      "location": "Toronto, CAN",
-      "team": "University Departments",
-      "url": "https://jobs.ashbyhq.com/cerebras/c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
-      "postedAt": "2026-09-14T21:41:26.730Z",
-      "key": "cerebras:c4faac59-3dbb-4ab7-9f74-d1fcbcddc7c6",
-      "company": "Cerebras Systems",
-      "level": "intern",
-      "term": null,
-      "regions": [
         "canada"
       ],
       "firstSeen": "2026-09-14T21:50:17.531Z"
@@ -44442,22 +44457,6 @@
         "us"
       ],
       "firstSeen": "2026-08-26T19:20:20.670Z"
-    },
-    {
-      "id": "0ccbb65f-f675-410a-ae54-1d34575f228a",
-      "title": "Software Engineer, Integrations Platform, Vanta For Government (V4G)",
-      "location": "Remote U.S.",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a",
-      "postedAt": "2026-08-26T19:04:45.475Z",
-      "key": "vanta:0ccbb65f-f675-410a-ae54-1d34575f228a",
-      "company": "Vanta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-26T19:10:18.288Z"
     },
     {
       "id": "42262d8e-9bbe-46ab-a774-294e8716e3ed",
