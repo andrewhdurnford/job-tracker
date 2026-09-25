@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-25T15:00:25.237Z",
+  "generatedAt": "2026-09-25T15:10:21.278Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "faire:8845103002",
+    "Remitly:R_106966"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 194,
+      "jobCount": 193,
       "error": null,
       "stale": false
     },
@@ -1668,7 +1671,7 @@
     {
       "name": "Faire",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4132,7 +4135,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 129,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5686,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_106966",
+      "title": "AI Native Software Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
+      "postedAt": "2026-09-25T15:10:25.044Z",
+      "key": "Remitly:R_106966",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T15:10:21.278Z"
+    },
+    {
+      "id": "8845103002",
+      "title": "Senior Applied AI/ML Scientist - Marketplace Quality",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8845103002?gh_jid=8845103002",
+      "postedAt": "2026-09-25T15:00:30.000Z",
+      "key": "faire:8845103002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T15:10:21.278Z"
+    },
     {
       "id": "8232905",
       "title": "Staff Software Engineer",
@@ -32452,22 +32487,6 @@
       "firstSeen": "2026-09-08T16:10:17.885Z"
     },
     {
-      "id": "R999840",
-      "title": "Lead Software Engineer, Enterprise CI/CD (AWS, Python, Groovy)",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Lead-Software-Engineer--Enterprise-CI-CD--AWS--Python--Groovy-_R999840-1",
-      "postedAt": "2026-09-08T15:51:00.822Z",
-      "key": "Capital One:R999840",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T15:50:57.393Z"
-    },
-    {
       "id": "894b22a8-cb2f-43f2-ade8-eff8fa0a520f",
       "title": "Software Engineer",
       "location": "Toronto Office",
@@ -44838,22 +44857,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-08-26T15:51:32.360Z"
-    },
-    {
-      "id": "5216926007",
-      "title": "Sr. Software Development Engineer (Controlplane)",
-      "location": "San Jose, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216926007",
-      "postedAt": "2026-08-26T15:01:24.000Z",
-      "key": "zscaler:5216926007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-08-26T15:51:32.360Z"
     },
