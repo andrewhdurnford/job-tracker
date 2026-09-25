@@ -1,18 +1,21 @@
 {
-  "generatedAt": "2026-09-25T01:00:22.914Z",
+  "generatedAt": "2026-09-25T01:10:27.045Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "northwoodspace:c1367951-af1e-4ac9-a21b-029421907ebe"
+    "openai:7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
+    "snowflake:7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+    "snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+    "snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
+    "intern": 152,
     "new-grad": 26,
-    "experienced": 2305
+    "experienced": 2306
   },
   "companies": [
     {
@@ -1755,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3511,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 62,
+      "jobCount": 63,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4641,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,88 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4be290ae-dd9d-488c-9d90-56fcd69101ca",
+      "title": "Software Engineer Intern (AI / ML) - Spring 2027",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
+      "postedAt": "2026-09-25T01:05:50.921Z",
+      "key": "snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca",
+      "company": "Snowflake",
+      "level": "intern",
+      "term": {
+        "label": "Spring 2027",
+        "seasons": [
+          "spring"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T01:10:27.045Z"
+    },
+    {
+      "id": "7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
+      "title": "Software Engineer, Search Infrastructure",
+      "location": "San Francisco",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
+      "postedAt": "2026-09-25T01:05:08.971Z",
+      "key": "openai:7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T01:10:27.045Z"
+    },
+    {
+      "id": "7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+      "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+      "postedAt": "2026-09-25T01:04:54.726Z",
+      "key": "snowflake:7bd393df-67d7-4009-ba4f-1cd79a82b0be",
+      "company": "Snowflake",
+      "level": "intern",
+      "term": {
+        "label": "Spring 2027",
+        "seasons": [
+          "spring"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T01:10:27.045Z"
+    },
+    {
+      "id": "5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+      "postedAt": "2026-09-25T01:03:02.890Z",
+      "key": "snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
+      "company": "Snowflake",
+      "level": "intern",
+      "term": {
+        "label": "Spring 2027",
+        "seasons": [
+          "spring"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T01:10:27.045Z"
+    },
     {
       "id": "c1367951-af1e-4ac9-a21b-029421907ebe",
       "title": "Senior Security Engineer",
