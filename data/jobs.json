@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-09-25T14:00:26.069Z",
+  "generatedAt": "2026-09-25T14:10:19.545Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "adyen:8210671",
-    "epicgames:6200780004",
-    "epicgames:6208474004"
+    "CrowdStrike:R29845"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 26,
-    "experienced": 2302
+    "experienced": 2303
   },
   "companies": [
     {
@@ -1245,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -1757,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2065,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5311,10 +5309,10 @@
     },
     {
       "name": "UserGems",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Valar Atomics",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29845",
+      "title": "Sr. Full Stack Engineer, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Full-Stack-Engineer--Cloud-Native---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29845",
+      "postedAt": "2026-09-25T14:10:23.494Z",
+      "key": "CrowdStrike:R29845",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-25T14:10:19.545Z"
+    },
     {
       "id": "8210671",
       "title": "Software Engineer II (Kotlin) - Core Experience",
