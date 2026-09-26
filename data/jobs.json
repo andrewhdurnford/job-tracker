@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T05:10:16.126Z",
+  "generatedAt": "2026-09-26T05:20:16.163Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 26,
-    "experienced": 2296
+    "experienced": 2295
   },
   "companies": [
     {
@@ -785,10 +785,10 @@
     },
     {
       "name": "Capital One",
-      "ok": true,
+      "ok": false,
       "jobCount": 196,
-      "error": null,
-      "stale": false
+      "error": "HTTP 500 Internal Server Error",
+      "stale": true
     },
     {
       "name": "CaptivateIQ",
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 127,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4790,7 +4790,7 @@
     {
       "name": "Strava",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -44688,22 +44688,6 @@
         "us"
       ],
       "firstSeen": "2026-08-27T07:30:25.551Z"
-    },
-    {
-      "id": "09ab60f0-de73-4bde-9de2-f5b6809f8dce",
-      "title": "Lead Data Scientist, Data Products ",
-      "location": "Strava SF",
-      "team": "Data and Insights",
-      "url": "https://jobs.ashbyhq.com/strava/09ab60f0-de73-4bde-9de2-f5b6809f8dce",
-      "postedAt": "2026-08-27T05:15:59.967Z",
-      "key": "strava:09ab60f0-de73-4bde-9de2-f5b6809f8dce",
-      "company": "Strava",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-27T05:20:17.864Z"
     },
     {
       "id": "JR2024570",
