@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-26T21:00:23.364Z",
+  "generatedAt": "2026-09-26T21:10:15.417Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "shieldai:5e726b28-a905-418d-a1e5-35c83371869d"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 26,
-    "experienced": 2234
+    "experienced": 2233
   },
   "companies": [
     {
@@ -2599,7 +2601,7 @@
     {
       "name": "KoBold Metals",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -2830,7 +2832,7 @@
     {
       "name": "Luminai",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4468,7 +4470,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 122,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5e726b28-a905-418d-a1e5-35c83371869d",
+      "title": "Senior IT Operations Engineer (R6117)",
+      "location": "Dallas, Texas",
+      "team": "Security",
+      "url": "https://jobs.lever.co/shieldai/5e726b28-a905-418d-a1e5-35c83371869d",
+      "postedAt": "2026-09-26T21:05:28.667Z",
+      "key": "shieldai:5e726b28-a905-418d-a1e5-35c83371869d",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-26T21:10:15.417Z"
+    },
     {
       "id": "cc36d8ce-4afc-4d86-a4ad-8d5612b184d4",
       "title": "Staff Engineer, Test Automation (R5792)",
@@ -43660,39 +43678,6 @@
         "us"
       ],
       "firstSeen": "2026-08-27T21:20:18.805Z"
-    },
-    {
-      "id": "4728512005",
-      "title": "Staff Applied Scientist - Metalab",
-      "location": "Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/koboldmetals/jobs/4728512005",
-      "postedAt": "2026-08-27T21:07:40.000Z",
-      "key": "koboldmetals:4728512005",
-      "company": "KoBold Metals",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-08-27T21:10:19.044Z"
-    },
-    {
-      "id": "4758a1cb-c463-43c1-8616-8eb3160f19d4",
-      "title": "Senior Support Engineer",
-      "location": "SF Bay Area (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/luminai/4758a1cb-c463-43c1-8616-8eb3160f19d4",
-      "postedAt": "2026-08-27T21:04:30.400Z",
-      "key": "luminai:4758a1cb-c463-43c1-8616-8eb3160f19d4",
-      "company": "Luminai",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-08-27T21:10:19.044Z"
     },
     {
       "id": "R239837",
