@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T05:30:24.831Z",
+  "generatedAt": "2026-09-26T05:40:14.836Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -785,10 +785,10 @@
     },
     {
       "name": "Capital One",
-      "ok": false,
+      "ok": true,
       "jobCount": 196,
-      "error": "HTTP 500 Internal Server Error",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "CaptivateIQ",
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3886,10 +3886,10 @@
     },
     {
       "name": "Procore",
-      "ok": false,
+      "ok": true,
       "jobCount": 9,
-      "error": "HTTP 500 Internal Server Error",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Prodigal",
