@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:50:15.970Z",
+  "generatedAt": "2026-09-27T21:00:22.995Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 26,
-    "experienced": 2173
+    "experienced": 2171
   },
   "companies": [
     {
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2915,7 +2915,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3257,7 +3257,7 @@
     {
       "name": "Neighbor",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 122,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5105,7 +5105,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -42597,38 +42597,6 @@
         "remote"
       ],
       "firstSeen": "2026-08-28T21:20:20.350Z"
-    },
-    {
-      "id": "3c27afec-628f-4305-9519-9b525035e3f0",
-      "title": "Software Engineer",
-      "location": "Lehi, UT",
-      "team": "Engineering",
-      "url": "https://jobs.lever.co/neighbor/3c27afec-628f-4305-9519-9b525035e3f0",
-      "postedAt": "2026-08-28T20:59:35.286Z",
-      "key": "neighbor:3c27afec-628f-4305-9519-9b525035e3f0",
-      "company": "Neighbor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T21:30:21.837Z"
-    },
-    {
-      "id": "8144016",
-      "title": "Senior Software Engineering Manager, ToastNow",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8144016",
-      "postedAt": "2026-08-28T20:50:28.000Z",
-      "key": "toast:8144016",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-28T21:00:26.965Z"
     },
     {
       "id": "be48aafc-9610-4ebd-8414-a0722a3cd59a",
