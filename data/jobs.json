@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T21:20:17.964Z",
+  "generatedAt": "2026-09-27T21:30:32.523Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 26,
-    "experienced": 2170
+    "experienced": 2168
   },
   "companies": [
     {
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2382,7 +2382,7 @@
     {
       "name": "InfluxData",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 122,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5511,7 +5511,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -19634,22 +19634,6 @@
         "us"
       ],
       "firstSeen": "2026-09-18T14:20:20.893Z"
-    },
-    {
-      "id": "4f3a9e57-0a2c-46fc-9815-dc7805a0da57",
-      "title": "Manager, Analytics Engineering",
-      "location": "Boston, MA",
-      "team": "Machine Learning Platform",
-      "url": "https://jobs.ashbyhq.com/whoop/4f3a9e57-0a2c-46fc-9815-dc7805a0da57",
-      "postedAt": "2026-09-18T13:39:52.471Z",
-      "key": "whoop:4f3a9e57-0a2c-46fc-9815-dc7805a0da57",
-      "company": "WHOOP",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T13:47:33.515Z"
     },
     {
       "id": "8689236002",
@@ -42564,23 +42548,6 @@
         "us"
       ],
       "firstSeen": "2026-08-28T21:40:19.217Z"
-    },
-    {
-      "id": "c2b30d69-ba41-427a-b789-e811f566e177",
-      "title": "Software Engineer, Database Reliability & Performance",
-      "location": "Remote US (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/influxdata/c2b30d69-ba41-427a-b789-e811f566e177",
-      "postedAt": "2026-08-28T21:21:39.340Z",
-      "key": "influxdata:c2b30d69-ba41-427a-b789-e811f566e177",
-      "company": "InfluxData",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-08-28T21:30:24.262Z"
     },
     {
       "id": "be48aafc-9610-4ebd-8414-a0722a3cd59a",
