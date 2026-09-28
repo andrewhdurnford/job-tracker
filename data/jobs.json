@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T14:50:54.230Z",
+  "generatedAt": "2026-09-28T15:00:29.230Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Procore:R0018624"
+    "Remitly:R_106938"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 26,
-    "experienced": 2159
+    "experienced": 2160
   },
   "companies": [
     {
@@ -318,10 +318,10 @@
     },
     {
       "name": "AON3D",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Apolink",
@@ -3225,7 +3225,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3755,10 +3755,10 @@
     },
     {
       "name": "Pinterest",
-      "ok": true,
+      "ok": false,
       "jobCount": 7,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pirros",
@@ -4134,7 +4134,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 123,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_106938",
+      "title": "Principal Software Development Engineer, Core Transfer Experience",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Principal-Software-Development-Engineer--Core-Transfer-Experience_R_106938",
+      "postedAt": "2026-09-28T15:00:32.968Z",
+      "key": "Remitly:R_106938",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T15:00:29.230Z"
+    },
     {
       "id": "R0018624",
       "title": "Senior iOS Engineer",
@@ -7571,7 +7587,7 @@
     },
     {
       "id": "8226276",
-      "title": "Senior Engineer - Production Cloud and Container Services",
+      "title": "Senior Engineer - Cloud and Container Services",
       "location": "Denver, CO; New York City, NY; San Francisco, CA",
       "team": null,
       "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8226276",
