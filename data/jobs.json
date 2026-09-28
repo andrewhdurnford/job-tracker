@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-09-28T22:30:26.736Z",
+  "generatedAt": "2026-09-28T22:40:14.939Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "charge-robotics:c2dd1643-7e5f-49a7-b63c-b1effdc6ae10",
-    "withcoverage:4423467009"
+    "Nvidia:JR2025391"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 26,
-    "experienced": 2219
+    "experienced": 2220
   },
   "companies": [
     {
@@ -3428,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 166,
+      "jobCount": 167,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 124,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025391",
+      "title": "Senior Software Engineer, Capacity Management - DGX Cloud",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Capacity-Management---DGX-Cloud_JR2025391",
+      "postedAt": "2026-09-28T22:40:19.175Z",
+      "key": "Nvidia:JR2025391",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T22:40:14.939Z"
+    },
     {
       "id": "c2dd1643-7e5f-49a7-b63c-b1effdc6ae10",
       "title": "Senior Robotics Integration Engineer",
@@ -8489,7 +8504,7 @@
     },
     {
       "id": "8234161",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
       "location": "Mountain View, CA, USA",
       "team": null,
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
