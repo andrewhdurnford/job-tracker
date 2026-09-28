@@ -1,21 +1,22 @@
 {
-  "generatedAt": "2026-09-28T19:30:22.039Z",
+  "generatedAt": "2026-09-28T19:40:18.033Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "DocuSign:30427",
-    "Remitly:R_106978",
-    "toast:8237263",
-    "verkada:5250717007"
+    "Capital One:R1001725",
+    "Capital One:R1002263",
+    "Capital One:R1002264",
+    "regent:532aa378-26fa-4c89-af83-573feedd09dd",
+    "waymo:8234670"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 143,
+    "intern": 144,
     "new-grad": 26,
-    "experienced": 2200
+    "experienced": 2203
   },
   "companies": [
     {
@@ -42,7 +43,7 @@
     {
       "name": "Abridge",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -791,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 207,
+      "jobCount": 210,
       "error": null,
       "stale": false
     },
@@ -3851,7 +3852,7 @@
       "name": "Postman",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4130,7 +4131,7 @@
     {
       "name": "REGENT",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5481,7 +5482,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5705,92 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002263",
+      "title": "Full-stack Engineer 4 (Go, AWS)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Go--AWS-_R1002263-1",
+      "postedAt": "2026-09-28T19:40:21.640Z",
+      "key": "Capital One:R1002263",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T19:40:18.033Z"
+    },
+    {
+      "id": "R1002264",
+      "title": "Full-stack Engineer 4 (Go, AWS)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Go--AWS-_R1002264-1",
+      "postedAt": "2026-09-28T19:40:21.640Z",
+      "key": "Capital One:R1002264",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T19:40:18.033Z"
+    },
+    {
+      "id": "R1001725",
+      "title": "Machine Learning Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Machine-Learning-Engineer-4_R1001725-1",
+      "postedAt": "2026-09-28T19:40:21.640Z",
+      "key": "Capital One:R1001725",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T19:40:18.033Z"
+    },
+    {
+      "id": "8234670",
+      "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+      "postedAt": "2026-09-28T19:34:51.000Z",
+      "key": "waymo:8234670",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T19:40:18.033Z"
+    },
+    {
+      "id": "532aa378-26fa-4c89-af83-573feedd09dd",
+      "title": "Systems Engineer",
+      "location": "North Kingstown, Rhode Island, USA",
+      "team": "Certification",
+      "url": "https://jobs.ashbyhq.com/regent/532aa378-26fa-4c89-af83-573feedd09dd",
+      "postedAt": "2026-09-28T19:31:38.952Z",
+      "key": "regent:532aa378-26fa-4c89-af83-573feedd09dd",
+      "company": "REGENT",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T19:40:18.033Z"
+    },
     {
       "id": "R_106978",
       "title": "Principal Software Engineer, Receiver Products",
@@ -40597,22 +40684,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T15:50:20.236Z"
-    },
-    {
-      "id": "480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95",
-      "title": "Senior Software Engineer, Data",
-      "location": "SF Office",
-      "team": "Data Engineering",
-      "url": "https://jobs.ashbyhq.com/abridge/480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95",
-      "postedAt": "2026-09-01T15:49:39.626Z",
-      "key": "abridge:480c4c99-2ca8-4dc7-ba6b-29a9ee28ed95",
-      "company": "Abridge",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T16:00:25.433Z"
     },
     {
       "id": "8161512",
