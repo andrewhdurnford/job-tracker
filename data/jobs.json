@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-09-28T20:30:21.286Z",
+  "generatedAt": "2026-09-28T20:40:17.469Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "flexport:8213955",
-    "Visa:REF088770W"
+    "anthropic:5436293008",
+    "Nvidia:JR2020003",
+    "sentilink:f4d310e6-0117-47fa-ac2a-21efc6e3a5d7"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 144,
     "new-grad": 26,
-    "experienced": 2206
+    "experienced": 2207
   },
   "companies": [
     {
@@ -306,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -2897,7 +2898,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3428,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 164,
+      "jobCount": 165,
       "error": null,
       "stale": false
     },
@@ -4401,7 +4402,7 @@
     {
       "name": "SentiLink",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5402,7 +5403,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -5703,20 +5704,52 @@
   ],
   "jobs": [
     {
-      "id": "REF088770W",
-      "title": "Senior Software Engineer",
-      "location": "US - Austin, TX",
+      "id": "JR2020003",
+      "title": "Senior Director, Developer Marketing",
+      "location": "US, CA, Santa Clara",
       "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Sr-SW-Engineer--Software-Engineering---Analyst---Team-Lead_REF088770W",
-      "postedAt": "2026-09-28T20:30:24.994Z",
-      "key": "Visa:REF088770W",
-      "company": "Visa",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Developer-Marketing_JR2020003",
+      "postedAt": "2026-09-28T20:40:22.135Z",
+      "key": "Nvidia:JR2020003",
+      "company": "Nvidia",
       "level": "experienced",
       "term": null,
       "regions": [
         "us"
       ],
-      "firstSeen": "2026-09-28T20:30:21.286Z"
+      "firstSeen": "2026-09-28T20:40:17.469Z"
+    },
+    {
+      "id": "f4d310e6-0117-47fa-ac2a-21efc6e3a5d7",
+      "title": "Founding Mobile Developer",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/sentilink/f4d310e6-0117-47fa-ac2a-21efc6e3a5d7",
+      "postedAt": "2026-09-28T20:31:23.823Z",
+      "key": "sentilink:f4d310e6-0117-47fa-ac2a-21efc6e3a5d7",
+      "company": "SentiLink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T20:40:17.469Z"
+    },
+    {
+      "id": "5436293008",
+      "title": "Software Engineer, Account Abuse (Machine Learning)",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436293008",
+      "postedAt": "2026-09-28T20:31:13.000Z",
+      "key": "anthropic:5436293008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T20:40:17.469Z"
     },
     {
       "id": "6354c156-220b-4323-baaf-143c2b8ab149",
@@ -9305,22 +9338,6 @@
         "us"
       ],
       "firstSeen": "2026-09-25T15:30:19.764Z"
-    },
-    {
-      "id": "REF088760W",
-      "title": "Data Engineer - Sr. Consultant level",
-      "location": "US - Foster City, CA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Data-Engineer---Sr-Consultant-level_REF088760W",
-      "postedAt": "2026-09-25T15:19:39.406Z",
-      "key": "Visa:REF088760W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T15:19:35.417Z"
     },
     {
       "id": "899496e3-cbb0-4c84-885a-7391991054b5",
