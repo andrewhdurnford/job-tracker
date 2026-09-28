@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-09-28T20:00:24.483Z",
+  "generatedAt": "2026-09-28T20:10:17.584Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "okta:8237731",
-    "snowflake:d297d07c-eaa7-4896-946d-df2879c8cde3"
+    "handshake:6354c156-220b-4323-baaf-143c2b8ab149"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -362,7 +361,7 @@
     {
       "name": "Arini",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -2147,7 +2146,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 124,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6354c156-220b-4323-baaf-143c2b8ab149",
+      "title": "Senior Data Engineer",
+      "location": "San Francisco, CA",
+      "team": "Careers Engineering",
+      "url": "https://jobs.ashbyhq.com/handshake/6354c156-220b-4323-baaf-143c2b8ab149",
+      "postedAt": "2026-09-28T20:06:12.620Z",
+      "key": "handshake:6354c156-220b-4323-baaf-143c2b8ab149",
+      "company": "Handshake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T20:10:17.584Z"
+    },
     {
       "id": "8237731",
       "title": "Software Engineer II, Organizations (Auth0)",
@@ -43246,22 +43261,6 @@
         "us"
       ],
       "firstSeen": "2026-08-29T21:20:17.133Z"
-    },
-    {
-      "id": "b6c08d01-aace-485d-a334-adac80673175",
-      "title": "Software Engineer",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/arini/b6c08d01-aace-485d-a334-adac80673175",
-      "postedAt": "2026-08-29T20:04:56.925Z",
-      "key": "arini:b6c08d01-aace-485d-a334-adac80673175",
-      "company": "Arini",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-29T20:10:16.285Z"
     },
     {
       "id": "be48aafc-9610-4ebd-8414-a0722a3cd59a",
