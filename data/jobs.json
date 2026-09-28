@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-09-28T17:50:17.520Z",
+  "generatedAt": "2026-09-28T18:00:28.963Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 8,
   "newKeys": [
-    "Capital One:R1002337"
+    "Capital One:R1001859",
+    "Capital One:R1001855",
+    "Capital One:R1001851",
+    "Capital One:R1002096",
+    "Capital One:R1001623",
+    "newrelic:5416517008",
+    "Nvidia:JR2026639",
+    "robinhood:8036506"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +19,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 26,
-    "experienced": 2178
+    "experienced": 2186
   },
   "companies": [
     {
@@ -788,7 +795,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 200,
+      "jobCount": 205,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1762,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2070,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3322,7 +3329,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3434,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 163,
+      "jobCount": 164,
       "error": null,
       "stale": false
     },
@@ -4232,7 +4239,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5708,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026639",
+      "title": "Senior Staff Software Engineer — Agentic AI Applications and Foundations",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Agentic-AI-Applications-and-Foundations_JR2026639",
+      "postedAt": "2026-09-28T18:00:33.021Z",
+      "key": "Nvidia:JR2026639",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:00:28.963Z"
+    },
+    {
+      "id": "R1001851",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001851-1",
+      "postedAt": "2026-09-28T18:00:32.619Z",
+      "key": "Capital One:R1001851",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:00:28.963Z"
+    },
+    {
+      "id": "R1001859",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001859-1",
+      "postedAt": "2026-09-28T18:00:32.618Z",
+      "key": "Capital One:R1001859",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:00:28.963Z"
+    },
+    {
+      "id": "R1001855",
+      "title": "Machine Learning Engineer 5",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Machine-Learning-Engineer-5_R1001855-1",
+      "postedAt": "2026-09-28T18:00:32.618Z",
+      "key": "Capital One:R1001855",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:00:28.963Z"
+    },
+    {
+      "id": "8036506",
+      "title": "Staff Software Engineer, Robinhood Command Center",
+      "location": "Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8036506?t=gh_src=&gh_jid=8036506",
+      "postedAt": "2026-09-28T17:57:02.000Z",
+      "key": "robinhood:8036506",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:00:28.963Z"
+    },
     {
       "id": "R1002337",
       "title": "Senior Associate, Data Scientist - Credit Line Increase Program",
@@ -8339,6 +8426,22 @@
       "firstSeen": "2026-09-25T18:10:23.719Z"
     },
     {
+      "id": "R1002096",
+      "title": "Front-end Engineer 4",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Front-end-Engineer-4_R1002096-1",
+      "postedAt": "2026-09-25T18:00:35.212Z",
+      "key": "Capital One:R1002096",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:00:28.963Z"
+    },
+    {
       "id": "8233716",
       "title": "Software Engineer II, Advertiser Optimization",
       "location": "Canada - Remote (ON, AB, BC, or NS Only)",
@@ -10126,6 +10229,22 @@
         "us"
       ],
       "firstSeen": "2026-09-24T18:10:17.123Z"
+    },
+    {
+      "id": "R1001623",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001623-1",
+      "postedAt": "2026-09-24T18:00:35.722Z",
+      "key": "Capital One:R1001623",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:00:28.963Z"
     },
     {
       "id": "R1002025",
@@ -22579,7 +22698,7 @@
       "title": "Security Automation Engineer",
       "location": "Seattle, USA",
       "team": null,
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8207116",
+      "url": "https://job-boards.greenhouse.io/coupang/jobs/8207116",
       "postedAt": "2026-09-17T18:42:11.000Z",
       "key": "coupang:8207116",
       "company": "Coupang",
@@ -26606,7 +26725,7 @@
     },
     {
       "id": "12455179-f3ff-4739-b8c0-c21f3c116b87",
-      "title": "Senior/Staff   Forward Deployed Engineer, Applied AI",
+      "title": "Senior/Staff  Applied AI Engineer (FDE)",
       "location": "US-CA-Menlo Park",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/snowflake/12455179-f3ff-4739-b8c0-c21f3c116b87",
@@ -36208,6 +36327,22 @@
         "us"
       ],
       "firstSeen": "2026-09-05T00:01:02.843Z"
+    },
+    {
+      "id": "5416517008",
+      "title": "Software Engineer - IAM (Java)",
+      "location": "Portland, Oregon, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5416517008",
+      "postedAt": "2026-09-04T16:43:51.000Z",
+      "key": "newrelic:5416517008",
+      "company": "New Relic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:00:28.963Z"
     },
     {
       "id": "489bba93-eb55-4da9-b65f-8109afdef7ee",
