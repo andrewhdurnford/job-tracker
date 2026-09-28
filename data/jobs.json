@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-28T18:10:17.314Z",
+  "generatedAt": "2026-09-28T18:20:21.015Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1001970"
+    "affirm:8003801003",
+    "affirm:8003799003",
+    "asana:8237744"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 26,
-    "experienced": 2187
+    "experienced": 2190
   },
   "companies": [
     {
@@ -81,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -389,7 +391,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2896,7 +2898,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 123,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8237744",
+      "title": "Staff Software Engineer, AI Teammates",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/8237744?gh_jid=8237744",
+      "postedAt": "2026-09-28T18:16:18.000Z",
+      "key": "asana:8237744",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:20:21.015Z"
+    },
+    {
+      "id": "8003801003",
+      "title": "Staff Software Engineer, Backend (Identity Decisioning)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003801003",
+      "postedAt": "2026-09-28T18:14:06.000Z",
+      "key": "affirm:8003801003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-28T18:20:21.015Z"
+    },
+    {
+      "id": "8003799003",
+      "title": "Staff Software Engineer, Backend (Identity Decisioning)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003799003",
+      "postedAt": "2026-09-28T18:14:04.000Z",
+      "key": "affirm:8003799003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:20:21.015Z"
+    },
     {
       "id": "R1001970",
       "title": "Full-stack Engineer 4 (Python, Java, Spring Boot)",
