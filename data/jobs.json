@@ -1,18 +1,17 @@
 {
-  "generatedAt": "2026-09-28T21:00:24.907Z",
+  "generatedAt": "2026-09-28T21:10:18.614Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "openai:b073abb1-cf6c-4fd9-a318-732fdd2f1408",
-    "Visa:REF088773W",
-    "Visa:REF088770W"
+    "anthropic:5397654008",
+    "waymo:8237997"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 144,
+    "intern": 145,
     "new-grad": 26,
     "experienced": 2214
   },
@@ -307,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 165,
+      "jobCount": 164,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 51,
+      "jobCount": 52,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,44 @@
   ],
   "jobs": [
     {
+      "id": "5397654008",
+      "title": "Product Designer, Claude Developer Platform",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397654008",
+      "postedAt": "2026-09-28T21:06:36.000Z",
+      "key": "anthropic:5397654008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T21:10:18.614Z"
+    },
+    {
+      "id": "8237997",
+      "title": "2027 Summer Intern, PhD, Machine Learning Research",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+      "postedAt": "2026-09-28T21:05:14.000Z",
+      "key": "waymo:8237997",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T21:10:18.614Z"
+    },
+    {
       "id": "REF088770W",
       "title": "Senior Software Engineer",
       "location": "US - Austin, TX",
@@ -5814,22 +5851,6 @@
         "us"
       ],
       "firstSeen": "2026-09-28T20:50:17.750Z"
-    },
-    {
-      "id": "JR2020003",
-      "title": "Senior Director, Developer Marketing",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Developer-Marketing_JR2020003",
-      "postedAt": "2026-09-28T20:40:22.135Z",
-      "key": "Nvidia:JR2020003",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T20:40:17.469Z"
     },
     {
       "id": "f4d310e6-0117-47fa-ac2a-21efc6e3a5d7",
