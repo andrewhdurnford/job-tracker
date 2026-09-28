@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-28T20:20:16.339Z",
+  "generatedAt": "2026-09-28T20:30:21.286Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "flexport:8213955",
+    "Visa:REF088770W"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 144,
     "new-grad": 26,
-    "experienced": 2204
+    "experienced": 2206
   },
   "companies": [
     {
@@ -1815,7 +1818,7 @@
     {
       "name": "Flexport",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2894,7 +2897,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 124,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5399,7 +5402,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088770W",
+      "title": "Senior Software Engineer",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Sr-SW-Engineer--Software-Engineering---Analyst---Team-Lead_REF088770W",
+      "postedAt": "2026-09-28T20:30:24.994Z",
+      "key": "Visa:REF088770W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T20:30:21.286Z"
+    },
     {
       "id": "6354c156-220b-4323-baaf-143c2b8ab149",
       "title": "Senior Data Engineer",
@@ -20116,6 +20135,22 @@
       "firstSeen": "2026-09-18T20:20:18.069Z"
     },
     {
+      "id": "8213955",
+      "title": "Senior IT Systems Engineer ",
+      "location": "U.S. Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8213955",
+      "postedAt": "2026-09-18T20:08:41.000Z",
+      "key": "flexport:8213955",
+      "company": "Flexport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T20:30:21.286Z"
+    },
+    {
       "id": "8213953",
       "title": "Senior IT Systems Engineer ",
       "location": "San Francisco, California, United States",
@@ -26403,7 +26438,7 @@
     },
     {
       "id": "ac228821-b2f8-4155-a119-b05e16ebaefe",
-      "title": "Senior Engineer, AI Engineering (R5856)",
+      "title": "Generative AI Application Engineer, Learning & Development (R5856)",
       "location": "San Diego, California (+2 more)",
       "team": "Applications Engineering",
       "url": "https://jobs.lever.co/shieldai/ac228821-b2f8-4155-a119-b05e16ebaefe",
