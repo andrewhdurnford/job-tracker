@@ -1,23 +1,19 @@
 {
-  "generatedAt": "2026-09-28T23:00:22.773Z",
+  "generatedAt": "2026-09-28T23:10:50.731Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "benchling:9b850e1f-1ba8-47e3-9057-0562e0739e6f",
-    "brex:8854182002",
-    "brex:8829325002",
-    "brex:8854165002",
-    "brex:8854221002",
-    "Capital One:R1002169"
+    "cloudflare:8199958",
+    "zscaler:5239710007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 146,
+    "intern": 147,
     "new-grad": 26,
-    "experienced": 2233
+    "experienced": 2234
   },
   "companies": [
     {
@@ -990,7 +986,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1017,7 +1013,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5693,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5239710007",
+      "title": "Senior Manager, Software Development Engineering",
+      "location": "San Jose, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239710007",
+      "postedAt": "2026-09-28T23:05:00.000Z",
+      "key": "zscaler:5239710007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T23:10:50.731Z"
+    },
     {
       "id": "R1002169",
       "title": "Full-stack Engineer 4 (Manager, IC)",
@@ -24372,6 +24384,26 @@
         "us"
       ],
       "firstSeen": "2026-09-17T03:40:17.629Z"
+    },
+    {
+      "id": "8199958",
+      "title": "Software Engineer Intern (2027) - Austin, TX",
+      "location": "Austin, TX",
+      "team": "University",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958",
+      "postedAt": "2026-09-17T01:57:53.000Z",
+      "key": "cloudflare:8199958",
+      "company": "Cloudflare",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T23:10:50.731Z"
     },
     {
       "id": "5f4d4f60-e8b8-4e03-a709-0117b3e7d48e",
