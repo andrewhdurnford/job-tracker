@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-09-28T15:10:17.804Z",
+  "generatedAt": "2026-09-28T15:20:19.769Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Capital One:R1002300",
-    "Capital One:R1002302"
+    "caremessage:c6ef6788-c2d3-4668-8361-8ffd9ce92c1b",
+    "urbancompass:8237185",
+    "urbancompass:8226340",
+    "urbancompass:8237189",
+    "epicgames:6209681004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 26,
-    "experienced": 2151
+    "experienced": 2156
   },
   "companies": [
     {
@@ -817,7 +820,7 @@
     {
       "name": "CareMessage",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -986,7 +989,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1097,7 +1100,7 @@
     {
       "name": "Compass",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1615,7 +1618,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8237189",
+      "title": "Senior Security Engineer ",
+      "location": "Seattle",
+      "team": null,
+      "url": "https://www.compass.com/careers?gh_jid=8237189",
+      "postedAt": "2026-09-28T15:17:12.000Z",
+      "key": "urbancompass:8237189",
+      "company": "Compass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T15:20:19.769Z"
+    },
+    {
+      "id": "8237185",
+      "title": "Senior Security Engineer ",
+      "location": "Boston",
+      "team": null,
+      "url": "https://www.compass.com/careers?gh_jid=8237185",
+      "postedAt": "2026-09-28T15:17:10.000Z",
+      "key": "urbancompass:8237185",
+      "company": "Compass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T15:20:19.769Z"
+    },
+    {
+      "id": "c6ef6788-c2d3-4668-8361-8ffd9ce92c1b",
+      "title": "Senior Data Platform Engineer",
+      "location": "United States (Remote)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/caremessage/c6ef6788-c2d3-4668-8361-8ffd9ce92c1b",
+      "postedAt": "2026-09-28T15:17:00.080Z",
+      "key": "caremessage:c6ef6788-c2d3-4668-8361-8ffd9ce92c1b",
+      "company": "CareMessage",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T15:20:19.769Z"
+    },
+    {
+      "id": "8226340",
+      "title": "Senior Security Engineer ",
+      "location": "New York City",
+      "team": null,
+      "url": "https://www.compass.com/careers?gh_jid=8226340",
+      "postedAt": "2026-09-28T15:15:36.000Z",
+      "key": "urbancompass:8226340",
+      "company": "Compass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T15:20:19.769Z"
+    },
+    {
+      "id": "6209681004",
+      "title": "Principal AI Programmer, Unreal Assistant",
+      "location": "Montreal,Quebec,Canada",
+      "team": "Engineering Specialist",
+      "url": "https://epicgames.com/careers/jobs/6209681004?gh_jid=6209681004",
+      "postedAt": "2026-09-28T15:15:31.000Z",
+      "key": "epicgames:6209681004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-28T15:20:19.769Z"
+    },
     {
       "id": "R1002302",
       "title": "Full-stack Engineer 4 (Backend & API Development) (Cloud Operations Resilience Engineering)",
