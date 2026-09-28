@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-09-28T22:00:22.843Z",
+  "generatedAt": "2026-09-28T22:10:15.064Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2025901"
+    "Capital One:R1002115",
+    "checkr:8238536",
+    "Nvidia:JR2020003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 26,
-    "experienced": 2214
+    "experienced": 2216
   },
   "companies": [
     {
@@ -788,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 211,
+      "jobCount": 212,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 165,
+      "jobCount": 166,
       "error": null,
       "stale": false
     },
@@ -4546,10 +4548,10 @@
     },
     {
       "name": "Sixfold Bioscience",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sky Mavis",
@@ -4686,17 +4688,17 @@
     },
     {
       "name": "Sourcegraph",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 124,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5302,10 +5304,10 @@
     },
     {
       "name": "Upstart",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "UserGems",
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2020003",
+      "title": "Senior Director, Developer Marketing",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Developer-Marketing_JR2020003",
+      "postedAt": "2026-09-28T22:10:19.326Z",
+      "key": "Nvidia:JR2020003",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T22:10:15.064Z"
+    },
+    {
+      "id": "R1002115",
+      "title": "Director, Full-stack Engineer",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Director--Full-stack-Engineer_R1002115-1",
+      "postedAt": "2026-09-28T22:10:18.553Z",
+      "key": "Capital One:R1002115",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T22:10:15.064Z"
+    },
+    {
+      "id": "8238536",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8238536",
+      "postedAt": "2026-09-28T22:02:50.000Z",
+      "key": "checkr:8238536",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T22:10:15.064Z"
+    },
     {
       "id": "JR2025901",
       "title": "Staff Software Developer, Unified Communications",
@@ -13584,22 +13634,6 @@
         "us"
       ],
       "firstSeen": "2026-09-23T18:30:24.774Z"
-    },
-    {
-      "id": "8227081",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/checkr/jobs/8227081",
-      "postedAt": "2026-09-23T18:18:26.000Z",
-      "key": "checkr:8227081",
-      "company": "Checkr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T18:20:20.674Z"
     },
     {
       "id": "6142289004",
