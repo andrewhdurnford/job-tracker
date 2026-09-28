@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-09-28T21:10:18.614Z",
+  "generatedAt": "2026-09-28T21:20:20.058Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "anthropic:5397654008",
-    "waymo:8237997"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -13,7 +10,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 26,
-    "experienced": 2214
+    "experienced": 2213
   },
   "companies": [
     {
@@ -1756,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2064,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2308,7 +2305,7 @@
     {
       "name": "Hyperbound",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2897,7 +2894,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4694,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 124,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -43412,22 +43409,6 @@
         "us"
       ],
       "firstSeen": "2026-08-30T02:10:22.062Z"
-    },
-    {
-      "id": "1d013dd8-4108-404a-8736-d15aa237bc73",
-      "title": "Software Engineer, GTM",
-      "location": "San Francisco",
-      "team": "GTM",
-      "url": "https://jobs.ashbyhq.com/hyperbound/1d013dd8-4108-404a-8736-d15aa237bc73",
-      "postedAt": "2026-08-29T21:18:20.745Z",
-      "key": "hyperbound:1d013dd8-4108-404a-8736-d15aa237bc73",
-      "company": "Hyperbound",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-29T21:20:17.133Z"
     },
     {
       "id": "be48aafc-9610-4ebd-8414-a0722a3cd59a",
