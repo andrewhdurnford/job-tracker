@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-28T15:00:29.230Z",
+  "generatedAt": "2026-09-28T15:10:17.804Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Remitly:R_106938"
+    "Capital One:R1002300",
+    "Capital One:R1002302"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 26,
-    "experienced": 2160
+    "experienced": 2151
   },
   "companies": [
     {
@@ -318,10 +319,10 @@
     },
     {
       "name": "AON3D",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Apolink",
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 198,
+      "jobCount": 200,
       "error": null,
       "stale": false
     },
@@ -985,7 +986,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -1755,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2055,7 +2056,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2419,7 +2420,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3755,10 +3756,10 @@
     },
     {
       "name": "Pinterest",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Pirros",
@@ -5702,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "R1002302",
+      "title": "Full-stack Engineer 4 (Backend & API Development) (Cloud Operations Resilience Engineering)",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-stack-Engineer-4--Backend---API-Development---Cloud-Operations-Resilience-Engineering-_R1002302-1",
+      "postedAt": "2026-09-28T15:10:25.325Z",
+      "key": "Capital One:R1002302",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T15:10:17.804Z"
+    },
+    {
+      "id": "R1002300",
+      "title": "Full-stack Engineer 4 (Go & Kubernetes) (Cloud Operations Resilience Engineering)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Go---Kubernetes---Cloud-Operations-Resilience-Engineering-_R1002300-1",
+      "postedAt": "2026-09-28T15:10:25.325Z",
+      "key": "Capital One:R1002300",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T15:10:17.804Z"
+    },
+    {
       "id": "R_106938",
       "title": "Principal Software Development Engineer, Core Transfer Experience",
       "location": "Seattle, Washington United States",
@@ -5742,70 +5775,6 @@
       "postedAt": "2026-09-28T14:40:21.803Z",
       "key": "Capital One:R1002240",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T14:40:18.280Z"
-    },
-    {
-      "id": "8236906",
-      "title": "Senior Data Scientist I - Meals",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8236906",
-      "postedAt": "2026-09-28T14:34:28.000Z",
-      "key": "instacart:8236906",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-28T14:40:18.280Z"
-    },
-    {
-      "id": "8236905",
-      "title": "Senior Data Scientist I - Meals",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8236905",
-      "postedAt": "2026-09-28T14:34:26.000Z",
-      "key": "instacart:8236905",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T14:40:18.280Z"
-    },
-    {
-      "id": "8237079",
-      "title": "Senior Data Scientist II - Ads Optimization",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8237079",
-      "postedAt": "2026-09-28T14:34:25.000Z",
-      "key": "instacart:8237079",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-28T14:40:18.280Z"
-    },
-    {
-      "id": "8237075",
-      "title": "Senior Data Scientist II - Ads Optimization",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8237075",
-      "postedAt": "2026-09-28T14:34:23.000Z",
-      "key": "instacart:8237075",
-      "company": "Instacart",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -19354,118 +19323,6 @@
         "us"
       ],
       "firstSeen": "2026-09-18T18:20:16.615Z"
-    },
-    {
-      "id": "6200723004",
-      "title": "Senior Engineering Manager, Grafana Frontend | Canada | Remote",
-      "location": "Canada (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200723004",
-      "postedAt": "2026-09-18T17:59:20.000Z",
-      "key": "grafanalabs:6200723004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-18T18:00:24.092Z"
-    },
-    {
-      "id": "6200726004",
-      "title": "Senior Engineering Manager, Grafana Frontend | Germany | Remote",
-      "location": "Germany (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200726004",
-      "postedAt": "2026-09-18T17:59:18.000Z",
-      "key": "grafanalabs:6200726004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-18T18:00:24.092Z"
-    },
-    {
-      "id": "6200731004",
-      "title": "Senior Engineering Manager, Grafana Frontend | Ireland | Remote",
-      "location": "Republic of Ireland (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200731004",
-      "postedAt": "2026-09-18T17:59:16.000Z",
-      "key": "grafanalabs:6200731004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-18T18:00:24.092Z"
-    },
-    {
-      "id": "6200725004",
-      "title": "Senior Engineering Manager, Grafana Frontend | Spain | Remote",
-      "location": "Spain (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200725004",
-      "postedAt": "2026-09-18T17:59:14.000Z",
-      "key": "grafanalabs:6200725004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-18T18:00:24.092Z"
-    },
-    {
-      "id": "6200798004",
-      "title": "Senior Engineering Manager, Grafana Frontend | Sweden | Remote",
-      "location": "Sweden (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200798004",
-      "postedAt": "2026-09-18T17:59:13.000Z",
-      "key": "grafanalabs:6200798004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-18T18:00:24.092Z"
-    },
-    {
-      "id": "6200793004",
-      "title": "Senior Engineering Manager, Grafana Frontend | United Kingdom | Remote",
-      "location": "United Kingdom (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200793004",
-      "postedAt": "2026-09-18T17:59:11.000Z",
-      "key": "grafanalabs:6200793004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-18T18:00:24.092Z"
-    },
-    {
-      "id": "6200721004",
-      "title": "Senior Engineering Manager, Grafana Frontend | USA | Remote",
-      "location": "United States (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200721004",
-      "postedAt": "2026-09-18T17:59:09.000Z",
-      "key": "grafanalabs:6200721004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T18:00:24.092Z"
     },
     {
       "id": "8199365",
