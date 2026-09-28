@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-09-28T18:20:21.015Z",
+  "generatedAt": "2026-09-28T18:30:21.537Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "affirm:8003801003",
-    "affirm:8003799003",
-    "asana:8237744"
+    "okta:8237695",
+    "okta:8237681",
+    "openai:a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+    "Remitly:R_106978"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 26,
-    "experienced": 2190
+    "experienced": 2193
   },
   "companies": [
     {
@@ -3471,7 +3472,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -3513,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 58,
+      "jobCount": 59,
       "error": null,
       "stale": false
     },
@@ -4136,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 123,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5403,7 +5404,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_106978",
+      "title": "Principal Software Engineer, Receiver Products",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Principal-Software-Engineer--Receiver-Products_R_106978",
+      "postedAt": "2026-09-28T18:30:25.280Z",
+      "key": "Remitly:R_106978",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:30:21.537Z"
+    },
+    {
+      "id": "8237681",
+      "title": "Staff Software Engineer, MacOS",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8237681?gh_jid=8237681",
+      "postedAt": "2026-09-28T18:28:49.000Z",
+      "key": "okta:8237681",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:30:21.537Z"
+    },
+    {
+      "id": "a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+      "title": "Software Engineer, DevOps",
+      "location": "San Francisco",
+      "team": "Hardware",
+      "url": "https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+      "postedAt": "2026-09-28T18:26:42.221Z",
+      "key": "openai:a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-28T18:30:21.537Z"
+    },
+    {
+      "id": "8237695",
+      "title": "Senior Software Engineer",
+      "location": "Toronto, Ontario, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8237695?gh_jid=8237695",
+      "postedAt": "2026-09-28T18:20:53.000Z",
+      "key": "okta:8237695",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-28T18:30:21.537Z"
+    },
     {
       "id": "8237744",
       "title": "Staff Software Engineer, AI Teammates",
@@ -13906,22 +13971,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-23T14:30:21.274Z"
-    },
-    {
-      "id": "REF088349W",
-      "title": "Sr. Data Engineer",
-      "location": "US - Bellevue, WA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Sr-Data-Engineer_REF088349W",
-      "postedAt": "2026-09-23T14:20:23.232Z",
-      "key": "Visa:REF088349W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T14:20:19.479Z"
     },
     {
       "id": "8186789",
