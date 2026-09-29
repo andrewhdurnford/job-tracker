@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-09-29T22:00:23.115Z",
+  "generatedAt": "2026-09-29T22:10:17.558Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2026396",
-    "roblox:8201883"
+    "docker:c47cbb77-3f20-4dc4-8cfc-6f1b8a43fb63",
+    "Nvidia:JR2026739",
+    "Nvidia:JR2026675"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 141,
     "new-grad": 26,
-    "experienced": 2282
+    "experienced": 2283
   },
   "companies": [
     {
@@ -1419,7 +1420,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2055,10 +2056,10 @@
     },
     {
       "name": "Grafana Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 24,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Grammarly",
@@ -2897,7 +2898,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3428,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 146,
+      "jobCount": 147,
       "error": null,
       "stale": false
     },
@@ -4436,7 +4437,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 125,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4974,10 +4975,10 @@
     },
     {
       "name": "Tanium",
-      "ok": false,
+      "ok": true,
       "jobCount": 8,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tavus",
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026675",
+      "title": "Principal Engineer, Compilers and Formal Methods",
+      "location": "US, WA, Seattle",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Principal-Engineer--Compilers-and-Formal-Methods_JR2026675-1",
+      "postedAt": "2026-09-29T22:10:21.410Z",
+      "key": "Nvidia:JR2026675",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T22:10:17.558Z"
+    },
+    {
+      "id": "JR2026739",
+      "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739",
+      "postedAt": "2026-09-29T22:10:21.410Z",
+      "key": "Nvidia:JR2026739",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T22:10:17.558Z"
+    },
+    {
+      "id": "c47cbb77-3f20-4dc4-8cfc-6f1b8a43fb63",
+      "title": "Senior Principal Software Engineer, Networking",
+      "location": "United States",
+      "team": "ENG-Runtime",
+      "url": "https://jobs.ashbyhq.com/docker/c47cbb77-3f20-4dc4-8cfc-6f1b8a43fb63",
+      "postedAt": "2026-09-29T22:06:23.123Z",
+      "key": "docker:c47cbb77-3f20-4dc4-8cfc-6f1b8a43fb63",
+      "company": "Docker",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T22:10:17.558Z"
+    },
     {
       "id": "JR2026396",
       "title": "System Software Engineer - GPU Power and Performance Management",
@@ -35949,22 +35998,6 @@
       "firstSeen": "2026-09-09T02:00:24.449Z"
     },
     {
-      "id": "JR2024930",
-      "title": "Senior Software Engineer, Cosmos Infrastructure and End to End Performance",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Cosmos-Infrastructure-and-End-to-End-Performance_JR2024930-1",
-      "postedAt": "2026-09-09T01:50:25.753Z",
-      "key": "Nvidia:JR2024930",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T01:50:22.014Z"
-    },
-    {
       "id": "5413374008",
       "title": "Salesforce Developer",
       "location": "San Francisco, CA | New York City, NY | Seattle, WA",
@@ -40964,22 +40997,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-02T18:00:31.398Z"
-    },
-    {
-      "id": "JR115077",
-      "title": "Senior Site Reliability Engineer, AI Agents & Automation",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Senior-Site-Reliability-Engineer_JR115077",
-      "postedAt": "2026-09-02T17:50:19.690Z",
-      "key": "ServiceTitan:JR115077",
-      "company": "ServiceTitan",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T17:50:16.762Z"
     },
     {
       "id": "8173897",
