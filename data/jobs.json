@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-09-29T01:00:22.720Z",
+  "generatedAt": "2026-09-29T01:10:17.100Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "spacex:8854394002",
+    "thinkingmachines:25a113b5-f4ec-4e61-a20d-041fff725d7d"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 146,
-    "new-grad": 27,
-    "experienced": 2240
+    "new-grad": 28,
+    "experienced": 2241
   },
   "companies": [
     {
@@ -1753,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4692,7 +4695,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 126,
+      "jobCount": 127,
       "error": null,
       "stale": false
     },
@@ -5063,7 +5066,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "25a113b5-f4ec-4e61-a20d-041fff725d7d",
+      "title": "Developer Relations Engineer",
+      "location": "San Francisco",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/25a113b5-f4ec-4e61-a20d-041fff725d7d",
+      "postedAt": "2026-09-29T01:09:31.323Z",
+      "key": "thinkingmachines:25a113b5-f4ec-4e61-a20d-041fff725d7d",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T01:10:17.100Z"
+    },
+    {
+      "id": "8854394002",
+      "title": "New Graduate Engineer, Software (Starfall)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002",
+      "postedAt": "2026-09-29T01:09:01.000Z",
+      "key": "spacex:8854394002",
+      "company": "SpaceX",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T01:10:17.100Z"
+    },
     {
       "id": "8854384002",
       "title": "Principal Engineer, AI",
