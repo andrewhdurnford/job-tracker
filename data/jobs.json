@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-09-29T07:10:19.433Z",
+  "generatedAt": "2026-09-29T07:20:16.195Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "latent:bbd1a8e3-b943-4c8c-b239-e87951504f71",
+    "n8n:33e46e4f-85b9-49ca-a010-16586c118c50"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 28,
-    "experienced": 2222
+    "experienced": 2224
   },
   "companies": [
     {
@@ -2159,7 +2162,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -2690,7 +2693,7 @@
     {
       "name": "Latent",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3194,7 +3197,7 @@
     {
       "name": "n8n",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "33e46e4f-85b9-49ca-a010-16586c118c50",
+      "title": "Senior Developer Advocate, US",
+      "location": "United States",
+      "team": "Marketing",
+      "url": "https://jobs.ashbyhq.com/n8n/33e46e4f-85b9-49ca-a010-16586c118c50",
+      "postedAt": "2026-09-29T07:17:34.286Z",
+      "key": "n8n:33e46e4f-85b9-49ca-a010-16586c118c50",
+      "company": "n8n",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T07:20:16.195Z"
+    },
+    {
+      "id": "bbd1a8e3-b943-4c8c-b239-e87951504f71",
+      "title": "Site Reliability Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/latent/bbd1a8e3-b943-4c8c-b239-e87951504f71",
+      "postedAt": "2026-09-29T07:10:58.351Z",
+      "key": "latent:bbd1a8e3-b943-4c8c-b239-e87951504f71",
+      "company": "Latent",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T07:20:16.195Z"
+    },
     {
       "id": "648fa6e1-52b8-4c43-8cf9-ab80260ecb1d",
       "title": "Research Scientist",
