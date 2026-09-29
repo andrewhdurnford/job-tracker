@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-29T19:30:24.104Z",
+  "generatedAt": "2026-09-29T19:40:17.430Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "reddit:8240716",
-    "Remitly:R_106953"
+    "billcom:6202740004",
+    "latent:c54c96d7-2776-41be-b74c-b2beaad99634",
+    "pagerduty:6211202004",
+    "spacex:8827481002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 140,
     "new-grad": 27,
-    "experienced": 2252
+    "experienced": 2255
   },
   "companies": [
     {
@@ -565,7 +567,7 @@
     {
       "name": "Bill.com",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2693,7 +2695,7 @@
     {
       "name": "Latent",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3575,7 +3577,7 @@
     {
       "name": "PagerDuty",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4135,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -4695,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 124,
+      "jobCount": 125,
       "error": null,
       "stale": false
     },
@@ -5703,20 +5705,52 @@
   ],
   "jobs": [
     {
-      "id": "R_106953",
-      "title": "Senior Software Development Engineer, Post Submit Experience",
-      "location": "Seattle, Washington United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Development-Engineer--Post-Submit-Experience_R_106953",
-      "postedAt": "2026-09-29T19:30:28.198Z",
-      "key": "Remitly:R_106953",
-      "company": "Remitly",
+      "id": "c54c96d7-2776-41be-b74c-b2beaad99634",
+      "title": "Software Engineer (Frontend)",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/latent/c54c96d7-2776-41be-b74c-b2beaad99634",
+      "postedAt": "2026-09-29T19:39:37.870Z",
+      "key": "latent:c54c96d7-2776-41be-b74c-b2beaad99634",
+      "company": "Latent",
       "level": "experienced",
       "term": null,
       "regions": [
         "us"
       ],
-      "firstSeen": "2026-09-29T19:30:24.104Z"
+      "firstSeen": "2026-09-29T19:40:17.430Z"
+    },
+    {
+      "id": "6211202004",
+      "title": "Senior Security Engineer - Cloud Security ",
+      "location": "Toronto",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6211202004",
+      "postedAt": "2026-09-29T19:38:58.000Z",
+      "key": "pagerduty:6211202004",
+      "company": "PagerDuty",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-29T19:40:17.430Z"
+    },
+    {
+      "id": "8827481002",
+      "title": "Sr. Data Center Safety Engineer (AI Supercomputer) ",
+      "location": "Memphis, TN",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8827481002?gh_jid=8827481002",
+      "postedAt": "2026-09-29T19:37:00.000Z",
+      "key": "spacex:8827481002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T19:40:17.430Z"
     },
     {
       "id": "8240716",
@@ -6687,7 +6721,7 @@
     },
     {
       "id": "8237801",
-      "title": "Senior Software Engineer, KPI & Cryptographic Systems",
+      "title": "Senior Software Engineer, PKI & Cryptographic Systems",
       "location": "Austin, TX (+2 more)",
       "team": "Emerging Technology and Incubation",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8237801?gh_jid=8237801",
@@ -20214,6 +20248,22 @@
         "us"
       ],
       "firstSeen": "2026-09-21T19:20:24.080Z"
+    },
+    {
+      "id": "6202740004",
+      "title": "Staff Software Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://www.bill.com/job?6202740004&gh_jid=6202740004",
+      "postedAt": "2026-09-21T17:36:47.000Z",
+      "key": "billcom:6202740004",
+      "company": "Bill.com",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T19:40:17.430Z"
     },
     {
       "id": "8220863",
