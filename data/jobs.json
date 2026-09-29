@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-29T18:20:17.938Z",
+  "generatedAt": "2026-09-29T18:30:21.303Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "natera:6209754004"
+    "natera:6209752004",
+    "Procore:R0018111"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 143,
     "new-grad": 27,
-    "experienced": 2253
+    "experienced": 2247
   },
   "companies": [
     {
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 212,
+      "jobCount": 210,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2917,7 +2918,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3245,7 +3246,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 150,
+      "jobCount": 144,
       "error": null,
       "stale": false
     },
@@ -3889,7 +3890,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R0018111",
+      "title": "Staff Software Engineer, iOS (Innovation Lab)",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Staff-Software-Engineer--iOS--Innovation-Lab-_R0018111",
+      "postedAt": "2026-09-29T18:30:26.574Z",
+      "key": "Procore:R0018111",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T18:30:21.303Z"
+    },
+    {
+      "id": "6209752004",
+      "title": "Sr. Salesforce Software Engineer",
+      "location": "Austin, TX",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6209752004",
+      "postedAt": "2026-09-29T18:24:08.000Z",
+      "key": "natera:6209752004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T18:30:21.303Z"
+    },
     {
       "id": "6209754004",
       "title": "Salesforce Software Engineer",
@@ -13703,22 +13736,6 @@
       "firstSeen": "2026-09-24T07:00:23.197Z"
     },
     {
-      "id": "JR2026239",
-      "title": "Software QA Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer_JR2026239",
-      "postedAt": "2026-09-24T07:00:27.546Z",
-      "key": "Nvidia:JR2026239",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-24T07:00:23.197Z"
-    },
-    {
       "id": "ff056a35-b6d8-42c9-8a02-f07c29089c68",
       "title": "Applied AI Engineer - Hardware",
       "location": "San Jose",
@@ -13845,22 +13862,6 @@
         "us"
       ],
       "firstSeen": "2026-09-24T01:30:20.545Z"
-    },
-    {
-      "id": "JR2026242",
-      "title": "Software QA Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-QA-Engineer_JR2026242",
-      "postedAt": "2026-09-24T01:20:20.908Z",
-      "key": "Nvidia:JR2026242",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-24T01:20:16.601Z"
     },
     {
       "id": "b66be397-240b-41a6-9b05-493299b270a9",
@@ -15756,22 +15757,6 @@
       "firstSeen": "2026-09-23T15:50:18.316Z"
     },
     {
-      "id": "R1000057",
-      "title": "Staff Software Engineer - Card Tech",
-      "location": "San Francisco,  CA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Staff-Software-Engineer---Card-Tech_R1000057-1",
-      "postedAt": "2026-09-23T15:42:14.976Z",
-      "key": "Capital One:R1000057",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T15:42:11.582Z"
-    },
-    {
       "id": "8623592002",
       "title": "Principal Site Reliability Engineer, Platform Engineering: Dedicated",
       "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
@@ -16892,22 +16877,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T21:50:17.804Z"
-    },
-    {
-      "id": "JR2025689",
-      "title": "Applied Machine Learning Engineer - AI for VLSI Design",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer---AI-for-VLSI-Design_JR2025689",
-      "postedAt": "2026-09-22T21:40:07.382Z",
-      "key": "Nvidia:JR2025689",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T21:40:03.420Z"
     },
     {
       "id": "R1001486",
@@ -18723,22 +18692,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T05:30:22.541Z"
-    },
-    {
-      "id": "JR2024872",
-      "title": "Senior Full Stack Software Engineer, Data Platform",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Full-Stack-Software-Engineer--Data-Platform_JR2024872",
-      "postedAt": "2026-09-22T04:40:22.316Z",
-      "key": "Nvidia:JR2024872",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T04:40:17.113Z"
     },
     {
       "id": "6203656004",
@@ -41463,22 +41416,6 @@
       "firstSeen": "2026-09-01T21:40:16.792Z"
     },
     {
-      "id": "JR2024693",
-      "title": "Senior Cloud Software Engineer, Developer Tools",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Cloud-Software-Engineer--Developer-Tools_JR2024693",
-      "postedAt": "2026-09-01T21:30:29.807Z",
-      "key": "Nvidia:JR2024693",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T21:30:25.389Z"
-    },
-    {
       "id": "JR2024920",
       "title": "Senior Software Engineer CUDA UMD - GPU Kernel Scheduling",
       "location": "US, CA, Santa Clara",
@@ -42423,22 +42360,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T09:30:22.239Z"
-    },
-    {
-      "id": "JR2024560",
-      "title": "Senior Salesforce CPQ Developer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Salesforce-CPQ-Developer_JR2024560-1",
-      "postedAt": "2026-09-01T07:00:33.912Z",
-      "key": "Nvidia:JR2024560",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T07:00:29.747Z"
     },
     {
       "id": "5227024007",
@@ -43686,22 +43607,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T16:30:26.836Z"
-    },
-    {
-      "id": "R243049",
-      "title": "Lead Platform Engineer - Palo Alto (Cloud Operations Resilience Engineering)",
-      "location": "Riverwoods, IL",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Lead-Platform-Engineer--Cloud-Operations-Resilience-Engineering-_R243049-1",
-      "postedAt": "2026-08-31T15:40:27.211Z",
-      "key": "Capital One:R243049",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T15:40:23.370Z"
     },
     {
       "id": "ddbab7c4-cb54-49f9-b9ab-fff244fdbdbe",
