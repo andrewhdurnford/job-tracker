@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-09-29T21:40:16.001Z",
+  "generatedAt": "2026-09-29T21:50:16.421Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "Capital One:R1001942",
+    "coupang:8163502",
+    "Nvidia:JR2026584",
+    "toast:8232879"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 140,
+    "intern": 141,
     "new-grad": 26,
-    "experienced": 2279
+    "experienced": 2281
   },
   "companies": [
     {
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 212,
+      "jobCount": 213,
       "error": null,
       "stale": false
     },
@@ -1199,7 +1204,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -2116,7 +2121,7 @@
     {
       "name": "HackerRank",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 144,
+      "jobCount": 145,
       "error": null,
       "stale": false
     },
@@ -3552,7 +3557,7 @@
       "name": "Outschool",
       "ok": false,
       "jobCount": 2,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5105,7 +5110,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,58 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026584",
+      "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
+      "postedAt": "2026-09-29T21:50:20.444Z",
+      "key": "Nvidia:JR2026584",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T21:50:16.421Z"
+    },
+    {
+      "id": "R1001942",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Manager--IC-_R1001942-1",
+      "postedAt": "2026-09-29T21:50:19.837Z",
+      "key": "Capital One:R1001942",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T21:50:16.421Z"
+    },
+    {
+      "id": "8232879",
+      "title": "Senior Manager, Software Engineering - Toast IQ",
+      "location": "Remote, US",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8232879",
+      "postedAt": "2026-09-29T21:47:56.000Z",
+      "key": "toast:8232879",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T21:50:16.421Z"
+    },
     {
       "id": "8857063002",
       "title": "Senior Perception Engineer",
@@ -6958,7 +7015,7 @@
     },
     {
       "id": "b3fab313-f31f-44b6-8c32-222084f93259",
-      "title": "Software Engineer– Cortex AI Frontend",
+      "title": "Frontend Software Engineer– Cortex AI Apps  ",
       "location": "US-CA-Menlo Park",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/snowflake/b3fab313-f31f-44b6-8c32-222084f93259",
@@ -18346,22 +18403,6 @@
       "postedAt": "2026-09-22T17:40:20.963Z",
       "key": "Capital One:R1001474",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T17:40:17.715Z"
-    },
-    {
-      "id": "8203626",
-      "title": "Forward Deployed Engineer",
-      "location": "Hybrid in Santa Clara, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8203626",
-      "postedAt": "2026-09-22T17:37:42.000Z",
-      "key": "hackerrank:8203626",
-      "company": "HackerRank",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -32076,6 +32117,22 @@
         "us"
       ],
       "firstSeen": "2026-09-11T17:50:17.145Z"
+    },
+    {
+      "id": "8163502",
+      "title": "Staff Security Engineer (Penetration Tester)",
+      "location": "Seattle, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/coupang/jobs/8163502",
+      "postedAt": "2026-09-11T17:39:57.000Z",
+      "key": "coupang:8163502",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T21:50:16.421Z"
     },
     {
       "id": "7992639003",
