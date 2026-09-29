@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-09-29T19:00:25.599Z",
+  "generatedAt": "2026-09-29T19:10:18.041Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "givecampus:4422291009"
+    "anthropic:5438030008",
+    "anthropic:5438044008",
+    "natera:6146411004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 143,
+    "intern": 142,
     "new-grad": 27,
     "experienced": 2249
   },
@@ -305,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -3245,7 +3247,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3399,7 +3401,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4232,7 +4234,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "5438044008",
+      "title": "Research Engineer / Research Scientist, RL Frontiers",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438044008",
+      "postedAt": "2026-09-29T19:03:37.000Z",
+      "key": "anthropic:5438044008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T19:10:18.041Z"
+    },
+    {
+      "id": "5438030008",
+      "title": "Research Engineer / Performance Engineer, RL Distributed Systems",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438030008",
+      "postedAt": "2026-09-29T19:03:34.000Z",
+      "key": "anthropic:5438030008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T19:10:18.041Z"
+    },
+    {
       "id": "4422291009",
       "title": "Senior Software Engineer, Emerging Product",
       "location": "United States",
@@ -5812,23 +5846,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T18:16:33.388Z"
-    },
-    {
-      "id": "21c3aa78-3d05-4243-9486-550762a08a61",
-      "title": "Staff Software Engineer, AI & Credit Card Platform",
-      "location": "Toronto (+3 more)",
-      "team": "Engineer",
-      "url": "https://jobs.ashbyhq.com/nubank/21c3aa78-3d05-4243-9486-550762a08a61",
-      "postedAt": "2026-09-29T18:04:49.453Z",
-      "key": "nubank:21c3aa78-3d05-4243-9486-550762a08a61",
-      "company": "Nubank",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-29T18:10:21.095Z"
     },
     {
       "id": "R1002296",
@@ -7547,22 +7564,6 @@
       "firstSeen": "2026-09-28T21:00:24.907Z"
     },
     {
-      "id": "R30131",
-      "title": "Principal Software Engineer - Continuous Identity",
-      "location": "USA - Sunnyvale, CA",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Principal-Software-Engineer---Continuous-Identity_R30131",
-      "postedAt": "2026-09-28T20:50:22.063Z",
-      "key": "CrowdStrike:R30131",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T20:50:17.750Z"
-    },
-    {
       "id": "REF088760W",
       "title": "Senior Consultant - Data Engineer (Data Platforms)",
       "location": "US - Foster City, CA",
@@ -7885,22 +7886,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-09-28T19:00:24.945Z"
-    },
-    {
-      "id": "8107225",
-      "title": "Senior Software Developer, Developer Experience (DevX)",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8107225?t=gh_src=&gh_jid=8107225",
-      "postedAt": "2026-09-28T18:55:48.000Z",
-      "key": "robinhood:8107225",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-09-28T19:00:24.945Z"
     },
@@ -11585,28 +11570,6 @@
       "company": "OpenAI",
       "level": "experienced",
       "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T01:10:27.045Z"
-    },
-    {
-      "id": "7bd393df-67d7-4009-ba4f-1cd79a82b0be",
-      "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
-      "location": "US-CA-Menlo Park (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
-      "postedAt": "2026-09-25T01:04:54.726Z",
-      "key": "snowflake:7bd393df-67d7-4009-ba4f-1cd79a82b0be",
-      "company": "Snowflake",
-      "level": "intern",
-      "term": {
-        "label": "Spring 2027",
-        "seasons": [
-          "spring"
-        ],
-        "year": 2027
-      },
       "regions": [
         "us"
       ],
@@ -33254,6 +33217,22 @@
         "us"
       ],
       "firstSeen": "2026-09-10T16:20:18.286Z"
+    },
+    {
+      "id": "6146411004",
+      "title": "Senior Software Engineer - Commercial Services",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6146411004",
+      "postedAt": "2026-09-10T16:08:09.000Z",
+      "key": "natera:6146411004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T19:10:18.041Z"
     },
     {
       "id": "JR2024769",
