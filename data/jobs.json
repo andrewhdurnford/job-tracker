@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-29T15:20:18.927Z",
+  "generatedAt": "2026-09-29T15:30:20.342Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Capital One:R1001649",
+    "smartsheet:8239800",
+    "snowflake:b3fab313-f31f-44b6-8c32-222084f93259"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 28,
-    "experienced": 2230
+    "experienced": 2233
   },
   "companies": [
     {
@@ -234,7 +238,7 @@
       "name": "Amplitude",
       "ok": false,
       "jobCount": 5,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 211,
+      "jobCount": 212,
       "error": null,
       "stale": false
     },
@@ -4594,7 +4598,7 @@
     {
       "name": "Smartsheet",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4636,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001649",
+      "title": "Data Engineer 5",
+      "location": "Wilmington, DE",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Wilmington-DE/Data-Engineer-5_R1001649-1",
+      "postedAt": "2026-09-29T15:30:23.811Z",
+      "key": "Capital One:R1001649",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T15:30:20.342Z"
+    },
+    {
+      "id": "8239800",
+      "title": "Senior Software Engineer II - Solution Lifecycle (Remote Eligible)",
+      "location": " -REMOTE, USA-",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8239800",
+      "postedAt": "2026-09-29T15:24:54.000Z",
+      "key": "smartsheet:8239800",
+      "company": "Smartsheet",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T15:30:20.342Z"
+    },
+    {
+      "id": "b3fab313-f31f-44b6-8c32-222084f93259",
+      "title": "Software Engineer– Cortex AI Frontend",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/b3fab313-f31f-44b6-8c32-222084f93259",
+      "postedAt": "2026-09-29T15:20:39.861Z",
+      "key": "snowflake:b3fab313-f31f-44b6-8c32-222084f93259",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T15:30:20.342Z"
+    },
     {
       "id": "7e7205aa-1c98-4f4c-97c1-1bee77c540ee",
       "title": "Senior Software Engineer - 3P Partnerships",
