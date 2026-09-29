@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-09-29T17:10:19.875Z",
+  "generatedAt": "2026-09-29T17:20:18.689Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "Capital One:R1001664",
+    "Capital One:R1002477",
+    "coinbase:8238630",
+    "quindar:a2adbbb7-3ce4-4f37-82b8-2438e217e904"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 143,
     "new-grad": 28,
-    "experienced": 2239
+    "experienced": 2243
   },
   "companies": [
     {
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 208,
+      "jobCount": 210,
       "error": null,
       "stale": false
     },
@@ -1052,7 +1057,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -4013,7 +4018,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 124,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5700,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "R1001664",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001664-1",
+      "postedAt": "2026-09-29T17:20:21.922Z",
+      "key": "Capital One:R1001664",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T17:20:18.689Z"
+    },
+    {
+      "id": "R1002477",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002477-1",
+      "postedAt": "2026-09-29T17:20:21.922Z",
+      "key": "Capital One:R1002477",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T17:20:18.689Z"
+    },
+    {
+      "id": "a2adbbb7-3ce4-4f37-82b8-2438e217e904",
+      "title": "Program Chief Engineer",
+      "location": "Denver, CO",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/quindar/a2adbbb7-3ce4-4f37-82b8-2438e217e904",
+      "postedAt": "2026-09-29T17:12:41.563Z",
+      "key": "quindar:a2adbbb7-3ce4-4f37-82b8-2438e217e904",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T17:20:18.689Z"
+    },
+    {
       "id": "8854691002",
       "title": "Security Engineer (OT)",
       "location": "Cape Canaveral, FL",
@@ -6665,6 +6718,22 @@
         "us"
       ],
       "firstSeen": "2026-09-28T23:40:18.494Z"
+    },
+    {
+      "id": "8238630",
+      "title": "Senior Software Engineer, Backend - Overseer (Platform)",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8238630?gh_jid=8238630",
+      "postedAt": "2026-09-28T23:31:58.000Z",
+      "key": "coinbase:8238630",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T17:20:18.689Z"
     },
     {
       "id": "8084095",
