@@ -1,23 +1,27 @@
 {
-  "generatedAt": "2026-09-29T20:30:21.213Z",
+  "generatedAt": "2026-09-29T20:40:16.825Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 10,
   "newKeys": [
-    "airbnb:8239985",
-    "airbnb:8239930",
-    "coupang:8076182",
-    "faire:8856357002",
-    "faire:8857042002",
-    "Visa:REF088807W"
+    "affirm:7999344003",
+    "Nvidia:JR2026576",
+    "Nvidia:JR2026584",
+    "Nvidia:JR2019101",
+    "Procore:R0018701",
+    "Procore:R0018644",
+    "Remitly:R_106953",
+    "snowflake:2a928b93-a5d4-4285-a92c-032fb389faa2",
+    "synapticure:7d2e4619-1c50-4d3c-a735-d9c8f2a8f921",
+    "toast:8223601"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 140,
+    "intern": 141,
     "new-grad": 27,
-    "experienced": 2268
+    "experienced": 2277
   },
   "companies": [
     {
@@ -86,7 +90,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -2901,7 +2905,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3432,7 +3436,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 142,
+      "jobCount": 145,
       "error": null,
       "stale": false
     },
@@ -3894,7 +3898,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4139,7 +4143,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4643,7 +4647,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -4930,7 +4934,7 @@
     {
       "name": "Synapticure",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5112,7 +5116,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5710,154 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2019101",
+      "title": "Senior Software Development Tech Lead – NVLink FW and NVOS",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Tech-Lead---NVLink-FW-and-NVOS_JR2019101",
+      "postedAt": "2026-09-29T20:41:20.459Z",
+      "key": "Nvidia:JR2019101",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T20:40:16.825Z"
+    },
+    {
+      "id": "JR2026576",
+      "title": "Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576",
+      "postedAt": "2026-09-29T20:40:20.384Z",
+      "key": "Nvidia:JR2026576",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T20:40:16.825Z"
+    },
+    {
+      "id": "JR2026584",
+      "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
+      "postedAt": "2026-09-29T20:40:20.384Z",
+      "key": "Nvidia:JR2026584",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T20:40:16.825Z"
+    },
+    {
+      "id": "R_106953",
+      "title": "Senior Software Development Engineer, Post Submit Experience",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Development-Engineer--Post-Submit-Experience_R_106953",
+      "postedAt": "2026-09-29T20:40:19.794Z",
+      "key": "Remitly:R_106953",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T20:40:16.825Z"
+    },
+    {
+      "id": "R0018644",
+      "title": "QA Engineer 2 - DroneDeploy",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/QA-Engineer-2---DroneDeploy_R0018644",
+      "postedAt": "2026-09-29T20:40:19.501Z",
+      "key": "Procore:R0018644",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T20:40:16.825Z"
+    },
+    {
+      "id": "R0018701",
+      "title": "Senior Manager of Software Engineering",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-Manager-of-Software-Engineering_R0018701",
+      "postedAt": "2026-09-29T20:40:19.501Z",
+      "key": "Procore:R0018701",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T20:40:16.825Z"
+    },
+    {
+      "id": "7999344003",
+      "title": "Staff Software Engineer, Backend (Continuous Integration)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7999344003",
+      "postedAt": "2026-09-29T20:36:46.000Z",
+      "key": "affirm:7999344003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-29T20:40:16.825Z"
+    },
+    {
+      "id": "2a928b93-a5d4-4285-a92c-032fb389faa2",
+      "title": "Software Engineer - SnowConvert AI",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2",
+      "postedAt": "2026-09-29T20:36:30.301Z",
+      "key": "snowflake:2a928b93-a5d4-4285-a92c-032fb389faa2",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T20:40:16.825Z"
+    },
+    {
+      "id": "8223601",
+      "title": "Software Engineer II, Toast International",
+      "location": "Canada Hybrid (Ontario)",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8223601",
+      "postedAt": "2026-09-29T20:34:44.000Z",
+      "key": "toast:8223601",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-29T20:40:16.825Z"
+    },
     {
       "id": "REF088807W",
       "title": "Sr. Manager, Software Engineering",
@@ -11282,6 +11434,23 @@
         "us"
       ],
       "firstSeen": "2026-09-25T17:30:19.969Z"
+    },
+    {
+      "id": "7d2e4619-1c50-4d3c-a735-d9c8f2a8f921",
+      "title": "Senior DevOps & Security Engineer",
+      "location": "Remote",
+      "team": "Product & Engineering",
+      "url": "https://jobs.lever.co/synapticure/7d2e4619-1c50-4d3c-a735-d9c8f2a8f921",
+      "postedAt": "2026-09-25T17:15:32.517Z",
+      "key": "synapticure:7d2e4619-1c50-4d3c-a735-d9c8f2a8f921",
+      "company": "Synapticure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-09-29T20:40:16.825Z"
     },
     {
       "id": "R1002145",
