@@ -1,20 +1,18 @@
 {
-  "generatedAt": "2026-09-29T19:10:18.041Z",
+  "generatedAt": "2026-09-29T19:20:18.002Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "anthropic:5438030008",
-    "anthropic:5438044008",
-    "natera:6146411004"
+    "probook:499fce9c-29e5-4789-a6e5-f961b2c34e8e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 142,
+    "intern": 140,
     "new-grad": 27,
-    "experienced": 2249
+    "experienced": 2250
   },
   "companies": [
     {
@@ -987,7 +985,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -1757,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3884,7 +3882,7 @@
     {
       "name": "Probook",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4640,7 +4638,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 124,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "499fce9c-29e5-4789-a6e5-f961b2c34e8e",
+      "title": "Senior Infrastructure Engineer ",
+      "location": "Manhattan",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/probook/499fce9c-29e5-4789-a6e5-f961b2c34e8e",
+      "postedAt": "2026-09-29T19:13:53.529Z",
+      "key": "probook:499fce9c-29e5-4789-a6e5-f961b2c34e8e",
+      "company": "Probook",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T19:20:18.002Z"
+    },
     {
       "id": "5438044008",
       "title": "Research Engineer / Research Scientist, RL Frontiers",
@@ -11538,28 +11552,6 @@
       "firstSeen": "2026-09-25T01:20:16.683Z"
     },
     {
-      "id": "4be290ae-dd9d-488c-9d90-56fcd69101ca",
-      "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-      "location": "US-CA-Menlo Park (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
-      "postedAt": "2026-09-25T01:05:50.921Z",
-      "key": "snowflake:4be290ae-dd9d-488c-9d90-56fcd69101ca",
-      "company": "Snowflake",
-      "level": "intern",
-      "term": {
-        "label": "Spring 2027",
-        "seasons": [
-          "spring"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T01:10:27.045Z"
-    },
-    {
       "id": "7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
       "title": "Software Engineer, Search Infrastructure",
       "location": "San Francisco",
@@ -11570,28 +11562,6 @@
       "company": "OpenAI",
       "level": "experienced",
       "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T01:10:27.045Z"
-    },
-    {
-      "id": "5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
-      "title": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
-      "location": "US-CA-Menlo Park (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
-      "postedAt": "2026-09-25T01:03:02.890Z",
-      "key": "snowflake:5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
-      "company": "Snowflake",
-      "level": "intern",
-      "term": {
-        "label": "Spring 2027",
-        "seasons": [
-          "spring"
-        ],
-        "year": 2027
-      },
       "regions": [
         "us"
       ],
