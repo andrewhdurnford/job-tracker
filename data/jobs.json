@@ -1,18 +1,20 @@
 {
-  "generatedAt": "2026-09-29T23:10:17.090Z",
+  "generatedAt": "2026-09-29T23:20:15.400Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "openai:c7bcdaec-9714-44b0-8ba8-adc824594b54"
+    "nuvacore:046690ab-a241-4a83-aeb4-7ac81043287d",
+    "robinhood:8241738",
+    "roblox:8227776"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 141,
+    "intern": 142,
     "new-grad": 26,
-    "experienced": 2287
+    "experienced": 2289
   },
   "companies": [
     {
@@ -3420,7 +3422,7 @@
     {
       "name": "NUVACORE",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3848,7 +3850,7 @@
       "name": "Postman",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4232,14 +4234,14 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,61 @@
     }
   ],
   "jobs": [
+    {
+      "id": "046690ab-a241-4a83-aeb4-7ac81043287d",
+      "title": "CPU Software Validation Engineering Lead",
+      "location": "United States (+2 more)",
+      "team": "SOFTWARE",
+      "url": "https://jobs.lever.co/nuvacore/046690ab-a241-4a83-aeb4-7ac81043287d",
+      "postedAt": "2026-09-29T23:15:23.578Z",
+      "key": "nuvacore:046690ab-a241-4a83-aeb4-7ac81043287d",
+      "company": "NUVACORE",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-29T23:20:15.400Z"
+    },
+    {
+      "id": "8227776",
+      "title": "Senior Software Engineer, Reliability",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8227776?gh_jid=8227776",
+      "postedAt": "2026-09-29T23:14:58.000Z",
+      "key": "roblox:8227776",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T23:20:15.400Z"
+    },
+    {
+      "id": "8241738",
+      "title": "Data Science Intern (Summer 2027)",
+      "location": "Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738",
+      "postedAt": "2026-09-29T23:13:29.000Z",
+      "key": "robinhood:8241738",
+      "company": "Robinhood",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T23:20:15.400Z"
+    },
     {
       "id": "c7bcdaec-9714-44b0-8ba8-adc824594b54",
       "title": "Software Engineer, Implicit Signals",
