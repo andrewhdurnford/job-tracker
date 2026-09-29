@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-09-29T14:40:17.235Z",
+  "generatedAt": "2026-09-29T14:50:25.100Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "elastic:8099226",
+    "elastic:8173332",
+    "neo4j:4717470006",
+    "serval:7d249a25-e3b6-43e9-ae17-d3df3d349cd5"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 28,
-    "experienced": 2223
+    "experienced": 2226
   },
   "companies": [
     {
@@ -1521,7 +1526,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3264,7 +3269,7 @@
     {
       "name": "Neo4j",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4426,7 +4431,7 @@
     {
       "name": "Serval",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5224,7 +5229,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7d249a25-e3b6-43e9-ae17-d3df3d349cd5",
+      "title": "Security Engineer, Detection and Response",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/serval/7d249a25-e3b6-43e9-ae17-d3df3d349cd5",
+      "postedAt": "2026-09-29T14:49:21.925Z",
+      "key": "serval:7d249a25-e3b6-43e9-ae17-d3df3d349cd5",
+      "company": "Serval",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T14:50:25.100Z"
+    },
+    {
+      "id": "4717470006",
+      "title": "Senior Developer Advocate",
+      "location": "Remote: San Mateo area",
+      "team": null,
+      "url": "https://boards.greenhouse.io/neo4j/jobs/4717470006?gh_jid=4717470006",
+      "postedAt": "2026-09-29T14:48:54.000Z",
+      "key": "neo4j:4717470006",
+      "company": "Neo4j",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-29T14:50:25.100Z"
+    },
     {
       "id": "R1002399",
       "title": "Staff Full-Stack Engineer",
@@ -21364,22 +21401,6 @@
         "us"
       ],
       "firstSeen": "2026-09-18T18:50:17.587Z"
-    },
-    {
-      "id": "8213861",
-      "title": "Software Architect - Enterprise AI",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8213861",
-      "postedAt": "2026-09-18T18:34:54.000Z",
-      "key": "twilio:8213861",
-      "company": "Twilio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-18T18:40:18.741Z"
     },
     {
       "id": "8817776002",
@@ -40469,6 +40490,38 @@
         "remote"
       ],
       "firstSeen": "2026-09-02T12:50:18.349Z"
+    },
+    {
+      "id": "8099226",
+      "title": "Senior Software Engineer - EDR Workflows - Security",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8099226&gh_jid=8099226",
+      "postedAt": "2026-09-02T12:29:35.000Z",
+      "key": "elastic:8099226",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-29T14:50:25.100Z"
+    },
+    {
+      "id": "8173332",
+      "title": "Senior Software Engineer - EDR Workflows - Security",
+      "location": "Canada",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8173332&gh_jid=8173332",
+      "postedAt": "2026-09-02T12:28:16.000Z",
+      "key": "elastic:8173332",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-29T14:50:25.100Z"
     },
     {
       "id": "91bc61c1-29db-4a47-817d-30e921064af5",
