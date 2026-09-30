@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T21:50:16.458Z",
+  "generatedAt": "2026-09-30T22:00:23.539Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Nvidia:JR2026819"
+    "substack:c03094d4-9164-4cec-98d2-04d3e22da07d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 23,
-    "experienced": 2298
+    "experienced": 2296
   },
   "companies": [
     {
@@ -788,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 229,
+      "jobCount": 228,
       "error": null,
       "stale": false
     },
@@ -1089,7 +1089,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1874,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2629,7 +2629,7 @@
     {
       "name": "Kong",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 117,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4820,7 +4820,7 @@
     {
       "name": "Substack",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "c03094d4-9164-4cec-98d2-04d3e22da07d",
+      "title": "Full Stack Software Engineer - Enterprise",
+      "location": "New York",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/substack/c03094d4-9164-4cec-98d2-04d3e22da07d",
+      "postedAt": "2026-09-30T21:57:20.589Z",
+      "key": "substack:c03094d4-9164-4cec-98d2-04d3e22da07d",
+      "company": "Substack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T22:00:23.539Z"
+    },
     {
       "id": "JR2026819",
       "title": "System Software Engineer - Robotics Simulation",
@@ -29164,22 +29180,6 @@
       "firstSeen": "2026-09-16T01:00:23.723Z"
     },
     {
-      "id": "ee3ce7ed-3e21-4254-b6f0-9c0fd21f3ffc",
-      "title": "Forward Deployed Engineer",
-      "location": "North Dakota, United State",
-      "team": "Field Engineering",
-      "url": "https://jobs.ashbyhq.com/kong/ee3ce7ed-3e21-4254-b6f0-9c0fd21f3ffc",
-      "postedAt": "2026-09-16T00:59:44.640Z",
-      "key": "kong:ee3ce7ed-3e21-4254-b6f0-9c0fd21f3ffc",
-      "company": "Kong",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T01:00:23.723Z"
-    },
-    {
       "id": "b2bfa182-5a40-4545-9e03-980ededc979e",
       "title": "Founding Forward Deployed Engineer",
       "location": "Remote - US",
@@ -37752,22 +37752,6 @@
       "firstSeen": "2026-09-08T22:00:26.557Z"
     },
     {
-      "id": "R999806",
-      "title": "Lead Software Engineer, Full Stack",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Lead-Software-Engineer--Full-Stack_R999806-1",
-      "postedAt": "2026-09-08T21:50:20.313Z",
-      "key": "Capital One:R999806",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T21:50:16.783Z"
-    },
-    {
       "id": "8180692",
       "title": "Research Scientist, Map Scalability",
       "location": "Mountain View, CA, U.S.A ; San Francisco, CA, U.S.A ; New York City, NY, U.S.A",
@@ -44625,22 +44609,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T22:10:17.250Z"
-    },
-    {
-      "id": "eb7c3584-4708-45e7-b56a-31fcf6bf3c8e",
-      "title": "Senior Mobile Product Engineer, Ambient AI",
-      "location": "Mountain View, CA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/eb7c3584-4708-45e7-b56a-31fcf6bf3c8e",
-      "postedAt": "2026-08-31T21:54:50.500Z",
-      "key": "commure:eb7c3584-4708-45e7-b56a-31fcf6bf3c8e",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T22:00:25.060Z"
     },
     {
       "id": "JR2014056",
