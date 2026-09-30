@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-30T15:30:22.145Z",
+  "generatedAt": "2026-09-30T15:40:22.826Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1002521",
-    "reflectionai:09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
-    "reflectionai:b8aa9e15-39c1-416d-bdca-9f06244ac5af"
+    "okta:8243128",
+    "reflectionai:8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
+    "stripe:8241260"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 143,
     "new-grad": 26,
-    "experienced": 2279
+    "experienced": 2280
   },
   "companies": [
     {
@@ -390,10 +390,10 @@
     },
     {
       "name": "Asana",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Ashby",
@@ -938,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1966,7 +1966,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -3471,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4122,7 +4122,7 @@
     {
       "name": "Reflection AI",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4472,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -4801,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "8241260",
+      "title": "High School Fellowship, Software Engineering",
+      "location": "Seattle, San Francisco",
+      "team": "5112 General University",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
+      "postedAt": "2026-09-30T15:38:09.000Z",
+      "key": "stripe:8241260",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T15:40:22.826Z"
+    },
+    {
+      "id": "8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
+      "title": "Member of Technical Staff - Distributed Systems Engineer",
+      "location": "New York, NY (+2 more)",
+      "team": "Foundations",
+      "url": "https://jobs.ashbyhq.com/reflectionai/8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
+      "postedAt": "2026-09-30T15:32:36.106Z",
+      "key": "reflectionai:8b05b1e6-0286-464b-9fff-c6ac44c35b8c",
+      "company": "Reflection AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T15:40:22.826Z"
+    },
+    {
       "id": "R1002521",
       "title": "Full-stack Engineer 4",
       "location": "McLean, VA",
@@ -5718,6 +5750,22 @@
         "us"
       ],
       "firstSeen": "2026-09-30T15:30:22.145Z"
+    },
+    {
+      "id": "8243128",
+      "title": "Senior Software Engineer, OIG",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8243128?gh_jid=8243128",
+      "postedAt": "2026-09-30T15:30:23.000Z",
+      "key": "okta:8243128",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T15:40:22.826Z"
     },
     {
       "id": "b8aa9e15-39c1-416d-bdca-9f06244ac5af",
@@ -41249,23 +41297,6 @@
       "firstSeen": "2026-09-02T19:00:26.916Z"
     },
     {
-      "id": "8773381002",
-      "title": "Staff Backend Engineer, AMER",
-      "location": "Remote, Canada; Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773381002",
-      "postedAt": "2026-09-02T18:48:02.000Z",
-      "key": "gitlab:8773381002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-02T18:50:20.309Z"
-    },
-    {
       "id": "211e1d59-ffdf-4711-b035-756f04816bcc",
       "title": "Staff Android Engineer, Connectivity ",
       "location": "Boston, MA",
@@ -44473,22 +44504,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T16:30:26.836Z"
-    },
-    {
-      "id": "ddbab7c4-cb54-49f9-b9ab-fff244fdbdbe",
-      "title": "Senior Staff Engineer, ML Ops (R4941)",
-      "location": "San Mateo, California",
-      "team": "Engineering",
-      "url": "https://jobs.lever.co/shieldai/ddbab7c4-cb54-49f9-b9ab-fff244fdbdbe",
-      "postedAt": "2026-08-31T15:38:33.321Z",
-      "key": "shieldai:ddbab7c4-cb54-49f9-b9ab-fff244fdbdbe",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T15:40:23.370Z"
     },
     {
       "id": "R_106404",
