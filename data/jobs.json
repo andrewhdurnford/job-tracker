@@ -1,19 +1,16 @@
 {
-  "generatedAt": "2026-09-30T21:40:15.021Z",
+  "generatedAt": "2026-09-30T21:50:16.458Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "affirm:8009368003",
-    "affirm:8009366003",
-    "okta:8241679",
-    "snowflake:16d130a1-4014-4458-829f-ea2ba48d366d"
+    "Nvidia:JR2026819"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 147,
+    "intern": 146,
     "new-grad": 23,
     "experienced": 2298
   },
@@ -1877,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2066,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3430,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 150,
+      "jobCount": 151,
       "error": null,
       "stale": false
     },
@@ -3927,7 +3924,7 @@
     {
       "name": "Pronto",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4494,7 +4491,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 117,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026819",
+      "title": "System Software Engineer - Robotics Simulation",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Robotics-Simulation_JR2026819",
+      "postedAt": "2026-09-30T21:50:20.600Z",
+      "key": "Nvidia:JR2026819",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T21:50:16.458Z"
+    },
     {
       "id": "8241679",
       "title": "Senior Software Engineer, Security Engineering (Auth0)",
@@ -44676,44 +44689,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T21:50:17.572Z"
-    },
-    {
-      "id": "8767158002",
-      "title": "Software Engineer - Networking",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/pronto/jobs/8767158002",
-      "postedAt": "2026-08-31T21:42:53.000Z",
-      "key": "pronto:8767158002",
-      "company": "Pronto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:50:17.572Z"
-    },
-    {
-      "id": "34b31b67-268c-4270-b48f-72e59064c96e",
-      "title": "Software Engineer Intern, Agent (Summer 2027)",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Intern",
-      "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
-      "postedAt": "2026-08-31T21:42:19.593Z",
-      "key": "sierra:34b31b67-268c-4270-b48f-72e59064c96e",
-      "company": "Sierra",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T21:40:18.268Z"
     },
     {
       "id": "JR2014725",
