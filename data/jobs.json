@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T18:10:16.827Z",
+  "generatedAt": "2026-09-30T18:20:16.153Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "asana:7962412",
-    "waymo:8240198"
+    "anaplan:8858759002",
+    "Capital One:R1001947"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 23,
-    "experienced": 2285
+    "experienced": 2287
   },
   "companies": [
     {
@@ -237,13 +237,13 @@
       "name": "Amplitude",
       "ok": false,
       "jobCount": 5,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
       "name": "Anaplan",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -789,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 222,
+      "jobCount": 223,
       "error": null,
       "stale": false
     },
@@ -937,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2622,10 +2622,10 @@
     },
     {
       "name": "Komodo Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Kong",
@@ -5156,10 +5156,10 @@
     },
     {
       "name": "Trade Republic",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Traversal",
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001947",
+      "title": "Staff Full-stack Engineer - - B2B Platforms & Payment Systems (Remote-Eligible)",
+      "location": "3 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Staff-Full-stack-Engineer_R1001947",
+      "postedAt": "2026-09-30T18:20:19.564Z",
+      "key": "Capital One:R1001947",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-09-30T18:20:16.153Z"
+    },
+    {
+      "id": "8858759002",
+      "title": "Principal Data Scientist - AI",
+      "location": "New York City, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8858759002",
+      "postedAt": "2026-09-30T18:19:18.000Z",
+      "key": "anaplan:8858759002",
+      "company": "Anaplan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T18:20:16.153Z"
+    },
     {
       "id": "7962412",
       "title": "Software Engineer, Data Loading Infrastructure (LunaDb)",
@@ -15498,7 +15530,7 @@
       "id": "b66be397-240b-41a6-9b05-493299b270a9",
       "title": "Software Engineering Intern, iOS",
       "location": "New York, NY (HQ)",
-      "team": "Backend",
+      "team": "Emerging Talent - SWE",
       "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
       "postedAt": "2026-09-24T01:01:49.394Z",
       "key": "ramp:b66be397-240b-41a6-9b05-493299b270a9",
@@ -15514,7 +15546,7 @@
       "id": "fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
       "title": "Software Engineering Intern, Android",
       "location": "New York, NY (HQ)",
-      "team": "Backend",
+      "team": "Emerging Talent - SWE",
       "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
       "postedAt": "2026-09-24T00:55:33.807Z",
       "key": "ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
