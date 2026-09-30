@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-30T17:50:19.650Z",
+  "generatedAt": "2026-09-30T18:00:23.736Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1001702",
-    "Capital One:R1001713",
-    "Capital One:R1002600"
+    "Capital One:R1001711",
+    "pinterest:8234555",
+    "waymo:8238525"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 143,
-    "new-grad": 25,
+    "intern": 144,
+    "new-grad": 23,
     "experienced": 2284
   },
   "companies": [
@@ -502,10 +502,10 @@
     },
     {
       "name": "Azra Games",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Backflip AI",
@@ -790,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 221,
+      "jobCount": 222,
       "error": null,
       "stale": false
     },
@@ -1427,7 +1427,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -3415,7 +3415,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3758,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3813,10 +3813,10 @@
     },
     {
       "name": "Pomelo Care",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Poolside",
@@ -4409,7 +4409,7 @@
     {
       "name": "SentinelOne",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4493,7 +4493,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,60 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001711",
+      "title": "Full Stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1001711-2",
+      "postedAt": "2026-09-30T18:00:27.424Z",
+      "key": "Capital One:R1001711",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T18:00:23.736Z"
+    },
+    {
+      "id": "8238525",
+      "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525",
+      "postedAt": "2026-09-30T17:54:30.000Z",
+      "key": "waymo:8238525",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T18:00:23.736Z"
+    },
+    {
+      "id": "8234555",
+      "title": "Director, Machine Learning Engineering, Ads Measurement",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8234555",
+      "postedAt": "2026-09-30T17:50:52.000Z",
+      "key": "pinterest:8234555",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T18:00:23.736Z"
+    },
     {
       "id": "R1001702",
       "title": "Data Engineer 4",
@@ -16091,22 +16145,6 @@
       "firstSeen": "2026-09-23T20:30:28.776Z"
     },
     {
-      "id": "8227399",
-      "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
-      "location": "Mountain View, California (HQ)",
-      "team": null,
-      "url": "https://nuro.ai/careersitem?gh_jid=8227399",
-      "postedAt": "2026-09-23T20:25:45.000Z",
-      "key": "nuro:8227399",
-      "company": "Nuro",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T00:10:17.272Z"
-    },
-    {
       "id": "98c244fc-444b-43ba-b152-30227191170b",
       "title": "Security Systems Engineer",
       "location": "Seattle, WA",
@@ -26112,22 +26150,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-17T17:50:17.313Z"
-    },
-    {
-      "id": "30354",
-      "title": "Lead Data Architect",
-      "location": "US-SFO-Main",
-      "team": "IT Infrastructure & Operations",
-      "url": "https://uscareers-docusign.icims.com/jobs/30354/login",
-      "postedAt": "2026-09-17T17:26:00.000Z",
-      "key": "DocuSign:30354",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T09:00:23.599Z"
     },
     {
       "id": "8198041",
@@ -44469,42 +44491,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-31T18:30:25.873Z"
-    },
-    {
-      "id": "7966022003",
-      "title": "Staff Site Reliability Engineer, Government",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7966022003",
-      "postedAt": "2026-08-31T17:59:19.000Z",
-      "key": "sentinellabs:7966022003",
-      "company": "SentinelOne",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T18:00:25.127Z"
-    },
-    {
-      "id": "149f368c-52d5-408f-ba26-ad888f318a00",
-      "title": "Software Engineer, Agent (New Grad 2027)",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Agent Engineering New Grad",
-      "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00",
-      "postedAt": "2026-08-31T17:54:40.218Z",
-      "key": "sierra:149f368c-52d5-408f-ba26-ad888f318a00",
-      "company": "Sierra",
-      "level": "new-grad",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:40:19.525Z"
     },
     {
       "id": "REF079838W",
