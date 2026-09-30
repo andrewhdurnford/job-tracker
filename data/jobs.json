@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-09-30T18:30:57.817Z",
+  "generatedAt": "2026-09-30T18:40:19.822Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "launchdarkly:8007080003",
-    "launchdarkly:8007085003",
-    "launchdarkly:8008528003",
-    "launchdarkly:8008515003"
+    "block:5434157008",
+    "upstart:8193487"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +13,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 23,
-    "experienced": 2286
+    "experienced": 2287
   },
   "companies": [
     {
@@ -616,7 +614,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -798,7 +796,7 @@
     {
       "name": "CaptivateIQ",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 116,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5306,7 +5304,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5703,39 @@
   ],
   "jobs": [
     {
+      "id": "5434157008",
+      "title": "AI Evaluation Infrastructure Engineer",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5434157008?gh_jid=5434157008",
+      "postedAt": "2026-09-30T18:33:32.000Z",
+      "key": "block:5434157008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T18:40:19.822Z"
+    },
+    {
+      "id": "8193487",
+      "title": "Senior Director of Data Platform Engineering",
+      "location": "United States | Remote",
+      "team": null,
+      "url": "https://careers.upstart.com/jobs?gh_jid=8193487",
+      "postedAt": "2026-09-30T18:31:45.000Z",
+      "key": "upstart:8193487",
+      "company": "Upstart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-09-30T18:40:19.822Z"
+    },
+    {
       "id": "8008515003",
       "title": "Senior Full Stack Engineer",
       "location": "Remote - US",
@@ -5802,7 +5833,7 @@
     },
     {
       "id": "7962412",
-      "title": "Software Engineer, Data Loading Infrastructure (LunaDb)",
+      "title": "Software Engineer, Data Loading Infrastructure ",
       "location": "San Francisco",
       "team": null,
       "url": "https://www.asana.com/jobs/apply/7962412?gh_jid=7962412",
@@ -44526,23 +44557,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-31T18:50:21.293Z"
-    },
-    {
-      "id": "696f8b9b-5693-44fc-a3b3-9ecfe1bc1a1b",
-      "title": "Senior Software Engineer - ICM",
-      "location": "Remote",
-      "team": "Software Engineering Team",
-      "url": "https://jobs.lever.co/captivateiq/696f8b9b-5693-44fc-a3b3-9ecfe1bc1a1b",
-      "postedAt": "2026-08-31T18:37:52.468Z",
-      "key": "captivateiq:696f8b9b-5693-44fc-a3b3-9ecfe1bc1a1b",
-      "company": "CaptivateIQ",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-09-10T20:20:17.723Z"
     },
     {
       "id": "REF079838W",
