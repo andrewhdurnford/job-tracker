@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-09-30T21:30:21.618Z",
+  "generatedAt": "2026-09-30T21:40:15.021Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R1002594"
+    "affirm:8009368003",
+    "affirm:8009366003",
+    "okta:8241679",
+    "snowflake:16d130a1-4014-4458-829f-ea2ba48d366d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 23,
-    "experienced": 2297
+    "experienced": 2298
   },
   "companies": [
     {
@@ -81,7 +84,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -3469,7 +3472,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 63,
+      "jobCount": 61,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4641,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5481,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8241679",
+      "title": "Senior Software Engineer, Security Engineering (Auth0)",
+      "location": "Toronto, Ontario, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8241679?gh_jid=8241679",
+      "postedAt": "2026-09-30T21:35:20.000Z",
+      "key": "okta:8241679",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-30T21:40:15.021Z"
+    },
+    {
+      "id": "16d130a1-4014-4458-829f-ea2ba48d366d",
+      "title": "Software Engineer – Mobile Team ",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d",
+      "postedAt": "2026-09-30T21:33:58.519Z",
+      "key": "snowflake:16d130a1-4014-4458-829f-ea2ba48d366d",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T21:40:15.021Z"
+    },
+    {
+      "id": "8009368003",
+      "title": "Senior Software Engineer, backend (Online Storage)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8009368003",
+      "postedAt": "2026-09-30T21:33:51.000Z",
+      "key": "affirm:8009368003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-30T21:40:15.021Z"
+    },
+    {
+      "id": "8009366003",
+      "title": "Senior Software Engineer, Backend (Online Storage)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8009366003",
+      "postedAt": "2026-09-30T21:33:50.000Z",
+      "key": "affirm:8009366003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T21:40:15.021Z"
+    },
     {
       "id": "R1002594",
       "title": "Full-stack Engineer 4",
@@ -44657,54 +44724,6 @@
       "postedAt": "2026-08-31T21:41:15.578Z",
       "key": "Nvidia:JR2014725",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:40:19.525Z"
-    },
-    {
-      "id": "6d1d835d-5882-4191-b78e-fd04a4c05f11",
-      "title": "AI Support Engineer, Government - Washington, D.C.",
-      "location": "Washington, DC",
-      "team": "Support Delivery",
-      "url": "https://jobs.ashbyhq.com/openai/6d1d835d-5882-4191-b78e-fd04a4c05f11",
-      "postedAt": "2026-08-31T21:38:56.669Z",
-      "key": "openai:6d1d835d-5882-4191-b78e-fd04a4c05f11",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:40:19.525Z"
-    },
-    {
-      "id": "48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
-      "title": "AI Support Engineer, Government - San Francisco, CA",
-      "location": "San Francisco",
-      "team": "Support Delivery",
-      "url": "https://jobs.ashbyhq.com/openai/48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
-      "postedAt": "2026-08-31T21:38:54.505Z",
-      "key": "openai:48993416-b5f5-4c3f-b7c8-b8ca7c2395e0",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:40:19.525Z"
-    },
-    {
-      "id": "8164291",
-      "title": "Staff Software Engineer, Fleet Optimization",
-      "location": "San Francisco, CA ; Mountain View, CA ",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8164291",
-      "postedAt": "2026-08-31T21:38:03.000Z",
-      "key": "waymo:8164291",
-      "company": "Waymo",
       "level": "experienced",
       "term": null,
       "regions": [
