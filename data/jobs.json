@@ -1,16 +1,17 @@
 {
-  "generatedAt": "2026-09-30T17:20:16.590Z",
+  "generatedAt": "2026-09-30T17:30:23.577Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1002512"
+    "Nvidia:JR2025379",
+    "Nvidia:JR2026835"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 143,
+    "intern": 144,
     "new-grad": 25,
     "experienced": 2280
   },
@@ -914,7 +915,7 @@
     {
       "name": "Checkr",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 148,
+      "jobCount": 150,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 116,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,42 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025379",
+      "title": "PhD Research Intern, Programming Systems - 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
+      "postedAt": "2026-09-30T17:30:28.128Z",
+      "key": "Nvidia:JR2025379",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T17:30:23.577Z"
+    },
+    {
+      "id": "JR2026835",
+      "title": "Senior System Software Test Engineer, Networking",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Test-Engineer--Networking_JR2026835",
+      "postedAt": "2026-09-30T17:30:28.128Z",
+      "key": "Nvidia:JR2026835",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T17:30:23.577Z"
+    },
     {
       "id": "R1002512",
       "title": "Senior Manager, Full-stack Engineer",
@@ -44423,22 +44460,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T17:40:19.801Z"
-    },
-    {
-      "id": "8163203",
-      "title": "Senior Software Engineer, Trust",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/checkr/jobs/8163203",
-      "postedAt": "2026-08-31T17:25:11.000Z",
-      "key": "checkr:8163203",
-      "company": "Checkr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T17:30:23.053Z"
     },
     {
       "id": "REF079838W",
