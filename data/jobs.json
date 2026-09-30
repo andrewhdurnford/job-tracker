@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-09-30T19:10:14.999Z",
+  "generatedAt": "2026-09-30T19:20:21.388Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Capital One:R1001571",
-    "Nvidia:JR2025379",
-    "snyk:507a3707-d6bd-48c4-800f-429ecf40769e",
-    "zscaler:5247845007"
+    "Capital One:R1001704",
+    "Capital One:R1002665",
+    "okta:8243981",
+    "okta:8243989",
+    "roblox:8221564"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +16,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 23,
-    "experienced": 2294
+    "experienced": 2298
   },
   "companies": [
     {
@@ -791,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 224,
+      "jobCount": 226,
       "error": null,
       "stale": false
     },
@@ -3228,7 +3229,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3472,7 +3473,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -4242,7 +4243,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -4473,7 +4474,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5706,86 @@
   ],
   "jobs": [
     {
+      "id": "R1002665",
+      "title": "Full-stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1002665-1",
+      "postedAt": "2026-09-30T19:20:25.211Z",
+      "key": "Capital One:R1002665",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:20:21.388Z"
+    },
+    {
+      "id": "R1001704",
+      "title": "Senior Manager, Full Stack Engineer",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Manager--Full-Stack-Engineer_R1001704-2",
+      "postedAt": "2026-09-30T19:20:25.211Z",
+      "key": "Capital One:R1001704",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:20:21.388Z"
+    },
+    {
+      "id": "8221564",
+      "title": "Principal Software Engineer, Foundational AI",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8221564?gh_jid=8221564",
+      "postedAt": "2026-09-30T19:16:51.000Z",
+      "key": "roblox:8221564",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:20:21.388Z"
+    },
+    {
+      "id": "8243981",
+      "title": "Senior Software Engineer, OIG",
+      "location": "Bellevue, Washington",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8243981?gh_jid=8243981",
+      "postedAt": "2026-09-30T19:11:07.000Z",
+      "key": "okta:8243981",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:20:21.388Z"
+    },
+    {
+      "id": "8243989",
+      "title": "Staff Software Engineer, OIG",
+      "location": "Bellevue, Washington",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8243989?gh_jid=8243989",
+      "postedAt": "2026-09-30T19:10:57.000Z",
+      "key": "okta:8243989",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:20:21.388Z"
+    },
+    {
       "id": "JR2025379",
       "title": "PhD Research Intern, Programming Systems - 2027",
       "location": "US, CA, Santa Clara",
@@ -5760,7 +5841,7 @@
     {
       "id": "5247845007",
       "title": "Sr. Data Center Operations Engineer",
-      "location": "Dallas, Texas, USA",
+      "location": "Remote - Texas, USA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5247845007",
       "postedAt": "2026-09-30T19:02:35.000Z",
@@ -11501,7 +11582,7 @@
     },
     {
       "id": "bfa00574-c549-48fb-9065-2840c4d17cfc",
-      "title": "Senior Engineer, Safety-Critical Software (R5788)",
+      "title": "Safety-Critical Software Engineer (R5788)",
       "location": "San Diego, California",
       "team": "Foundations",
       "url": "https://jobs.lever.co/shieldai/bfa00574-c549-48fb-9065-2840c4d17cfc",
@@ -38594,22 +38675,6 @@
         "us"
       ],
       "firstSeen": "2026-09-07T16:50:16.405Z"
-    },
-    {
-      "id": "1803c365-1f43-4445-b5e0-376f0b221ec6",
-      "title": "Staff Engineer, Safety-Critical Software (R5826)",
-      "location": "San Diego, California",
-      "team": "Foundations",
-      "url": "https://jobs.lever.co/shieldai/1803c365-1f43-4445-b5e0-376f0b221ec6",
-      "postedAt": "2026-09-04T23:49:48.050Z",
-      "key": "shieldai:1803c365-1f43-4445-b5e0-376f0b221ec6",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-04T23:50:19.518Z"
     },
     {
       "id": "8784792002",
