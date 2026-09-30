@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-09-30T16:00:25.482Z",
+  "generatedAt": "2026-09-30T16:10:28.986Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "eloquentai:78c360e2-abd0-498b-ac59-d0907b71a801",
-    "natera:6211283004",
-    "okta:8243180"
+    "pomelocare:6212021004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 143,
     "new-grad": 26,
-    "experienced": 2286
+    "experienced": 2287
   },
   "companies": [
     {
@@ -938,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3814,7 +3812,7 @@
     {
       "name": "Pomelo Care",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 121,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6212021004",
+      "title": "Staff Data Scientist, Healthcare Economics",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pomelocare/jobs/6212021004",
+      "postedAt": "2026-09-30T16:09:52.000Z",
+      "key": "pomelocare:6212021004",
+      "company": "Pomelo Care",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T16:10:28.986Z"
+    },
     {
       "id": "8243180",
       "title": "Principal Software Engineer",
