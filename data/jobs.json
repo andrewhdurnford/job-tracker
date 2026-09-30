@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-09-30T19:00:31.216Z",
+  "generatedAt": "2026-09-30T19:10:14.999Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "blissway:6200a755-2d26-4971-bf3b-c443dbf1da78",
-    "coursera:6211197004",
-    "handshake:f911a2db-f80c-478c-b0d8-e62e9a6f1627",
-    "okta:8241309",
-    "ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956"
+    "Capital One:R1001571",
+    "Nvidia:JR2025379",
+    "snyk:507a3707-d6bd-48c4-800f-429ecf40769e",
+    "zscaler:5247845007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +15,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 23,
-    "experienced": 2292
+    "experienced": 2294
   },
   "companies": [
     {
@@ -92,7 +91,7 @@
     {
       "name": "AfterQuery",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -792,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 223,
+      "jobCount": 224,
       "error": null,
       "stale": false
     },
@@ -1618,7 +1617,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -3229,7 +3228,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3431,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 149,
+      "jobCount": 150,
       "error": null,
       "stale": false
     },
@@ -4649,7 +4648,7 @@
     {
       "name": "Snyk",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5692,7 +5691,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5704,75 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025379",
+      "title": "PhD Research Intern, Programming Systems - 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
+      "postedAt": "2026-09-30T19:10:19.215Z",
+      "key": "Nvidia:JR2025379",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:10:14.999Z"
+    },
+    {
+      "id": "R1001571",
+      "title": "Data Engineer 4 - Nexus Products",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Data-Engineer-4---Nexus-Products_R1001571-1",
+      "postedAt": "2026-09-30T19:10:18.293Z",
+      "key": "Capital One:R1001571",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:10:14.999Z"
+    },
+    {
+      "id": "507a3707-d6bd-48c4-800f-429ecf40769e",
+      "title": "Senior Product Security Engineer",
+      "location": "United States - Boston Office (+1 more)",
+      "team": "ENG - Product Security",
+      "url": "https://jobs.ashbyhq.com/snyk/507a3707-d6bd-48c4-800f-429ecf40769e",
+      "postedAt": "2026-09-30T19:08:51.894Z",
+      "key": "snyk:507a3707-d6bd-48c4-800f-429ecf40769e",
+      "company": "Snyk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-09-30T19:10:14.999Z"
+    },
+    {
+      "id": "5247845007",
+      "title": "Sr. Data Center Operations Engineer",
+      "location": "Dallas, Texas, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5247845007",
+      "postedAt": "2026-09-30T19:02:35.000Z",
+      "key": "zscaler:5247845007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:10:14.999Z"
+    },
     {
       "id": "6211197004",
       "title": "Senior Software Developer, BE",
@@ -44618,38 +44686,6 @@
       "postedAt": "2026-08-31T19:10:20.845Z",
       "key": "Remitly:R_106829",
       "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T19:10:17.426Z"
-    },
-    {
-      "id": "6173862004",
-      "title": "Frontend Programmer Intern",
-      "location": "Cary,North Carolina,United States",
-      "team": "Engineering Specialist",
-      "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004",
-      "postedAt": "2026-08-31T19:08:30.000Z",
-      "key": "epicgames:6173862004",
-      "company": "Epic Games",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T19:10:17.426Z"
-    },
-    {
-      "id": "7df65be5-5338-4d54-bc0a-ac550633618b",
-      "title": "Software Engineer - Marketplace",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/afterquery/7df65be5-5338-4d54-bc0a-ac550633618b",
-      "postedAt": "2026-08-31T19:01:49.358Z",
-      "key": "afterquery:7df65be5-5338-4d54-bc0a-ac550633618b",
-      "company": "AfterQuery",
       "level": "experienced",
       "term": null,
       "regions": [
