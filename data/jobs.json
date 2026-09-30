@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-09-30T20:20:17.992Z",
+  "generatedAt": "2026-09-30T20:30:19.205Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "adyen:8210671",
-    "Capital One:R1002595",
-    "Visa:REF088255W"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -14,7 +10,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 23,
-    "experienced": 2304
+    "experienced": 2302
   },
   "companies": [
     {
@@ -938,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4695,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 117,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4801,7 +4797,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5256,7 +5252,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -6960,22 +6956,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T14:30:22.444Z"
-    },
-    {
-      "id": "8240322",
-      "title": "Abuse Research Engineer",
-      "location": "US - Remote",
-      "team": "8611 Security Analytics",
-      "url": "https://stripe.com/jobs/search?gh_jid=8240322",
-      "postedAt": "2026-09-30T13:22:13.000Z",
-      "key": "stripe:8240322",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T13:30:21.381Z"
     },
     {
       "id": "R1002173",
@@ -45953,22 +45933,6 @@
       ],
       "firstSeen": "2026-08-05T19:33:31.081Z",
       "seeded": true
-    },
-    {
-      "id": "28ad3557-b34b-47e3-8424-b01a781bd726",
-      "title": "Principal Engineer - Intelligent Document & Context Grounding",
-      "location": "Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/uipath/28ad3557-b34b-47e3-8424-b01a781bd726",
-      "postedAt": "2026-08-05T19:16:06.855Z",
-      "key": "uipath:28ad3557-b34b-47e3-8424-b01a781bd726",
-      "company": "UiPath",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-05T19:33:31.081Z"
     },
     {
       "id": "5204483007",
