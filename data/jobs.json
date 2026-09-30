@@ -1,17 +1,15 @@
 {
-  "generatedAt": "2026-09-30T22:20:16.563Z",
+  "generatedAt": "2026-09-30T22:25:15.021Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "stripe:8209337"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 146,
-    "new-grad": 23,
+    "intern": 145,
+    "new-grad": 22,
     "experienced": 2291
   },
   "companies": [
@@ -1755,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2917,7 +2915,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4772,7 +4770,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4799,7 +4797,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -44485,45 +44483,6 @@
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T22:30:25.578Z"
-    },
-    {
-      "id": "8128744",
-      "title": "Software Engineer, New Grad",
-      "location": "San Francisco, Seattle, New York",
-      "team": "5112 General University",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128744",
-      "postedAt": "2026-08-31T22:22:27.000Z",
-      "key": "stripe:8128744",
-      "company": "Stripe",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T22:30:25.578Z"
-    },
-    {
-      "id": "8128745",
-      "title": "Software Engineer, Intern (Summer or Winter)",
-      "location": "San Francisco, Seattle, New York City",
-      "team": "5112 General University",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "postedAt": "2026-08-31T22:20:45.000Z",
-      "key": "stripe:8128745",
-      "company": "Stripe",
-      "level": "intern",
-      "term": {
-        "label": "Summer/Winter",
-        "seasons": [
-          "summer",
-          "winter"
-        ],
-        "year": null
-      },
       "regions": [
         "us"
       ],
