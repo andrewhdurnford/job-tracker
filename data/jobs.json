@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-30T21:00:25.353Z",
+  "generatedAt": "2026-09-30T21:10:20.348Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "1password:804f6fcb-e244-4734-b3c9-029c108359f4"
+    "block:5427880008",
+    "Visa:REF082667W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 23,
-    "experienced": 2301
+    "experienced": 2297
   },
   "companies": [
     {
@@ -613,7 +614,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 229,
+      "jobCount": 228,
       "error": null,
       "stale": false
     },
@@ -1866,7 +1867,7 @@
     {
       "name": "Formation Bio",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5401,7 +5402,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF082667W",
+      "title": "Senior Software Engineer",
+      "location": "US - Bellevue, WA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Senior-Software-Engineer_REF082667W-1",
+      "postedAt": "2026-09-30T21:10:24.070Z",
+      "key": "Visa:REF082667W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T21:10:20.348Z"
+    },
+    {
+      "id": "5427880008",
+      "title": "Software Engineer, Program Engineering",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5427880008?gh_jid=5427880008",
+      "postedAt": "2026-09-30T21:05:34.000Z",
+      "key": "block:5427880008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T21:10:20.348Z"
+    },
     {
       "id": "804f6fcb-e244-4734-b3c9-029c108359f4",
       "title": "Senior Developer Advocate",
@@ -19885,22 +19918,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T18:30:20.876Z"
-    },
-    {
-      "id": "R1001640",
-      "title": "Data Engineer 5 (SEO/GEO, AdTech )",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Data-Engineer-5_R1001640-1",
-      "postedAt": "2026-09-22T18:20:20.971Z",
-      "key": "Capital One:R1001640",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T18:20:17.345Z"
     },
     {
       "id": "7683977",
@@ -44721,86 +44738,6 @@
       "postedAt": "2026-08-31T21:11:19.604Z",
       "key": "Nvidia:JR2009423",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:10:19.753Z"
-    },
-    {
-      "id": "8157298",
-      "title": "Senior Machine Learning Engineer, Vehicle Interaction & Behavior Policy ML",
-      "location": "Mountain View, California, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8157298",
-      "postedAt": "2026-08-31T21:09:29.000Z",
-      "key": "waymo:8157298",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:10:19.753Z"
-    },
-    {
-      "id": "8157152",
-      "title": "Senior Machine Learning Engineer, Multimodal Perception",
-      "location": "Mountain View, California, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8157152",
-      "postedAt": "2026-08-31T21:09:27.000Z",
-      "key": "waymo:8157152",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:10:19.753Z"
-    },
-    {
-      "id": "8167853",
-      "title": "Senior Software Engineer II, Trial Engine",
-      "location": "New York, NY; Boston, MA; San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/formationbio/jobs/8167853",
-      "postedAt": "2026-08-31T21:02:30.000Z",
-      "key": "formationbio:8167853",
-      "company": "Formation Bio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:10:19.753Z"
-    },
-    {
-      "id": "8167964",
-      "title": "Engineering Manager, Infrastructure",
-      "location": "New York, NY; Boston, MA; San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/formationbio/jobs/8167964",
-      "postedAt": "2026-08-31T21:02:16.000Z",
-      "key": "formationbio:8167964",
-      "company": "Formation Bio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T21:10:19.753Z"
-    },
-    {
-      "id": "8167989",
-      "title": "Associate Director, Data Engineering",
-      "location": "New York, NY; Boston, MA; San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/formationbio/jobs/8167989",
-      "postedAt": "2026-08-31T21:02:01.000Z",
-      "key": "formationbio:8167989",
-      "company": "Formation Bio",
       "level": "experienced",
       "term": null,
       "regions": [
