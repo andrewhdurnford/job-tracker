@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-09-30T15:20:17.593Z",
+  "generatedAt": "2026-09-30T15:30:22.145Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Capital One:R1002521",
+    "reflectionai:09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
+    "reflectionai:b8aa9e15-39c1-416d-bdca-9f06244ac5af"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 143,
     "new-grad": 26,
-    "experienced": 2277
+    "experienced": 2279
   },
   "companies": [
     {
@@ -72,7 +76,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -386,10 +390,10 @@
     },
     {
       "name": "Asana",
-      "ok": true,
+      "ok": false,
       "jobCount": 7,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Ashby",
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 213,
+      "jobCount": 214,
       "error": null,
       "stale": false
     },
@@ -934,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1422,10 +1426,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": false,
+      "ok": true,
       "jobCount": 18,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Dolls Kill",
@@ -4118,7 +4122,7 @@
     {
       "name": "Reflection AI",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002521",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002521-1",
+      "postedAt": "2026-09-30T15:30:25.372Z",
+      "key": "Capital One:R1002521",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T15:30:22.145Z"
+    },
+    {
+      "id": "b8aa9e15-39c1-416d-bdca-9f06244ac5af",
+      "title": "Member of Technical Staff - Engineering Lead, Data Platform",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Foundations",
+      "url": "https://jobs.ashbyhq.com/reflectionai/b8aa9e15-39c1-416d-bdca-9f06244ac5af",
+      "postedAt": "2026-09-30T15:20:19.471Z",
+      "key": "reflectionai:b8aa9e15-39c1-416d-bdca-9f06244ac5af",
+      "company": "Reflection AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T15:30:22.145Z"
+    },
+    {
+      "id": "09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
+      "title": "Member of Technical Staff - Engineering Lead, Compute Platform",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Foundations",
+      "url": "https://jobs.ashbyhq.com/reflectionai/09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
+      "postedAt": "2026-09-30T15:19:54.905Z",
+      "key": "reflectionai:09d9bfdb-2aa7-4fe7-b133-3d3d3fe2a0cb",
+      "company": "Reflection AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T15:30:22.145Z"
+    },
     {
       "id": "8243028",
       "title": "Staff Security Engineer - AI",
@@ -44437,22 +44489,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T15:40:23.370Z"
-    },
-    {
-      "id": "8113712",
-      "title": "Engineering Manager, Machine Learning - Personalize Intelligence",
-      "location": "Chicago",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8113712",
-      "postedAt": "2026-08-31T15:24:46.000Z",
-      "key": "adyen:8113712",
-      "company": "Adyen",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T16:10:17.709Z"
     },
     {
       "id": "R_106404",
