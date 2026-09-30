@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-09-30T18:00:23.736Z",
+  "generatedAt": "2026-09-30T18:10:16.827Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1001711",
-    "pinterest:8234555",
-    "waymo:8238525"
+    "asana:7962412",
+    "waymo:8240198"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 144,
+    "intern": 145,
     "new-grad": 23,
-    "experienced": 2284
+    "experienced": 2285
   },
   "companies": [
     {
@@ -391,7 +390,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -502,10 +501,10 @@
     },
     {
       "name": "Azra Games",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Backflip AI",
@@ -938,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3813,10 +3812,10 @@
     },
     {
       "name": "Pomelo Care",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Poolside",
@@ -5480,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7962412",
+      "title": "Software Engineer, Data Loading Infrastructure (LunaDb)",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/7962412?gh_jid=7962412",
+      "postedAt": "2026-09-30T18:10:01.000Z",
+      "key": "asana:7962412",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T18:10:16.827Z"
+    },
+    {
+      "id": "8240198",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198",
+      "postedAt": "2026-09-30T18:03:17.000Z",
+      "key": "waymo:8240198",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T18:10:16.827Z"
+    },
     {
       "id": "R1001711",
       "title": "Full Stack Engineer 4",
