@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-09-30T13:20:56.636Z",
+  "generatedAt": "2026-09-30T13:30:21.381Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1001144",
-    "Capital One:R1002173"
+    "stripe:8240322"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 143,
     "new-grad": 26,
-    "experienced": 2292
+    "experienced": 2289
   },
   "companies": [
     {
@@ -68,7 +67,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 67,
+      "jobCount": 63,
       "error": null,
       "stale": false
     },
@@ -4800,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -5233,10 +5232,10 @@
     },
     {
       "name": "Typeform",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Udemy",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8240322",
+      "title": "Abuse Research Engineer",
+      "location": "US - Remote",
+      "team": "8611 Security Analytics",
+      "url": "https://stripe.com/jobs/search?gh_jid=8240322",
+      "postedAt": "2026-09-30T13:22:13.000Z",
+      "key": "stripe:8240322",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T13:30:21.381Z"
+    },
     {
       "id": "R1002173",
       "title": "Full-stack Engineer 4 (Manager, IC - AWS, JavaScript, Python)",
@@ -23934,38 +23949,6 @@
       "firstSeen": "2026-09-18T08:30:20.610Z"
     },
     {
-      "id": "R171324",
-      "title": "Software Development Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R171324-1",
-      "postedAt": "2026-09-18T08:10:33.518Z",
-      "key": "Adobe:R171324",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
-      "id": "R171151",
-      "title": "Software Engineer 4, Backend Services",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Engineer-4--Backend-Services_R171151",
-      "postedAt": "2026-09-18T08:10:33.518Z",
-      "key": "Adobe:R171151",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
       "id": "R171443",
       "title": "Vice President, Product and Software Security",
       "location": "San Jose",
@@ -24350,22 +24333,6 @@
       "firstSeen": "2026-09-18T08:00:24.114Z"
     },
     {
-      "id": "R167863",
-      "title": "Senior AI Platform Engineer- Data and Systems",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-AI-Data-Platform-Engineer_R167863-1",
-      "postedAt": "2026-09-18T08:00:40.873Z",
-      "key": "Adobe:R167863",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
       "id": "R147125",
       "title": "Senior Software Engineer",
       "location": "San Jose",
@@ -24517,22 +24484,6 @@
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R160087",
       "postedAt": "2026-09-18T08:00:38.093Z",
       "key": "Adobe:R160087",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R167647",
-      "title": "Machine Learning Engineer, Express AI Foundations",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer--Express-AI-Foundations_R167647",
-      "postedAt": "2026-09-18T08:00:37.335Z",
-      "key": "Adobe:R167647",
       "company": "Adobe",
       "level": "experienced",
       "term": null,
