@@ -1,19 +1,22 @@
 {
-  "generatedAt": "2026-09-30T18:50:24.167Z",
+  "generatedAt": "2026-09-30T19:00:31.216Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "spacex:8856971002",
-    "stripe:8231439"
+    "blissway:6200a755-2d26-4971-bf3b-c443dbf1da78",
+    "coursera:6211197004",
+    "handshake:f911a2db-f80c-478c-b0d8-e62e9a6f1627",
+    "okta:8241309",
+    "ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 145,
+    "intern": 146,
     "new-grad": 23,
-    "experienced": 2288
+    "experienced": 2292
   },
   "companies": [
     {
@@ -228,10 +231,10 @@
     },
     {
       "name": "Amca",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Amplitude",
@@ -607,7 +610,7 @@
     {
       "name": "Blissway",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1209,7 +1212,7 @@
     {
       "name": "Coursera",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2147,7 +2150,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3470,7 +3473,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4037,7 +4040,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6211197004",
+      "title": "Senior Software Developer, BE",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/coursera/jobs/6211197004",
+      "postedAt": "2026-09-30T18:55:09.000Z",
+      "key": "coursera:6211197004",
+      "company": "Coursera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-30T19:00:31.216Z"
+    },
+    {
+      "id": "f911a2db-f80c-478c-b0d8-e62e9a6f1627",
+      "title": "Data Scientist, Handshake AI",
+      "location": "San Francisco, CA",
+      "team": "HAI Engineering",
+      "url": "https://jobs.ashbyhq.com/handshake/f911a2db-f80c-478c-b0d8-e62e9a6f1627",
+      "postedAt": "2026-09-30T18:53:30.554Z",
+      "key": "handshake:f911a2db-f80c-478c-b0d8-e62e9a6f1627",
+      "company": "Handshake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:00:31.216Z"
+    },
+    {
+      "id": "8241309",
+      "title": "Staff Software Engineer, SecureAI",
+      "location": "Toronto, Ontario, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8241309?gh_jid=8241309",
+      "postedAt": "2026-09-30T18:51:55.000Z",
+      "key": "okta:8241309",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-30T19:00:31.216Z"
+    },
     {
       "id": "8231439",
       "title": "Software Engineer, Metronome Infrastructure",
@@ -30393,6 +30444,22 @@
       "firstSeen": "2026-09-15T03:50:17.481Z"
     },
     {
+      "id": "b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+      "title": "Applied Scientist Intern",
+      "location": "New York, NY (HQ)",
+      "team": "Emerging Talent - Data",
+      "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+      "postedAt": "2026-09-15T01:44:04.643Z",
+      "key": "ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+      "company": "Ramp",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:00:31.216Z"
+    },
+    {
       "id": "8808194002",
       "title": "Sr. Network Engineer, AI Infrastructure (Starshield)",
       "location": "Redmond, WA",
@@ -38875,6 +38942,22 @@
         "us"
       ],
       "firstSeen": "2026-09-04T21:10:22.988Z"
+    },
+    {
+      "id": "6200a755-2d26-4971-bf3b-c443dbf1da78",
+      "title": "Embedded Systems Engineer, Senior",
+      "location": "Denver, Colorado",
+      "team": "Engineering Positions",
+      "url": "https://jobs.ashbyhq.com/blissway/6200a755-2d26-4971-bf3b-c443dbf1da78",
+      "postedAt": "2026-09-04T20:57:09.605Z",
+      "key": "blissway:6200a755-2d26-4971-bf3b-c443dbf1da78",
+      "company": "Blissway",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T19:00:31.216Z"
     },
     {
       "id": "4bb1232c-3f1e-4fd7-8894-fcd68f96e3db",
