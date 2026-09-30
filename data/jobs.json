@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-09-30T20:10:15.778Z",
+  "generatedAt": "2026-09-30T20:20:17.992Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "block:5440325008",
-    "block:5438117008"
+    "adyen:8210671",
+    "Capital One:R1002595",
+    "Visa:REF088255W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 146,
+    "intern": 147,
     "new-grad": 23,
-    "experienced": 2306
+    "experienced": 2304
   },
   "companies": [
     {
@@ -75,7 +76,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1279,7 +1280,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 117,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5402,14 +5403,14 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
     {
       "name": "Vitalize",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5689,7 +5690,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002595",
+      "title": "Senior Manager, Full-stack Engineer",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Manager--Full-stack-Engineer_R1002595-1",
+      "postedAt": "2026-09-30T20:20:21.359Z",
+      "key": "Capital One:R1002595",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T20:20:17.992Z"
+    },
     {
       "id": "5440325008",
       "title": "Senior Software Engineer, Product Platform",
@@ -6764,15 +6781,21 @@
     },
     {
       "id": "8241260",
-      "title": "High School Fellowship, Software Engineering",
+      "title": "High School Internship, Software Engineering (Summer 2027)",
       "location": "Seattle, San Francisco",
       "team": "5112 General University",
       "url": "https://stripe.com/jobs/search?gh_jid=8241260",
       "postedAt": "2026-09-30T15:38:09.000Z",
       "key": "stripe:8241260",
       "company": "Stripe",
-      "level": "experienced",
-      "term": null,
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
       "regions": [
         "us"
       ],
@@ -13592,6 +13615,22 @@
       "firstSeen": "2026-09-25T14:10:19.545Z"
     },
     {
+      "id": "8210671",
+      "title": "Software Engineer II (Kotlin) - Core Experience",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8210671",
+      "postedAt": "2026-09-25T13:52:45.000Z",
+      "key": "adyen:8210671",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T20:20:17.992Z"
+    },
+    {
       "id": "6208474004",
       "title": "Principal AI Programmer, Unreal Assistant",
       "location": "Vancouver,British Columbia,Canada",
@@ -14215,6 +14254,22 @@
         "us"
       ],
       "firstSeen": "2026-09-24T20:30:20.655Z"
+    },
+    {
+      "id": "REF088255W",
+      "title": "Director, Platform Engineering",
+      "location": "US - Foster City, CA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Director--Platform-Engineering_REF088255W",
+      "postedAt": "2026-09-24T20:20:27.137Z",
+      "key": "Visa:REF088255W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T20:20:17.992Z"
     },
     {
       "id": "8842950002",
@@ -20610,22 +20665,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1001211-1",
       "postedAt": "2026-09-22T13:20:23.745Z",
       "key": "Capital One:R1001211",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T13:20:20.431Z"
-    },
-    {
-      "id": "R1001214",
-      "title": "Full-stack Engineer 4 (Manager, IC)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1001214-1",
-      "postedAt": "2026-09-22T13:20:23.745Z",
-      "key": "Capital One:R1001214",
       "company": "Capital One",
       "level": "experienced",
       "term": null,
@@ -44818,54 +44857,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T20:50:20.404Z"
-    },
-    {
-      "id": "adacfe7d-a4e7-4318-81da-76155931acfa",
-      "title": "Senior Full Stack Engineer ",
-      "location": "San Francisco HQ",
-      "team": "Product & Eng",
-      "url": "https://jobs.ashbyhq.com/vitalize/adacfe7d-a4e7-4318-81da-76155931acfa",
-      "postedAt": "2026-08-31T20:19:16.427Z",
-      "key": "vitalize:adacfe7d-a4e7-4318-81da-76155931acfa",
-      "company": "Vitalize",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T20:30:22.575Z"
-    },
-    {
-      "id": "167f0e93-6915-4d56-803a-be89d1441fb5",
-      "title": "Software Engineer, ML Platform",
-      "location": "San Francisco (+1 more)",
-      "team": "Machine Learning",
-      "url": "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5",
-      "postedAt": "2026-08-31T20:14:53.414Z",
-      "key": "cursor:167f0e93-6915-4d56-803a-be89d1441fb5",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T20:20:24.139Z"
-    },
-    {
-      "id": "5212682007",
-      "title": "Sr. Staff Software Development Engineer",
-      "location": "San Jose, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5212682007",
-      "postedAt": "2026-08-31T20:11:55.000Z",
-      "key": "zscaler:5212682007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T20:20:24.139Z"
     },
     {
       "id": "REF081503W",
