@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-09-30T16:40:15.915Z",
+  "generatedAt": "2026-09-30T16:50:15.915Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R1002548",
-    "Capital One:R1002543"
+    "coinbase:8243517",
+    "ello:60464edf-a471-47f7-9465-d2433037154d",
+    "lucidmotors:5253125007",
+    "spotify:638f1177-8a2b-4b43-9363-c7056b8ef929"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 143,
     "new-grad": 25,
-    "experienced": 2282
+    "experienced": 2284
   },
   "companies": [
     {
@@ -1055,7 +1057,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -1552,7 +1554,7 @@
     {
       "name": "Ello",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2105,7 +2107,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2812,7 +2814,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -2889,7 +2891,7 @@
     {
       "name": "Mariana Minerals",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4723,7 +4725,7 @@
     {
       "name": "Spotify",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5156,10 +5158,10 @@
     },
     {
       "name": "Trade Republic",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Traversal",
@@ -5702,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5253125007",
+      "title": "Staff Embedded Software Engineer - ADAS/ AD",
+      "location": "Newark, CA",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5253125007?gh_jid=5253125007",
+      "postedAt": "2026-09-30T16:47:35.000Z",
+      "key": "lucidmotors:5253125007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T16:50:15.915Z"
+    },
+    {
+      "id": "60464edf-a471-47f7-9465-d2433037154d",
+      "title": "Lead Growth Engineer",
+      "location": "San Francisco, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ello/60464edf-a471-47f7-9465-d2433037154d",
+      "postedAt": "2026-09-30T16:46:21.789Z",
+      "key": "ello:60464edf-a471-47f7-9465-d2433037154d",
+      "company": "Ello",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T16:50:15.915Z"
+    },
+    {
+      "id": "8243517",
+      "title": "Senior Software Engineer, Retail DEX",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8243517?gh_jid=8243517",
+      "postedAt": "2026-09-30T16:46:01.000Z",
+      "key": "coinbase:8243517",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-09-30T16:50:15.915Z"
+    },
     {
       "id": "R1002548",
       "title": "Full-stack Engineer 4",
@@ -7515,6 +7565,22 @@
         "us"
       ],
       "firstSeen": "2026-09-29T17:40:16.470Z"
+    },
+    {
+      "id": "638f1177-8a2b-4b43-9363-c7056b8ef929",
+      "title": "Machine Learning Engineering Manager -  Music",
+      "location": "New York, NY",
+      "team": "Music",
+      "url": "https://jobs.lever.co/spotify/638f1177-8a2b-4b43-9363-c7056b8ef929",
+      "postedAt": "2026-09-29T17:35:39.422Z",
+      "key": "spotify:638f1177-8a2b-4b43-9363-c7056b8ef929",
+      "company": "Spotify",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T16:50:15.915Z"
     },
     {
       "id": "d1c20e12-3511-4bbb-8313-c32ce800b7f7",
@@ -44456,38 +44522,6 @@
         "us"
       ],
       "firstSeen": "2026-08-31T17:00:31.308Z"
-    },
-    {
-      "id": "8104213",
-      "title": "Software Engineer, Payments",
-      "location": "New York, NY - Hybrid; San Francisco, CA - Hybrid",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8104213",
-      "postedAt": "2026-08-31T16:48:53.000Z",
-      "key": "gusto:8104213",
-      "company": "Gusto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T16:50:21.089Z"
-    },
-    {
-      "id": "eebc7048-02a3-42ba-80b7-04b8a997e50a",
-      "title": "Full Stack Software Engineer",
-      "location": "San Francisco HQ (+2 more)",
-      "team": "Software Development",
-      "url": "https://jobs.ashbyhq.com/marianaminerals/eebc7048-02a3-42ba-80b7-04b8a997e50a",
-      "postedAt": "2026-08-31T16:40:18.869Z",
-      "key": "marianaminerals:eebc7048-02a3-42ba-80b7-04b8a997e50a",
-      "company": "Mariana Minerals",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T16:50:21.089Z"
     },
     {
       "id": "3744bda5-c74a-4fa0-abb2-73da7fcfef09",
