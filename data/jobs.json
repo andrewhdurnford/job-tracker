@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-09-30T15:50:17.507Z",
+  "generatedAt": "2026-09-30T16:00:25.482Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "justworks:8236883",
-    "nuvacore:9f9af971-46a1-40cc-b7e3-d78fbb92ae4b",
-    "okta:8243174",
-    "okta:8243124",
-    "okta:8243158"
+    "eloquentai:78c360e2-abd0-498b-ac59-d0907b71a801",
+    "natera:6211283004",
+    "okta:8243180"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +14,7 @@
   "levelCounts": {
     "intern": 143,
     "new-grad": 26,
-    "experienced": 2283
+    "experienced": 2286
   },
   "companies": [
     {
@@ -940,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1562,7 +1560,7 @@
     {
       "name": "Eloquent AI",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3249,7 +3247,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3473,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 121,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5567,7 +5565,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5705,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8243180",
+      "title": "Principal Software Engineer",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8243180?gh_jid=8243180",
+      "postedAt": "2026-09-30T16:00:11.000Z",
+      "key": "okta:8243180",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T16:00:25.482Z"
+    },
+    {
+      "id": "78c360e2-abd0-498b-ac59-d0907b71a801",
+      "title": "Software Engineer, Front-End, Europe",
+      "location": "Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/eloquentai/78c360e2-abd0-498b-ac59-d0907b71a801",
+      "postedAt": "2026-09-30T15:56:52.805Z",
+      "key": "eloquentai:78c360e2-abd0-498b-ac59-d0907b71a801",
+      "company": "Eloquent AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-09-30T16:00:25.482Z"
+    },
+    {
+      "id": "6211283004",
+      "title": "Laboratory Systems Scientist",
+      "location": "Boulder, CO",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6211283004",
+      "postedAt": "2026-09-30T15:53:12.000Z",
+      "key": "natera:6211283004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T16:00:25.482Z"
+    },
     {
       "id": "8243158",
       "title": "Staff Software Engineer",
