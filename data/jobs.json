@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-09-30T22:10:17.099Z",
+  "generatedAt": "2026-09-30T22:20:16.563Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "stripe:8209337"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2915,7 +2917,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4468,7 +4470,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -4770,7 +4772,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4797,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -5552,10 +5554,10 @@
     },
     {
       "name": "Workato",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "World Labs",
@@ -28045,6 +28047,22 @@
       "firstSeen": "2026-09-16T20:20:17.715Z"
     },
     {
+      "id": "8209337",
+      "title": "Data Scientist, Experimental Projects",
+      "location": "San Francisco",
+      "team": "7112 Data Science",
+      "url": "https://stripe.com/jobs/search?gh_jid=8209337",
+      "postedAt": "2026-09-16T20:13:13.000Z",
+      "key": "stripe:8209337",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-09-30T22:20:16.563Z"
+    },
+    {
       "id": "8197554",
       "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
       "location": "Mountain View, California, United States | San Francisco, California, United States",
@@ -28689,22 +28707,6 @@
         "us"
       ],
       "firstSeen": "2026-09-16T16:20:20.310Z"
-    },
-    {
-      "id": "a03a9f27-32e4-49ff-9e34-3404a62cff51",
-      "title": "Senior Systems Engineer (R5981)",
-      "location": "United States (+4 more)",
-      "team": "X-BAT Engineering - System Engineering & Integrated Test",
-      "url": "https://jobs.lever.co/shieldai/a03a9f27-32e4-49ff-9e34-3404a62cff51",
-      "postedAt": "2026-09-16T16:08:22.915Z",
-      "key": "shieldai:a03a9f27-32e4-49ff-9e34-3404a62cff51",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T16:10:17.709Z"
     },
     {
       "id": "8814662002",
