@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-01T14:00:25.629Z",
+  "generatedAt": "2026-10-01T14:10:16.581Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "notion:95800771-37a4-4226-b03f-d4fc6ea88f65"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 142,
     "new-grad": 21,
-    "experienced": 2282
+    "experienced": 2281
   },
   "companies": [
     {
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 230,
+      "jobCount": 229,
       "error": null,
       "stale": false
     },
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1962,7 +1964,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -2159,7 +2161,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3369,7 +3371,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5118,10 +5120,10 @@
     },
     {
       "name": "Topsort",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tourlane",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "95800771-37a4-4226-b03f-d4fc6ea88f65",
+      "title": "Software Engineer, Mobile Platform (iOS)",
+      "location": "San Francisco, California (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/notion/95800771-37a4-4226-b03f-d4fc6ea88f65",
+      "postedAt": "2026-10-01T14:00:20.638Z",
+      "key": "notion:95800771-37a4-4226-b03f-d4fc6ea88f65",
+      "company": "Notion",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T14:10:16.581Z"
+    },
     {
       "id": "R1002709",
       "title": "Security Engineer 4 (Palo Alto)",
@@ -41200,22 +41218,6 @@
       "firstSeen": "2026-09-03T20:00:24.742Z"
     },
     {
-      "id": "R999798",
-      "title": "Director, Demand Generation- Capital One Software (Remote)",
-      "location": "2 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Director--Demand-Generation--Capital-One-Software--Remote-_R999798-1",
-      "postedAt": "2026-09-03T19:40:19.794Z",
-      "key": "Capital One:R999798",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-03T19:40:16.583Z"
-    },
-    {
       "id": "ddc0eea7-3d35-41b5-98de-8978b1c7cdcf",
       "title": "AI Inference Core - Senior SW Engineer for Platform & DevOps",
       "location": "Sunnyvale, CA (+1 more)",
@@ -42614,22 +42616,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-02T18:50:20.309Z"
-    },
-    {
-      "id": "8769103002",
-      "title": "Staff Infrastructure Security Engineer (USA)",
-      "location": "Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8769103002",
-      "postedAt": "2026-09-02T18:15:11.000Z",
-      "key": "gitlab:8769103002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T21:30:22.208Z"
     },
     {
       "id": "5228742007",
