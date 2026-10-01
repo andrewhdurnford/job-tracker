@@ -1,18 +1,23 @@
 {
-  "generatedAt": "2026-10-01T15:30:28.190Z",
+  "generatedAt": "2026-10-01T15:40:19.813Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "anthropic:5440427008"
+    "honeycomb:5373989008",
+    "honeycomb:5366559008",
+    "honeycomb:5389582008",
+    "instacart:8246076",
+    "instacart:8246075",
+    "waymo:8243556"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 144,
+    "intern": 145,
     "new-grad": 21,
-    "experienced": 2276
+    "experienced": 2278
   },
   "companies": [
     {
@@ -1425,7 +1430,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -2237,7 +2242,7 @@
     {
       "name": "Honeycomb",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2419,7 +2424,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4470,7 +4475,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4699,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 120,
+      "jobCount": 119,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5483,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -5589,10 +5594,10 @@
     },
     {
       "name": "Xendit",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Yotta",
@@ -5701,6 +5706,92 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8246076",
+      "title": "Engineering Manager, Site Reliability",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8246076",
+      "postedAt": "2026-10-01T15:40:06.000Z",
+      "key": "instacart:8246076",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T15:40:19.813Z"
+    },
+    {
+      "id": "8246075",
+      "title": "Engineering Manager, Site Reliability",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8246075",
+      "postedAt": "2026-10-01T15:40:04.000Z",
+      "key": "instacart:8246075",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T15:40:19.813Z"
+    },
+    {
+      "id": "5389582008",
+      "title": "Senior Software Engineer II - Storage",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5389582008",
+      "postedAt": "2026-10-01T15:40:03.000Z",
+      "key": "honeycomb:5389582008",
+      "company": "Honeycomb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T15:40:19.813Z"
+    },
+    {
+      "id": "8243556",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+      "postedAt": "2026-10-01T15:38:02.000Z",
+      "key": "waymo:8243556",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T15:40:19.813Z"
+    },
+    {
+      "id": "5366559008",
+      "title": "Senior Software Engineer II - LLM Observability ",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5366559008",
+      "postedAt": "2026-10-01T15:36:26.000Z",
+      "key": "honeycomb:5366559008",
+      "company": "Honeycomb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T15:40:19.813Z"
+    },
     {
       "id": "5440427008",
       "title": "Software Engineer, Sandboxing",
@@ -12756,6 +12847,22 @@
         "us"
       ],
       "firstSeen": "2026-09-26T00:20:15.849Z"
+    },
+    {
+      "id": "5373989008",
+      "title": "Senior Software Engineer II - Agentic Intelligence",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5373989008",
+      "postedAt": "2026-09-25T23:32:54.000Z",
+      "key": "honeycomb:5373989008",
+      "company": "Honeycomb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T15:40:19.813Z"
     },
     {
       "id": "6208931004",
@@ -41802,7 +41909,7 @@
     {
       "id": "76698f72-e44a-4b36-8adf-8e5b04ad15b0",
       "title": "Staff DevSecOps Engineer (R5824)",
-      "location": "San Mateo, California",
+      "location": "San Mateo, California (+1 more)",
       "team": "Software Ops",
       "url": "https://jobs.lever.co/shieldai/76698f72-e44a-4b36-8adf-8e5b04ad15b0",
       "postedAt": "2026-09-03T15:39:51.723Z",
@@ -44305,54 +44412,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T00:10:17.272Z"
-    },
-    {
-      "id": "1b05ba43-1659-42d9-89c5-91e204da8d1f",
-      "title": "Staff Software Engineer, Autonomous Pilot Integration (R5395)",
-      "location": "San Mateo, California",
-      "team": "Flight System Integration",
-      "url": "https://jobs.lever.co/shieldai/1b05ba43-1659-42d9-89c5-91e204da8d1f",
-      "postedAt": "2026-09-01T15:36:24.294Z",
-      "key": "shieldai:1b05ba43-1659-42d9-89c5-91e204da8d1f",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T15:40:16.855Z"
-    },
-    {
-      "id": "30225",
-      "title": "Software Engineer",
-      "location": "US-Seattle-3rd",
-      "team": "Engineering",
-      "url": "https://uscareers-docusign.icims.com/jobs/30225/login",
-      "postedAt": "2026-09-01T15:34:00.000Z",
-      "key": "DocuSign:30225",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T20:40:16.609Z"
-    },
-    {
-      "id": "8769502002",
-      "title": "Sr. Full Stack Engineer, Developer Systems ",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8769502002?gh_jid=8769502002",
-      "postedAt": "2026-09-01T15:30:50.000Z",
-      "key": "spacex:8769502002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T15:40:16.855Z"
     },
     {
       "id": "R_106842",
