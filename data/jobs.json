@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-01T17:20:15.671Z",
+  "generatedAt": "2026-10-01T17:30:19.564Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "perplexity:883bd78f-c9cd-4ae5-afbf-b21f16f06a6f",
+    "spacex:8860711002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 28,
-    "experienced": 2285
+    "experienced": 2284
   },
   "companies": [
     {
@@ -3670,7 +3673,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 118,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 119,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5105,7 +5108,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5252,7 +5255,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5371,7 +5374,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "883bd78f-c9cd-4ae5-afbf-b21f16f06a6f",
+      "title": "Engineering Manager (Enterprise)",
+      "location": "San Francisco",
+      "team": "Platform & Infrastructure",
+      "url": "https://jobs.ashbyhq.com/perplexity/883bd78f-c9cd-4ae5-afbf-b21f16f06a6f",
+      "postedAt": "2026-10-01T17:25:13.163Z",
+      "key": "perplexity:883bd78f-c9cd-4ae5-afbf-b21f16f06a6f",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:30:19.564Z"
+    },
+    {
+      "id": "8860711002",
+      "title": "Sr. Software Engineer, Platform",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8860711002?gh_jid=8860711002",
+      "postedAt": "2026-10-01T17:19:09.000Z",
+      "key": "spacex:8860711002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:30:19.564Z"
+    },
     {
       "id": "R1002387",
       "title": "Senior Staff Full-stack Engineer (Remote-Eligible) - Global Payment Network",
@@ -9794,22 +9829,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T16:50:15.915Z"
-    },
-    {
-      "id": "d1c20e12-3511-4bbb-8313-c32ce800b7f7",
-      "title": "Senior Software Engineer - HLS",
-      "location": "Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/uipath/d1c20e12-3511-4bbb-8313-c32ce800b7f7",
-      "postedAt": "2026-09-29T17:34:27.796Z",
-      "key": "uipath:d1c20e12-3511-4bbb-8313-c32ce800b7f7",
-      "company": "UiPath",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T17:40:16.470Z"
     },
     {
       "id": "R1001644",
@@ -44730,38 +44749,6 @@
       "postedAt": "2026-09-01T17:30:33.020Z",
       "key": "Nvidia:JR2007175",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T17:30:29.190Z"
-    },
-    {
-      "id": "8152954",
-      "title": "Senior Software Engineer, Care Automation",
-      "location": "Remote, USA",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8152954",
-      "postedAt": "2026-09-01T17:27:32.000Z",
-      "key": "toast:8152954",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T19:58:23.905Z"
-    },
-    {
-      "id": "5226448007",
-      "title": "Senior Engineering Manager, Business Systems",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5226448007",
-      "postedAt": "2026-09-01T17:20:45.000Z",
-      "key": "verkada:5226448007",
-      "company": "Verkada",
       "level": "experienced",
       "term": null,
       "regions": [
