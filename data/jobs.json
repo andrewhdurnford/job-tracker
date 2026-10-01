@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-01T20:00:22.017Z",
+  "generatedAt": "2026-10-01T20:10:15.623Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "tripactions:8000803"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1290,7 +1292,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3250,7 +3252,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8000803",
+      "title": "Senior Business Systems Engineer, Salesforce CPQ Developer",
+      "location": "Austin, TX; Dallas, TX",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8000803",
+      "postedAt": "2026-10-01T20:08:57.000Z",
+      "key": "tripactions:8000803",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T20:10:15.623Z"
+    },
     {
       "id": "5254679007",
       "title": "Senior Android Engineer - Mobile Platform & Systems",
@@ -45023,22 +45041,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T20:30:23.787Z"
-    },
-    {
-      "id": "8679972002",
-      "title": "SAP Technical Lead",
-      "location": "Mountain View, California",
-      "team": null,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679972002",
-      "postedAt": "2026-09-01T20:02:26.000Z",
-      "key": "databricks:8679972002",
-      "company": "Databricks",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T20:10:18.726Z"
     },
     {
       "id": "JR2024491",
