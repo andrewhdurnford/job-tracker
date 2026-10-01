@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-01T02:00:21.977Z",
+  "generatedAt": "2026-10-01T02:10:15.475Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "suno:e94b6a03-6315-45c2-a439-51630af15f05"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 144,
     "new-grad": 21,
-    "experienced": 2299
+    "experienced": 2300
   },
   "companies": [
     {
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 120,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4853,7 +4855,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "e94b6a03-6315-45c2-a439-51630af15f05",
+      "title": "Machine Learning Engineer - Content Discovery",
+      "location": "San Francisco",
+      "team": "Machine Learning",
+      "url": "https://jobs.ashbyhq.com/suno/e94b6a03-6315-45c2-a439-51630af15f05",
+      "postedAt": "2026-10-01T02:01:25.853Z",
+      "key": "suno:e94b6a03-6315-45c2-a439-51630af15f05",
+      "company": "Suno",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T02:10:15.475Z"
+    },
     {
       "id": "8859566002",
       "title": "Full Stack Software Engineer, Platform",
