@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-01T19:20:15.965Z",
+  "generatedAt": "2026-10-01T19:30:20.196Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Capital One:R1002807",
-    "coinbase:8247401"
+    "Capital One:R1002614",
+    "datadog:8247566",
+    "faire:8833031002",
+    "faire:8804205002",
+    "spacex:8842894002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 28,
-    "experienced": 2301
+    "experienced": 2305
   },
   "companies": [
     {
@@ -1300,7 +1303,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1671,7 +1674,7 @@
     {
       "name": "Faire",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3301,10 +3304,10 @@
     },
     {
       "name": "Neura Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Neuralink",
@@ -4695,7 +4698,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 119,
+      "jobCount": 120,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002614",
+      "title": "Integration Engineer 4 - Mainframe Engineer",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Integration-Engineer-4---Mainframe-Engineer_R1002614-1",
+      "postedAt": "2026-10-01T19:30:23.834Z",
+      "key": "Capital One:R1002614",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T19:30:20.196Z"
+    },
+    {
+      "id": "8842894002",
+      "title": "Sr. RF Silicon Software Engineer (RFIC Engineering)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8842894002?gh_jid=8842894002",
+      "postedAt": "2026-10-01T19:25:49.000Z",
+      "key": "spacex:8842894002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T19:30:20.196Z"
+    },
+    {
+      "id": "8247566",
+      "title": "Senior Software Engineer - Incident Insights & Readiness",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8247566/?gh_jid=8247566",
+      "postedAt": "2026-10-01T19:24:44.000Z",
+      "key": "datadog:8247566",
+      "company": "Datadog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T19:30:20.196Z"
+    },
     {
       "id": "R1002807",
       "title": "Staff AI Engineer (Remote Eligible)",
@@ -14862,22 +14913,6 @@
       "firstSeen": "2026-09-25T19:00:24.123Z"
     },
     {
-      "id": "R1002179",
-      "title": "Senior Manager, Technical Writing - Capital One Software (Remote)",
-      "location": "2 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Senior-Manager--Technical-Writing---Capital-One-Software--Remote-_R1002179-1",
-      "postedAt": "2026-09-25T18:50:18.852Z",
-      "key": "Capital One:R1002179",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-25T18:50:15.839Z"
-    },
-    {
       "id": "8232236",
       "title": "Technical Lead Manager, Collision Avoidance Testing",
       "location": "Mountain View, CA, US; San Francisco, CA, US",
@@ -21083,6 +21118,22 @@
         "us"
       ],
       "firstSeen": "2026-09-22T21:00:26.740Z"
+    },
+    {
+      "id": "8833031002",
+      "title": "Senior Analytics Engineer",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8833031002?gh_jid=8833031002",
+      "postedAt": "2026-09-22T20:51:08.000Z",
+      "key": "faire:8833031002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T19:30:20.196Z"
     },
     {
       "id": "8832899002",
@@ -34611,6 +34662,22 @@
         "canada"
       ],
       "firstSeen": "2026-09-12T01:30:21.544Z"
+    },
+    {
+      "id": "8804205002",
+      "title": "Senior Product Analytics Engineer - Ads",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8804205002?gh_jid=8804205002",
+      "postedAt": "2026-09-12T01:15:57.000Z",
+      "key": "faire:8804205002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T19:30:20.196Z"
     },
     {
       "id": "8802398002",
