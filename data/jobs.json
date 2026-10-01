@@ -1,37 +1,16 @@
 {
-  "generatedAt": "2026-10-01T17:10:18.763Z",
+  "generatedAt": "2026-10-01T17:20:15.671Z",
   "bootstrap": false,
-  "lastRunNewCount": 20,
-  "newKeys": [
-    "Capital One:R1002380",
-    "Capital One:R1002390",
-    "Capital One:R1002387",
-    "pendo:8816800002",
-    "pinterest:8138080",
-    "pinterest:8138097",
-    "pinterest:8138090",
-    "pinterest:8138094",
-    "pinterest:8140389",
-    "pinterest:8140219",
-    "pinterest:8140169",
-    "pinterest:8140140",
-    "pinterest:8140150",
-    "pinterest:8140363",
-    "pinterest:8138039",
-    "pinterest:7838577",
-    "pinterest:8138065",
-    "pinterest:7838591",
-    "pinterest:8138049",
-    "waymo:8240632"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 154,
+    "intern": 152,
     "new-grad": 28,
-    "experienced": 2286
+    "experienced": 2285
   },
   "companies": [
     {
@@ -955,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1893,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2082,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2536,7 +2515,7 @@
     {
       "name": "Jump Trading",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2915,7 +2894,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2936,7 +2915,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3775,7 +3754,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4712,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5937,28 +5916,6 @@
       "firstSeen": "2026-10-01T17:10:18.763Z"
     },
     {
-      "id": "8138094",
-      "title": "Master's Machine Learning Internship 2027 (USA) *Fall ",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138094",
-      "postedAt": "2026-10-01T17:01:56.000Z",
-      "key": "pinterest:8138094",
-      "company": "Pinterest",
-      "level": "intern",
-      "term": {
-        "label": "Fall 2027",
-        "seasons": [
-          "fall"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T17:10:18.763Z"
-    },
-    {
       "id": "8138097",
       "title": "Master's Data Science Internship 2027 (USA)",
       "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
@@ -5991,28 +5948,6 @@
       "term": {
         "label": "2027",
         "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T17:10:18.763Z"
-    },
-    {
-      "id": "8140150",
-      "title": "PhD Machine Learning Internship 2027 (USA) *Fall",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140150",
-      "postedAt": "2026-10-01T17:01:21.000Z",
-      "key": "pinterest:8140150",
-      "company": "Pinterest",
-      "level": "intern",
-      "term": {
-        "label": "Fall 2027",
-        "seasons": [
-          "fall"
-        ],
         "year": 2027
       },
       "regions": [
@@ -44833,22 +44768,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T17:30:29.190Z"
-    },
-    {
-      "id": "8171060",
-      "title": "Data Engineer",
-      "location": "New York or Chicago",
-      "team": null,
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8171060",
-      "postedAt": "2026-09-01T17:17:37.000Z",
-      "key": "jumptrading:8171060",
-      "company": "Jump Trading",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T17:20:19.766Z"
     },
     {
       "id": "R_106843",
