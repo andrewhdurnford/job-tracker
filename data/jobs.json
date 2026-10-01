@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-10-01T20:20:15.052Z",
+  "generatedAt": "2026-10-01T20:30:19.853Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "lumaai:3fd52f19-c2b8-4cd4-8cb2-3db7aaee0483",
-    "yugabyte:4683621006"
+    "eve:4406949009",
+    "glimpse:920c452b-5cb9-4742-920a-c936cc19ee4b",
+    "Nvidia:JR2026394",
+    "Visa:REF088834W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 28,
-    "experienced": 2307
+    "experienced": 2309
   },
   "companies": [
     {
@@ -937,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1636,7 +1638,7 @@
     {
       "name": "Eve",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1993,7 +1995,7 @@
     {
       "name": "Glimpse",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2532,7 +2534,7 @@
     {
       "name": "Justworks",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 150,
+      "jobCount": 151,
       "error": null,
       "stale": false
     },
@@ -4233,7 +4235,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5402,7 +5404,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088834W",
+      "title": "ML Engineer- Sr Consultant",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/ML-Engineer--Sr-Consultant_REF088834W",
+      "postedAt": "2026-10-01T20:30:24.621Z",
+      "key": "Visa:REF088834W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T20:30:19.853Z"
+    },
+    {
+      "id": "JR2026394",
+      "title": "Senior Software Engineer - SOC Platforms",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---SOC-Platforms_JR2026394",
+      "postedAt": "2026-10-01T20:30:24.403Z",
+      "key": "Nvidia:JR2026394",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T20:30:19.853Z"
+    },
+    {
+      "id": "920c452b-5cb9-4742-920a-c936cc19ee4b",
+      "title": "Founding Forward Deployment Engineer",
+      "location": "NYC HQ",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/glimpse/920c452b-5cb9-4742-920a-c936cc19ee4b",
+      "postedAt": "2026-10-01T20:26:01.281Z",
+      "key": "glimpse:920c452b-5cb9-4742-920a-c936cc19ee4b",
+      "company": "Glimpse",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T20:30:19.853Z"
+    },
     {
       "id": "3fd52f19-c2b8-4cd4-8cb2-3db7aaee0483",
       "title": "Forward Deployed Engineer",
@@ -32085,6 +32135,22 @@
       "firstSeen": "2026-09-15T17:10:17.015Z"
     },
     {
+      "id": "4406949009",
+      "title": "Staff Data Engineer",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/eve/jobs/4406949009",
+      "postedAt": "2026-09-15T17:01:30.000Z",
+      "key": "eve:4406949009",
+      "company": "Eve",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T20:30:19.853Z"
+    },
+    {
       "id": "45639b5d-7598-48af-ba3f-5420faae8496",
       "title": "Senior / Staff Software Engineer, Backend (Picks - DFS & Prediction Markets)",
       "location": "San Francisco Hybrid, New York City Hybrid",
@@ -45042,38 +45108,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T21:20:16.964Z"
-    },
-    {
-      "id": "8142310",
-      "title": "Senior IT Engineer, Enterprise Systems",
-      "location": "New York, New York",
-      "team": null,
-      "url": "https://boards.greenhouse.io/justworks/jobs/8142310?gh_jid=8142310",
-      "postedAt": "2026-09-01T20:29:03.000Z",
-      "key": "justworks:8142310",
-      "company": "Justworks",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T20:30:23.787Z"
-    },
-    {
-      "id": "8167616",
-      "title": "Senior Staff Software Security Engineer",
-      "location": "Bellevue, WA; Menlo Park, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8167616?t=gh_src=&gh_jid=8167616",
-      "postedAt": "2026-09-01T20:27:42.000Z",
-      "key": "robinhood:8167616",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T20:30:23.787Z"
     },
     {
       "id": "JR2024491",
