@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-01T22:10:15.481Z",
+  "generatedAt": "2026-10-01T22:20:15.349Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "instacart:8238528",
+    "instacart:8238527",
+    "scaleai:4739920005"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 28,
-    "experienced": 2317
+    "experienced": 2319
   },
   "companies": [
     {
@@ -1052,7 +1056,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -2417,7 +2421,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4370,7 +4374,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 124,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5700,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "8238528",
+      "title": "Senior Software Engineer, Marketing Enablement & Technology",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8238528",
+      "postedAt": "2026-10-01T22:19:43.000Z",
+      "key": "instacart:8238528",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T22:20:15.349Z"
+    },
+    {
+      "id": "8238527",
+      "title": "Senior Software Engineer, Marketing Enablement & Technology",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8238527",
+      "postedAt": "2026-10-01T22:19:33.000Z",
+      "key": "instacart:8238527",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T22:20:15.349Z"
+    },
+    {
+      "id": "4739920005",
+      "title": "Senior Software Engineer, Orchestration Platform",
+      "location": "San Francisco, CA; New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4739920005",
+      "postedAt": "2026-10-01T22:18:20.000Z",
+      "key": "scaleai:4739920005",
+      "company": "Scale AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T22:20:15.349Z"
+    },
+    {
       "id": "6651fe75-ccdc-4837-8374-4aa8053b714d",
       "title": "Staff Software Engineer, Billing",
       "location": "Seattle, WA",
@@ -6211,22 +6263,6 @@
         "us"
       ],
       "firstSeen": "2026-10-01T19:20:15.965Z"
-    },
-    {
-      "id": "8247397",
-      "title": "Software Engineer, Backend - Payments Platform",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8247397?gh_jid=8247397",
-      "postedAt": "2026-10-01T19:06:03.000Z",
-      "key": "coinbase:8247397",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T19:10:17.729Z"
     },
     {
       "id": "R_106993",
