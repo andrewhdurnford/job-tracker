@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-01T20:30:19.853Z",
+  "generatedAt": "2026-10-01T20:40:16.372Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "eve:4406949009",
-    "glimpse:920c452b-5cb9-4742-920a-c936cc19ee4b",
-    "Nvidia:JR2026394",
-    "Visa:REF088834W"
+    "Capital One:R1002715",
+    "coinbase:8234278",
+    "eve:4406964009"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 28,
-    "experienced": 2309
+    "experienced": 2312
   },
   "companies": [
     {
@@ -791,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 242,
+      "jobCount": 243,
       "error": null,
       "stale": false
     },
@@ -939,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1057,7 +1056,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -1638,7 +1637,7 @@
     {
       "name": "Eve",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002715",
+      "title": "Sr. Staff Data Engineer (Remote -Eligible)",
+      "location": "4 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Sr-Staff-Data-Engineer--Remote--Eligible-_R1002715-1",
+      "postedAt": "2026-10-01T20:40:19.634Z",
+      "key": "Capital One:R1002715",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-01T20:40:16.372Z"
+    },
+    {
+      "id": "8234278",
+      "title": "Software Engineer, CDP - Stablecoin",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8234278?gh_jid=8234278",
+      "postedAt": "2026-10-01T20:38:28.000Z",
+      "key": "coinbase:8234278",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T20:40:16.372Z"
+    },
     {
       "id": "REF088834W",
       "title": "ML Engineer- Sr Consultant",
@@ -32133,6 +32164,22 @@
         "canada"
       ],
       "firstSeen": "2026-09-15T17:10:17.015Z"
+    },
+    {
+      "id": "4406964009",
+      "title": "Senior Data Engineer",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/eve/jobs/4406964009",
+      "postedAt": "2026-09-15T17:07:32.000Z",
+      "key": "eve:4406964009",
+      "company": "Eve",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T20:40:16.372Z"
     },
     {
       "id": "4406949009",
