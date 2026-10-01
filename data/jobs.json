@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-01T21:30:19.666Z",
+  "generatedAt": "2026-10-01T21:40:24.577Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "airbnb:8247303",
+    "mach9:622a014b-ff77-45bd-9caa-61a6506884ed"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 28,
-    "experienced": 2318
+    "experienced": 2319
   },
   "companies": [
     {
@@ -114,7 +117,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2851,7 +2854,7 @@
     {
       "name": "Mach9",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4111,7 +4114,7 @@
     {
       "name": "Redis",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8247303",
+      "title": "Software Engineer, Passport & Commerce, Android",
+      "location": "Remote, USA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8247303?gh_jid=8247303",
+      "postedAt": "2026-10-01T21:35:44.000Z",
+      "key": "airbnb:8247303",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T21:40:24.577Z"
+    },
+    {
+      "id": "622a014b-ff77-45bd-9caa-61a6506884ed",
+      "title": "ML Engineer, Product",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mach9/622a014b-ff77-45bd-9caa-61a6506884ed",
+      "postedAt": "2026-10-01T21:32:09.762Z",
+      "key": "mach9:622a014b-ff77-45bd-9caa-61a6506884ed",
+      "company": "Mach9",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T21:40:24.577Z"
+    },
     {
       "id": "JR2026064",
       "title": "Senior Databricks Developer, SAP S/4 Data Products and Governance",
@@ -45216,22 +45251,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T21:50:19.620Z"
-    },
-    {
-      "id": "e7998e7f-a4a3-4ba7-b28c-cf30156bbf9a",
-      "title": "Principal Manager, Communications & Developer Influence",
-      "location": "HQ (San Francisco)",
-      "team": "Creative & Design",
-      "url": "https://jobs.ashbyhq.com/redis/e7998e7f-a4a3-4ba7-b28c-cf30156bbf9a",
-      "postedAt": "2026-09-01T21:34:10.034Z",
-      "key": "redis:e7998e7f-a4a3-4ba7-b28c-cf30156bbf9a",
-      "company": "Redis",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T21:40:16.792Z"
     },
     {
       "id": "JR2024920",
