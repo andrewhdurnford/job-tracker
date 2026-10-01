@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-10-01T15:00:25.887Z",
+  "generatedAt": "2026-10-01T15:10:21.975Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "CrowdStrike:R30113"
+    "stripe:8194283",
+    "stripe:8194285"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 142,
+    "intern": 144,
     "new-grad": 21,
-    "experienced": 2277
+    "experienced": 2275
   },
   "companies": [
     {
@@ -4470,7 +4471,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -4799,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5563,7 +5564,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8194285",
+      "title": "PhD Data Scientist, Intern",
+      "location": "Toronto",
+      "team": "5112 General University",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194285",
+      "postedAt": "2026-10-01T15:05:33.000Z",
+      "key": "stripe:8194285",
+      "company": "Stripe",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T15:10:21.975Z"
+    },
+    {
+      "id": "8194283",
+      "title": "PhD Data Scientist, Intern",
+      "location": "New York, Seattle, South San Francisco HQ",
+      "team": "5112 General University",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194283",
+      "postedAt": "2026-10-01T15:05:25.000Z",
+      "key": "stripe:8194283",
+      "company": "Stripe",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T15:10:21.975Z"
+    },
     {
       "id": "R30113",
       "title": "Engineer II, Full Stack (Remote)",
@@ -44321,38 +44354,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T15:20:20.321Z"
-    },
-    {
-      "id": "eb080f61-42f2-4bec-91d3-9c0466ea5918",
-      "title": "Staff Software Engineer - Query Processing (Snowtrail)",
-      "location": "US-CA-Menlo Park",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/eb080f61-42f2-4bec-91d3-9c0466ea5918",
-      "postedAt": "2026-09-01T15:09:42.212Z",
-      "key": "snowflake:eb080f61-42f2-4bec-91d3-9c0466ea5918",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T15:10:19.457Z"
-    },
-    {
-      "id": "39dff357-4eda-48fb-97b7-2bc14f0908b6",
-      "title": "Senior Software Engineer, Autonomy Capabilities (R5339)",
-      "location": "San Mateo, California",
-      "team": "Flight System Integration",
-      "url": "https://jobs.lever.co/shieldai/39dff357-4eda-48fb-97b7-2bc14f0908b6",
-      "postedAt": "2026-09-01T15:09:05.573Z",
-      "key": "shieldai:39dff357-4eda-48fb-97b7-2bc14f0908b6",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T15:10:19.457Z"
     },
     {
       "id": "REF082365W",
