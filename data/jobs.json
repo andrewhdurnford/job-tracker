@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-01T17:50:16.235Z",
+  "generatedAt": "2026-10-01T18:00:29.324Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1002572",
-    "Nvidia:JR2024087",
-    "reddit:8247280",
-    "robinhood:8188665"
+    "Capital One:R1002155",
+    "reddit:8244082",
+    "reddit:8243443"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -616,7 +615,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -791,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 237,
+      "jobCount": 238,
       "error": null,
       "stale": false
     },
@@ -1008,7 +1007,7 @@
     {
       "name": "Close",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2253,10 +2252,10 @@
     },
     {
       "name": "Houzz",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "HubSpot",
@@ -3430,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 148,
+      "jobCount": 147,
       "error": null,
       "stale": false
     },
@@ -4109,7 +4108,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5705,20 +5704,52 @@
   ],
   "jobs": [
     {
-      "id": "JR2024087",
-      "title": "Systems Software Engineer - AI and Cloud",
-      "location": "US, CA, Santa Clara",
+      "id": "R1002155",
+      "title": "Full-stack Engineer 4",
+      "location": "Chicago, IL",
       "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud_JR2024087",
-      "postedAt": "2026-10-01T17:50:20.091Z",
-      "key": "Nvidia:JR2024087",
-      "company": "Nvidia",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4_R1002155-1",
+      "postedAt": "2026-10-01T18:00:32.756Z",
+      "key": "Capital One:R1002155",
+      "company": "Capital One",
       "level": "experienced",
       "term": null,
       "regions": [
         "us"
       ],
-      "firstSeen": "2026-10-01T17:50:16.235Z"
+      "firstSeen": "2026-10-01T18:00:29.324Z"
+    },
+    {
+      "id": "8244082",
+      "title": "Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8244082",
+      "postedAt": "2026-10-01T17:56:48.000Z",
+      "key": "reddit:8244082",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T18:00:29.324Z"
+    },
+    {
+      "id": "8243443",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8243443",
+      "postedAt": "2026-10-01T17:55:06.000Z",
+      "key": "reddit:8243443",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T18:00:29.324Z"
     },
     {
       "id": "R1002572",
@@ -6262,7 +6293,7 @@
     },
     {
       "id": "REF088719W",
-      "title": "Staff SW Engineer; Software Engineering /Consultant / Manager",
+      "title": "Staff Software Engineer",
       "location": "US - Austin, TX",
       "team": null,
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-SW-Engineer--Software-Engineering--Consultant---Manager_REF088719W",
@@ -44735,38 +44766,6 @@
       "postedAt": "2026-09-01T18:00:31.580Z",
       "key": "Nvidia:JR2024491",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T18:00:27.869Z"
-    },
-    {
-      "id": "5bf4629b-d2ee-4129-980f-e31b96185c9c",
-      "title": "Senior Backend Engineer - Backend Platform (USA Only, 100% Remote)",
-      "location": "USA - Remote",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/close/5bf4629b-d2ee-4129-980f-e31b96185c9c",
-      "postedAt": "2026-09-01T17:59:56.214Z",
-      "key": "close:5bf4629b-d2ee-4129-980f-e31b96185c9c",
-      "company": "Close",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T18:00:27.869Z"
-    },
-    {
-      "id": "5412832008",
-      "title": "Software Engineer, Cash App Taxes",
-      "location": "New York, NY, United States of America",
-      "team": null,
-      "url": "http://block.xyz/careers/jobs/5412832008?gh_jid=5412832008",
-      "postedAt": "2026-09-01T17:55:46.000Z",
-      "key": "block:5412832008",
-      "company": "Block",
       "level": "experienced",
       "term": null,
       "regions": [
