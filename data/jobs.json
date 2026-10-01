@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T21:50:16.508Z",
+  "generatedAt": "2026-10-01T22:00:23.327Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "quindar:d1d11006-d1e8-42c4-b1ea-02f4013c1ddb"
+    "docker:6651fe75-ccdc-4837-8374-4aa8053b714d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1418,7 +1418,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 124,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4799,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6651fe75-ccdc-4837-8374-4aa8053b714d",
+      "title": "Staff Software Engineer, Billing",
+      "location": "Seattle, WA",
+      "team": "ENG-Billing",
+      "url": "https://jobs.ashbyhq.com/docker/6651fe75-ccdc-4837-8374-4aa8053b714d",
+      "postedAt": "2026-10-01T21:51:42.859Z",
+      "key": "docker:6651fe75-ccdc-4837-8374-4aa8053b714d",
+      "company": "Docker",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T22:00:23.327Z"
+    },
     {
       "id": "d1d11006-d1e8-42c4-b1ea-02f4013c1ddb",
       "title": "Senior Software Engineer, Flight + Plan",
@@ -45234,22 +45250,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T22:10:18.041Z"
-    },
-    {
-      "id": "8172164",
-      "title": "Staff Software Engineer, Payment Systems",
-      "location": "Seattle, New York, San Francisco",
-      "team": "8511 PayIntel - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8172164",
-      "postedAt": "2026-09-01T21:57:56.000Z",
-      "key": "stripe:8172164",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T22:00:27.218Z"
     },
     {
       "id": "JR2024920",
