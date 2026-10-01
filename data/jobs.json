@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-10-01T16:10:16.985Z",
+  "generatedAt": "2026-10-01T16:20:18.054Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "airbnb:8241882",
-    "asana:8095543",
-    "Capital One:R1002589",
-    "pinterest:8230778"
+    "faire:8806617002",
+    "faire:8860409002",
+    "natera:6204494004",
+    "Visa:REF088720W",
+    "Visa:REF088719W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +16,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 21,
-    "experienced": 2276
+    "experienced": 2280
   },
   "companies": [
     {
@@ -239,7 +240,7 @@
       "name": "Amplitude",
       "ok": false,
       "jobCount": 5,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -988,7 +989,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -1673,7 +1674,7 @@
     {
       "name": "Faire",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3248,7 +3249,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3472,7 +3473,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -3639,10 +3640,10 @@
     },
     {
       "name": "Pendo",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pendulum",
@@ -5404,7 +5405,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5705,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088720W",
+      "title": "Software Engineer",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Software-Engineer_REF088720W",
+      "postedAt": "2026-10-01T16:20:22.355Z",
+      "key": "Visa:REF088720W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T16:20:18.054Z"
+    },
+    {
+      "id": "REF088719W",
+      "title": "Staff SW Engineer; Software Engineering /Consultant / Manager",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-SW-Engineer--Software-Engineering--Consultant---Manager_REF088719W",
+      "postedAt": "2026-10-01T16:20:22.355Z",
+      "key": "Visa:REF088719W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T16:20:18.054Z"
+    },
+    {
+      "id": "8860409002",
+      "title": "Staff Data Infrastructure Engineer",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8860409002?gh_jid=8860409002",
+      "postedAt": "2026-10-01T16:18:00.000Z",
+      "key": "faire:8860409002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T16:20:18.054Z"
+    },
+    {
+      "id": "8806617002",
+      "title": "Staff Data Infrastructure Engineer",
+      "location": "New York City, NY; San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8806617002?gh_jid=8806617002",
+      "postedAt": "2026-10-01T16:17:58.000Z",
+      "key": "faire:8806617002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T16:20:18.054Z"
+    },
     {
       "id": "R1002589",
       "title": "Full Stack Engineer 4 (PySpark)",
@@ -13477,6 +13542,22 @@
         "us"
       ],
       "firstSeen": "2026-09-25T20:40:16.845Z"
+    },
+    {
+      "id": "6204494004",
+      "title": "Senior Software Engineer, LIMS",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6204494004",
+      "postedAt": "2026-09-25T20:29:14.000Z",
+      "key": "natera:6204494004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T16:20:18.054Z"
     },
     {
       "id": "5249738007",
@@ -24191,23 +24272,6 @@
         "us"
       ],
       "firstSeen": "2026-09-19T00:40:18.940Z"
-    },
-    {
-      "id": "8214882",
-      "title": "Director of Engineering, AI Takeoff Team",
-      "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8214882?gh_jid=8214882",
-      "postedAt": "2026-09-19T00:27:49.000Z",
-      "key": "okta:8214882",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-19T00:30:21.912Z"
     },
     {
       "id": "8148638",
