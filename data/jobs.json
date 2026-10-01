@@ -1,18 +1,37 @@
 {
-  "generatedAt": "2026-10-01T17:00:22.231Z",
+  "generatedAt": "2026-10-01T17:10:18.763Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 20,
   "newKeys": [
-    "pinterest:8157351"
+    "Capital One:R1002380",
+    "Capital One:R1002390",
+    "Capital One:R1002387",
+    "pendo:8816800002",
+    "pinterest:8138080",
+    "pinterest:8138097",
+    "pinterest:8138090",
+    "pinterest:8138094",
+    "pinterest:8140389",
+    "pinterest:8140219",
+    "pinterest:8140169",
+    "pinterest:8140140",
+    "pinterest:8140150",
+    "pinterest:8140363",
+    "pinterest:8138039",
+    "pinterest:7838577",
+    "pinterest:8138065",
+    "pinterest:7838591",
+    "pinterest:8138049",
+    "waymo:8240632"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 145,
-    "new-grad": 22,
-    "experienced": 2283
+    "intern": 154,
+    "new-grad": 28,
+    "experienced": 2286
   },
   "companies": [
     {
@@ -424,7 +443,7 @@
     {
       "name": "AssemblyAI",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -788,7 +807,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 232,
+      "jobCount": 235,
       "error": null,
       "stale": false
     },
@@ -936,7 +955,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1704,10 +1723,10 @@
     },
     {
       "name": "Figma",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Filmhub",
@@ -1874,7 +1893,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2082,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2896,7 +2915,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -2917,7 +2936,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3293,10 +3312,10 @@
     },
     {
       "name": "Netskope",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Neura Health",
@@ -3342,10 +3361,10 @@
     },
     {
       "name": "Nira Energy",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nomic Bio",
@@ -3554,7 +3573,7 @@
       "name": "Outschool",
       "ok": false,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3637,7 +3656,7 @@
     {
       "name": "Pendo",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3756,7 +3775,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4712,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 119,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 118,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4728,10 +4747,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -5478,7 +5497,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -5603,10 +5622,10 @@
     },
     {
       "name": "Yugabyte",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Yuno",
@@ -5701,6 +5720,378 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002387",
+      "title": "Senior Staff Full-stack Engineer (Remote-Eligible) - Global Payment Network",
+      "location": "5 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Staff-Full-stack-Engineer--Remote-Eligible----Global-Payment-Network_R1002387-1",
+      "postedAt": "2026-10-01T17:10:22.305Z",
+      "key": "Capital One:R1002387",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "R1002390",
+      "title": "Staff Full-stack Engineer (Remote-Eligible) - Global Payment Network",
+      "location": "5 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Staff-Full-stack-Engineer--Remote-Eligible----Global-Payment-Network_R1002390-2",
+      "postedAt": "2026-10-01T17:10:22.305Z",
+      "key": "Capital One:R1002390",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "R1002380",
+      "title": "Senior Director, Full-stack Engineer (Remote-Eligible) - Global Payment Network",
+      "location": "5 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Director--Full-stack-Engineer--Remote-Eligible----Global-Payment-Network_R1002380",
+      "postedAt": "2026-10-01T17:10:22.304Z",
+      "key": "Capital One:R1002380",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8816800002",
+      "title": "Workday Systems Engineer",
+      "location": "Raleigh, NC or New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8816800002",
+      "postedAt": "2026-10-01T17:08:54.000Z",
+      "key": "pendo:8816800002",
+      "company": "Pendo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "7838577",
+      "title": "Software Engineer Intern 2027 (USA)",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+      "postedAt": "2026-10-01T17:03:52.000Z",
+      "key": "pinterest:7838577",
+      "company": "Pinterest",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "7838591",
+      "title": "University Grad Software Engineer 2027 (USA)",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
+      "postedAt": "2026-10-01T17:03:43.000Z",
+      "key": "pinterest:7838591",
+      "company": "Pinterest",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8138039",
+      "title": "Software Engineering Intern 2027 (Toronto)",
+      "location": "Toronto, ON, CA",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039",
+      "postedAt": "2026-10-01T17:03:18.000Z",
+      "key": "pinterest:8138039",
+      "company": "Pinterest",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8138080",
+      "title": "Machine Learning Intern 2027 (Toronto)",
+      "location": "Toronto, ON, CA",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+      "postedAt": "2026-10-01T17:03:07.000Z",
+      "key": "pinterest:8138080",
+      "company": "Pinterest",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8138049",
+      "title": "University Grad Software Engineer (Toronto)",
+      "location": "Toronto, ON, CA",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049",
+      "postedAt": "2026-10-01T17:02:38.000Z",
+      "key": "pinterest:8138049",
+      "company": "Pinterest",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8138065",
+      "title": "University Grad Machine Learning Engineer 2027 (Toronto)",
+      "location": "Toronto, ON, CA",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138065",
+      "postedAt": "2026-10-01T17:02:18.000Z",
+      "key": "pinterest:8138065",
+      "company": "Pinterest",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8138090",
+      "title": "Master's Machine Learning Internship 2027 (USA)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+      "postedAt": "2026-10-01T17:02:05.000Z",
+      "key": "pinterest:8138090",
+      "company": "Pinterest",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8240632",
+      "title": "Senior Software Engineer, Chassis ",
+      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8240632",
+      "postedAt": "2026-10-01T17:01:59.000Z",
+      "key": "waymo:8240632",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8138094",
+      "title": "Master's Machine Learning Internship 2027 (USA) *Fall ",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138094",
+      "postedAt": "2026-10-01T17:01:56.000Z",
+      "key": "pinterest:8138094",
+      "company": "Pinterest",
+      "level": "intern",
+      "term": {
+        "label": "Fall 2027",
+        "seasons": [
+          "fall"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8138097",
+      "title": "Master's Data Science Internship 2027 (USA)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+      "postedAt": "2026-10-01T17:01:42.000Z",
+      "key": "pinterest:8138097",
+      "company": "Pinterest",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8140140",
+      "title": "PhD Machine Learning Internship 2027 (USA)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140140",
+      "postedAt": "2026-10-01T17:01:32.000Z",
+      "key": "pinterest:8140140",
+      "company": "Pinterest",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8140150",
+      "title": "PhD Machine Learning Internship 2027 (USA) *Fall",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140150",
+      "postedAt": "2026-10-01T17:01:21.000Z",
+      "key": "pinterest:8140150",
+      "company": "Pinterest",
+      "level": "intern",
+      "term": {
+        "label": "Fall 2027",
+        "seasons": [
+          "fall"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8140169",
+      "title": "PhD Data Science Internship 2027 (USA)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169",
+      "postedAt": "2026-10-01T17:01:12.000Z",
+      "key": "pinterest:8140169",
+      "company": "Pinterest",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8140219",
+      "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140219",
+      "postedAt": "2026-10-01T17:00:43.000Z",
+      "key": "pinterest:8140219",
+      "company": "Pinterest",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8140363",
+      "title": "PhD University Grad Machine Learning Engineer (USA) ",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140363",
+      "postedAt": "2026-10-01T17:00:35.000Z",
+      "key": "pinterest:8140363",
+      "company": "Pinterest",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
+    {
+      "id": "8140389",
+      "title": "Master's University Grad Data Scientist (USA)",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140389",
+      "postedAt": "2026-10-01T17:00:27.000Z",
+      "key": "pinterest:8140389",
+      "company": "Pinterest",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-01T17:10:18.763Z"
+    },
     {
       "id": "8157351",
       "title": "PhD University Grad Data Scientist 2027 (USA)",
@@ -40322,7 +40713,7 @@
     },
     {
       "id": "8157888",
-      "title": "Site Reliability Engineer, Lead ",
+      "title": "Senior Staff Site Reliability Engineer, Lead ",
       "location": "Mountain View, CA, USA",
       "team": null,
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8157888",
@@ -44458,38 +44849,6 @@
         "us"
       ],
       "firstSeen": "2026-09-01T17:20:19.766Z"
-    },
-    {
-      "id": "4729671005",
-      "title": "Senior Research Engineer",
-      "location": "Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4729671005",
-      "postedAt": "2026-09-01T17:01:55.000Z",
-      "key": "assemblyai:4729671005",
-      "company": "AssemblyAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-01T17:10:18.886Z"
-    },
-    {
-      "id": "8769729002",
-      "title": "Full Stack Engineer, Flight Software",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8769729002?gh_jid=8769729002",
-      "postedAt": "2026-09-01T16:57:33.000Z",
-      "key": "spacex:8769729002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-01T17:00:27.854Z"
     },
     {
       "id": "R_106843",
