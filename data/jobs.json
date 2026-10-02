@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-10-02T19:30:22.181Z",
+  "generatedAt": "2026-10-02T19:40:17.323Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "anthropic:5442680008",
-    "Visa:REF088349W",
-    "waymo:8243732"
+    "cloudflare:8245503"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 160,
     "new-grad": 28,
-    "experienced": 2315
+    "experienced": 2313
   },
   "companies": [
     {
@@ -1014,7 +1012,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -3541,7 +3539,7 @@
     {
       "name": "Oscar Health",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 126,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8245503",
+      "title": "Vulnerability Defense Software Engineer, Cloudforce One",
+      "location": "Austin, TX (+1 more)",
+      "team": "Security",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245503?gh_jid=8245503",
+      "postedAt": "2026-10-02T19:35:35.000Z",
+      "key": "cloudflare:8245503",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T19:40:17.323Z"
+    },
     {
       "id": "REF088349W",
       "title": "Sr. Data Engineer",
@@ -44758,38 +44772,6 @@
       "firstSeen": "2026-09-10T03:50:18.322Z"
     },
     {
-      "id": "8177159",
-      "title": "Senior Security Engineer I, Product Security",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/oscar/jobs/8177159",
-      "postedAt": "2026-09-03T15:16:29.000Z",
-      "key": "oscar:8177159",
-      "company": "Oscar Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T15:20:24.591Z"
-    },
-    {
-      "id": "8177145",
-      "title": "Senior Security Engineer I, Product Security",
-      "location": "Tempe, Arizona, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/oscar/jobs/8177145",
-      "postedAt": "2026-09-03T15:11:59.000Z",
-      "key": "oscar:8177145",
-      "company": "Oscar Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T15:20:24.591Z"
-    },
-    {
       "id": "84a9df6b-fe96-4711-8106-971d829b6dc2",
       "title": "Network Security Engineer (Remote)",
       "location": "Remote (US)",
@@ -45221,22 +45203,6 @@
         "us"
       ],
       "firstSeen": "2026-09-02T22:00:27.430Z"
-    },
-    {
-      "id": "8175148",
-      "title": "Senior Security Engineer I, Product Security",
-      "location": "Los Angeles, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/oscar/jobs/8175148",
-      "postedAt": "2026-09-02T21:55:13.000Z",
-      "key": "oscar:8175148",
-      "company": "Oscar Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T15:10:18.023Z"
     },
     {
       "id": "31fdda97-2347-4031-8cb3-0d78207b58b4",
