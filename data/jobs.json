@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-02T07:30:32.460Z",
+  "generatedAt": "2026-10-02T07:40:16.277Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "urbancompass:8106238"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 28,
-    "experienced": 2306
+    "experienced": 2307
   },
   "companies": [
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1094,7 +1096,7 @@
     {
       "name": "Compass",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8106238",
+      "title": "Senior Software Engineer II - Frontend",
+      "location": "Boca Raton; Boston; New York City; Seattle",
+      "team": null,
+      "url": "https://www.compass.com/careers?gh_jid=8106238",
+      "postedAt": "2026-10-02T07:38:18.000Z",
+      "key": "urbancompass:8106238",
+      "company": "Compass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T07:40:16.277Z"
+    },
     {
       "id": "8860861002",
       "title": "Software Engineer, Pricing",
