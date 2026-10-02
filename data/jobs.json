@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-02T15:20:18.129Z",
+  "generatedAt": "2026-10-02T15:30:24.131Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "block:5425346008"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -611,7 +613,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5567,7 +5569,7 @@
     {
       "name": "Wrapbook",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5794,6 +5796,22 @@
         "us"
       ],
       "firstSeen": "2026-10-02T15:10:18.064Z"
+    },
+    {
+      "id": "5425346008",
+      "title": "Senior Security Engineer, Detection & Response",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5425346008?gh_jid=5425346008",
+      "postedAt": "2026-10-02T15:00:33.000Z",
+      "key": "block:5425346008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T15:30:24.131Z"
     },
     {
       "id": "8005075003",
@@ -22244,22 +22262,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-09-22T20:10:18.507Z"
-    },
-    {
-      "id": "1f7f8e6e-860e-4045-a810-f4bc073debbc",
-      "title": "Senior Platform Engineer I",
-      "location": "Remote - Canada Only",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/wrapbook/1f7f8e6e-860e-4045-a810-f4bc073debbc",
-      "postedAt": "2026-09-22T20:01:21.001Z",
-      "key": "wrapbook:1f7f8e6e-860e-4045-a810-f4bc073debbc",
-      "company": "Wrapbook",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-09-22T20:10:18.507Z"
     },
