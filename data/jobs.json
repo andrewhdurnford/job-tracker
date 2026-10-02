@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-02T23:10:15.791Z",
+  "generatedAt": "2026-10-02T23:20:17.437Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "DocuSign:30076"
+    "mach9:00cdc4ed-eea2-4a95-bbd6-a885d5429e38",
+    "spacex:8865231002",
+    "spacex:8865230002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 164,
     "new-grad": 27,
-    "experienced": 2319
+    "experienced": 2322
   },
   "companies": [
     {
@@ -936,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2853,7 +2855,7 @@
     {
       "name": "Mach9",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 126,
+      "jobCount": 128,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "00cdc4ed-eea2-4a95-bbd6-a885d5429e38",
+      "title": "ML Infrastructure Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mach9/00cdc4ed-eea2-4a95-bbd6-a885d5429e38",
+      "postedAt": "2026-10-02T23:17:40.800Z",
+      "key": "mach9:00cdc4ed-eea2-4a95-bbd6-a885d5429e38",
+      "company": "Mach9",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T23:20:17.437Z"
+    },
+    {
+      "id": "8865231002",
+      "title": "AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8865231002?gh_jid=8865231002",
+      "postedAt": "2026-10-02T23:17:06.000Z",
+      "key": "spacex:8865231002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T23:20:17.437Z"
+    },
+    {
+      "id": "8865230002",
+      "title": "AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8865230002?gh_jid=8865230002",
+      "postedAt": "2026-10-02T23:15:42.000Z",
+      "key": "spacex:8865230002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T23:20:17.437Z"
+    },
     {
       "id": "e10513d4-1b8d-492f-a6af-94bdae366a1a",
       "title": "Analytics Engineer",
