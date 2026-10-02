@@ -1,17 +1,19 @@
 {
-  "generatedAt": "2026-10-02T21:50:15.281Z",
+  "generatedAt": "2026-10-02T22:00:22.505Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "inversionspace:4740204005",
-    "smartsheet:8250247"
+    "affirm:8011590003",
+    "affirm:8008645003",
+    "infisical:3c9ae12c-142f-408d-8ad8-850addc594ec",
+    "infisical:351240fc-0dd3-48c3-a46e-e8861cae27cd"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 162,
+    "intern": 164,
     "new-grad": 27,
     "experienced": 2322
   },
@@ -82,7 +84,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -1055,7 +1057,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -2378,7 +2380,7 @@
     {
       "name": "Infisical",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4107,7 +4109,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5703,8 +5705,86 @@
   ],
   "jobs": [
     {
+      "id": "351240fc-0dd3-48c3-a46e-e8861cae27cd",
+      "title": "Full Stack Engineer",
+      "location": "United States (+3 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/infisical/351240fc-0dd3-48c3-a46e-e8861cae27cd",
+      "postedAt": "2026-10-02T21:59:10.934Z",
+      "key": "infisical:351240fc-0dd3-48c3-a46e-e8861cae27cd",
+      "company": "Infisical",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-02T22:00:22.505Z"
+    },
+    {
+      "id": "3c9ae12c-142f-408d-8ad8-850addc594ec",
+      "title": "Senior Full Stack Engineer",
+      "location": "United States (+3 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/infisical/3c9ae12c-142f-408d-8ad8-850addc594ec",
+      "postedAt": "2026-10-02T21:56:45.651Z",
+      "key": "infisical:3c9ae12c-142f-408d-8ad8-850addc594ec",
+      "company": "Infisical",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-02T22:00:22.505Z"
+    },
+    {
+      "id": "8008645003",
+      "title": "Software Engineer (Machine Learning) Intern (Summer 2027)",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+      "postedAt": "2026-10-02T21:55:47.000Z",
+      "key": "affirm:8008645003",
+      "company": "Affirm",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T22:00:22.505Z"
+    },
+    {
+      "id": "8011590003",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+      "postedAt": "2026-10-02T21:54:11.000Z",
+      "key": "affirm:8011590003",
+      "company": "Affirm",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T22:00:22.505Z"
+    },
+    {
       "id": "8250247",
-      "title": "Software Engineer II (Remote Eligible)",
+      "title": "Sr. Software Engineer II (Remote Eligible)",
       "location": " -REMOTE, USA-",
       "team": null,
       "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8250247",
@@ -44079,22 +44159,6 @@
       "firstSeen": "2026-09-14T22:50:16.728Z"
     },
     {
-      "id": "8154342",
-      "title": "FCM Tech Lead",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8154342?gh_jid=8154342",
-      "postedAt": "2026-09-04T06:45:15.000Z",
-      "key": "coinbase:8154342",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-04T06:50:19.972Z"
-    },
-    {
       "id": "8179114",
       "title": "Senior Infrastructure Engineer, Trading ",
       "location": "Remote - USA",
@@ -45597,22 +45661,6 @@
         "us"
       ],
       "firstSeen": "2026-09-02T22:10:19.001Z"
-    },
-    {
-      "id": "8175131",
-      "title": "Staff Software Engineer - Site Defense",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8175131",
-      "postedAt": "2026-09-02T21:55:28.000Z",
-      "key": "reddit:8175131",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T22:00:27.430Z"
     },
     {
       "id": "d114d16b-3c5f-44a1-9a15-26b37fb45369",
