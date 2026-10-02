@@ -1,16 +1,20 @@
 {
-  "generatedAt": "2026-10-02T15:50:15.651Z",
+  "generatedAt": "2026-10-02T16:00:27.153Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Capital One:R1002536",
+    "chainguard:4718566006",
+    "CrowdStrike:R30285"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 154,
-    "new-grad": 28,
-    "experienced": 2299
+    "new-grad": 26,
+    "experienced": 2300
   },
   "companies": [
     {
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 244,
+      "jobCount": 245,
       "error": null,
       "stale": false
     },
@@ -877,7 +881,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -934,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1241,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -1486,7 +1490,7 @@
     {
       "name": "Duolingo",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3754,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -3846,7 +3850,7 @@
       "name": "Postman",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5686,7 +5690,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R30285",
+      "title": "Vice President, AI Architect (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Vice-President--AI-Architect--Remote-_R30285",
+      "postedAt": "2026-10-02T16:00:31.485Z",
+      "key": "CrowdStrike:R30285",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T16:00:27.153Z"
+    },
+    {
+      "id": "R1002536",
+      "title": "Full-stack Engineer 4 (Java, Spring Boot, Python, CI/CD)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Java--Spring-Boot--Python--CI-CD-_R1002536-2",
+      "postedAt": "2026-10-02T16:00:30.463Z",
+      "key": "Capital One:R1002536",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T16:00:27.153Z"
+    },
+    {
+      "id": "4718566006",
+      "title": "Engineering Manager, AI CICD",
+      "location": "United Kingdom - Remote; United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4718566006",
+      "postedAt": "2026-10-02T15:55:14.000Z",
+      "key": "chainguard:4718566006",
+      "company": "Chainguard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T16:00:27.153Z"
+    },
     {
       "id": "REF088874W",
       "title": "Senior Data Scientist",
@@ -7618,42 +7670,6 @@
       "key": "pinterest:8138080",
       "company": "Pinterest",
       "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-01T17:10:18.763Z"
-    },
-    {
-      "id": "8138049",
-      "title": "University Grad Software Engineer (Toronto)",
-      "location": "Toronto, ON, CA",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049",
-      "postedAt": "2026-10-01T17:02:38.000Z",
-      "key": "pinterest:8138049",
-      "company": "Pinterest",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-01T17:10:18.763Z"
-    },
-    {
-      "id": "8138065",
-      "title": "University Grad Machine Learning Engineer 2027 (Toronto)",
-      "location": "Toronto, ON, CA",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138065",
-      "postedAt": "2026-10-01T17:02:18.000Z",
-      "key": "pinterest:8138065",
-      "company": "Pinterest",
-      "level": "new-grad",
       "term": {
         "label": "2027",
         "seasons": [],
@@ -24118,7 +24134,7 @@
       "id": "ba60a541-fdf7-44bf-a6bb-0e821f15af54",
       "title": "Senior Data Scientist, Audio",
       "location": "USA - Remote",
-      "team": "Data Operations",
+      "team": "Data",
       "url": "https://jobs.ashbyhq.com/deepgram/ba60a541-fdf7-44bf-a6bb-0e821f15af54",
       "postedAt": "2026-09-21T23:35:29.761Z",
       "key": "deepgram:ba60a541-fdf7-44bf-a6bb-0e821f15af54",
@@ -37430,7 +37446,7 @@
     {
       "id": "fc4f6c0f-4228-4b17-ad1b-8a9ab5b8bf44",
       "title": "Staff Forward Deployed Engineer",
-      "location": "Texas, United States",
+      "location": "Ohio, United States",
       "team": "Field Engineering",
       "url": "https://jobs.ashbyhq.com/kong/fc4f6c0f-4228-4b17-ad1b-8a9ab5b8bf44",
       "postedAt": "2026-09-10T21:53:02.108Z",
@@ -43970,27 +43986,11 @@
     {
       "id": "8764849002",
       "title": "Senior Engineering Manager, AI Platform ",
-      "location": "Pittsburgh, PA",
+      "location": "New York, NY; Pittsburgh, PA",
       "team": null,
       "url": "https://careers.duolingo.com/jobs/8764849002?gh_jid=8764849002",
       "postedAt": "2026-09-03T15:19:53.000Z",
       "key": "duolingo:8764849002",
-      "company": "Duolingo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T15:20:24.591Z"
-    },
-    {
-      "id": "8756745002",
-      "title": "Senior Engineering Manager, AI Platform",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://careers.duolingo.com/jobs/8756745002?gh_jid=8756745002",
-      "postedAt": "2026-09-03T15:19:50.000Z",
-      "key": "duolingo:8756745002",
       "company": "Duolingo",
       "level": "experienced",
       "term": null,
@@ -45115,22 +45115,6 @@
       "postedAt": "2026-09-02T15:53:12.784Z",
       "key": "snowflake:30c880da-d4ec-4d66-ad2b-1d7a52c6c6b7",
       "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T16:00:29.600Z"
-    },
-    {
-      "id": "5216928007",
-      "title": "Senior Staff Software Engineer (C / Networking / Dataplane)",
-      "location": "San Jose, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216928007",
-      "postedAt": "2026-09-02T15:52:34.000Z",
-      "key": "zscaler:5216928007",
-      "company": "Zscaler",
       "level": "experienced",
       "term": null,
       "regions": [
