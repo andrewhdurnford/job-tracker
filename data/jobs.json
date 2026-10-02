@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-10-02T17:30:21.313Z",
+  "generatedAt": "2026-10-02T17:40:15.031Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "waymo:8248394"
+    "langchain:eadd2a71-47fc-483b-948f-4b2384f7f93f",
+    "samsara:8223645",
+    "thumbtack:2c3b12ee-1729-4b2b-ad4d-d753c87bec03",
+    "thumbtack:b68d0f04-f7b6-43fc-9886-e2adc57641f0"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 156,
     "new-grad": 26,
-    "experienced": 2292
+    "experienced": 2294
   },
   "companies": [
     {
@@ -1299,7 +1302,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -2678,7 +2681,7 @@
     {
       "name": "LangChain",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4015,7 +4018,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4337,7 +4340,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5079,7 +5082,7 @@
     {
       "name": "Thumbtack",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8223645",
+      "title": "Software Engineer II",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645",
+      "postedAt": "2026-10-02T17:38:10.000Z",
+      "key": "samsara:8223645",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T17:40:15.031Z"
+    },
+    {
+      "id": "b68d0f04-f7b6-43fc-9886-e2adc57641f0",
+      "title": "IT Systems Engineer II",
+      "location": "Remote, Ontario (+1 more)",
+      "team": "Internal Tools",
+      "url": "https://jobs.ashbyhq.com/thumbtack/b68d0f04-f7b6-43fc-9886-e2adc57641f0",
+      "postedAt": "2026-10-02T17:30:32.739Z",
+      "key": "thumbtack:b68d0f04-f7b6-43fc-9886-e2adc57641f0",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-02T17:40:15.031Z"
+    },
+    {
+      "id": "2c3b12ee-1729-4b2b-ad4d-d753c87bec03",
+      "title": "IT Systems Engineer II",
+      "location": "Remote, United States",
+      "team": "Internal Tools",
+      "url": "https://jobs.ashbyhq.com/thumbtack/2c3b12ee-1729-4b2b-ad4d-d753c87bec03",
+      "postedAt": "2026-10-02T17:30:30.698Z",
+      "key": "thumbtack:2c3b12ee-1729-4b2b-ad4d-d753c87bec03",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T17:40:15.031Z"
+    },
     {
       "id": "8248394",
       "title": "Senior Software Engineer, Eval Efficiency & Optimization",
@@ -41528,6 +41579,22 @@
       "firstSeen": "2026-09-06T22:00:28.729Z"
     },
     {
+      "id": "eadd2a71-47fc-483b-948f-4b2384f7f93f",
+      "title": "Software Engineer, Agent Systems ",
+      "location": "San Francisco, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/langchain/eadd2a71-47fc-483b-948f-4b2384f7f93f",
+      "postedAt": "2026-09-06T20:19:37.283Z",
+      "key": "langchain:eadd2a71-47fc-483b-948f-4b2384f7f93f",
+      "company": "LangChain",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T17:40:15.031Z"
+    },
+    {
       "id": "cb7ea008-687b-4689-a185-1df249e5e939",
       "title": "Software Engineer: Factory Team",
       "location": "New York City",
@@ -45005,22 +45072,6 @@
       "firstSeen": "2026-09-02T18:00:31.398Z"
     },
     {
-      "id": "8173897",
-      "title": "Manager I, Engineering - Cloud FinOps",
-      "location": "New York, New York, USA",
-      "team": null,
-      "url": "https://careers.datadoghq.com/detail/8173897/?gh_jid=8173897",
-      "postedAt": "2026-09-02T17:39:05.000Z",
-      "key": "datadog:8173897",
-      "company": "Datadog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T17:40:25.930Z"
-    },
-    {
       "id": "30c880da-d4ec-4d66-ad2b-1d7a52c6c6b7",
       "title": "Senior Software Engineer - Cloud Efficiency",
       "location": "US-WA-Bellevue",
@@ -45099,22 +45150,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-02T00:00:27.874Z"
-    },
-    {
-      "id": "b5843e59-4ebc-425a-8e24-fa61167242a3",
-      "title": "Software Engineer - AI & Internal Systems",
-      "location": "Denver, CO (+1 more)",
-      "team": "Operations",
-      "url": "https://jobs.ashbyhq.com/quindar/b5843e59-4ebc-425a-8e24-fa61167242a3",
-      "postedAt": "2026-08-31T23:14:03.241Z",
-      "key": "quindar:b5843e59-4ebc-425a-8e24-fa61167242a3",
-      "company": "Quindar",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-31T23:20:17.782Z"
     },
     {
       "id": "JR2014056",
