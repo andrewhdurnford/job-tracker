@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-02T21:10:17.118Z",
+  "generatedAt": "2026-10-02T21:20:17.411Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "mercury:6216179004",
-    "Procore:R0018112"
+    "Capital One:R1002940",
+    "chime:8840193002",
+    "roblox:8036757"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 161,
     "new-grad": 27,
-    "experienced": 2319
+    "experienced": 2322
   },
   "companies": [
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 244,
+      "jobCount": 245,
       "error": null,
       "stale": false
     },
@@ -929,7 +930,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -937,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1756,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1875,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2064,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4240,7 +4241,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 53,
+      "jobCount": 54,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 126,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002940",
+      "title": "Senior Associate, Data Scientist - Applied AI (Financial Services)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Associate--Data-Scientist---Applied-AI--Financial-Services-_R1002940-1",
+      "postedAt": "2026-10-02T21:20:20.845Z",
+      "key": "Capital One:R1002940",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T21:20:17.411Z"
+    },
+    {
+      "id": "8840193002",
+      "title": "Senior Software Engineer, Data Platform",
+      "location": "San Francisco, CA, USA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/chime/jobs/8840193002?gh_jid=8840193002",
+      "postedAt": "2026-10-02T21:17:06.000Z",
+      "key": "chime:8840193002",
+      "company": "Chime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T21:20:17.411Z"
+    },
+    {
+      "id": "8036757",
+      "title": "Senior Software Engineer (Full Stack), Global Actions",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8036757?gh_jid=8036757",
+      "postedAt": "2026-10-02T21:10:22.000Z",
+      "key": "roblox:8036757",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T21:20:17.411Z"
+    },
     {
       "id": "R0018112",
       "title": "Staff Software Engineer",
