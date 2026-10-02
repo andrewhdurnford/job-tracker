@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-10-02T20:20:17.463Z",
+  "generatedAt": "2026-10-02T20:30:22.980Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "grafanalabs:6208010004",
-    "grafanalabs:6208004004",
-    "Remitly:R_106938",
-    "stripe:8080799"
+    "reddit:8250125"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 161,
     "new-grad": 28,
-    "experienced": 2320
+    "experienced": 2319
   },
   "companies": [
     {
@@ -2107,7 +2104,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4109,7 +4106,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 126,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5404,7 +5401,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8250125",
+      "title": "iOS Software Engineer, Consumer Engineering",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8250125",
+      "postedAt": "2026-10-02T20:29:27.000Z",
+      "key": "reddit:8250125",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:30:22.980Z"
+    },
     {
       "id": "R_106938",
       "title": "Principal Software Development Engineer, Core Transfer Experience",
@@ -16881,22 +16894,6 @@
       "firstSeen": "2026-09-25T20:00:23.604Z"
     },
     {
-      "id": "8230894",
-      "title": "Senior Staff Software Engineer, Entity Management",
-      "location": "San Francisco, CA - Hybrid",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8230894",
-      "postedAt": "2026-09-25T19:45:04.000Z",
-      "key": "gusto:8230894",
-      "company": "Gusto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T19:50:16.734Z"
-    },
-    {
       "id": "ad66f5f8-080b-4c07-9408-fcaa0f79d7db",
       "title": "Software Engineer | Infra",
       "location": "San Francisco",
@@ -21134,22 +21131,6 @@
         "us"
       ],
       "firstSeen": "2026-09-23T19:20:16.440Z"
-    },
-    {
-      "id": "REF088446W",
-      "title": "Software Engineer (Android / iOS)",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Software-Engineer--Android---iOS-_REF088446W",
-      "postedAt": "2026-09-23T19:00:29.370Z",
-      "key": "Visa:REF088446W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T19:00:25.759Z"
     },
     {
       "id": "REF088445W",
