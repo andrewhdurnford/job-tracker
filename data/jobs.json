@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-02T20:10:17.202Z",
+  "generatedAt": "2026-10-02T20:20:17.463Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "chime:8575541002",
-    "coinbase:8238716",
-    "shieldai:7be83c8f-ec05-4302-ae83-31349d5fa805"
+    "grafanalabs:6208010004",
+    "grafanalabs:6208004004",
+    "Remitly:R_106938",
+    "stripe:8080799"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 161,
     "new-grad": 28,
-    "experienced": 2318
+    "experienced": 2320
   },
   "companies": [
     {
@@ -1245,7 +1246,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -2057,7 +2058,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -4136,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 126,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4801,7 +4802,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5481,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_106938",
+      "title": "Principal Software Development Engineer, Core Transfer Experience",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Principal-Software-Development-Engineer--Core-Transfer-Experience_R_106938",
+      "postedAt": "2026-10-02T20:20:21.006Z",
+      "key": "Remitly:R_106938",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:20:17.463Z"
+    },
+    {
+      "id": "8080799",
+      "title": "Staff Software Engineer, Infrastructure",
+      "location": "Seattle, San Francisco ",
+      "team": "8127 Core Infrastructure",
+      "url": "https://stripe.com/jobs/search?gh_jid=8080799",
+      "postedAt": "2026-10-02T20:11:16.000Z",
+      "key": "stripe:8080799",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:20:17.463Z"
+    },
     {
       "id": "8238716",
       "title": "Senior Software Engineer (Institutional, Settlements & Transfers)",
@@ -16950,22 +16983,6 @@
       "firstSeen": "2026-09-25T19:10:17.225Z"
     },
     {
-      "id": "8232448",
-      "title": "Technical Lead Manager, Motion Control Test Engineering",
-      "location": "Mountain View, CA, US; San Francisco, CA, US",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8232448",
-      "postedAt": "2026-09-25T19:00:27.000Z",
-      "key": "waymo:8232448",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T19:10:17.225Z"
-    },
-    {
       "id": "8005649003",
       "title": "IT Security & Identity Engineer",
       "location": "Austin, Texas, United States",
@@ -17770,22 +17787,6 @@
       "firstSeen": "2026-09-25T12:30:21.096Z"
     },
     {
-      "id": "R29841",
-      "title": "Sr. Machine Learning Engineer (Remote)",
-      "location": "USA - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Machine-Learning-Engineer--Remote-_R29841",
-      "postedAt": "2026-09-25T12:20:20.765Z",
-      "key": "CrowdStrike:R29841",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T12:20:16.461Z"
-    },
-    {
       "id": "R1001666",
       "title": "Full-stack Engineer 4 (Manager, IC - Node.js, TypeScript, AWS)",
       "location": "McLean, VA",
@@ -18168,6 +18169,38 @@
         "us"
       ],
       "firstSeen": "2026-09-24T21:30:21.247Z"
+    },
+    {
+      "id": "6208010004",
+      "title": "Senior Software Engineer - Session Replay | Canada | Remote ",
+      "location": "Canada (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6208010004",
+      "postedAt": "2026-09-24T21:10:11.000Z",
+      "key": "grafanalabs:6208010004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-02T20:20:17.463Z"
+    },
+    {
+      "id": "6208004004",
+      "title": "Senior Software Engineer - Session Replay | USA | Remote ",
+      "location": "United States (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6208004004",
+      "postedAt": "2026-09-24T21:03:38.000Z",
+      "key": "grafanalabs:6208004004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:20:17.463Z"
     },
     {
       "id": "6d680d21-e779-4b3d-9771-23eb04d65f81",
