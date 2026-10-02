@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-02T20:00:22.243Z",
+  "generatedAt": "2026-10-02T20:10:17.202Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "atomic:513835d1-bb98-49c7-a494-dbc1da2cc4c5",
-    "atomic:e7449ccb-627b-4184-8e3c-c562d9929ecf",
-    "cloudflare:8248635",
-    "lyft:8862215002"
+    "chime:8575541002",
+    "coinbase:8238716",
+    "shieldai:7be83c8f-ec05-4302-ae83-31349d5fa805"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 161,
     "new-grad": 28,
-    "experienced": 2316
+    "experienced": 2318
   },
   "companies": [
     {
@@ -931,7 +930,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1057,7 +1056,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -1092,7 +1091,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3814,10 +3813,10 @@
     },
     {
       "name": "Pomelo Care",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Poolside",
@@ -4473,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 126,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5705,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "8238716",
+      "title": "Senior Software Engineer (Institutional, Settlements & Transfers)",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8238716?gh_jid=8238716",
+      "postedAt": "2026-10-02T20:09:42.000Z",
+      "key": "coinbase:8238716",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:10:17.202Z"
+    },
+    {
+      "id": "8575541002",
+      "title": "Senior Application Security Engineer",
+      "location": "San Francisco, CA, USA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/chime/jobs/8575541002?gh_jid=8575541002",
+      "postedAt": "2026-10-02T20:02:28.000Z",
+      "key": "chime:8575541002",
+      "company": "Chime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:10:17.202Z"
+    },
+    {
       "id": "8862215002",
       "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
       "location": "Longueuil, Canada",
@@ -5789,6 +5820,22 @@
         "us"
       ],
       "firstSeen": "2026-10-02T19:50:20.667Z"
+    },
+    {
+      "id": "7be83c8f-ec05-4302-ae83-31349d5fa805",
+      "title": "Staff Platform Engineer (R6156)",
+      "location": "San Diego, California",
+      "team": "Cloud & Infrastructure",
+      "url": "https://jobs.lever.co/shieldai/7be83c8f-ec05-4302-ae83-31349d5fa805",
+      "postedAt": "2026-10-02T19:49:41.518Z",
+      "key": "shieldai:7be83c8f-ec05-4302-ae83-31349d5fa805",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:10:17.202Z"
     },
     {
       "id": "5d341aa7-6bc2-4ba2-99d0-10eac34f0335",
@@ -12577,7 +12624,7 @@
     },
     {
       "id": "8214129",
-      "title": "Senior Infrastructure Engineer",
+      "title": "Senior Data Platform Engineer",
       "location": "United States | Remote",
       "team": null,
       "url": "https://careers.upstart.com/jobs?gh_jid=8214129",
@@ -46109,22 +46156,6 @@
         "canada"
       ],
       "firstSeen": "2026-08-22T14:10:17.850Z"
-    },
-    {
-      "id": "93777ef3-e710-4f10-9475-3804d36390ad",
-      "title": "Engineering Manager, AI Orchestrator",
-      "location": "Mountain View, CA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/93777ef3-e710-4f10-9475-3804d36390ad",
-      "postedAt": "2026-08-21T17:32:05.366Z",
-      "key": "commure:93777ef3-e710-4f10-9475-3804d36390ad",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-21T17:40:17.540Z"
     },
     {
       "id": "b59bbc91-fb77-4a08-9c47-0fca7f755942",
