@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-10-02T19:52:29.735Z",
+  "generatedAt": "2026-10-02T20:00:22.243Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "atomic:513835d1-bb98-49c7-a494-dbc1da2cc4c5",
+    "atomic:e7449ccb-627b-4184-8e3c-c562d9929ecf",
+    "cloudflare:8248635",
+    "lyft:8862215002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 160,
+    "intern": 161,
     "new-grad": 28,
-    "experienced": 2314
+    "experienced": 2316
   },
   "companies": [
     {
@@ -464,7 +469,7 @@
     {
       "name": "Atomic Industries",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1010,7 +1015,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -2844,7 +2849,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -3809,10 +3814,10 @@
     },
     {
       "name": "Pomelo Care",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Poolside",
@@ -4132,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,76 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8862215002",
+      "title": "Hardware Field Quality Engineer Intern (Summer 2027)",
+      "location": "Longueuil, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8862215002?gh_jid=8862215002",
+      "postedAt": "2026-10-02T19:58:27.000Z",
+      "key": "lyft:8862215002",
+      "company": "Lyft",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-02T20:00:22.243Z"
+    },
+    {
+      "id": "e7449ccb-627b-4184-8e3c-c562d9929ecf",
+      "title": "Senior Device Software Engineer",
+      "location": "San Francisco, CA",
+      "team": "Sauron",
+      "url": "https://jobs.ashbyhq.com/atomic/e7449ccb-627b-4184-8e3c-c562d9929ecf",
+      "postedAt": "2026-10-02T19:54:22.722Z",
+      "key": "atomic:e7449ccb-627b-4184-8e3c-c562d9929ecf",
+      "company": "Atomic Industries",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:00:22.243Z"
+    },
+    {
+      "id": "8248635",
+      "title": "Software Engineer, Mobile SDK",
+      "location": "Austin, TX",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635",
+      "postedAt": "2026-10-02T19:53:03.000Z",
+      "key": "cloudflare:8248635",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:00:22.243Z"
+    },
+    {
+      "id": "513835d1-bb98-49c7-a494-dbc1da2cc4c5",
+      "title": "Senior Perception Engineer",
+      "location": "San Francisco, CA",
+      "team": "Sauron",
+      "url": "https://jobs.ashbyhq.com/atomic/513835d1-bb98-49c7-a494-dbc1da2cc4c5",
+      "postedAt": "2026-10-02T19:52:13.478Z",
+      "key": "atomic:513835d1-bb98-49c7-a494-dbc1da2cc4c5",
+      "company": "Atomic Industries",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:00:22.243Z"
+    },
     {
       "id": "R1002908",
       "title": "Full Stack Engineer 4",
@@ -15246,22 +15321,6 @@
         "us"
       ],
       "firstSeen": "2026-09-28T15:10:17.804Z"
-    },
-    {
-      "id": "R_106938",
-      "title": "Principal Software Development Engineer, Core Transfer Experience",
-      "location": "Seattle, Washington United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Principal-Software-Development-Engineer--Core-Transfer-Experience_R_106938",
-      "postedAt": "2026-09-28T15:00:32.968Z",
-      "key": "Remitly:R_106938",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T15:00:29.230Z"
     },
     {
       "id": "R0018624",
