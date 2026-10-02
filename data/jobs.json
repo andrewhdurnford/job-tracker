@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-02T20:30:22.980Z",
+  "generatedAt": "2026-10-02T20:40:19.164Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "reddit:8250125"
+    "coinbase:8248766",
+    "vanta:f19964fc-3df1-4ffd-bac2-0deedb1266a2",
+    "vanta:ee1f63bd-c72e-4e71-9011-b9b4560dbfe7"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 161,
     "new-grad": 28,
-    "experienced": 2319
+    "experienced": 2322
   },
   "companies": [
     {
@@ -1054,7 +1056,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 126,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5324,7 +5326,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8248766",
+      "title": "Senior Software Engineer (Institutional, Financing)",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8248766?gh_jid=8248766",
+      "postedAt": "2026-10-02T20:35:12.000Z",
+      "key": "coinbase:8248766",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:40:19.164Z"
+    },
+    {
+      "id": "ee1f63bd-c72e-4e71-9011-b9b4560dbfe7",
+      "title": "Engineering Manager, Customer Trust - Canada",
+      "location": "Remote - Canada",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/ee1f63bd-c72e-4e71-9011-b9b4560dbfe7",
+      "postedAt": "2026-10-02T20:29:41.743Z",
+      "key": "vanta:ee1f63bd-c72e-4e71-9011-b9b4560dbfe7",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-02T20:40:19.164Z"
+    },
+    {
+      "id": "f19964fc-3df1-4ffd-bac2-0deedb1266a2",
+      "title": "Engineering Manager, Customer Trust",
+      "location": "Remote U.S.",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/f19964fc-3df1-4ffd-bac2-0deedb1266a2",
+      "postedAt": "2026-10-02T20:29:38.021Z",
+      "key": "vanta:f19964fc-3df1-4ffd-bac2-0deedb1266a2",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T20:40:19.164Z"
+    },
     {
       "id": "8250125",
       "title": "iOS Software Engineer, Consumer Engineering",
