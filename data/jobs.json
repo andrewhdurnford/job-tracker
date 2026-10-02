@@ -1,26 +1,20 @@
 {
-  "generatedAt": "2026-10-02T19:20:15.918Z",
+  "generatedAt": "2026-10-02T19:30:22.181Z",
   "bootstrap": false,
-  "lastRunNewCount": 9,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R247320",
-    "handshake:d0920e75-c872-4f73-87a2-c54ee84725bc",
-    "harvey:b0996df6-6b6e-42be-a4f9-0084536068f5",
-    "harvey:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
-    "natera:6188497004",
-    "weave:e32926e3-3717-4cf8-b102-9974f4d8da48",
-    "wonderschool:8011911003",
-    "xai:5252108007",
-    "xai:5255111007"
+    "anthropic:5442680008",
+    "Visa:REF088349W",
+    "waymo:8243732"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 159,
+    "intern": 160,
     "new-grad": 28,
-    "experienced": 2313
+    "experienced": 2315
   },
   "companies": [
     {
@@ -313,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4701,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 126,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5409,7 +5403,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -5486,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -5709,6 +5703,60 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088349W",
+      "title": "Sr. Data Engineer",
+      "location": "US - Bellevue, WA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Sr-Data-Engineer_REF088349W",
+      "postedAt": "2026-10-02T19:30:29.134Z",
+      "key": "Visa:REF088349W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T19:30:22.181Z"
+    },
+    {
+      "id": "8243732",
+      "title": "2027 Summer Intern, PhD, Research, World Action Model",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8243732",
+      "postedAt": "2026-10-02T19:28:49.000Z",
+      "key": "waymo:8243732",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T19:30:22.181Z"
+    },
+    {
+      "id": "5442680008",
+      "title": "Staff Research Engineer, Multi-Agent Scaling",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442680008",
+      "postedAt": "2026-10-02T19:26:52.000Z",
+      "key": "anthropic:5442680008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T19:30:22.181Z"
+    },
     {
       "id": "R247320",
       "title": "Associate, Software Engineer, New Grad Card Expansion",
@@ -42263,7 +42311,7 @@
     {
       "id": "296c4031-5e98-4772-95f5-a9eb5bd7746d",
       "title": "Infrastructure Software Engineer ",
-      "location": "San Francisco (+1 more)",
+      "location": "San Francisco",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/mercor/296c4031-5e98-4772-95f5-a9eb5bd7746d",
       "postedAt": "2026-09-05T01:27:02.942Z",
