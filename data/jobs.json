@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-10-02T20:50:15.978Z",
+  "generatedAt": "2026-10-02T21:00:22.624Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "snowflake:1ebb1380-17b4-472b-86c1-2bbfa6f53b8a"
+    "astranis:4718774006",
+    "astranis:4663009006",
+    "Nvidia:JR2025802",
+    "Nvidia:JR2025924",
+    "vanta:9962b3c8-f1c4-4ad1-9308-7c8df6a28b28"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 161,
     "new-grad": 28,
-    "experienced": 2317
+    "experienced": 2319
   },
   "companies": [
     {
@@ -431,7 +435,7 @@
     {
       "name": "Astranis",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -1915,7 +1919,7 @@
     {
       "name": "Garner Health",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -2215,10 +2219,10 @@
     },
     {
       "name": "Hightouch",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Hilbert",
@@ -3133,7 +3137,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3294,7 +3298,7 @@
     {
       "name": "Netskope",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 150,
+      "jobCount": 152,
       "error": null,
       "stale": false
     },
@@ -5324,7 +5328,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025802",
+      "title": "Senior Deep Learning Scientist, Multimodal Agentic RL",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Scientist--Multimodal-Agentic-RL_JR2025802",
+      "postedAt": "2026-10-02T21:00:26.938Z",
+      "key": "Nvidia:JR2025802",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T21:00:22.624Z"
+    },
+    {
+      "id": "JR2025924",
+      "title": "Senior Deep Learning Scientist, Multimodal Agentic RL",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Deep-Learning-Scientist--Multimodal-Agentic-RL_JR2025924",
+      "postedAt": "2026-10-02T21:00:26.938Z",
+      "key": "Nvidia:JR2025924",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T21:00:22.624Z"
+    },
+    {
+      "id": "9962b3c8-f1c4-4ad1-9308-7c8df6a28b28",
+      "title": "Staff Software Engineer, Program Structure & Trust",
+      "location": "Remote U.S.",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/9962b3c8-f1c4-4ad1-9308-7c8df6a28b28",
+      "postedAt": "2026-10-02T20:55:36.759Z",
+      "key": "vanta:9962b3c8-f1c4-4ad1-9308-7c8df6a28b28",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T21:00:22.624Z"
+    },
+    {
+      "id": "4663009006",
+      "title": "Supplier Quality Engineer (Mechanical)",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4663009006",
+      "postedAt": "2026-10-02T20:55:14.000Z",
+      "key": "astranis:4663009006",
+      "company": "Astranis",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T21:00:22.624Z"
+    },
+    {
+      "id": "4718774006",
+      "title": "Senior Supplier Quality Engineer (Mechanical)",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4718774006",
+      "postedAt": "2026-10-02T20:54:54.000Z",
+      "key": "astranis:4718774006",
+      "company": "Astranis",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-02T21:00:22.624Z"
+    },
     {
       "id": "1ebb1380-17b4-472b-86c1-2bbfa6f53b8a",
       "title": "Staff Cloud Support Engineer",
@@ -45523,54 +45607,6 @@
       "postedAt": "2026-09-02T21:00:31.775Z",
       "key": "Nvidia:JR2018237",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T21:00:27.441Z"
-    },
-    {
-      "id": "6180042004",
-      "title": "Senior Site Reliability Engineer",
-      "location": "Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6180042004",
-      "postedAt": "2026-09-02T20:59:08.000Z",
-      "key": "garnerhealth:6180042004",
-      "company": "Garner Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-02T21:00:27.441Z"
-    },
-    {
-      "id": "8110822",
-      "title": "Staff Engineer, Search Systems",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8110822",
-      "postedAt": "2026-09-02T20:55:44.000Z",
-      "key": "mongodb:8110822",
-      "company": "MongoDB",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-02T21:00:27.441Z"
-    },
-    {
-      "id": "8174989",
-      "title": "Principal Engineer, Secure AI Gateway",
-      "location": "Santa Clara, California, United States",
-      "team": null,
-      "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8174989",
-      "postedAt": "2026-09-02T20:54:56.000Z",
-      "key": "netskope:8174989",
-      "company": "Netskope",
       "level": "experienced",
       "term": null,
       "regions": [
