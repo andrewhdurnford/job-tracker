@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:40:15.677Z",
+  "generatedAt": "2026-10-03T20:50:16.941Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 163,
+    "intern": 162,
     "new-grad": 27,
-    "experienced": 2280
+    "experienced": 2279
   },
   "companies": [
     {
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 126,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5105,7 +5105,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5476,7 +5476,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -44894,44 +44894,6 @@
         "us"
       ],
       "firstSeen": "2026-09-25T14:40:54.860Z"
-    },
-    {
-      "id": "8162337",
-      "title": "Principal Software Engineer, Tech Lead, Retail",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8162337",
-      "postedAt": "2026-09-03T20:49:50.000Z",
-      "key": "toast:8162337",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T20:50:17.334Z"
-    },
-    {
-      "id": "8174504",
-      "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test ",
-      "location": "San Francisco, California, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
-      "postedAt": "2026-09-03T20:44:52.000Z",
-      "key": "waymo:8174504",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T20:50:17.334Z"
     },
     {
       "id": "JR2025023",
