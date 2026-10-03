@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-02T23:50:16.554Z",
+  "generatedAt": "2026-10-03T00:00:22.831Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "cerebras:cb57dac6-84cc-4860-9732-39c60514a2ab"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -234,7 +236,7 @@
       "name": "Amplitude",
       "ok": false,
       "jobCount": 5,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -386,10 +388,10 @@
     },
     {
       "name": "Asana",
-      "ok": true,
+      "ok": false,
       "jobCount": 9,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Ashby",
@@ -863,7 +865,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -1753,15 +1755,15 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
       "name": "Fireblocks",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Firecrawl",
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3319,10 +3321,10 @@
     },
     {
       "name": "New Relic",
-      "ok": true,
+      "ok": false,
       "jobCount": 4,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nextdoor",
@@ -4104,7 +4106,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 128,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5561,7 +5563,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5699,6 +5701,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "cb57dac6-84cc-4860-9732-39c60514a2ab",
+      "title": "Senior Research Engineer - Inference ML",
+      "location": "United States and Canada",
+      "team": "Inference Core",
+      "url": "https://jobs.ashbyhq.com/cerebras/cb57dac6-84cc-4860-9732-39c60514a2ab",
+      "postedAt": "2026-10-02T23:45:55.090Z",
+      "key": "cerebras:cb57dac6-84cc-4860-9732-39c60514a2ab",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-03T00:00:22.831Z"
+    },
     {
       "id": "8250389",
       "title": "Staff Machine Learning Engineer, Ads Creative Effectiveness",
@@ -45592,22 +45611,6 @@
         "us"
       ],
       "firstSeen": "2026-09-03T00:30:22.013Z"
-    },
-    {
-      "id": "8175520",
-      "title": "Senior Frontend Engineer, Ads Creative",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8175520",
-      "postedAt": "2026-09-02T23:54:07.000Z",
-      "key": "reddit:8175520",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-03T00:00:28.625Z"
     },
     {
       "id": "d16bd223-cb68-46f3-8bf6-41267b9770cb",
