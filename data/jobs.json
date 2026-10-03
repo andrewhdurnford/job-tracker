@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T05:10:14.743Z",
+  "generatedAt": "2026-10-03T05:20:14.968Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -785,10 +785,10 @@
     },
     {
       "name": "Capital One",
-      "ok": true,
+      "ok": false,
       "jobCount": 245,
-      "error": null,
-      "stale": false
+      "error": "HTTP 500 Internal Server Error",
+      "stale": true
     },
     {
       "name": "CaptivateIQ",
@@ -3886,10 +3886,10 @@
     },
     {
       "name": "Procore",
-      "ok": true,
+      "ok": false,
       "jobCount": 12,
-      "error": null,
-      "stale": false
+      "error": "HTTP 500 Internal Server Error",
+      "stale": true
     },
     {
       "name": "Prodigal",
