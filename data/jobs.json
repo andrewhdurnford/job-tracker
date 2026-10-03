@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-10-03T03:50:15.633Z",
+  "generatedAt": "2026-10-03T04:00:21.798Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "shieldai:57c61eb1-b3cc-4ce8-8884-8f8f277164bb",
-    "shieldai:3cf03a5f-d8a4-477e-94d7-6879618c5b3e"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1756,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2064,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4694,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 128,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
