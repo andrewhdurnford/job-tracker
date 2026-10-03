@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-03T00:00:22.831Z",
+  "generatedAt": "2026-10-03T00:10:16.061Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "cerebras:cb57dac6-84cc-4860-9732-39c60514a2ab"
+    "spacex:8865268002",
+    "spacex:8865267002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 164,
     "new-grad": 27,
-    "experienced": 2320
+    "experienced": 2322
   },
   "companies": [
     {
@@ -236,7 +237,7 @@
       "name": "Amplitude",
       "ok": false,
       "jobCount": 5,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -388,10 +389,10 @@
     },
     {
       "name": "Asana",
-      "ok": false,
+      "ok": true,
       "jobCount": 9,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Ashby",
@@ -1760,10 +1761,10 @@
     },
     {
       "name": "Fireblocks",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Firecrawl",
@@ -3321,10 +3322,10 @@
     },
     {
       "name": "New Relic",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nextdoor",
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 128,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 130,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5563,7 +5564,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8865268002",
+      "title": "Sr. AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8865268002?gh_jid=8865268002",
+      "postedAt": "2026-10-03T00:00:18.000Z",
+      "key": "spacex:8865268002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-03T00:10:16.061Z"
+    },
+    {
+      "id": "8865267002",
+      "title": "Sr. AI Engineer, Compute Infrastructure, Special Programs - Top Secret Clearance",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8865267002?gh_jid=8865267002",
+      "postedAt": "2026-10-02T23:59:37.000Z",
+      "key": "spacex:8865267002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-03T00:10:16.061Z"
+    },
     {
       "id": "cb57dac6-84cc-4860-9732-39c60514a2ab",
       "title": "Senior Research Engineer - Inference ML",
@@ -15899,7 +15932,7 @@
     },
     {
       "id": "6209681004",
-      "title": "Principal AI Programmer, Unreal Assistant",
+      "title": "Principal Research Programmer, Unreal Assistant",
       "location": "Montreal,Quebec,Canada",
       "team": "Engineering Specialist",
       "url": "https://epicgames.com/careers/jobs/6209681004?gh_jid=6209681004",
@@ -18218,7 +18251,7 @@
     },
     {
       "id": "6208474004",
-      "title": "Principal AI Programmer, Unreal Assistant",
+      "title": "Principal Research Programmer, Unreal Assistant",
       "location": "Vancouver,British Columbia,Canada",
       "team": "Engineering Specialist",
       "url": "https://epicgames.com/careers/jobs/6208474004?gh_jid=6208474004",
@@ -18234,7 +18267,7 @@
     },
     {
       "id": "6200780004",
-      "title": "Principal AI Engineer, Unreal Assistant",
+      "title": "Principal Research Engineer, Unreal Assistant",
       "location": "Cary,North Carolina,United States",
       "team": "Engineering Specialist",
       "url": "https://epicgames.com/careers/jobs/6200780004?gh_jid=6200780004",
