@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-03T04:30:23.551Z",
+  "generatedAt": "2026-10-03T04:40:15.743Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "bridgebio:5256185007",
+    "ServiceTitan:JR115077"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 164,
     "new-grad": 27,
-    "experienced": 2324
+    "experienced": 2326
   },
   "companies": [
     {
@@ -716,7 +719,7 @@
     {
       "name": "BridgeBio",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -785,10 +788,10 @@
     },
     {
       "name": "Capital One",
-      "ok": false,
+      "ok": true,
       "jobCount": 245,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "CaptivateIQ",
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4433,7 +4436,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR115077",
+      "title": "Senior Site Reliability Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Senior-Site-Reliability-Engineer_JR115077",
+      "postedAt": "2026-10-03T04:40:19.364Z",
+      "key": "ServiceTitan:JR115077",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-03T04:40:15.743Z"
+    },
+    {
+      "id": "5256185007",
+      "title": "Sr Director/Executive Director, Pharm Science Technical Lead",
+      "location": "San Francisco - 1800 Owens",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/bridgebio/jobs/5256185007",
+      "postedAt": "2026-10-03T04:35:55.000Z",
+      "key": "bridgebio:5256185007",
+      "company": "BridgeBio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-03T04:40:15.743Z"
+    },
     {
       "id": "57d675b0-4e5e-450e-bada-8df00cf0c2bf",
       "title": "Senior Software Engineer, Autonomy Integration (R6035)",
