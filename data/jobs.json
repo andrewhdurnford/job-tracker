@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-10-03T05:30:19.992Z",
+  "generatedAt": "2026-10-03T05:40:16.078Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "openai:b94099f6-8418-48b0-82b5-5953a27d636f",
-    "openai:88164d12-c8ed-4b62-ae26-dcb6f1cc8482"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -3889,10 +3886,10 @@
     },
     {
       "name": "Procore",
-      "ok": true,
+      "ok": false,
       "jobCount": 12,
-      "error": null,
-      "stale": false
+      "error": "HTTP 500 Internal Server Error",
+      "stale": true
     },
     {
       "name": "Prodigal",
