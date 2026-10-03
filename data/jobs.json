@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-03T03:40:16.467Z",
+  "generatedAt": "2026-10-03T03:50:15.633Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "shieldai:4d2b7916-83f7-4036-9ee8-3c32f03b5990"
+    "shieldai:57c61eb1-b3cc-4ce8-8884-8f8f277164bb",
+    "shieldai:3cf03a5f-d8a4-477e-94d7-6879618c5b3e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 164,
     "new-grad": 27,
-    "experienced": 2320
+    "experienced": 2322
   },
   "companies": [
     {
@@ -4470,7 +4471,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 128,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3cf03a5f-d8a4-477e-94d7-6879618c5b3e",
+      "title": "Staff Systems IT Engineer (R6157)",
+      "location": "Remote",
+      "team": "Enterprise Technology Services",
+      "url": "https://jobs.lever.co/shieldai/3cf03a5f-d8a4-477e-94d7-6879618c5b3e",
+      "postedAt": "2026-10-03T03:44:12.588Z",
+      "key": "shieldai:3cf03a5f-d8a4-477e-94d7-6879618c5b3e",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-03T03:50:15.633Z"
+    },
+    {
+      "id": "57c61eb1-b3cc-4ce8-8884-8f8f277164bb",
+      "title": "Senior C++ Engineer – Foundations (R6023)",
+      "location": "San Diego, California",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/shieldai/57c61eb1-b3cc-4ce8-8884-8f8f277164bb",
+      "postedAt": "2026-10-03T03:40:48.313Z",
+      "key": "shieldai:57c61eb1-b3cc-4ce8-8884-8f8f277164bb",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-03T03:50:15.633Z"
+    },
     {
       "id": "4d2b7916-83f7-4036-9ee8-3c32f03b5990",
       "title": "Senior Staff Engineer, Autonomy Integration Lead (R6159)",
