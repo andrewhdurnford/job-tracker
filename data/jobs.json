@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-10-04T19:10:15.010Z",
+  "generatedAt": "2026-10-04T19:20:15.013Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "ambrook:3b116b4f-d264-4ac4-92cb-deacdd7656ef"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 161,
     "new-grad": 24,
-    "experienced": 2208
+    "experienced": 2205
   },
   "companies": [
     {
@@ -991,7 +989,7 @@
     {
       "name": "ClickUp",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2811,7 +2809,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -3888,10 +3886,10 @@
     },
     {
       "name": "Procore",
-      "ok": true,
+      "ok": false,
       "jobCount": 11,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Prodigal",
@@ -4337,7 +4335,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -43724,55 +43722,6 @@
         "us"
       ],
       "firstSeen": "2026-09-04T19:30:20.701Z"
-    },
-    {
-      "id": "5221402007",
-      "title": "Staff Field Quality Engineer - Powertrain",
-      "location": "Phoenix, AZ",
-      "team": null,
-      "url": "https://lucidmotors.com/careers/search/5221402007?gh_jid=5221402007",
-      "postedAt": "2026-09-04T19:19:14.000Z",
-      "key": "lucidmotors:5221402007",
-      "company": "Lucid Motors",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-04T19:20:16.290Z"
-    },
-    {
-      "id": "0cb4e985-a3fa-4b96-8441-3471bcdeb5af",
-      "title": "Senior Frontend Engineer",
-      "location": "United States (+1 more)",
-      "team": "32015 Front End Engineering",
-      "url": "https://jobs.ashbyhq.com/clickup/0cb4e985-a3fa-4b96-8441-3471bcdeb5af",
-      "postedAt": "2026-09-04T19:13:23.567Z",
-      "key": "clickup:0cb4e985-a3fa-4b96-8441-3471bcdeb5af",
-      "company": "ClickUp",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-09-04T19:20:16.290Z"
-    },
-    {
-      "id": "7852183",
-      "title": "Staff Application Security Engineer",
-      "location": "San Francisco, CA, United States",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/7852183?gh_jid=7852183",
-      "postedAt": "2026-09-04T19:10:42.000Z",
-      "key": "samsara:7852183",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-04T19:20:16.290Z"
     },
     {
       "id": "855fdc5a-e08a-4496-947c-79b9ec804af7",
