@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-04T19:00:20.922Z",
+  "generatedAt": "2026-10-04T19:10:15.010Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "ambrook:3b116b4f-d264-4ac4-92cb-deacdd7656ef"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -219,7 +221,7 @@
     {
       "name": "Ambrook",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5476,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3b116b4f-d264-4ac4-92cb-deacdd7656ef",
+      "title": "Software Engineer, AI",
+      "location": "San Francisco (+3 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ambrook/3b116b4f-d264-4ac4-92cb-deacdd7656ef",
+      "postedAt": "2026-10-04T19:06:27.702Z",
+      "key": "ambrook:3b116b4f-d264-4ac4-92cb-deacdd7656ef",
+      "company": "Ambrook",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-04T19:10:15.010Z"
+    },
     {
       "id": "c00e77f5-bd58-49da-b4a8-3b6249529747",
       "title": "Staff Software Engineer, AI Developer Tooling",
@@ -43754,22 +43773,6 @@
         "us"
       ],
       "firstSeen": "2026-09-04T19:20:16.290Z"
-    },
-    {
-      "id": "8157888",
-      "title": "Senior Staff Site Reliability Engineer, Lead ",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8157888",
-      "postedAt": "2026-09-04T19:09:02.000Z",
-      "key": "waymo:8157888",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-04T19:10:17.697Z"
     },
     {
       "id": "855fdc5a-e08a-4496-947c-79b9ec804af7",
