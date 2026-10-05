@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-10-05T18:50:17.019Z",
+  "generatedAt": "2026-10-05T19:00:26.283Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "adyen:8160966",
+    "Nvidia:JR2027095",
+    "postscript:8868675002",
+    "spacex:8867352002",
+    "twilio:8067027"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +16,7 @@
   "levelCounts": {
     "intern": 164,
     "new-grad": 24,
-    "experienced": 2195
+    "experienced": 2200
   },
   "companies": [
     {
@@ -72,7 +78,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 140,
+      "jobCount": 141,
       "error": null,
       "stale": false
     },
@@ -3620,10 +3626,10 @@
     },
     {
       "name": "Pelago",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Peloton",
@@ -3852,7 +3858,7 @@
     {
       "name": "Postscript",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4692,7 +4698,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 113,
+      "jobCount": 114,
       "error": null,
       "stale": false
     },
@@ -5224,7 +5230,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2027095",
+      "title": "Performance Engineer, Deep Learning and HPC",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2027095",
+      "postedAt": "2026-10-05T19:00:30.069Z",
+      "key": "Nvidia:JR2027095",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T19:00:26.283Z"
+    },
+    {
+      "id": "8867352002",
+      "title": "CNC Programmer (Starship Components)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8867352002?gh_jid=8867352002",
+      "postedAt": "2026-10-05T18:58:19.000Z",
+      "key": "spacex:8867352002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T19:00:26.283Z"
+    },
+    {
+      "id": "8868675002",
+      "title": "Senior Fullstack Engineer, Customer Context",
+      "location": "Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8868675002",
+      "postedAt": "2026-10-05T18:54:14.000Z",
+      "key": "postscript:8868675002",
+      "company": "Postscript",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-05T19:00:26.283Z"
+    },
+    {
+      "id": "8160966",
+      "title": "Machine Learning Engineering Manager, Credit & Underwriting",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8160966",
+      "postedAt": "2026-10-05T18:54:11.000Z",
+      "key": "adyen:8160966",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T19:00:26.283Z"
+    },
+    {
+      "id": "8067027",
+      "title": "Staff Mobile Engineer (P4)",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
+      "postedAt": "2026-10-05T18:51:26.000Z",
+      "key": "twilio:8067027",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T19:00:26.283Z"
+    },
     {
       "id": "8233354",
       "title": "Principal Software Engineer, App Performance",
