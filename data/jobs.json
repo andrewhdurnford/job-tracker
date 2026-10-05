@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-05T19:10:30.786Z",
+  "generatedAt": "2026-10-05T19:36:03.559Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R247133",
-    "spacex:8865114002",
-    "spacex:8865055002"
+    "nuro:8248317",
+    "ophelia:5443572008",
+    "quindar:a4e0c464-decb-410b-897b-ea039203c33e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,8 +13,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 164,
-    "new-grad": 24,
-    "experienced": 2202
+    "new-grad": 25,
+    "experienced": 2203
   },
   "companies": [
     {
@@ -3415,7 +3415,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3527,7 +3527,7 @@
     {
       "name": "Ophelia",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4017,7 +4017,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 116,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5690,7 +5690,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5443572008",
+      "title": "Senior Site Reliability Engineer (Systems Engineer III)",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/ophelia/jobs/5443572008",
+      "postedAt": "2026-10-05T19:19:08.000Z",
+      "key": "ophelia:5443572008",
+      "company": "Ophelia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T19:36:03.559Z"
+    },
+    {
+      "id": "8248317",
+      "title": "New Grad Software Engineer, Routing",
+      "location": "Mountain View, California (HQ)",
+      "team": null,
+      "url": "https://nuro.ai/careersitem?gh_jid=8248317",
+      "postedAt": "2026-10-05T19:14:38.000Z",
+      "key": "nuro:8248317",
+      "company": "Nuro",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T19:36:03.559Z"
+    },
     {
       "id": "R247133",
       "title": "Director, Product Management- Capital One Software (Remote)",
@@ -5830,6 +5862,22 @@
         "us"
       ],
       "firstSeen": "2026-10-05T19:00:26.283Z"
+    },
+    {
+      "id": "a4e0c464-decb-410b-897b-ea039203c33e",
+      "title": "Backend Engineer",
+      "location": "Denver, CO",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e",
+      "postedAt": "2026-10-05T18:39:08.539Z",
+      "key": "quindar:a4e0c464-decb-410b-897b-ea039203c33e",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T19:36:03.559Z"
     },
     {
       "id": "8233354",
@@ -5979,7 +6027,7 @@
     },
     {
       "id": "6207801004",
-      "title": "PhD Intern, AI Applied Research (2027)",
+      "title": "PhD Intern, AI Applied Scientist (2027)",
       "location": "San Francisco, CA • New York, NY",
       "team": null,
       "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
@@ -12240,22 +12288,6 @@
       "regions": [
         "us",
         "canada"
-      ],
-      "firstSeen": "2026-09-30T19:10:14.999Z"
-    },
-    {
-      "id": "5247845007",
-      "title": "Sr. Data Center Operations Engineer",
-      "location": "Remote - Texas, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5247845007",
-      "postedAt": "2026-09-30T19:02:35.000Z",
-      "key": "zscaler:5247845007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-09-30T19:10:14.999Z"
     },
