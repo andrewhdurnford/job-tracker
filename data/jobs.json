@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-10-05T20:55:48.922Z",
+  "generatedAt": "2026-10-05T21:10:49.249Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "anthropic:5397704008",
-    "humaninterest:8226682",
-    "physicalintelligence:6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe",
-    "physicalintelligence:14586c10-d913-43c5-8f7c-c77b5c438e4c",
-    "pinterest:8227344"
+    "saronic:c7d08e82-907e-4cee-8b50-bc2970df82f1",
+    "saronic:f33184f4-52ef-4b75-b644-2a7d6d525118",
+    "saronic:76a91bbc-76a7-4987-a6a3-0f3849f644d9",
+    "saronic:4bd52e96-1903-4d2a-8e04-0e4d8851059e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +15,7 @@
   "levelCounts": {
     "intern": 168,
     "new-grad": 25,
-    "experienced": 2220
+    "experienced": 2222
   },
   "companies": [
     {
@@ -71,7 +70,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -1878,7 +1877,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2067,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3431,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 143,
+      "jobCount": 142,
       "error": null,
       "stale": false
     },
@@ -4369,7 +4368,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5705,22 @@
   ],
   "jobs": [
     {
+      "id": "f33184f4-52ef-4b75-b644-2a7d6d525118",
+      "title": "Software Engineer - Forward Deployed",
+      "location": "Austin, TX",
+      "team": "Forward Deployable Eng",
+      "url": "https://jobs.ashbyhq.com/saronic/f33184f4-52ef-4b75-b644-2a7d6d525118",
+      "postedAt": "2026-10-05T20:52:14.935Z",
+      "key": "saronic:f33184f4-52ef-4b75-b644-2a7d6d525118",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T21:10:49.249Z"
+    },
+    {
       "id": "8226682",
       "title": "Engineering Manager - Mobile",
       "location": "United States, Remote",
@@ -5720,6 +5735,54 @@
         "us"
       ],
       "firstSeen": "2026-10-05T20:55:48.922Z"
+    },
+    {
+      "id": "4bd52e96-1903-4d2a-8e04-0e4d8851059e",
+      "title": "Software Engineer - Forward Deployed",
+      "location": "San Diego, CA",
+      "team": "Forward Deployable Eng",
+      "url": "https://jobs.ashbyhq.com/saronic/4bd52e96-1903-4d2a-8e04-0e4d8851059e",
+      "postedAt": "2026-10-05T20:51:26.484Z",
+      "key": "saronic:4bd52e96-1903-4d2a-8e04-0e4d8851059e",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T21:10:49.249Z"
+    },
+    {
+      "id": "76a91bbc-76a7-4987-a6a3-0f3849f644d9",
+      "title": "Senior Software Engineer - Forward Deployed",
+      "location": "Austin, TX",
+      "team": "Forward Deployable Eng",
+      "url": "https://jobs.ashbyhq.com/saronic/76a91bbc-76a7-4987-a6a3-0f3849f644d9",
+      "postedAt": "2026-10-05T20:50:49.187Z",
+      "key": "saronic:76a91bbc-76a7-4987-a6a3-0f3849f644d9",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T21:10:49.249Z"
+    },
+    {
+      "id": "c7d08e82-907e-4cee-8b50-bc2970df82f1",
+      "title": "Senior Software Engineer - Forward Deployed",
+      "location": "Arlington, VA",
+      "team": "Forward Deployable Eng",
+      "url": "https://jobs.ashbyhq.com/saronic/c7d08e82-907e-4cee-8b50-bc2970df82f1",
+      "postedAt": "2026-10-05T20:49:54.018Z",
+      "key": "saronic:c7d08e82-907e-4cee-8b50-bc2970df82f1",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T21:10:49.249Z"
     },
     {
       "id": "5397704008",
@@ -5752,22 +5815,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T20:55:48.922Z"
-    },
-    {
-      "id": "JR2026547",
-      "title": "Performance Engineer - Deep Learning",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer---Deep-Learning_JR2026547",
-      "postedAt": "2026-10-05T20:41:00.301Z",
-      "key": "Nvidia:JR2026547",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T20:40:56.127Z"
     },
     {
       "id": "R29841",
@@ -31124,22 +31171,6 @@
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R170815",
       "postedAt": "2026-09-18T08:10:26.225Z",
       "key": "Adobe:R170815",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
-      "id": "R171674",
-      "title": "Senior Security Automation Engineer, Web & Edge Security",
-      "location": "Seattle",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Senior-Security-Automation-Engineer--Web---Edge-Security_R171674",
-      "postedAt": "2026-09-18T08:10:26.225Z",
-      "key": "Adobe:R171674",
       "company": "Adobe",
       "level": "experienced",
       "term": null,
