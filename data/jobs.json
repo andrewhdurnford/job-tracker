@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T03:20:15.021Z",
+  "generatedAt": "2026-10-05T03:30:27.936Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "rillet:0210e455-5cdf-4ea0-b99e-65ba4843a09d"
+    "meter:e42ac7e5-224c-40a2-8715-3078fc2f6da7"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 159,
     "new-grad": 24,
-    "experienced": 2173
+    "experienced": 2171
   },
   "companies": [
     {
@@ -109,7 +109,7 @@
     {
       "name": "AiPrise",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1755,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3007,7 +3007,7 @@
     {
       "name": "Meter",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4694,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 115,
+      "jobCount": 113,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "e42ac7e5-224c-40a2-8715-3078fc2f6da7",
+      "title": "Technical Lead, MSPs",
+      "location": "United States",
+      "team": "Sales",
+      "url": "https://jobs.ashbyhq.com/meter/e42ac7e5-224c-40a2-8715-3078fc2f6da7",
+      "postedAt": "2026-10-05T03:26:06.056Z",
+      "key": "meter:e42ac7e5-224c-40a2-8715-3078fc2f6da7",
+      "company": "Meter",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T03:30:27.936Z"
+    },
     {
       "id": "0210e455-5cdf-4ea0-b99e-65ba4843a09d",
       "title": "Engineering Manager",
@@ -43068,54 +43084,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-05T09:30:20.956Z"
-    },
-    {
-      "id": "baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
-      "title": "Software Engineer I",
-      "location": "San Jose",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
-      "postedAt": "2026-09-05T03:28:50.607Z",
-      "key": "aiprise:baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
-      "company": "AiPrise",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-05T03:30:20.781Z"
-    },
-    {
-      "id": "8784865002",
-      "title": "Sr. Full Stack Software Engineer ",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8784865002?gh_jid=8784865002",
-      "postedAt": "2026-09-05T03:21:19.000Z",
-      "key": "spacex:8784865002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-05T03:30:20.781Z"
-    },
-    {
-      "id": "8784864002",
-      "title": "Full Stack Software Engineer",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8784864002?gh_jid=8784864002",
-      "postedAt": "2026-09-05T03:20:20.000Z",
-      "key": "spacex:8784864002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-05T03:20:15.906Z"
     },
     {
       "id": "JR2021039",
