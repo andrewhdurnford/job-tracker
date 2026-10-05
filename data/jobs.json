@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-10-05T19:00:26.283Z",
+  "generatedAt": "2026-10-05T19:10:30.786Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "adyen:8160966",
-    "Nvidia:JR2027095",
-    "postscript:8868675002",
-    "spacex:8867352002",
-    "twilio:8067027"
+    "Capital One:R247133",
+    "spacex:8865114002",
+    "spacex:8865055002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +14,7 @@
   "levelCounts": {
     "intern": 164,
     "new-grad": 24,
-    "experienced": 2200
+    "experienced": 2202
   },
   "companies": [
     {
@@ -792,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 251,
+      "jobCount": 252,
       "error": null,
       "stale": false
     },
@@ -3626,10 +3624,10 @@
     },
     {
       "name": "Pelago",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Peloton",
@@ -4698,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 114,
+      "jobCount": 116,
       "error": null,
       "stale": false
     },
@@ -5503,7 +5501,7 @@
     {
       "name": "Webflow",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R247133",
+      "title": "Director, Product Management- Capital One Software (Remote)",
+      "location": "2 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Director--Product-Management--Capital-One-Software--Remote-_R247133-1",
+      "postedAt": "2026-10-05T19:10:34.198Z",
+      "key": "Capital One:R247133",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-05T19:10:30.786Z"
+    },
+    {
+      "id": "8865114002",
+      "title": "Sr. Cybersecurity Engineer (Starshield)",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8865114002?gh_jid=8865114002",
+      "postedAt": "2026-10-05T19:03:43.000Z",
+      "key": "spacex:8865114002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T19:10:30.786Z"
+    },
+    {
+      "id": "8865055002",
+      "title": "Sr. Cybersecurity Engineer (Starshield)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8865055002?gh_jid=8865055002",
+      "postedAt": "2026-10-05T19:03:41.000Z",
+      "key": "spacex:8865055002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T19:10:30.786Z"
+    },
     {
       "id": "JR2027095",
       "title": "Performance Engineer, Deep Learning and HPC",
@@ -5969,7 +6015,7 @@
     },
     {
       "id": "8241790",
-      "title": "People Analytics Data Engineering Intern",
+      "title": "People Analytics Data Engineering Intern (Winter/Spring 2027)",
       "location": "Austin, TX",
       "team": "People & Places",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790",
@@ -5977,7 +6023,14 @@
       "key": "cloudflare:8241790",
       "company": "Cloudflare",
       "level": "intern",
-      "term": null,
+      "term": {
+        "label": "Winter/Spring 2027",
+        "seasons": [
+          "winter",
+          "spring"
+        ],
+        "year": 2027
+      },
       "regions": [
         "us"
       ],
@@ -42504,23 +42557,6 @@
         "us"
       ],
       "firstSeen": "2026-09-08T23:50:19.363Z"
-    },
-    {
-      "id": "8186854",
-      "title": "Senior Forward Deployed Engineer",
-      "location": "CA Remote (BC & ON only); U.S. Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/webflow/jobs/8186854",
-      "postedAt": "2026-09-08T23:22:54.000Z",
-      "key": "webflow:8186854",
-      "company": "Webflow",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-09-08T23:30:21.307Z"
     },
     {
       "id": "8175517",
