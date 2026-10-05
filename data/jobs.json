@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-05T21:10:49.249Z",
+  "generatedAt": "2026-10-05T21:27:43.880Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "saronic:c7d08e82-907e-4cee-8b50-bc2970df82f1",
-    "saronic:f33184f4-52ef-4b75-b644-2a7d6d525118",
-    "saronic:76a91bbc-76a7-4987-a6a3-0f3849f644d9",
-    "saronic:4bd52e96-1903-4d2a-8e04-0e4d8851059e"
+    "anthropic:5440475008",
+    "cribl:6214825004",
+    "pinterest:8231071"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 168,
     "new-grad": 25,
-    "experienced": 2222
+    "experienced": 2225
   },
   "companies": [
     {
@@ -308,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -1232,7 +1231,7 @@
     {
       "name": "Cribl",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1877,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2066,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3759,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6214825004",
+      "title": "Staff Software Engineer, Agentic Tools",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://cribl.io/job-detail/?gh_jid=6214825004",
+      "postedAt": "2026-10-05T21:26:38.000Z",
+      "key": "cribl:6214825004",
+      "company": "Cribl",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T21:27:43.880Z"
+    },
+    {
+      "id": "5440475008",
+      "title": "Software Security Engineer, Secure Frameworks",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440475008",
+      "postedAt": "2026-10-05T21:11:15.000Z",
+      "key": "anthropic:5440475008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T21:27:43.880Z"
+    },
+    {
+      "id": "8231071",
+      "title": "Sr Software Engineer, Monetization Engineering",
+      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8231071",
+      "postedAt": "2026-10-05T21:10:51.000Z",
+      "key": "pinterest:8231071",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T21:27:43.880Z"
+    },
     {
       "id": "f33184f4-52ef-4b75-b644-2a7d6d525118",
       "title": "Software Engineer - Forward Deployed",
