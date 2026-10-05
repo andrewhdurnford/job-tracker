@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-10-05T17:10:16.411Z",
+  "generatedAt": "2026-10-05T17:20:17.495Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "gleanwork:4740088005",
+    "gleanwork:4740092005",
+    "upstart:8256320",
+    "Visa:REF087977W",
+    "waymo:8249941"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +16,7 @@
   "levelCounts": {
     "intern": 162,
     "new-grad": 24,
-    "experienced": 2184
+    "experienced": 2188
   },
   "companies": [
     {
@@ -1422,10 +1428,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": false,
+      "ok": true,
       "jobCount": 18,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Dolls Kill",
@@ -1983,7 +1989,7 @@
     {
       "name": "Glean",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 141,
+      "jobCount": 140,
       "error": null,
       "stale": false
     },
@@ -5301,7 +5307,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5399,7 +5405,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -5476,7 +5482,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5705,87 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF087977W",
+      "title": "Staff Software Engineer, AI Solutions",
+      "location": "US - Denver, CO",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/Staff-Software-Engineer--AI-Solutions_REF087977W-1",
+      "postedAt": "2026-10-05T17:20:20.484Z",
+      "key": "Visa:REF087977W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T17:20:17.495Z"
+    },
+    {
+      "id": "8249941",
+      "title": "Senior Software Engineer, Vehicle Interaction",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8249941",
+      "postedAt": "2026-10-05T17:19:11.000Z",
+      "key": "waymo:8249941",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T17:20:17.495Z"
+    },
+    {
+      "id": "8256320",
+      "title": "Senior Software Engineer",
+      "location": "United States | Remote",
+      "team": null,
+      "url": "https://careers.upstart.com/jobs?gh_jid=8256320",
+      "postedAt": "2026-10-05T17:14:01.000Z",
+      "key": "upstart:8256320",
+      "company": "Upstart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-05T17:20:17.495Z"
+    },
+    {
+      "id": "4740092005",
+      "title": "Senior/Staff Applied Scientist",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4740092005",
+      "postedAt": "2026-10-05T17:13:03.000Z",
+      "key": "gleanwork:4740092005",
+      "company": "Glean",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T17:20:17.495Z"
+    },
+    {
+      "id": "4740088005",
+      "title": "Senior/Staff Applied Scientist",
+      "location": "Mountain View, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4740088005",
+      "postedAt": "2026-10-05T17:13:00.000Z",
+      "key": "gleanwork:4740088005",
+      "company": "Glean",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T17:20:17.495Z"
+    },
     {
       "id": "REF080828W",
       "title": "Senior Staff Software Engineer (Sr. Consultant) - GenAI Enablement",
@@ -9183,22 +9270,6 @@
         "us"
       ],
       "firstSeen": "2026-10-01T21:40:24.577Z"
-    },
-    {
-      "id": "JR2026064",
-      "title": "Senior Databricks Developer, SAP S/4 Data Products and Governance",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Databricks-Developer--SAP-S-4-Data-Products-and-Governance_JR2026064",
-      "postedAt": "2026-10-01T21:20:21.280Z",
-      "key": "Nvidia:JR2026064",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T21:20:16.865Z"
     },
     {
       "id": "8861764002",
