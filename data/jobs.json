@@ -1,19 +1,22 @@
 {
-  "generatedAt": "2026-10-05T14:20:22.467Z",
+  "generatedAt": "2026-10-05T14:30:22.765Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Capital One:R1002960",
-    "twilio:8227365"
+    "Capital One:R1002165",
+    "urbancompass:8256185",
+    "urbancompass:8256186",
+    "urbancompass:8226312",
+    "rescale:7000359c-888c-4686-a17f-513a75d883a0"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 160,
+    "intern": 161,
     "new-grad": 24,
-    "experienced": 2164
+    "experienced": 2165
   },
   "companies": [
     {
@@ -789,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 244,
+      "jobCount": 245,
       "error": null,
       "stale": false
     },
@@ -1097,7 +1100,7 @@
     {
       "name": "Compass",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1314,7 +1317,7 @@
     {
       "name": "Dataiku",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3211,7 +3214,7 @@
     {
       "name": "Nabla Bio",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4170,7 +4173,7 @@
     {
       "name": "Rescale",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4387,7 +4390,7 @@
     {
       "name": "Security Scorecard",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,92 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002165",
+      "title": "Intern, Data Scientist - Summer 2027",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
+      "postedAt": "2026-10-05T14:30:26.257Z",
+      "key": "Capital One:R1002165",
+      "company": "Capital One",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-05T14:30:22.765Z"
+    },
+    {
+      "id": "8256186",
+      "title": "Senior Software Engineer - Mobile, iOS ",
+      "location": "Seattle",
+      "team": null,
+      "url": "https://www.compass.com/careers?gh_jid=8256186",
+      "postedAt": "2026-10-05T14:23:38.000Z",
+      "key": "urbancompass:8256186",
+      "company": "Compass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T14:30:22.765Z"
+    },
+    {
+      "id": "8256185",
+      "title": "Senior Software Engineer - Mobile, iOS ",
+      "location": "Boston",
+      "team": null,
+      "url": "https://www.compass.com/careers?gh_jid=8256185",
+      "postedAt": "2026-10-05T14:23:36.000Z",
+      "key": "urbancompass:8256185",
+      "company": "Compass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T14:30:22.765Z"
+    },
+    {
+      "id": "8226312",
+      "title": "Senior Software Engineer - Mobile, iOS ",
+      "location": "New York",
+      "team": null,
+      "url": "https://www.compass.com/careers?gh_jid=8226312",
+      "postedAt": "2026-10-05T14:23:35.000Z",
+      "key": "urbancompass:8226312",
+      "company": "Compass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T14:30:22.765Z"
+    },
+    {
+      "id": "7000359c-888c-4686-a17f-513a75d883a0",
+      "title": "Software Engineer, AI Systems",
+      "location": "Remote (United States)",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/rescale/7000359c-888c-4686-a17f-513a75d883a0",
+      "postedAt": "2026-10-05T14:20:51.257Z",
+      "key": "rescale:7000359c-888c-4686-a17f-513a75d883a0",
+      "company": "Rescale",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T14:30:22.765Z"
+    },
     {
       "id": "R1002960",
       "title": "Full-stack Engineer 4",
@@ -29545,22 +29634,6 @@
       "firstSeen": "2026-09-18T11:50:17.466Z"
     },
     {
-      "id": "67f41562-cabb-4c75-8841-7ea113065ed8",
-      "title": "SRE / Backend Engineer",
-      "location": "New York office",
-      "team": "Back-end Engineering",
-      "url": "https://jobs.ashbyhq.com/nabla/67f41562-cabb-4c75-8841-7ea113065ed8",
-      "postedAt": "2026-09-18T11:25:07.366Z",
-      "key": "nabla:67f41562-cabb-4c75-8841-7ea113065ed8",
-      "company": "Nabla Bio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T11:30:22.061Z"
-    },
-    {
       "id": "cefcda32-523e-418b-a327-383104741153",
       "title": "Senior Backend Engineer, Home Surfaces",
       "location": "New York, NY (+1 more)",
@@ -37137,22 +37210,6 @@
       "firstSeen": "2026-09-14T11:20:18.967Z"
     },
     {
-      "id": "6186412004",
-      "title": "Sr Data Scientist",
-      "location": "United States, New York",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/dataiku/jobs/6186412004",
-      "postedAt": "2026-09-14T05:15:34.000Z",
-      "key": "dataiku:6186412004",
-      "company": "Dataiku",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-17T10:30:25.430Z"
-    },
-    {
       "id": "JR1999599",
       "title": "Senior Firmware Engineer – CSP Engagements",
       "location": "US, CA, Santa Clara",
@@ -41536,23 +41593,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-09-09T14:10:56.723Z"
-    },
-    {
-      "id": "8188422",
-      "title": "Senior Forward Deployed Engineer",
-      "location": "Remote (US and Canada)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/8188422",
-      "postedAt": "2026-09-09T14:06:56.000Z",
-      "key": "securityscorecard:8188422",
-      "company": "Security Scorecard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
       ],
       "firstSeen": "2026-09-09T14:10:56.723Z"
     },
