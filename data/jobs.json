@@ -1,20 +1,24 @@
 {
-  "generatedAt": "2026-10-05T19:36:03.559Z",
+  "generatedAt": "2026-10-05T20:05:36.448Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "nuro:8248317",
-    "ophelia:5443572008",
-    "quindar:a4e0c464-decb-410b-897b-ea039203c33e"
+    "anthropic:5383714008",
+    "epicgames:6200776004",
+    "epicgames:6217211004",
+    "Visa:REF088770W",
+    "Visa:REF088944W",
+    "waymo:8257159",
+    "waymo:8257205"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 164,
+    "intern": 166,
     "new-grad": 25,
-    "experienced": 2203
+    "experienced": 2207
   },
   "companies": [
     {
@@ -307,7 +311,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -1616,7 +1620,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4699,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 116,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 115,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5403,7 +5407,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5484,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 52,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5708,130 @@
   ],
   "jobs": [
     {
+      "id": "REF088770W",
+      "title": "Senior Software Engineer - SDET",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Sr-SW-Engineer--Software-Engineering---Analyst---Team-Lead_REF088770W",
+      "postedAt": "2026-10-05T20:05:40.065Z",
+      "key": "Visa:REF088770W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T20:05:36.448Z"
+    },
+    {
+      "id": "REF088944W",
+      "title": "Sr. SW Engineer - SDET",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Sr-SW-Engineer--Software-Engineering---Analyst---Team-Lead_REF088944W",
+      "postedAt": "2026-10-05T20:05:40.065Z",
+      "key": "Visa:REF088944W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T20:05:36.448Z"
+    },
+    {
+      "id": "5383714008",
+      "title": "AV Engineer, Platform & Automation",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008",
+      "postedAt": "2026-10-05T20:05:29.000Z",
+      "key": "anthropic:5383714008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T20:05:36.448Z"
+    },
+    {
+      "id": "8257205",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
+      "postedAt": "2026-10-05T19:44:22.000Z",
+      "key": "waymo:8257205",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T20:05:36.448Z"
+    },
+    {
+      "id": "8257159",
+      "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257159",
+      "postedAt": "2026-10-05T19:41:27.000Z",
+      "key": "waymo:8257159",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T20:05:36.448Z"
+    },
+    {
+      "id": "6217211004",
+      "title": "Senior Programmer, AI and Creation Tools ",
+      "location": "Vancouver,British Columbia,Canada",
+      "team": "Engineering Generalist",
+      "url": "https://epicgames.com/careers/jobs/6217211004?gh_jid=6217211004",
+      "postedAt": "2026-10-05T19:37:45.000Z",
+      "key": "epicgames:6217211004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-05T20:05:36.448Z"
+    },
+    {
+      "id": "6200776004",
+      "title": "Senior Programmer, AI and Creation Tools ",
+      "location": "Cary,North Carolina,United States",
+      "team": "Engineering Generalist",
+      "url": "https://epicgames.com/careers/jobs/6200776004?gh_jid=6200776004",
+      "postedAt": "2026-10-05T19:37:41.000Z",
+      "key": "epicgames:6200776004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T20:05:36.448Z"
+    },
+    {
       "id": "5443572008",
       "title": "Senior Site Reliability Engineer (Systems Engineer III)",
       "location": "United States",
@@ -5792,22 +5920,6 @@
       "postedAt": "2026-10-05T19:00:30.069Z",
       "key": "Nvidia:JR2027095",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T19:00:26.283Z"
-    },
-    {
-      "id": "8867352002",
-      "title": "CNC Programmer (Starship Components)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8867352002?gh_jid=8867352002",
-      "postedAt": "2026-10-05T18:58:19.000Z",
-      "key": "spacex:8867352002",
-      "company": "SpaceX",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -34358,7 +34470,7 @@
     },
     {
       "id": "29922",
-      "title": "Senior Security Platform Engineer",
+      "title": "Security Platform Engineer",
       "location": "US-SFO-Main",
       "team": "Security",
       "url": "https://indiacareers-docusign.icims.com/jobs/29922/login",
