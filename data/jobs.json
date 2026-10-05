@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-10-05T14:30:22.765Z",
+  "generatedAt": "2026-10-05T14:40:18.718Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1002165",
-    "urbancompass:8256185",
-    "urbancompass:8256186",
-    "urbancompass:8226312",
-    "rescale:7000359c-888c-4686-a17f-513a75d883a0"
+    "Nvidia:JR2026233",
+    "Tempus AI:JR202601035",
+    "vanta:e8ed04e4-28ab-4108-95da-6282e9d6bf86"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +14,7 @@
   "levelCounts": {
     "intern": 161,
     "new-grad": 24,
-    "experienced": 2165
+    "experienced": 2168
   },
   "companies": [
     {
@@ -3431,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 138,
+      "jobCount": 139,
       "error": null,
       "stale": false
     },
@@ -4753,10 +4751,10 @@
     },
     {
       "name": "Squire Technologies",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Stability AI",
@@ -5041,7 +5039,7 @@
     {
       "name": "Tempus AI",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5328,7 +5326,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026233",
+      "title": "AI Engineering Manager - Finance",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Engineering-Manager---Finance_JR2026233",
+      "postedAt": "2026-10-05T14:40:22.100Z",
+      "key": "Nvidia:JR2026233",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T14:40:18.718Z"
+    },
+    {
+      "id": "JR202601035",
+      "title": "Staff Engineer, RPM Growth & Platform",
+      "location": "New York City",
+      "team": null,
+      "url": "https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/New-York-City/Staff-Engineer--RPM-Growth---Platform_JR202601035",
+      "postedAt": "2026-10-05T14:40:21.358Z",
+      "key": "Tempus AI:JR202601035",
+      "company": "Tempus AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T14:40:18.718Z"
+    },
+    {
+      "id": "e8ed04e4-28ab-4108-95da-6282e9d6bf86",
+      "title": "Staff Software Engineer, Program Structure & Trust",
+      "location": "Remote - Canada",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/e8ed04e4-28ab-4108-95da-6282e9d6bf86",
+      "postedAt": "2026-10-05T14:39:03.511Z",
+      "key": "vanta:e8ed04e4-28ab-4108-95da-6282e9d6bf86",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-05T14:40:18.718Z"
+    },
     {
       "id": "R1002165",
       "title": "Intern, Data Scientist - Summer 2027",
