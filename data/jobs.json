@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-05T16:50:17.100Z",
+  "generatedAt": "2026-10-05T17:00:24.208Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "DocuSign:30468",
-    "langchain:e10513d4-1b8d-492f-a6af-94bdae366a1a",
-    "samsara:8141959",
-    "samsara:8250423"
+    "Capital One:R1002994",
+    "perplexity:71abd198-5a69-4837-aa59-df8eeb9e02eb",
+    "Visa:REF080828W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 162,
     "new-grad": 24,
-    "experienced": 2182
+    "experienced": 2184
   },
   "companies": [
     {
@@ -791,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 249,
+      "jobCount": 250,
       "error": null,
       "stale": false
     },
@@ -939,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1758,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1987,10 +1986,10 @@
     },
     {
       "name": "Glean",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Glimpse",
@@ -2086,7 +2085,7 @@
     {
       "name": "Greenboard",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3675,7 +3674,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5404,7 +5403,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF080828W",
+      "title": "Senior Staff Software Engineer (Sr. Consultant) - GenAI Enablement",
+      "location": "US - Ashburn, VA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Software-Engineer-Sr-Consultant---Fullstack-GenAI-Engineering_REF080828W-1",
+      "postedAt": "2026-10-05T17:00:29.185Z",
+      "key": "Visa:REF080828W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T17:00:24.208Z"
+    },
+    {
+      "id": "R1002994",
+      "title": "Manager, Data Science - Consumer and Developer Experience (Remote-Eligible)",
+      "location": "7 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Data-Science---Consumer-and-Developer-Experience--Remote-Eligible-_R1002994-2",
+      "postedAt": "2026-10-05T17:00:28.059Z",
+      "key": "Capital One:R1002994",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-05T17:00:24.208Z"
+    },
+    {
+      "id": "71abd198-5a69-4837-aa59-df8eeb9e02eb",
+      "title": "Member of Data Staff (Analytics Engineer)",
+      "location": "San Francisco (+1 more)",
+      "team": "Data Science",
+      "url": "https://jobs.ashbyhq.com/perplexity/71abd198-5a69-4837-aa59-df8eeb9e02eb",
+      "postedAt": "2026-10-05T16:54:33.687Z",
+      "key": "perplexity:71abd198-5a69-4837-aa59-df8eeb9e02eb",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T17:00:24.208Z"
+    },
     {
       "id": "8250423",
       "title": "Data Engineer",
@@ -7069,7 +7116,7 @@
     },
     {
       "id": "1ebb1380-17b4-472b-86c1-2bbfa6f53b8a",
-      "title": "Staff Cloud Support Engineer",
+      "title": "Cloud Support Engineer",
       "location": "US-CA-Dublin",
       "team": "Global Support",
       "url": "https://jobs.ashbyhq.com/snowflake/1ebb1380-17b4-472b-86c1-2bbfa6f53b8a",
@@ -40953,22 +41000,6 @@
       "postedAt": "2026-09-09T21:20:25.057Z",
       "key": "Visa:REF087840W",
       "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T21:20:21.015Z"
-    },
-    {
-      "id": "e5deef5b-8667-48d7-be48-a0b6616eaba5",
-      "title": "Software Engineer (2027 Grads)",
-      "location": "New York City",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/greenboard/e5deef5b-8667-48d7-be48-a0b6616eaba5",
-      "postedAt": "2026-09-09T21:12:46.014Z",
-      "key": "greenboard:e5deef5b-8667-48d7-be48-a0b6616eaba5",
-      "company": "Greenboard",
       "level": "experienced",
       "term": null,
       "regions": [
