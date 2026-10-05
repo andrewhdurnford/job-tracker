@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-05T18:20:17.487Z",
+  "generatedAt": "2026-10-05T18:30:23.192Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "DocuSign:30471",
-    "okta:8256688",
-    "xai:5256538007"
+    "airbnb:8250093",
+    "elastic:8244449",
+    "mux:bd297d04-e5c5-4ee9-9a3f-db0951825e2d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 164,
     "new-grad": 24,
-    "experienced": 2193
+    "experienced": 2195
   },
   "companies": [
     {
@@ -69,7 +69,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 52,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -118,7 +118,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -1525,7 +1525,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3170,7 +3170,7 @@
     {
       "name": "Mux",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3799,10 +3799,10 @@
     },
     {
       "name": "Poll Everywhere",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Polymath",
@@ -3841,10 +3841,10 @@
     },
     {
       "name": "PostEra",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Postman",
@@ -5704,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "8244449",
+      "title": "Analytics Engineer, HR Analytics",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449",
+      "postedAt": "2026-10-05T18:27:13.000Z",
+      "key": "elastic:8244449",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T18:30:23.192Z"
+    },
+    {
+      "id": "8250093",
+      "title": "Senior Software Engineer, Native Mobile ",
+      "location": "Remote, USA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8250093?gh_jid=8250093",
+      "postedAt": "2026-10-05T18:23:07.000Z",
+      "key": "airbnb:8250093",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T18:30:23.192Z"
+    },
+    {
       "id": "5256538007",
       "title": "Expert Team Lead, SWE",
       "location": " Palo Alto, CA; Asia; Australia; Canada; Europe; Remote International; Remote US; US",
@@ -5768,6 +5800,22 @@
         "us"
       ],
       "firstSeen": "2026-10-05T18:10:16.075Z"
+    },
+    {
+      "id": "bd297d04-e5c5-4ee9-9a3f-db0951825e2d",
+      "title": "Senior Full Stack Engineer",
+      "location": "Remote, United States",
+      "team": "Engineering ",
+      "url": "https://jobs.ashbyhq.com/mux/bd297d04-e5c5-4ee9-9a3f-db0951825e2d",
+      "postedAt": "2026-10-05T18:03:19.609Z",
+      "key": "mux:bd297d04-e5c5-4ee9-9a3f-db0951825e2d",
+      "company": "Mux",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T18:30:23.192Z"
     },
     {
       "id": "R1002710",
@@ -12175,7 +12223,7 @@
     },
     {
       "id": "8008515003",
-      "title": "Senior Full Stack Engineer",
+      "title": "Senior Full Stack Engineer (Multiple Positions)",
       "location": "Remote - US",
       "team": null,
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8008515003",
@@ -12191,7 +12239,7 @@
     },
     {
       "id": "8007085003",
-      "title": "Full Stack Engineer",
+      "title": "Full Stack Engineer (Multiple Positions)",
       "location": "Remote - US",
       "team": null,
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8007085003",
@@ -12223,7 +12271,7 @@
     },
     {
       "id": "8007080003",
-      "title": "Backend Engineer",
+      "title": "Backend Engineer (Multiple Positions)",
       "location": "Remote - US",
       "team": null,
       "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8007080003",
@@ -30367,22 +30415,6 @@
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Vice-President--Product-and-Software-Security_R171443",
       "postedAt": "2026-09-18T08:10:33.518Z",
       "key": "Adobe:R171443",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
-      "id": "R170212",
-      "title": "Senior Applied Scientist / Engineer, Training & Inference",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Applied-Scientist---Engineer--Training---Inference_R170212",
-      "postedAt": "2026-09-18T08:10:32.112Z",
-      "key": "Adobe:R170212",
       "company": "Adobe",
       "level": "experienced",
       "term": null,
