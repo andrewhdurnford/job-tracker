@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-10-05T15:50:17.113Z",
+  "generatedAt": "2026-10-05T16:00:26.608Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "anthropic:5440636008"
+    "abnormalsecurity:8011780003",
+    "Capital One:R1002799",
+    "Capital One:R1002798",
+    "kraken.com:ed60fdf0-f4b2-4657-864d-b09ea5903423",
+    "langchain:d81c35c1-7243-45e4-bfe2-7fc8746c76b9",
+    "Nvidia:JR2026418",
+    "verkada:5256850007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +18,7 @@
   "levelCounts": {
     "intern": 161,
     "new-grad": 24,
-    "experienced": 2173
+    "experienced": 2179
   },
   "companies": [
     {
@@ -32,7 +38,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -788,7 +794,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 245,
+      "jobCount": 247,
       "error": null,
       "stale": false
     },
@@ -2636,7 +2642,7 @@
     {
       "name": "Kraken",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2678,7 +2684,7 @@
     {
       "name": "LangChain",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2896,7 +2902,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3427,7 +3433,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 140,
+      "jobCount": 141,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5707,118 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026418",
+      "title": "Principal Software Engineer, Distributed Query Engines - Analytics and Data Intelligence",
+      "location": "China, Shanghai",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Principal-Software-Engineer--Distributed-Query-Engines---Analytics-and-Data-Intelligence_JR2026418",
+      "postedAt": "2026-10-05T16:00:30.816Z",
+      "key": "Nvidia:JR2026418",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-05T16:00:26.608Z"
+    },
+    {
+      "id": "R1002798",
+      "title": "Full-Stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1002798-1",
+      "postedAt": "2026-10-05T16:00:29.977Z",
+      "key": "Capital One:R1002798",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T16:00:26.608Z"
+    },
+    {
+      "id": "R1002799",
+      "title": "Full-Stack Engineer 4 (Java, Python, AWS)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4--Java--Python--AWS-_R1002799-1",
+      "postedAt": "2026-10-05T16:00:29.977Z",
+      "key": "Capital One:R1002799",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T16:00:26.608Z"
+    },
+    {
+      "id": "8011780003",
+      "title": "Senior ServiceNow Platform Engineer",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://abnormal.ai/careers/jobs/8011780003?gh_jid=8011780003",
+      "postedAt": "2026-10-05T15:58:26.000Z",
+      "key": "abnormalsecurity:8011780003",
+      "company": "Abnormal Security",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T16:00:26.608Z"
+    },
+    {
+      "id": "d81c35c1-7243-45e4-bfe2-7fc8746c76b9",
+      "title": "Software Engineering Manager, Database (SmithDB)",
+      "location": "San Francisco, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/langchain/d81c35c1-7243-45e4-bfe2-7fc8746c76b9",
+      "postedAt": "2026-10-05T15:57:07.676Z",
+      "key": "langchain:d81c35c1-7243-45e4-bfe2-7fc8746c76b9",
+      "company": "LangChain",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T16:00:26.608Z"
+    },
+    {
+      "id": "5256850007",
+      "title": "Senior Frontend Engineer - Access Control",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5256850007",
+      "postedAt": "2026-10-05T15:56:27.000Z",
+      "key": "verkada:5256850007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T16:00:26.608Z"
+    },
+    {
+      "id": "ed60fdf0-f4b2-4657-864d-b09ea5903423",
+      "title": "Infrastructure Engineer - Core Platform",
+      "location": "LATAM (+10 more)",
+      "team": "Core Infrastructure",
+      "url": "https://jobs.ashbyhq.com/kraken.com/ed60fdf0-f4b2-4657-864d-b09ea5903423",
+      "postedAt": "2026-10-05T15:50:45.930Z",
+      "key": "kraken.com:ed60fdf0-f4b2-4657-864d-b09ea5903423",
+      "company": "Kraken",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-05T16:00:26.608Z"
+    },
     {
       "id": "5440636008",
       "title": "Data Center Engineer, Reliability & Infrastructure Management – Compute Supply",
@@ -41891,22 +42009,6 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5233100007",
       "postedAt": "2026-09-09T02:39:59.000Z",
       "key": "verkada:5233100007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T02:40:20.475Z"
-    },
-    {
-      "id": "5233094007",
-      "title": "Senior Frontend Engineer - Access Control",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5233094007",
-      "postedAt": "2026-09-09T02:37:35.000Z",
-      "key": "verkada:5233094007",
       "company": "Verkada",
       "level": "experienced",
       "term": null,
