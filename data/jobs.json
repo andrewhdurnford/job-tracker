@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-05T22:40:16.398Z",
+  "generatedAt": "2026-10-05T22:50:18.320Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "pinterest:7957635"
+    "elastic:8257322",
+    "netlify:8859322002",
+    "Nvidia:JR2025776"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 168,
     "new-grad": 25,
-    "experienced": 2227
+    "experienced": 2230
   },
   "companies": [
     {
@@ -1523,7 +1525,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2917,7 +2919,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3280,7 +3282,7 @@
     {
       "name": "Netlify",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 143,
+      "jobCount": 144,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025776",
+      "title": "Senior DevOps Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-Engineer_JR2025776",
+      "postedAt": "2026-10-05T22:50:22.335Z",
+      "key": "Nvidia:JR2025776",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T22:50:18.320Z"
+    },
+    {
+      "id": "8257322",
+      "title": "Full-Stack Senior Software Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8257322&gh_jid=8257322",
+      "postedAt": "2026-10-05T22:48:51.000Z",
+      "key": "elastic:8257322",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-05T22:50:18.320Z"
+    },
+    {
+      "id": "8859322002",
+      "title": "Senior Staff Data Scientist",
+      "location": "Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/netlify/jobs/8859322002",
+      "postedAt": "2026-10-05T22:42:55.000Z",
+      "key": "netlify:8859322002",
+      "company": "Netlify",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-05T22:50:18.320Z"
+    },
     {
       "id": "7957635",
       "title": "Manager II, Engineering, Ads Serving Infrastructure",
