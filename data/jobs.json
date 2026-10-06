@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-06T00:40:16.331Z",
+  "generatedAt": "2026-10-06T00:50:17.166Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "airbnb:8257909",
+    "coinbase:8172100"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 168,
     "new-grad": 25,
-    "experienced": 2237
+    "experienced": 2239
   },
   "companies": [
     {
@@ -114,7 +117,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1052,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5699,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8257909",
+      "title": "Staff Software Engineer, Cloud Infrastructure ",
+      "location": "Remote, USA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8257909?gh_jid=8257909",
+      "postedAt": "2026-10-06T00:47:52.000Z",
+      "key": "airbnb:8257909",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T00:50:17.166Z"
+    },
     {
       "id": "8247229",
       "title": "Principal Data Scientist - Safety",
@@ -42103,6 +42122,22 @@
         "us"
       ],
       "firstSeen": "2026-09-09T20:50:17.037Z"
+    },
+    {
+      "id": "8172100",
+      "title": "Senior Software Engineer, Core Infra Systems",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8172100?gh_jid=8172100",
+      "postedAt": "2026-09-09T20:45:59.000Z",
+      "key": "coinbase:8172100",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T00:50:17.166Z"
     },
     {
       "id": "2ec57f9e-fde9-4e70-8cb5-e21eeb15abfb",
