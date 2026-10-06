@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-06T19:40:17.747Z",
+  "generatedAt": "2026-10-06T19:50:21.613Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "shieldai:2a5b30f5-ddd6-4d18-abca-6898ad5b7bbe"
+    "Capital One:R1001099",
+    "CrowdStrike:R28302",
+    "gusto:8244969"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 166,
     "new-grad": 26,
-    "experienced": 2280
+    "experienced": 2283
   },
   "companies": [
     {
@@ -788,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 256,
+      "jobCount": 257,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -1874,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2104,7 +2106,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2917,7 +2919,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R28302",
+      "title": "EII Cloud Software Engineer - Cloud (Hybrid)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Cloud--Hybrid-_R28302",
+      "postedAt": "2026-10-06T19:50:26.148Z",
+      "key": "CrowdStrike:R28302",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T19:50:21.613Z"
+    },
+    {
+      "id": "R1001099",
+      "title": "Staff Software Engineer - Capital One Travel Tech - Full-stack",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Software-Engineer---Capital-One-Travel-Tech---Full-stack_R1001099-1",
+      "postedAt": "2026-10-06T19:50:25.210Z",
+      "key": "Capital One:R1001099",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-06T19:50:21.613Z"
+    },
+    {
+      "id": "8244969",
+      "title": "Staff Software Engineer, PEO",
+      "location": "San Francisco, CA - Hybrid",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8244969",
+      "postedAt": "2026-10-06T19:45:21.000Z",
+      "key": "gusto:8244969",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T19:50:21.613Z"
+    },
     {
       "id": "2a5b30f5-ddd6-4d18-abca-6898ad5b7bbe",
       "title": "Chief Engineer, Air Vehicle Lead - MMA",
@@ -14214,7 +14264,7 @@
     },
     {
       "id": "8241309",
-      "title": "Staff Software Engineer, SecureAI",
+      "title": "Staff Backend Software Engineer, SecureAI",
       "location": "Toronto, Ontario, Canada",
       "team": null,
       "url": "https://www.okta.com/company/careers/opportunity/8241309?gh_jid=8241309",
@@ -43902,7 +43952,7 @@
     {
       "id": "d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
       "title": "Software Engineer, New Grad 2027",
-      "location": "San Francisco (+1 more)",
+      "location": "San Francisco (+2 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
       "postedAt": "2026-09-08T23:51:35.588Z",
