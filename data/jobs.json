@@ -1,12 +1,14 @@
 {
-  "generatedAt": "2026-10-06T20:30:19.294Z",
+  "generatedAt": "2026-10-06T20:40:17.331Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "Capital One:R1003046",
-    "Capital One:R1003143",
-    "commure:39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
-    "commure:ee0220cc-ecec-413f-a22a-4d4d229683de"
+    "Capital One:R1003048",
+    "Capital One:R1003032",
+    "coinbase:8257904",
+    "fastly:8256238",
+    "fastly:8249951",
+    "openai:2796d32a-9f7c-4008-a2c5-50dd53b0f2fe"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,8 +16,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 171,
-    "new-grad": 28,
-    "experienced": 2283
+    "new-grad": 29,
+    "experienced": 2288
   },
   "companies": [
     {
@@ -791,7 +793,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 260,
+      "jobCount": 262,
       "error": null,
       "stale": false
     },
@@ -1057,7 +1059,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -1694,7 +1696,7 @@
     {
       "name": "Fastly",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3514,7 +3516,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 63,
+      "jobCount": 64,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5707,102 @@
   ],
   "jobs": [
     {
+      "id": "R1003048",
+      "title": "Associate, Software Engineer, New Grad",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003048",
+      "postedAt": "2026-10-06T20:40:20.758Z",
+      "key": "Capital One:R1003048",
+      "company": "Capital One",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-06T20:40:17.331Z"
+    },
+    {
+      "id": "R1003032",
+      "title": "Full-stack Engineer 4 (Manager IC - Vue JS, Java Script, AWS)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Manager-IC---Vue-JS--Java-Script--AWS-_R1003032-1",
+      "postedAt": "2026-10-06T20:40:20.758Z",
+      "key": "Capital One:R1003032",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T20:40:17.331Z"
+    },
+    {
+      "id": "8257904",
+      "title": "Blockchain Security Engineer",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8257904?gh_jid=8257904",
+      "postedAt": "2026-10-06T20:38:17.000Z",
+      "key": "coinbase:8257904",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T20:40:17.331Z"
+    },
+    {
+      "id": "8249951",
+      "title": "Staff Software Engineer, Compute Platform",
+      "location": "Denver, CO; San Francisco, CA",
+      "team": null,
+      "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8249951",
+      "postedAt": "2026-10-06T20:37:53.000Z",
+      "key": "fastly:8249951",
+      "company": "Fastly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T20:40:17.331Z"
+    },
+    {
+      "id": "2796d32a-9f7c-4008-a2c5-50dd53b0f2fe",
+      "title": "Data Engineer, Core Experimentation",
+      "location": "Seattle",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe",
+      "postedAt": "2026-10-06T20:36:36.917Z",
+      "key": "openai:2796d32a-9f7c-4008-a2c5-50dd53b0f2fe",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T20:40:17.331Z"
+    },
+    {
+      "id": "8256238",
+      "title": "Software Engineer - Platform Observability and Intelligence",
+      "location": "New York City, NY; San Francisco, CA",
+      "team": null,
+      "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8256238",
+      "postedAt": "2026-10-06T20:36:13.000Z",
+      "key": "fastly:8256238",
+      "company": "Fastly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T20:40:17.331Z"
+    },
+    {
       "id": "R1003046",
       "title": "Associate, Software Engineer, New Grad",
       "location": "Toronto, ON",
@@ -5857,7 +5955,7 @@
     },
     {
       "id": "8817974002",
-      "title": "Software Engineer Intern, Machine Learning, PhD (Summer 2027)",
+      "title": "PhD Software Engineer Intern, Machine Learning (Summer 2027)",
       "location": "San Francisco, CA",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
