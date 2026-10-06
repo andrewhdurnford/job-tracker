@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-06T17:20:18.556Z",
+  "generatedAt": "2026-10-06T17:30:20.480Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Visa:REF081637W"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 143,
+      "jobCount": 142,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 117,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5399,7 +5401,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF081637W",
+      "title": "Software Development Engineer- Product Reliability Engineering",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Software-Development-Engineer--Product-Reliability-Engineering_REF081637W",
+      "postedAt": "2026-10-06T17:30:24.538Z",
+      "key": "Visa:REF081637W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T17:30:20.480Z"
+    },
     {
       "id": "R172283",
       "title": "Sr. Director, AI, Data Science & Engineering",
@@ -45825,22 +45843,6 @@
         "us"
       ],
       "firstSeen": "2026-08-20T22:30:20.385Z"
-    },
-    {
-      "id": "JR2017846",
-      "title": "Senior Embedded Software Engineer, DPU - Networking",
-      "location": "US, MA, Westford",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-Software-Engineer--DPU---Networking_JR2017846",
-      "postedAt": "2026-08-11T19:50:36.184Z",
-      "key": "Nvidia:JR2017846",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-17T19:50:17.998Z"
     },
     {
       "id": "5209443007",
