@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-10-06T20:50:18.800Z",
+  "generatedAt": "2026-10-06T21:00:27.007Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1003167",
-    "close:c9a73dd2-e5fa-491f-9736-039d08c86f01"
+    "pinterest:8131793",
+    "waymo:8257660",
+    "waymo:8250220"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 171,
+    "intern": 172,
     "new-grad": 29,
-    "experienced": 2289
+    "experienced": 2288
   },
   "companies": [
     {
@@ -565,7 +566,7 @@
     {
       "name": "Bill.com",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -937,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1055,7 +1056,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -1875,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2356,10 +2357,10 @@
     },
     {
       "name": "Inceptive",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Included Health",
@@ -3623,10 +3624,10 @@
     },
     {
       "name": "Pelago",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Peloton",
@@ -3757,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4233,7 +4234,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 117,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5479,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 55,
+      "jobCount": 57,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,66 @@
   ],
   "jobs": [
     {
+      "id": "8257660",
+      "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660",
+      "postedAt": "2026-10-06T20:59:12.000Z",
+      "key": "waymo:8257660",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T21:00:27.007Z"
+    },
+    {
+      "id": "8131793",
+      "title": "Staff Software Engineer, App Promotion ",
+      "location": "San Francisco, CA, US; Seattle, WA, US; Remote, CA, WA, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8131793",
+      "postedAt": "2026-10-06T20:52:55.000Z",
+      "key": "pinterest:8131793",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T21:00:27.007Z"
+    },
+    {
+      "id": "8250220",
+      "title": "2027 Summer Intern, MS, PhD, Software Engineer ",
+      "location": "Mountain View, California, United States",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
+      "postedAt": "2026-10-06T20:50:50.000Z",
+      "key": "waymo:8250220",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T21:00:27.007Z"
+    },
+    {
       "id": "R1003167",
       "title": "Full-stack Engineer 4 (AWS, Java/ Python, Database, Go)",
       "location": "Chicago, IL",
@@ -5759,22 +5820,6 @@
       "postedAt": "2026-10-06T20:40:20.758Z",
       "key": "Capital One:R1003032",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T20:40:17.331Z"
-    },
-    {
-      "id": "8257904",
-      "title": "Blockchain Security Engineer",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8257904?gh_jid=8257904",
-      "postedAt": "2026-10-06T20:38:17.000Z",
-      "key": "coinbase:8257904",
-      "company": "Coinbase",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -9436,22 +9481,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T00:10:17.411Z"
-    },
-    {
-      "id": "6206053004",
-      "title": "Software Engineer II",
-      "location": "United States",
-      "team": null,
-      "url": "https://www.bill.com/job?6206053004&gh_jid=6206053004",
-      "postedAt": "2026-10-04T20:17:09.000Z",
-      "key": "billcom:6206053004",
-      "company": "Bill.com",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-04T20:20:18.666Z"
     },
     {
       "id": "3b116b4f-d264-4ac4-92cb-deacdd7656ef",
@@ -31636,28 +31665,6 @@
       "firstSeen": "2026-09-18T18:50:17.587Z"
     },
     {
-      "id": "8214142",
-      "title": "Offensive Security Intern (Summer 2027)",
-      "location": "Bellevue, WA; Menlo Park, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src=&gh_jid=8214142",
-      "postedAt": "2026-09-18T18:42:52.000Z",
-      "key": "robinhood:8214142",
-      "company": "Robinhood",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T19:30:22.079Z"
-    },
-    {
       "id": "5238468007",
       "title": "Research Intern, Frontier Agents (Summer 2027)",
       "location": "San Francisco",
@@ -41261,7 +41268,7 @@
     {
       "id": "9b596ab8-0df4-41aa-85da-e07578c082b2",
       "title": "Product Security Engineer, North Security",
-      "location": "Canada",
+      "location": "Toronto (+5 more)",
       "team": "Product Security",
       "url": "https://jobs.ashbyhq.com/cohere/9b596ab8-0df4-41aa-85da-e07578c082b2",
       "postedAt": "2026-09-11T10:28:01.342Z",
