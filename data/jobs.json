@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T00:50:17.166Z",
+  "generatedAt": "2026-10-06T01:00:22.161Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "airbnb:8257909",
-    "coinbase:8172100"
+    "elastic:8244449",
+    "omadahealth:8257928"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 168,
     "new-grad": 25,
-    "experienced": 2239
+    "experienced": 2241
   },
   "companies": [
     {
@@ -937,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1524,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1756,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3484,7 +3484,7 @@
     {
       "name": "Omada Health",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 116,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8257928",
+      "title": "Staff Software Engineer",
+      "location": "Remote, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8257928",
+      "postedAt": "2026-10-06T00:55:19.000Z",
+      "key": "omadahealth:8257928",
+      "company": "Omada Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T01:00:22.161Z"
+    },
     {
       "id": "8257909",
       "title": "Staff Software Engineer, Cloud Infrastructure ",
@@ -6740,6 +6756,22 @@
         "us"
       ],
       "firstSeen": "2026-10-05T18:40:16.364Z"
+    },
+    {
+      "id": "8244449",
+      "title": "Analytics Engineer, HR Analytics",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449",
+      "postedAt": "2026-10-05T18:27:13.000Z",
+      "key": "elastic:8244449",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T01:00:22.161Z"
     },
     {
       "id": "8250093",
