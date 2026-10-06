@@ -1,14 +1,10 @@
 {
-  "generatedAt": "2026-10-06T20:40:17.331Z",
+  "generatedAt": "2026-10-06T20:50:18.800Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1003048",
-    "Capital One:R1003032",
-    "coinbase:8257904",
-    "fastly:8256238",
-    "fastly:8249951",
-    "openai:2796d32a-9f7c-4008-a2c5-50dd53b0f2fe"
+    "Capital One:R1003167",
+    "close:c9a73dd2-e5fa-491f-9736-039d08c86f01"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +13,7 @@
   "levelCounts": {
     "intern": 171,
     "new-grad": 29,
-    "experienced": 2288
+    "experienced": 2289
   },
   "companies": [
     {
@@ -793,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 262,
+      "jobCount": 263,
       "error": null,
       "stale": false
     },
@@ -941,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1010,7 +1006,7 @@
     {
       "name": "Close",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1879,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4804,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5707,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "R1003167",
+      "title": "Full-stack Engineer 4 (AWS, Java/ Python, Database, Go)",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4--AWS--Java--Python--Database--Go-_R1003167",
+      "postedAt": "2026-10-06T20:50:22.392Z",
+      "key": "Capital One:R1003167",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T20:50:18.800Z"
+    },
+    {
+      "id": "c9a73dd2-e5fa-491f-9736-039d08c86f01",
+      "title": "Senior Product Security Engineer (USA Only, 100% Remote)",
+      "location": "USA - Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/close/c9a73dd2-e5fa-491f-9736-039d08c86f01",
+      "postedAt": "2026-10-06T20:46:37.056Z",
+      "key": "close:c9a73dd2-e5fa-491f-9736-039d08c86f01",
+      "company": "Close",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T20:50:18.800Z"
+    },
+    {
       "id": "R1003048",
       "title": "Associate, Software Engineer, New Grad",
       "location": "Toronto, ON",
@@ -5955,7 +5983,7 @@
     },
     {
       "id": "8817974002",
-      "title": "PhD Software Engineer Intern, Machine Learning (Summer 2027)",
+      "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
       "location": "San Francisco, CA",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
@@ -35191,22 +35219,6 @@
         "us"
       ],
       "firstSeen": "2026-09-16T20:20:17.715Z"
-    },
-    {
-      "id": "8209337",
-      "title": "Data Scientist, Experimental Projects",
-      "location": "San Francisco",
-      "team": "7112 Data Science",
-      "url": "https://stripe.com/jobs/search?gh_jid=8209337",
-      "postedAt": "2026-09-16T20:13:13.000Z",
-      "key": "stripe:8209337",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T22:20:16.563Z"
     },
     {
       "id": "8197554",
