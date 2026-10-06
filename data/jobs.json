@@ -1,19 +1,21 @@
 {
-  "generatedAt": "2026-10-06T20:20:17.391Z",
+  "generatedAt": "2026-10-06T20:30:19.294Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "cursor:34cecd0c-c392-4454-8ef5-261310541011",
-    "fivetran:8004964003"
+    "Capital One:R1003046",
+    "Capital One:R1003143",
+    "commure:39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
+    "commure:ee0220cc-ecec-413f-a22a-4d4d229683de"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 170,
-    "new-grad": 27,
-    "experienced": 2282
+    "intern": 171,
+    "new-grad": 28,
+    "experienced": 2283
   },
   "companies": [
     {
@@ -789,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 258,
+      "jobCount": 260,
       "error": null,
       "stale": false
     },
@@ -1090,7 +1092,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3226,7 +3228,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3330,7 +3332,7 @@
     {
       "name": "Nextdoor",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,76 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003046",
+      "title": "Associate, Software Engineer, New Grad",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003046",
+      "postedAt": "2026-10-06T20:30:22.790Z",
+      "key": "Capital One:R1003046",
+      "company": "Capital One",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-06T20:30:19.294Z"
+    },
+    {
+      "id": "R1003143",
+      "title": "Intern, Full Stack Software Engineer - Summer 2027",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Summer-2027_R1003143",
+      "postedAt": "2026-10-06T20:30:22.790Z",
+      "key": "Capital One:R1003143",
+      "company": "Capital One",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-06T20:30:19.294Z"
+    },
+    {
+      "id": "39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
+      "title": "Software Engineer, AI Integrations",
+      "location": "Mountain View, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/commure/39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
+      "postedAt": "2026-10-06T20:21:30.849Z",
+      "key": "commure:39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T20:30:19.294Z"
+    },
+    {
+      "id": "ee0220cc-ecec-413f-a22a-4d4d229683de",
+      "title": "Senior Software Engineer, AI Integrations",
+      "location": "Mountain View, CA (+3 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/commure/ee0220cc-ecec-413f-a22a-4d4d229683de",
+      "postedAt": "2026-10-06T20:20:21.930Z",
+      "key": "commure:ee0220cc-ecec-413f-a22a-4d4d229683de",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T20:30:19.294Z"
+    },
     {
       "id": "8004964003",
       "title": "Sr. Staff Systems Engineer",
@@ -39887,22 +39959,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-11T23:20:18.791Z"
-    },
-    {
-      "id": "8198106",
-      "title": "Data Scientist - Ads Marketplace",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://about.nextdoor.com/careers-list/?gh_jid=8198106",
-      "postedAt": "2026-09-11T22:57:46.000Z",
-      "key": "nextdoor:8198106",
-      "company": "Nextdoor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T23:00:31.489Z"
     },
     {
       "id": "ec030dda-caff-4579-93ab-c9aa147a0241",
