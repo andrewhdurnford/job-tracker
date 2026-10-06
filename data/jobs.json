@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-05T23:50:16.093Z",
+  "generatedAt": "2026-10-06T00:00:24.898Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "marianaminerals:237dfe0c-7f9d-4264-bb8d-36e4012089bd",
+    "Nvidia:JR2025776"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 168,
     "new-grad": 25,
-    "experienced": 2229
+    "experienced": 2231
   },
   "companies": [
     {
@@ -2886,7 +2889,7 @@
     {
       "name": "Mariana Minerals",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 142,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 116,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025776",
+      "title": "Senior DevOps Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DevOps-Engineer_JR2025776",
+      "postedAt": "2026-10-06T00:00:28.825Z",
+      "key": "Nvidia:JR2025776",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T00:00:24.898Z"
+    },
+    {
+      "id": "237dfe0c-7f9d-4264-bb8d-36e4012089bd",
+      "title": "Sr. Software Engineer, Infrastructure",
+      "location": "San Francisco HQ (+2 more)",
+      "team": "Software Development",
+      "url": "https://jobs.ashbyhq.com/marianaminerals/237dfe0c-7f9d-4264-bb8d-36e4012089bd",
+      "postedAt": "2026-10-05T23:56:05.231Z",
+      "key": "marianaminerals:237dfe0c-7f9d-4264-bb8d-36e4012089bd",
+      "company": "Mariana Minerals",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T00:00:24.898Z"
+    },
     {
       "id": "ddae4a0c-2f6c-4cc3-80aa-da74a0dd667a",
       "title": "Research Engineer, Applied Research",
