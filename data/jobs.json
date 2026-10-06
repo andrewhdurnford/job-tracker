@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-06T17:30:20.480Z",
+  "generatedAt": "2026-10-06T17:40:16.774Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Visa:REF081637W"
+    "Capital One:R1002814",
+    "whoop:ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 257,
+      "jobCount": 256,
       "error": null,
       "stale": false
     },
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 117,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5513,7 +5514,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002814",
+      "title": "Security Engineer 4",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Security-Engineer-4_R1002814-1",
+      "postedAt": "2026-10-06T17:40:20.068Z",
+      "key": "Capital One:R1002814",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T17:40:16.774Z"
+    },
+    {
+      "id": "ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3",
+      "title": "Software Engineer I (Frontend, AI Platform)",
+      "location": "Boston, MA",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3",
+      "postedAt": "2026-10-06T17:32:00.933Z",
+      "key": "whoop:ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3",
+      "company": "WHOOP",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-06T17:40:16.774Z"
+    },
     {
       "id": "REF081637W",
       "title": "Software Development Engineer- Product Reliability Engineering",
@@ -6804,22 +6837,6 @@
       "postedAt": "2026-10-05T22:00:33.587Z",
       "key": "Nvidia:JR2026547",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T22:00:29.455Z"
-    },
-    {
-      "id": "R1000592",
-      "title": "Part-Time Applied Data Scientist",
-      "location": "Cambridge, MA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cambridge-MA/Part-Time-Applied-Data-Scientist_R1000592",
-      "postedAt": "2026-10-05T22:00:32.725Z",
-      "key": "Capital One:R1000592",
-      "company": "Capital One",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -27110,22 +27127,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T17:40:17.715Z"
-    },
-    {
-      "id": "R1001596",
-      "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1001596-1",
-      "postedAt": "2026-09-22T17:30:25.532Z",
-      "key": "Capital One:R1001596",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T17:30:22.163Z"
     },
     {
       "id": "R1001580",
