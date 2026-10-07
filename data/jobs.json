@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-07T00:30:19.631Z",
+  "generatedAt": "2026-10-07T00:40:17.556Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Visa:REF082600W",
-    "Visa:REF089234W"
+    "abnormalsecurity:8015100003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -33,7 +32,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1202,7 +1201,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1875,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2064,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8015100003",
+      "title": "Director of Security Engineering",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://abnormal.ai/careers/jobs/8015100003?gh_jid=8015100003",
+      "postedAt": "2026-10-07T00:34:16.000Z",
+      "key": "abnormalsecurity:8015100003",
+      "company": "Abnormal Security",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T00:40:17.556Z"
+    },
     {
       "id": "REF089234W",
       "title": "Senior Software Engineer- Product Reliability Engineering",
@@ -36910,22 +36925,6 @@
       "postedAt": "2026-09-15T21:36:36.288Z",
       "key": "benepass:79cc7bee-ac76-467b-9066-835f28c01925",
       "company": "Benepass",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T21:40:17.279Z"
-    },
-    {
-      "id": "8204842",
-      "title": "Staff Machine Learning Engineer - Search Ranking",
-      "location": "Mountain View, USA",
-      "team": null,
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8204842",
-      "postedAt": "2026-09-15T21:30:37.000Z",
-      "key": "coupang:8204842",
-      "company": "Coupang",
       "level": "experienced",
       "term": null,
       "regions": [
