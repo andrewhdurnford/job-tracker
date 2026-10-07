@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-07T21:50:19.444Z",
+  "generatedAt": "2026-10-07T22:00:20.628Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "stripe:8243617",
-    "goteleport:e53553a4-ef67-4fb1-a380-c6bed9e95b82"
+    "stripe:8263356"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -844,10 +843,10 @@
     },
     {
       "name": "Carvana",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Casca",
@@ -2876,7 +2875,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4135,7 +4134,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4800,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "8263356",
+      "title": "Software Engineer, Internal Identity",
+      "location": "US",
+      "team": "8612 Security Infrastructure",
+      "url": "https://stripe.com/jobs/search?gh_jid=8263356",
+      "postedAt": "2026-10-07T21:58:34.000Z",
+      "key": "stripe:8263356",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T22:00:20.628Z"
+    },
+    {
       "id": "8243617",
       "title": "Machine Learning Engineer, Radar",
       "location": "Seattle",
@@ -6173,8 +6188,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us",
-        "canada"
+        "remote"
       ],
       "firstSeen": "2026-10-07T19:10:15.337Z"
     },
@@ -46683,22 +46697,6 @@
         "us"
       ],
       "firstSeen": "2026-09-02T21:30:22.840Z"
-    },
-    {
-      "id": "R_106615",
-      "title": "Full Stack Software Engineer, Remitly Business",
-      "location": "Burnaby, British Columbia, Canada",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Senior-Full-Stack-Software-Engineer--Remitly-Business_R_106615",
-      "postedAt": "2026-09-02T00:00:34.243Z",
-      "key": "Remitly:R_106615",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-02T00:00:27.874Z"
     },
     {
       "id": "JR2014056",
