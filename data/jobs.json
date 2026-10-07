@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-10-07T04:30:21.208Z",
+  "generatedAt": "2026-10-07T04:40:16.940Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "waymo:8257801"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 171,
+    "intern": 172,
     "new-grad": 31,
-    "experienced": 2307
+    "experienced": 2306
   },
   "companies": [
     {
@@ -1626,7 +1628,7 @@
     {
       "name": "Etched",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5029,7 +5031,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5476,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 57,
+      "jobCount": 58,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8257801",
+      "title": "2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257801",
+      "postedAt": "2026-10-07T04:37:15.000Z",
+      "key": "waymo:8257801",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T04:40:16.940Z"
+    },
     {
       "id": "6217587004",
       "title": "Senior Software Engineer, Applied AI & Customer Solutions",
@@ -24320,22 +24344,6 @@
         "us"
       ],
       "firstSeen": "2026-09-24T07:00:23.197Z"
-    },
-    {
-      "id": "ff056a35-b6d8-42c9-8a02-f07c29089c68",
-      "title": "Applied AI Engineer - Hardware",
-      "location": "San Jose",
-      "team": "Software",
-      "url": "https://jobs.ashbyhq.com/etched/ff056a35-b6d8-42c9-8a02-f07c29089c68",
-      "postedAt": "2026-09-24T06:19:22.090Z",
-      "key": "etched:ff056a35-b6d8-42c9-8a02-f07c29089c68",
-      "company": "Etched",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-24T06:20:15.512Z"
     },
     {
       "id": "5433814008",
