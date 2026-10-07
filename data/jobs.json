@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T14:10:18.949Z",
+  "generatedAt": "2026-10-07T14:20:16.651Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "sift:45b22605-1abb-483e-8ef7-5ceaf04f5868"
+    "Capital One:R1003069"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -788,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 260,
+      "jobCount": 261,
       "error": null,
       "stale": false
     },
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1243,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 120,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4772,7 +4772,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003069",
+      "title": "Site Reliability Engineer 4 (Cloud Operations Resilience Engineering)",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Site-Reliability-Engineer-4--Cloud-Operations-Resilience-Engineering-_R1003069-1",
+      "postedAt": "2026-10-07T14:20:19.800Z",
+      "key": "Capital One:R1003069",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T14:20:16.651Z"
+    },
     {
       "id": "45b22605-1abb-483e-8ef7-5ceaf04f5868",
       "title": "Machine Learning Engineer",
@@ -20031,22 +20047,6 @@
         "us"
       ],
       "firstSeen": "2026-09-28T14:20:17.427Z"
-    },
-    {
-      "id": "R29097",
-      "title": "TPRM, Technical Lead (Remote)",
-      "location": "USA - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Manager--Third-Party-Risk-Management--Remote-_R29097",
-      "postedAt": "2026-09-28T14:00:29.719Z",
-      "key": "CrowdStrike:R29097",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T14:00:25.490Z"
     },
     {
       "id": "R1002200",
