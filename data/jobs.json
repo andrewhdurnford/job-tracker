@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-07T16:50:18.500Z",
+  "generatedAt": "2026-10-07T17:10:17.752Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "gitlab:8871406002",
-    "Nvidia:JR2016861",
-    "persona:eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3"
+    "Capital One:R1003248",
+    "discord:8828229002",
+    "gitlab:8868138002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 172,
     "new-grad": 29,
-    "experienced": 2317
+    "experienced": 2319
   },
   "companies": [
     {
@@ -790,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 260,
+      "jobCount": 261,
       "error": null,
       "stale": false
     },
@@ -1413,7 +1413,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -1966,7 +1966,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -5228,7 +5228,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003248",
+      "title": "Capital One Shopping Tech, Data Engineer 5 (Remote- Eligible)",
+      "location": "2 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Capital-One-Shopping-Tech--Data-Engineer-5--Remote--Eligible-_R1003248-1",
+      "postedAt": "2026-10-07T17:10:21.339Z",
+      "key": "Capital One:R1003248",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-07T17:10:17.752Z"
+    },
+    {
+      "id": "8828229002",
+      "title": "Staff Software Engineer, Privacy Engineering",
+      "location": "Amsterdam, NL",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8828229002",
+      "postedAt": "2026-10-07T17:04:03.000Z",
+      "key": "discord:8828229002",
+      "company": "Discord",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-07T17:10:17.752Z"
+    },
+    {
+      "id": "8868138002",
+      "title": "Senior Security Detection Engineer ",
+      "location": "Remote, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8868138002",
+      "postedAt": "2026-10-07T17:01:02.000Z",
+      "key": "gitlab:8868138002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T17:10:17.752Z"
+    },
     {
       "id": "JR2016861",
       "title": "Manager, Data and AI Engineering",
@@ -8999,7 +9047,7 @@
     {
       "id": "8257332",
       "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, California, United States",
+      "location": "Denver, Colorado, United States; San Francisco, California, United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/checkr/jobs/8257332",
       "postedAt": "2026-10-05T20:11:36.000Z",
@@ -9327,22 +9375,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T19:00:26.283Z"
-    },
-    {
-      "id": "8067027",
-      "title": "Staff Mobile Engineer (P4)",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
-      "postedAt": "2026-10-05T18:51:26.000Z",
-      "key": "twilio:8067027",
-      "company": "Twilio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T14:30:26.272Z"
     },
     {
       "id": "a4e0c464-decb-410b-897b-ea039203c33e",
@@ -10598,7 +10630,7 @@
     },
     {
       "id": "cb57dac6-84cc-4860-9732-39c60514a2ab",
-      "title": "Senior Research Engineer - Inference ML",
+      "title": "ML Research Scientist - Inference Core",
       "location": "United States and Canada",
       "team": "Inference Core",
       "url": "https://jobs.ashbyhq.com/cerebras/cb57dac6-84cc-4860-9732-39c60514a2ab",
