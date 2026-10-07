@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T16:10:17.088Z",
+  "generatedAt": "2026-10-07T16:22:29.508Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Nvidia:JR2024711"
+    "Capital One:R1003137"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -788,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 258,
+      "jobCount": 259,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 120,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003137",
+      "title": "Full-Stack Engineer 4 (Java, Kafka, AWS)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4--Java--Kafka--AWS-_R1003137",
+      "postedAt": "2026-10-07T16:22:33.007Z",
+      "key": "Capital One:R1003137",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T16:22:29.508Z"
+    },
     {
       "id": "JR2024711",
       "title": "Senior Staff Software Engineer - Enterprise AI Platform",
@@ -7029,22 +7045,6 @@
         "us"
       ],
       "firstSeen": "2026-10-06T20:00:46.803Z"
-    },
-    {
-      "id": "R28302",
-      "title": "EII Cloud Software Engineer - Cloud (Hybrid)",
-      "location": "USA - Sunnyvale, CA",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Cloud--Hybrid-_R28302",
-      "postedAt": "2026-10-06T19:50:26.148Z",
-      "key": "CrowdStrike:R28302",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T19:50:21.613Z"
     },
     {
       "id": "R1001099",
