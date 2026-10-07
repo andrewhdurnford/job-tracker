@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-07T14:20:16.651Z",
+  "generatedAt": "2026-10-07T14:30:26.272Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1003069"
+    "elevenlabs:b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
+    "twilio:8067027"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 261,
+      "jobCount": 260,
       "error": null,
       "stale": false
     },
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1523,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1537,7 +1538,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 120,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5226,7 +5227,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
+      "title": "Applied AI Engineer",
+      "location": "Remote",
+      "team": "Paid Marketing",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
+      "postedAt": "2026-10-07T14:25:44.391Z",
+      "key": "elevenlabs:b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-07T14:30:26.272Z"
+    },
     {
       "id": "R1003069",
       "title": "Site Reliability Engineer 4 (Cloud Operations Resilience Engineering)",
@@ -8953,6 +8970,22 @@
       "firstSeen": "2026-10-05T19:00:26.283Z"
     },
     {
+      "id": "8067027",
+      "title": "Staff Mobile Engineer (P4)",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
+      "postedAt": "2026-10-05T18:51:26.000Z",
+      "key": "twilio:8067027",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T14:30:26.272Z"
+    },
+    {
       "id": "a4e0c464-decb-410b-897b-ea039203c33e",
       "title": "Backend Engineer",
       "location": "Denver, CO",
@@ -8983,22 +9016,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T18:40:16.364Z"
-    },
-    {
-      "id": "8244449",
-      "title": "Analytics Engineer, HR Analytics",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449",
-      "postedAt": "2026-10-05T18:27:13.000Z",
-      "key": "elastic:8244449",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T01:00:22.161Z"
     },
     {
       "id": "8250093",
@@ -29786,22 +29803,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Java--Python--AWS-_R1001456-1",
       "postedAt": "2026-09-21T21:20:20.545Z",
       "key": "Capital One:R1001456",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T21:20:17.323Z"
-    },
-    {
-      "id": "R1001460",
-      "title": "Full-stack Engineer 4 (Java, Python, JavaScript)",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Java--Python--JavaScript-_R1001460-1",
-      "postedAt": "2026-09-21T21:20:20.545Z",
-      "key": "Capital One:R1001460",
       "company": "Capital One",
       "level": "experienced",
       "term": null,
