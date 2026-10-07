@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T15:00:28.566Z",
+  "generatedAt": "2026-10-07T15:20:16.282Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "anthropic:5445625008",
-    "Capital One:R1001286"
+    "elevenlabs:77f23be6-16c0-40c5-87b6-29dc2ee752ab",
+    "nubank:9bcd5eee-1602-48c6-af4d-dd09a40c541b"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 171,
     "new-grad": 30,
-    "experienced": 2302
+    "experienced": 2303
   },
   "companies": [
     {
@@ -1538,7 +1538,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3400,7 +3400,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3757,7 +3757,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5422,10 +5422,10 @@
     },
     {
       "name": "Volta Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Vori",
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "9bcd5eee-1602-48c6-af4d-dd09a40c541b",
+      "title": "Staff Software Engineer — Collections",
+      "location": "Toronto",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/9bcd5eee-1602-48c6-af4d-dd09a40c541b",
+      "postedAt": "2026-10-07T15:18:57.419Z",
+      "key": "nubank:9bcd5eee-1602-48c6-af4d-dd09a40c541b",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-07T15:20:16.282Z"
+    },
+    {
+      "id": "77f23be6-16c0-40c5-87b6-29dc2ee752ab",
+      "title": "Full-Stack Engineer (Backend Leaning) - CreativeVoices",
+      "location": "United Kingdom (+3 more)",
+      "team": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/77f23be6-16c0-40c5-87b6-29dc2ee752ab",
+      "postedAt": "2026-10-07T15:04:39.871Z",
+      "key": "elevenlabs:77f23be6-16c0-40c5-87b6-29dc2ee752ab",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T15:20:16.282Z"
+    },
     {
       "id": "R1001286",
       "title": "Full-Stack Engineer 4 (Python, Java, AWS)",
@@ -7124,23 +7156,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-06T18:40:17.487Z"
-    },
-    {
-      "id": "8259517",
-      "title": "Sr. Software Engineer, Data Analytics Engineering",
-      "location": "San Francisco, CA, Seattle, WA, US; New York, NY,US; Remote;US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8259517",
-      "postedAt": "2026-10-06T18:33:52.000Z",
-      "key": "pinterest:8259517",
-      "company": "Pinterest",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
       ],
       "firstSeen": "2026-10-06T18:40:17.487Z"
     },
@@ -22804,7 +22819,7 @@
     },
     {
       "id": "R1002012",
-      "title": "Full-stack Engineer 4 (Node, TypeScript, AWS)",
+      "title": "Full-stack Engineer 4 (TypeScript, Python, AWS)",
       "location": "McLean, VA",
       "team": null,
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Node--TypeScript--AWS-_R1002012-1",
