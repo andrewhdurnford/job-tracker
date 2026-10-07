@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-07T18:10:18.459Z",
+  "generatedAt": "2026-10-07T18:20:18.118Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "decagon:0f41f8dc-a3c9-47e1-a3fe-5f137d83850e"
+    "Capital One:R1003160",
+    "coinbase:8247397"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 173,
     "new-grad": 29,
-    "experienced": 2329
+    "experienced": 2331
   },
   "companies": [
     {
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 263,
+      "jobCount": 264,
       "error": null,
       "stale": false
     },
@@ -1054,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 121,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003160",
+      "title": "Senior Director Software Engineering - CTO",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Director-Software-Engineering---CTO_R1003160-1",
+      "postedAt": "2026-10-07T18:20:21.409Z",
+      "key": "Capital One:R1003160",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T18:20:18.118Z"
+    },
     {
       "id": "0f41f8dc-a3c9-47e1-a3fe-5f137d83850e",
       "title": "Software Engineer, Enterprise Product",
@@ -13007,7 +13024,7 @@
     {
       "id": "8221355",
       "title": "Staff Engineer - Business Systems",
-      "location": "New York City; Palo Alto",
+      "location": "New York City; Palo Alto; United States",
       "team": null,
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8221355",
       "postedAt": "2026-10-01T22:40:20.000Z",
@@ -13538,6 +13555,22 @@
         "us"
       ],
       "firstSeen": "2026-10-01T19:20:15.965Z"
+    },
+    {
+      "id": "8247397",
+      "title": "Software Engineer, Backend - Payments Platform",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8247397?gh_jid=8247397",
+      "postedAt": "2026-10-01T19:06:03.000Z",
+      "key": "coinbase:8247397",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T18:20:18.118Z"
     },
     {
       "id": "R_106993",
