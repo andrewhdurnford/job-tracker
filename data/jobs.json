@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-10-07T13:00:27.585Z",
+  "generatedAt": "2026-10-07T13:10:17.774Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Capital One:R1003046"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 171,
-    "new-grad": 29,
-    "experienced": 2304
+    "new-grad": 30,
+    "experienced": 2303
   },
   "companies": [
     {
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 259,
+      "jobCount": 260,
       "error": null,
       "stale": false
     },
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5224,7 +5226,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003046",
+      "title": "Associate, Software Engineer, New Grad",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003046",
+      "postedAt": "2026-10-07T13:10:21.223Z",
+      "key": "Capital One:R1003046",
+      "company": "Capital One",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-07T13:10:17.774Z"
+    },
     {
       "id": "35813150-a851-4821-b732-a037b4e6c4fe",
       "title": "Full-Stack Engineer (Backend Leaning) - Creative Agents ",
@@ -8932,22 +8950,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T19:00:26.283Z"
-    },
-    {
-      "id": "8067027",
-      "title": "Staff Mobile Engineer (P4)",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
-      "postedAt": "2026-10-05T18:51:26.000Z",
-      "key": "twilio:8067027",
-      "company": "Twilio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T14:40:23.477Z"
     },
     {
       "id": "a4e0c464-decb-410b-897b-ea039203c33e",
