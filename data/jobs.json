@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-10-07T17:20:19.150Z",
+  "generatedAt": "2026-10-07T17:30:33.768Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "dominodatalab:8230498",
-    "illumio:d6922c0b-15fa-4c80-801f-82e9d78fad02"
+    "Capital One:R1001474",
+    "DocuSign:30481",
+    "samsara:8262123"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 172,
+    "intern": 173,
     "new-grad": 29,
-    "experienced": 2320
+    "experienced": 2322
   },
   "companies": [
     {
@@ -237,7 +238,7 @@
       "name": "Amplitude",
       "ok": false,
       "jobCount": 5,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 261,
+      "jobCount": 262,
       "error": null,
       "stale": false
     },
@@ -1426,7 +1427,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4338,7 +4339,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001474",
+      "title": "Full-stack Engineer 5 (Java, Scala, AWS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Java--Scala--AWS-_R1001474-1",
+      "postedAt": "2026-10-07T17:30:37.670Z",
+      "key": "Capital One:R1001474",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T17:30:33.768Z"
+    },
+    {
+      "id": "30481",
+      "title": "Software Engineer Intern",
+      "location": "US-Seattle-3rd",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30481/login",
+      "postedAt": "2026-10-07T17:23:00.000Z",
+      "key": "DocuSign:30481",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T17:30:33.768Z"
+    },
+    {
+      "id": "8262123",
+      "title": "Senior AI Data & Analytics Engineer II",
+      "location": "Remote - NYC",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8262123?gh_jid=8262123",
+      "postedAt": "2026-10-07T17:22:19.000Z",
+      "key": "samsara:8262123",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T17:30:33.768Z"
+    },
     {
       "id": "d6922c0b-15fa-4c80-801f-82e9d78fad02",
       "title": "Senior Engineer, Cloud Security",
@@ -8179,7 +8228,7 @@
     {
       "id": "abe148d3-862a-4f74-bc92-99f74acedadd",
       "title": "Forward Deployed Engineer",
-      "location": "Seattle, WA (+3 more)",
+      "location": "Seattle, WA",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/runetech/abe148d3-862a-4f74-bc92-99f74acedadd",
       "postedAt": "2026-10-06T13:21:56.308Z",
