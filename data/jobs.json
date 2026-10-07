@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-10-07T16:30:20.851Z",
+  "generatedAt": "2026-10-07T16:40:17.059Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Capital One:R1003140",
-    "Capital One:R1002992",
-    "mastra:531a3fe8-556f-4b83-bee7-20374f67f980"
+    "datadog:8261937",
+    "datadog:8261934",
+    "Nvidia:JR2026509",
+    "temporal:15bf95f9-4589-42cf-b853-1f624aef77f2",
+    "weave:e68c935e-7313-48d2-86d5-0ddc9c555d4e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +16,7 @@
   "levelCounts": {
     "intern": 171,
     "new-grad": 29,
-    "experienced": 2312
+    "experienced": 2316
   },
   "companies": [
     {
@@ -938,7 +940,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1301,7 +1303,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1427,7 +1429,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 135,
+      "jobCount": 136,
       "error": null,
       "stale": false
     },
@@ -5025,7 +5027,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5494,7 +5496,7 @@
     {
       "name": "Weave",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026509",
+      "title": "Senior SoC Software Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-SoC-Software-Engineer_JR2026509",
+      "postedAt": "2026-10-07T16:40:21.561Z",
+      "key": "Nvidia:JR2026509",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T16:40:17.059Z"
+    },
+    {
+      "id": "e68c935e-7313-48d2-86d5-0ddc9c555d4e",
+      "title": "Senior Frontend Software Engineer",
+      "location": "US Remote",
+      "team": "Technology",
+      "url": "https://jobs.ashbyhq.com/weave/e68c935e-7313-48d2-86d5-0ddc9c555d4e",
+      "postedAt": "2026-10-07T16:35:43.506Z",
+      "key": "weave:e68c935e-7313-48d2-86d5-0ddc9c555d4e",
+      "company": "Weave",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T16:40:17.059Z"
+    },
+    {
+      "id": "15bf95f9-4589-42cf-b853-1f624aef77f2",
+      "title": "Senior Software Engineer, Nexus Server",
+      "location": "Seattle, Washington (+1 more)",
+      "team": "Nexus",
+      "url": "https://jobs.ashbyhq.com/temporal/15bf95f9-4589-42cf-b853-1f624aef77f2",
+      "postedAt": "2026-10-07T16:34:22.960Z",
+      "key": "temporal:15bf95f9-4589-42cf-b853-1f624aef77f2",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T16:40:17.059Z"
+    },
+    {
+      "id": "8261934",
+      "title": "Staff Research Scientist - Post-Training for Agents",
+      "location": "New York, New York, USA; Pittsburgh, Pennsylvania, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8261934/?gh_jid=8261934",
+      "postedAt": "2026-10-07T16:34:22.000Z",
+      "key": "datadog:8261934",
+      "company": "Datadog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T16:40:17.059Z"
+    },
+    {
+      "id": "8261937",
+      "title": "Staff Research Scientist - Foundation & World Models ",
+      "location": "New York, New York, USA; Pittsburgh, Pennsylvania, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8261937/?gh_jid=8261937",
+      "postedAt": "2026-10-07T16:34:19.000Z",
+      "key": "datadog:8261937",
+      "company": "Datadog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T16:40:17.059Z"
+    },
     {
       "id": "R1003140",
       "title": "Full-Stack Engineer 4",
@@ -36326,7 +36408,7 @@
     {
       "id": "5239096007",
       "title": "Salesforce Developer",
-      "location": "San Jose, California, USA",
+      "location": "Bellevue, Washington, USA; San Jose, California, USA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239096007",
       "postedAt": "2026-09-16T15:57:59.000Z",
@@ -36601,22 +36683,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-16T14:10:20.832Z"
-    },
-    {
-      "id": "29922",
-      "title": "Security Platform Engineer",
-      "location": "US-SFO-Main",
-      "team": "Security",
-      "url": "https://uscareers-docusign.icims.com/jobs/29922/login",
-      "postedAt": "2026-09-16T14:02:00.000Z",
-      "key": "DocuSign:29922",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T10:50:15.284Z"
     },
     {
       "id": "ead55e1a-873d-4837-8450-95fe8f4c8931",
