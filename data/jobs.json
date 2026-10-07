@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-10-07T17:50:23.019Z",
+  "generatedAt": "2026-10-07T18:00:25.132Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "CrowdStrike:R30067",
-    "CrowdStrike:R29383",
-    "spacex:8875925002"
+    "urbancompass:8262220"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 173,
     "new-grad": 29,
-    "experienced": 2327
+    "experienced": 2328
   },
   "companies": [
     {
@@ -1098,7 +1096,7 @@
     {
       "name": "Compass",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 121,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5500,10 +5498,10 @@
     },
     {
       "name": "Webflow",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Weekend",
@@ -5565,7 +5563,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8262220",
+      "title": "Lead Data Scientist",
+      "location": "New York City",
+      "team": null,
+      "url": "https://www.compass.com/careers?gh_jid=8262220",
+      "postedAt": "2026-10-07T17:57:59.000Z",
+      "key": "urbancompass:8262220",
+      "company": "Compass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T18:00:25.132Z"
+    },
     {
       "id": "R30067",
       "title": "Sr. Software Engineer II - Cloud Detection Engine (Hybrid)",
@@ -29180,9 +29194,9 @@
     },
     {
       "id": "4b7a5db0-1217-47f0-a722-c508bc74d08c",
-      "title": "Senior Staff Engineer, Actuation Systems Architecture & Design (RX) (R6003)",
-      "location": "Dallas, Texas",
-      "team": "X-BAT Engineering - Mechanical",
+      "title": "Senior Staff Engineer, Actuation Systems Architecture & Design (R6003)",
+      "location": "Dallas, Texas (+1 more)",
+      "team": "RaptorX Engineering - Mechanical",
       "url": "https://jobs.lever.co/shieldai/4b7a5db0-1217-47f0-a722-c508bc74d08c",
       "postedAt": "2026-09-22T14:40:02.165Z",
       "key": "shieldai:4b7a5db0-1217-47f0-a722-c508bc74d08c",
@@ -29196,9 +29210,9 @@
     },
     {
       "id": "fbc93066-79e1-4262-8f7f-d7a5c8d13823",
-      "title": "Staff Engineer, Actuated Systems (RX) (R6001)",
-      "location": "Dallas, Texas",
-      "team": "X-BAT Engineering - Mechanical",
+      "title": "Staff Engineer, Actuated Systems (R6001)",
+      "location": "Dallas, Texas (+1 more)",
+      "team": "RaptorX Engineering - Mechanical",
       "url": "https://jobs.lever.co/shieldai/fbc93066-79e1-4262-8f7f-d7a5c8d13823",
       "postedAt": "2026-09-22T14:35:27.916Z",
       "key": "shieldai:fbc93066-79e1-4262-8f7f-d7a5c8d13823",
