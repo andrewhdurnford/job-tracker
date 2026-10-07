@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-07T19:40:17.213Z",
+  "generatedAt": "2026-10-07T19:50:18.046Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "discord:8828379002"
+    "discord:8828229002",
+    "quindar:a15e328f-5270-4f18-ae2e-fe92ac8276f5",
+    "stripe:8243615"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 175,
     "new-grad": 29,
-    "experienced": 2341
+    "experienced": 2342
   },
   "companies": [
     {
@@ -1411,7 +1413,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4015,7 +4017,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4631,7 +4633,7 @@
     {
       "name": "Snorkel AI",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4799,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5401,7 +5403,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "8243615",
+      "title": "Staff Machine Learning Engineer, Radar",
+      "location": "US",
+      "team": "8525 Radar - Eng",
+      "url": "https://stripe.com/jobs/search?gh_jid=8243615",
+      "postedAt": "2026-10-07T19:43:57.000Z",
+      "key": "stripe:8243615",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T19:50:18.046Z"
+    },
+    {
+      "id": "a15e328f-5270-4f18-ae2e-fe92ac8276f5",
+      "title": "Cleared IT Infrastructure Engineer",
+      "location": "Denver, CO",
+      "team": "Operations",
+      "url": "https://jobs.ashbyhq.com/quindar/a15e328f-5270-4f18-ae2e-fe92ac8276f5",
+      "postedAt": "2026-10-07T19:43:33.672Z",
+      "key": "quindar:a15e328f-5270-4f18-ae2e-fe92ac8276f5",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T19:50:18.046Z"
+    },
+    {
       "id": "8828379002",
       "title": "Staff Software Engineer, Privacy Engineering",
       "location": "Amsterdam, NL",
@@ -5789,7 +5823,7 @@
     },
     {
       "id": "8243201",
-      "title": "Software Engineer - Security Platform",
+      "title": "Senior Software Engineer - Security Platform",
       "location": "Atlanta, GA (+9 more)",
       "team": "Engineering",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8243201?gh_jid=8243201",
@@ -6139,6 +6173,22 @@
         "remote"
       ],
       "firstSeen": "2026-10-07T17:10:17.752Z"
+    },
+    {
+      "id": "8828229002",
+      "title": "Senior Software Engineer, Privacy Engineering",
+      "location": "Amsterdam, NL",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8828229002",
+      "postedAt": "2026-10-07T17:04:03.000Z",
+      "key": "discord:8828229002",
+      "company": "Discord",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-07T19:50:18.046Z"
     },
     {
       "id": "8868138002",
@@ -6691,22 +6741,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-07T12:10:21.720Z"
-    },
-    {
-      "id": "6219198004",
-      "title": "Software Engineer",
-      "location": "San Francisco, CA (Hybrid)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6219198004",
-      "postedAt": "2026-10-07T11:33:31.000Z",
-      "key": "snorkelai:6219198004",
-      "company": "Snorkel AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T11:40:15.221Z"
     },
     {
       "id": "R29366",
@@ -25963,22 +25997,6 @@
       "postedAt": "2026-09-23T19:51:00.465Z",
       "key": "Adobe:R171620",
       "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T19:50:52.970Z"
-    },
-    {
-      "id": "REF085157W",
-      "title": "Software Engineer - Sr. Consultant level",
-      "location": "US - Bellevue, WA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Software-Engineer---Sr-Consultant-level_REF085157W",
-      "postedAt": "2026-09-23T19:50:56.932Z",
-      "key": "Visa:REF085157W",
-      "company": "Visa",
       "level": "experienced",
       "term": null,
       "regions": [
