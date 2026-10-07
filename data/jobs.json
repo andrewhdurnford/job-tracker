@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-07T21:10:14.191Z",
+  "generatedAt": "2026-10-07T21:20:16.254Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "cloudflare:8256332",
+    "nubank:466b97d2-def5-48b4-b65d-e6d360d52162",
+    "nubank:5c9c06a2-def9-4e11-88bd-5a8a5e570cd4"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 176,
     "new-grad": 30,
-    "experienced": 2349
+    "experienced": 2352
   },
   "companies": [
     {
@@ -1010,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3397,7 +3401,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8256332",
+      "title": "Senior Forward Deployed Engineer (DevOps)",
+      "location": "San Francisco, CA",
+      "team": "Developer Relations",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8256332?gh_jid=8256332",
+      "postedAt": "2026-10-07T21:17:46.000Z",
+      "key": "cloudflare:8256332",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T21:20:16.254Z"
+    },
+    {
+      "id": "466b97d2-def5-48b4-b65d-e6d360d52162",
+      "title": "Senior Systems Engineer - Traffic Management",
+      "location": "Miami (+3 more)",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/466b97d2-def5-48b4-b65d-e6d360d52162",
+      "postedAt": "2026-10-07T21:12:46.810Z",
+      "key": "nubank:466b97d2-def5-48b4-b65d-e6d360d52162",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T21:20:16.254Z"
+    },
+    {
+      "id": "5c9c06a2-def9-4e11-88bd-5a8a5e570cd4",
+      "title": "Senior Systems Engineer (Kafka)",
+      "location": "Toronto",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/5c9c06a2-def9-4e11-88bd-5a8a5e570cd4",
+      "postedAt": "2026-10-07T21:11:54.769Z",
+      "key": "nubank:5c9c06a2-def9-4e11-88bd-5a8a5e570cd4",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-07T21:20:16.254Z"
+    },
     {
       "id": "R29846",
       "title": "Engineering Manager, SDET - AI Detection and Response (AIDR) (Hybrid)",
