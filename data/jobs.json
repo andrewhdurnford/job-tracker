@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-07T01:20:18.783Z",
+  "generatedAt": "2026-10-07T01:30:21.325Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "samsara:8081545",
+    "spacex:8873383002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 171,
     "new-grad": 31,
-    "experienced": 2303
+    "experienced": 2305
   },
   "companies": [
     {
@@ -4335,7 +4338,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 119,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 120,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8081545",
+      "title": "Staff Firmware Engineer",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8081545?gh_jid=8081545",
+      "postedAt": "2026-10-07T01:25:07.000Z",
+      "key": "samsara:8081545",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T01:30:21.325Z"
+    },
+    {
+      "id": "8873383002",
+      "title": "Application Software Engineer, Employee Experience ",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002",
+      "postedAt": "2026-10-07T01:14:54.000Z",
+      "key": "spacex:8873383002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T01:30:21.325Z"
+    },
     {
       "id": "ad3d19b2-114e-4096-810e-64f289c862db",
       "title": "Lead Software Engineer",
