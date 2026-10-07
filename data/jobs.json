@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-10-06T23:50:16.023Z",
+  "generatedAt": "2026-10-07T00:00:24.829Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "gusto:8250243",
-    "quilt:5259769007"
+    "anthropic:5445410008",
+    "openai:4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+    "spacex:8865057002",
+    "spacex:8864991002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 171,
     "new-grad": 31,
-    "experienced": 2294
+    "experienced": 2298
   },
   "companies": [
     {
@@ -306,7 +308,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -937,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1756,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1875,7 +1877,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2064,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3512,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 63,
+      "jobCount": 64,
       "error": null,
       "stale": false
     },
@@ -4695,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 117,
+      "jobCount": 119,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5445410008",
+      "title": "Applied AI Engineer, Public Sector (NatSec)",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008",
+      "postedAt": "2026-10-07T00:00:19.000Z",
+      "key": "anthropic:5445410008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T00:00:24.829Z"
+    },
+    {
+      "id": "4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+      "title": "Software Engineer, Life Sciences",
+      "location": "San Francisco",
+      "team": "Life Sciences",
+      "url": "https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+      "postedAt": "2026-10-06T23:58:11.643Z",
+      "key": "openai:4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T00:00:24.829Z"
+    },
     {
       "id": "8250243",
       "title": "Staff Software Engineer, Cloud Infrastructure",
@@ -9899,6 +9933,38 @@
         "us"
       ],
       "firstSeen": "2026-10-03T03:40:16.467Z"
+    },
+    {
+      "id": "8864991002",
+      "title": "Software Engineer (Starshield Products)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8864991002?gh_jid=8864991002",
+      "postedAt": "2026-10-03T01:03:46.000Z",
+      "key": "spacex:8864991002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T00:00:24.829Z"
+    },
+    {
+      "id": "8865057002",
+      "title": "Software Engineer (Starshield Products)",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8865057002?gh_jid=8865057002",
+      "postedAt": "2026-10-03T01:03:44.000Z",
+      "key": "spacex:8865057002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-07T00:00:24.829Z"
     },
     {
       "id": "8865268002",
