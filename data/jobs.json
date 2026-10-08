@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T14:00:32.795Z",
+  "generatedAt": "2026-10-08T14:10:16.693Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 178,
+    "intern": 177,
     "new-grad": 30,
-    "experienced": 2358
+    "experienced": 2357
   },
   "companies": [
     {
@@ -471,7 +471,7 @@
     {
       "name": "Attentive",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1297,7 +1297,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -25372,22 +25372,6 @@
       "firstSeen": "2026-09-24T16:00:25.305Z"
     },
     {
-      "id": "4418793009",
-      "title": "Senior Engineering Manager, Platform",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/attentive/jobs/4418793009",
-      "postedAt": "2026-09-24T15:46:49.000Z",
-      "key": "attentive:4418793009",
-      "company": "Attentive",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-24T15:50:18.108Z"
-    },
-    {
       "id": "30406",
       "title": "Senior Software Engineer",
       "location": "US-SFO-Main",
@@ -46600,28 +46584,6 @@
         "us"
       ],
       "firstSeen": "2026-09-08T14:30:28.194Z"
-    },
-    {
-      "id": "8052118",
-      "title": "Software Engineering Intern (Summer)",
-      "location": "Boston, Massachusetts, USA; New York, New York, USA",
-      "team": null,
-      "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
-      "postedAt": "2026-09-08T14:07:37.000Z",
-      "key": "datadog:8052118",
-      "company": "Datadog",
-      "level": "intern",
-      "term": {
-        "label": "Summer",
-        "seasons": [
-          "summer"
-        ],
-        "year": null
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T14:10:17.781Z"
     },
     {
       "id": "R30005",
