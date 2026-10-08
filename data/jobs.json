@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-08T01:30:20.409Z",
+  "generatedAt": "2026-10-08T01:40:15.587Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Capital One:R1002989"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 177,
     "new-grad": 30,
-    "experienced": 2366
+    "experienced": 2367
   },
   "companies": [
     {
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 262,
+      "jobCount": 263,
       "error": null,
       "stale": false
     },
@@ -1422,10 +1424,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": false,
+      "ok": true,
       "jobCount": 21,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Dolls Kill",
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002989",
+      "title": "Full-stack Engineer 4 (Java, AWS, CI/CD)",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4--Java--AWS--CI-CD-_R1002989-1",
+      "postedAt": "2026-10-08T01:40:19.027Z",
+      "key": "Capital One:R1002989",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T01:40:15.587Z"
+    },
     {
       "id": "778634b7-b2db-418e-a7b1-922f8a775ff6",
       "title": "Principal Software Engineer - Elastic Global Services",
