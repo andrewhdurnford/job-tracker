@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:20:14.950Z",
+  "generatedAt": "2026-10-08T01:30:20.409Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -1422,10 +1422,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": true,
+      "ok": false,
       "jobCount": 21,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Dolls Kill",
