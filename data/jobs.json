@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-10-08T22:20:15.917Z",
+  "generatedAt": "2026-10-08T22:30:19.752Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "stripe:8263356"
+    "fastly:8263424",
+    "spacex:8880672002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 177,
+    "intern": 175,
     "new-grad": 30,
-    "experienced": 2360
+    "experienced": 2362
   },
   "companies": [
     {
@@ -1054,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1691,7 +1692,7 @@
     {
       "name": "Fastly",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 117,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 118,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8880672002",
+      "title": "Site Reliability Engineer, Data Center Infrastructure ",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8880672002?gh_jid=8880672002",
+      "postedAt": "2026-10-08T22:24:38.000Z",
+      "key": "spacex:8880672002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T22:30:19.752Z"
+    },
+    {
+      "id": "8263424",
+      "title": "People Systems Architect",
+      "location": "Denver, CO; New York City, NY; San Francisco, CA",
+      "team": null,
+      "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8263424",
+      "postedAt": "2026-10-08T22:23:09.000Z",
+      "key": "fastly:8263424",
+      "company": "Fastly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T22:30:19.752Z"
+    },
     {
       "id": "96475a30-5aa1-4c56-802d-fe8a54c9cbd9",
       "title": "Software Engineer, HSM Infrastructure Security, Consumer Devices",
@@ -46515,38 +46548,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T20:10:18.423Z"
-    },
-    {
-      "id": "8175441",
-      "title": "Machine Learning Engineer Intern",
-      "location": "Hybrid - San Francisco, CA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
-      "postedAt": "2026-09-08T22:22:07.000Z",
-      "key": "coinbase:8175441",
-      "company": "Coinbase",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T22:40:19.201Z"
-    },
-    {
-      "id": "8175471",
-      "title": "Analytics Engineer Intern",
-      "location": "Hybrid - New York, NY",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
-      "postedAt": "2026-09-08T22:20:56.000Z",
-      "key": "coinbase:8175471",
-      "company": "Coinbase",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T22:40:19.201Z"
     },
     {
       "id": "R999617",
