@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-10-08T20:00:25.363Z",
+  "generatedAt": "2026-10-08T20:10:16.742Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "affirm:8012043003",
-    "fivetran:8017186003",
-    "waymo:8265173"
+    "shieldai:c52d2f15-0cca-4777-acf4-8d915b3628d1"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 179,
     "new-grad": 31,
-    "experienced": 2363
+    "experienced": 2364
   },
   "companies": [
     {
@@ -4472,7 +4470,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "c52d2f15-0cca-4777-acf4-8d915b3628d1",
+      "title": "Staff Safety-Critical Software Engineer (R5788)",
+      "location": "San Diego, California",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/shieldai/c52d2f15-0cca-4777-acf4-8d915b3628d1",
+      "postedAt": "2026-10-08T20:05:14.651Z",
+      "key": "shieldai:c52d2f15-0cca-4777-acf4-8d915b3628d1",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T20:10:16.742Z"
+    },
     {
       "id": "8012043003",
       "title": "Software Engineer II, Backend (Online Storage)",
@@ -22565,7 +22579,7 @@
     },
     {
       "id": "bfa00574-c549-48fb-9065-2840c4d17cfc",
-      "title": "Safety-Critical Software Engineer (R5788)",
+      "title": "Senior Safety-Critical Software Engineer (R5788)",
       "location": "San Diego, California",
       "team": "Engineering",
       "url": "https://jobs.lever.co/shieldai/bfa00574-c549-48fb-9065-2840c4d17cfc",
