@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-08T00:00:22.917Z",
+  "generatedAt": "2026-10-08T00:10:18.586Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Nvidia:JR2023124"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 176,
     "new-grad": 30,
-    "experienced": 2364
+    "experienced": 2365
   },
   "companies": [
     {
@@ -1422,10 +1424,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": true,
+      "ok": false,
       "jobCount": 21,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Dolls Kill",
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 141,
+      "jobCount": 142,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2023124",
+      "title": "Senior Machine Learning Engineer, Cosmos Engineering",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ML-Engineer--Metropolis_JR2023124",
+      "postedAt": "2026-10-08T00:10:22.771Z",
+      "key": "Nvidia:JR2023124",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T00:10:18.586Z"
+    },
     {
       "id": "R169307",
       "title": "Staff Software Development Engineer",
