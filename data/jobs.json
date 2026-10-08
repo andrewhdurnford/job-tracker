@@ -1,21 +1,18 @@
 {
-  "generatedAt": "2026-10-08T18:40:19.830Z",
+  "generatedAt": "2026-10-08T18:50:16.913Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "airbyte:9d81a132-966b-4f37-b198-d950e23a7765",
-    "airbyte:1a29f42d-e446-4ea0-a4f6-c3886e71ba7d",
-    "Nvidia:JR2025254",
-    "Tempus AI:JR202601056"
+    "waymo:8262154"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 176,
+    "intern": 177,
     "new-grad": 31,
-    "experienced": 2366
+    "experienced": 2364
   },
   "companies": [
     {
@@ -1246,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -1758,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1877,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2066,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5306,7 +5303,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5481,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 58,
+      "jobCount": 59,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5701,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8262154",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8262154",
+      "postedAt": "2026-10-08T18:41:58.000Z",
+      "key": "waymo:8262154",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T18:50:16.913Z"
+    },
     {
       "id": "JR2025254",
       "title": "Senior Applied AI Engineer",
@@ -6394,22 +6413,6 @@
         "us"
       ],
       "firstSeen": "2026-10-08T14:30:24.456Z"
-    },
-    {
-      "id": "R30192",
-      "title": "Sr. AI SDLC Engineer (Remote)",
-      "location": "USA - Remote, OR",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-OR/Sr-AI-SDLC-Engineer--Remote-_R30192",
-      "postedAt": "2026-10-08T14:20:21.695Z",
-      "key": "CrowdStrike:R30192",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T14:20:17.857Z"
     },
     {
       "id": "R29587",
@@ -11507,23 +11510,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-05T17:20:17.495Z"
-    },
-    {
-      "id": "8256320",
-      "title": "Senior Software Engineer, Identity",
-      "location": "United States | Remote",
-      "team": null,
-      "url": "https://careers.upstart.com/jobs?gh_jid=8256320",
-      "postedAt": "2026-10-05T17:14:01.000Z",
-      "key": "upstart:8256320",
-      "company": "Upstart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
       ],
       "firstSeen": "2026-10-05T17:20:17.495Z"
     },
