@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-08T14:40:19.935Z",
+  "generatedAt": "2026-10-08T14:50:16.042Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "braintrust:2a6c4ee9-063f-45d4-83ba-faf64b1f1a60",
+    "Capital One:R1003153",
+    "lumaai:d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 177,
     "new-grad": 30,
-    "experienced": 2360
+    "experienced": 2362
   },
   "companies": [
     {
@@ -681,7 +685,7 @@
     {
       "name": "Braintrust",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 263,
+      "jobCount": 264,
       "error": null,
       "stale": false
     },
@@ -2536,7 +2540,7 @@
     {
       "name": "Kaizen Labs",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2823,7 +2827,7 @@
     {
       "name": "Luma AI",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 118,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003153",
+      "title": "Full Stack Engineer 4 (GoLang, AWS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--GoLang--AWS-_R1003153",
+      "postedAt": "2026-10-08T14:50:18.908Z",
+      "key": "Capital One:R1003153",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T14:50:16.042Z"
+    },
+    {
+      "id": "2a6c4ee9-063f-45d4-83ba-faf64b1f1a60",
+      "title": "Software Engineer, SDK",
+      "location": "Remote (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/braintrust/2a6c4ee9-063f-45d4-83ba-faf64b1f1a60",
+      "postedAt": "2026-10-08T14:48:56.022Z",
+      "key": "braintrust:2a6c4ee9-063f-45d4-83ba-faf64b1f1a60",
+      "company": "Braintrust",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-08T14:50:16.042Z"
+    },
+    {
+      "id": "d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d",
+      "title": "Research Scientist / Engineer – Training Infrastructure",
+      "location": "Redwood City, CA (+3 more)",
+      "team": "Data Infrastructure",
+      "url": "https://jobs.ashbyhq.com/lumaai/d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d",
+      "postedAt": "2026-10-08T14:40:33.146Z",
+      "key": "lumaai:d2ecd718-6ba4-42a4-a067-e5f8c4c8bb1d",
+      "company": "Luma AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T14:50:16.042Z"
+    },
     {
       "id": "R26_1121",
       "title": "Infrastructure Developer - R&D Tools & Systems",
@@ -46616,22 +46669,6 @@
         "us"
       ],
       "firstSeen": "2026-09-08T15:40:23.030Z"
-    },
-    {
-      "id": "fea8a38f-0f22-47d6-bbf9-a72ef6bb215c",
-      "title": "Applied AI Engineer",
-      "location": "New York, NY",
-      "team": "Applied AI",
-      "url": "https://jobs.ashbyhq.com/kaizenlabs/fea8a38f-0f22-47d6-bbf9-a72ef6bb215c",
-      "postedAt": "2026-09-08T14:47:09.575Z",
-      "key": "kaizenlabs:fea8a38f-0f22-47d6-bbf9-a72ef6bb215c",
-      "company": "Kaizen Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T14:50:16.690Z"
     },
     {
       "id": "R30005",
