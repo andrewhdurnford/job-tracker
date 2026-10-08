@@ -1,18 +1,21 @@
 {
-  "generatedAt": "2026-10-08T20:30:21.862Z",
+  "generatedAt": "2026-10-08T20:40:52.406Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "valaratomics:4432119009"
+    "billiontoone:4741480005",
+    "CrowdStrike:R29807",
+    "DocuSign:30478",
+    "scaleai:4739920005"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 179,
+    "intern": 180,
     "new-grad": 31,
-    "experienced": 2361
+    "experienced": 2360
   },
   "companies": [
     {
@@ -571,7 +574,7 @@
     {
       "name": "BillionToOne",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -928,7 +931,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -936,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1243,7 +1246,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -1425,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1877,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3413,7 +3416,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4232,7 +4235,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -4372,7 +4375,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4855,7 +4858,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29807",
+      "title": "Software Engineer III, Cloud - Falcon Asset Manager Platform (Hybrid)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Cloud-Engineer-III--Falcon-Exposure-Management--Hybrid-_R29807",
+      "postedAt": "2026-10-08T20:40:56.716Z",
+      "key": "CrowdStrike:R29807",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T20:40:52.406Z"
+    },
+    {
+      "id": "4741480005",
+      "title": "Senior Director, Software Product Management and Product Engineering",
+      "location": "Menlo Park, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4741480005",
+      "postedAt": "2026-10-08T20:38:35.000Z",
+      "key": "billiontoone:4741480005",
+      "company": "BillionToOne",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T20:40:52.406Z"
+    },
+    {
+      "id": "30478",
+      "title": "Software Engineer Intern",
+      "location": "US-Seattle-3rd",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30478/login",
+      "postedAt": "2026-10-08T20:34:00.000Z",
+      "key": "DocuSign:30478",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T20:40:52.406Z"
+    },
     {
       "id": "4432119009",
       "title": "Production Quality Engineer",
@@ -14955,6 +15006,22 @@
         "us"
       ],
       "firstSeen": "2026-10-01T22:30:19.719Z"
+    },
+    {
+      "id": "4739920005",
+      "title": "Senior Software Engineer, Orchestration Platform",
+      "location": "San Francisco, CA; New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4739920005",
+      "postedAt": "2026-10-01T22:18:20.000Z",
+      "key": "scaleai:4739920005",
+      "company": "Scale AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T20:40:52.406Z"
     },
     {
       "id": "6651fe75-ccdc-4837-8374-4aa8053b714d",
@@ -36486,22 +36553,6 @@
       "firstSeen": "2026-09-17T14:40:19.472Z"
     },
     {
-      "id": "8167546",
-      "title": "Senior Software Engineer, AI Security",
-      "location": "Bellevue, WA; Menlo Park, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8167546?t=gh_src=&gh_jid=8167546",
-      "postedAt": "2026-09-17T14:23:57.000Z",
-      "key": "robinhood:8167546",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-17T14:30:58.950Z"
-    },
-    {
       "id": "8815466002",
       "title": "Senior Software Engineer, Frontend",
       "location": "Vancouver, British Columbia, Canada",
@@ -45574,22 +45625,6 @@
       "firstSeen": "2026-09-09T18:00:25.673Z"
     },
     {
-      "id": "8790231002",
-      "title": "Senior Data Scientist, Organic Growth",
-      "location": "San Francisco, CA, USA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/chime/jobs/8790231002?gh_jid=8790231002",
-      "postedAt": "2026-09-09T17:55:42.000Z",
-      "key": "chime:8790231002",
-      "company": "Chime",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T18:00:25.673Z"
-    },
-    {
       "id": "5104d34f-d58a-4165-bb30-9a96c8ff311c",
       "title": "Staff Software Engineer, Ray Data",
       "location": "San Francisco",
@@ -46578,38 +46613,6 @@
         "us"
       ],
       "firstSeen": "2026-09-08T20:50:21.839Z"
-    },
-    {
-      "id": "8175271",
-      "title": "Senior/Staff Engineer, Machine Learning - Online Mapping",
-      "location": "Mountain View, California (HQ)",
-      "team": null,
-      "url": "https://nuro.ai/careersitem?gh_jid=8175271",
-      "postedAt": "2026-09-08T20:40:44.000Z",
-      "key": "nuro:8175271",
-      "company": "Nuro",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T20:50:21.839Z"
-    },
-    {
-      "id": "5444295f-78b1-490e-a9a1-f93120d06f77",
-      "title": "Senior / Staff Data Scientist, Growth Monetization",
-      "location": "NYC",
-      "team": "Data",
-      "url": "https://jobs.ashbyhq.com/suno/5444295f-78b1-490e-a9a1-f93120d06f77",
-      "postedAt": "2026-09-08T20:31:18.848Z",
-      "key": "suno:5444295f-78b1-490e-a9a1-f93120d06f77",
-      "company": "Suno",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T20:40:17.776Z"
     },
     {
       "id": "R999617",
