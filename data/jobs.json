@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-08T21:40:17.233Z",
+  "generatedAt": "2026-10-08T21:48:56.673Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "mach9:6189f940-38ab-4235-80fb-1dda13966435",
+    "tanium:8250452"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 179,
+    "intern": 180,
     "new-grad": 30,
-    "experienced": 2364
+    "experienced": 2365
   },
   "companies": [
     {
@@ -2851,7 +2854,7 @@
     {
       "name": "Mach9",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4972,7 +4975,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8250452",
+      "title": "Senior Security Engineer - Vulnerability Research ",
+      "location": "Remote, US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8250452",
+      "postedAt": "2026-10-08T21:42:29.000Z",
+      "key": "tanium:8250452",
+      "company": "Tanium",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T21:48:56.673Z"
+    },
+    {
+      "id": "6189f940-38ab-4235-80fb-1dda13966435",
+      "title": "Perception Intern, Fall 2026",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mach9/6189f940-38ab-4235-80fb-1dda13966435",
+      "postedAt": "2026-10-08T21:41:01.916Z",
+      "key": "mach9:6189f940-38ab-4235-80fb-1dda13966435",
+      "company": "Mach9",
+      "level": "intern",
+      "term": {
+        "label": "Fall 2026",
+        "seasons": [
+          "fall"
+        ],
+        "year": 2026
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T21:48:56.673Z"
+    },
     {
       "id": "8017077003",
       "title": "Staff Enterprise Security Engineer",
