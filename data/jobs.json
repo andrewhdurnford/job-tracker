@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:10:17.469Z",
+  "generatedAt": "2026-10-08T02:20:15.273Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 177,
     "new-grad": 30,
-    "experienced": 2368
+    "experienced": 2367
   },
   "companies": [
     {
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5105,7 +5105,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -21033,22 +21033,6 @@
       "postedAt": "2026-09-28T15:58:13.000Z",
       "key": "stripe:8224915",
       "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T16:00:28.504Z"
-    },
-    {
-      "id": "8201029",
-      "title": "Staff Software Engineer, Finance Automation",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8201029",
-      "postedAt": "2026-09-28T15:54:55.000Z",
-      "key": "toast:8201029",
-      "company": "Toast",
       "level": "experienced",
       "term": null,
       "regions": [
