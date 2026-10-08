@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-10-08T18:50:16.913Z",
+  "generatedAt": "2026-10-08T19:00:24.102Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "waymo:8262154"
+    "attentive:4438176009",
+    "Nvidia:JR2022263",
+    "reddit:8263407",
+    "weave:ce79425d-20fc-4c15-841f-3445b86b05b5"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 177,
     "new-grad": 31,
-    "experienced": 2364
+    "experienced": 2366
   },
   "companies": [
     {
@@ -473,7 +476,7 @@
     {
       "name": "Attentive",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1877,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4106,7 +4109,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4337,7 +4340,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -5492,7 +5495,7 @@
     {
       "name": "Weave",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,70 @@
   ],
   "jobs": [
     {
+      "id": "JR2022263",
+      "title": "Senior Software Engineer, Full-Stack",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Full-Stack_JR2022263",
+      "postedAt": "2026-10-08T19:00:28.743Z",
+      "key": "Nvidia:JR2022263",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T19:00:24.102Z"
+    },
+    {
+      "id": "4438176009",
+      "title": "Director of Engineering, Cloud Platform",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4438176009",
+      "postedAt": "2026-10-08T18:57:46.000Z",
+      "key": "attentive:4438176009",
+      "company": "Attentive",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T19:00:24.102Z"
+    },
+    {
+      "id": "8263407",
+      "title": "Senior Android Software Engineer, Consumer Engineering",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8263407",
+      "postedAt": "2026-10-08T18:55:18.000Z",
+      "key": "reddit:8263407",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T19:00:24.102Z"
+    },
+    {
+      "id": "ce79425d-20fc-4c15-841f-3445b86b05b5",
+      "title": "Site Reliability Engineer, Cloud Infrastructure",
+      "location": "Weave - Headquarters (Lehi, UT)",
+      "team": "Technology",
+      "url": "https://jobs.ashbyhq.com/weave/ce79425d-20fc-4c15-841f-3445b86b05b5",
+      "postedAt": "2026-10-08T18:52:23.665Z",
+      "key": "weave:ce79425d-20fc-4c15-841f-3445b86b05b5",
+      "company": "Weave",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T19:00:24.102Z"
+    },
+    {
       "id": "8262154",
       "title": "2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
       "location": "Mountain View, CA, USA",
@@ -5722,22 +5789,6 @@
         "us"
       ],
       "firstSeen": "2026-10-08T18:50:16.913Z"
-    },
-    {
-      "id": "JR2025254",
-      "title": "Senior Applied AI Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-AI-Engineer_JR2025254-1",
-      "postedAt": "2026-10-08T18:40:23.314Z",
-      "key": "Nvidia:JR2025254",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T18:40:19.830Z"
     },
     {
       "id": "JR202601056",
@@ -46605,22 +46656,6 @@
         "us"
       ],
       "firstSeen": "2026-09-08T19:20:21.967Z"
-    },
-    {
-      "id": "8139255",
-      "title": "Senior Manager, Quality Engineering",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8139255?gh_jid=8139255",
-      "postedAt": "2026-09-08T18:58:37.000Z",
-      "key": "samsara:8139255",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T19:00:28.393Z"
     },
     {
       "id": "R999617",
