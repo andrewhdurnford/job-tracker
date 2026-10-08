@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-10-08T19:50:19.230Z",
+  "generatedAt": "2026-10-08T20:00:25.363Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "DocuSign:30510",
-    "Nvidia:JR2025254"
+    "affirm:8012043003",
+    "fivetran:8017186003",
+    "waymo:8265173"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 178,
+    "intern": 179,
     "new-grad": 31,
-    "experienced": 2368
+    "experienced": 2363
   },
   "companies": [
     {
@@ -82,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -1790,7 +1791,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -2056,7 +2057,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 59,
+      "jobCount": 60,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,60 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8012043003",
+      "title": "Software Engineer II, Backend (Online Storage)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8012043003",
+      "postedAt": "2026-10-08T19:53:50.000Z",
+      "key": "affirm:8012043003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-08T20:00:25.363Z"
+    },
+    {
+      "id": "8265173",
+      "title": "2026 Summer Intern, PhD, Research, World Modeling Evaluation",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8265173",
+      "postedAt": "2026-10-08T19:53:38.000Z",
+      "key": "waymo:8265173",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2026",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2026
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T20:00:25.363Z"
+    },
+    {
+      "id": "8017186003",
+      "title": "Senior Software Engineer - Orchestration",
+      "location": "USA - Austin (dbt)",
+      "team": null,
+      "url": "https://www.fivetran.com/careers/job?gh_jid=8017186003",
+      "postedAt": "2026-10-08T19:50:40.000Z",
+      "key": "fivetran:8017186003",
+      "company": "Fivetran",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-08T20:00:25.363Z"
+    },
     {
       "id": "JR2025254",
       "title": "Senior Applied AI Engineer",
@@ -33873,118 +33928,6 @@
         "us"
       ],
       "firstSeen": "2026-09-18T18:30:22.283Z"
-    },
-    {
-      "id": "6200723004",
-      "title": "Senior Engineering Manager, Grafana Frontend | Canada | Remote",
-      "location": "Canada (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200723004",
-      "postedAt": "2026-09-18T17:59:20.000Z",
-      "key": "grafanalabs:6200723004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-06T00:10:20.976Z"
-    },
-    {
-      "id": "6200726004",
-      "title": "Senior Engineering Manager, Grafana Frontend | Germany | Remote",
-      "location": "Germany (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200726004",
-      "postedAt": "2026-09-18T17:59:18.000Z",
-      "key": "grafanalabs:6200726004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-06T00:10:20.976Z"
-    },
-    {
-      "id": "6200731004",
-      "title": "Senior Engineering Manager, Grafana Frontend | Ireland | Remote",
-      "location": "Republic of Ireland (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200731004",
-      "postedAt": "2026-09-18T17:59:16.000Z",
-      "key": "grafanalabs:6200731004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-06T00:10:20.976Z"
-    },
-    {
-      "id": "6200725004",
-      "title": "Senior Engineering Manager, Grafana Frontend | Spain | Remote",
-      "location": "Spain (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200725004",
-      "postedAt": "2026-09-18T17:59:14.000Z",
-      "key": "grafanalabs:6200725004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-06T00:10:20.976Z"
-    },
-    {
-      "id": "6200798004",
-      "title": "Senior Engineering Manager, Grafana Frontend | Sweden | Remote",
-      "location": "Sweden (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200798004",
-      "postedAt": "2026-09-18T17:59:13.000Z",
-      "key": "grafanalabs:6200798004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-06T00:10:20.976Z"
-    },
-    {
-      "id": "6200793004",
-      "title": "Senior Engineering Manager, Grafana Frontend | United Kingdom | Remote",
-      "location": "United Kingdom (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200793004",
-      "postedAt": "2026-09-18T17:59:11.000Z",
-      "key": "grafanalabs:6200793004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-06T00:10:20.976Z"
-    },
-    {
-      "id": "6200721004",
-      "title": "Senior Engineering Manager, Grafana Frontend | USA | Remote",
-      "location": "United States (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6200721004",
-      "postedAt": "2026-09-18T17:59:09.000Z",
-      "key": "grafanalabs:6200721004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T00:10:20.976Z"
     },
     {
       "id": "8199365",
