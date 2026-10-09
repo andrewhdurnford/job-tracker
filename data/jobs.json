@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T06:50:16.622Z",
+  "generatedAt": "2026-10-09T07:00:26.231Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 175,
+    "intern": 174,
     "new-grad": 29,
-    "experienced": 2381
+    "experienced": 2372
   },
   "companies": [
     {
@@ -786,7 +786,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 265,
+      "jobCount": 263,
       "error": null,
       "stale": false
     },
@@ -1142,10 +1142,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Conveo",
@@ -1241,7 +1241,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3425,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 147,
+      "jobCount": 144,
       "error": null,
       "stale": false
     },
@@ -3887,7 +3887,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5399,7 +5399,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -46783,70 +46783,6 @@
       "firstSeen": "2026-09-09T07:10:17.908Z"
     },
     {
-      "id": "JR2023969",
-      "title": "Staff Site Reliability Engineer - AI Platform Runtime",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-Site-Reliability-Engineer---AI-Platform-Runtime_JR2023969",
-      "postedAt": "2026-09-09T04:00:33.087Z",
-      "key": "Nvidia:JR2023969",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T04:00:28.107Z"
-    },
-    {
-      "id": "JR2023973",
-      "title": "Principal Site Reliability Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Site-Reliability-Engineer_JR2023973",
-      "postedAt": "2026-09-09T03:50:31.848Z",
-      "key": "Nvidia:JR2023973",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T03:50:27.736Z"
-    },
-    {
-      "id": "JR2025353",
-      "title": "Principal Applied Research Engineer, Content Authenticity",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Applied-Research-Engineer--Content-Authenticity_JR2025353",
-      "postedAt": "2026-09-09T02:00:28.740Z",
-      "key": "Nvidia:JR2025353",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T02:00:24.449Z"
-    },
-    {
-      "id": "R0018550",
-      "title": "Senior Software Engineer - Frontend",
-      "location": "US - Texas - Austin",
-      "team": null,
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-Software-Engineer---Frontend_R0018550-1",
-      "postedAt": "2026-09-09T00:20:20.899Z",
-      "key": "Procore:R0018550",
-      "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T00:20:17.428Z"
-    },
-    {
       "id": "R999617",
       "title": "Intern, Data Analytics Engineering - Winter 2027",
       "location": "Toronto, ON",
@@ -46854,28 +46790,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Winter-2027_R999617-1",
       "postedAt": "2026-09-08T18:30:28.164Z",
       "key": "Capital One:R999617",
-      "company": "Capital One",
-      "level": "intern",
-      "term": {
-        "label": "Winter 2027",
-        "seasons": [
-          "winter"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-08T18:30:25.017Z"
-    },
-    {
-      "id": "R999619",
-      "title": "Intern, Data Scientist - Winter 2027",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1",
-      "postedAt": "2026-09-08T18:30:28.164Z",
-      "key": "Capital One:R999619",
       "company": "Capital One",
       "level": "intern",
       "term": {
@@ -46907,22 +46821,6 @@
       "firstSeen": "2026-09-08T17:10:19.398Z"
     },
     {
-      "id": "REF082840W",
-      "title": "Sr. Manager, Software Engineering (DevOps / Platform Engineering)",
-      "location": "US - Foster City, CA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Senior-Manager--SW-Engineering_REF082840W",
-      "postedAt": "2026-09-08T16:30:26.162Z",
-      "key": "Visa:REF082840W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T16:30:21.668Z"
-    },
-    {
       "id": "894b22a8-cb2f-43f2-ade8-eff8fa0a520f",
       "title": "Software Engineer",
       "location": "Toronto Office",
@@ -46937,54 +46835,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-08T15:50:57.393Z"
-    },
-    {
-      "id": "R30005",
-      "title": "Engineering Manager - Core Infrastructure (Remote)",
-      "location": "7 Locations",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-NY/Engineering-Manager---Core-Infrastructure--Remote-_R30005",
-      "postedAt": "2026-09-08T13:40:22.141Z",
-      "key": "CrowdStrike:R30005",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-08T13:40:17.780Z"
-    },
-    {
-      "id": "R30029",
-      "title": "Engineer III - Platform Data Engineer (Remote)",
-      "location": "USA - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-III---Platform-Data-Engineer--Remote-_R30029",
-      "postedAt": "2026-09-08T13:30:32.660Z",
-      "key": "CrowdStrike:R30029",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T13:30:28.092Z"
-    },
-    {
-      "id": "R29878",
-      "title": "Sr. Data Scientist - Gen AI (Remote)",
-      "location": "3 Locations",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Sr-Data-Scientist---Gen-AI--Remote-_R29878",
-      "postedAt": "2026-09-08T12:50:21.940Z",
-      "key": "CrowdStrike:R29878",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-08T12:50:17.285Z"
     },
     {
       "id": "JR2024372",
@@ -47289,22 +47139,6 @@
         "us"
       ],
       "firstSeen": "2026-08-27T21:20:18.805Z"
-    },
-    {
-      "id": "R999028",
-      "title": "Staff Android Engineer",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Android-Engineer_R999028-1",
-      "postedAt": "2026-08-27T17:30:26.078Z",
-      "key": "Capital One:R999028",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-08-27T17:30:22.615Z"
     },
     {
       "id": "9a175381-45e2-42b6-bd64-6c84532365f9",
