@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-09T17:20:15.466Z",
+  "generatedAt": "2026-10-09T17:30:21.936Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "strava:8f4937e3-fe33-4fc2-a97d-4b9e90f77e2f",
-    "supabase:9073c0cd-2545-473a-b2ac-63e4615c69b5"
+    "affirm:8003030003",
+    "affirm:7995361003",
+    "affirm:7995359003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 173,
     "new-grad": 29,
-    "experienced": 2372
+    "experienced": 2368
   },
   "companies": [
     {
@@ -68,7 +69,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -82,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 268,
+      "jobCount": 266,
       "error": null,
       "stale": false
     },
@@ -937,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1244,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -1419,7 +1420,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1756,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4471,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 121,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "8003030003",
+      "title": "Software Engineer II, Backend (Batch Developer Experience)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
+      "postedAt": "2026-10-09T17:23:15.000Z",
+      "key": "affirm:8003030003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-09T17:30:21.936Z"
+    },
+    {
+      "id": "7995359003",
+      "title": "Staff Software Engineer, Backend (Fraud Decisioning) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7995359003",
+      "postedAt": "2026-10-09T17:22:38.000Z",
+      "key": "affirm:7995359003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T17:30:21.936Z"
+    },
+    {
+      "id": "7995361003",
+      "title": "Staff Software Engineer, Backend (Fraud Decisioning)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7995361003",
+      "postedAt": "2026-10-09T17:22:36.000Z",
+      "key": "affirm:7995361003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-09T17:30:21.936Z"
+    },
+    {
       "id": "9073c0cd-2545-473a-b2ac-63e4615c69b5",
       "title": "Platform Engineer, Managed Postgres",
       "location": "Remote, Global",
@@ -6182,22 +6231,6 @@
         "us"
       ],
       "firstSeen": "2026-10-09T13:30:21.353Z"
-    },
-    {
-      "id": "8003026003",
-      "title": "Software Engineer II, Backend (Batch Developer Experience)",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003026003",
-      "postedAt": "2026-10-09T13:12:31.000Z",
-      "key": "affirm:8003026003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-09T13:20:16.248Z"
     },
     {
       "id": "a1c86d02-e9df-4580-87e4-1333f2b83e94",
@@ -7505,7 +7538,7 @@
     },
     {
       "id": "8261916",
-      "title": "Principal Software Engineer",
+      "title": "Principal Software Engineer, Product Engineering",
       "location": "Remote - Canada: Select locations",
       "team": null,
       "url": "https://jobs.dropbox.com/listing/8261916?gh_jid=8261916",
@@ -7521,7 +7554,7 @@
     },
     {
       "id": "8261911",
-      "title": "Principal Software Engineer",
+      "title": "Principal Software Engineer, Product Engineering",
       "location": "Remote - US: All locations",
       "team": null,
       "url": "https://jobs.dropbox.com/listing/8261911?gh_jid=8261911",
@@ -19053,22 +19086,6 @@
       "firstSeen": "2026-09-30T17:50:19.650Z"
     },
     {
-      "id": "R1001713",
-      "title": "Full-Stack Engineer 5",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-5_R1001713-1",
-      "postedAt": "2026-09-30T17:50:22.518Z",
-      "key": "Capital One:R1001713",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T17:50:19.650Z"
-    },
-    {
       "id": "R1002600",
       "title": "Integration Engineer 4 - Mainframe DB2 DBA",
       "location": "Riverwoods, IL",
@@ -23666,22 +23683,6 @@
         "us"
       ],
       "firstSeen": "2026-09-28T09:00:23.782Z"
-    },
-    {
-      "id": "R30219",
-      "title": "Sr. Backend Engineer (Hybrid, NYC)",
-      "location": "USA - New York, NY",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---New-York-NY/Sr-Backend-Engineer--Hybrid--NYC-_R30219",
-      "postedAt": "2026-09-28T04:00:31.674Z",
-      "key": "CrowdStrike:R30219",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T04:00:27.446Z"
     },
     {
       "id": "8849598002",
@@ -31013,22 +31014,6 @@
       "firstSeen": "2026-09-22T19:20:26.415Z"
     },
     {
-      "id": "R1001592",
-      "title": "Full-stack Engineer 4",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001592-1",
-      "postedAt": "2026-09-22T19:10:20.950Z",
-      "key": "Capital One:R1001592",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T19:10:17.867Z"
-    },
-    {
       "id": "df56ef1b-4d8b-4eda-bc03-ce9db800e533",
       "title": "AI deployment engineer (Central)",
       "location": "Chicago, IL (+1 more)",
@@ -31229,22 +31214,6 @@
       "postedAt": "2026-09-22T18:42:23.238Z",
       "key": "shieldai:afdc8f40-1594-4ac6-ac1e-12178515dd66",
       "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T18:45:56.438Z"
-    },
-    {
-      "id": "f50260bc-5da2-475d-bc4b-172ad7c5aa01",
-      "title": "Principal Forward Deployed Engineer",
-      "location": "San Jose, CA",
-      "team": "ENG-FDE",
-      "url": "https://jobs.ashbyhq.com/docker/f50260bc-5da2-475d-bc4b-172ad7c5aa01",
-      "postedAt": "2026-09-22T18:40:30.899Z",
-      "key": "docker:f50260bc-5da2-475d-bc4b-172ad7c5aa01",
-      "company": "Docker",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -35965,22 +35934,6 @@
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Platform-Engineer-4_R170850-1",
       "postedAt": "2026-09-18T08:10:32.111Z",
       "key": "Adobe:R170850",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
-      "id": "R171752",
-      "title": "Sr. Applied AI Engineer",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-Applied-AI-Engineer_R171752",
-      "postedAt": "2026-09-18T08:10:30.734Z",
-      "key": "Adobe:R171752",
       "company": "Adobe",
       "level": "experienced",
       "term": null,
@@ -46694,22 +46647,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T17:50:16.563Z"
-    },
-    {
-      "id": "9b07c4dd-966f-4376-b0b5-399b704cf249",
-      "title": "Senior Engineer, Software (R5970)",
-      "location": "San Diego, California (+1 more)",
-      "team": "Core Services & Infra",
-      "url": "https://jobs.lever.co/shieldai/9b07c4dd-966f-4376-b0b5-399b704cf249",
-      "postedAt": "2026-09-09T17:21:25.932Z",
-      "key": "shieldai:9b07c4dd-966f-4376-b0b5-399b704cf249",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T17:26:44.391Z"
     },
     {
       "id": "R25320",
