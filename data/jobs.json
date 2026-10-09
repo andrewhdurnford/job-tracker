@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-09T16:30:20.420Z",
+  "generatedAt": "2026-10-09T16:40:15.733Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1003192",
-    "cursor:5afc044a-00ed-4392-8759-59c7effe179d",
-    "Nvidia:JR2020003",
-    "Visa:REF089230W"
+    "Capital One:R247320",
+    "Capital One:R1003463",
+    "stripe:8265763"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,8 +13,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 172,
-    "new-grad": 28,
-    "experienced": 2377
+    "new-grad": 29,
+    "experienced": 2376
   },
   "companies": [
     {
@@ -791,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 266,
+      "jobCount": 268,
       "error": null,
       "stale": false
     },
@@ -1015,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -1918,7 +1917,7 @@
     {
       "name": "Garner Health",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 121,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R247320",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "postedAt": "2026-10-09T16:40:19.338Z",
+      "key": "Capital One:R247320",
+      "company": "Capital One",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-09T16:40:15.733Z"
+    },
+    {
+      "id": "R1003463",
+      "title": "Director, Data Science - Consumer and Developer Experience (Remote-Eligible)",
+      "location": "7 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Director--Data-Science---Consumer-and-Developer-Experience--Remote-Eligible-_R1003463-1",
+      "postedAt": "2026-10-09T16:40:19.338Z",
+      "key": "Capital One:R1003463",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-09T16:40:15.733Z"
+    },
+    {
+      "id": "8265763",
+      "title": "Software Engineer, Internal Identity",
+      "location": "US",
+      "team": "8612 Security Infrastructure",
+      "url": "https://stripe.com/jobs/search?gh_jid=8265763",
+      "postedAt": "2026-10-09T16:38:17.000Z",
+      "key": "stripe:8265763",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T16:40:15.733Z"
+    },
     {
       "id": "JR2020003",
       "title": "Senior Director, Developer Marketing",
@@ -8319,22 +8366,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T22:10:18.218Z"
-    },
-    {
-      "id": "8263356",
-      "title": "Software Engineer, Internal Identity",
-      "location": "US",
-      "team": "8612 Security Infrastructure",
-      "url": "https://stripe.com/jobs/search?gh_jid=8263356",
-      "postedAt": "2026-10-07T21:58:34.000Z",
-      "key": "stripe:8263356",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T22:20:15.917Z"
     },
     {
       "id": "8243617",
@@ -46778,38 +46809,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T16:50:19.255Z"
-    },
-    {
-      "id": "8178593",
-      "title": "Senior Software Engineer, Deploy at Scale",
-      "location": "Austin, TX (+1 more)",
-      "team": "Engineering",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8178593?gh_jid=8178593",
-      "postedAt": "2026-09-09T16:31:34.000Z",
-      "key": "cloudflare:8178593",
-      "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T16:40:19.967Z"
-    },
-    {
-      "id": "6186647004",
-      "title": "Staff Machine Learning Operations Engineer",
-      "location": "New York City, New York",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6186647004",
-      "postedAt": "2026-09-09T16:31:12.000Z",
-      "key": "garnerhealth:6186647004",
-      "company": "Garner Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T16:40:19.967Z"
     },
     {
       "id": "R29483",
