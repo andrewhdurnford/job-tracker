@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-09T19:30:21.267Z",
+  "generatedAt": "2026-10-09T19:40:16.714Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "affirm:8016868003",
-    "affirm:8016866003",
-    "roblox:8260221"
+    "affirm:7981725003",
+    "affirm:7981723003",
+    "coinbase:8267151",
+    "DocuSign:29922",
+    "newrelic:5436245008",
+    "roblox:8221890"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +17,7 @@
   "levelCounts": {
     "intern": 174,
     "new-grad": 26,
-    "experienced": 2374
+    "experienced": 2380
   },
   "companies": [
     {
@@ -83,7 +86,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -1056,7 +1059,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -1427,7 +1430,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -2919,7 +2922,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3324,7 +3327,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4241,7 +4244,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 60,
+      "jobCount": 61,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5706,102 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7981725003",
+      "title": "Senior Software Engineer, Fullstack (App Experience)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7981725003",
+      "postedAt": "2026-10-09T19:39:25.000Z",
+      "key": "affirm:7981725003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-09T19:40:16.714Z"
+    },
+    {
+      "id": "7981723003",
+      "title": "Senior Software Engineer, Fullstack (App Experience)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7981723003",
+      "postedAt": "2026-10-09T19:39:23.000Z",
+      "key": "affirm:7981723003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T19:40:16.714Z"
+    },
+    {
+      "id": "5436245008",
+      "title": "GTM AI Engineer (Automation & AI)",
+      "location": "Portland, Oregon, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5436245008",
+      "postedAt": "2026-10-09T19:37:53.000Z",
+      "key": "newrelic:5436245008",
+      "company": "New Relic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T19:40:16.714Z"
+    },
+    {
+      "id": "8221890",
+      "title": "Senior Software Engineer - Data Acquisition",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8221890?gh_jid=8221890",
+      "postedAt": "2026-10-09T19:35:43.000Z",
+      "key": "roblox:8221890",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T19:40:16.714Z"
+    },
+    {
+      "id": "29922",
+      "title": "Detection Engineer",
+      "location": "US-SFO-Main",
+      "team": "Security",
+      "url": "https://uscareers-docusign.icims.com/jobs/29922/login",
+      "postedAt": "2026-10-09T19:34:00.000Z",
+      "key": "DocuSign:29922",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T19:40:16.714Z"
+    },
+    {
+      "id": "8267151",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8267151?gh_jid=8267151",
+      "postedAt": "2026-10-09T19:31:10.000Z",
+      "key": "coinbase:8267151",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T19:40:16.714Z"
+    },
     {
       "id": "8016868003",
       "title": "Software Engineer II, Fullstack (Ads Platform)",
