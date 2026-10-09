@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-10-09T21:30:19.484Z",
+  "generatedAt": "2026-10-09T21:40:14.908Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "affirm:8010615003",
-    "affirm:8010496003",
-    "CrowdStrike:R29171",
-    "Nvidia:JR2026839",
-    "shieldai:7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69"
+    "CrowdStrike:R27157",
+    "elastic:8240105",
+    "gusto:8208432"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -554,7 +552,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -771,7 +769,7 @@
     {
       "name": "Candid Health",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1247,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -1527,7 +1525,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2108,7 +2106,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -2990,7 +2988,7 @@
     {
       "name": "Mercury",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "R27157",
+      "title": "Sr. Software Engineer - Sensor - Cloud Runtime Protection (Hybrid)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27157",
+      "postedAt": "2026-10-09T21:40:18.689Z",
+      "key": "CrowdStrike:R27157",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T21:40:14.908Z"
+    },
+    {
+      "id": "8208432",
+      "title": "Staff Software Engineer, Gusto Pro",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8208432",
+      "postedAt": "2026-10-09T21:39:21.000Z",
+      "key": "gusto:8208432",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T21:40:14.908Z"
+    },
+    {
+      "id": "8240105",
+      "title": "Principal Software Engineer I - CI/CD - Platform Engineering Productivity",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8240105&gh_jid=8240105",
+      "postedAt": "2026-10-09T21:35:46.000Z",
+      "key": "elastic:8240105",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T21:40:14.908Z"
+    },
+    {
       "id": "JR2026839",
       "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
       "location": "US, CA, Santa Clara",
@@ -5761,7 +5807,7 @@
     },
     {
       "id": "8010496003",
-      "title": "Senior Software Engineer, Frontend (Marketing and Privacy)",
+      "title": "Senior Software Engineer, Fullstack (Marketing and Privacy)   ",
       "location": "Remote Canada",
       "team": null,
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8010496003",
@@ -46605,55 +46651,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T22:10:37.000Z"
-    },
-    {
-      "id": "6186862004",
-      "title": "Senior Machine Learning Operations Engineer",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6186862004",
-      "postedAt": "2026-09-09T21:37:53.000Z",
-      "key": "mercury:6186862004",
-      "company": "Mercury",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-09T21:40:18.268Z"
-    },
-    {
-      "id": "ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e",
-      "title": "Software Engineer, Tools and Automation",
-      "location": "San Francisco, CA",
-      "team": "Engineering: Security",
-      "url": "https://jobs.ashbyhq.com/benchling/ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e",
-      "postedAt": "2026-09-09T21:31:50.026Z",
-      "key": "benchling:ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e",
-      "company": "Benchling",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T21:40:18.268Z"
-    },
-    {
-      "id": "0842afe5-f841-49af-967c-f8ef36297f01",
-      "title": "TechOps Engineer",
-      "location": "San Francisco (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/candidhealth/0842afe5-f841-49af-967c-f8ef36297f01",
-      "postedAt": "2026-09-09T21:30:32.917Z",
-      "key": "candidhealth:0842afe5-f841-49af-967c-f8ef36297f01",
-      "company": "Candid Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T21:40:18.268Z"
     },
     {
       "id": "REF087840W",
