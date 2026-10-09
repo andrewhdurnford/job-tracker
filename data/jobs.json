@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-10-09T16:20:17.544Z",
+  "generatedAt": "2026-10-09T16:30:20.420Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "scaleai:4742042005",
-    "twilio:8266975"
+    "Capital One:R1003192",
+    "cursor:5afc044a-00ed-4392-8759-59c7effe179d",
+    "Nvidia:JR2020003",
+    "Visa:REF089230W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,8 +14,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 172,
-    "new-grad": 29,
-    "experienced": 2373
+    "new-grad": 28,
+    "experienced": 2377
   },
   "companies": [
     {
@@ -1279,7 +1281,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 144,
+      "jobCount": 145,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 121,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5402,7 +5404,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2020003",
+      "title": "Senior Director, Developer Marketing",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Director--Developer-Marketing_JR2020003",
+      "postedAt": "2026-10-09T16:30:24.645Z",
+      "key": "Nvidia:JR2020003",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T16:30:20.420Z"
+    },
+    {
+      "id": "REF089230W",
+      "title": "Sr. SW Engineer - AI Security",
+      "location": "US - Ashburn, VA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Ashburn-VA/Sr-SW-Engineer---AI-Security_REF089230W",
+      "postedAt": "2026-10-09T16:30:23.879Z",
+      "key": "Visa:REF089230W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T16:30:20.420Z"
+    },
+    {
+      "id": "R1003192",
+      "title": "Full-stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1003192-1",
+      "postedAt": "2026-10-09T16:30:23.250Z",
+      "key": "Capital One:R1003192",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T16:30:20.420Z"
+    },
+    {
+      "id": "5afc044a-00ed-4392-8759-59c7effe179d",
+      "title": "Software Engineer, Grok Connectors ",
+      "location": "Palo Alto, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d",
+      "postedAt": "2026-10-09T16:20:54.964Z",
+      "key": "cursor:5afc044a-00ed-4392-8759-59c7effe179d",
+      "company": "Cursor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T16:30:20.420Z"
+    },
     {
       "id": "8266975",
       "title": "Developer Success Engineer",
@@ -14544,22 +14610,6 @@
         "us"
       ],
       "firstSeen": "2026-10-02T19:30:22.181Z"
-    },
-    {
-      "id": "R247320",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "postedAt": "2026-10-02T19:20:19.197Z",
-      "key": "Capital One:R247320",
-      "company": "Capital One",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-02T19:20:15.918Z"
     },
     {
       "id": "d0920e75-c872-4f73-87a2-c54ee84725bc",
