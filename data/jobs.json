@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-10-09T20:40:16.642Z",
+  "generatedAt": "2026-10-09T20:50:16.832Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Nvidia:JR2027691",
-    "Nvidia:JR2027440",
-    "openai:a6ab3111-7092-4da2-a7a6-71e01351bfda"
+    "shieldai:58b3440f-229c-4aad-9535-47419660931c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 173,
     "new-grad": 26,
-    "experienced": 2380
+    "experienced": 2379
   },
   "companies": [
     {
@@ -440,7 +438,7 @@
     {
       "name": "Astro Mechanica",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1056,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4472,7 +4470,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 121,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "58b3440f-229c-4aad-9535-47419660931c",
+      "title": "Senior Principal Engineer, GNC & State Estimation (R6233)",
+      "location": "San Diego, California",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/shieldai/58b3440f-229c-4aad-9535-47419660931c",
+      "postedAt": "2026-10-09T20:42:29.716Z",
+      "key": "shieldai:58b3440f-229c-4aad-9535-47419660931c",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T20:50:16.832Z"
+    },
     {
       "id": "JR2027691",
       "title": "Director, Software Engineering – Cloud Compute and Infrastructure",
@@ -46742,38 +46756,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T20:50:17.037Z"
-    },
-    {
-      "id": "b9bea31e-e403-4bab-a4d9-150468333bf0",
-      "title": "Senior Flight Software Engineer",
-      "location": "San Francisco",
-      "team": "Software",
-      "url": "https://jobs.ashbyhq.com/astro-mechanica/b9bea31e-e403-4bab-a4d9-150468333bf0",
-      "postedAt": "2026-09-09T20:46:34.494Z",
-      "key": "astro-mechanica:b9bea31e-e403-4bab-a4d9-150468333bf0",
-      "company": "Astro Mechanica",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T20:50:17.037Z"
-    },
-    {
-      "id": "8172100",
-      "title": "Senior Software Engineer, Core Infra Systems",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8172100?gh_jid=8172100",
-      "postedAt": "2026-09-09T20:45:59.000Z",
-      "key": "coinbase:8172100",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T00:50:17.166Z"
     },
     {
       "id": "R25320",
