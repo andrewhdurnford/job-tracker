@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-09T14:50:16.661Z",
+  "generatedAt": "2026-10-09T15:00:29.824Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "anthropic:5369710008",
+    "Capital One:R1003387"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -303,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 262,
+      "jobCount": 263,
       "error": null,
       "stale": false
     },
@@ -1535,7 +1538,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4797,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003387",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1003387-2",
+      "postedAt": "2026-10-09T15:00:33.490Z",
+      "key": "Capital One:R1003387",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T15:00:29.824Z"
+    },
+    {
+      "id": "5369710008",
+      "title": "Staff+ Fullstack Software Engineer, Safeguards Engineering",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369710008",
+      "postedAt": "2026-10-09T14:55:52.000Z",
+      "key": "anthropic:5369710008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T15:00:29.824Z"
+    },
     {
       "id": "081e2fca-f1cf-4da0-abf1-45f15c5b63e7",
       "title": "Senior Software Engineer - React Native - Consumer",
@@ -9307,22 +9342,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-07T14:40:22.629Z"
-    },
-    {
-      "id": "b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
-      "title": "Applied AI Engineer",
-      "location": "Remote",
-      "team": "Paid Marketing",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
-      "postedAt": "2026-10-07T14:25:44.391Z",
-      "key": "elevenlabs:b8a111fa-9fd5-44d0-97ed-8fd1280be4ef",
-      "company": "ElevenLabs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-07T14:30:26.272Z"
     },
     {
       "id": "R1003069",
@@ -46708,22 +46727,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T18:10:21.270Z"
-    },
-    {
-      "id": "8172503",
-      "title": "Abuse Research Engineer",
-      "location": "Remote from the US",
-      "team": "8611 Security Analytics",
-      "url": "https://stripe.com/jobs/search?gh_jid=8172503",
-      "postedAt": "2026-09-09T14:52:09.000Z",
-      "key": "stripe:8172503",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T19:30:22.129Z"
     },
     {
       "id": "R29483",
