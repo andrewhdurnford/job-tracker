@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-09T16:00:23.515Z",
+  "generatedAt": "2026-10-09T16:10:17.427Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R1003292",
+    "whoop:93218baa-4989-4141-b500-32f937e72131"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 172,
     "new-grad": 29,
-    "experienced": 2370
+    "experienced": 2371
   },
   "companies": [
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 265,
+      "jobCount": 266,
       "error": null,
       "stale": false
     },
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1010,7 +1013,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5511,7 +5514,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003292",
+      "title": "Staff Software Engineer - Capital One Travel Tech - Full-stack",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Software-Engineer---Capital-One-Travel-Tech---Full-stack_R1003292-1",
+      "postedAt": "2026-10-09T16:10:20.867Z",
+      "key": "Capital One:R1003292",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-09T16:10:17.427Z"
+    },
+    {
+      "id": "93218baa-4989-4141-b500-32f937e72131",
+      "title": "Senior Applied ML Algorithm Engineer",
+      "location": "Boston, MA",
+      "team": "Sensor Intelligence",
+      "url": "https://jobs.ashbyhq.com/whoop/93218baa-4989-4141-b500-32f937e72131",
+      "postedAt": "2026-10-09T16:07:36.352Z",
+      "key": "whoop:93218baa-4989-4141-b500-32f937e72131",
+      "company": "WHOOP",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T16:10:17.427Z"
+    },
     {
       "id": "8137817",
       "title": "Product Security Engineer",
@@ -46693,22 +46728,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T16:40:19.967Z"
-    },
-    {
-      "id": "8163523",
-      "title": "Senior Distributed Systems Engineer - Cache",
-      "location": "Atlanta, GA (+7 more)",
-      "team": "Engineering",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8163523?gh_jid=8163523",
-      "postedAt": "2026-09-09T16:08:41.000Z",
-      "key": "cloudflare:8163523",
-      "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T16:10:20.398Z"
     },
     {
       "id": "R29483",
