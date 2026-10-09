@@ -1,17 +1,18 @@
 {
-  "generatedAt": "2026-10-09T20:00:21.495Z",
+  "generatedAt": "2026-10-09T20:10:22.957Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "shieldai:f3739fe9-9901-4dba-b970-a6a19423a2e6",
-    "shieldai:851c8729-ad87-40bd-9081-eff169d972ea"
+    "doordashusa:8263774",
+    "elevenlabs:31a6f0f4-8e1d-4d77-9d00-026ed12213f2",
+    "instacart:8234282"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 172,
+    "intern": 173,
     "new-grad": 26,
     "experienced": 2380
   },
@@ -68,7 +69,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -845,7 +846,7 @@
     {
       "name": "Carvana",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1454,7 +1455,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -1538,7 +1539,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2420,7 +2421,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 121,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "31a6f0f4-8e1d-4d77-9d00-026ed12213f2",
+      "title": "Infrastructure Engineer",
+      "location": "London (+16 more)",
+      "team": "Infrastructure",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/31a6f0f4-8e1d-4d77-9d00-026ed12213f2",
+      "postedAt": "2026-10-09T20:09:11.183Z",
+      "key": "elevenlabs:31a6f0f4-8e1d-4d77-9d00-026ed12213f2",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-09T20:10:22.957Z"
+    },
     {
       "id": "851c8729-ad87-40bd-9081-eff169d972ea",
       "title": "Staff Engineer, Full-Stack – Forge (R6232)",
@@ -8652,6 +8670,28 @@
         "remote"
       ],
       "firstSeen": "2026-10-08T10:10:16.333Z"
+    },
+    {
+      "id": "8263774",
+      "title": "Software Engineer, Intern - Labs (Summer 2027)",
+      "location": " San Francisco, CA; Sunnyvale, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774",
+      "postedAt": "2026-10-08T06:50:12.000Z",
+      "key": "doordashusa:8263774",
+      "company": "DoorDash",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T20:10:22.957Z"
     },
     {
       "id": "5260367007",
@@ -24953,6 +24993,22 @@
       "firstSeen": "2026-09-25T21:30:19.821Z"
     },
     {
+      "id": "8234282",
+      "title": "Senior Software Engineer II - Ads Quality ",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8234282",
+      "postedAt": "2026-09-25T21:04:42.000Z",
+      "key": "instacart:8234282",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T20:10:22.957Z"
+    },
+    {
       "id": "375e5c16-b4a7-475a-8a5b-5c98c01ff512",
       "title": "Software Engineer, Data Platform",
       "location": "Palo Alto",
@@ -36535,22 +36591,6 @@
       "firstSeen": "2026-09-18T08:10:17.123Z"
     },
     {
-      "id": "R165817",
-      "title": "Applied Scientist",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Applied-Scientist_R165817",
-      "postedAt": "2026-09-18T08:10:25.539Z",
-      "key": "Adobe:R165817",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
       "id": "R171718",
       "title": "Machine Learning Engineer",
       "location": "San Jose",
@@ -46734,22 +46774,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T20:20:17.401Z"
-    },
-    {
-      "id": "8188615",
-      "title": "Data Product Engineer",
-      "location": "Tempe, AZ",
-      "team": null,
-      "url": "https://www.carvana.com/careers/apply?gh_jid=8188615",
-      "postedAt": "2026-09-09T20:01:02.000Z",
-      "key": "carvana:8188615",
-      "company": "Carvana",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T20:10:18.423Z"
     },
     {
       "id": "R25320",
