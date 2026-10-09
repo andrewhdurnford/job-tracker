@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-09T18:10:17.828Z",
+  "generatedAt": "2026-10-09T18:20:19.048Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "airbnb:8242248",
-    "faire:8870975002",
-    "lucidmotors:5244203007",
-    "lucidmotors:5252558007"
+    "alchemy:fd8debdc-fc1f-4f37-95f5-75f6b62b5798",
+    "lyft:8856443002",
+    "temporal:8d2a0d16-0610-4337-93d0-243adcc4e4be",
+    "temporal:5d1cf6ea-c2c4-491a-b19a-ab95767c0d4b"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +15,7 @@
   "levelCounts": {
     "intern": 174,
     "new-grad": 29,
-    "experienced": 2369
+    "experienced": 2372
   },
   "companies": [
     {
@@ -168,7 +168,7 @@
     {
       "name": "Alchemy",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2849,7 +2849,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -3892,7 +3892,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 121,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5026,7 +5026,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5d1cf6ea-c2c4-491a-b19a-ab95767c0d4b",
+      "title": "Senior Analytics Engineer",
+      "location": "United States (Remote)",
+      "team": "Data Engineering and Analytics",
+      "url": "https://jobs.ashbyhq.com/temporal/5d1cf6ea-c2c4-491a-b19a-ab95767c0d4b",
+      "postedAt": "2026-10-09T18:18:37.754Z",
+      "key": "temporal:5d1cf6ea-c2c4-491a-b19a-ab95767c0d4b",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T18:20:19.048Z"
+    },
+    {
+      "id": "8d2a0d16-0610-4337-93d0-243adcc4e4be",
+      "title": "Senior Data Scientist ",
+      "location": "United States (Remote)",
+      "team": "Data Engineering and Analytics",
+      "url": "https://jobs.ashbyhq.com/temporal/8d2a0d16-0610-4337-93d0-243adcc4e4be",
+      "postedAt": "2026-10-09T18:17:01.434Z",
+      "key": "temporal:8d2a0d16-0610-4337-93d0-243adcc4e4be",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T18:20:19.048Z"
+    },
+    {
+      "id": "fd8debdc-fc1f-4f37-95f5-75f6b62b5798",
+      "title": "Senior Software Engineer, Developer Experience",
+      "location": "San Francisco (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/alchemy/fd8debdc-fc1f-4f37-95f5-75f6b62b5798",
+      "postedAt": "2026-10-09T18:11:40.726Z",
+      "key": "alchemy:fd8debdc-fc1f-4f37-95f5-75f6b62b5798",
+      "company": "Alchemy",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T18:20:19.048Z"
+    },
     {
       "id": "5252558007",
       "title": "Technical Lead, AI Engineering (Sales, Service & Supply Chain) ",
@@ -7761,22 +7809,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-08T16:40:17.990Z"
-    },
-    {
-      "id": "R0018110",
-      "title": "Senior Software Engineer (Mobile Backend-for-Frontend)",
-      "location": "US - Texas - Austin",
-      "team": null,
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-Software-Engineer--Mobile-Backend-for-Frontend-_R0018110",
-      "postedAt": "2026-10-08T16:30:29.251Z",
-      "key": "Procore:R0018110",
-      "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T16:30:26.095Z"
     },
     {
       "id": "JR115621",
@@ -17074,6 +17106,22 @@
         "us"
       ],
       "firstSeen": "2026-10-01T18:30:19.092Z"
+    },
+    {
+      "id": "8856443002",
+      "title": "Data Scientist, Algorithms - Dynamic Pricing",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8856443002?gh_jid=8856443002",
+      "postedAt": "2026-10-01T18:24:36.000Z",
+      "key": "lyft:8856443002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T18:20:19.048Z"
     },
     {
       "id": "8783482002",
