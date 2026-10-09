@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-09T17:00:25.689Z",
+  "generatedAt": "2026-10-09T17:10:15.828Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "adyen:8153114"
+    "anthropic:5448481008",
+    "cloudflare:8267826",
+    "eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550",
+    "flowengineering:82775bfe-e3e8-495d-9799-226e04d729d7"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 172,
+    "intern": 173,
     "new-grad": 29,
     "experienced": 2374
   },
@@ -305,7 +308,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -1509,7 +1512,7 @@
     {
       "name": "Eight Sleep",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1838,7 +1841,7 @@
     {
       "name": "Flow Engineering",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4078,7 +4081,7 @@
     {
       "name": "Ready",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4470,7 +4473,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "82775bfe-e3e8-495d-9799-226e04d729d7",
+      "title": "Staff Software Engineer - Security",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/flowengineering/82775bfe-e3e8-495d-9799-226e04d729d7",
+      "postedAt": "2026-10-09T17:09:45.291Z",
+      "key": "flowengineering:82775bfe-e3e8-495d-9799-226e04d729d7",
+      "company": "Flow Engineering",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T17:10:15.828Z"
+    },
+    {
+      "id": "8267826",
+      "title": "Rack Integration Operations Engineer",
+      "location": "Austin, TX (+3 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8267826?gh_jid=8267826",
+      "postedAt": "2026-10-09T17:06:48.000Z",
+      "key": "cloudflare:8267826",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T17:10:15.828Z"
+    },
+    {
+      "id": "0ae8cdbe-8100-4f59-b702-16d836ab5550",
+      "title": "Security & IT Intern",
+      "location": "Remote - US (+2 more)",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/eightsleep/0ae8cdbe-8100-4f59-b702-16d836ab5550",
+      "postedAt": "2026-10-09T17:05:52.446Z",
+      "key": "eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550",
+      "company": "Eight Sleep",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T17:10:15.828Z"
+    },
+    {
+      "id": "5448481008",
+      "title": "Data Engineer, Product",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
+      "postedAt": "2026-10-09T17:00:40.000Z",
+      "key": "anthropic:5448481008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T17:10:15.828Z"
+    },
     {
       "id": "R_107021",
       "title": "Senior Data Scientist",
@@ -46677,55 +46744,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T17:20:25.637Z"
-    },
-    {
-      "id": "ad3fcfd1-bfcf-4927-8bc6-fa7ab127bdda",
-      "title": "Perception Software Engineer (R5911)",
-      "location": "San Diego, California (+3 more)",
-      "team": "Engineering",
-      "url": "https://jobs.lever.co/shieldai/ad3fcfd1-bfcf-4927-8bc6-fa7ab127bdda",
-      "postedAt": "2026-09-09T17:10:07.825Z",
-      "key": "shieldai:ad3fcfd1-bfcf-4927-8bc6-fa7ab127bdda",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T17:20:25.637Z"
-    },
-    {
-      "id": "8187404",
-      "title": "Systems Engineer, Network Protocols & Distributed Systems",
-      "location": "Austin, TX (+2 more)",
-      "team": "Engineering",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8187404?gh_jid=8187404",
-      "postedAt": "2026-09-09T17:03:56.000Z",
-      "key": "cloudflare:8187404",
-      "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T17:10:17.562Z"
-    },
-    {
-      "id": "d7ada023-ac2b-42bb-8196-0836f97d6440",
-      "title": "Senior Data Engineer",
-      "location": "Remote",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/ready/d7ada023-ac2b-42bb-8196-0836f97d6440",
-      "postedAt": "2026-09-09T17:02:14.804Z",
-      "key": "ready:d7ada023-ac2b-42bb-8196-0836f97d6440",
-      "company": "Ready",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-09-09T17:10:17.562Z"
     },
     {
       "id": "R25320",
