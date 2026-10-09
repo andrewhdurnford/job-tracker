@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-10-09T18:00:26.997Z",
+  "generatedAt": "2026-10-09T18:10:17.828Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "mercury:6221407004",
-    "okta:8267556",
-    "permitflow:036ad66d-a31e-4f08-9533-838345641335",
-    "roblox:8267972",
-    "smartsheet:8265318"
+    "airbnb:8242248",
+    "faire:8870975002",
+    "lucidmotors:5244203007",
+    "lucidmotors:5252558007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 173,
+    "intern": 174,
     "new-grad": 29,
     "experienced": 2369
   },
@@ -120,7 +119,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -792,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 267,
+      "jobCount": 266,
       "error": null,
       "stale": false
     },
@@ -1674,7 +1673,7 @@
     {
       "name": "Faire",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -1968,7 +1967,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -2815,7 +2814,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 121,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5069,7 +5068,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5252558007",
+      "title": "Technical Lead, AI Engineering (Sales, Service & Supply Chain) ",
+      "location": "Newark, CA",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5252558007?gh_jid=5252558007",
+      "postedAt": "2026-10-09T18:08:07.000Z",
+      "key": "lucidmotors:5252558007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T18:10:17.828Z"
+    },
+    {
+      "id": "8242248",
+      "title": "Staff Software Engineer, Data Authoring",
+      "location": "USA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8242248?gh_jid=8242248",
+      "postedAt": "2026-10-09T18:07:33.000Z",
+      "key": "airbnb:8242248",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T18:10:17.828Z"
+    },
+    {
+      "id": "5244203007",
+      "title": "Senior Engineering Manager, Data Platform and AI",
+      "location": "Phoenix, AZ",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5244203007?gh_jid=5244203007",
+      "postedAt": "2026-10-09T18:02:19.000Z",
+      "key": "lucidmotors:5244203007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T18:10:17.828Z"
+    },
     {
       "id": "8267556",
       "title": "Staff Software Engineer, Security",
@@ -10677,6 +10724,22 @@
         "us"
       ],
       "firstSeen": "2026-10-06T20:20:17.391Z"
+    },
+    {
+      "id": "8870975002",
+      "title": "Applied AI/ML Scientist, Intern",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8870975002?gh_jid=8870975002",
+      "postedAt": "2026-10-06T20:16:58.000Z",
+      "key": "faire:8870975002",
+      "company": "Faire",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T18:10:17.828Z"
     },
     {
       "id": "R1003114",
@@ -25138,22 +25201,6 @@
         "us"
       ],
       "firstSeen": "2026-09-25T17:50:17.275Z"
-    },
-    {
-      "id": "R1002137",
-      "title": "Full-stack Engineer 4 (Remote-Eligible)",
-      "location": "4 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Remote-Eligible-_R1002137-1",
-      "postedAt": "2026-09-25T17:40:20.701Z",
-      "key": "Capital One:R1002137",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-25T17:40:17.250Z"
     },
     {
       "id": "8192093",
@@ -46633,39 +46680,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T18:30:25.850Z"
-    },
-    {
-      "id": "8770702002",
-      "title": "Staff Backend Engineer, Database Automation (Go)",
-      "location": "Remote, Canada; Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770702002",
-      "postedAt": "2026-09-09T18:06:57.000Z",
-      "key": "gitlab:8770702002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-09T18:10:21.270Z"
-    },
-    {
-      "id": "4d51cb65-5e5b-42d2-8c28-7073b8574e4b",
-      "title": "Research Software Engineer, Post Training",
-      "location": "San Francisco",
-      "team": "Research",
-      "url": "https://jobs.ashbyhq.com/thinkingmachines/4d51cb65-5e5b-42d2-8c28-7073b8574e4b",
-      "postedAt": "2026-09-09T18:03:41.380Z",
-      "key": "thinkingmachines:4d51cb65-5e5b-42d2-8c28-7073b8574e4b",
-      "company": "Thinking Machines Lab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T18:10:21.270Z"
     },
     {
       "id": "R25320",
