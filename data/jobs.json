@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T16:10:17.427Z",
+  "generatedAt": "2026-10-09T16:20:17.544Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1003292",
-    "whoop:93218baa-4989-4141-b500-32f937e72131"
+    "scaleai:4742042005",
+    "twilio:8266975"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 172,
     "new-grad": 29,
-    "experienced": 2371
+    "experienced": 2373
   },
   "companies": [
     {
@@ -937,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4373,7 +4373,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5227,7 +5227,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8266975",
+      "title": "Developer Success Engineer",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8266975",
+      "postedAt": "2026-10-09T16:16:24.000Z",
+      "key": "twilio:8266975",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T16:20:17.544Z"
+    },
+    {
+      "id": "4742042005",
+      "title": "Systems Engineering Integration & Test Lead, Public Sector",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4742042005",
+      "postedAt": "2026-10-09T16:10:45.000Z",
+      "key": "scaleai:4742042005",
+      "company": "Scale AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T16:20:17.544Z"
+    },
     {
       "id": "R1003292",
       "title": "Staff Software Engineer - Capital One Travel Tech - Full-stack",
