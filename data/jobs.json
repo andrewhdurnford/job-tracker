@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-10-09T17:10:15.828Z",
+  "generatedAt": "2026-10-09T17:20:15.466Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "anthropic:5448481008",
-    "cloudflare:8267826",
-    "eightsleep:0ae8cdbe-8100-4f59-b702-16d836ab5550",
-    "flowengineering:82775bfe-e3e8-495d-9799-226e04d729d7"
+    "strava:8f4937e3-fe33-4fc2-a97d-4b9e90f77e2f",
+    "supabase:9073c0cd-2545-473a-b2ac-63e4615c69b5"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +13,7 @@
   "levelCounts": {
     "intern": 173,
     "new-grad": 29,
-    "experienced": 2374
+    "experienced": 2372
   },
   "companies": [
     {
@@ -168,7 +166,7 @@
     {
       "name": "Alchemy",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -1015,7 +1013,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -4242,7 +4240,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 61,
+      "jobCount": 60,
       "error": null,
       "stale": false
     },
@@ -4473,7 +4471,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 121,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4795,7 +4793,7 @@
     {
       "name": "Strava",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4865,7 +4863,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "title": "Platform Engineer, Managed Postgres",
+      "location": "Remote, Global",
+      "team": "Platform Data",
+      "url": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "postedAt": "2026-10-09T17:17:39.437Z",
+      "key": "supabase:9073c0cd-2545-473a-b2ac-63e4615c69b5",
+      "company": "Supabase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-09T17:20:15.466Z"
+    },
+    {
+      "id": "8f4937e3-fe33-4fc2-a97d-4b9e90f77e2f",
+      "title": "Senior Engineer II, Privacy and Identity",
+      "location": "Strava SF",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/strava/8f4937e3-fe33-4fc2-a97d-4b9e90f77e2f",
+      "postedAt": "2026-10-09T17:10:36.275Z",
+      "key": "strava:8f4937e3-fe33-4fc2-a97d-4b9e90f77e2f",
+      "company": "Strava",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-09T17:20:15.466Z"
+    },
     {
       "id": "82775bfe-e3e8-495d-9799-226e04d729d7",
       "title": "Staff Software Engineer - Security",
@@ -8536,22 +8566,6 @@
       "postedAt": "2026-10-07T21:30:25.109Z",
       "key": "Nvidia:JR2021313",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T21:30:20.807Z"
-    },
-    {
-      "id": "2d2eb1a3-1ca8-4561-85c2-8bead021b29a",
-      "title": "Senior Software Engineer, Developer Experience",
-      "location": "New York (+1 more)",
-      "team": "Software Engineering ",
-      "url": "https://jobs.ashbyhq.com/alchemy/2d2eb1a3-1ca8-4561-85c2-8bead021b29a",
-      "postedAt": "2026-10-07T21:23:03.086Z",
-      "key": "alchemy:2d2eb1a3-1ca8-4561-85c2-8bead021b29a",
-      "company": "Alchemy",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -18526,7 +18540,7 @@
     },
     {
       "id": "R1002661",
-      "title": "Full-stack Engineer 5 (Manager IC)",
+      "title": "Full-stack Engineer 5 (Sr. Manager IC)",
       "location": "New York, NY",
       "team": null,
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5_R1002661-1",
@@ -46696,54 +46710,6 @@
         "us"
       ],
       "firstSeen": "2026-09-09T17:26:44.391Z"
-    },
-    {
-      "id": "8148679",
-      "title": "Senior Site Reliability Engineer, Compute",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8148679?gh_jid=8148679",
-      "postedAt": "2026-09-09T17:18:23.000Z",
-      "key": "roblox:8148679",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T17:20:25.637Z"
-    },
-    {
-      "id": "4dba3daf-9cfb-45d9-8dc6-4cc2abf4e367",
-      "title": "Manager, Software Engineering (R5966)",
-      "location": "San Diego, California (+1 more)",
-      "team": "Core Services & Infra",
-      "url": "https://jobs.lever.co/shieldai/4dba3daf-9cfb-45d9-8dc6-4cc2abf4e367",
-      "postedAt": "2026-09-09T17:17:00.837Z",
-      "key": "shieldai:4dba3daf-9cfb-45d9-8dc6-4cc2abf4e367",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T17:20:25.637Z"
-    },
-    {
-      "id": "8175615",
-      "title": "Principal Data Scientist, Detection",
-      "location": "London, United Kingdom (+1 more)",
-      "team": "Engineering",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8175615?gh_jid=8175615",
-      "postedAt": "2026-09-09T17:15:01.000Z",
-      "key": "cloudflare:8175615",
-      "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T17:20:25.637Z"
     },
     {
       "id": "R25320",
