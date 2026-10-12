@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-10-12T20:50:16.755Z",
+  "generatedAt": "2026-10-12T21:00:22.144Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "quindar:d191fb3a-8489-4a49-89c1-b3df198e4671"
+    "airbyte:efe55756-f28b-4030-b9a0-539f6c8ed8ff",
+    "airbyte:735d5deb-ba6e-49b2-88ba-5ebdf8d315a0",
+    "airbyte:5930fed9-c4f6-43c3-87be-3402c2c46489",
+    "cursor:aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+    "roblox:8233722"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 167,
     "new-grad": 23,
-    "experienced": 2250
+    "experienced": 2255
   },
   "companies": [
     {
@@ -123,7 +127,7 @@
     {
       "name": "Airbyte",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -1278,7 +1282,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4239,7 +4243,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 60,
+      "jobCount": 61,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 115,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8233722",
+      "title": "Principal Machine Learning Platform Engineer, Foundation AI ",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8233722?gh_jid=8233722",
+      "postedAt": "2026-10-12T20:57:31.000Z",
+      "key": "roblox:8233722",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T21:00:22.144Z"
+    },
+    {
+      "id": "735d5deb-ba6e-49b2-88ba-5ebdf8d315a0",
+      "title": "Senior Software Engineer, Platform Fullstack",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/airbyte/735d5deb-ba6e-49b2-88ba-5ebdf8d315a0",
+      "postedAt": "2026-10-12T20:53:46.516Z",
+      "key": "airbyte:735d5deb-ba6e-49b2-88ba-5ebdf8d315a0",
+      "company": "Airbyte",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T21:00:22.144Z"
+    },
+    {
+      "id": "aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+      "title": "Software Engineer, RL Data",
+      "location": "San Francisco",
+      "team": "Machine Learning",
+      "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+      "postedAt": "2026-10-12T20:53:44.567Z",
+      "key": "cursor:aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+      "company": "Cursor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T21:00:22.144Z"
+    },
+    {
+      "id": "5930fed9-c4f6-43c3-87be-3402c2c46489",
+      "title": "Senior Site Reliability Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/airbyte/5930fed9-c4f6-43c3-87be-3402c2c46489",
+      "postedAt": "2026-10-12T20:53:32.770Z",
+      "key": "airbyte:5930fed9-c4f6-43c3-87be-3402c2c46489",
+      "company": "Airbyte",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T21:00:22.144Z"
+    },
+    {
+      "id": "efe55756-f28b-4030-b9a0-539f6c8ed8ff",
+      "title": "Engineering Manager, Platform",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/airbyte/efe55756-f28b-4030-b9a0-539f6c8ed8ff",
+      "postedAt": "2026-10-12T20:53:19.718Z",
+      "key": "airbyte:efe55756-f28b-4030-b9a0-539f6c8ed8ff",
+      "company": "Airbyte",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T21:00:22.144Z"
+    },
     {
       "id": "d191fb3a-8489-4a49-89c1-b3df198e4671",
       "title": "Forward Deployed Engineer",
@@ -44977,7 +45061,7 @@
     },
     {
       "id": "9a175381-45e2-42b6-bd64-6c84532365f9",
-      "title": "Software Engineer, RL Data ",
+      "title": "Research Engineer, Synthetic Data",
       "location": "San Francisco",
       "team": "Machine Learning",
       "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9",
