@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T06:50:15.124Z",
+  "generatedAt": "2026-10-12T07:00:23.101Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -9,8 +9,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 166,
-    "new-grad": 24,
-    "experienced": 2247
+    "new-grad": 23,
+    "experienced": 2237
   },
   "companies": [
     {
@@ -786,7 +786,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 269,
+      "jobCount": 267,
       "error": null,
       "stale": false
     },
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1241,7 +1241,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -2031,10 +2031,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 4,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -3425,7 +3425,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 138,
+      "jobCount": 134,
       "error": null,
       "stale": false
     },
@@ -4433,7 +4433,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5399,7 +5399,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -13205,22 +13205,6 @@
       "postedAt": "2026-10-06T14:50:25.755Z",
       "key": "Nvidia:JR2026726",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T14:50:21.003Z"
-    },
-    {
-      "id": "REF088994W",
-      "title": "Sr. Data Scientist",
-      "location": "US - Foster City, CA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Sr-Data-Scientist_REF088994W-1",
-      "postedAt": "2026-10-06T14:50:25.501Z",
-      "key": "Visa:REF088994W",
-      "company": "Visa",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -44308,54 +44292,6 @@
       "firstSeen": "2026-09-12T07:10:16.117Z"
     },
     {
-      "id": "R30109",
-      "title": "Senior Engineer - Cloud (Sunnyvale, CA; US Remote)",
-      "location": "2 Locations",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Senior-Engineer---Cloud--Sunnyvale--CA--US-Remote-_R30109",
-      "postedAt": "2026-09-12T03:30:31.347Z",
-      "key": "CrowdStrike:R30109",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T03:30:21.809Z"
-    },
-    {
-      "id": "JR2025124",
-      "title": "Senior Staff Site Reliability Operations",
-      "location": "US, WA, Seattle",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Senior-Staff-Site-Reliability-Operations_JR2025124",
-      "postedAt": "2026-09-11T20:54:17.416Z",
-      "key": "Nvidia:JR2025124",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T20:54:13.492Z"
-    },
-    {
-      "id": "JR2025122",
-      "title": "Senior Staff Site Reliability Operations Technical Lead",
-      "location": "US, NC, Durham",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-Staff-Site-Reliability-Operations-Technical-Lead_JR2025122",
-      "postedAt": "2026-09-11T20:54:17.416Z",
-      "key": "Nvidia:JR2025122",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T20:54:13.492Z"
-    },
-    {
       "id": "8802239002",
       "title": "Full-Stack Senior Software Engineer",
       "location": "San Francisco, CA",
@@ -44370,106 +44306,6 @@
         "us"
       ],
       "firstSeen": "2026-09-11T19:20:16.677Z"
-    },
-    {
-      "id": "REF083050W",
-      "title": "Staff Data Engineer",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-Data-Engineer_REF083050W",
-      "postedAt": "2026-09-11T18:40:21.245Z",
-      "key": "Visa:REF083050W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T18:40:17.877Z"
-    },
-    {
-      "id": "JR114685",
-      "title": "Senior Staff Software Engineer, Mobile",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Senior-Staff-Software-Engineer--Mobile_JR114685",
-      "postedAt": "2026-09-11T17:00:40.220Z",
-      "key": "ServiceTitan:JR114685",
-      "company": "ServiceTitan",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T17:00:34.841Z"
-    },
-    {
-      "id": "JR2021919",
-      "title": "Senior Developer Technology Engineer - Agentic AI",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Technology-Engineer---Agentic-SoC-Performance_JR2021919",
-      "postedAt": "2026-09-11T16:40:56.849Z",
-      "key": "Nvidia:JR2021919",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T16:40:52.482Z"
-    },
-    {
-      "id": "R999616",
-      "title": "Associate, Data Scientist - New Grad, 2027 Start",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Data-Scientist---New-Grad--2027-Start_R999616-1",
-      "postedAt": "2026-09-11T16:40:55.921Z",
-      "key": "Capital One:R999616",
-      "company": "Capital One",
-      "level": "new-grad",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-11T16:40:52.482Z"
-    },
-    {
-      "id": "JR2025344",
-      "title": "Senior System Software Engineer – Linux-Tegra Power Management and Performance Optimization",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Linux-Tegra-Power-Management-and-Performance-Optimization_JR2025344",
-      "postedAt": "2026-09-11T16:00:29.971Z",
-      "key": "Nvidia:JR2025344",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T16:00:26.239Z"
-    },
-    {
-      "id": "R1000405",
-      "title": "Manager, Data Scientist - US Card (Upmarket Acquisitions)",
-      "location": "3 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Manager--Data-Scientist---US-Card--Upmarket-Acquisitions-_R1000405-1",
-      "postedAt": "2026-09-11T13:40:21.777Z",
-      "key": "Capital One:R1000405",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-11T13:40:18.397Z"
     },
     {
       "id": "JR2015168",
@@ -45062,22 +44898,6 @@
         "us"
       ],
       "firstSeen": "2026-08-25T02:30:26.492Z"
-    },
-    {
-      "id": "JR114680",
-      "title": "Manager, Software Engineering - Contact Center Pro",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Manager--Software-Engineering_JR114680",
-      "postedAt": "2026-08-24T15:50:22.739Z",
-      "key": "ServiceTitan:JR114680",
-      "company": "ServiceTitan",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-24T15:50:19.144Z"
     },
     {
       "id": "b59bbc91-fb77-4a08-9c47-0fca7f755942",
