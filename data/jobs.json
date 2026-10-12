@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-12T03:00:25.406Z",
+  "generatedAt": "2026-10-12T03:10:16.899Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "waymo:8249801"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 168,
     "new-grad": 24,
-    "experienced": 2248
+    "experienced": 2249
   },
   "companies": [
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5476,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 59,
+      "jobCount": 60,
       "error": null,
       "stale": false
     },
@@ -15329,6 +15331,22 @@
         "us"
       ],
       "firstSeen": "2026-10-05T14:20:22.467Z"
+    },
+    {
+      "id": "8249801",
+      "title": "Software Engineer, Weather Monitoring",
+      "location": "San Francisco, CA; Mountain View, CA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8249801",
+      "postedAt": "2026-10-05T13:43:05.000Z",
+      "key": "waymo:8249801",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T03:10:16.899Z"
     },
     {
       "id": "JR2026958",
