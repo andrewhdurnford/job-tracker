@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-12T18:30:18.278Z",
+  "generatedAt": "2026-10-12T18:40:17.606Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "northwoodspace:aaf24d1c-d07f-4846-b50b-0cac84c5103e"
+    "mongodb:7668289",
+    "mongodb:8274765"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 166,
     "new-grad": 23,
-    "experienced": 2240
+    "experienced": 2242
   },
   "companies": [
     {
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1755,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3133,7 +3134,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8274765",
+      "title": "Senior Software Engineer (SRE), Infrastructure Security",
+      "location": "Austin; New York City",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
+      "postedAt": "2026-10-12T18:32:12.000Z",
+      "key": "mongodb:8274765",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T18:40:17.606Z"
+    },
+    {
+      "id": "7668289",
+      "title": "Senior Site Reliability Engineer, Infrastructure Security",
+      "location": "Austin; New York City",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7668289",
+      "postedAt": "2026-10-12T18:32:09.000Z",
+      "key": "mongodb:7668289",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T18:40:17.606Z"
+    },
     {
       "id": "aaf24d1c-d07f-4846-b50b-0cac84c5103e",
       "title": "Tech Lead Manager – Development",
