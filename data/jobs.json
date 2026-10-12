@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-12T21:40:16.587Z",
+  "generatedAt": "2026-10-12T21:50:19.085Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "reddit:8275143"
+    "benchling:a0b8e8ed-99ff-4f80-a933-34f9a12e06fa"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 167,
+    "intern": 154,
     "new-grad": 23,
-    "experienced": 2258
+    "experienced": 2259
   },
   "companies": [
     {
@@ -550,7 +550,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 134,
+      "jobCount": 121,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 115,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
+      "title": "Software Engineer, Extensibility Platform",
+      "location": "San Francisco, CA",
+      "team": "Engineering: PAI",
+      "url": "https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
+      "postedAt": "2026-10-12T21:48:59.616Z",
+      "key": "benchling:a0b8e8ed-99ff-4f80-a933-34f9a12e06fa",
+      "company": "Benchling",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T21:50:19.085Z"
+    },
     {
       "id": "8275143",
       "title": "Staff Android Engineer, Android Platform",
@@ -7309,28 +7325,6 @@
       "firstSeen": "2026-10-09T21:40:14.908Z"
     },
     {
-      "id": "JR2026839",
-      "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
-      "postedAt": "2026-10-09T21:30:23.651Z",
-      "key": "Nvidia:JR2026839",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-09T21:30:19.484Z"
-    },
-    {
       "id": "R29171",
       "title": "Sr. Engineer - Risk Platform (Hybrid)",
       "location": "USA - Sunnyvale, CA",
@@ -8916,28 +8910,6 @@
         "us"
       ],
       "firstSeen": "2026-10-08T23:50:14.993Z"
-    },
-    {
-      "id": "JR2027305",
-      "title": "Research Intern, Spatial Intelligence - Summer 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
-      "postedAt": "2026-10-08T23:40:24.208Z",
-      "key": "Nvidia:JR2027305",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T23:40:15.419Z"
     },
     {
       "id": "09d8b0c5-6335-4edb-909e-00face1c9325",
@@ -11042,26 +11014,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T20:30:22.619Z"
-    },
-    {
-      "id": "JR2026940",
-      "title": "PhD Research Intern, AI-Aided Engineering – 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940",
-      "postedAt": "2026-10-07T20:10:19.864Z",
-      "key": "Nvidia:JR2026940",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T20:10:16.467Z"
     },
     {
       "id": "REF084840W",
@@ -15948,26 +15900,6 @@
         "us"
       ],
       "firstSeen": "2026-10-12T03:10:16.899Z"
-    },
-    {
-      "id": "JR2026958",
-      "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-      "postedAt": "2026-10-05T07:00:27.338Z",
-      "key": "Nvidia:JR2026958",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T07:00:23.204Z"
     },
     {
       "id": "R30272",
@@ -20912,26 +20844,6 @@
       "firstSeen": "2026-09-30T19:20:21.388Z"
     },
     {
-      "id": "JR2025379",
-      "title": "PhD Research Intern, Programming Systems - 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379",
-      "postedAt": "2026-09-30T19:10:19.215Z",
-      "key": "Nvidia:JR2025379",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T19:10:14.999Z"
-    },
-    {
       "id": "R1001571",
       "title": "Data Engineer 4 - Nexus Products",
       "location": "New York, NY",
@@ -22303,26 +22215,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T22:00:23.115Z"
-    },
-    {
-      "id": "JR2026584",
-      "title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1",
-      "postedAt": "2026-09-29T21:50:20.444Z",
-      "key": "Nvidia:JR2026584",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T21:50:16.421Z"
     },
     {
       "id": "R1001942",
@@ -29997,26 +29889,6 @@
       "firstSeen": "2026-09-23T23:10:15.027Z"
     },
     {
-      "id": "JR2025025",
-      "title": "PhD Research Intern, Physical AI - Foundation Models - 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025",
-      "postedAt": "2026-09-23T23:01:02.787Z",
-      "key": "Nvidia:JR2025025",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T23:00:58.797Z"
-    },
-    {
       "id": "4715985006",
       "title": "Software Defined Radio Hardware Associate (Winter 2027)",
       "location": "San Francisco",
@@ -30364,46 +30236,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-23T20:40:16.840Z"
-    },
-    {
-      "id": "JR2026471",
-      "title": "PhD Research Intern, Electronic Design Automation - 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Electronic-Design-Automation---2027_JR2026471",
-      "postedAt": "2026-09-23T20:30:32.593Z",
-      "key": "Nvidia:JR2026471",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T20:30:28.776Z"
-    },
-    {
-      "id": "JR2026004",
-      "title": "PhD Research Intern, Quantum Simulation and AI - 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
-      "postedAt": "2026-09-23T20:30:32.593Z",
-      "key": "Nvidia:JR2026004",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T20:30:28.776Z"
     },
     {
       "id": "JR2026332",
@@ -34444,26 +34276,6 @@
       "firstSeen": "2026-09-22T00:30:35.162Z"
     },
     {
-      "id": "JR2025405",
-      "title": "PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405",
-      "postedAt": "2026-09-22T00:10:24.145Z",
-      "key": "Nvidia:JR2025405",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T00:10:19.937Z"
-    },
-    {
       "id": "8829338002",
       "title": "Developer Support Specialist ",
       "location": "Vancouver, British Columbia, Canada",
@@ -34628,26 +34440,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T22:40:17.574Z"
-    },
-    {
-      "id": "JR2025098",
-      "title": "PhD Research Intern, Networking - 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098",
-      "postedAt": "2026-09-21T22:20:24.036Z",
-      "key": "Nvidia:JR2025098",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T22:20:19.938Z"
     },
     {
       "id": "R1001519",
@@ -42108,26 +41900,6 @@
       "firstSeen": "2026-09-15T18:30:24.724Z"
     },
     {
-      "id": "JR2025406",
-      "title": "PhD Research Intern, Fundamental Generative AI - 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406",
-      "postedAt": "2026-09-15T18:00:28.722Z",
-      "key": "Nvidia:JR2025406",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T18:00:24.694Z"
-    },
-    {
       "id": "JR2025518",
       "title": "Senior Software Engineer, CAD Tool Development - Circuits",
       "location": "US, CA, Santa Clara",
@@ -44538,26 +44310,6 @@
         "us"
       ],
       "firstSeen": "2026-09-14T01:30:20.142Z"
-    },
-    {
-      "id": "JR2024171",
-      "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
-      "postedAt": "2026-09-13T22:10:19.853Z",
-      "key": "Nvidia:JR2024171",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-13T22:10:16.253Z"
     },
     {
       "id": "JR2025588",
