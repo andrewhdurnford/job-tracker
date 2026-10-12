@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-10-12T21:00:22.144Z",
+  "generatedAt": "2026-10-12T21:10:14.478Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "airbyte:efe55756-f28b-4030-b9a0-539f6c8ed8ff",
-    "airbyte:735d5deb-ba6e-49b2-88ba-5ebdf8d315a0",
-    "airbyte:5930fed9-c4f6-43c3-87be-3402c2c46489",
-    "cursor:aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
-    "roblox:8233722"
+    "1password:8f1fc129-cab2-4077-be7e-e2a406ec3f2b",
+    "ServiceTitan:JR116133"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,13 +13,13 @@
   "levelCounts": {
     "intern": 167,
     "new-grad": 23,
-    "experienced": 2255
+    "experienced": 2257
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4439,7 +4436,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 115,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5705,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR116133",
+      "title": "Senior Software Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Senior-Software-Engineer_JR116133",
+      "postedAt": "2026-10-12T21:10:18.046Z",
+      "key": "ServiceTitan:JR116133",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T21:10:14.478Z"
+    },
+    {
+      "id": "8f1fc129-cab2-4077-be7e-e2a406ec3f2b",
+      "title": "Senior Developer, Authentication Enablement",
+      "location": "Remote (United States | Canada)",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/1password/8f1fc129-cab2-4077-be7e-e2a406ec3f2b",
+      "postedAt": "2026-10-12T21:01:11.699Z",
+      "key": "1password:8f1fc129-cab2-4077-be7e-e2a406ec3f2b",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-12T21:10:14.478Z"
+    },
     {
       "id": "8233722",
       "title": "Principal Machine Learning Platform Engineer, Foundation AI ",
