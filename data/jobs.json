@@ -1,16 +1,20 @@
 {
-  "generatedAt": "2026-10-12T23:30:20.912Z",
+  "generatedAt": "2026-10-12T23:40:15.612Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "gleanwork:4742953005",
+    "gleanwork:4742957005",
+    "Nvidia:JR2027561"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 175,
+    "intern": 176,
     "new-grad": 23,
-    "experienced": 2267
+    "experienced": 2269
   },
   "companies": [
     {
@@ -1983,7 +1987,7 @@
     {
       "name": "Glean",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 142,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 115,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5700,6 +5704,44 @@
   ],
   "jobs": [
     {
+      "id": "JR2027561",
+      "title": "Differentiable Simulation Research Intern - Summer 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561",
+      "postedAt": "2026-10-12T23:40:20.158Z",
+      "key": "Nvidia:JR2027561",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T23:40:15.612Z"
+    },
+    {
+      "id": "4742953005",
+      "title": "Software Engineer, Agentic Runtime ",
+      "location": "Mountain View, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4742953005",
+      "postedAt": "2026-10-12T23:36:06.000Z",
+      "key": "gleanwork:4742953005",
+      "company": "Glean",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T23:40:15.612Z"
+    },
+    {
       "id": "R_107031",
       "title": "Principal Software Development Engineer",
       "location": "Seattle, Washington United States",
@@ -5778,6 +5820,22 @@
         "us"
       ],
       "firstSeen": "2026-10-12T22:50:20.865Z"
+    },
+    {
+      "id": "4742957005",
+      "title": "Tech Lead Manager, AI Evaluations",
+      "location": "Mountain View, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4742957005",
+      "postedAt": "2026-10-12T22:27:22.000Z",
+      "key": "gleanwork:4742957005",
+      "company": "Glean",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T23:40:15.612Z"
     },
     {
       "id": "ad8dd3de-8139-4385-8c5a-566a359e9be0",
@@ -15714,7 +15772,7 @@
     {
       "id": "5256538007",
       "title": "Expert Team Lead, SWE",
-      "location": " Palo Alto, CA; Asia; Australia; Canada; Europe; Remote International; Remote US; US",
+      "location": " Palo Alto, CA; Asia; Australia; Europe; Remote International; Remote US; Toronto, Canada; US",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5256538007",
       "postedAt": "2026-10-05T18:17:15.000Z",
