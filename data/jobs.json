@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-12T19:20:20.772Z",
+  "generatedAt": "2026-10-12T19:30:20.041Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "stripe:8274893"
+    "neuralink:8027961003",
+    "robinhood:8167546",
+    "ServiceTitan:JR115077"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 166,
     "new-grad": 23,
-    "experienced": 2244
+    "experienced": 2247
   },
   "companies": [
     {
@@ -3308,7 +3310,7 @@
     {
       "name": "Neuralink",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4232,7 +4234,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4435,7 +4437,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 115,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR115077",
+      "title": "Senior Site Reliability Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Senior-Site-Reliability-Engineer_JR115077",
+      "postedAt": "2026-10-12T19:30:23.509Z",
+      "key": "ServiceTitan:JR115077",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T19:30:20.041Z"
+    },
+    {
+      "id": "8027961003",
+      "title": "Systems Engineer - Compute",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "team": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/8027961003?gh_jid=8027961003",
+      "postedAt": "2026-10-12T19:29:32.000Z",
+      "key": "neuralink:8027961003",
+      "company": "Neuralink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T19:30:20.041Z"
+    },
     {
       "id": "8274893",
       "title": "Android Engineer, Terminal - CA",
@@ -39199,6 +39233,22 @@
         "canada"
       ],
       "firstSeen": "2026-09-17T14:40:19.472Z"
+    },
+    {
+      "id": "8167546",
+      "title": "Staff Software Engineer, Security Platform",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8167546?t=gh_src=&gh_jid=8167546",
+      "postedAt": "2026-09-17T14:23:57.000Z",
+      "key": "robinhood:8167546",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-12T19:30:20.041Z"
     },
     {
       "id": "8815466002",
