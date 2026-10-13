@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-10-13T18:50:19.952Z",
+  "generatedAt": "2026-10-13T19:00:23.788Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "adaptivesecurity:f68039ab-5904-41e0-b8e4-605ec642bfd3",
-    "adaptivesecurity:547fef33-6371-4a49-9085-5810744f95b0",
-    "harnessinc:5262390007"
+    "Visa:REF088446W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 176,
     "new-grad": 22,
-    "experienced": 2340
+    "experienced": 2341
   },
   "companies": [
     {
@@ -2163,7 +2161,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5403,7 +5401,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088446W",
+      "title": "Software Engineer (Android / iOS)",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Software-Engineer--Android---iOS-_REF088446W",
+      "postedAt": "2026-10-13T19:00:27.693Z",
+      "key": "Visa:REF088446W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T19:00:23.788Z"
+    },
     {
       "id": "5262390007",
       "title": "Senior Product Security Engineer ",
