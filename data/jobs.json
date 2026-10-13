@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-13T19:40:16.182Z",
+  "generatedAt": "2026-10-13T19:50:16.355Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "permitflow:e6382eec-5b9b-4b06-8ea1-f6a173173207",
-    "waymo:8279506"
+    "affirm:8013444003",
+    "affirm:8013442003",
+    "Procore:R0018815"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 176,
     "new-grad": 22,
-    "experienced": 2346
+    "experienced": 2349
   },
   "companies": [
     {
@@ -82,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -937,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1756,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2064,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3890,7 +3891,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "R0018815",
+      "title": "Architect, Enterprise Data",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Architect--Enterprise-Data_R0018815",
+      "postedAt": "2026-10-13T19:50:19.480Z",
+      "key": "Procore:R0018815",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T19:50:16.355Z"
+    },
+    {
+      "id": "8013444003",
+      "title": "Senior Software Engineer, Backend (Lakehouse Infra) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8013444003",
+      "postedAt": "2026-10-13T19:47:33.000Z",
+      "key": "affirm:8013444003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-13T19:50:16.355Z"
+    },
+    {
+      "id": "8013442003",
+      "title": "Senior Software Engineer, Backend (Lakehouse Infra) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8013442003",
+      "postedAt": "2026-10-13T19:47:31.000Z",
+      "key": "affirm:8013442003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T19:50:16.355Z"
+    },
+    {
       "id": "8279506",
       "title": "Senior Software Engineer, GPU",
       "location": "Mountain View, CA, USA; New York, NY, USA",
@@ -6829,7 +6878,7 @@
     {
       "id": "ec98cf2b-3d82-432b-a4e3-806b97baf81c",
       "title": "Documentation Engineer",
-      "location": "Americas timezones",
+      "location": "United States | Canada",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/lancedb/ec98cf2b-3d82-432b-a4e3-806b97baf81c",
       "postedAt": "2026-10-13T14:49:47.980Z",
@@ -6838,7 +6887,8 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "us",
+        "canada"
       ],
       "firstSeen": "2026-10-13T15:00:24.962Z"
     },
