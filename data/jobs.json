@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-13T21:50:15.260Z",
+  "generatedAt": "2026-10-13T22:00:23.265Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "spacex:8886347002"
+    "anaplan:8845838002",
+    "chime:8788322002",
+    "recall:2bd4132f-9971-4eb2-98dd-4b1a5b538338"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 177,
     "new-grad": 22,
-    "experienced": 2350
+    "experienced": 2353
   },
   "companies": [
     {
@@ -242,7 +244,7 @@
     {
       "name": "Anaplan",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -928,7 +930,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4085,7 +4087,7 @@
     {
       "name": "Recall.ai",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 119,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8845838002",
+      "title": "QA Automation Engineer - AI",
+      "location": "North Carolina-Remote, United States ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8845838002",
+      "postedAt": "2026-10-13T21:58:54.000Z",
+      "key": "anaplan:8845838002",
+      "company": "Anaplan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T22:00:23.265Z"
+    },
+    {
+      "id": "2bd4132f-9971-4eb2-98dd-4b1a5b538338",
+      "title": "Product Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/recall/2bd4132f-9971-4eb2-98dd-4b1a5b538338",
+      "postedAt": "2026-10-13T21:52:49.699Z",
+      "key": "recall:2bd4132f-9971-4eb2-98dd-4b1a5b538338",
+      "company": "Recall.ai",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T22:00:23.265Z"
+    },
+    {
+      "id": "8788322002",
+      "title": "Lead Data Scientist, Credit Risk",
+      "location": "Chicago, IL, USA; San Francisco, CA, USA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/chime/jobs/8788322002?gh_jid=8788322002",
+      "postedAt": "2026-10-13T21:51:12.000Z",
+      "key": "chime:8788322002",
+      "company": "Chime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T22:00:23.265Z"
+    },
     {
       "id": "8886347002",
       "title": "Mission Integration Engineer, Mission and Ground Systems (Starshield)",
