@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-10-13T15:50:16.599Z",
+  "generatedAt": "2026-10-13T16:00:24.525Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1002399",
-    "Capital One:R1001975",
-    "tanium:8250440"
+    "Capital One:R1001690"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 175,
     "new-grad": 22,
-    "experienced": 2300
+    "experienced": 2299
   },
   "companies": [
     {
@@ -790,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 270,
+      "jobCount": 271,
       "error": null,
       "stale": false
     },
@@ -1895,10 +1893,10 @@
     },
     {
       "name": "Freshworks",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Fulcrum",
@@ -3471,7 +3469,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -3674,7 +3672,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3850,7 +3848,7 @@
       "name": "Postman",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 115,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5150,10 +5148,10 @@
     },
     {
       "name": "Tractian",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Trade Republic",
@@ -5704,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "R1001690",
+      "title": "Full-stack Engineer 4, DevOps",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--DevOps_R1001690",
+      "postedAt": "2026-10-13T16:00:32.237Z",
+      "key": "Capital One:R1001690",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T16:00:24.525Z"
+    },
+    {
       "id": "R1002399",
       "title": "Staff Full-Stack Engineer",
       "location": "McLean, VA",
@@ -5722,7 +5736,7 @@
     {
       "id": "8250440",
       "title": "Senior Software Engineer",
-      "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
+      "location": "Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/tanium/jobs/8250440",
       "postedAt": "2026-10-13T15:43:13.000Z",
@@ -40761,22 +40775,6 @@
       "firstSeen": "2026-09-16T22:40:16.408Z"
     },
     {
-      "id": "8208367",
-      "title": "Staff Fullstack Engineer, SecureAI",
-      "location": "Toronto, Ontario, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8208367?gh_jid=8208367",
-      "postedAt": "2026-09-16T22:34:27.000Z",
-      "key": "okta:8208367",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-16T22:40:16.408Z"
-    },
-    {
       "id": "8815519002",
       "title": "Senior Software Engineer, Backend",
       "location": "Vancouver, British Columbia, Canada",
@@ -45458,22 +45456,6 @@
         "us"
       ],
       "firstSeen": "2026-09-13T22:10:16.253Z"
-    },
-    {
-      "id": "a172ada5-1a6e-4646-8e0d-26747422af24",
-      "title": "Member of Technical Staff (AI Software Engineer, Agents)",
-      "location": "San Francisco",
-      "team": "AI Research & Systems",
-      "url": "https://jobs.ashbyhq.com/perplexity/a172ada5-1a6e-4646-8e0d-26747422af24",
-      "postedAt": "2026-09-13T15:51:57.317Z",
-      "key": "perplexity:a172ada5-1a6e-4646-8e0d-26747422af24",
-      "company": "Perplexity",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-13T16:00:31.764Z"
     },
     {
       "id": "1dbaca6f-92cd-4ad9-ac3f-8fe6dce7e20c",
