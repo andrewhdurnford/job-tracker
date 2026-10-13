@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-13T16:50:16.999Z",
+  "generatedAt": "2026-10-13T17:00:24.810Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "boxinc:8278964",
-    "palantir:29630180-0f10-4826-801f-12e226d3c7f1"
+    "Capital One:R1001713",
+    "skyways:c8aec961-c2f0-4023-9012-6f765f16d8d0",
+    "thetradedesk:5264667007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 176,
     "new-grad": 22,
-    "experienced": 2313
+    "experienced": 2316
   },
   "companies": [
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 273,
+      "jobCount": 274,
       "error": null,
       "stale": false
     },
@@ -4569,7 +4570,7 @@
     {
       "name": "Skyways",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 115,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5059,7 +5060,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001713",
+      "title": "Full-Stack Engineer 5",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-5_R1001713-1",
+      "postedAt": "2026-10-13T17:00:28.159Z",
+      "key": "Capital One:R1001713",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T17:00:24.810Z"
+    },
+    {
+      "id": "c8aec961-c2f0-4023-9012-6f765f16d8d0",
+      "title": "Staff Reliability Engineer",
+      "location": "Austin, TX",
+      "team": "Skyways",
+      "url": "https://jobs.lever.co/skyways/c8aec961-c2f0-4023-9012-6f765f16d8d0",
+      "postedAt": "2026-10-13T16:58:15.773Z",
+      "key": "skyways:c8aec961-c2f0-4023-9012-6f765f16d8d0",
+      "company": "Skyways",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T17:00:24.810Z"
+    },
+    {
+      "id": "5264667007",
+      "title": "Staff Software Engineer",
+      "location": "Bellevue",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5264667007",
+      "postedAt": "2026-10-13T16:54:58.000Z",
+      "key": "thetradedesk:5264667007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T17:00:24.810Z"
+    },
     {
       "id": "29630180-0f10-4826-801f-12e226d3c7f1",
       "title": "Forward Deployed Software Engineer - US Government",
