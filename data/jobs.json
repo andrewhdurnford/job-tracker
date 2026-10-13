@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T19:30:23.052Z",
+  "generatedAt": "2026-10-13T19:40:16.182Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "chainguard:4720009006",
-    "chainguard:4720007006"
+    "permitflow:e6382eec-5b9b-4b06-8ea1-f6a173173207",
+    "waymo:8279506"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 176,
     "new-grad": 22,
-    "experienced": 2344
+    "experienced": 2346
   },
   "companies": [
     {
@@ -3659,7 +3659,7 @@
     {
       "name": "PermitFlow",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 118,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5479,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 62,
+      "jobCount": 63,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "8279506",
+      "title": "Senior Software Engineer, GPU",
+      "location": "Mountain View, CA, USA; New York, NY, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8279506",
+      "postedAt": "2026-10-13T19:32:54.000Z",
+      "key": "waymo:8279506",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T19:40:16.182Z"
+    },
+    {
+      "id": "e6382eec-5b9b-4b06-8ea1-f6a173173207",
+      "title": "Principal Software Engineer, AI",
+      "location": "New York City, NY",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/permitflow/e6382eec-5b9b-4b06-8ea1-f6a173173207",
+      "postedAt": "2026-10-13T19:30:17.516Z",
+      "key": "permitflow:e6382eec-5b9b-4b06-8ea1-f6a173173207",
+      "company": "PermitFlow",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T19:40:16.182Z"
+    },
+    {
       "id": "4720009006",
       "title": "Staff Software Engineer (Customer Platform) ",
       "location": "United States - Remote",
@@ -5912,7 +5944,7 @@
     },
     {
       "id": "8885678002",
-      "title": "Principle Operations Engineer (Application Software)",
+      "title": "Principal Operations Engineer (Application Software)",
       "location": "Hawthorne, CA",
       "team": null,
       "url": "https://boards.greenhouse.io/spacex/jobs/8885678002?gh_jid=8885678002",
