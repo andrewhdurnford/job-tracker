@@ -1,16 +1,10 @@
 {
-  "generatedAt": "2026-10-13T16:30:25.357Z",
+  "generatedAt": "2026-10-13T16:40:17.553Z",
   "bootstrap": false,
-  "lastRunNewCount": 8,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "alchemy:37fa4765-8e1d-4c61-ba52-071e2d6bead0",
-    "alchemy:bca25725-dbdf-4786-9af9-aa793766d2b5",
-    "alchemy:a04294fa-aadb-40c4-ace9-4db84e0f1a7a",
-    "doordashusa:8136498",
-    "doordashusa:8138486",
-    "doordashusa:8084453",
-    "justworks:8236815",
-    "Visa:REF088994W"
+    "Capital One:R1003347",
+    "roblox:8227776"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -19,7 +13,7 @@
   "levelCounts": {
     "intern": 176,
     "new-grad": 22,
-    "experienced": 2309
+    "experienced": 2311
   },
   "companies": [
     {
@@ -795,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 272,
+      "jobCount": 273,
       "error": null,
       "stale": false
     },
@@ -943,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2070,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2903,7 +2897,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4246,7 +4240,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 61,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -4779,7 +4773,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5038,7 +5032,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5708,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003347",
+      "title": "Data Engineer 3",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-3_R1003347-1",
+      "postedAt": "2026-10-13T16:40:20.946Z",
+      "key": "Capital One:R1003347",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T16:40:17.553Z"
+    },
     {
       "id": "REF088994W",
       "title": "Sr. Data Scientist",
@@ -23616,6 +23626,22 @@
         "canada"
       ],
       "firstSeen": "2026-09-29T23:20:15.400Z"
+    },
+    {
+      "id": "8227776",
+      "title": "Senior Software Engineer, Reliability",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8227776?gh_jid=8227776",
+      "postedAt": "2026-09-29T23:14:58.000Z",
+      "key": "roblox:8227776",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T16:40:17.553Z"
     },
     {
       "id": "c7bcdaec-9714-44b0-8ba8-adc824594b54",
