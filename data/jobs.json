@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T22:00:23.265Z",
+  "generatedAt": "2026-10-13T22:10:17.916Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "anaplan:8845838002",
-    "chime:8788322002",
-    "recall:2bd4132f-9971-4eb2-98dd-4b1a5b538338"
+    "anaplan:8845737002",
+    "cloudflare:8275392",
+    "replit:1066b974-3cd8-42cf-a11c-a4217c06f70f"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 177,
     "new-grad": 22,
-    "experienced": 2353
+    "experienced": 2354
   },
   "companies": [
     {
@@ -244,7 +244,7 @@
     {
       "name": "Anaplan",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1014,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -1757,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1876,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2065,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3429,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 140,
+      "jobCount": 139,
       "error": null,
       "stale": false
     },
@@ -4164,7 +4164,7 @@
     {
       "name": "Replit",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5109,7 +5109,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8275392",
+      "title": "Systems Engineer, DNS",
+      "location": "Austin, TX",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275392?gh_jid=8275392",
+      "postedAt": "2026-10-13T22:09:00.000Z",
+      "key": "cloudflare:8275392",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T22:10:17.916Z"
+    },
+    {
+      "id": "8845737002",
+      "title": "Senior Software Development Engineer in Test - AI",
+      "location": "North Carolina-Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anaplan/jobs/8845737002",
+      "postedAt": "2026-10-13T22:07:55.000Z",
+      "key": "anaplan:8845737002",
+      "company": "Anaplan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T22:10:17.916Z"
+    },
+    {
+      "id": "1066b974-3cd8-42cf-a11c-a4217c06f70f",
+      "title": "Data Scientist, Growth",
+      "location": "Foster City, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f",
+      "postedAt": "2026-10-13T22:07:13.122Z",
+      "key": "replit:1066b974-3cd8-42cf-a11c-a4217c06f70f",
+      "company": "Replit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T22:10:17.916Z"
+    },
     {
       "id": "8845838002",
       "title": "QA Automation Engineer - AI",
@@ -7419,22 +7467,6 @@
       "url": "https://careers.toasttab.com/jobs?gh_jid=8256213",
       "postedAt": "2026-10-13T14:02:56.000Z",
       "key": "toast:8256213",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T14:10:17.703Z"
-    },
-    {
-      "id": "8245633",
-      "title": "Software Engineer II, Developer Experience",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8245633",
-      "postedAt": "2026-10-13T14:02:51.000Z",
-      "key": "toast:8245633",
       "company": "Toast",
       "level": "experienced",
       "term": null,
@@ -47151,22 +47183,6 @@
         "us"
       ],
       "firstSeen": "2026-08-18T14:10:21.471Z"
-    },
-    {
-      "id": "JR2015949",
-      "title": "Embedded Software Engineer - DPU Platform",
-      "location": "US, MA, Westford",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1",
-      "postedAt": "2026-08-14T21:54:55.049Z",
-      "key": "Nvidia:JR2015949",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-14T21:53:53.909Z"
     },
     {
       "id": "6142785004",
