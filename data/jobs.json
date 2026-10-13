@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-13T22:30:23.729Z",
+  "generatedAt": "2026-10-13T22:40:18.262Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Remitly:R_107039"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2235,7 +2237,7 @@
     {
       "name": "Honeycomb",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4132,7 +4134,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107039",
+      "title": "Senior Data Engineer",
+      "location": "Arlington Virginia, United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Senior-Data-Engineer_R_107039",
+      "postedAt": "2026-10-13T22:40:21.613Z",
+      "key": "Remitly:R_107039",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T22:40:18.262Z"
+    },
     {
       "id": "8269100",
       "title": "Senior Software Engineer, Distributed Databases",
@@ -22278,22 +22296,6 @@
       },
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-01T15:40:19.813Z"
-    },
-    {
-      "id": "5366559008",
-      "title": "Senior Software Engineer II - LLM Observability ",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5366559008",
-      "postedAt": "2026-10-01T15:36:26.000Z",
-      "key": "honeycomb:5366559008",
-      "company": "Honeycomb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-10-01T15:40:19.813Z"
     },
