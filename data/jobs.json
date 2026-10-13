@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-13T17:10:16.706Z",
+  "generatedAt": "2026-10-13T17:20:18.320Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "substack:64738c2b-f929-4f4e-b9c4-4adc1dc14097",
+    "verkada:5264709007",
+    "verkada:5264710007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 175,
     "new-grad": 22,
-    "experienced": 2315
+    "experienced": 2318
   },
   "companies": [
     {
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 115,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4818,7 +4822,7 @@
     {
       "name": "Substack",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5371,7 +5375,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5264710007",
+      "title": "Senior Software Engineer, Business Systems - GTM",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5264710007",
+      "postedAt": "2026-10-13T17:17:24.000Z",
+      "key": "verkada:5264710007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T17:20:18.320Z"
+    },
+    {
+      "id": "5264709007",
+      "title": "Engineering Manager, Core Platform",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5264709007",
+      "postedAt": "2026-10-13T17:16:50.000Z",
+      "key": "verkada:5264709007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T17:20:18.320Z"
+    },
+    {
+      "id": "64738c2b-f929-4f4e-b9c4-4adc1dc14097",
+      "title": "Software Engineer - Payments",
+      "location": "San Francisco (HQ) (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097",
+      "postedAt": "2026-10-13T17:15:31.209Z",
+      "key": "substack:64738c2b-f929-4f4e-b9c4-4adc1dc14097",
+      "company": "Substack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-13T17:20:18.320Z"
+    },
     {
       "id": "R1001713",
       "title": "Full-Stack Engineer 5",
@@ -12865,7 +12918,7 @@
     {
       "id": "5444482008",
       "title": "Manager, Applied AI Architecture, Enterprise Tech",
-      "location": "San Francisco, CA | New York City, NY",
+      "location": "San Francisco, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444482008",
       "postedAt": "2026-10-07T19:00:01.000Z",
