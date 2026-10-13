@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-10-13T21:20:16.485Z",
+  "generatedAt": "2026-10-13T21:30:19.721Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1001536",
-    "waymo:8279620",
-    "waymo:8274710"
+    "checkr:8267764"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -790,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 272,
+      "jobCount": 271,
       "error": null,
       "stale": false
     },
@@ -845,10 +843,10 @@
     },
     {
       "name": "Carvana",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Casca",
@@ -916,7 +914,7 @@
     {
       "name": "Checkr",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8267764",
+      "title": "Senior Software Engineer (Ruby/Rails), MVR",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8267764",
+      "postedAt": "2026-10-13T21:22:47.000Z",
+      "key": "checkr:8267764",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T21:30:19.721Z"
+    },
     {
       "id": "R1001536",
       "title": "Full-stack Engineer 5, Cyber Identity",
@@ -9796,7 +9810,7 @@
       "id": "f19de1aa-0965-43db-acbe-b6917e268ff0",
       "title": "Software Engineer, Internal Tools",
       "location": "Boston",
-      "team": "Platform",
+      "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/suno/f19de1aa-0965-43db-acbe-b6917e268ff0",
       "postedAt": "2026-10-09T22:27:27.506Z",
       "key": "suno:f19de1aa-0965-43db-acbe-b6917e268ff0",
@@ -10068,7 +10082,7 @@
       "id": "70662a20-201c-4304-9cc1-d7092b4b85c6",
       "title": "Senior / Staff Software Engineer, Internal Tools",
       "location": "Boston",
-      "team": "Platform",
+      "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/suno/70662a20-201c-4304-9cc1-d7092b4b85c6",
       "postedAt": "2026-10-09T21:10:42.915Z",
       "key": "suno:70662a20-201c-4304-9cc1-d7092b4b85c6",
@@ -27479,22 +27493,6 @@
         "us"
       ],
       "firstSeen": "2026-09-28T16:50:15.911Z"
-    },
-    {
-      "id": "R1002204",
-      "title": "Full Stack Engineer - 4 (JavaScript, TypeScript)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer---4--JavaScript--TypeScript-_R1002204-1",
-      "postedAt": "2026-09-28T16:40:27.985Z",
-      "key": "Capital One:R1002204",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T16:40:24.393Z"
     },
     {
       "id": "8237393",
