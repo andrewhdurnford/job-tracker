@@ -1,18 +1,16 @@
 {
-  "generatedAt": "2026-10-13T23:30:19.928Z",
+  "generatedAt": "2026-10-13T23:40:17.093Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "DocuSign:30431"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 177,
+    "intern": 175,
     "new-grad": 22,
-    "experienced": 2359
+    "experienced": 2357
   },
   "companies": [
     {
@@ -67,7 +65,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -431,7 +429,7 @@
     {
       "name": "Astranis",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4407,7 +4405,7 @@
     {
       "name": "SentinelOne",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 119,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -34358,50 +34356,6 @@
       "firstSeen": "2026-09-23T04:00:25.278Z"
     },
     {
-      "id": "4705626006",
-      "title": "Reliability Test Intern (Winter 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705626006",
-      "postedAt": "2026-09-23T03:56:55.000Z",
-      "key": "astranis:4705626006",
-      "company": "Astranis",
-      "level": "intern",
-      "term": {
-        "label": "Winter 2027",
-        "seasons": [
-          "winter"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T04:00:25.278Z"
-    },
-    {
-      "id": "4705629006",
-      "title": "Reliability Test Intern (Summer 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705629006",
-      "postedAt": "2026-09-23T03:56:51.000Z",
-      "key": "astranis:4705629006",
-      "company": "Astranis",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T04:00:25.278Z"
-    },
-    {
       "id": "3c187a7d-3d30-4298-8978-e8e3e7334b44",
       "title": "Developer Experience Engineer",
       "location": "San Francisco",
@@ -35732,22 +35686,6 @@
       "postedAt": "2026-09-22T17:23:06.000Z",
       "key": "anthropic:5426135008",
       "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T17:30:22.163Z"
-    },
-    {
-      "id": "7995352003",
-      "title": "Senior Backend Engineer - Prompt Security (Node.js / TypeScript)",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://www.sentinelone.com/jobs/?gh_jid=7995352003",
-      "postedAt": "2026-09-22T17:21:37.000Z",
-      "key": "sentinellabs:7995352003",
-      "company": "SentinelOne",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -40150,22 +40088,6 @@
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Backend-Engineer---Cloud-Platform_R168509",
       "postedAt": "2026-09-18T08:00:34.625Z",
       "key": "Adobe:R168509",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R170387",
-      "title": "Senior AI/ DevOps Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Job-Posting-Title-AI--DevOps-Engineer_R170387-1",
-      "postedAt": "2026-09-18T08:00:33.964Z",
-      "key": "Adobe:R170387",
       "company": "Adobe",
       "level": "experienced",
       "term": null,
