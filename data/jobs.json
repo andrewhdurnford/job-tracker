@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-10-13T14:00:26.474Z",
+  "generatedAt": "2026-10-13T14:10:17.703Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "datadog:8278276"
+    "Capital One:R1003431",
+    "hackerrank:8203626",
+    "toast:8245633",
+    "toast:8256213",
+    "whoop:8bf51489-2f77-4969-9287-a90bd0e1c513"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 173,
     "new-grad": 22,
-    "experienced": 2285
+    "experienced": 2290
   },
   "companies": [
     {
@@ -788,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 265,
+      "jobCount": 266,
       "error": null,
       "stale": false
     },
@@ -936,7 +940,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2118,7 +2122,7 @@
     {
       "name": "HackerRank",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5107,7 +5111,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5513,7 +5517,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5705,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003431",
+      "title": "Data Engineer 5",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Data-Engineer-5_R1003431-2",
+      "postedAt": "2026-10-13T14:10:21.121Z",
+      "key": "Capital One:R1003431",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T14:10:17.703Z"
+    },
+    {
+      "id": "8bf51489-2f77-4969-9287-a90bd0e1c513",
+      "title": "NPI Quality Engineer II (Hardware)",
+      "location": "Boston, MA",
+      "team": "Hardware Quality",
+      "url": "https://jobs.ashbyhq.com/whoop/8bf51489-2f77-4969-9287-a90bd0e1c513",
+      "postedAt": "2026-10-13T14:04:12.548Z",
+      "key": "whoop:8bf51489-2f77-4969-9287-a90bd0e1c513",
+      "company": "WHOOP",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T14:10:17.703Z"
+    },
+    {
+      "id": "8256213",
+      "title": "Staff Software Engineer, Developer Experience",
+      "location": "Remote, US",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8256213",
+      "postedAt": "2026-10-13T14:02:56.000Z",
+      "key": "toast:8256213",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T14:10:17.703Z"
+    },
+    {
+      "id": "8245633",
+      "title": "Software Engineer II, Developer Experience",
+      "location": "Remote, US",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8245633",
+      "postedAt": "2026-10-13T14:02:51.000Z",
+      "key": "toast:8245633",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T14:10:17.703Z"
+    },
     {
       "id": "8278276",
       "title": "Senior Software Engineer - Distributed Systems (Continuous Profiler)",
@@ -34224,6 +34292,22 @@
         "us"
       ],
       "firstSeen": "2026-10-09T17:40:19.505Z"
+    },
+    {
+      "id": "8203626",
+      "title": "Forward Deployed Engineer",
+      "location": "Hybrid in Santa Clara, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8203626",
+      "postedAt": "2026-09-22T17:37:42.000Z",
+      "key": "hackerrank:8203626",
+      "company": "HackerRank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T14:10:17.703Z"
     },
     {
       "id": "5a4a6ea7-fcfb-4639-83ce-90266cad1548",
