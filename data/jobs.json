@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-13T17:20:18.320Z",
+  "generatedAt": "2026-10-13T17:30:19.727Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "substack:64738c2b-f929-4f4e-b9c4-4adc1dc14097",
-    "verkada:5264709007",
-    "verkada:5264710007"
+    "attentive:4443888009",
+    "doordashusa:8224131",
+    "openai:a01fc9ed-de08-4326-9206-4ee3f08000dc",
+    "outset:18583f35-f1d5-41ad-9924-2bda6f5435ad"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 175,
     "new-grad": 22,
-    "experienced": 2318
+    "experienced": 2322
   },
   "companies": [
     {
@@ -475,7 +476,7 @@
     {
       "name": "Attentive",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1455,7 +1456,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -3513,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 52,
+      "jobCount": 53,
       "error": null,
       "stale": false
     },
@@ -3562,7 +3563,7 @@
     {
       "name": "Outset",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 115,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5704,6 +5705,70 @@
   ],
   "jobs": [
     {
+      "id": "8224131",
+      "title": "Staff Machine Learning Engineer, DashPass",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8224131",
+      "postedAt": "2026-10-13T17:30:04.000Z",
+      "key": "doordashusa:8224131",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T17:30:19.727Z"
+    },
+    {
+      "id": "18583f35-f1d5-41ad-9924-2bda6f5435ad",
+      "title": "Platform Security Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/outset/18583f35-f1d5-41ad-9924-2bda6f5435ad",
+      "postedAt": "2026-10-13T17:26:05.990Z",
+      "key": "outset:18583f35-f1d5-41ad-9924-2bda6f5435ad",
+      "company": "Outset",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T17:30:19.727Z"
+    },
+    {
+      "id": "a01fc9ed-de08-4326-9206-4ee3f08000dc",
+      "title": "Machine Learning Engineer, Implicit Signals",
+      "location": "San Francisco",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc",
+      "postedAt": "2026-10-13T17:24:19.213Z",
+      "key": "openai:a01fc9ed-de08-4326-9206-4ee3f08000dc",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T17:30:19.727Z"
+    },
+    {
+      "id": "4443888009",
+      "title": "Director, AI Developer Experience",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4443888009",
+      "postedAt": "2026-10-13T17:22:22.000Z",
+      "key": "attentive:4443888009",
+      "company": "Attentive",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T17:30:19.727Z"
+    },
+    {
       "id": "5264710007",
       "title": "Senior Software Engineer, Business Systems - GTM",
       "location": "San Mateo, CA United States",
@@ -5737,7 +5802,7 @@
     },
     {
       "id": "64738c2b-f929-4f4e-b9c4-4adc1dc14097",
-      "title": "Software Engineer - Payments",
+      "title": "Full Stack Software Engineer - Payments",
       "location": "San Francisco (HQ) (+2 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/substack/64738c2b-f929-4f4e-b9c4-4adc1dc14097",
