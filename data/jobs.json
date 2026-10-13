@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T19:10:16.224Z",
+  "generatedAt": "2026-10-13T19:20:16.033Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "cloudflare:8264695",
-    "roblox:8265736"
+    "hex:826baeae-d376-4b00-a46b-044bcff0734a",
+    "twilio:8247182"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -789,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 273,
+      "jobCount": 272,
       "error": null,
       "stale": false
     },
@@ -2210,7 +2210,7 @@
     {
       "name": "Hex",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5227,7 +5227,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5689,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8247182",
+      "title": "Software Engineer (L2) Messaging Channels Team ",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
+      "postedAt": "2026-10-13T19:12:15.000Z",
+      "key": "twilio:8247182",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T19:20:16.033Z"
+    },
     {
       "id": "8265736",
       "title": "Senior Software Engineer, Video Rendering",
@@ -6173,6 +6189,22 @@
       "firstSeen": "2026-10-13T17:30:19.727Z"
     },
     {
+      "id": "826baeae-d376-4b00-a46b-044bcff0734a",
+      "title": "Senior IT Systems Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/hex/826baeae-d376-4b00-a46b-044bcff0734a",
+      "postedAt": "2026-10-13T17:22:32.448Z",
+      "key": "hex:826baeae-d376-4b00-a46b-044bcff0734a",
+      "company": "Hex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-13T19:20:16.033Z"
+    },
+    {
       "id": "4443888009",
       "title": "Director, AI Developer Experience",
       "location": "New York, NY",
@@ -6316,22 +6348,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T16:50:16.999Z"
-    },
-    {
-      "id": "R1003347",
-      "title": "Data Engineer 3",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-3_R1003347-1",
-      "postedAt": "2026-10-13T16:40:20.946Z",
-      "key": "Capital One:R1003347",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T16:40:17.553Z"
     },
     {
       "id": "REF088994W",
@@ -43943,22 +43959,6 @@
       "postedAt": "2026-09-15T16:16:53.079Z",
       "key": "shieldai:bcf7d048-3982-4558-bd9b-c355282b7f78",
       "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T16:20:16.762Z"
-    },
-    {
-      "id": "5235296007",
-      "title": "Senior Information Security Engineer",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5235296007",
-      "postedAt": "2026-09-15T16:10:08.000Z",
-      "key": "zscaler:5235296007",
-      "company": "Zscaler",
       "level": "experienced",
       "term": null,
       "regions": [
