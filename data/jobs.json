@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-14T01:20:15.977Z",
+  "generatedAt": "2026-10-14T01:24:30.514Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "elevenlabs:6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1535,7 +1537,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 144,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 119,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+      "title": "Forward Deployed Engineer - Software Engineer - USA",
+      "location": "San Francisco (+2 more)",
+      "team": "Enterprise - Deployment",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+      "postedAt": "2026-10-14T01:20:28.144Z",
+      "key": "elevenlabs:6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T01:24:30.514Z"
+    },
     {
       "id": "JR2026650",
       "title": "Senior Manager, Software Engineering - Agentic Development for Safety-Critical Systems",
@@ -38720,22 +38738,6 @@
         "us"
       ],
       "firstSeen": "2026-09-19T18:50:16.612Z"
-    },
-    {
-      "id": "JR2020320",
-      "title": "Principal Software Engineer, At-Scale Reliability and Fleet Intelligence — CSP Engagements",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer--At-Scale-Reliability-and-Fleet-Intelligence---CSP-Engagements_JR2020320",
-      "postedAt": "2026-09-19T16:00:28.784Z",
-      "key": "Nvidia:JR2020320",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-19T16:00:24.526Z"
     },
     {
       "id": "5215456007",
