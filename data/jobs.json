@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-10-14T19:00:24.271Z",
+  "generatedAt": "2026-10-14T19:10:20.136Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "nuro:8282222"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 158,
+    "intern": 157,
     "new-grad": 21,
     "experienced": 2391
   },
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2669,7 +2671,7 @@
     {
       "name": "LanceDB",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3411,7 +3413,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 118,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5476,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 65,
+      "jobCount": 64,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8282222",
+      "title": "Senior Software Engineer, Autonomy Behavior Testing",
+      "location": "Mountain View, California (HQ)",
+      "team": null,
+      "url": "https://nuro.ai/careersitem?gh_jid=8282222",
+      "postedAt": "2026-10-14T19:03:58.000Z",
+      "key": "nuro:8282222",
+      "company": "Nuro",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T19:10:20.136Z"
+    },
     {
       "id": "REF082660W",
       "title": "Senior Software Engineer",
@@ -46413,44 +46431,6 @@
         "us"
       ],
       "firstSeen": "2026-09-14T19:20:17.923Z"
-    },
-    {
-      "id": "d72f807c-7d73-4356-8f49-4597293aa5ef",
-      "title": "AI Research Engineer",
-      "location": "United States",
-      "team": "Research",
-      "url": "https://jobs.ashbyhq.com/lancedb/d72f807c-7d73-4356-8f49-4597293aa5ef",
-      "postedAt": "2026-09-14T19:04:51.973Z",
-      "key": "lancedb:d72f807c-7d73-4356-8f49-4597293aa5ef",
-      "company": "LanceDB",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-14T19:10:21.287Z"
-    },
-    {
-      "id": "8197899",
-      "title": "2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8197899",
-      "postedAt": "2026-09-14T19:03:20.000Z",
-      "key": "waymo:8197899",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-14T19:10:21.287Z"
     },
     {
       "id": "8806470002",
