@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-10-14T17:40:16.639Z",
+  "generatedAt": "2026-10-14T17:50:18.182Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "albedo:4423109009"
+    "elevenlabs:a787e8ee-f1c4-422d-95f8-61ffd4eefb95",
+    "knowtex:60f52af3-1426-43db-bcc6-19c82303dae2",
+    "smartasset:8881645002",
+    "spotify:05b8d6ee-0773-4255-b8b9-ae73d74a5ee5"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 159,
     "new-grad": 21,
-    "experienced": 2390
+    "experienced": 2391
   },
   "companies": [
     {
@@ -1537,7 +1540,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -2594,7 +2597,7 @@
     {
       "name": "Knowtex",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3329,7 +3332,7 @@
     {
       "name": "Nextdoor",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4582,7 +4585,7 @@
     {
       "name": "SmartAsset",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4641,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4722,7 +4725,7 @@
     {
       "name": "Spotify",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "8881645002",
+      "title": "Software Engineer",
+      "location": "Remote, Contiguous United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/smartasset/jobs/8881645002",
+      "postedAt": "2026-10-14T17:49:17.000Z",
+      "key": "smartasset:8881645002",
+      "company": "SmartAsset",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T17:50:18.182Z"
+    },
+    {
+      "id": "a787e8ee-f1c4-422d-95f8-61ffd4eefb95",
+      "title": "Safety Engineer (Back-End Leaning)",
+      "location": "United Kingdom (+11 more)",
+      "team": "AI Safety",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/a787e8ee-f1c4-422d-95f8-61ffd4eefb95",
+      "postedAt": "2026-10-14T17:46:58.808Z",
+      "key": "elevenlabs:a787e8ee-f1c4-422d-95f8-61ffd4eefb95",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T17:50:18.182Z"
+    },
+    {
+      "id": "60f52af3-1426-43db-bcc6-19c82303dae2",
+      "title": "Integration Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/knowtex/60f52af3-1426-43db-bcc6-19c82303dae2",
+      "postedAt": "2026-10-14T17:40:53.497Z",
+      "key": "knowtex:60f52af3-1426-43db-bcc6-19c82303dae2",
+      "company": "Knowtex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T17:50:18.182Z"
+    },
+    {
       "id": "4423109009",
       "title": "Systems Engineer",
       "location": "Broomfield, CO",
@@ -5796,6 +5847,22 @@
         "us"
       ],
       "firstSeen": "2026-10-14T16:30:24.062Z"
+    },
+    {
+      "id": "05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
+      "title": "Senior Machine Learning Engineer, Personalization",
+      "location": "New York, NY",
+      "team": "Personalization",
+      "url": "https://jobs.lever.co/spotify/05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
+      "postedAt": "2026-10-14T16:28:30.066Z",
+      "key": "spotify:05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
+      "company": "Spotify",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T17:50:18.182Z"
     },
     {
       "id": "5265619007",
@@ -6602,22 +6669,6 @@
       "firstSeen": "2026-10-14T00:40:18.243Z"
     },
     {
-      "id": "b6fed204-3317-43ba-b87b-f045e4cf8d68",
-      "title": "Software Engineer - Ingestion Execution Platform",
-      "location": "US-WA-Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68",
-      "postedAt": "2026-10-14T00:29:18.849Z",
-      "key": "snowflake:b6fed204-3317-43ba-b87b-f045e4cf8d68",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T00:30:20.373Z"
-    },
-    {
       "id": "64e0ffe0-dff1-4efa-8ec0-11da43a18e6d",
       "title": "Security Engineer",
       "location": "San Francisco or New York City or Remote",
@@ -6668,7 +6719,7 @@
     },
     {
       "id": "8009657003",
-      "title": "Manager, Software Engineering (Marketing & Privacy Engineering)",
+      "title": "Manager, Software Engineering (Marketing and Privacy Engineering)",
       "location": "Remote Canada",
       "team": null,
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8009657003",
@@ -46458,38 +46509,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-14T18:20:19.059Z"
-    },
-    {
-      "id": "8198165",
-      "title": "Software Engineer - Fullstack",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://about.nextdoor.com/careers-list/?gh_jid=8198165",
-      "postedAt": "2026-09-14T17:40:25.000Z",
-      "key": "nextdoor:8198165",
-      "company": "Nextdoor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-14T17:50:20.347Z"
-    },
-    {
-      "id": "8198185",
-      "title": "Software Engineer - Fullstack",
-      "location": "Dallas, TX",
-      "team": null,
-      "url": "https://about.nextdoor.com/careers-list/?gh_jid=8198185",
-      "postedAt": "2026-09-14T17:40:23.000Z",
-      "key": "nextdoor:8198185",
-      "company": "Nextdoor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-14T17:50:20.347Z"
     },
     {
       "id": "R29984",
