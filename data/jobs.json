@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-14T16:20:15.877Z",
+  "generatedAt": "2026-10-14T16:30:24.062Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "doordashusa:8281762"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 161,
     "new-grad": 21,
-    "experienced": 2394
+    "experienced": 2393
   },
   "companies": [
     {
@@ -471,7 +473,7 @@
     {
       "name": "Attentive",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -1451,7 +1453,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -3977,10 +3979,10 @@
     },
     {
       "name": "Pyka",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pylon",
@@ -4692,7 +4694,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 120,
+      "jobCount": 119,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8281762",
+      "title": "Staff Security Engineer, Security Enablement",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8281762",
+      "postedAt": "2026-10-14T16:30:01.000Z",
+      "key": "doordashusa:8281762",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T16:30:24.062Z"
+    },
     {
       "id": "5265619007",
       "title": "Senior-Staff Software Engineer, Tooling",
@@ -31035,22 +31053,6 @@
       "firstSeen": "2026-09-25T01:00:22.914Z"
     },
     {
-      "id": "8843640002",
-      "title": "Software Engineer (AI Data Engineering)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8843640002?gh_jid=8843640002",
-      "postedAt": "2026-09-25T00:23:40.000Z",
-      "key": "spacex:8843640002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T00:30:19.621Z"
-    },
-    {
       "id": "6208110004",
       "title": "Senior Rendering Programmer",
       "location": "Vancouver,British Columbia,Canada",
@@ -46576,22 +46578,6 @@
         "us"
       ],
       "firstSeen": "2026-09-14T16:40:18.994Z"
-    },
-    {
-      "id": "4404472009",
-      "title": "Senior Corporate Security Operations Engineer ",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/attentive/jobs/4404472009",
-      "postedAt": "2026-09-14T16:25:20.000Z",
-      "key": "attentive:4404472009",
-      "company": "Attentive",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-14T16:30:26.441Z"
     },
     {
       "id": "R29984",
