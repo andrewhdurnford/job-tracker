@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-14T14:10:18.374Z",
+  "generatedAt": "2026-10-14T14:20:17.602Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "docker:87bda848-01ed-4641-beaa-829373d0ed56",
+    "saronic:b43cbabb-fa07-458c-bbca-666ca8e734b3"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 165,
-    "new-grad": 22,
-    "experienced": 2385
+    "new-grad": 21,
+    "experienced": 2387
   },
   "companies": [
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 269,
+      "jobCount": 268,
       "error": null,
       "stale": false
     },
@@ -1416,7 +1419,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2360,10 +2363,10 @@
     },
     {
       "name": "Included Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inferact",
@@ -4363,7 +4366,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "b43cbabb-fa07-458c-bbca-666ca8e734b3",
+      "title": "Senior / Staff Robotics Security Software Engineer",
+      "location": "Austin, TX",
+      "team": "Software Eng",
+      "url": "https://jobs.ashbyhq.com/saronic/b43cbabb-fa07-458c-bbca-666ca8e734b3",
+      "postedAt": "2026-10-14T14:14:13.861Z",
+      "key": "saronic:b43cbabb-fa07-458c-bbca-666ca8e734b3",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T14:20:17.602Z"
+    },
+    {
+      "id": "87bda848-01ed-4641-beaa-829373d0ed56",
+      "title": "Staff Software Engineer, AI Developer Tools",
+      "location": "San Francisco, CA (+1 more)",
+      "team": "ENG-Platform",
+      "url": "https://jobs.ashbyhq.com/docker/87bda848-01ed-4641-beaa-829373d0ed56",
+      "postedAt": "2026-10-14T14:12:21.906Z",
+      "key": "docker:87bda848-01ed-4641-beaa-829373d0ed56",
+      "company": "Docker",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T14:20:17.602Z"
+    },
     {
       "id": "8279979",
       "title": "Frontend Architect",
@@ -11764,22 +11799,6 @@
         "us"
       ],
       "firstSeen": "2026-10-09T16:50:16.838Z"
-    },
-    {
-      "id": "R247320",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "postedAt": "2026-10-09T16:40:19.338Z",
-      "key": "Capital One:R247320",
-      "company": "Capital One",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-09T16:40:15.733Z"
     },
     {
       "id": "8265763",
