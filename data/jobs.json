@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-14T22:00:23.469Z",
+  "generatedAt": "2026-10-14T22:10:19.459Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "reddit:8282760"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -3754,7 +3756,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4104,7 +4106,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8282760",
+      "title": "Analytics Engineer",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
+      "postedAt": "2026-10-14T22:03:16.000Z",
+      "key": "reddit:8282760",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T22:10:19.459Z"
+    },
     {
       "id": "8237636",
       "title": "Staff Software Engineer, Android Design System",
@@ -46186,22 +46204,6 @@
         "us"
       ],
       "firstSeen": "2026-09-14T22:20:16.772Z"
-    },
-    {
-      "id": "8015531",
-      "title": "Engineering Manager II, Android Modernization",
-      "location": "Toronto, ON, CA",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015531",
-      "postedAt": "2026-09-14T22:08:25.000Z",
-      "key": "pinterest:8015531",
-      "company": "Pinterest",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-14T22:10:16.554Z"
     },
     {
       "id": "R244920",
