@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T15:20:18.246Z",
+  "generatedAt": "2026-10-14T15:30:22.240Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "langchain:ddf92275-1cc3-49c0-9f25-e8ded43b07f6"
+    "weave:60c0b7e6-5702-4e16-ad34-cbd2773f752d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -236,7 +236,7 @@
       "name": "Amplitude",
       "ok": false,
       "jobCount": 5,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -1453,7 +1453,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -5492,7 +5492,7 @@
     {
       "name": "Weave",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "60c0b7e6-5702-4e16-ad34-cbd2773f752d",
+      "title": "SIP Engineer",
+      "location": "Weave - Headquarters (Lehi, UT)",
+      "team": "Technology",
+      "url": "https://jobs.ashbyhq.com/weave/60c0b7e6-5702-4e16-ad34-cbd2773f752d",
+      "postedAt": "2026-10-14T15:27:27.244Z",
+      "key": "weave:60c0b7e6-5702-4e16-ad34-cbd2773f752d",
+      "company": "Weave",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T15:30:22.240Z"
+    },
     {
       "id": "ddf92275-1cc3-49c0-9f25-e8ded43b07f6",
       "title": "FullStack Engineer,  AI Observability & Evals Platform (LangSmith)",
@@ -6945,22 +6961,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T20:40:19.329Z"
-    },
-    {
-      "id": "8192152",
-      "title": "Staff Software Engineer, Data Engineering",
-      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192152",
-      "postedAt": "2026-10-13T20:25:19.000Z",
-      "key": "doordashusa:8192152",
-      "company": "DoorDash",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T20:30:22.393Z"
     },
     {
       "id": "8193584",
@@ -14514,7 +14514,7 @@
     {
       "id": "8262963",
       "title": "Staff Software Engineer - Core Identity ",
-      "location": "San Francisco, California",
+      "location": "Toronto, Ontario, Canada",
       "team": null,
       "url": "https://www.okta.com/company/careers/opportunity/8262963?gh_jid=8262963",
       "postedAt": "2026-10-07T21:32:21.000Z",
@@ -14523,7 +14523,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "canada"
       ],
       "firstSeen": "2026-10-07T21:40:14.992Z"
     },
