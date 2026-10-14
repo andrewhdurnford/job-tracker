@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-10-14T17:50:18.182Z",
+  "generatedAt": "2026-10-14T18:00:27.839Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "elevenlabs:a787e8ee-f1c4-422d-95f8-61ffd4eefb95",
-    "knowtex:60f52af3-1426-43db-bcc6-19c82303dae2",
-    "smartasset:8881645002",
-    "spotify:05b8d6ee-0773-4255-b8b9-ae73d74a5ee5"
+    "Capital One:R1003599",
+    "pinterest:8015543"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +13,7 @@
   "levelCounts": {
     "intern": 159,
     "new-grad": 21,
-    "experienced": 2391
+    "experienced": 2392
   },
   "companies": [
     {
@@ -643,10 +641,10 @@
     },
     {
       "name": "Boku",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Bold",
@@ -2666,10 +2664,10 @@
     },
     {
       "name": "LAIKA",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "LanceDB",
@@ -2899,7 +2897,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3149,10 +3147,10 @@
     },
     {
       "name": "Motive",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Multiply Labs",
@@ -3759,7 +3757,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 119,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5566,7 +5564,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5704,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003599",
+      "title": "Manager, AI Engineer",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Manager--AI-Engineer_R1003599",
+      "postedAt": "2026-10-14T18:00:31.509Z",
+      "key": "Capital One:R1003599",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-14T18:00:27.839Z"
+    },
+    {
+      "id": "8015543",
+      "title": "Staff Machine Learning Engineer",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015543",
+      "postedAt": "2026-10-14T17:57:40.000Z",
+      "key": "pinterest:8015543",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T18:00:27.839Z"
+    },
     {
       "id": "8881645002",
       "title": "Software Engineer",
@@ -8554,22 +8584,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T14:40:17.563Z"
-    },
-    {
-      "id": "R1001669",
-      "title": "Data Engineer 4",
-      "location": "Wilmington, DE",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Wilmington-DE/Data-Engineer-4_R1001669-2",
-      "postedAt": "2026-10-13T14:30:25.625Z",
-      "key": "Capital One:R1001669",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T14:30:21.969Z"
     },
     {
       "id": "REF088495W",
