@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-14T18:00:27.839Z",
+  "generatedAt": "2026-10-14T18:10:17.170Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1003599",
-    "pinterest:8015543"
+    "Capital One:R1003571",
+    "Capital One:R1001669",
+    "Nvidia:JR2020483"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 159,
     "new-grad": 21,
-    "experienced": 2392
+    "experienced": 2394
   },
   "companies": [
     {
@@ -641,10 +642,10 @@
     },
     {
       "name": "Boku",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Bold",
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 264,
+      "jobCount": 266,
       "error": null,
       "stale": false
     },
@@ -937,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2664,10 +2665,10 @@
     },
     {
       "name": "LAIKA",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "LanceDB",
@@ -2897,7 +2898,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3147,10 +3148,10 @@
     },
     {
       "name": "Motive",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Multiply Labs",
@@ -3428,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 145,
+      "jobCount": 146,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 119,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5402,7 +5403,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -5564,7 +5565,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5703,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "JR2020483",
+      "title": "Senior Systems Software Engineer - NV Cloud Functions",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---NV-Cloud-Functions_JR2020483-1",
+      "postedAt": "2026-10-14T18:10:21.153Z",
+      "key": "Nvidia:JR2020483",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T18:10:17.170Z"
+    },
+    {
+      "id": "R1003571",
+      "title": "Senior Manager, Full-stack Engineer (Java, Golang, AWS)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Manager--Full-stack-Engineer--Java--Golang--AWS-_R1003571",
+      "postedAt": "2026-10-14T18:10:20.668Z",
+      "key": "Capital One:R1003571",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T18:10:17.170Z"
+    },
+    {
       "id": "R1003599",
       "title": "Manager, AI Engineer",
       "location": "Toronto, ON",
@@ -5784,7 +5817,7 @@
     },
     {
       "id": "4423109009",
-      "title": "Systems Engineer",
+      "title": "Sr. Systems Engineer",
       "location": "Broomfield, CO",
       "team": null,
       "url": "https://job-boards.greenhouse.io/albedo/jobs/4423109009",
@@ -7714,6 +7747,22 @@
         "us"
       ],
       "firstSeen": "2026-10-13T18:20:16.562Z"
+    },
+    {
+      "id": "R1001669",
+      "title": "Data Engineer 4",
+      "location": "Wilmington, DE",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Wilmington-DE/Data-Engineer-4_R1001669-2",
+      "postedAt": "2026-10-13T18:10:22.667Z",
+      "key": "Capital One:R1001669",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T18:10:17.170Z"
     },
     {
       "id": "R1003547",
@@ -23182,22 +23231,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-01T16:30:33.453Z"
-    },
-    {
-      "id": "REF088719W",
-      "title": "Staff Software Engineer",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-SW-Engineer--Software-Engineering--Consultant---Manager_REF088719W",
-      "postedAt": "2026-10-01T16:20:22.355Z",
-      "key": "Visa:REF088719W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T16:20:18.054Z"
     },
     {
       "id": "8860409002",
