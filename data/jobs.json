@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-14T02:10:17.173Z",
+  "generatedAt": "2026-10-14T02:20:15.554Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "fieldguide:06670a3b-e69a-41fa-8c46-df118b462420",
+    "fieldguide:74e28d0e-379b-4184-a8c8-a773f7e234b6"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 175,
     "new-grad": 22,
-    "experienced": 2374
+    "experienced": 2376
   },
   "companies": [
     {
@@ -1696,7 +1699,7 @@
     {
       "name": "Fieldguide",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 119,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "74e28d0e-379b-4184-a8c8-a773f7e234b6",
+      "title": "Senior Manager, Deployed Engineering",
+      "location": "San Francisco, CA or Remote (USA)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/fieldguide/74e28d0e-379b-4184-a8c8-a773f7e234b6",
+      "postedAt": "2026-10-14T02:13:00.204Z",
+      "key": "fieldguide:74e28d0e-379b-4184-a8c8-a773f7e234b6",
+      "company": "Fieldguide",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T02:20:15.554Z"
+    },
+    {
+      "id": "06670a3b-e69a-41fa-8c46-df118b462420",
+      "title": "Head of Deployed Engineering",
+      "location": "San Francisco, CA or Remote (USA)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/fieldguide/06670a3b-e69a-41fa-8c46-df118b462420",
+      "postedAt": "2026-10-14T02:12:53.100Z",
+      "key": "fieldguide:06670a3b-e69a-41fa-8c46-df118b462420",
+      "company": "Fieldguide",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-14T02:20:15.554Z"
+    },
     {
       "id": "8278877",
       "title": "Staff Software Engineer, Care Experience",
