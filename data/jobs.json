@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-14T10:00:22.822Z",
+  "generatedAt": "2026-10-14T10:10:17.938Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "elevenlabs:ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+    "elevenlabs:e4e0450f-d139-4f8e-b210-2f326a680d90"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 165,
     "new-grad": 22,
-    "experienced": 2381
+    "experienced": 2383
   },
   "companies": [
     {
@@ -1429,10 +1432,10 @@
     },
     {
       "name": "Dolls Kill",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Domino Data Lab",
@@ -1535,7 +1538,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -2915,7 +2918,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5699,6 +5702,40 @@
     }
   ],
   "jobs": [
+    {
+      "id": "e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
+      "location": "Remote (+5 more)",
+      "team": "Core Platform",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "postedAt": "2026-10-14T10:04:28.961Z",
+      "key": "elevenlabs:e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-14T10:10:17.938Z"
+    },
+    {
+      "id": "ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+      "location": "Remote (+5 more)",
+      "team": "Core Platform",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+      "postedAt": "2026-10-14T10:03:44.600Z",
+      "key": "elevenlabs:ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-14T10:10:17.938Z"
+    },
     {
       "id": "8126314",
       "title": "Senior Software Engineer, International",
