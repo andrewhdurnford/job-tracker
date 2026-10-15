@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-15T22:50:15.742Z",
+  "generatedAt": "2026-10-15T23:00:24.286Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "anthropic:5454650008",
-    "anthropic:5454673008",
-    "Nvidia:JR2024352"
+    "lancedb:3a984b21-7b04-44c8-b8be-471526dc66e0",
+    "lucidmotors:5267095007",
+    "shieldai:4047ed49-c4fa-4e3f-963f-dd417234799f",
+    "spacex:8827702002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 21,
-    "experienced": 2351
+    "experienced": 2353
   },
   "companies": [
     {
@@ -790,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 264,
+      "jobCount": 263,
       "error": null,
       "stale": false
     },
@@ -2673,7 +2674,7 @@
     {
       "name": "LanceDB",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2813,7 +2814,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -3513,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4472,7 +4473,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -4696,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 108,
+      "jobCount": 109,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,71 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3a984b21-7b04-44c8-b8be-471526dc66e0",
+      "title": "Senior Software Engineer",
+      "location": "United States | Canada",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/lancedb/3a984b21-7b04-44c8-b8be-471526dc66e0",
+      "postedAt": "2026-10-15T22:57:06.942Z",
+      "key": "lancedb:3a984b21-7b04-44c8-b8be-471526dc66e0",
+      "company": "LanceDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-15T23:00:24.286Z"
+    },
+    {
+      "id": "8827702002",
+      "title": "Lead Software Engineer, Components Test (Starshield)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8827702002?gh_jid=8827702002",
+      "postedAt": "2026-10-15T22:53:12.000Z",
+      "key": "spacex:8827702002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T23:00:24.286Z"
+    },
+    {
+      "id": "5267095007",
+      "title": "Senior Controls Engineer, EV Body and Access Systems",
+      "location": "Phoenix, AZ",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5267095007?gh_jid=5267095007",
+      "postedAt": "2026-10-15T22:51:45.000Z",
+      "key": "lucidmotors:5267095007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T23:00:24.286Z"
+    },
+    {
+      "id": "4047ed49-c4fa-4e3f-963f-dd417234799f",
+      "title": "Staff Engineer, Landing Gear Systems - Ranger (R6294)",
+      "location": "Seattle, Washington",
+      "team": "X-BAT Engineering - Mechanical",
+      "url": "https://jobs.lever.co/shieldai/4047ed49-c4fa-4e3f-963f-dd417234799f",
+      "postedAt": "2026-10-15T22:50:55.425Z",
+      "key": "shieldai:4047ed49-c4fa-4e3f-963f-dd417234799f",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T23:00:24.286Z"
+    },
     {
       "id": "JR2024352",
       "title": "Principal Software Engineer – Infrastructure",
@@ -25556,22 +25622,6 @@
         "us"
       ],
       "firstSeen": "2026-10-01T01:40:16.187Z"
-    },
-    {
-      "id": "2d1785b0-8bfa-485e-97d2-a19ff3e15570",
-      "title": "Technical Sourcer, Research SWE",
-      "location": "San Francisco (+3 more)",
-      "team": "Recruiting",
-      "url": "https://jobs.ashbyhq.com/openai/2d1785b0-8bfa-485e-97d2-a19ff3e15570",
-      "postedAt": "2026-10-01T00:37:32.541Z",
-      "key": "openai:2d1785b0-8bfa-485e-97d2-a19ff3e15570",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T00:40:18.453Z"
     },
     {
       "id": "8841997002",
@@ -45787,22 +45837,6 @@
         "us"
       ],
       "firstSeen": "2026-09-15T14:10:18.801Z"
-    },
-    {
-      "id": "R1000676",
-      "title": "Director, Software Engineering",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Director--Software-Engineering_R1000676",
-      "postedAt": "2026-09-15T13:40:22.934Z",
-      "key": "Capital One:R1000676",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-15T13:40:19.526Z"
     },
     {
       "id": "R25320",
