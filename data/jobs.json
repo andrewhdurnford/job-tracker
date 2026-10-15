@@ -1,20 +1,22 @@
 {
-  "generatedAt": "2026-10-15T21:40:16.054Z",
+  "generatedAt": "2026-10-15T21:50:15.050Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "affirm:8017342003",
-    "affirm:8017340003",
-    "coupang:8283587"
+    "boxinc:8236515",
+    "gusto:8039525",
+    "Nvidia:JR2019994",
+    "Nvidia:JR2027687",
+    "ServiceTitan:JR113479"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
+    "intern": 148,
     "new-grad": 21,
-    "experienced": 2339
+    "experienced": 2343
   },
   "companies": [
     {
@@ -678,7 +680,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -938,7 +940,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2106,7 +2108,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 143,
+      "jobCount": 145,
       "error": null,
       "stale": false
     },
@@ -4017,7 +4019,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4437,7 +4439,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4535,7 +4537,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5704,8 +5706,88 @@
   ],
   "jobs": [
     {
+      "id": "JR2019994",
+      "title": "Senior AI Application Developer - GPU and SOC Architecture Modeling",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Application-Developer---GPU-and-SOC-Architecture-Modeling_JR2019994",
+      "postedAt": "2026-10-15T21:50:20.150Z",
+      "key": "Nvidia:JR2019994",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T21:50:15.050Z"
+    },
+    {
+      "id": "JR2027687",
+      "title": "Senior Manager, Developer Infrastructure and Build Engineering",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Developer-Infrastructure-and-Build-Engineering_JR2027687",
+      "postedAt": "2026-10-15T21:50:20.150Z",
+      "key": "Nvidia:JR2027687",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T21:50:15.050Z"
+    },
+    {
+      "id": "JR113479",
+      "title": "Senior Manager, AI Engineering (Agent OS Platform)",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Director--AI-Engineering_JR113479",
+      "postedAt": "2026-10-15T21:50:19.376Z",
+      "key": "ServiceTitan:JR113479",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T21:50:15.050Z"
+    },
+    {
+      "id": "8236515",
+      "title": "Senior Software Engineer, Finops",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8236515",
+      "postedAt": "2026-10-15T21:49:58.000Z",
+      "key": "boxinc:8236515",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T21:50:15.050Z"
+    },
+    {
+      "id": "8039525",
+      "title": "Staff Software Engineer, HR Experience",
+      "location": "New York, NY - Hybrid",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8039525",
+      "postedAt": "2026-10-15T21:42:09.000Z",
+      "key": "gusto:8039525",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T21:50:15.050Z"
+    },
+    {
       "id": "8283587",
-      "title": "[Lv6-1] Web Security Engineer",
+      "title": "Staff Web Security Engineer",
       "location": "Seattle, USA",
       "team": null,
       "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8283587",
@@ -7487,7 +7569,7 @@
     },
     {
       "id": "d5a49ad3-97e5-4b5b-b0e8-bccd77229414",
-      "title": "Sr. Quality Engineer",
+      "title": "Sr. Field Service Quality Engineer",
       "location": "Austin, TX",
       "team": "Quality",
       "url": "https://jobs.ashbyhq.com/saronic/d5a49ad3-97e5-4b5b-b0e8-bccd77229414",
@@ -45371,42 +45453,6 @@
         "us"
       ],
       "firstSeen": "2026-09-15T22:20:46.520Z"
-    },
-    {
-      "id": "8205514",
-      "title": "Software Engineer Intern- Helios- 2027",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
-      "postedAt": "2026-09-15T21:49:19.000Z",
-      "key": "singlestore:8205514",
-      "company": "SingleStore",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T21:50:17.940Z"
-    },
-    {
-      "id": "f0c4d299-0ab6-4db4-8939-0171926919ef",
-      "title": "Ground System Integration Engineer",
-      "location": "Denver, CO (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/quindar/f0c4d299-0ab6-4db4-8939-0171926919ef",
-      "postedAt": "2026-09-15T21:44:21.551Z",
-      "key": "quindar:f0c4d299-0ab6-4db4-8939-0171926919ef",
-      "company": "Quindar",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T21:50:17.940Z"
     },
     {
       "id": "R246337",
