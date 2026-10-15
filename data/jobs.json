@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-15T22:00:25.020Z",
+  "generatedAt": "2026-10-15T22:10:14.857Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "blee:832c4e82-f2cc-4fd5-ab89-08164bbcdd2c",
-    "samsara:8287656"
+    "etched:e88d1367-9166-4a00-b450-f194163c7225",
+    "etched:778a762d-4a30-4a8b-aad9-ee18855ce75c",
+    "etched:6d948f9a-a359-4107-9d30-4d62e8fe7707",
+    "etched:252ef868-9c97-4d7d-91fe-66bc4f686765",
+    "etched:85731463-f580-48dc-870b-5ba305a22fe4"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 21,
-    "experienced": 2344
+    "experienced": 2349
   },
   "companies": [
     {
@@ -937,7 +940,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1629,7 +1632,7 @@
     {
       "name": "Etched",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1756,7 +1759,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1878,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2064,7 +2067,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4694,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 108,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5706,86 @@
   ],
   "jobs": [
     {
+      "id": "85731463-f580-48dc-870b-5ba305a22fe4",
+      "title": "Internal Acceleration, Research Engineer (Production)",
+      "location": "San Jose",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/etched/85731463-f580-48dc-870b-5ba305a22fe4",
+      "postedAt": "2026-10-15T22:07:00.658Z",
+      "key": "etched:85731463-f580-48dc-870b-5ba305a22fe4",
+      "company": "Etched",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T22:10:14.857Z"
+    },
+    {
+      "id": "252ef868-9c97-4d7d-91fe-66bc4f686765",
+      "title": "Internal Acceleration, Research Engineer (Hardware)",
+      "location": "San Jose",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/etched/252ef868-9c97-4d7d-91fe-66bc4f686765",
+      "postedAt": "2026-10-15T22:06:43.300Z",
+      "key": "etched:252ef868-9c97-4d7d-91fe-66bc4f686765",
+      "company": "Etched",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T22:10:14.857Z"
+    },
+    {
+      "id": "6d948f9a-a359-4107-9d30-4d62e8fe7707",
+      "title": "Internal Acceleration, Research Engineer (ASIC)",
+      "location": "San Jose",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/etched/6d948f9a-a359-4107-9d30-4d62e8fe7707",
+      "postedAt": "2026-10-15T22:06:34.342Z",
+      "key": "etched:6d948f9a-a359-4107-9d30-4d62e8fe7707",
+      "company": "Etched",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T22:10:14.857Z"
+    },
+    {
+      "id": "778a762d-4a30-4a8b-aad9-ee18855ce75c",
+      "title": "Internal Acceleration, Engineer (Production)",
+      "location": "San Jose",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/etched/778a762d-4a30-4a8b-aad9-ee18855ce75c",
+      "postedAt": "2026-10-15T22:05:22.912Z",
+      "key": "etched:778a762d-4a30-4a8b-aad9-ee18855ce75c",
+      "company": "Etched",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T22:10:14.857Z"
+    },
+    {
+      "id": "e88d1367-9166-4a00-b450-f194163c7225",
+      "title": "Internal Acceleration, Engineer (ASIC)",
+      "location": "San Jose",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/etched/e88d1367-9166-4a00-b450-f194163c7225",
+      "postedAt": "2026-10-15T22:04:43.451Z",
+      "key": "etched:e88d1367-9166-4a00-b450-f194163c7225",
+      "company": "Etched",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T22:10:14.857Z"
+    },
+    {
       "id": "832c4e82-f2cc-4fd5-ab89-08164bbcdd2c",
       "title": "Applied Scientist",
       "location": "San Francisco",
@@ -5944,7 +6027,7 @@
     },
     {
       "id": "885d8a6d-b1ce-4feb-89f5-f6ac9bef8ca7",
-      "title": "Internal Acceleration, Research Engineer",
+      "title": "Internal Acceleration, Research Engineer (Kernels)",
       "location": "San Jose",
       "team": "Software",
       "url": "https://jobs.ashbyhq.com/etched/885d8a6d-b1ce-4feb-89f5-f6ac9bef8ca7",
@@ -5960,7 +6043,7 @@
     },
     {
       "id": "a38b6166-c130-44ed-ada2-10e8c23525a7",
-      "title": "Internal Acceleration, Engineer",
+      "title": "Internal Acceleration, Engineer (Kernels)",
       "location": "San Jose",
       "team": "Software",
       "url": "https://jobs.ashbyhq.com/etched/a38b6166-c130-44ed-ada2-10e8c23525a7",
