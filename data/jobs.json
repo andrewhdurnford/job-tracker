@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-15T16:40:16.632Z",
+  "generatedAt": "2026-10-15T16:50:17.040Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "okta:8281409"
+    "phantom:b853c28e-15a7-4dac-be01-b0fbc00cd006",
+    "stripe:8257935"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 22,
-    "experienced": 2342
+    "experienced": 2343
   },
   "companies": [
     {
@@ -865,7 +866,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3686,7 +3687,7 @@
     {
       "name": "Phantom",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4799,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8257935",
+      "title": "Staff Software Engineer, Alloy Integrations",
+      "location": "Seattle",
+      "team": "9014 Metronome - R&D",
+      "url": "https://stripe.com/jobs/search?gh_jid=8257935",
+      "postedAt": "2026-10-15T16:48:50.000Z",
+      "key": "stripe:8257935",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T16:50:17.040Z"
+    },
+    {
+      "id": "b853c28e-15a7-4dac-be01-b0fbc00cd006",
+      "title": "Staff Software Engineer (SRE)",
+      "location": "Remote",
+      "team": "Data Platform",
+      "url": "https://jobs.ashbyhq.com/phantom/b853c28e-15a7-4dac-be01-b0fbc00cd006",
+      "postedAt": "2026-10-15T16:48:04.085Z",
+      "key": "phantom:b853c28e-15a7-4dac-be01-b0fbc00cd006",
+      "company": "Phantom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-15T16:50:17.040Z"
+    },
     {
       "id": "8281409",
       "title": "Senior Software Engineer, Observability (Auth0)",
@@ -7194,7 +7227,7 @@
     },
     {
       "id": "60c0b7e6-5702-4e16-ad34-cbd2773f752d",
-      "title": "SIP Engineer",
+      "title": "Staff SIP Engineer",
       "location": "Weave - Headquarters (Lehi, UT)",
       "team": "Technology",
       "url": "https://jobs.ashbyhq.com/weave/60c0b7e6-5702-4e16-ad34-cbd2773f752d",
@@ -45959,23 +45992,6 @@
         "us"
       ],
       "firstSeen": "2026-09-04T18:30:24.844Z"
-    },
-    {
-      "id": "70f859f8-ea99-42bb-a2ac-ac0d230a2929",
-      "title": "AI Inference Core - Infrastructure SW Engineer",
-      "location": "Sunnyvale, CA (+1 more)",
-      "team": "Inference Core",
-      "url": "https://jobs.ashbyhq.com/cerebras/70f859f8-ea99-42bb-a2ac-ac0d230a2929",
-      "postedAt": "2026-09-03T19:04:59.935Z",
-      "key": "cerebras:70f859f8-ea99-42bb-a2ac-ac0d230a2929",
-      "company": "Cerebras Systems",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-03T19:10:21.643Z"
     },
     {
       "id": "84a9df6b-fe96-4711-8106-971d829b6dc2",
