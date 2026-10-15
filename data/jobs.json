@@ -1,18 +1,16 @@
 {
-  "generatedAt": "2026-10-15T18:20:15.733Z",
+  "generatedAt": "2026-10-15T18:30:24.100Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "luminai:ba606839-0f3b-47db-bd36-12406aec5a37"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
-    "new-grad": 22,
-    "experienced": 2348
+    "intern": 148,
+    "new-grad": 23,
+    "experienced": 2344
   },
   "companies": [
     {
@@ -788,7 +786,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 265,
+      "jobCount": 263,
       "error": null,
       "stale": false
     },
@@ -936,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1047,7 +1045,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2138,10 +2136,10 @@
     },
     {
       "name": "Handoff",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Handshake",
@@ -4211,7 +4209,7 @@
     {
       "name": "Rilla",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5703,14 +5701,14 @@
   "jobs": [
     {
       "id": "ba606839-0f3b-47db-bd36-12406aec5a37",
-      "title": "Forward Deployed Engineer ",
+      "title": "Forward Deployed Engineer - New Grad ",
       "location": "SF Bay Area (+1 more)",
       "team": "Deployments",
       "url": "https://jobs.ashbyhq.com/luminai/ba606839-0f3b-47db-bd36-12406aec5a37",
       "postedAt": "2026-10-15T18:18:44.964Z",
       "key": "luminai:ba606839-0f3b-47db-bd36-12406aec5a37",
       "company": "Luminai",
-      "level": "experienced",
+      "level": "new-grad",
       "term": null,
       "regions": [
         "us"
@@ -32604,22 +32602,6 @@
       "firstSeen": "2026-09-24T20:20:16.281Z"
     },
     {
-      "id": "R1001701",
-      "title": "Full-stack Engineer 4",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001701-1",
-      "postedAt": "2026-09-24T20:10:35.910Z",
-      "key": "Capital One:R1001701",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T20:10:19.808Z"
-    },
-    {
       "id": "R1002012",
       "title": "Full-stack Engineer 4 (TypeScript, Python, AWS)",
       "location": "McLean, VA",
@@ -33585,22 +33567,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001715",
       "postedAt": "2026-09-24T16:40:27.601Z",
       "key": "Capital One:R1001715",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-24T16:40:24.827Z"
-    },
-    {
-      "id": "R1001721",
-      "title": "Full-stack Engineer 4",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1001721",
-      "postedAt": "2026-09-24T16:40:27.601Z",
-      "key": "Capital One:R1001721",
       "company": "Capital One",
       "level": "experienced",
       "term": null,
@@ -45588,42 +45554,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-15T18:40:19.149Z"
-    },
-    {
-      "id": "0e111ca4-3837-43d2-8507-6030a0dc32d9",
-      "title": "Software Engineering Intern, 2028 Grads ",
-      "location": "New York City",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9",
-      "postedAt": "2026-09-15T18:27:02.877Z",
-      "key": "rilla:0e111ca4-3837-43d2-8507-6030a0dc32d9",
-      "company": "Rilla",
-      "level": "intern",
-      "term": {
-        "label": "2028",
-        "seasons": [],
-        "year": 2028
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T18:30:24.724Z"
-    },
-    {
-      "id": "7133d205-5421-4336-a8e2-6037b5f55073",
-      "title": "Senior Full-Stack Engineer, Internal Applications ",
-      "location": "Toronto (+1 more)",
-      "team": "Internal Applications",
-      "url": "https://jobs.ashbyhq.com/cohere/7133d205-5421-4336-a8e2-6037b5f55073",
-      "postedAt": "2026-09-15T18:21:37.401Z",
-      "key": "cohere:7133d205-5421-4336-a8e2-6037b5f55073",
-      "company": "Cohere",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-15T18:30:24.724Z"
     },
     {
       "id": "JR2025518",
