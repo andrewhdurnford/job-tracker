@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-15T14:30:21.646Z",
+  "generatedAt": "2026-10-15T14:40:18.007Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "temporal:109d72d0-e739-406c-87ae-b0f1f5ae7ade",
-    "temporal:4ee99986-77ad-4113-8058-891d5cc7284a"
+    "wrapbook:52715b76-a189-4554-b77f-cf8485e1229c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 22,
-    "experienced": 2349
+    "experienced": 2348
   },
   "companies": [
     {
@@ -677,7 +676,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -789,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 264,
+      "jobCount": 263,
       "error": null,
       "stale": false
     },
@@ -1756,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2064,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5570,7 +5569,7 @@
     {
       "name": "Wrapbook",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "52715b76-a189-4554-b77f-cf8485e1229c",
+      "title": "Senior Software Engineer II, Applied AI",
+      "location": "Remote - US & Canada",
+      "team": "Executive",
+      "url": "https://jobs.ashbyhq.com/wrapbook/52715b76-a189-4554-b77f-cf8485e1229c",
+      "postedAt": "2026-10-15T14:29:03.765Z",
+      "key": "wrapbook:52715b76-a189-4554-b77f-cf8485e1229c",
+      "company": "Wrapbook",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T14:40:18.007Z"
+    },
     {
       "id": "109d72d0-e739-406c-87ae-b0f1f5ae7ade",
       "title": "Senior Software Engineer, Observability",
@@ -7842,7 +7857,7 @@
     {
       "id": "7e0e08ed-4b12-4aaa-8dda-ad6292992061",
       "title": "Senior Full-Stack Engineer, Cohere Dashboard",
-      "location": "Toronto (+3 more)",
+      "location": "Toronto (+2 more)",
       "team": "Cohere Dashboard",
       "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
       "postedAt": "2026-10-13T23:49:23.157Z",
@@ -7851,7 +7866,6 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us",
         "canada"
       ],
       "firstSeen": "2026-10-13T23:50:15.373Z"
@@ -9078,22 +9092,6 @@
       "postedAt": "2026-10-13T16:40:52.753Z",
       "key": "palantir:29630180-0f10-4826-801f-12e226d3c7f1",
       "company": "Palantir",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T16:50:16.999Z"
-    },
-    {
-      "id": "8278964",
-      "title": "Senior Engineering Manager, Cloud Cost Optimization",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8278964",
-      "postedAt": "2026-10-13T16:40:26.000Z",
-      "key": "boxinc:8278964",
-      "company": "Box",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -27362,22 +27360,6 @@
       "firstSeen": "2026-09-29T17:30:21.165Z"
     },
     {
-      "id": "R1001664",
-      "title": "Full-stack Engineer 4",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001664-1",
-      "postedAt": "2026-09-29T17:20:21.922Z",
-      "key": "Capital One:R1001664",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T17:20:18.689Z"
-    },
-    {
       "id": "8854691002",
       "title": "Security Engineer (OT)",
       "location": "Cape Canaveral, FL",
@@ -37010,7 +36992,7 @@
     },
     {
       "id": "c1d2401c-1dd2-4fcd-b01d-858d82e814b8",
-      "title": "Senior Engineer, Sustaining (R6024)",
+      "title": "Senior Liaison Engineer, Sustaining (R6024)",
       "location": "Dallas, Texas",
       "team": "V-BAT Engineering - Mechanical",
       "url": "https://jobs.lever.co/shieldai/c1d2401c-1dd2-4fcd-b01d-858d82e814b8",
