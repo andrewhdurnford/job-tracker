@@ -1,19 +1,18 @@
 {
-  "generatedAt": "2026-10-15T18:40:16.881Z",
+  "generatedAt": "2026-10-15T18:50:14.790Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1001721",
-    "Procore:R0018643"
+    "spacex:8893016002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 148,
+    "intern": 147,
     "new-grad": 23,
-    "experienced": 2345
+    "experienced": 2344
   },
   "companies": [
     {
@@ -937,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1244,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -2371,7 +2370,7 @@
     {
       "name": "Inferact",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4688,14 +4687,14 @@
     {
       "name": "Sourcegraph",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 106,
+      "jobCount": 107,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8893016002",
+      "title": "Full Stack Software Engineer, Launch Software ",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8893016002?gh_jid=8893016002",
+      "postedAt": "2026-10-15T18:43:14.000Z",
+      "key": "spacex:8893016002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T18:50:14.790Z"
+    },
     {
       "id": "R0018643",
       "title": "3D Computer Vision Engineer - DroneDeploy (Senior)",
@@ -11367,7 +11382,7 @@
     {
       "id": "8274765",
       "title": "Senior Software Engineer (SRE), Infrastructure Security",
-      "location": "Austin; New York City",
+      "location": "Austin; New York City; United States",
       "team": null,
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8274765",
       "postedAt": "2026-10-12T18:32:12.000Z",
@@ -11383,7 +11398,7 @@
     {
       "id": "7668289",
       "title": "Senior Site Reliability Engineer, Infrastructure Security",
-      "location": "Austin; New York City",
+      "location": "Austin; New York City; United States",
       "team": null,
       "url": "https://www.mongodb.com/careers/job/?gh_jid=7668289",
       "postedAt": "2026-10-12T18:32:09.000Z",
@@ -19378,22 +19393,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-05T22:10:16.119Z"
-    },
-    {
-      "id": "R29418",
-      "title": "Backend Engineer III, LogScale Search, Engine (Hybrid)",
-      "location": "USA - Austin, TX",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Sr-Software-Engineer--LogScale-Search--Hybrid-_R29418",
-      "postedAt": "2026-10-05T21:50:21.195Z",
-      "key": "CrowdStrike:R29418",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T21:50:16.722Z"
     },
     {
       "id": "5440477008",
@@ -43102,22 +43101,6 @@
       "firstSeen": "2026-09-17T14:20:23.266Z"
     },
     {
-      "id": "6194803004",
-      "title": "Tech Lead - Code Plane [IC5]",
-      "location": "Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/sourcegraph91/jobs/6194803004",
-      "postedAt": "2026-09-17T14:12:13.000Z",
-      "key": "sourcegraph91:6194803004",
-      "company": "Sourcegraph",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-17T14:20:23.266Z"
-    },
-    {
       "id": "8112913",
       "title": "Senior Software Engineer, Datastores (Auth0)",
       "location": "Toronto, Ontario, Canada",
@@ -45845,22 +45828,6 @@
         "us"
       ],
       "firstSeen": "2026-09-10T23:50:17.289Z"
-    },
-    {
-      "id": "2b6032f9-12a5-4083-b5e6-4bec5376cbaa",
-      "title": "Inference Engineering, Co-op",
-      "location": "San Francisco",
-      "team": "Research & Engineering",
-      "url": "https://jobs.ashbyhq.com/inferact/2b6032f9-12a5-4083-b5e6-4bec5376cbaa",
-      "postedAt": "2026-09-10T17:27:44.971Z",
-      "key": "inferact:2b6032f9-12a5-4083-b5e6-4bec5376cbaa",
-      "company": "Inferact",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-10T17:30:22.716Z"
     },
     {
       "id": "4712230006",
