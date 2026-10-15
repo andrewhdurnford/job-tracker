@@ -1,25 +1,29 @@
 {
-  "generatedAt": "2026-10-15T19:50:15.825Z",
+  "generatedAt": "2026-10-15T20:00:23.904Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "justworks:8179931",
-    "justworks:8179947"
+    "1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
+    "1password:a492badd-a02f-4360-aa15-7ea8c6e2c85e",
+    "duolingo:8888721002",
+    "duolingo:8888848002",
+    "justworks:8179702",
+    "Nvidia:JR2024492"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 147,
+    "intern": 149,
     "new-grad": 23,
-    "experienced": 2347
+    "experienced": 2348
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1412,7 +1416,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -1489,7 +1493,7 @@
     {
       "name": "Duolingo",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1677,10 +1681,10 @@
     },
     {
       "name": "FamPay",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Farel",
@@ -1875,7 +1879,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2064,7 +2068,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2532,7 +2536,7 @@
     {
       "name": "Justworks",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3432,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 142,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -3938,10 +3942,10 @@
     },
     {
       "name": "Propel",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Prospa",
@@ -4569,7 +4573,7 @@
     {
       "name": "Skyways",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4698,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 108,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4856,7 +4860,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5706,104 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2024492",
+      "title": "Senior Systems Software Engineer - Infrastructure",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Infrastructure_JR2024492",
+      "postedAt": "2026-10-15T20:00:27.913Z",
+      "key": "Nvidia:JR2024492",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T20:00:23.904Z"
+    },
+    {
+      "id": "8888721002",
+      "title": "Data Scientist, Intern",
+      "location": "New York, NY; Pittsburgh, PA",
+      "team": null,
+      "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+      "postedAt": "2026-10-15T20:00:01.000Z",
+      "key": "duolingo:8888721002",
+      "company": "Duolingo",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T20:00:23.904Z"
+    },
+    {
+      "id": "8888848002",
+      "title": "Data Scientist, Intern (PhD)",
+      "location": "New York, NY; Pittsburgh, PA",
+      "team": null,
+      "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+      "postedAt": "2026-10-15T20:00:01.000Z",
+      "key": "duolingo:8888848002",
+      "company": "Duolingo",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T20:00:23.904Z"
+    },
+    {
+      "id": "a492badd-a02f-4360-aa15-7ea8c6e2c85e",
+      "title": "Junior Developer",
+      "location": "Remote (United States | Canada)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e",
+      "postedAt": "2026-10-15T19:57:41.748Z",
+      "key": "1password:a492badd-a02f-4360-aa15-7ea8c6e2c85e",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-15T20:00:23.904Z"
+    },
+    {
+      "id": "8179702",
+      "title": "Associate Software Engineer - International",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://boards.greenhouse.io/justworks/jobs/8179702?gh_jid=8179702",
+      "postedAt": "2026-10-15T19:56:58.000Z",
+      "key": "justworks:8179702",
+      "company": "Justworks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-15T20:00:23.904Z"
+    },
+    {
+      "id": "49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
+      "title": "Junior Security Engineer",
+      "location": "Remote (United States | Canada)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/1password/49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
+      "postedAt": "2026-10-15T19:50:56.180Z",
+      "key": "1password:49f0fe51-fcdc-46d8-a046-35f357b0cf6e",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-15T20:00:23.904Z"
+    },
     {
       "id": "8179931",
       "title": "Senior Software Engineer, Backend - International",
@@ -45503,54 +45605,6 @@
       "postedAt": "2026-09-15T20:00:30.368Z",
       "key": "Visa:REF088409W",
       "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T20:00:25.096Z"
-    },
-    {
-      "id": "6134d23f-4568-4e32-b064-f0f9348f1f43",
-      "title": "Senior Systems Engineer",
-      "location": "Austin, TX",
-      "team": "Skyways",
-      "url": "https://jobs.lever.co/skyways/6134d23f-4568-4e32-b064-f0f9348f1f43",
-      "postedAt": "2026-09-15T19:59:53.518Z",
-      "key": "skyways:6134d23f-4568-4e32-b064-f0f9348f1f43",
-      "company": "Skyways",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T20:00:25.096Z"
-    },
-    {
-      "id": "9809d788-32ca-4502-9c8f-af0fd24c169e",
-      "title": "Engineering Manager - Social",
-      "location": "NYC",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/suno/9809d788-32ca-4502-9c8f-af0fd24c169e",
-      "postedAt": "2026-09-15T19:59:40.465Z",
-      "key": "suno:9809d788-32ca-4502-9c8f-af0fd24c169e",
-      "company": "Suno",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T20:10:17.871Z"
-    },
-    {
-      "id": "8811574002",
-      "title": "Senior Full-Stack Software Engineer, Developer Success",
-      "location": "San Francisco Bay Area",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/discord/jobs/8811574002",
-      "postedAt": "2026-09-15T19:57:32.000Z",
-      "key": "discord:8811574002",
-      "company": "Discord",
       "level": "experienced",
       "term": null,
       "regions": [
