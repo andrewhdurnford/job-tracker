@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-15T04:30:22.334Z",
+  "generatedAt": "2026-10-15T04:40:17.775Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "tryjeeves:979022dd-3330-404b-ad21-48cede3cd780"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 22,
-    "experienced": 2365
+    "experienced": 2366
   },
   "companies": [
     {
@@ -2480,7 +2482,7 @@
     {
       "name": "Jeeves",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 106,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "979022dd-3330-404b-ad21-48cede3cd780",
+      "title": "Senior AI Engineer",
+      "location": "Canada",
+      "team": "Engineering - US & Canada",
+      "url": "https://jobs.lever.co/tryjeeves/979022dd-3330-404b-ad21-48cede3cd780",
+      "postedAt": "2026-10-15T04:34:00.701Z",
+      "key": "tryjeeves:979022dd-3330-404b-ad21-48cede3cd780",
+      "company": "Jeeves",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-15T04:40:17.775Z"
+    },
     {
       "id": "5261571007",
       "title": "Software Development Engineer - Java + Distributed Systems",
