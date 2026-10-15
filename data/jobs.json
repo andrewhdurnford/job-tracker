@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-10-15T21:50:15.050Z",
+  "generatedAt": "2026-10-15T22:00:25.020Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "boxinc:8236515",
-    "gusto:8039525",
-    "Nvidia:JR2019994",
-    "Nvidia:JR2027687",
-    "ServiceTitan:JR113479"
+    "blee:832c4e82-f2cc-4fd5-ab89-08164bbcdd2c",
+    "samsara:8287656"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +13,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 21,
-    "experienced": 2343
+    "experienced": 2344
   },
   "companies": [
     {
@@ -603,7 +600,7 @@
     {
       "name": "Blee",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4341,7 +4338,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -4642,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 108,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5706,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "832c4e82-f2cc-4fd5-ab89-08164bbcdd2c",
+      "title": "Applied Scientist",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/blee/832c4e82-f2cc-4fd5-ab89-08164bbcdd2c",
+      "postedAt": "2026-10-15T21:55:12.856Z",
+      "key": "blee:832c4e82-f2cc-4fd5-ab89-08164bbcdd2c",
+      "company": "Blee",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T22:00:25.020Z"
+    },
+    {
+      "id": "8287656",
+      "title": "Staff or Senior Firmware Engineer",
+      "location": "Remote - SF Bay Area",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8287656?gh_jid=8287656",
+      "postedAt": "2026-10-15T21:54:53.000Z",
+      "key": "samsara:8287656",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T22:00:25.020Z"
+    },
+    {
       "id": "JR2019994",
       "title": "Senior AI Application Developer - GPU and SOC Architecture Modeling",
       "location": "US, CA, Santa Clara",
@@ -5755,7 +5784,7 @@
     },
     {
       "id": "8236515",
-      "title": "Senior Software Engineer, Finops",
+      "title": "Senior Software Engineer, FinOps",
       "location": "Redwood City, CA, United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/boxinc/jobs/8236515",
@@ -12569,22 +12598,6 @@
         "us"
       ],
       "firstSeen": "2026-10-11T15:40:18.213Z"
-    },
-    {
-      "id": "f38ad1b0-00a6-490d-afcf-80a78c8b8aed",
-      "title": "Staff Software Engineer – Engineering Systems, Continuous Integration Team",
-      "location": "US-WA-Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/f38ad1b0-00a6-490d-afcf-80a78c8b8aed",
-      "postedAt": "2026-10-11T00:42:47.064Z",
-      "key": "snowflake:f38ad1b0-00a6-490d-afcf-80a78c8b8aed",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-11T00:50:14.656Z"
     },
     {
       "id": "bb42f37c-8a7c-434d-aae8-089820a7171d",
