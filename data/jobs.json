@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-15T16:00:25.453Z",
+  "generatedAt": "2026-10-15T16:10:17.260Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "asana:8282814"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 22,
-    "experienced": 2345
+    "experienced": 2343
   },
   "companies": [
     {
@@ -79,7 +81,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -387,7 +389,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1780,7 +1782,7 @@
     {
       "name": "Fireworks AI",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 106,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8282814",
+      "title": "Senior Analytics Engineer",
+      "location": "Vancouver, BC",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/8282814?gh_jid=8282814",
+      "postedAt": "2026-10-15T16:02:17.000Z",
+      "key": "asana:8282814",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-15T16:10:17.260Z"
+    },
     {
       "id": "REF089009W",
       "title": "Software Engineer",
@@ -16069,7 +16087,7 @@
     {
       "id": "8cd9a944-4988-4147-b373-8bb730730804",
       "title": "Staff Mining Engineer ",
-      "location": "Moab, UT",
+      "location": "Moab, UT (+1 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/marianaminerals/8cd9a944-4988-4147-b373-8bb730730804",
       "postedAt": "2026-10-07T18:54:39.554Z",
@@ -27926,7 +27944,7 @@
     {
       "id": "7a54d186-57cc-4a2b-a33f-62af27e35eff",
       "title": "Staff Mobile Equipment and Fleet Engineer",
-      "location": "Houston, TX",
+      "location": "Houston, TX (+1 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/marianaminerals/7a54d186-57cc-4a2b-a33f-62af27e35eff",
       "postedAt": "2026-09-29T11:08:23.849Z",
@@ -45525,54 +45543,6 @@
         "us"
       ],
       "firstSeen": "2026-09-15T16:20:16.762Z"
-    },
-    {
-      "id": "a83a980e-9e31-489b-964c-abd6cd11dff2",
-      "title": "IT DevOps Engineer",
-      "location": "San Mateo",
-      "team": "IT",
-      "url": "https://jobs.ashbyhq.com/fireworks/a83a980e-9e31-489b-964c-abd6cd11dff2",
-      "postedAt": "2026-09-15T16:08:57.784Z",
-      "key": "fireworks:a83a980e-9e31-489b-964c-abd6cd11dff2",
-      "company": "Fireworks AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T16:20:16.762Z"
-    },
-    {
-      "id": "7994555003",
-      "title": "Staff Security Engineer, Enterprise AI",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7994555003",
-      "postedAt": "2026-09-15T16:04:17.000Z",
-      "key": "affirm:7994555003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-15T16:09:41.285Z"
-    },
-    {
-      "id": "7994553003",
-      "title": "Staff Security Engineer, Enterprise AI",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7994553003",
-      "postedAt": "2026-09-15T16:04:15.000Z",
-      "key": "affirm:7994553003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T16:09:41.285Z"
     },
     {
       "id": "JR2025294",
