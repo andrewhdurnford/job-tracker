@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-15T17:40:17.062Z",
+  "generatedAt": "2026-10-15T17:50:15.711Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "commure:5265c990-ef1e-45d2-9348-0510caf10402",
+    "CrowdStrike:R29056"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 22,
-    "experienced": 2340
+    "experienced": 2342
   },
   "companies": [
     {
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1087,7 +1090,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1241,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29056",
+      "title": "Sr. Platform Engineer - Kubernetes (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Infrastructure-Engineer---Kubernetes--Remote-_R29056",
+      "postedAt": "2026-10-15T17:50:21.175Z",
+      "key": "CrowdStrike:R29056",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T17:50:15.711Z"
+    },
+    {
+      "id": "5265c990-ef1e-45d2-9348-0510caf10402",
+      "title": "Senior Software Engineer, Network Infrastructure",
+      "location": "Mountain View, CA (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/commure/5265c990-ef1e-45d2-9348-0510caf10402",
+      "postedAt": "2026-10-15T17:41:31.526Z",
+      "key": "commure:5265c990-ef1e-45d2-9348-0510caf10402",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T17:50:15.711Z"
+    },
     {
       "id": "JR2022838",
       "title": "Senior Offensive Security Engineer, Automotive",
