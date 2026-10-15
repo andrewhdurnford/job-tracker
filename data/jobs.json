@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-15T13:00:25.315Z",
+  "generatedAt": "2026-10-15T13:10:15.760Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "tripactions:8281792",
+    "tripactions:8281791"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 22,
-    "experienced": 2348
+    "experienced": 2349
   },
   "companies": [
     {
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1297,7 +1300,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3250,7 +3253,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8281791",
+      "title": "Sr. iOS Engineer",
+      "location": "Bengaluru, IN",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8281791",
+      "postedAt": "2026-10-15T13:01:12.000Z",
+      "key": "tripactions:8281791",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T13:10:15.760Z"
+    },
+    {
+      "id": "8281792",
+      "title": "Sr. Android Engineer",
+      "location": "Bengaluru, IN",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8281792",
+      "postedAt": "2026-10-15T13:00:54.000Z",
+      "key": "tripactions:8281792",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T13:10:15.760Z"
+    },
     {
       "id": "R30370",
       "title": "Technical Support Engineer - Cloud (Remote, GBR)",
@@ -45733,22 +45768,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T13:20:17.405Z"
-    },
-    {
-      "id": "8202699",
-      "title": "Staff Software Engineer - Frontend",
-      "location": "New York, New York, USA",
-      "team": null,
-      "url": "https://careers.datadoghq.com/detail/8202699/?gh_jid=8202699",
-      "postedAt": "2026-09-15T13:09:58.000Z",
-      "key": "datadog:8202699",
-      "company": "Datadog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T13:10:18.318Z"
     },
     {
       "id": "R30035",
