@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-15T19:00:25.162Z",
+  "generatedAt": "2026-10-15T19:10:15.927Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "CrowdStrike:R29418",
-    "justworks:8180003",
-    "justworks:8179998",
-    "Nvidia:JR2020788"
+    "datadog:8286919",
+    "shieldai:1a2bdba5-093e-408c-b662-de8e03831fda",
+    "spacex:8893008002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1302,7 +1301,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2066,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2920,7 +2919,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4242,7 +4241,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 59,
+      "jobCount": 58,
       "error": null,
       "stale": false
     },
@@ -4599,7 +4598,7 @@
     {
       "name": "Smartsheet",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 107,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 108,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8893008002",
+      "title": "Global Supply Manager, Software",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8893008002?gh_jid=8893008002",
+      "postedAt": "2026-10-15T19:03:59.000Z",
+      "key": "spacex:8893008002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T19:10:15.927Z"
+    },
+    {
+      "id": "8286919",
+      "title": "Senior Security Engineer, Security Incident Response Team",
+      "location": "New York, New York, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8286919/?gh_jid=8286919",
+      "postedAt": "2026-10-15T19:02:57.000Z",
+      "key": "datadog:8286919",
+      "company": "Datadog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T19:10:15.927Z"
+    },
+    {
+      "id": "1a2bdba5-093e-408c-b662-de8e03831fda",
+      "title": "Staff Infrastructure Engineer (R6109)",
+      "location": "San Mateo, California",
+      "team": "Cloud & Infrastructure",
+      "url": "https://jobs.lever.co/shieldai/1a2bdba5-093e-408c-b662-de8e03831fda",
+      "postedAt": "2026-10-15T19:01:33.207Z",
+      "key": "shieldai:1a2bdba5-093e-408c-b662-de8e03831fda",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T19:10:15.927Z"
+    },
     {
       "id": "JR2020788",
       "title": "Principal Architect, SoC and Systems Modelling",
@@ -44336,7 +44383,7 @@
     {
       "id": "8814842002",
       "title": "Staff Software Engineer ",
-      "location": "Canada (Remote), United States (Remote), United Kingdom (Remote)",
+      "location": "Canada (Remote), United States (Remote), United Kingdom (Remote) Mexico City, Mexico - Hybrid",
       "team": null,
       "url": "http://www.circleci.com/careers/jobs/8814842002/?gh_jid=8814842002",
       "postedAt": "2026-09-16T16:53:00.000Z",
@@ -45495,54 +45542,6 @@
         "us"
       ],
       "firstSeen": "2026-09-15T19:20:21.231Z"
-    },
-    {
-      "id": "8204940",
-      "title": "Sr. Software Engineer II - Billing & Subscriptions Engineering (Remote Eligible)",
-      "location": " -REMOTE, USA-",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8204940",
-      "postedAt": "2026-09-15T19:06:13.000Z",
-      "key": "smartsheet:8204940",
-      "company": "Smartsheet",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T19:10:23.469Z"
-    },
-    {
-      "id": "8198167",
-      "title": "Senior Security Software Engineer, Sandbox Platforms",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8198167?gh_jid=8198167",
-      "postedAt": "2026-09-15T19:02:52.000Z",
-      "key": "roblox:8198167",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T19:10:23.469Z"
-    },
-    {
-      "id": "ac228821-b2f8-4155-a119-b05e16ebaefe",
-      "title": "Senior Generative AI Application Engineer, Learning & Development (R5856)",
-      "location": "San Diego, California (+2 more)",
-      "team": "Applications Engineering",
-      "url": "https://jobs.lever.co/shieldai/ac228821-b2f8-4155-a119-b05e16ebaefe",
-      "postedAt": "2026-09-15T19:00:46.282Z",
-      "key": "shieldai:ac228821-b2f8-4155-a119-b05e16ebaefe",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T19:10:23.469Z"
     },
     {
       "id": "R243915",
