@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-15T20:10:15.931Z",
+  "generatedAt": "2026-10-15T20:20:15.038Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "twilio:8247182"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 23,
-    "experienced": 2346
+    "experienced": 2341
   },
   "companies": [
     {
@@ -863,7 +865,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4335,7 +4337,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 108,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4720,7 +4722,7 @@
     {
       "name": "Spotify",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5224,7 +5226,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -9300,6 +9302,22 @@
         "canada"
       ],
       "firstSeen": "2026-10-13T19:30:23.052Z"
+    },
+    {
+      "id": "8247182",
+      "title": "Software Engineer (L2) Messaging Channels Team ",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
+      "postedAt": "2026-10-13T19:12:15.000Z",
+      "key": "twilio:8247182",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T20:20:15.038Z"
     },
     {
       "id": "8265736",
@@ -39736,22 +39754,6 @@
       "firstSeen": "2026-09-21T18:10:20.913Z"
     },
     {
-      "id": "9e3bdb48-67eb-49d9-ae0b-a337ba69a05f",
-      "title": "Research Scientist - Personalization",
-      "location": "New York, NY",
-      "team": "Personalization",
-      "url": "https://jobs.lever.co/spotify/9e3bdb48-67eb-49d9-ae0b-a337ba69a05f",
-      "postedAt": "2026-09-21T17:37:41.331Z",
-      "key": "spotify:9e3bdb48-67eb-49d9-ae0b-a337ba69a05f",
-      "company": "Spotify",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T19:20:24.080Z"
-    },
-    {
       "id": "6202740004",
       "title": "Staff Software Engineer",
       "location": "United States",
@@ -45473,87 +45475,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-09-15T20:20:18.501Z"
-    },
-    {
-      "id": "2e8dc5fb-ffe2-44d7-ad37-6fb2f1a88351",
-      "title": "Senior Fullstack Engineer - Inference Console",
-      "location": "Sunnyvale, CA (+1 more)",
-      "team": "Inference Service",
-      "url": "https://jobs.ashbyhq.com/cerebras/2e8dc5fb-ffe2-44d7-ad37-6fb2f1a88351",
-      "postedAt": "2026-09-15T20:14:44.262Z",
-      "key": "cerebras:2e8dc5fb-ffe2-44d7-ad37-6fb2f1a88351",
-      "company": "Cerebras Systems",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-06T22:00:21.343Z"
-    },
-    {
-      "id": "8205149",
-      "title": "Staff Application Security Engineer",
-      "location": "Remote - Dallas",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8205149?gh_jid=8205149",
-      "postedAt": "2026-09-15T20:13:55.000Z",
-      "key": "samsara:8205149",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T20:20:18.501Z"
-    },
-    {
-      "id": "8205146",
-      "title": "Staff Application Security Engineer",
-      "location": "Remote - NYC",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8205146?gh_jid=8205146",
-      "postedAt": "2026-09-15T20:13:08.000Z",
-      "key": "samsara:8205146",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T20:20:18.501Z"
-    },
-    {
-      "id": "8205139",
-      "title": "Staff Application Security Engineer",
-      "location": "Remote - DC",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8205139?gh_jid=8205139",
-      "postedAt": "2026-09-15T20:11:39.000Z",
-      "key": "samsara:8205139",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T20:20:18.501Z"
-    },
-    {
-      "id": "8205118",
-      "title": "Staff Application Security Engineer",
-      "location": "Remote - Seattle",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8205118?gh_jid=8205118",
-      "postedAt": "2026-09-15T20:10:50.000Z",
-      "key": "samsara:8205118",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-09-15T20:20:18.501Z"
     },
