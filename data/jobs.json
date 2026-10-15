@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-15T17:00:25.162Z",
+  "generatedAt": "2026-10-15T17:10:16.333Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "natera:6221019004"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1633,7 +1635,7 @@
     {
       "name": "Eve",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3243,7 +3245,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4474,10 +4476,10 @@
     },
     {
       "name": "Shiru",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Short Story",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6221019004",
+      "title": "Principal AI Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6221019004",
+      "postedAt": "2026-10-15T17:09:42.000Z",
+      "key": "natera:6221019004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-15T17:10:16.333Z"
+    },
     {
       "id": "8257935",
       "title": "Staff Software Engineer, Alloy Integrations",
@@ -45541,22 +45559,6 @@
         "us"
       ],
       "firstSeen": "2026-09-28T16:50:15.911Z"
-    },
-    {
-      "id": "4406964009",
-      "title": "Senior Data Engineer",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/eve/jobs/4406964009",
-      "postedAt": "2026-09-15T17:07:32.000Z",
-      "key": "eve:4406964009",
-      "company": "Eve",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T20:40:16.372Z"
     },
     {
       "id": "JR2025294",
