@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-16T17:00:23.860Z",
+  "generatedAt": "2026-10-16T17:10:18.596Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "coinbase:8285182"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 23,
-    "experienced": 2339
+    "experienced": 2337
   },
   "companies": [
     {
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 258,
+      "jobCount": 257,
       "error": null,
       "stale": false
     },
@@ -1052,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2053,7 +2055,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8285182",
+      "title": "Senior Frontend Engineer, Portfolio",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8285182?gh_jid=8285182",
+      "postedAt": "2026-10-16T17:04:18.000Z",
+      "key": "coinbase:8285182",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T17:10:18.596Z"
+    },
     {
       "id": "8894909002",
       "title": "Software Engineer, GovTech",
@@ -28709,22 +28727,6 @@
       "firstSeen": "2026-09-29T20:10:19.137Z"
     },
     {
-      "id": "R244497",
-      "title": "Staff Software Engineer - Capital One Travel Tech - Full-stack",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Software-Engineer---Capital-One-Travel-Tech---Backend_R244497-1",
-      "postedAt": "2026-09-29T20:00:28.655Z",
-      "key": "Capital One:R244497",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-29T20:00:25.388Z"
-    },
-    {
       "id": "ad10bda4-f02d-4682-9dc4-b374fa647c99",
       "title": "Senior Fullstack Software Engineer, Expansion",
       "location": "Remote U.S.",
@@ -45454,38 +45456,6 @@
         "us"
       ],
       "firstSeen": "2026-09-16T17:30:20.816Z"
-    },
-    {
-      "id": "6194971004",
-      "title": "Staff Frontend Engineer - Grafana DataViz | Canada | Remote",
-      "location": "Canada (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6194971004",
-      "postedAt": "2026-09-16T17:01:47.000Z",
-      "key": "grafanalabs:6194971004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-16T17:10:19.077Z"
-    },
-    {
-      "id": "6194871004",
-      "title": "Staff Frontend Engineer - Grafana DataViz | US | Remote",
-      "location": "United States (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6194871004",
-      "postedAt": "2026-09-16T17:01:44.000Z",
-      "key": "grafanalabs:6194871004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T17:10:19.077Z"
     },
     {
       "id": "REF088314W",
