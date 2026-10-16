@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-10-16T20:10:17.048Z",
+  "generatedAt": "2026-10-16T20:20:16.137Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "h1:1722cd81-8e62-4eac-b971-b698357ccb9e"
+    "Capital One:R247133",
+    "carta:8035086003",
+    "carta:8035084003",
+    "carta:8035089003",
+    "carta:8035091003",
+    "decagon:d6636cf6-7750-424a-90a3-7a79ac0c35ca",
+    "Nvidia:JR2028164"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +18,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 23,
-    "experienced": 2338
+    "experienced": 2344
   },
   "companies": [
     {
@@ -690,7 +696,7 @@
     {
       "name": "Braze",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -788,7 +794,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 257,
+      "jobCount": 258,
       "error": null,
       "stale": false
     },
@@ -837,7 +843,7 @@
     {
       "name": "Carta",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -936,7 +942,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1348,7 +1354,7 @@
     {
       "name": "Decagon",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3433,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 141,
+      "jobCount": 142,
       "error": null,
       "stale": false
     },
@@ -4679,10 +4685,10 @@
     },
     {
       "name": "Solva",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Sourcegraph",
@@ -5702,6 +5708,102 @@
   ],
   "jobs": [
     {
+      "id": "JR2028164",
+      "title": "Senior Robotics Software Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Robotics-Software-Engineer_JR2028164",
+      "postedAt": "2026-10-16T20:20:20.625Z",
+      "key": "Nvidia:JR2028164",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T20:20:16.137Z"
+    },
+    {
+      "id": "8035086003",
+      "title": "Senior Software Engineer II, Investors",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/carta/jobs/8035086003",
+      "postedAt": "2026-10-16T20:17:23.000Z",
+      "key": "carta:8035086003",
+      "company": "Carta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T20:20:16.137Z"
+    },
+    {
+      "id": "8035084003",
+      "title": "Senior Software Engineer II, Investors",
+      "location": "Toronto, Ontario, Canada; Waterloo, Ontario, Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/carta/jobs/8035084003",
+      "postedAt": "2026-10-16T20:17:21.000Z",
+      "key": "carta:8035084003",
+      "company": "Carta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-16T20:20:16.137Z"
+    },
+    {
+      "id": "8035091003",
+      "title": "Staff Software Engineer, Investors",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/carta/jobs/8035091003",
+      "postedAt": "2026-10-16T20:12:51.000Z",
+      "key": "carta:8035091003",
+      "company": "Carta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T20:20:16.137Z"
+    },
+    {
+      "id": "8035089003",
+      "title": "Staff Software Engineer, Investors",
+      "location": "Toronto, Ontario, Canada; Waterloo, Ontario, Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/carta/jobs/8035089003",
+      "postedAt": "2026-10-16T20:12:49.000Z",
+      "key": "carta:8035089003",
+      "company": "Carta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-16T20:20:16.137Z"
+    },
+    {
+      "id": "d6636cf6-7750-424a-90a3-7a79ac0c35ca",
+      "title": "Senior Software Engineer, Product",
+      "location": "San Francisco",
+      "team": "Enterprise Product",
+      "url": "https://jobs.ashbyhq.com/decagon/d6636cf6-7750-424a-90a3-7a79ac0c35ca",
+      "postedAt": "2026-10-16T20:10:31.265Z",
+      "key": "decagon:d6636cf6-7750-424a-90a3-7a79ac0c35ca",
+      "company": "Decagon",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T20:20:16.137Z"
+    },
+    {
       "id": "R1003879",
       "title": "Data Engineer 4, Real-time Data Platform",
       "location": "Plano, TX",
@@ -6414,7 +6516,7 @@
     {
       "id": "6226635004",
       "title": "Senior Software Engineer, Builder Studio",
-      "location": "Remote, Canada",
+      "location": "Remote, Canada; Remote, United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/apolloio/jobs/6226635004",
       "postedAt": "2026-10-16T15:00:21.000Z",
@@ -6423,6 +6525,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
+        "us",
         "canada"
       ],
       "firstSeen": "2026-10-16T15:10:15.941Z"
@@ -21565,6 +21668,22 @@
         "us"
       ],
       "firstSeen": "2026-10-05T20:28:01.910Z"
+    },
+    {
+      "id": "R247133",
+      "title": "Director, Product Management- Capital One Software (Remote)",
+      "location": "2 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Director--Product-Management--Capital-One-Software--Remote-_R247133-1",
+      "postedAt": "2026-10-05T20:20:28.784Z",
+      "key": "Capital One:R247133",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-16T20:20:16.137Z"
     },
     {
       "id": "6fe1ce2d-303b-4d34-9c13-4cb6476f4cbe",
@@ -45421,22 +45540,6 @@
         "us"
       ],
       "firstSeen": "2026-09-16T20:30:21.289Z"
-    },
-    {
-      "id": "8195997",
-      "title": "Staff Machine Learning Engineer, ML Platform",
-      "location": "New York City",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8195997",
-      "postedAt": "2026-09-16T20:19:03.000Z",
-      "key": "braze:8195997",
-      "company": "Braze",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T20:20:17.715Z"
     },
     {
       "id": "R_106847",
