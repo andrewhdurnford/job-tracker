@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-10-16T19:10:17.798Z",
+  "generatedAt": "2026-10-16T19:20:19.240Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "dropbox:8280093",
-    "dropbox:8280094"
+    "affirm:7981723003",
+    "affirm:7981725003",
+    "Capital One:R1003879",
+    "perplexity:375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
+    "perplexity:fcb4cc78-d4bd-4489-8756-7d39e755ac76"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 23,
-    "experienced": 2340
+    "experienced": 2343
   },
   "companies": [
     {
@@ -82,7 +85,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -789,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 258,
+      "jobCount": 259,
       "error": null,
       "stale": false
     },
@@ -937,7 +940,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2532,7 +2535,7 @@
     {
       "name": "Justworks",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3673,7 +3676,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4975,7 +4978,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003879",
+      "title": "Data Engineer 4, Real-time Data Platform",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-4--Real-time-Data-Platform_R1003879-1",
+      "postedAt": "2026-10-16T19:20:22.733Z",
+      "key": "Capital One:R1003879",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T19:20:19.240Z"
+    },
+    {
+      "id": "375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
+      "title": "Member of Technical Staff (Android Engineer, Computer Growth)",
+      "location": "San Francisco (+1 more)",
+      "team": "Mobile",
+      "url": "https://jobs.ashbyhq.com/perplexity/375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
+      "postedAt": "2026-10-16T19:10:26.869Z",
+      "key": "perplexity:375f9fc9-392e-4d0b-9a10-4b2013e05ad4",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T19:20:19.240Z"
+    },
+    {
+      "id": "fcb4cc78-d4bd-4489-8756-7d39e755ac76",
+      "title": "Member of Technical Staff (iOS Engineer, Computer Growth)",
+      "location": "San Francisco (+1 more)",
+      "team": "Mobile",
+      "url": "https://jobs.ashbyhq.com/perplexity/fcb4cc78-d4bd-4489-8756-7d39e755ac76",
+      "postedAt": "2026-10-16T19:10:02.689Z",
+      "key": "perplexity:fcb4cc78-d4bd-4489-8756-7d39e755ac76",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T19:20:19.240Z"
+    },
     {
       "id": "8280093",
       "title": "Senior Corporate Enterprise Platform Engineer, Windows",
@@ -7496,22 +7547,6 @@
       "term": null,
       "regions": [
         "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-15T20:00:23.904Z"
-    },
-    {
-      "id": "8179702",
-      "title": "Associate Software Engineer - International",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://boards.greenhouse.io/justworks/jobs/8179702?gh_jid=8179702",
-      "postedAt": "2026-10-15T19:56:58.000Z",
-      "key": "justworks:8179702",
-      "company": "Justworks",
-      "level": "experienced",
-      "term": null,
-      "regions": [
         "canada"
       ],
       "firstSeen": "2026-10-15T20:00:23.904Z"
@@ -14789,6 +14824,38 @@
         "us"
       ],
       "firstSeen": "2026-10-09T20:00:21.495Z"
+    },
+    {
+      "id": "7981725003",
+      "title": "Senior Software Engineer, Fullstack (App Experience)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7981725003",
+      "postedAt": "2026-10-09T19:39:25.000Z",
+      "key": "affirm:7981725003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-16T19:20:19.240Z"
+    },
+    {
+      "id": "7981723003",
+      "title": "Senior Software Engineer, Fullstack (App Experience)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7981723003",
+      "postedAt": "2026-10-09T19:39:23.000Z",
+      "key": "affirm:7981723003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T19:20:19.240Z"
     },
     {
       "id": "5436245008",
@@ -45476,22 +45543,6 @@
         "us"
       ],
       "firstSeen": "2026-09-16T19:30:23.251Z"
-    },
-    {
-      "id": "8165481",
-      "title": "Senior Security Engineer, Customer Transparency",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/8165481",
-      "postedAt": "2026-09-16T19:19:23.000Z",
-      "key": "tanium:8165481",
-      "company": "Tanium",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T19:20:17.052Z"
     },
     {
       "id": "R_106847",
