@@ -1,20 +1,16 @@
 {
-  "generatedAt": "2026-10-16T22:50:19.722Z",
+  "generatedAt": "2026-10-16T23:00:27.560Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "llamaindex:a2f14066-9e18-4da3-8861-2da3230e393c",
-    "togetherai:5267198007",
-    "togetherai:5267197007"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
+    "intern": 148,
     "new-grad": 23,
-    "experienced": 2330
+    "experienced": 2329
   },
   "companies": [
     {
@@ -1427,7 +1423,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5067,7 +5063,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -14720,22 +14716,6 @@
       "firstSeen": "2026-10-10T00:30:20.315Z"
     },
     {
-      "id": "1d875087-b68d-4292-abed-7641a1e94fd8",
-      "title": "Software Engineer, Production Inference (Distributed Inference)",
-      "location": "San Francisco",
-      "team": "Core Engineering",
-      "url": "https://jobs.ashbyhq.com/thinkingmachines/1d875087-b68d-4292-abed-7641a1e94fd8",
-      "postedAt": "2026-10-10T00:10:32.459Z",
-      "key": "thinkingmachines:1d875087-b68d-4292-abed-7641a1e94fd8",
-      "company": "Thinking Machines Lab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-10T00:20:16.140Z"
-    },
-    {
       "id": "8269081",
       "title": "Senior Software Engineer, Certificate Management",
       "location": "Remote - USA",
@@ -20321,22 +20301,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-06T20:20:17.391Z"
-    },
-    {
-      "id": "30465",
-      "title": "Software Engineer Intern",
-      "location": "US-SFO-Main",
-      "team": "University",
-      "url": "https://uscareers-docusign.icims.com/jobs/30465/login",
-      "postedAt": "2026-10-06T20:04:00.000Z",
-      "key": "DocuSign:30465",
-      "company": "DocuSign",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T20:10:20.625Z"
     },
     {
       "id": "8817974002",
