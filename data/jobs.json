@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T14:20:16.106Z",
+  "generatedAt": "2026-10-16T14:30:25.172Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -3585,10 +3585,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
