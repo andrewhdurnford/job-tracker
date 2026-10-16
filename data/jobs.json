@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-10-16T01:10:16.474Z",
+  "generatedAt": "2026-10-16T01:20:15.503Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "alpaca:6226254004"
+    "affirm:8032175003",
+    "affirm:8032173003",
+    "saronic:846faa91-763f-4c16-aec5-2cd48830d3ff",
+    "spacex:8893406002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -11,8 +14,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 149,
-    "new-grad": 21,
-    "experienced": 2358
+    "new-grad": 22,
+    "experienced": 2359
   },
   "companies": [
     {
@@ -81,7 +84,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -1089,7 +1092,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4365,7 +4368,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 108,
+      "jobCount": 109,
       "error": null,
       "stale": false
     },
@@ -4799,7 +4802,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5702,8 +5705,72 @@
   ],
   "jobs": [
     {
+      "id": "8893406002",
+      "title": "New Graduate Engineer, Infrastructure ",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8893406002?gh_jid=8893406002",
+      "postedAt": "2026-10-16T01:17:49.000Z",
+      "key": "spacex:8893406002",
+      "company": "SpaceX",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T01:20:15.503Z"
+    },
+    {
+      "id": "846faa91-763f-4c16-aec5-2cd48830d3ff",
+      "title": "Systems Engineer I",
+      "location": "Austin, TX",
+      "team": "Information Technology",
+      "url": "https://jobs.ashbyhq.com/saronic/846faa91-763f-4c16-aec5-2cd48830d3ff",
+      "postedAt": "2026-10-16T01:15:25.839Z",
+      "key": "saronic:846faa91-763f-4c16-aec5-2cd48830d3ff",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T01:20:15.503Z"
+    },
+    {
+      "id": "8032175003",
+      "title": "Software Engineer II, Mobile (Card Acquisition)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8032175003",
+      "postedAt": "2026-10-16T01:10:13.000Z",
+      "key": "affirm:8032175003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-16T01:20:15.503Z"
+    },
+    {
+      "id": "8032173003",
+      "title": "Software Engineer II, Mobile (Card Acquisition)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8032173003",
+      "postedAt": "2026-10-16T01:10:11.000Z",
+      "key": "affirm:8032173003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T01:20:15.503Z"
+    },
+    {
       "id": "6226254004",
-      "title": "Staff Fullstack Engineer",
+      "title": "Full-Stack Platform Engineer",
       "location": "Remote - Americas ",
       "team": null,
       "url": "https://job-boards.greenhouse.io/alpaca/jobs/6226254004",
@@ -31581,22 +31648,6 @@
       "firstSeen": "2026-09-26T00:50:16.148Z"
     },
     {
-      "id": "ef398821-8ee9-4f7c-824b-fac83d0a3023",
-      "title": "Senior Engineering Manager, Financial Data, Reporting & Analytics",
-      "location": "Mountain View, CA (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/ef398821-8ee9-4f7c-824b-fac83d0a3023",
-      "postedAt": "2026-09-26T00:10:05.442Z",
-      "key": "commure:ef398821-8ee9-4f7c-824b-fac83d0a3023",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-26T00:20:15.849Z"
-    },
-    {
       "id": "5373989008",
       "title": "Senior Software Engineer II - Agentic Intelligence",
       "location": "Remote - Canada",
@@ -38087,22 +38138,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T19:50:18.035Z"
-    },
-    {
-      "id": "8194604",
-      "title": "Frontend Engineer, Data Product Experiences",
-      "location": "Canada Locations",
-      "team": "8122 Data Foundations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8194604",
-      "postedAt": "2026-09-22T19:34:29.000Z",
-      "key": "stripe:8194604",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-22T19:40:19.558Z"
     },
     {
       "id": "ac442f1f-c0d2-4608-a155-bfc89190e01c",
