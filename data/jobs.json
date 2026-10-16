@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T18:10:15.931Z",
+  "generatedAt": "2026-10-16T18:20:16.616Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "influxdata:72a6fb9f-16e9-4d32-ab07-03a44eccbce1"
+    "gusto:8244957"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 23,
-    "experienced": 2339
+    "experienced": 2336
   },
   "companies": [
     {
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1964,7 +1964,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -2104,7 +2104,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -2706,7 +2706,7 @@
     {
       "name": "LaunchDarkly",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3938,7 +3938,7 @@
     {
       "name": "Propel",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5688,7 +5688,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8244957",
+      "title": "Staff Software Engineer, Expansion Experiences",
+      "location": "San Francisco, CA - Hybrid",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8244957",
+      "postedAt": "2026-10-16T18:11:48.000Z",
+      "key": "gusto:8244957",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T18:20:16.616Z"
+    },
     {
       "id": "72a6fb9f-16e9-4d32-ab07-03a44eccbce1",
       "title": "Developer Advocate",
@@ -8607,23 +8623,6 @@
         "us"
       ],
       "firstSeen": "2026-10-14T23:30:18.710Z"
-    },
-    {
-      "id": "8889193002",
-      "title": "Cloud Platform Engineer",
-      "location": "Remote, Canada; Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
-      "postedAt": "2026-10-14T22:58:44.000Z",
-      "key": "gitlab:8889193002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-15T23:20:23.621Z"
     },
     {
       "id": "8603698002",
@@ -20250,7 +20249,7 @@
     },
     {
       "id": "8171550",
-      "title": "Principal Data Scientist, Product Analytics",
+      "title": "Principal Data Scientist",
       "location": "United States | Remote",
       "team": null,
       "url": "https://careers.upstart.com/jobs?gh_jid=8171550",
@@ -27276,22 +27275,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T18:40:19.822Z"
-    },
-    {
-      "id": "8007085003",
-      "title": "Full Stack Engineer (Multiple Positions)",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8007085003",
-      "postedAt": "2026-09-30T18:27:19.000Z",
-      "key": "launchdarkly:8007085003",
-      "company": "LaunchDarkly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T18:30:57.817Z"
     },
     {
       "id": "8008528003",
@@ -42486,22 +42469,6 @@
       "firstSeen": "2026-09-18T16:50:19.972Z"
     },
     {
-      "id": "5230409007",
-      "title": "Senior Manager Software Engineering",
-      "location": "Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5230409007",
-      "postedAt": "2026-09-18T16:46:31.000Z",
-      "key": "zscaler:5230409007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T16:50:19.972Z"
-    },
-    {
       "id": "577b516f-af2c-40fb-80c2-9371015b6908",
       "title": " Principal Frontend AI Engineer - Cortex Code",
       "location": "US-CA-Menlo Park",
@@ -45460,22 +45427,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-16T18:30:24.603Z"
-    },
-    {
-      "id": "89372045-3712-4c01-a5ea-ac6c16f90791",
-      "title": "(Senior) Tech Lead Manager",
-      "location": "USA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/propel/89372045-3712-4c01-a5ea-ac6c16f90791",
-      "postedAt": "2026-09-16T18:12:26.646Z",
-      "key": "propel:89372045-3712-4c01-a5ea-ac6c16f90791",
-      "company": "Propel",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T18:15:35.327Z"
     },
     {
       "id": "R_106847",
