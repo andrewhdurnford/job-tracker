@@ -1,16 +1,20 @@
 {
-  "generatedAt": "2026-10-16T04:30:18.958Z",
+  "generatedAt": "2026-10-16T04:40:15.441Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "snowflake:7a085d1a-9732-4322-a997-fb14dbce5a9c",
+    "togetherai:5238469007",
+    "togetherai:5238471007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
-    "new-grad": 22,
-    "experienced": 2364
+    "intern": 150,
+    "new-grad": 23,
+    "experienced": 2365
   },
   "companies": [
     {
@@ -4636,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -5112,7 +5116,7 @@
     {
       "name": "Together AI",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,64 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7a085d1a-9732-4322-a997-fb14dbce5a9c",
+      "title": "Staff Software Engineer — Engineering Systems, Continuous Integration",
+      "location": "US-WA-Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/7a085d1a-9732-4322-a997-fb14dbce5a9c",
+      "postedAt": "2026-10-16T04:39:11.918Z",
+      "key": "snowflake:7a085d1a-9732-4322-a997-fb14dbce5a9c",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T04:40:15.441Z"
+    },
+    {
+      "id": "5238471007",
+      "title": "Hardware Security Engineer, New Grad (2027)",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007",
+      "postedAt": "2026-10-16T04:32:37.000Z",
+      "key": "togetherai:5238471007",
+      "company": "Together AI",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T04:40:15.441Z"
+    },
+    {
+      "id": "5238469007",
+      "title": "Hardware Security Engineer Intern (Summer 2027)",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
+      "postedAt": "2026-10-16T04:31:37.000Z",
+      "key": "togetherai:5238469007",
+      "company": "Together AI",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T04:40:15.441Z"
+    },
     {
       "id": "5454882008",
       "title": "Staff+ Software Engineer, Enterprise (Full Stack)",
