@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T15:40:16.972Z",
+  "generatedAt": "2026-10-16T15:50:16.932Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "pagerduty:6216870004",
-    "pagerduty:6216876004"
+    "CrowdStrike:R30105",
+    "supabase:b65287c7-2071-4bc6-8717-58c090e2a372"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 23,
-    "experienced": 2343
+    "experienced": 2344
   },
   "companies": [
     {
@@ -1244,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -2308,7 +2308,7 @@
     {
       "name": "Hyperbound",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4863,7 +4863,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R30105",
+      "title": "Sr. Data Scientist (Remote, ROU)",
+      "location": "Romania - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Romania---Remote/Sr-Data-Scientist--Remote--ROU-_R30105-1",
+      "postedAt": "2026-10-16T15:50:21.718Z",
+      "key": "CrowdStrike:R30105",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-16T15:50:16.932Z"
+    },
+    {
+      "id": "b65287c7-2071-4bc6-8717-58c090e2a372",
+      "title": "SDK Engineer - Python",
+      "location": "Remote, Global",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/b65287c7-2071-4bc6-8717-58c090e2a372",
+      "postedAt": "2026-10-16T15:41:37.459Z",
+      "key": "supabase:b65287c7-2071-4bc6-8717-58c090e2a372",
+      "company": "Supabase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-16T15:50:16.932Z"
+    },
     {
       "id": "6216870004",
       "title": "Forward Deployed Engineer (SDEV)",
@@ -45619,22 +45651,6 @@
         "us"
       ],
       "firstSeen": "2026-09-16T16:10:17.709Z"
-    },
-    {
-      "id": "e875cc8d-9913-45a6-969d-22382797e0b8",
-      "title": "Full Stack Software Engineer",
-      "location": "San Francisco",
-      "team": "Product",
-      "url": "https://jobs.ashbyhq.com/hyperbound/e875cc8d-9913-45a6-969d-22382797e0b8",
-      "postedAt": "2026-09-16T15:49:49.092Z",
-      "key": "hyperbound:e875cc8d-9913-45a6-969d-22382797e0b8",
-      "company": "Hyperbound",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T16:00:29.274Z"
     },
     {
       "id": "REF077435W",
