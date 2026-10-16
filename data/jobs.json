@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-16T20:40:17.334Z",
+  "generatedAt": "2026-10-16T20:50:16.592Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "affirm:8030973003",
+    "ophelia:5443572008"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 23,
-    "experienced": 2341
+    "experienced": 2342
   },
   "companies": [
     {
@@ -79,7 +82,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -2886,7 +2889,7 @@
     {
       "name": "Mariana Minerals",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3523,7 +3526,7 @@
     {
       "name": "Ophelia",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8030973003",
+      "title": "Manager, Software Engineering (Loans Lifecycle)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8030973003",
+      "postedAt": "2026-10-16T20:45:14.000Z",
+      "key": "affirm:8030973003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T20:50:16.592Z"
+    },
     {
       "id": "JR2025370",
       "title": "Senior System Software Engineer, NPI Data Center Diagnostics",
@@ -8546,7 +8565,7 @@
       "id": "4ee99986-77ad-4113-8058-891d5cc7284a",
       "title": "Staff Software Engineer, AI Foundations (AI Agent Optimization)",
       "location": "United States (Remote) (+1 more)",
-      "team": "AI SDK",
+      "team": "AI Foundations",
       "url": "https://jobs.ashbyhq.com/temporal/4ee99986-77ad-4113-8058-891d5cc7284a",
       "postedAt": "2026-10-15T14:28:16.052Z",
       "key": "temporal:4ee99986-77ad-4113-8058-891d5cc7284a",
@@ -21944,6 +21963,22 @@
         "us"
       ],
       "firstSeen": "2026-10-05T20:05:36.448Z"
+    },
+    {
+      "id": "5443572008",
+      "title": "Senior Site Reliability Engineer (Systems Engineer III)",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/ophelia/jobs/5443572008",
+      "postedAt": "2026-10-05T19:19:08.000Z",
+      "key": "ophelia:5443572008",
+      "company": "Ophelia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T20:50:16.592Z"
     },
     {
       "id": "8248317",
@@ -39307,7 +39342,7 @@
     },
     {
       "id": "81f09568-da7d-4ed1-8283-614f846c9b00",
-      "title": "Staff Machine Learning Engineer, AI",
+      "title": "Staff Software Engineer, AI Platform",
       "location": "San Francisco, California",
       "team": "Engineering ",
       "url": "https://jobs.ashbyhq.com/sentry/81f09568-da7d-4ed1-8283-614f846c9b00",
@@ -45465,23 +45500,6 @@
         "us"
       ],
       "firstSeen": "2026-09-16T21:19:29.078Z"
-    },
-    {
-      "id": "4dbcddee-27e1-4c71-90b3-9e00401afff4",
-      "title": "Sr. Process Controls Engineer",
-      "location": "Remote (+1 more)",
-      "team": "Software Development",
-      "url": "https://jobs.ashbyhq.com/marianaminerals/4dbcddee-27e1-4c71-90b3-9e00401afff4",
-      "postedAt": "2026-09-16T20:44:47.088Z",
-      "key": "marianaminerals:4dbcddee-27e1-4c71-90b3-9e00401afff4",
-      "company": "Mariana Minerals",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-09-16T20:50:18.059Z"
     },
     {
       "id": "R_106847",
