@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-16T16:40:15.817Z",
+  "generatedAt": "2026-10-16T16:50:16.965Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "airbnb:8284841"
+    "Capital One:R1002007",
+    "DocuSign:30545",
+    "lyft:8894909002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 23,
-    "experienced": 2340
+    "experienced": 2342
   },
   "companies": [
     {
@@ -788,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 257,
+      "jobCount": 258,
       "error": null,
       "stale": false
     },
@@ -936,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1425,7 +1427,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -2846,7 +2848,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5324,7 +5326,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8894909002",
+      "title": "Software Engineer, GovTech",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8894909002?gh_jid=8894909002",
+      "postedAt": "2026-10-16T16:48:37.000Z",
+      "key": "lyft:8894909002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-16T16:50:16.965Z"
+    },
+    {
+      "id": "30545",
+      "title": "Lead Software Engineer",
+      "location": "US-Seattle-3rd",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30545/login",
+      "postedAt": "2026-10-16T16:38:00.000Z",
+      "key": "DocuSign:30545",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T16:50:16.965Z"
+    },
     {
       "id": "8284841",
       "title": "Staff Data Engineer, Tech Foundations",
@@ -6984,7 +7018,7 @@
     {
       "id": "30babe0a-57e8-4425-8991-8797e8337e82",
       "title": "Staff Software Engineer, AI Gateway",
-      "location": "United States",
+      "location": "San Francisco, CA or Seattle, WA",
       "team": "ENG-MCP & AI Gateway",
       "url": "https://jobs.ashbyhq.com/docker/30babe0a-57e8-4425-8991-8797e8337e82",
       "postedAt": "2026-10-15T21:00:11.288Z",
@@ -13024,22 +13058,6 @@
         "us"
       ],
       "firstSeen": "2026-10-12T17:40:14.986Z"
-    },
-    {
-      "id": "7b08b5e9-3285-4604-9d17-8541714674b0",
-      "title": "Engineering Manager, Vanta for Government",
-      "location": "Remote U.S.",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/7b08b5e9-3285-4604-9d17-8541714674b0",
-      "postedAt": "2026-10-12T17:16:36.341Z",
-      "key": "vanta:7b08b5e9-3285-4604-9d17-8541714674b0",
-      "company": "Vanta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-12T17:20:16.208Z"
     },
     {
       "id": "13df0a39-1845-4634-846d-d01f2a573b54",
@@ -33055,6 +33073,22 @@
         "us"
       ],
       "firstSeen": "2026-09-25T17:00:25.284Z"
+    },
+    {
+      "id": "R1002007",
+      "title": "Full-stack Engineer 5 - Shopping (Remote-Eligible)",
+      "location": "2 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5---Shopping--Remote-Eligible-_R1002007",
+      "postedAt": "2026-09-25T16:50:34.937Z",
+      "key": "Capital One:R1002007",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-16T16:50:16.965Z"
     },
     {
       "id": "R1002193",
