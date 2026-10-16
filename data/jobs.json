@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-16T12:40:17.034Z",
+  "generatedAt": "2026-10-16T12:50:17.210Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R1003878",
+    "snowflake:88a70f56-834d-44d4-add8-e36b739e5495"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 23,
-    "experienced": 2345
+    "experienced": 2346
   },
   "companies": [
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 258,
+      "jobCount": 259,
       "error": null,
       "stale": false
     },
@@ -1535,7 +1538,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4636,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003878",
+      "title": "Data Engineer 4, Auto Data Platforms",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-4--Auto-Data-Platforms_R1003878-1",
+      "postedAt": "2026-10-16T12:50:20.661Z",
+      "key": "Capital One:R1003878",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T12:50:17.210Z"
+    },
+    {
+      "id": "88a70f56-834d-44d4-add8-e36b739e5495",
+      "title": "Incident Response Engineer",
+      "location": "US-CA-Bay Area-Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/88a70f56-834d-44d4-add8-e36b739e5495",
+      "postedAt": "2026-10-16T12:46:22.622Z",
+      "key": "snowflake:88a70f56-834d-44d4-add8-e36b739e5495",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T12:50:17.210Z"
+    },
     {
       "id": "993557d9-7482-4f63-aae0-5817998b2368",
       "title": "Senior Analytics Engineer - Finance",
@@ -11750,22 +11785,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T00:50:14.861Z"
-    },
-    {
-      "id": "3abf96ca-2937-4290-9d23-5208aece08b2",
-      "title": "Full-Stack Engineer - Ads Engine",
-      "location": "United Kingdom (+3 more)",
-      "team": "Creative Ads",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2",
-      "postedAt": "2026-10-13T00:21:46.626Z",
-      "key": "elevenlabs:3abf96ca-2937-4290-9d23-5208aece08b2",
-      "company": "ElevenLabs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T11:30:23.345Z"
     },
     {
       "id": "628f36e0-8554-4d5f-8d5e-a017a761ca54",
