@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-16T15:30:25.762Z",
+  "generatedAt": "2026-10-16T15:40:16.972Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "pagerduty:6216870004",
+    "pagerduty:6216876004"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -520,7 +523,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1010,7 +1013,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2915,7 +2918,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3572,7 +3575,7 @@
     {
       "name": "PagerDuty",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6216870004",
+      "title": "Forward Deployed Engineer (SDEV)",
+      "location": "Remote (USA - New York City, NY)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6216870004",
+      "postedAt": "2026-10-16T15:37:27.000Z",
+      "key": "pagerduty:6216870004",
+      "company": "PagerDuty",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T15:40:16.972Z"
+    },
+    {
+      "id": "6216876004",
+      "title": "Forward Deployed Engineer (SDEV)",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6216876004",
+      "postedAt": "2026-10-16T15:33:16.000Z",
+      "key": "pagerduty:6216876004",
+      "company": "PagerDuty",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T15:40:16.972Z"
+    },
     {
       "id": "8884186002",
       "title": "Equipment Reliability Engineer (Starlink/Akoustis)",
@@ -18750,22 +18785,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T01:10:22.991Z"
-    },
-    {
-      "id": "84c24e55-1db0-49b6-99d8-9bce9e16892f",
-      "title": "Product Data Scientist",
-      "location": "San Francisco (+1 more)",
-      "team": "Data and Analytics",
-      "url": "https://jobs.ashbyhq.com/baseten/84c24e55-1db0-49b6-99d8-9bce9e16892f",
-      "postedAt": "2026-10-07T00:46:25.274Z",
-      "key": "baseten:84c24e55-1db0-49b6-99d8-9bce9e16892f",
-      "company": "Baseten",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T00:50:17.895Z"
     },
     {
       "id": "8015100003",
@@ -45616,22 +45635,6 @@
         "us"
       ],
       "firstSeen": "2026-09-16T16:00:29.274Z"
-    },
-    {
-      "id": "8185558",
-      "title": "Senior Engineering Manager, Observability",
-      "location": "Austin, TX (+3 more)",
-      "team": "Engineering",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8185558?gh_jid=8185558",
-      "postedAt": "2026-09-16T15:37:45.000Z",
-      "key": "cloudflare:8185558",
-      "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T15:40:22.200Z"
     },
     {
       "id": "REF077435W",
