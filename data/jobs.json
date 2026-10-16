@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-16T10:40:16.432Z",
+  "generatedAt": "2026-10-16T10:50:16.102Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "kraken.com:993557d9-7482-4f63-aae0-5817998b2368",
+    "kraken.com:f82dbb89-b7da-4130-b690-eb1ca4aeaa50"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 23,
-    "experienced": 2346
+    "experienced": 2348
   },
   "companies": [
     {
@@ -2634,7 +2637,7 @@
     {
       "name": "Kraken",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3769,7 +3772,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4201,10 +4204,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Rilla",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "993557d9-7482-4f63-aae0-5817998b2368",
+      "title": "Senior Analytics Engineer - Finance",
+      "location": "United States",
+      "team": "Data Engineering",
+      "url": "https://jobs.ashbyhq.com/kraken.com/993557d9-7482-4f63-aae0-5817998b2368",
+      "postedAt": "2026-10-16T10:44:16.327Z",
+      "key": "kraken.com:993557d9-7482-4f63-aae0-5817998b2368",
+      "company": "Kraken",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T10:50:16.102Z"
+    },
+    {
+      "id": "f82dbb89-b7da-4130-b690-eb1ca4aeaa50",
+      "title": "Senior Analytics Engineer - Finance",
+      "location": "Brazil (+6 more)",
+      "team": "Data Engineering",
+      "url": "https://jobs.ashbyhq.com/kraken.com/f82dbb89-b7da-4130-b690-eb1ca4aeaa50",
+      "postedAt": "2026-10-16T10:44:14.133Z",
+      "key": "kraken.com:f82dbb89-b7da-4130-b690-eb1ca4aeaa50",
+      "company": "Kraken",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-16T10:50:16.102Z"
+    },
     {
       "id": "R30328",
       "title": "AI Research Scientist, Agentic Systems (Remote)",
