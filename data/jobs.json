@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-10-16T18:40:16.702Z",
+  "generatedAt": "2026-10-16T18:50:17.368Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "Capital One:R1002572"
+    "braze:8262968",
+    "braze:8262953",
+    "braze:8262294",
+    "braze:8262966",
+    "duffel:1afeadbe-a05e-49a7-b3f1-ab11ad4cb282",
+    "pinterest:8284744",
+    "sentry:68b3897c-bbb0-4f90-aa9a-57981323e26b"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +18,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 23,
-    "experienced": 2333
+    "experienced": 2339
   },
   "companies": [
     {
@@ -690,7 +696,7 @@
     {
       "name": "Braze",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -1481,7 +1487,7 @@
     {
       "name": "Duffel",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3371,7 +3377,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3756,7 +3762,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4414,7 +4420,7 @@
     {
       "name": "Sentry",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4699,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 120,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5707,118 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8262968",
+      "title": "Software Engineer II, User Targeting",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8262968",
+      "postedAt": "2026-10-16T18:47:28.000Z",
+      "key": "braze:8262968",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T18:50:17.368Z"
+    },
+    {
+      "id": "8262966",
+      "title": "Software Engineer II, User Targeting",
+      "location": "Toronto",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8262966",
+      "postedAt": "2026-10-16T18:47:26.000Z",
+      "key": "braze:8262966",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-16T18:50:17.368Z"
+    },
+    {
+      "id": "8262953",
+      "title": "Software Engineer II, User Targeting",
+      "location": "Austin",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8262953",
+      "postedAt": "2026-10-16T18:47:24.000Z",
+      "key": "braze:8262953",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T18:50:17.368Z"
+    },
+    {
+      "id": "8262294",
+      "title": "Software Engineer II, User Targeting",
+      "location": "New York City",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8262294",
+      "postedAt": "2026-10-16T18:47:22.000Z",
+      "key": "braze:8262294",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T18:50:17.368Z"
+    },
+    {
+      "id": "8284744",
+      "title": "Staff Machine Learning Engineer, Ads Conversion Core Modeling",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8284744",
+      "postedAt": "2026-10-16T18:47:22.000Z",
+      "key": "pinterest:8284744",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T18:50:17.368Z"
+    },
+    {
+      "id": "1afeadbe-a05e-49a7-b3f1-ab11ad4cb282",
+      "title": "Technical Support Engineer (API)",
+      "location": "New York, United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/duffel/1afeadbe-a05e-49a7-b3f1-ab11ad4cb282",
+      "postedAt": "2026-10-16T18:43:47.915Z",
+      "key": "duffel:1afeadbe-a05e-49a7-b3f1-ab11ad4cb282",
+      "company": "Duffel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T18:50:17.368Z"
+    },
+    {
+      "id": "68b3897c-bbb0-4f90-aa9a-57981323e26b",
+      "title": "Staff Software Engineer, Platform & Infrastructure",
+      "location": "San Francisco, California",
+      "team": "Engineering ",
+      "url": "https://jobs.ashbyhq.com/sentry/68b3897c-bbb0-4f90-aa9a-57981323e26b",
+      "postedAt": "2026-10-16T18:42:19.264Z",
+      "key": "sentry:68b3897c-bbb0-4f90-aa9a-57981323e26b",
+      "company": "Sentry",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T18:50:17.368Z"
+    },
     {
       "id": "8244957",
       "title": "Staff Software Engineer, Expansion Experiences",
@@ -45363,22 +45481,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-16T19:00:27.492Z"
-    },
-    {
-      "id": "ead663e3-3eb2-4e0e-97e5-86820062dd68",
-      "title": "Software Engineer, User Database Infrastructure",
-      "location": "San Francisco, California",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/notion/ead663e3-3eb2-4e0e-97e5-86820062dd68",
-      "postedAt": "2026-09-16T18:46:07.790Z",
-      "key": "notion:ead663e3-3eb2-4e0e-97e5-86820062dd68",
-      "company": "Notion",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T18:50:18.261Z"
     },
     {
       "id": "R_106847",
