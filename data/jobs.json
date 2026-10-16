@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-16T20:56:49.262Z",
+  "generatedAt": "2026-10-16T21:00:24.647Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "datadog:8292620"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 23,
-    "experienced": 2342
+    "experienced": 2343
   },
   "companies": [
     {
@@ -1297,7 +1299,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 118,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8292620",
+      "title": "Senior Software Engineer - Husky Storage",
+      "location": "Boston, Massachusetts, USA; New York, New York, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8292620/?gh_jid=8292620",
+      "postedAt": "2026-10-16T20:58:27.000Z",
+      "key": "datadog:8292620",
+      "company": "Datadog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T21:00:24.647Z"
+    },
     {
       "id": "8030973003",
       "title": "Manager, Software Engineering (Loans Lifecycle)",
@@ -39371,7 +39389,7 @@
     },
     {
       "id": "af7fab29-5d68-4041-9794-de4de3f41953",
-      "title": "Sr Staff Software Engineer, Platform",
+      "title": "Senior Staff Software Engineer, Platform",
       "location": "San Francisco, California",
       "team": "Engineering ",
       "url": "https://jobs.ashbyhq.com/sentry/af7fab29-5d68-4041-9794-de4de3f41953",
