@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-16T22:00:23.691Z",
+  "generatedAt": "2026-10-16T22:10:17.376Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "coinbase:8292793",
-    "lucidmotors:5215431007"
+    "asimov:6b00e0eb-c1d4-470e-a92c-5eb8c9bed414",
+    "nuro:8263453",
+    "Nvidia:JR2018333"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 23,
-    "experienced": 2337
+    "experienced": 2339
   },
   "companies": [
     {
@@ -404,7 +405,7 @@
     {
       "name": "Asimov",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1202,7 +1203,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3414,7 +3415,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 144,
+      "jobCount": 145,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2018333",
+      "title": "Senior Software Engineer — MD Simulation Engineering",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---MD-Simulation-Engineering_JR2018333",
+      "postedAt": "2026-10-16T22:10:20.567Z",
+      "key": "Nvidia:JR2018333",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T22:10:17.376Z"
+    },
+    {
+      "id": "6b00e0eb-c1d4-470e-a92c-5eb8c9bed414",
+      "title": "Senior Research Associate/Associate Scientist, Analytical Development (Contractor)",
+      "location": "Boston, MA",
+      "team": "Analytical Sciences",
+      "url": "https://jobs.ashbyhq.com/asimov/6b00e0eb-c1d4-470e-a92c-5eb8c9bed414",
+      "postedAt": "2026-10-16T22:09:17.648Z",
+      "key": "asimov:6b00e0eb-c1d4-470e-a92c-5eb8c9bed414",
+      "company": "Asimov",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T22:10:17.376Z"
+    },
     {
       "id": "5215431007",
       "title": "Senior Android Software Developer, Infotainment ",
@@ -13398,6 +13431,22 @@
         "us"
       ],
       "firstSeen": "2026-10-12T21:50:19.085Z"
+    },
+    {
+      "id": "8263453",
+      "title": "Senior/Staff Software Engineer, Applied Controls",
+      "location": "Mountain View, California (HQ)",
+      "team": null,
+      "url": "https://nuro.ai/careersitem?gh_jid=8263453",
+      "postedAt": "2026-10-12T21:48:09.000Z",
+      "key": "nuro:8263453",
+      "company": "Nuro",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-16T22:10:17.376Z"
     },
     {
       "id": "8275143",
@@ -45426,22 +45475,6 @@
         "us"
       ],
       "firstSeen": "2026-09-16T22:20:16.465Z"
-    },
-    {
-      "id": "8208567",
-      "title": "Senior Staff Applied Scientist",
-      "location": "Seattle, USA",
-      "team": null,
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8208567",
-      "postedAt": "2026-09-16T22:03:03.000Z",
-      "key": "coupang:8208567",
-      "company": "Coupang",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-16T22:10:18.000Z"
     },
     {
       "id": "R_106847",
