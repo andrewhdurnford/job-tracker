@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-17T04:00:24.171Z",
+  "generatedAt": "2026-10-17T04:10:15.231Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "abnormalsecurity:8015179003"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 23,
-    "experienced": 2339
+    "experienced": 2340
   },
   "companies": [
     {
@@ -30,7 +32,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -785,10 +787,10 @@
     },
     {
       "name": "Capital One",
-      "ok": true,
+      "ok": false,
       "jobCount": 258,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "CaptivateIQ",
@@ -3886,10 +3888,10 @@
     },
     {
       "name": "Procore",
-      "ok": true,
+      "ok": false,
       "jobCount": 8,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "Prodigal",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8015179003",
+      "title": "Software Engineer 1 - Cloud Infrastructure",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003",
+      "postedAt": "2026-10-17T04:06:39.000Z",
+      "key": "abnormalsecurity:8015179003",
+      "company": "Abnormal Security",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-17T04:10:15.231Z"
+    },
     {
       "id": "JR1997186",
       "title": "Senior Software Engineer, NCCL",
