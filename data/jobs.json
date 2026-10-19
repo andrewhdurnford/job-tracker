@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T19:40:18.703Z",
+  "generatedAt": "2026-10-19T19:50:16.312Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "snowflake:a2b6a785-5103-4668-b5ff-12a7ac00249e",
-    "twilio:8247182"
+    "duolingo:8900546002",
+    "whoop:ebf3f803-4036-4508-9e44-2d8934bc161b"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 141,
     "new-grad": 20,
-    "experienced": 2209
+    "experienced": 2211
   },
   "companies": [
     {
@@ -1489,7 +1489,7 @@
     {
       "name": "Duolingo",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2064,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2918,7 +2918,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5514,7 +5514,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "ebf3f803-4036-4508-9e44-2d8934bc161b",
+      "title": "Embedded Engineering Manager",
+      "location": "Boston, MA",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/whoop/ebf3f803-4036-4508-9e44-2d8934bc161b",
+      "postedAt": "2026-10-19T19:45:01.402Z",
+      "key": "whoop:ebf3f803-4036-4508-9e44-2d8934bc161b",
+      "company": "WHOOP",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T19:50:16.312Z"
+    },
+    {
       "id": "a2b6a785-5103-4668-b5ff-12a7ac00249e",
       "title": "Senior Security Engineer - Enterprise Security",
       "location": "US-WA-Bellevue",
@@ -5717,6 +5733,22 @@
         "us"
       ],
       "firstSeen": "2026-10-19T19:40:18.703Z"
+    },
+    {
+      "id": "8900546002",
+      "title": "Senior Engineering Manager, Data Platform ",
+      "location": "New York, NY; Pittsburgh, PA",
+      "team": null,
+      "url": "https://careers.duolingo.com/jobs/8900546002?gh_jid=8900546002",
+      "postedAt": "2026-10-19T19:22:26.000Z",
+      "key": "duolingo:8900546002",
+      "company": "Duolingo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T19:50:16.312Z"
     },
     {
       "id": "R_107068",
