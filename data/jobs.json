@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-10-19T13:50:18.085Z",
+  "generatedAt": "2026-10-19T14:00:28.284Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "DocuSign:30547"
+    "airbnb:8274802",
+    "Capital One:R1004014",
+    "deepgram:dcea53a5-5650-406d-a154-fad077c4b81b",
+    "faire:8899843002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 132,
     "new-grad": 20,
-    "experienced": 2191
+    "experienced": 2195
   },
   "companies": [
     {
@@ -116,7 +119,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -788,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 258,
+      "jobCount": 259,
       "error": null,
       "stale": false
     },
@@ -1369,7 +1372,7 @@
     {
       "name": "Deepgram",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1670,7 +1673,7 @@
     {
       "name": "Faire",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4828,7 +4831,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5702,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "R1004014",
+      "title": "Security Engineer 4 (SWG, Remote Access)",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Security-Engineer-4--SWG--Remote-Access-_R1004014",
+      "postedAt": "2026-10-19T14:00:31.911Z",
+      "key": "Capital One:R1004014",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T14:00:28.284Z"
+    },
+    {
+      "id": "dcea53a5-5650-406d-a154-fad077c4b81b",
+      "title": "Research Engineer, Post-Training",
+      "location": "USA - Remote (+2 more)",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/deepgram/dcea53a5-5650-406d-a154-fad077c4b81b",
+      "postedAt": "2026-10-19T13:54:47.821Z",
+      "key": "deepgram:dcea53a5-5650-406d-a154-fad077c4b81b",
+      "company": "Deepgram",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T14:00:28.284Z"
+    },
+    {
+      "id": "8899843002",
+      "title": "Senior Software Engineer - Product Security",
+      "location": "Kitchener-Waterloo, ON; Toronto, ON",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8899843002?gh_jid=8899843002",
+      "postedAt": "2026-10-19T13:52:42.000Z",
+      "key": "faire:8899843002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-19T14:00:28.284Z"
+    },
+    {
       "id": "30547",
       "title": "Senior Software Engineer - Oracle Fusion Finance - Record-to-Report",
       "location": "US-SFO-Main",
@@ -5885,7 +5936,7 @@
     {
       "id": "38bac641-02de-414d-96f3-d0adb603cb89",
       "title": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
-      "location": "Remote (+6 more)",
+      "location": "United Kingdom (+5 more)",
       "team": "Creative Music",
       "url": "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89",
       "postedAt": "2026-10-19T09:45:35.323Z",
@@ -5894,8 +5945,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us",
-        "remote"
+        "us"
       ],
       "firstSeen": "2026-10-19T10:00:24.631Z"
     },
@@ -14518,6 +14568,22 @@
         "us"
       ],
       "firstSeen": "2026-10-12T20:40:15.848Z"
+    },
+    {
+      "id": "8274802",
+      "title": "Senior Software Engineer, Payments Platform",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8274802?gh_jid=8274802",
+      "postedAt": "2026-10-12T20:32:34.000Z",
+      "key": "airbnb:8274802",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T14:00:28.284Z"
     },
     {
       "id": "8268917",
