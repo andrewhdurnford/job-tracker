@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-19T23:10:16.673Z",
+  "generatedAt": "2026-10-19T23:20:16.911Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "elevenlabs:9fbd9227-57e0-4221-9255-1a1d967be8ed",
+    "elevenlabs:120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
+    "shieldai:18fb7327-0e0c-46ac-a015-7c8e12e0e475"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 144,
     "new-grad": 20,
-    "experienced": 2228
+    "experienced": 2231
   },
   "companies": [
     {
@@ -1535,7 +1539,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -4468,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 106,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "9fbd9227-57e0-4221-9255-1a1d967be8ed",
+      "title": "Research Engineer - Data Infrastructure",
+      "location": "United Kingdom (+3 more)",
+      "team": "Research Engineering",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed",
+      "postedAt": "2026-10-19T23:14:29.196Z",
+      "key": "elevenlabs:9fbd9227-57e0-4221-9255-1a1d967be8ed",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T23:20:16.911Z"
+    },
+    {
+      "id": "120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
+      "title": "HPC Infrastructure Engineer - GPU Clusters",
+      "location": "United States (+3 more)",
+      "team": "Research Engineering",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
+      "postedAt": "2026-10-19T23:13:41.065Z",
+      "key": "elevenlabs:120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T23:20:16.911Z"
+    },
+    {
+      "id": "18fb7327-0e0c-46ac-a015-7c8e12e0e475",
+      "title": "Staff Engineer, Actuated Systems - Ranger (R6347)",
+      "location": "Seattle, Washington",
+      "team": "X-BAT Engineering - Mechanical",
+      "url": "https://jobs.lever.co/shieldai/18fb7327-0e0c-46ac-a015-7c8e12e0e475",
+      "postedAt": "2026-10-19T23:10:19.752Z",
+      "key": "shieldai:18fb7327-0e0c-46ac-a015-7c8e12e0e475",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T23:20:16.911Z"
+    },
     {
       "id": "JR2027726",
       "title": "Senior PR Manager, Datacenter Architecture",
