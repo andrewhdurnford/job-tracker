@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-10-19T06:50:16.814Z",
+  "generatedAt": "2026-10-19T07:00:24.026Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "CrowdStrike:R30316"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 133,
+    "intern": 132,
     "new-grad": 20,
-    "experienced": 2200
+    "experienced": 2178
   },
   "companies": [
     {
@@ -65,7 +67,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 258,
+      "jobCount": 257,
       "error": null,
       "stale": false
     },
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1241,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 140,
+      "jobCount": 138,
       "error": null,
       "stale": false
     },
@@ -3887,7 +3889,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4132,7 +4134,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -5700,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "R30316",
+      "title": "Software Engineering Manager-Continuous Identity",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Software-Engineering-Manager-Continuous-Identity_R30316",
+      "postedAt": "2026-10-19T07:00:28.375Z",
+      "key": "CrowdStrike:R30316",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T07:00:24.026Z"
+    },
+    {
       "id": "5456453008",
       "title": "Software Engineer, Memory & Search",
       "location": "New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA",
@@ -5858,26 +5876,6 @@
         "us"
       ],
       "firstSeen": "2026-10-19T00:00:22.940Z"
-    },
-    {
-      "id": "JR2026958",
-      "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-      "postedAt": "2026-10-18T17:00:29.726Z",
-      "key": "Nvidia:JR2026958",
-      "company": "Nvidia",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-18T17:00:26.253Z"
     },
     {
       "id": "6227872004",
@@ -7964,22 +7962,6 @@
         "us"
       ],
       "firstSeen": "2026-10-16T00:50:15.813Z"
-    },
-    {
-      "id": "R0018637",
-      "title": "3D Computer Vision Engineer - DroneDeploy",
-      "location": "US - California - San Francisco",
-      "team": null,
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---California---San-Francisco/Staff-Software-Engineer---DroneDeploy_R0018637",
-      "postedAt": "2026-10-16T00:40:18.878Z",
-      "key": "Procore:R0018637",
-      "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T00:40:16.394Z"
     },
     {
       "id": "8287689",
@@ -42676,22 +42658,6 @@
       "firstSeen": "2026-09-19T18:50:16.612Z"
     },
     {
-      "id": "JR2025378",
-      "title": "Senior Developer Relations Lead, AI-Enabled Drug Discovery Science",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Lead--AI-Enabled-Drug-Discovery-Science_JR2025378-1",
-      "postedAt": "2026-09-19T00:10:23.543Z",
-      "key": "Nvidia:JR2025378",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-19T00:10:19.234Z"
-    },
-    {
       "id": "4714843006",
       "title": "Senior Software Engineer, Fullstack",
       "location": "Remote (U.S. & Canada)",
@@ -42724,166 +42690,6 @@
       "firstSeen": "2026-09-18T20:10:21.890Z"
     },
     {
-      "id": "R_106908",
-      "title": "Senior Software Engineer, Site Reliability",
-      "location": "Seattle, Washington United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Engineer--Site-Reliability_R_106908",
-      "postedAt": "2026-09-18T18:50:21.489Z",
-      "key": "Remitly:R_106908",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T18:50:17.587Z"
-    },
-    {
-      "id": "R171443",
-      "title": "Vice President, Product and Software Security",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Vice-President--Product-and-Software-Security_R171443",
-      "postedAt": "2026-09-18T08:10:33.518Z",
-      "key": "Adobe:R171443",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
-      "id": "R171629",
-      "title": "Senior Product Security Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Product-Security-Engineer_R171629",
-      "postedAt": "2026-09-18T08:10:30.052Z",
-      "key": "Adobe:R171629",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
-      "id": "R171718",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171718",
-      "postedAt": "2026-09-18T08:10:21.179Z",
-      "key": "Adobe:R171718",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
-      "id": "R171719",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171719",
-      "postedAt": "2026-09-18T08:10:21.179Z",
-      "key": "Adobe:R171719",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:10:17.123Z"
-    },
-    {
-      "id": "R165261",
-      "title": "Sr. Software Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Sr-Software-Engineer_R165261",
-      "postedAt": "2026-09-18T08:00:41.537Z",
-      "key": "Adobe:R165261",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R166886",
-      "title": "Research Engineer",
-      "location": "Seattle",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Seattle/Research-Engineer_R166886",
-      "postedAt": "2026-09-18T08:00:40.873Z",
-      "key": "Adobe:R166886",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R147125",
-      "title": "Senior Software Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Software-Engineer_R147125-1",
-      "postedAt": "2026-09-18T08:00:40.873Z",
-      "key": "Adobe:R147125",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R160198",
-      "title": "Software Engineer – Adobe Experience Platform",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Engineer---Adobe-Experience-Platform_R160198-1",
-      "postedAt": "2026-09-18T08:00:40.873Z",
-      "key": "Adobe:R160198",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R168187",
-      "title": "Software Development Engineer",
-      "location": "New York",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/New-York/Software-Development-Engineer_R168187-1",
-      "postedAt": "2026-09-18T08:00:38.745Z",
-      "key": "Adobe:R168187",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
       "id": "R169945",
       "title": "Senior Forward Deployed Engineer",
       "location": "San Jose",
@@ -42891,166 +42697,6 @@
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Field-Engineer---Customer-Engagements_R169945-1",
       "postedAt": "2026-09-18T08:00:38.093Z",
       "key": "Adobe:R169945",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R160087",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Machine-Learning-Engineer_R160087",
-      "postedAt": "2026-09-18T08:00:38.093Z",
-      "key": "Adobe:R160087",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R164352",
-      "title": "Software Developer Engineer 3/4",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Developer-Engineer_R164352",
-      "postedAt": "2026-09-18T08:00:35.355Z",
-      "key": "Adobe:R164352",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R164904",
-      "title": "Software Development Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R164904",
-      "postedAt": "2026-09-18T08:00:35.355Z",
-      "key": "Adobe:R164904",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R168509",
-      "title": "Senior Backend Engineer – Cloud Platform",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Backend-Engineer---Cloud-Platform_R168509",
-      "postedAt": "2026-09-18T08:00:34.625Z",
-      "key": "Adobe:R168509",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R170928",
-      "title": "Senior Software Development Engineer 5",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Software-Development-Engineer-5_R170928",
-      "postedAt": "2026-09-18T08:00:32.715Z",
-      "key": "Adobe:R170928",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R171007",
-      "title": "Senior Software Development Engineer 5",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Senior-Software-Development-Engineer-5_R171007",
-      "postedAt": "2026-09-18T08:00:32.715Z",
-      "key": "Adobe:R171007",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R170818",
-      "title": "Software Development Engineer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer_R170818",
-      "postedAt": "2026-09-18T08:00:32.715Z",
-      "key": "Adobe:R170818",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R165421",
-      "title": "Senior Software Development Engineer 5",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer-50_R165421",
-      "postedAt": "2026-09-18T08:00:31.475Z",
-      "key": "Adobe:R165421",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R170011",
-      "title": "Operations AI Developer",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Operations-AI-Developer_R170011-1",
-      "postedAt": "2026-09-18T08:00:30.102Z",
-      "key": "Adobe:R170011",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-18T08:00:24.114Z"
-    },
-    {
-      "id": "R171262",
-      "title": "Software Development Engineer 4",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Software-Development-Engineer-4_R171262",
-      "postedAt": "2026-09-18T08:00:28.549Z",
-      "key": "Adobe:R171262",
       "company": "Adobe",
       "level": "experienced",
       "term": null,
@@ -43122,22 +42768,6 @@
         "us"
       ],
       "firstSeen": "2026-09-16T04:20:19.662Z"
-    },
-    {
-      "id": "R244860",
-      "title": "Senior Staff Software Engineer-Full-Stack",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Senior-Staff-Software-Engineer_R244860",
-      "postedAt": "2026-09-15T18:40:22.685Z",
-      "key": "Capital One:R244860",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-15T18:40:19.149Z"
     },
     {
       "id": "eb7665bc-b453-414f-89d7-3c02123d4150",
