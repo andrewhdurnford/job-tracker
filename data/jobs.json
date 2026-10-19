@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-19T18:40:21.488Z",
+  "generatedAt": "2026-10-19T18:50:16.497Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "grafanalabs:6228516004"
+    "nubank:d01c1dbc-8802-47b1-9fc5-ee59a280729d",
+    "zscaler:5265821007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 141,
     "new-grad": 20,
-    "experienced": 2207
+    "experienced": 2209
   },
   "companies": [
     {
@@ -1874,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3399,7 +3400,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 106,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5688,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "d01c1dbc-8802-47b1-9fc5-ee59a280729d",
+      "title": "Staff Software Engineer (Marketing Platforms)",
+      "location": "Toronto (+3 more)",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/d01c1dbc-8802-47b1-9fc5-ee59a280729d",
+      "postedAt": "2026-10-19T18:42:53.332Z",
+      "key": "nubank:d01c1dbc-8802-47b1-9fc5-ee59a280729d",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-19T18:50:16.497Z"
+    },
     {
       "id": "6228516004",
       "title": "Senior Full-Stack Engineer - Grafana Analytics| NASA | (Remote, Canada)",
@@ -9441,6 +9459,22 @@
         "us"
       ],
       "firstSeen": "2026-10-15T21:40:16.054Z"
+    },
+    {
+      "id": "5265821007",
+      "title": "Principal Software Development Engineer, Platform Engineering",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5265821007",
+      "postedAt": "2026-10-15T21:21:29.000Z",
+      "key": "zscaler:5265821007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T18:50:16.497Z"
     },
     {
       "id": "ed0ec3c2-aa74-4d81-97d9-f99e6b47d078",
