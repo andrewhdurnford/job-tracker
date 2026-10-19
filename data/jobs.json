@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-19T21:30:21.603Z",
+  "generatedAt": "2026-10-19T21:40:18.690Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "asana:8226969",
-    "myome:4458014009"
+    "Capital One:R1004073",
+    "Nvidia:JR2028332",
+    "Nvidia:JR2027726"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 144,
     "new-grad": 20,
-    "experienced": 2218
+    "experienced": 2220
   },
   "companies": [
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 261,
+      "jobCount": 262,
       "error": null,
       "stale": false
     },
@@ -3323,7 +3324,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 140,
+      "jobCount": 142,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 106,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028332",
+      "title": "Senior Full Stack Software Engineer, Marketing Platforms",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Full-Stack-Software-Engineer--Marketing-Platforms_JR2028332",
+      "postedAt": "2026-10-19T21:40:22.386Z",
+      "key": "Nvidia:JR2028332",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T21:40:18.690Z"
+    },
+    {
+      "id": "JR2027726",
+      "title": "Senior PR Manager, Datacenter Architecture",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-PR-Manager--Datacenter-Architecture_JR2027726-1",
+      "postedAt": "2026-10-19T21:40:22.386Z",
+      "key": "Nvidia:JR2027726",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T21:40:18.690Z"
+    },
+    {
+      "id": "R1004073",
+      "title": "Full-Stack Engineer 5",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-5_R1004073-1",
+      "postedAt": "2026-10-19T21:40:21.357Z",
+      "key": "Capital One:R1004073",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T21:40:18.690Z"
+    },
     {
       "id": "8226969",
       "title": "Staff Software Engineer, Data Loading Infrastructure",
@@ -17067,22 +17116,6 @@
         "us"
       ],
       "firstSeen": "2026-10-16T19:20:19.240Z"
-    },
-    {
-      "id": "5436245008",
-      "title": "GTM AI Engineer (Automation & AI)",
-      "location": "Arlington, Virginia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Kansas City, Missouri, USA; Newark, New Jersey, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5436245008",
-      "postedAt": "2026-10-09T19:37:53.000Z",
-      "key": "newrelic:5436245008",
-      "company": "New Relic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-09T19:40:16.714Z"
     },
     {
       "id": "8221890",
