@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-19T17:50:18.376Z",
+  "generatedAt": "2026-10-19T18:00:27.313Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1003629",
-    "figma:6223657004",
-    "Nvidia:JR2028182"
+    "nubank:3835ec58-5e5a-4bd4-a076-4a8f89490011",
+    "Nvidia:JR2028215",
+    "Nvidia:JR2025689"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 139,
+    "intern": 140,
     "new-grad": 20,
-    "experienced": 2204
+    "experienced": 2206
   },
   "companies": [
     {
@@ -938,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1447,10 +1447,10 @@
     },
     {
       "name": "doola",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "DoorDash",
@@ -1757,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1876,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3401,7 +3401,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 138,
+      "jobCount": 140,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,60 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025689",
+      "title": "Applied Machine Learning Engineer - AI for VLSI Design",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer---AI-for-VLSI-Design_JR2025689",
+      "postedAt": "2026-10-19T18:00:31.457Z",
+      "key": "Nvidia:JR2025689",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T18:00:27.313Z"
+    },
+    {
+      "id": "JR2028215",
+      "title": "Senior Systems Software Engineer, Workload Systems Engineering",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Workload-Systems-Engineering_JR2028215",
+      "postedAt": "2026-10-19T18:00:31.457Z",
+      "key": "Nvidia:JR2028215",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T18:00:27.313Z"
+    },
+    {
+      "id": "3835ec58-5e5a-4bd4-a076-4a8f89490011",
+      "title": "Nu AI Core Summer PhD Research Internship",
+      "location": "Palo Alto (+2 more)",
+      "team": "Early Talent",
+      "url": "https://jobs.ashbyhq.com/nubank/3835ec58-5e5a-4bd4-a076-4a8f89490011",
+      "postedAt": "2026-10-19T17:57:09.036Z",
+      "key": "nubank:3835ec58-5e5a-4bd4-a076-4a8f89490011",
+      "company": "Nubank",
+      "level": "intern",
+      "term": {
+        "label": "Summer",
+        "seasons": [
+          "summer"
+        ],
+        "year": null
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T18:00:27.313Z"
+    },
     {
       "id": "JR2028182",
       "title": "Principal Software Engineer, Developer Compute Platform",
@@ -16608,7 +16662,7 @@
     },
     {
       "id": "8260221",
-      "title": "Principal Software Engineer - Engineering Acceleration",
+      "title": "Senior Software Engineer - Engineering Acceleration",
       "location": "San Mateo, CA, United States",
       "team": null,
       "url": "https://careers.roblox.com/jobs/8260221?gh_jid=8260221",
