@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-19T22:10:16.358Z",
+  "generatedAt": "2026-10-19T22:20:16.854Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "temporal:c22959f0-eadf-4860-808b-a7c2c4e25712"
+    "coinbase:8302189"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1054,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 106,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8302189",
+      "title": "Staff Software Enginer, Backend - Payments Platform",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8302189?gh_jid=8302189",
+      "postedAt": "2026-10-19T22:14:33.000Z",
+      "key": "coinbase:8302189",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T22:20:16.854Z"
+    },
     {
       "id": "c22959f0-eadf-4860-808b-a7c2c4e25712",
       "title": "Staff Application Security Engineer",
@@ -7178,22 +7194,6 @@
         "us"
       ],
       "firstSeen": "2026-10-19T05:10:16.413Z"
-    },
-    {
-      "id": "R30387",
-      "title": "Software Engineer II - Engine Team, LogScale (Hybrid)",
-      "location": "USA - Austin, TX",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Software-Engineer-II---Engine-Team--LogScale--Hybrid-_R30387",
-      "postedAt": "2026-10-19T05:00:26.602Z",
-      "key": "CrowdStrike:R30387",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T05:00:21.979Z"
     },
     {
       "id": "R25100",
