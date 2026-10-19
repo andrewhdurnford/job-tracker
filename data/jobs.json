@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-19T19:30:19.752Z",
+  "generatedAt": "2026-10-19T19:40:18.703Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "snowflake:a2b6a785-5103-4668-b5ff-12a7ac00249e",
+    "twilio:8247182"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 141,
     "new-grad": 20,
-    "experienced": 2208
+    "experienced": 2209
   },
   "companies": [
     {
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2915,7 +2918,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4636,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -5224,7 +5227,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5686,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a2b6a785-5103-4668-b5ff-12a7ac00249e",
+      "title": "Senior Security Engineer - Enterprise Security",
+      "location": "US-WA-Bellevue",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/snowflake/a2b6a785-5103-4668-b5ff-12a7ac00249e",
+      "postedAt": "2026-10-19T19:34:59.695Z",
+      "key": "snowflake:a2b6a785-5103-4668-b5ff-12a7ac00249e",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T19:40:18.703Z"
+    },
     {
       "id": "R_107068",
       "title": "Software Development Engineer",
@@ -13089,6 +13108,22 @@
         "canada"
       ],
       "firstSeen": "2026-10-13T19:30:23.052Z"
+    },
+    {
+      "id": "8247182",
+      "title": "Software Engineer (L2) Messaging Channels Team ",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
+      "postedAt": "2026-10-13T19:12:15.000Z",
+      "key": "twilio:8247182",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T19:40:18.703Z"
     },
     {
       "id": "8265736",
@@ -34782,22 +34817,6 @@
         "us"
       ],
       "firstSeen": "2026-09-25T18:30:20.827Z"
-    },
-    {
-      "id": "5216932007",
-      "title": "Staff Software Development Engineer",
-      "location": "Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216932007",
-      "postedAt": "2026-09-25T18:18:40.000Z",
-      "key": "zscaler:5216932007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T00:10:17.146Z"
     },
     {
       "id": "8142952",
