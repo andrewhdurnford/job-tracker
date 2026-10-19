@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-10-19T20:30:30.935Z",
+  "generatedAt": "2026-10-19T20:40:17.213Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "anthropic:5456018008",
-    "juicebox:4aa71dc4-54fb-48a3-a016-afe1a9d6041e",
-    "saronic:ed14c5cc-85a1-4be1-8e53-0860b1612238",
-    "waymo:8283558"
+    "Capital One:R1002399",
+    "launchdarkly:8015117003",
+    "waymo:8301804",
+    "waymo:8301854"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 141,
+    "intern": 143,
     "new-grad": 20,
-    "experienced": 2215
+    "experienced": 2217
   },
   "companies": [
     {
@@ -791,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 261,
+      "jobCount": 262,
       "error": null,
       "stale": false
     },
@@ -2709,7 +2709,7 @@
     {
       "name": "LaunchDarkly",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5481,7 +5481,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 56,
+      "jobCount": 58,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5704,82 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002399",
+      "title": "Staff Full-Stack Engineer",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Staff-Full-Stack-Engineer_R1002399-1",
+      "postedAt": "2026-10-19T20:40:23.623Z",
+      "key": "Capital One:R1002399",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T20:40:17.213Z"
+    },
+    {
+      "id": "8015117003",
+      "title": "Backend Software Engineer, SDK",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8015117003",
+      "postedAt": "2026-10-19T20:38:58.000Z",
+      "key": "launchdarkly:8015117003",
+      "company": "LaunchDarkly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T20:40:17.213Z"
+    },
+    {
+      "id": "8301854",
+      "title": "2027 Summer Intern, PhD, Research, VLM Harnesses for AV Planning",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8301854",
+      "postedAt": "2026-10-19T20:34:41.000Z",
+      "key": "waymo:8301854",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T20:40:17.213Z"
+    },
+    {
+      "id": "8301804",
+      "title": "2027 Summer Intern, PhD, Research, Perception Foundation Models",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8301804",
+      "postedAt": "2026-10-19T20:32:41.000Z",
+      "key": "waymo:8301804",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T20:40:17.213Z"
+    },
     {
       "id": "8283558",
       "title": "2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training",
