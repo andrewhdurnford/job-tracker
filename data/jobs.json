@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-19T16:40:18.453Z",
+  "generatedAt": "2026-10-19T16:50:17.376Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "Adobe:R172996",
-    "wizinc:4719843006"
+    "Adobe:R172997",
+    "openai:341a5ad4-9134-4bad-88e1-2ce0f70bf519"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 135,
+    "intern": 136,
     "new-grad": 20,
     "experienced": 2194
   },
@@ -68,7 +68,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2902,10 +2902,10 @@
     },
     {
       "name": "Mashgin",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mastra",
@@ -3400,7 +3400,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3512,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,42 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R172997",
+      "title": "2027 Intern - Data, AI & Innovation",
+      "location": "San Jose",
+      "team": null,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997",
+      "postedAt": "2026-10-19T16:50:22.269Z",
+      "key": "Adobe:R172997",
+      "company": "Adobe",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T16:50:17.376Z"
+    },
+    {
+      "id": "341a5ad4-9134-4bad-88e1-2ce0f70bf519",
+      "title": "Software Engineer, Backend — Dots",
+      "location": "New York City",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519",
+      "postedAt": "2026-10-19T16:46:48.788Z",
+      "key": "openai:341a5ad4-9134-4bad-88e1-2ce0f70bf519",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-19T16:50:17.376Z"
+    },
     {
       "id": "R172996",
       "title": "2027 Intern - Experience Researcher",
@@ -19321,22 +19357,6 @@
       "postedAt": "2026-10-07T21:17:46.000Z",
       "key": "cloudflare:8256332",
       "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T21:20:16.254Z"
-    },
-    {
-      "id": "466b97d2-def5-48b4-b65d-e6d360d52162",
-      "title": "Senior Systems Engineer - Traffic Management",
-      "location": "Miami (+3 more)",
-      "team": "Engineer",
-      "url": "https://jobs.ashbyhq.com/nubank/466b97d2-def5-48b4-b65d-e6d360d52162",
-      "postedAt": "2026-10-07T21:12:46.810Z",
-      "key": "nubank:466b97d2-def5-48b4-b65d-e6d360d52162",
-      "company": "Nubank",
       "level": "experienced",
       "term": null,
       "regions": [
