@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-10-20T15:10:22.302Z",
+  "generatedAt": "2026-10-20T15:20:17.714Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "clickup:58cbf9f5-0686-437d-9356-34dff0048248",
-    "Procore:R0018386",
-    "Visa:REF089040W"
+    "Capital One:R1003738"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 21,
-    "experienced": 2249
+    "experienced": 2250
   },
   "companies": [
     {
@@ -595,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -790,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 260,
+      "jobCount": 261,
       "error": null,
       "stale": false
     },
@@ -1566,10 +1564,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Encord",
@@ -2364,10 +2362,10 @@
     },
     {
       "name": "Included Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Inferact",
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 106,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003738",
+      "title": "Staff Software Engineer",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Software-Engineer_R1003738-1",
+      "postedAt": "2026-10-20T15:20:21.143Z",
+      "key": "Capital One:R1003738",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-20T15:20:17.714Z"
+    },
     {
       "id": "REF089040W",
       "title": "Sr. SW Engineer (Full Stack)",
