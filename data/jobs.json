@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-20T15:00:26.496Z",
+  "generatedAt": "2026-10-20T15:10:22.302Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "stripe:8163540"
+    "clickup:58cbf9f5-0686-437d-9356-34dff0048248",
+    "Procore:R0018386",
+    "Visa:REF089040W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 21,
-    "experienced": 2246
+    "experienced": 2249
   },
   "companies": [
     {
@@ -991,7 +993,7 @@
     {
       "name": "ClickUp",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3889,7 +3891,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 106,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5401,7 +5403,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF089040W",
+      "title": "Sr. SW Engineer (Full Stack)",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Sr-SW-Engineer--Full-Stack-_REF089040W",
+      "postedAt": "2026-10-20T15:10:25.710Z",
+      "key": "Visa:REF089040W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T15:10:22.302Z"
+    },
+    {
+      "id": "R0018386",
+      "title": "Senior Software Engineer, Backend (Java)",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-Software-Engineer--Backend--Java-_R0018386",
+      "postedAt": "2026-10-20T15:10:25.086Z",
+      "key": "Procore:R0018386",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T15:10:22.302Z"
+    },
+    {
+      "id": "58cbf9f5-0686-437d-9356-34dff0048248",
+      "title": "Senior Backend Engineer, Search",
+      "location": "United States",
+      "team": "32010 Backend Engineering",
+      "url": "https://jobs.ashbyhq.com/clickup/58cbf9f5-0686-437d-9356-34dff0048248",
+      "postedAt": "2026-10-20T15:06:18.377Z",
+      "key": "clickup:58cbf9f5-0686-437d-9356-34dff0048248",
+      "company": "ClickUp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T15:10:22.302Z"
+    },
     {
       "id": "8163540",
       "title": "Staff Software Engineer, IAM Control Plane",
