@@ -1,14 +1,9 @@
 {
-  "generatedAt": "2026-10-20T16:50:19.063Z",
+  "generatedAt": "2026-10-20T17:00:28.004Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1001156",
-    "jfrog:8286457",
-    "shepherd:c4081c3d-a79b-4ac9-aa19-78f5e1a24c4d",
-    "shepherd:395f4b75-cf05-4581-8408-8f4fe0f1480b",
-    "shepherd:6cbab29e-1bbf-42b4-9308-3823693ca288",
-    "shepherd:26959124-aab2-446e-aa4d-7265c83e0be5"
+    "reddit:8303798"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +12,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 21,
-    "experienced": 2266
+    "experienced": 2267
   },
   "companies": [
     {
@@ -598,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -941,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1760,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1879,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2068,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4111,7 +4106,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4698,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 104,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5706,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8303798",
+      "title": "Senior Software Engineer, Web Platform",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8303798",
+      "postedAt": "2026-10-20T16:54:32.000Z",
+      "key": "reddit:8303798",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T17:00:28.004Z"
+    },
     {
       "id": "R1001156",
       "title": "Full Stack Engineer 4 (Go, AWS)",
