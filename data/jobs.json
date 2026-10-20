@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-10-20T19:50:16.459Z",
+  "generatedAt": "2026-10-20T20:00:24.843Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "asana:8214792",
-    "Capital One:R1004185",
-    "harvey:66a13783-3073-4474-8dad-90f4146885ef",
-    "spacex:8903848002",
-    "toast:8233156"
+    "gitlab:8889193002",
+    "roblox:8287853",
+    "snowflake:22e84b77-4bc4-4a31-99fb-f325ed9a9590"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -792,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 268,
+      "jobCount": 267,
       "error": null,
       "stale": false
     },
@@ -1968,7 +1966,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -2170,10 +2168,10 @@
     },
     {
       "name": "Harness",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Harvey",
@@ -4243,7 +4241,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 54,
+      "jobCount": 55,
       "error": null,
       "stale": false
     },
@@ -4642,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -4698,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 105,
+      "jobCount": 103,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "22e84b77-4bc4-4a31-99fb-f325ed9a9590",
+      "title": "Principal Software Enginner - Parameters & Experimentation",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/22e84b77-4bc4-4a31-99fb-f325ed9a9590",
+      "postedAt": "2026-10-20T19:59:04.700Z",
+      "key": "snowflake:22e84b77-4bc4-4a31-99fb-f325ed9a9590",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T20:00:24.843Z"
+    },
+    {
+      "id": "8287853",
+      "title": "Senior Software Engineer, Realtime Analytics Platform",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8287853?gh_jid=8287853",
+      "postedAt": "2026-10-20T19:54:32.000Z",
+      "key": "roblox:8287853",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T20:00:24.843Z"
+    },
     {
       "id": "R1004185",
       "title": "Senior Staff Full-stack Engineer – Customer Resiliency (Senior Director, IC) (Remote-Eligible)",
@@ -12829,6 +12859,23 @@
         "us"
       ],
       "firstSeen": "2026-10-14T23:30:18.710Z"
+    },
+    {
+      "id": "8889193002",
+      "title": "Cloud Platform Engineer",
+      "location": "Remote, Canada; Remote, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8889193002",
+      "postedAt": "2026-10-14T22:58:44.000Z",
+      "key": "gitlab:8889193002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-20T20:00:24.843Z"
     },
     {
       "id": "8603698002",
@@ -42437,22 +42484,6 @@
       "firstSeen": "2026-09-22T15:30:23.922Z"
     },
     {
-      "id": "R1001292",
-      "title": "Full-stack Engineer 5 (Go/Java, Angular, AWS)",
-      "location": "Chicago, IL",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-5--Go-Java--Angular--AWS-_R1001292-1",
-      "postedAt": "2026-09-22T15:10:28.320Z",
-      "key": "Capital One:R1001292",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T15:10:24.723Z"
-    },
-    {
       "id": "R1001273",
       "title": "Full-stack Engineer 4 (React, TypeScript, AWS)",
       "location": "McLean, VA",
@@ -43038,38 +43069,6 @@
       "key": "epicgames:6202675004",
       "company": "Epic Games",
       "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T23:00:27.795Z"
-    },
-    {
-      "id": "8827838002",
-      "title": "Mission Manager, International Systems (Starshield)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8827838002?gh_jid=8827838002",
-      "postedAt": "2026-09-21T22:49:58.000Z",
-      "key": "spacex:8827838002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T23:00:27.795Z"
-    },
-    {
-      "id": "8827827002",
-      "title": "Mission Manager, International Systems (Starshield)",
-      "location": "Washington, DC",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8827827002?gh_jid=8827827002",
-      "postedAt": "2026-09-21T22:49:56.000Z",
-      "key": "spacex:8827827002",
-      "company": "SpaceX",
-      "level": "experienced",
       "term": null,
       "regions": [
         "us"
