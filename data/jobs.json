@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-10-20T19:40:17.515Z",
+  "generatedAt": "2026-10-20T19:50:16.459Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "asana:8214792",
+    "Capital One:R1004185",
+    "harvey:66a13783-3073-4474-8dad-90f4146885ef",
+    "spacex:8903848002",
+    "toast:8233156"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +16,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 21,
-    "experienced": 2284
+    "experienced": 2289
   },
   "companies": [
     {
@@ -387,7 +393,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -786,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 267,
+      "jobCount": 268,
       "error": null,
       "stale": false
     },
@@ -2172,7 +2178,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 104,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 105,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5105,7 +5111,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5705,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004185",
+      "title": "Senior Staff Full-stack Engineer – Customer Resiliency (Senior Director, IC) (Remote-Eligible)",
+      "location": "7 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Staff-Full-stack-Engineer---Customer-Resiliency--Senior-Director--IC---Remote-Eligible-_R1004185-1",
+      "postedAt": "2026-10-20T19:50:19.184Z",
+      "key": "Capital One:R1004185",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-20T19:50:16.459Z"
+    },
+    {
+      "id": "8903848002",
+      "title": "Space Operations Training Engineer (Full Stack Software)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8903848002?gh_jid=8903848002",
+      "postedAt": "2026-10-20T19:42:44.000Z",
+      "key": "spacex:8903848002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T19:50:16.459Z"
+    },
+    {
+      "id": "66a13783-3073-4474-8dad-90f4146885ef",
+      "title": "Staff Software Engineer, Backend Platform",
+      "location": "San Francisco (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/harvey/66a13783-3073-4474-8dad-90f4146885ef",
+      "postedAt": "2026-10-20T19:40:08.527Z",
+      "key": "harvey:66a13783-3073-4474-8dad-90f4146885ef",
+      "company": "Harvey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T19:50:16.459Z"
+    },
     {
       "id": "eb26b54f-bd8c-4bcb-ab5a-a9aafad09960",
       "title": "Security Engineer ",
@@ -22264,6 +22318,22 @@
       "firstSeen": "2026-10-16T16:20:20.271Z"
     },
     {
+      "id": "8214792",
+      "title": "Workday Integration Developer",
+      "location": "Vancouver, BC",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/8214792?gh_jid=8214792",
+      "postedAt": "2026-10-07T16:10:40.000Z",
+      "key": "asana:8214792",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-20T19:50:16.459Z"
+    },
+    {
       "id": "JR2024711",
       "title": "Senior Staff Software Engineer - Enterprise AI Platform",
       "location": "US, CA, Santa Clara",
@@ -32899,6 +32969,22 @@
         "us"
       ],
       "firstSeen": "2026-09-29T15:50:19.167Z"
+    },
+    {
+      "id": "8233156",
+      "title": "Software Engineer II",
+      "location": "Remote, US ",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8233156",
+      "postedAt": "2026-09-29T15:42:33.000Z",
+      "key": "toast:8233156",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T19:50:16.459Z"
     },
     {
       "id": "R1001649",
