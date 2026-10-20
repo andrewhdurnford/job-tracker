@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-10-20T16:10:17.424Z",
+  "generatedAt": "2026-10-20T16:20:16.487Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "airbnb:7763610",
-    "mongodb:8300359",
-    "northwoodspace:09fb47fc-39e0-4fca-9bff-5d19d43f5a44",
-    "Nvidia:JR2028173",
-    "stripe:8287912"
+    "affirm:8017503003",
+    "affirm:8017505003",
+    "talkiatry:a0ce1010-919c-4dfe-8ba2-6c74d6e81e04"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -85,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -4138,7 +4136,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 106,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 104,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4971,7 +4969,7 @@
     {
       "name": "Talkiatry",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8017505003",
+      "title": "Senior Software Engineer, Backend (Identity Data) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017505003",
+      "postedAt": "2026-10-20T16:15:40.000Z",
+      "key": "affirm:8017505003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-20T16:20:16.487Z"
+    },
+    {
+      "id": "8017503003",
+      "title": "Senior Software Engineer, Backend (Identity Data)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017503003",
+      "postedAt": "2026-10-20T16:15:39.000Z",
+      "key": "affirm:8017503003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T16:20:16.487Z"
+    },
+    {
+      "id": "a0ce1010-919c-4dfe-8ba2-6c74d6e81e04",
+      "title": "Senior Analytics Engineer, Marketing",
+      "location": "Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/talkiatry/a0ce1010-919c-4dfe-8ba2-6c74d6e81e04",
+      "postedAt": "2026-10-20T16:14:22.896Z",
+      "key": "talkiatry:a0ce1010-919c-4dfe-8ba2-6c74d6e81e04",
+      "company": "Talkiatry",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-20T16:20:16.487Z"
+    },
     {
       "id": "JR2028173",
       "title": "Manager, Linux GPU System Software Engineering",
@@ -8133,22 +8180,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-19T04:50:19.285Z"
-    },
-    {
-      "id": "R_107028",
-      "title": "Senior Data Engineer",
-      "location": "Arlington Virginia, United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Senior-Data-Engineer_R_107028",
-      "postedAt": "2026-10-19T04:00:26.718Z",
-      "key": "Remitly:R_107028",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T04:00:22.864Z"
     },
     {
       "id": "JR2028004",
@@ -16828,7 +16859,7 @@
       "id": "44860a61-5d54-4ba4-b48e-4378d3040da3",
       "title": "Senior / Staff Software Engineer, AI Leverage",
       "location": "Boston",
-      "team": "Engineering",
+      "team": "Platform Engineering",
       "url": "https://jobs.ashbyhq.com/suno/44860a61-5d54-4ba4-b48e-4378d3040da3",
       "postedAt": "2026-10-12T14:14:31.581Z",
       "key": "suno:44860a61-5d54-4ba4-b48e-4378d3040da3",
@@ -17690,7 +17721,7 @@
       "id": "70662a20-201c-4304-9cc1-d7092b4b85c6",
       "title": "Senior / Staff Software Engineer, Internal Tools",
       "location": "Boston",
-      "team": "Engineering",
+      "team": "Platform Engineering",
       "url": "https://jobs.ashbyhq.com/suno/70662a20-201c-4304-9cc1-d7092b4b85c6",
       "postedAt": "2026-10-09T21:10:42.915Z",
       "key": "suno:70662a20-201c-4304-9cc1-d7092b4b85c6",
@@ -25841,38 +25872,6 @@
       "firstSeen": "2026-10-07T18:50:16.497Z"
     },
     {
-      "id": "8864991002",
-      "title": "Software Engineer (Starshield Products)",
-      "location": "Palo Alto, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8864991002?gh_jid=8864991002",
-      "postedAt": "2026-10-03T01:03:46.000Z",
-      "key": "spacex:8864991002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T00:00:24.829Z"
-    },
-    {
-      "id": "8865057002",
-      "title": "Software Engineer (Starshield Products)",
-      "location": "Washington, DC",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8865057002?gh_jid=8865057002",
-      "postedAt": "2026-10-03T01:03:44.000Z",
-      "key": "spacex:8865057002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T00:00:24.829Z"
-    },
-    {
       "id": "8865268002",
       "title": "Sr. AI Engineer, Supercomputing, Special Programs - Top Secret Clearance",
       "location": "Hawthorne, CA",
@@ -32151,7 +32150,7 @@
       "id": "f83463c2-2e7a-441e-85e9-9e509c9bac7e",
       "title": "Senior / Staff Behavioral Engineer",
       "location": "NYC (+3 more)",
-      "team": "Engineering",
+      "team": "Security Engineering ",
       "url": "https://jobs.ashbyhq.com/suno/f83463c2-2e7a-441e-85e9-9e509c9bac7e",
       "postedAt": "2026-09-29T17:28:36.229Z",
       "key": "suno:f83463c2-2e7a-441e-85e9-9e509c9bac7e",
@@ -38690,7 +38689,7 @@
       "id": "d9a5e520-efb1-4024-b9d1-215b9ac3cad9",
       "title": "Privacy Engineering Lead",
       "location": "NYC (+3 more)",
-      "team": "Engineering",
+      "team": "Security Engineering ",
       "url": "https://jobs.ashbyhq.com/suno/d9a5e520-efb1-4024-b9d1-215b9ac3cad9",
       "postedAt": "2026-09-23T22:14:12.123Z",
       "key": "suno:d9a5e520-efb1-4024-b9d1-215b9ac3cad9",
