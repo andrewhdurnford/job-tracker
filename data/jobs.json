@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-20T15:20:17.714Z",
+  "generatedAt": "2026-10-20T15:30:21.419Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1003738"
+    "1password:443f9ef6-13a7-4edb-ace5-16be7e630041",
+    "toast:8264860",
+    "upstart:8220246"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,13 +14,13 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 21,
-    "experienced": 2250
+    "experienced": 2253
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -593,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1564,10 +1566,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -2362,10 +2364,10 @@
     },
     {
       "name": "Included Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inferact",
@@ -2896,7 +2898,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 106,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5107,7 +5109,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5303,7 +5305,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,22 @@
   ],
   "jobs": [
     {
+      "id": "8264860",
+      "title": "Staff Software Engineer, Enterprise",
+      "location": "Remote, US",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8264860",
+      "postedAt": "2026-10-20T15:22:56.000Z",
+      "key": "toast:8264860",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T15:30:21.419Z"
+    },
+    {
       "id": "R1003738",
       "title": "Staff Software Engineer",
       "location": "Toronto, ON",
@@ -5716,6 +5734,23 @@
         "canada"
       ],
       "firstSeen": "2026-10-20T15:20:17.714Z"
+    },
+    {
+      "id": "443f9ef6-13a7-4edb-ace5-16be7e630041",
+      "title": "Developer, Device Trust Reliability",
+      "location": "Remote (United States | Canada)",
+      "team": "Product Engineering",
+      "url": "https://jobs.ashbyhq.com/1password/443f9ef6-13a7-4edb-ace5-16be7e630041",
+      "postedAt": "2026-10-20T15:19:30.487Z",
+      "key": "1password:443f9ef6-13a7-4edb-ace5-16be7e630041",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-20T15:30:21.419Z"
     },
     {
       "id": "REF089040W",
@@ -42814,6 +42849,23 @@
         "us"
       ],
       "firstSeen": "2026-09-21T21:10:40.859Z"
+    },
+    {
+      "id": "8220246",
+      "title": "Software Engineer II, Marketplace Optimization",
+      "location": "United States | Remote",
+      "team": null,
+      "url": "https://careers.upstart.com/jobs?gh_jid=8220246",
+      "postedAt": "2026-09-21T20:58:21.000Z",
+      "key": "upstart:8220246",
+      "company": "Upstart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-20T15:30:21.419Z"
     },
     {
       "id": "3962be8a-60e3-4fc3-9bb6-3a84addb8e08",
