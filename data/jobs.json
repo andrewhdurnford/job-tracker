@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-20T20:50:17.258Z",
+  "generatedAt": "2026-10-20T21:00:23.214Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "doordashusa:8304373",
-    "lyft:8896679002",
-    "northwoodspace:b342a75c-21a4-4e8c-962c-056031fb77e3"
+    "instacart:8304487",
+    "mongodb:8300746",
+    "reddit:8304463",
+    "retell-ai:358f4a48-14ad-4c58-b051-2b48a0159e47"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 21,
-    "experienced": 2293
+    "experienced": 2297
   },
   "companies": [
     {
@@ -1867,10 +1868,10 @@
     },
     {
       "name": "Formation Bio",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Foursquare",
@@ -2421,7 +2422,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -3135,7 +3136,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4108,7 +4109,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -4178,7 +4179,7 @@
     {
       "name": "Retell AI",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8304487",
+      "title": "Senior Software Engineer - Ads Manager",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8304487",
+      "postedAt": "2026-10-20T20:58:36.000Z",
+      "key": "instacart:8304487",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-20T21:00:23.214Z"
+    },
+    {
+      "id": "8304463",
+      "title": "Senior Machine Learning Engineer, Ads ML Efficiency",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8304463",
+      "postedAt": "2026-10-20T20:57:26.000Z",
+      "key": "reddit:8304463",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T21:00:23.214Z"
+    },
+    {
+      "id": "8300746",
+      "title": "Manager, Client Platform Engineering",
+      "location": "Palo Alto; San Francisco",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8300746",
+      "postedAt": "2026-10-20T20:52:33.000Z",
+      "key": "mongodb:8300746",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T21:00:23.214Z"
+    },
+    {
+      "id": "358f4a48-14ad-4c58-b051-2b48a0159e47",
+      "title": "Support Engineer (Contract)",
+      "location": "Remote (+10 more)",
+      "team": "Technical Success ",
+      "url": "https://jobs.ashbyhq.com/retell-ai/358f4a48-14ad-4c58-b051-2b48a0159e47",
+      "postedAt": "2026-10-20T20:50:00.941Z",
+      "key": "retell-ai:358f4a48-14ad-4c58-b051-2b48a0159e47",
+      "company": "Retell AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-20T21:00:23.214Z"
+    },
     {
       "id": "8304373",
       "title": "Staff Software Engineer, Planner",
