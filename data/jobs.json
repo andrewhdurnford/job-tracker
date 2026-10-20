@@ -1,20 +1,18 @@
 {
-  "generatedAt": "2026-10-20T18:40:20.515Z",
+  "generatedAt": "2026-10-20T18:50:21.558Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "anthropic:5458794008",
-    "boxinc:8236513",
-    "singlestore:8304127"
+    "coinbase:8304038"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 146,
+    "intern": 145,
     "new-grad": 21,
-    "experienced": 2282
+    "experienced": 2281
   },
   "companies": [
     {
@@ -595,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -938,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1056,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 104,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5067,7 +5065,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 59,
+      "jobCount": 58,
       "error": null,
       "stale": false
     },
@@ -5690,7 +5688,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8304038",
+      "title": "Software Engineer - Crypto Data Foundations",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038",
+      "postedAt": "2026-10-20T18:42:39.000Z",
+      "key": "coinbase:8304038",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T18:50:21.558Z"
+    },
     {
       "id": "8304127",
       "title": "Principal Engineer, Platform Engineering",
@@ -23297,28 +23311,6 @@
       "firstSeen": "2026-10-06T20:00:46.803Z"
     },
     {
-      "id": "8257237",
-      "title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257237",
-      "postedAt": "2026-10-06T19:50:56.000Z",
-      "key": "waymo:8257237",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T20:00:46.803Z"
-    },
-    {
       "id": "4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2",
       "title": "Software Engineer, Shop/Feed Ads ",
       "location": "San Francisco",
@@ -31561,22 +31553,6 @@
       "firstSeen": "2026-09-30T00:50:16.248Z"
     },
     {
-      "id": "5246776007",
-      "title": " Senior Machine Learning Engineer",
-      "location": "Remote - USA; Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5246776007",
-      "postedAt": "2026-09-30T00:30:47.000Z",
-      "key": "zscaler:5246776007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T18:10:16.820Z"
-    },
-    {
       "id": "8241748",
       "title": "Senior Software Engineer, Mobile QA",
       "location": "Remote - USA",
@@ -33272,22 +33248,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-29T02:00:22.264Z"
-    },
-    {
-      "id": "99089ecb-e75b-4a80-8bbc-2fd21e2aadad",
-      "title": "Developer Experience Engineer",
-      "location": "San Francisco",
-      "team": "Core Engineering",
-      "url": "https://jobs.ashbyhq.com/thinkingmachines/99089ecb-e75b-4a80-8bbc-2fd21e2aadad",
-      "postedAt": "2026-09-29T01:14:22.961Z",
-      "key": "thinkingmachines:99089ecb-e75b-4a80-8bbc-2fd21e2aadad",
-      "company": "Thinking Machines Lab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T01:20:15.737Z"
     },
     {
       "id": "25a113b5-f4ec-4e61-a20d-041fff725d7d",
