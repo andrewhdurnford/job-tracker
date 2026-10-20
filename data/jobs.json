@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-10-20T18:50:21.558Z",
+  "generatedAt": "2026-10-20T19:00:25.207Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "coinbase:8304038"
+    "affirm:8017509003",
+    "Capital One:R1002877",
+    "cloudflare:8288769",
+    "doordashusa:8304095"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 21,
-    "experienced": 2281
+    "experienced": 2283
   },
   "companies": [
     {
@@ -81,7 +84,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -593,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -788,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 266,
+      "jobCount": 267,
       "error": null,
       "stale": false
     },
@@ -936,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1012,7 +1015,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1246,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -1453,7 +1456,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -2811,7 +2814,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -2950,10 +2953,10 @@
     },
     {
       "name": "Meesho",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Melio",
@@ -5701,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002877",
+      "title": "Full Stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4_R1002877-1",
+      "postedAt": "2026-10-20T19:00:27.850Z",
+      "key": "Capital One:R1002877",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T19:00:25.207Z"
+    },
+    {
+      "id": "8288769",
+      "title": "Principal Engineer",
+      "location": "Austin, TX",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8288769?gh_jid=8288769",
+      "postedAt": "2026-10-20T18:59:29.000Z",
+      "key": "cloudflare:8288769",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T19:00:25.207Z"
+    },
+    {
+      "id": "8304095",
+      "title": "Senior Security Engineer, Protective Services",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8304095",
+      "postedAt": "2026-10-20T18:57:50.000Z",
+      "key": "doordashusa:8304095",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T19:00:25.207Z"
+    },
+    {
+      "id": "8017509003",
+      "title": "Software Engineer II, Backend (Purchasing Power - Core)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017509003",
+      "postedAt": "2026-10-20T18:53:29.000Z",
+      "key": "affirm:8017509003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-20T19:00:25.207Z"
+    },
     {
       "id": "8304038",
       "title": "Software Engineer - Crypto Data Foundations",
@@ -13621,22 +13688,6 @@
       "firstSeen": "2026-10-14T13:40:17.273Z"
     },
     {
-      "id": "R29540",
-      "title": "Principal Staff Engineer, AI Platform Research, Data Science (Remote, CAN)",
-      "location": "Canada - Remote ON",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Canada---Remote-ON/Principal-Staff-Engineer--AI-Platform-Research--Data-Science--Remote-_R29540",
-      "postedAt": "2026-10-14T12:50:21.388Z",
-      "key": "CrowdStrike:R29540",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-14T12:50:16.772Z"
-    },
-    {
       "id": "d62250a9-363c-43b0-b3de-958e3cc9f97b",
       "title": "Senior Software Engineer – AI Infrastructure",
       "location": "United Kingdom (+20 more)",
@@ -19605,22 +19656,6 @@
         "us"
       ],
       "firstSeen": "2026-10-08T23:30:55.991Z"
-    },
-    {
-      "id": "5242854007",
-      "title": "Software Engineer, ADAS Behavior Planning and Integration",
-      "location": "Newark, CA",
-      "team": null,
-      "url": "https://lucidmotors.com/careers/search/5242854007?gh_jid=5242854007",
-      "postedAt": "2026-10-08T23:15:03.000Z",
-      "key": "lucidmotors:5242854007",
-      "company": "Lucid Motors",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T23:20:16.508Z"
     },
     {
       "id": "1f99d5d3-4512-4247-aaba-3133a3dabf5a",
