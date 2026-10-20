@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-10-20T19:20:16.875Z",
+  "generatedAt": "2026-10-20T19:30:24.150Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "1password:e9f8842c-3ed3-4b89-bd55-f59cff9773cb",
-    "Adobe:R173001",
-    "openai:b6ec6e9e-e134-47b3-b413-05eca151396c"
+    "openai:0a6f6736-8743-4528-b17c-4e1f4f8ea45c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -2848,7 +2846,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -3513,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 104,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
+      "title": "Software Engineer, TPU Compilers",
+      "location": "San Francisco",
+      "team": "Workload",
+      "url": "https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
+      "postedAt": "2026-10-20T19:23:16.552Z",
+      "key": "openai:0a6f6736-8743-4528-b17c-4e1f4f8ea45c",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T19:30:24.150Z"
+    },
     {
       "id": "R173001",
       "title": "2027 Intern - Security Engineer",
@@ -34940,22 +34954,6 @@
       "firstSeen": "2026-09-28T13:50:20.720Z"
     },
     {
-      "id": "8845937002",
-      "title": "Software Engineer, Driver Earnings",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8845937002?gh_jid=8845937002",
-      "postedAt": "2026-09-28T13:46:57.000Z",
-      "key": "lyft:8845937002",
-      "company": "Lyft",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-28T13:50:20.720Z"
-    },
-    {
       "id": "ff3875c5-3dcb-4f9f-8614-c69345a857a8",
       "title": "Quality Engineer",
       "location": "Austin, TX",
@@ -36250,7 +36248,7 @@
     },
     {
       "id": "8142952",
-      "title": "Staff Software Engineer, Link - Bank Connections",
+      "title": "Staff Software Engineer, Link - Consumer Identity ",
       "location": "San Francisco, Seattle, New York",
       "team": "8560 Bank Connections - Eng",
       "url": "https://stripe.com/jobs/search?gh_jid=8142952",
