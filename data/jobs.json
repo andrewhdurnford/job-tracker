@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-10-20T12:50:17.487Z",
+  "generatedAt": "2026-10-20T13:00:25.152Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "CrowdStrike:R29629"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -593,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1291,10 +1289,10 @@
     },
     {
       "name": "Databricks",
-      "ok": true,
+      "ok": false,
       "jobCount": 7,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Datadog",
@@ -1410,10 +1408,10 @@
     },
     {
       "name": "Discord",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Docker",
@@ -1690,10 +1688,10 @@
     },
     {
       "name": "Fastly",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Fieldguide",
@@ -1921,10 +1919,10 @@
     },
     {
       "name": "Gather",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "General Proximity",
@@ -2103,10 +2101,10 @@
     },
     {
       "name": "Gusto",
-      "ok": true,
+      "ok": false,
       "jobCount": 11,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "H1",
@@ -2259,7 +2257,7 @@
       "name": "HubSpot",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3440,10 +3438,10 @@
     },
     {
       "name": "Odeko",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Odyssey",
@@ -3468,10 +3466,10 @@
     },
     {
       "name": "Okta",
-      "ok": true,
+      "ok": false,
       "jobCount": 40,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Ollama",
@@ -4238,10 +4236,10 @@
     },
     {
       "name": "Roblox",
-      "ok": true,
+      "ok": false,
       "jobCount": 55,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Roboflow",
@@ -4693,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 106,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5533,10 +5531,10 @@
     },
     {
       "name": "WithCoverage",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Wiz",
