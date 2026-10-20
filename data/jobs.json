@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-20T20:20:18.032Z",
+  "generatedAt": "2026-10-20T20:30:22.990Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "switchboard:15367021-c2bc-4b1e-be1d-191fad9b8111"
+    "Remitly:R_106587",
+    "traversal:eb92071c-71b2-4281-8d31-37cc0ecc457a"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2706,7 +2707,7 @@
     {
       "name": "LaunchDarkly",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4134,7 +4135,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4162,7 +4163,7 @@
     {
       "name": "Replit",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5163,7 +5164,7 @@
     {
       "name": "Traversal",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_106587",
+      "title": "Full Stack Software Engineer, Remitly Business",
+      "location": "Burnaby, British Columbia, Canada",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Senior-Software-Engineer_R_106587",
+      "postedAt": "2026-10-20T20:30:29.679Z",
+      "key": "Remitly:R_106587",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-20T20:30:22.990Z"
+    },
+    {
+      "id": "eb92071c-71b2-4281-8d31-37cc0ecc457a",
+      "title": "Security Engineer",
+      "location": "New York",
+      "team": "Infrastructure",
+      "url": "https://jobs.ashbyhq.com/traversal/eb92071c-71b2-4281-8d31-37cc0ecc457a",
+      "postedAt": "2026-10-20T20:27:38.903Z",
+      "key": "traversal:eb92071c-71b2-4281-8d31-37cc0ecc457a",
+      "company": "Traversal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T20:30:22.990Z"
+    },
     {
       "id": "15367021-c2bc-4b1e-be1d-191fad9b8111",
       "title": "Senior Demand Generation Manager, B2B Software",
@@ -30964,22 +30997,6 @@
       "firstSeen": "2026-09-30T18:40:19.822Z"
     },
     {
-      "id": "8008528003",
-      "title": "Senior Backend Engineer (Multiple Positions)",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8008528003",
-      "postedAt": "2026-09-30T18:27:15.000Z",
-      "key": "launchdarkly:8008528003",
-      "company": "LaunchDarkly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T18:30:57.817Z"
-    },
-    {
       "id": "8007080003",
       "title": "Backend Engineer (Multiple Positions)",
       "location": "Remote - US",
@@ -35667,22 +35684,6 @@
         "us"
       ],
       "firstSeen": "2026-09-25T23:10:15.708Z"
-    },
-    {
-      "id": "226d0562-2420-4991-ac18-23c827ed119c",
-      "title": "Engineering Manager, Site Reliability Engineering",
-      "location": "Foster City, CA",
-      "team": "SRE",
-      "url": "https://jobs.ashbyhq.com/replit/226d0562-2420-4991-ac18-23c827ed119c",
-      "postedAt": "2026-09-25T22:59:29.358Z",
-      "key": "replit:226d0562-2420-4991-ac18-23c827ed119c",
-      "company": "Replit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T23:00:24.612Z"
     },
     {
       "id": "8221208",
