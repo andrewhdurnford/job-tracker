@@ -1,22 +1,26 @@
 {
-  "generatedAt": "2026-10-20T19:10:18.897Z",
+  "generatedAt": "2026-10-20T19:20:16.875Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "1password:e9f8842c-3ed3-4b89-bd55-f59cff9773cb",
+    "Adobe:R173001",
+    "openai:b6ec6e9e-e134-47b3-b413-05eca151396c"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 145,
+    "intern": 146,
     "new-grad": 21,
-    "experienced": 2281
+    "experienced": 2283
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -65,7 +69,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 104,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,59 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R173001",
+      "title": "2027 Intern - Security Engineer",
+      "location": "San Jose",
+      "team": null,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001",
+      "postedAt": "2026-10-20T19:20:20.828Z",
+      "key": "Adobe:R173001",
+      "company": "Adobe",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T19:20:16.875Z"
+    },
+    {
+      "id": "b6ec6e9e-e134-47b3-b413-05eca151396c",
+      "title": "Manager, Deployment Lead, Forward Deployed Engineering (FDE)",
+      "location": "New York City",
+      "team": "Forward Deployed Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/b6ec6e9e-e134-47b3-b413-05eca151396c",
+      "postedAt": "2026-10-20T19:14:27.038Z",
+      "key": "openai:b6ec6e9e-e134-47b3-b413-05eca151396c",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T19:20:16.875Z"
+    },
+    {
+      "id": "e9f8842c-3ed3-4b89-bd55-f59cff9773cb",
+      "title": "Frontend Developer, Device Security",
+      "location": "Remote (United States | Canada)",
+      "team": "Technology",
+      "url": "https://jobs.ashbyhq.com/1password/e9f8842c-3ed3-4b89-bd55-f59cff9773cb",
+      "postedAt": "2026-10-20T19:13:28.677Z",
+      "key": "1password:e9f8842c-3ed3-4b89-bd55-f59cff9773cb",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-20T19:20:16.875Z"
+    },
     {
       "id": "R1002877",
       "title": "Full Stack Engineer 4",
