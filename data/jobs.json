@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-20T17:20:16.610Z",
+  "generatedAt": "2026-10-20T17:30:20.262Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "elastic:8285465",
+    "rigetti:944334a3-d671-491d-a71f-8e3323d8f8d5",
+    "suno:70bb2a0c-b32d-41ad-9848-158edd5e9bac"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 21,
-    "experienced": 2268
+    "experienced": 2271
   },
   "companies": [
     {
@@ -591,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -934,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1521,7 +1525,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4202,7 +4206,7 @@
     {
       "name": "Rigetti Quantum Computing",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4853,7 +4857,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "70bb2a0c-b32d-41ad-9848-158edd5e9bac",
+      "title": "Senior / Staff Full-Stack AI Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/suno/70bb2a0c-b32d-41ad-9848-158edd5e9bac",
+      "postedAt": "2026-10-20T17:24:13.069Z",
+      "key": "suno:70bb2a0c-b32d-41ad-9848-158edd5e9bac",
+      "company": "Suno",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T17:30:20.262Z"
+    },
     {
       "id": "dc35c792-2a48-47db-a9ea-0d15f31fda07",
       "title": "Senior / Staff AI Platform Engineer",
@@ -7860,6 +7880,22 @@
         "us"
       ],
       "firstSeen": "2026-10-19T16:40:18.453Z"
+    },
+    {
+      "id": "8285465",
+      "title": "Tech Lead, Web Development - Full Stack",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8285465&gh_jid=8285465",
+      "postedAt": "2026-10-19T16:22:21.000Z",
+      "key": "elastic:8285465",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T17:30:20.262Z"
     },
     {
       "id": "8292367",
@@ -14205,6 +14241,22 @@
         "us"
       ],
       "firstSeen": "2026-10-13T21:00:27.014Z"
+    },
+    {
+      "id": "944334a3-d671-491d-a71f-8e3323d8f8d5",
+      "title": "Network & Infrastructure Engineer",
+      "location": "Berkeley, CA or Fremont, CA",
+      "team": "Infrastructure Engineering",
+      "url": "https://jobs.lever.co/rigetti/944334a3-d671-491d-a71f-8e3323d8f8d5",
+      "postedAt": "2026-10-13T20:52:33.324Z",
+      "key": "rigetti:944334a3-d671-491d-a71f-8e3323d8f8d5",
+      "company": "Rigetti Quantum Computing",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T17:30:20.262Z"
     },
     {
       "id": "8234535",
