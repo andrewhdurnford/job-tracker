@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-20T18:30:22.899Z",
+  "generatedAt": "2026-10-20T18:40:20.515Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "datadog:8304107"
+    "anthropic:5458794008",
+    "boxinc:8236513",
+    "singlestore:8304127"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 21,
-    "experienced": 2279
+    "experienced": 2282
   },
   "companies": [
     {
@@ -305,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -676,7 +678,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4533,7 +4535,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 104,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8304127",
+      "title": "Principal Engineer, Platform Engineering",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8304127",
+      "postedAt": "2026-10-20T18:36:38.000Z",
+      "key": "singlestore:8304127",
+      "company": "SingleStore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T18:40:20.515Z"
+    },
+    {
+      "id": "8236513",
+      "title": "Software Engineer III, Events Processing",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8236513",
+      "postedAt": "2026-10-20T18:34:24.000Z",
+      "key": "boxinc:8236513",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T18:40:20.515Z"
+    },
+    {
+      "id": "5458794008",
+      "title": "Staff+ Software Engineer, Platform Safety",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458794008",
+      "postedAt": "2026-10-20T18:30:27.000Z",
+      "key": "anthropic:5458794008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T18:40:20.515Z"
+    },
     {
       "id": "8304107",
       "title": "Staff Software Engineer - Watchdog Anomaly Detection",
