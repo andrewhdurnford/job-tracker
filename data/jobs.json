@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-20T20:40:16.917Z",
+  "generatedAt": "2026-10-20T20:50:17.258Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "doordashusa:8304373",
+    "lyft:8896679002",
+    "northwoodspace:b342a75c-21a4-4e8c-962c-056031fb77e3"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 21,
-    "experienced": 2290
+    "experienced": 2293
   },
   "companies": [
     {
@@ -1451,7 +1455,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -2844,7 +2848,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -3355,7 +3359,7 @@
     {
       "name": "Northwood Space",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 103,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8304373",
+      "title": "Staff Software Engineer, Planner",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8304373",
+      "postedAt": "2026-10-20T20:47:18.000Z",
+      "key": "doordashusa:8304373",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T20:50:17.258Z"
+    },
+    {
+      "id": "b342a75c-21a4-4e8c-962c-056031fb77e3",
+      "title": "Build and Release Engineer (DevOps)",
+      "location": "Torrance, CA",
+      "team": "Infrastructure",
+      "url": "https://jobs.ashbyhq.com/northwoodspace/b342a75c-21a4-4e8c-962c-056031fb77e3",
+      "postedAt": "2026-10-20T20:41:51.590Z",
+      "key": "northwoodspace:b342a75c-21a4-4e8c-962c-056031fb77e3",
+      "company": "Northwood Space",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T20:50:17.258Z"
+    },
     {
       "id": "R_106587",
       "title": "Full Stack Software Engineer, Remitly Business",
@@ -9192,6 +9228,22 @@
         "us"
       ],
       "firstSeen": "2026-10-17T03:20:17.364Z"
+    },
+    {
+      "id": "8896679002",
+      "title": "Software Engineer",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
+      "postedAt": "2026-10-17T02:47:42.000Z",
+      "key": "lyft:8896679002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T20:50:17.258Z"
     },
     {
       "id": "8896675002",
