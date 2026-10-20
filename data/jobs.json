@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T13:40:19.555Z",
+  "generatedAt": "2026-10-20T13:50:14.831Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "maymobility:8902419002",
-    "redis:f2824628-ca39-41f0-9a1e-8b98fa7a018a"
+    "junction:5fde0881-edd8-40ff-ba9a-d6b0e4f186a0",
+    "ramp:b7514711-8a29-4bd2-a97a-967be14e336f"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 20,
-    "experienced": 2243
+    "experienced": 2244
   },
   "companies": [
     {
@@ -789,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 260,
+      "jobCount": 259,
       "error": null,
       "stale": false
     },
@@ -2525,7 +2525,7 @@
     {
       "name": "Junction",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4037,7 +4037,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,40 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5fde0881-edd8-40ff-ba9a-d6b0e4f186a0",
+      "title": "Data Scientist",
+      "location": "EDT / EST (US East Coast only) (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/junction/5fde0881-edd8-40ff-ba9a-d6b0e4f186a0",
+      "postedAt": "2026-10-20T13:40:27.626Z",
+      "key": "junction:5fde0881-edd8-40ff-ba9a-d6b0e4f186a0",
+      "company": "Junction",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-20T13:50:14.831Z"
+    },
+    {
+      "id": "b7514711-8a29-4bd2-a97a-967be14e336f",
+      "title": "Senior Backend Engineer | Token Spend Management",
+      "location": "New York, NY (HQ) (+2 more)",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f",
+      "postedAt": "2026-10-20T13:40:20.264Z",
+      "key": "ramp:b7514711-8a29-4bd2-a97a-967be14e336f",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-20T13:50:14.831Z"
+    },
     {
       "id": "8902419002",
       "title": "Senior Systems Engineer - Sensor Selection",
@@ -26903,22 +26937,6 @@
       "term": null,
       "regions": [
         "remote"
-      ],
-      "firstSeen": "2026-10-02T15:10:18.064Z"
-    },
-    {
-      "id": "R1002455",
-      "title": "Senior Manager, Software Engineering",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Senior-Manager--Software-Engineering_R1002455-1",
-      "postedAt": "2026-10-02T15:10:20.701Z",
-      "key": "Capital One:R1002455",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-10-02T15:10:18.064Z"
     },
