@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-20T22:10:27.961Z",
+  "generatedAt": "2026-10-20T22:20:17.318Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "harvey:5a27de6d-c40e-4504-92f3-e116cd3518b0"
+    "engram:3f41d270-fb50-41f0-a676-b8ebdc6faaa0",
+    "stripe:8194606"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 22,
-    "experienced": 2294
+    "experienced": 2296
   },
   "companies": [
     {
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1586,7 +1587,7 @@
     {
       "name": "Engram",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2917,7 +2918,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4799,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3f41d270-fb50-41f0-a676-b8ebdc6faaa0",
+      "title": "Infrastructure Engineer, Security",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/engram/3f41d270-fb50-41f0-a676-b8ebdc6faaa0",
+      "postedAt": "2026-10-20T22:12:57.737Z",
+      "key": "engram:3f41d270-fb50-41f0-a676-b8ebdc6faaa0",
+      "company": "Engram",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T22:20:17.318Z"
+    },
     {
       "id": "5a27de6d-c40e-4504-92f3-e116cd3518b0",
       "title": "Engineering Manager, AI Platform",
@@ -41905,6 +41922,22 @@
         "us"
       ],
       "firstSeen": "2026-09-22T19:50:18.035Z"
+    },
+    {
+      "id": "8194606",
+      "title": "Frontend Engineer, Data Product Experiences",
+      "location": "US",
+      "team": "8122 Data Foundations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8194606",
+      "postedAt": "2026-09-22T19:31:09.000Z",
+      "key": "stripe:8194606",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T22:20:17.318Z"
     },
     {
       "id": "ac442f1f-c0d2-4608-a155-bfc89190e01c",
