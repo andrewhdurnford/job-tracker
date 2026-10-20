@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-20T17:40:16.139Z",
+  "generatedAt": "2026-10-20T17:50:17.138Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "hex:b3921203-d928-40ac-9675-a58a9cdbaafa",
-    "roblox:8292678"
+    "block:5453088008",
+    "coinbase:8233500",
+    "Nvidia:JR2021476"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 21,
-    "experienced": 2272
+    "experienced": 2274
   },
   "companies": [
     {
@@ -594,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -614,7 +615,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -937,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1055,7 +1056,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 104,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2021476",
+      "title": "ECAD PCB Tools Developer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ECAD-PCB-Tools-Developer_JR2021476",
+      "postedAt": "2026-10-20T17:50:20.950Z",
+      "key": "Nvidia:JR2021476",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T17:50:17.138Z"
+    },
+    {
+      "id": "5453088008",
+      "title": "Senior Software Engineer — Employee Experience Engineering (EXE)",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5453088008?gh_jid=5453088008",
+      "postedAt": "2026-10-20T17:46:42.000Z",
+      "key": "block:5453088008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T17:50:17.138Z"
+    },
+    {
+      "id": "8233500",
+      "title": "Staff Software Engineer, Developer Infrastructure",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8233500?gh_jid=8233500",
+      "postedAt": "2026-10-20T17:40:41.000Z",
+      "key": "coinbase:8233500",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-20T17:50:17.138Z"
+    },
     {
       "id": "8292678",
       "title": "Principal Software Engineer",
@@ -40661,22 +40710,6 @@
         "us"
       ],
       "firstSeen": "2026-10-14T20:40:17.232Z"
-    },
-    {
-      "id": "JR2026206",
-      "title": "Senior Firmware Verification Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Verification-Engineer_JR2026206",
-      "postedAt": "2026-09-23T04:10:22.936Z",
-      "key": "Nvidia:JR2026206",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T04:10:19.132Z"
     },
     {
       "id": "JR2026405",
