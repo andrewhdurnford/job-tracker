@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-21T06:00:24.286Z",
+  "generatedAt": "2026-10-21T06:10:15.778Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "etched:5e24c2af-4911-43be-b961-9396d40ad473",
-    "mach9:b5aaabd0-d286-440c-8e95-c650fceb0fa8"
+    "Nvidia:JR2026530",
+    "xai:5205879007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 147,
+    "intern": 148,
     "new-grad": 22,
-    "experienced": 2312
+    "experienced": 2313
   },
   "companies": [
     {
@@ -594,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3428,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 132,
+      "jobCount": 133,
       "error": null,
       "stale": false
     },
@@ -5584,7 +5584,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026530",
+      "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+      "postedAt": "2026-10-21T06:10:19.479Z",
+      "key": "Nvidia:JR2026530",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T06:10:15.778Z"
+    },
+    {
+      "id": "5205879007",
+      "title": "Security Engineer - GRC Sales",
+      "location": " Palo Alto, CA; New York, NY; Washington, DC",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5205879007",
+      "postedAt": "2026-10-21T06:07:01.000Z",
+      "key": "xai:5205879007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T06:10:15.778Z"
+    },
     {
       "id": "5e24c2af-4911-43be-b961-9396d40ad473",
       "title": "Research Engineer, RL Frontiers",
