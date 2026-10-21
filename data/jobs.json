@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-21T05:50:18.174Z",
+  "generatedAt": "2026-10-21T06:00:24.286Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "etched:5e24c2af-4911-43be-b961-9396d40ad473",
+    "mach9:b5aaabd0-d286-440c-8e95-c650fceb0fa8"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 22,
-    "experienced": 2310
+    "experienced": 2312
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1626,7 +1629,7 @@
     {
       "name": "Etched",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2851,7 +2854,7 @@
     {
       "name": "Mach9",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5e24c2af-4911-43be-b961-9396d40ad473",
+      "title": "Research Engineer, RL Frontiers",
+      "location": "San Jose",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/etched/5e24c2af-4911-43be-b961-9396d40ad473",
+      "postedAt": "2026-10-21T05:53:14.848Z",
+      "key": "etched:5e24c2af-4911-43be-b961-9396d40ad473",
+      "company": "Etched",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T06:00:24.286Z"
+    },
+    {
+      "id": "b5aaabd0-d286-440c-8e95-c650fceb0fa8",
+      "title": "Software Engineer - 3D Graphics",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mach9/b5aaabd0-d286-440c-8e95-c650fceb0fa8",
+      "postedAt": "2026-10-21T05:51:14.813Z",
+      "key": "mach9:b5aaabd0-d286-440c-8e95-c650fceb0fa8",
+      "company": "Mach9",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T06:00:24.286Z"
+    },
     {
       "id": "30562",
       "title": "Sr. Manager, Engineering - Account Provisioning and Settings",
