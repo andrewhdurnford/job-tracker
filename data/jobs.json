@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-21T20:00:26.061Z",
+  "generatedAt": "2026-10-21T20:10:18.046Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "formationbio:8310673",
-    "formationbio:8306480",
-    "openai:8ac9a248-4069-45cc-a00e-82f22f1e7ed2"
+    "airbnb:8274152",
+    "pinecone:08760530-e6c3-4167-9272-923d85a2388d",
+    "reddit:8204924",
+    "saronic:d5f30d63-303c-4899-8d68-c248c8d7905b"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 18,
-    "experienced": 2305
+    "experienced": 2309
   },
   "companies": [
     {
@@ -118,7 +119,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -2035,10 +2036,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -3085,10 +3086,10 @@
     },
     {
       "name": "Mistral AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mixpanel",
@@ -3744,7 +3745,7 @@
     {
       "name": "Pinecone",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4108,7 +4109,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4367,7 +4368,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8274152",
+      "title": "Software Engineer, Payments",
+      "location": "Remote, USA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8274152?gh_jid=8274152",
+      "postedAt": "2026-10-21T20:01:47.000Z",
+      "key": "airbnb:8274152",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T20:10:18.046Z"
+    },
+    {
+      "id": "8204924",
+      "title": "Staff Backend Engineer, User Safety",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8204924",
+      "postedAt": "2026-10-21T20:01:38.000Z",
+      "key": "reddit:8204924",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T20:10:18.046Z"
+    },
+    {
+      "id": "08760530-e6c3-4167-9272-923d85a2388d",
+      "title": "Full-Stack Software Engineer, Experience",
+      "location": "New York City",
+      "team": "Experience",
+      "url": "https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d",
+      "postedAt": "2026-10-21T20:01:29.020Z",
+      "key": "pinecone:08760530-e6c3-4167-9272-923d85a2388d",
+      "company": "Pinecone",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T20:10:18.046Z"
+    },
+    {
+      "id": "d5f30d63-303c-4899-8d68-c248c8d7905b",
+      "title": "Senior Systems Test Software Engineer",
+      "location": "Austin, TX (+1 more)",
+      "team": "Software Eng",
+      "url": "https://jobs.ashbyhq.com/saronic/d5f30d63-303c-4899-8d68-c248c8d7905b",
+      "postedAt": "2026-10-21T20:00:45.998Z",
+      "key": "saronic:d5f30d63-303c-4899-8d68-c248c8d7905b",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T20:10:18.046Z"
+    },
     {
       "id": "8ac9a248-4069-45cc-a00e-82f22f1e7ed2",
       "title": "Manager, Cyber - Applied AI Architect ",
