@@ -1,20 +1,21 @@
 {
-  "generatedAt": "2026-10-21T15:50:16.946Z",
+  "generatedAt": "2026-10-21T16:00:24.901Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "cerebras:b418fbca-9a33-4ac5-adb3-24dd57b1c678",
-    "Remitly:R_107041",
-    "zscaler:5255854007"
+    "DocuSign:30470",
+    "DocuSign:30488",
+    "DocuSign:30496",
+    "Remitly:R_107039"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 148,
+    "intern": 151,
     "new-grad": 21,
-    "experienced": 2309
+    "experienced": 2308
   },
   "companies": [
     {
@@ -595,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -845,10 +846,10 @@
     },
     {
       "name": "Carvana",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Casca",
@@ -1014,7 +1015,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -1427,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 134,
+      "jobCount": 133,
       "error": null,
       "stale": false
     },
@@ -4136,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4590,10 +4591,10 @@
     },
     {
       "name": "Smartcuts",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Smartsheet",
@@ -4695,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 103,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5704,6 +5705,70 @@
   ],
   "jobs": [
     {
+      "id": "R_107039",
+      "title": "Senior Data Engineer",
+      "location": "Arlington Virginia, United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Senior-Data-Engineer_R_107039",
+      "postedAt": "2026-10-21T16:00:28.529Z",
+      "key": "Remitly:R_107039",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T16:00:24.901Z"
+    },
+    {
+      "id": "30470",
+      "title": "Software Engineer Intern",
+      "location": "US-Chicago",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30470/login",
+      "postedAt": "2026-10-21T15:58:00.000Z",
+      "key": "DocuSign:30470",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T16:00:24.901Z"
+    },
+    {
+      "id": "30488",
+      "title": "Software Engineer Intern",
+      "location": "US-Seattle-3rd",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30488/login",
+      "postedAt": "2026-10-21T15:57:00.000Z",
+      "key": "DocuSign:30488",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T16:00:24.901Z"
+    },
+    {
+      "id": "30496",
+      "title": "Software Engineer Intern",
+      "location": "US-Seattle-3rd",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30496/login",
+      "postedAt": "2026-10-21T15:55:00.000Z",
+      "key": "DocuSign:30496",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T16:00:24.901Z"
+    },
+    {
       "id": "R_107041",
       "title": "Senior Software Engineer",
       "location": "Seattle, Washington United States",
@@ -5767,22 +5832,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-21T15:30:21.136Z"
-    },
-    {
-      "id": "JR2028171",
-      "title": "Executive Assistant, Developer and Performance Technology",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Executive-Assistant--Developer-and-Performance-Technology_JR2028171-1",
-      "postedAt": "2026-10-21T15:25:16.251Z",
-      "key": "Nvidia:JR2028171",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T15:25:12.832Z"
     },
     {
       "id": "8257486",
@@ -45022,22 +45071,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T16:10:22.091Z"
-    },
-    {
-      "id": "8157281",
-      "title": "Staff Software Engineer - Integrated Network Strategy",
-      "location": "Austin, TX (+2 more)",
-      "team": "Engineering",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8157281?gh_jid=8157281",
-      "postedAt": "2026-09-21T15:52:41.000Z",
-      "key": "cloudflare:8157281",
-      "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T00:57:47.551Z"
     },
     {
       "id": "8827511002",
