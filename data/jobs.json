@@ -1,20 +1,22 @@
 {
-  "generatedAt": "2026-10-21T21:40:18.141Z",
+  "generatedAt": "2026-10-21T21:50:16.798Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "pronto:8907586002",
-    "shieldai:1f75db58-5185-48ce-888a-ae0074214b63",
-    "shieldai:c572c4ac-5a16-40a7-ad56-aee3ebead2ef"
+    "elastic:8249255",
+    "pronto:8907609002",
+    "shieldai:427ac807-bc6a-4e8c-8f15-8322880ffcaf",
+    "supabase:7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+    "zscaler:5269992007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 144,
+    "intern": 143,
     "new-grad": 19,
-    "experienced": 2311
+    "experienced": 2316
   },
   "companies": [
     {
@@ -1525,7 +1527,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -2919,7 +2921,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3926,7 +3928,7 @@
     {
       "name": "Pronto",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4472,7 +4474,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 52,
+      "jobCount": 53,
       "error": null,
       "stale": false
     },
@@ -4864,7 +4866,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5482,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 53,
+      "jobCount": 52,
       "error": null,
       "stale": false
     },
@@ -5690,7 +5692,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5705,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5269992007",
+      "title": "Senior Manager, Software Development Engineering",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5269992007",
+      "postedAt": "2026-10-21T21:48:09.000Z",
+      "key": "zscaler:5269992007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:50:16.798Z"
+    },
+    {
+      "id": "7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+      "title": "Software Engineer - Turso",
+      "location": "Remote, Global",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+      "postedAt": "2026-10-21T21:46:43.334Z",
+      "key": "supabase:7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+      "company": "Supabase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-21T21:50:16.798Z"
+    },
+    {
+      "id": "8249255",
+      "title": "Senior Software Engineer - Platform Billing Core",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8249255&gh_jid=8249255",
+      "postedAt": "2026-10-21T21:44:39.000Z",
+      "key": "elastic:8249255",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:50:16.798Z"
+    },
+    {
+      "id": "427ac807-bc6a-4e8c-8f15-8322880ffcaf",
+      "title": "Staff Engineer, Test Automation - San Mateo (R5792)",
+      "location": "San Mateo, California",
+      "team": "Quality",
+      "url": "https://jobs.lever.co/shieldai/427ac807-bc6a-4e8c-8f15-8322880ffcaf",
+      "postedAt": "2026-10-21T21:43:26.294Z",
+      "key": "shieldai:427ac807-bc6a-4e8c-8f15-8322880ffcaf",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:50:16.798Z"
+    },
     {
       "id": "1f75db58-5185-48ce-888a-ae0074214b63",
       "title": "Senior Engineer, Autonomy Software Integration - San Mateo (R6246)",
@@ -5734,6 +5800,22 @@
         "us"
       ],
       "firstSeen": "2026-10-21T21:40:18.141Z"
+    },
+    {
+      "id": "8907609002",
+      "title": "Staff Software Engineer - Vehicle & Hardware Security",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pronto/jobs/8907609002",
+      "postedAt": "2026-10-21T21:25:20.000Z",
+      "key": "pronto:8907609002",
+      "company": "Pronto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:50:16.798Z"
     },
     {
       "id": "1f8803d4-b87b-42a2-aa2a-85de9655702a",
@@ -44665,28 +44747,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T21:50:18.738Z"
-    },
-    {
-      "id": "8221851",
-      "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
-      "location": "Mountain View, California, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
-      "postedAt": "2026-09-21T21:40:43.000Z",
-      "key": "waymo:8221851",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T22:40:17.574Z"
     },
     {
       "id": "R1001465",
