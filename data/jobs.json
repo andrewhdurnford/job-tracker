@@ -1,18 +1,20 @@
 {
-  "generatedAt": "2026-10-21T21:30:21.449Z",
+  "generatedAt": "2026-10-21T21:40:18.141Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "shieldai:1f8803d4-b87b-42a2-aa2a-85de9655702a"
+    "pronto:8907586002",
+    "shieldai:1f75db58-5185-48ce-888a-ae0074214b63",
+    "shieldai:c572c4ac-5a16-40a7-ad56-aee3ebead2ef"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 145,
+    "intern": 144,
     "new-grad": 19,
-    "experienced": 2308
+    "experienced": 2311
   },
   "companies": [
     {
@@ -985,7 +987,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2917,7 +2919,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3924,7 +3926,7 @@
     {
       "name": "Pronto",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4470,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 52,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 54,
+      "jobCount": 53,
       "error": null,
       "stale": false
     },
@@ -5702,8 +5704,40 @@
   ],
   "jobs": [
     {
+      "id": "1f75db58-5185-48ce-888a-ae0074214b63",
+      "title": "Senior Engineer, Autonomy Software Integration - San Mateo (R6246)",
+      "location": "San Mateo, California",
+      "team": "Quality",
+      "url": "https://jobs.lever.co/shieldai/1f75db58-5185-48ce-888a-ae0074214b63",
+      "postedAt": "2026-10-21T21:38:18.827Z",
+      "key": "shieldai:1f75db58-5185-48ce-888a-ae0074214b63",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:40:18.141Z"
+    },
+    {
+      "id": "c572c4ac-5a16-40a7-ad56-aee3ebead2ef",
+      "title": "Staff Engineer, Autonomy Software Integration - San Mateo (R4483)",
+      "location": "San Mateo, California",
+      "team": "Quality",
+      "url": "https://jobs.lever.co/shieldai/c572c4ac-5a16-40a7-ad56-aee3ebead2ef",
+      "postedAt": "2026-10-21T21:32:58.220Z",
+      "key": "shieldai:c572c4ac-5a16-40a7-ad56-aee3ebead2ef",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:40:18.141Z"
+    },
+    {
       "id": "1f8803d4-b87b-42a2-aa2a-85de9655702a",
-      "title": "Manager, Engineering - Software Integration, San Mateo (R5237)",
+      "title": "Manager, Engineering - Software Integration - San Mateo (R5237)",
       "location": "San Mateo, California",
       "team": "Quality",
       "url": "https://jobs.lever.co/shieldai/1f8803d4-b87b-42a2-aa2a-85de9655702a",
@@ -5812,6 +5846,22 @@
         "us"
       ],
       "firstSeen": "2026-10-21T21:10:16.233Z"
+    },
+    {
+      "id": "8907586002",
+      "title": "Senior Software Engineer - Cloud & Platform Security",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pronto/jobs/8907586002",
+      "postedAt": "2026-10-21T20:58:23.000Z",
+      "key": "pronto:8907586002",
+      "company": "Pronto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:40:18.141Z"
     },
     {
       "id": "451bfa6d-b429-450f-b272-5a77d52cf384",
@@ -44624,28 +44674,6 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
       "postedAt": "2026-09-21T21:40:43.000Z",
       "key": "waymo:8221851",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T22:40:17.574Z"
-    },
-    {
-      "id": "8221795",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
-      "location": "Mountain View, California, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
-      "postedAt": "2026-09-21T21:30:27.000Z",
-      "key": "waymo:8221795",
       "company": "Waymo",
       "level": "intern",
       "term": {
