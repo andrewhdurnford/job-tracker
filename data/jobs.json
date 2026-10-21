@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-21T22:10:16.590Z",
+  "generatedAt": "2026-10-21T22:20:16.353Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "elastic:8249252",
-    "reddit:8311209"
+    "DocuSign:30561"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 143,
     "new-grad": 19,
-    "experienced": 2312
+    "experienced": 2310
   },
   "companies": [
     {
@@ -594,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -614,7 +613,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -937,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -992,7 +991,7 @@
     {
       "name": "ClickUp",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1426,7 +1425,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -1756,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4233,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "30561",
+      "title": "Software Engineer",
+      "location": "US-Seattle-3rd",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30561/login",
+      "postedAt": "2026-10-21T22:12:00.000Z",
+      "key": "DocuSign:30561",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T22:20:16.353Z"
+    },
     {
       "id": "8249252",
       "title": "Senior Software Engineer - Platform Billing Experience",
@@ -32697,22 +32712,6 @@
       "firstSeen": "2026-09-30T18:50:24.167Z"
     },
     {
-      "id": "5434157008",
-      "title": "AI Evaluation Infrastructure Engineer",
-      "location": "Bay Area, CA, United States of America",
-      "team": null,
-      "url": "http://block.xyz/careers/jobs/5434157008?gh_jid=5434157008",
-      "postedAt": "2026-09-30T18:33:32.000Z",
-      "key": "block:5434157008",
-      "company": "Block",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T18:40:19.822Z"
-    },
-    {
       "id": "8007080003",
       "title": "Backend Engineer (Multiple Positions)",
       "location": "Remote - US",
@@ -44616,38 +44615,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T22:40:17.574Z"
-    },
-    {
-      "id": "c05accb5-2a6f-457b-b2f6-a0bd3879e90c",
-      "title": "Manager, Software Engineering - Developer Experience",
-      "location": "United States",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/clickup/c05accb5-2a6f-457b-b2f6-a0bd3879e90c",
-      "postedAt": "2026-09-21T22:12:58.745Z",
-      "key": "clickup:c05accb5-2a6f-457b-b2f6-a0bd3879e90c",
-      "company": "ClickUp",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T22:20:19.938Z"
-    },
-    {
-      "id": "8188665",
-      "title": "Staff Software Engineer, Brokerage Infra",
-      "location": "Menlo Park, CA; New York, NY",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8188665?t=gh_src=&gh_jid=8188665",
-      "postedAt": "2026-09-21T22:11:27.000Z",
-      "key": "robinhood:8188665",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T17:50:16.235Z"
     },
     {
       "id": "JR2025923",
