@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-10-21T19:00:26.093Z",
+  "generatedAt": "2026-10-21T19:10:16.863Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "epicgames:6200691004",
-    "snowflake:143a2248-564b-4cfa-85f5-d47bac911d74",
-    "zapier:7683bf9a-cb86-47de-a15b-4bcc0b70e2e2"
+    "anthropic:5459098008",
+    "epicgames:6180210004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +13,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 19,
-    "experienced": 2300
+    "experienced": 2299
   },
   "companies": [
     {
@@ -307,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -595,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -938,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1350,7 +1349,7 @@
     {
       "name": "Decagon",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1616,7 +1615,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -4345,10 +4344,10 @@
     },
     {
       "name": "Sandbox VR",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sandstone",
@@ -4640,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6180210004",
+      "title": "Senior Machine Learning Engineer, Discovery Recommendations",
+      "location": "Cary,North Carolina,United States",
+      "team": "Engineering Specialist",
+      "url": "https://epicgames.com/careers/jobs/6180210004?gh_jid=6180210004",
+      "postedAt": "2026-10-21T19:08:10.000Z",
+      "key": "epicgames:6180210004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T19:10:16.863Z"
+    },
+    {
+      "id": "5459098008",
+      "title": "Research Engineer, Chip Design RL",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
+      "postedAt": "2026-10-21T19:04:35.000Z",
+      "key": "anthropic:5459098008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T19:10:16.863Z"
+    },
     {
       "id": "143a2248-564b-4cfa-85f5-d47bac911d74",
       "title": "Senior Infrastructure Engineer, Observe by Snowflake",
@@ -44655,38 +44686,6 @@
       "firstSeen": "2026-09-21T19:10:21.819Z"
     },
     {
-      "id": "59330f7d-3489-40c1-bff1-60e95d56b112",
-      "title": "Senior Software Engineer, Platform Security",
-      "location": "San Francisco (+1 more)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/decagon/59330f7d-3489-40c1-bff1-60e95d56b112",
-      "postedAt": "2026-09-21T19:05:21.086Z",
-      "key": "decagon:59330f7d-3489-40c1-bff1-60e95d56b112",
-      "company": "Decagon",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T19:10:21.819Z"
-    },
-    {
-      "id": "9cf2db48-bfc8-4819-874c-785925bdfb86",
-      "title": "Senior Software Engineer, Application Security",
-      "location": "San Francisco (+1 more)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/decagon/9cf2db48-bfc8-4819-874c-785925bdfb86",
-      "postedAt": "2026-09-21T19:04:54.687Z",
-      "key": "decagon:9cf2db48-bfc8-4819-874c-785925bdfb86",
-      "company": "Decagon",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T19:10:21.819Z"
-    },
-    {
       "id": "R1001304",
       "title": "Full-stack Engineer 4",
       "location": "Plano, TX",
@@ -45229,22 +45228,6 @@
         "us"
       ],
       "firstSeen": "2026-09-10T01:40:17.256Z"
-    },
-    {
-      "id": "9e0ae021-f264-4efb-bc80-26c04bd06df6",
-      "title": "Senior/Staff System Research Engineer – LLM Inference Optimization",
-      "location": "US-WA-Bellevue (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/9e0ae021-f264-4efb-bc80-26c04bd06df6",
-      "postedAt": "2026-09-09T23:46:08.570Z",
-      "key": "snowflake:9e0ae021-f264-4efb-bc80-26c04bd06df6",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-09T23:50:16.656Z"
     },
     {
       "id": "R29328",
