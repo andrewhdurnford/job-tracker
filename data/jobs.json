@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-10-21T16:20:17.905Z",
+  "generatedAt": "2026-10-21T16:30:22.702Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Capital One:R1002855"
+    "cribl:6225090004",
+    "epicgames:6208099004",
+    "epicgames:6208097004",
+    "handshake:b99dd0a6-11f9-4d42-b8f7-970c32d4cd75",
+    "tanium:8232146"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 151,
     "new-grad": 21,
-    "experienced": 2306
+    "experienced": 2309
   },
   "companies": [
     {
@@ -1229,7 +1233,7 @@
     {
       "name": "Cribl",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1614,7 +1618,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2067,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2146,7 +2150,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3771,7 +3775,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4001,7 +4005,7 @@
     {
       "name": "Quicknode",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4974,7 +4978,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8232146",
+      "title": "AI Research Scientist",
+      "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8232146",
+      "postedAt": "2026-10-21T16:30:12.000Z",
+      "key": "tanium:8232146",
+      "company": "Tanium",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T16:30:22.702Z"
+    },
+    {
+      "id": "6208099004",
+      "title": "SDET",
+      "location": "Bellevue,Washington,United States",
+      "team": "QA",
+      "url": "https://epicgames.com/careers/jobs/6208099004?gh_jid=6208099004",
+      "postedAt": "2026-10-21T16:25:05.000Z",
+      "key": "epicgames:6208099004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T16:30:22.702Z"
+    },
+    {
+      "id": "6208097004",
+      "title": "SDET",
+      "location": "Cary,North Carolina,United States",
+      "team": "QA",
+      "url": "https://epicgames.com/careers/jobs/6208097004?gh_jid=6208097004",
+      "postedAt": "2026-10-21T16:25:03.000Z",
+      "key": "epicgames:6208097004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T16:30:22.702Z"
+    },
+    {
+      "id": "6225090004",
+      "title": "Sr. Staff Engineer, Security AI-SOC",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://cribl.io/job-detail/?gh_jid=6225090004",
+      "postedAt": "2026-10-21T16:22:51.000Z",
+      "key": "cribl:6225090004",
+      "company": "Cribl",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T16:30:22.702Z"
+    },
+    {
+      "id": "b99dd0a6-11f9-4d42-b8f7-970c32d4cd75",
+      "title": "Senior Software Engineer, Growth",
+      "location": "San Francisco, CA",
+      "team": "Careers Engineering",
+      "url": "https://jobs.ashbyhq.com/handshake/b99dd0a6-11f9-4d42-b8f7-970c32d4cd75",
+      "postedAt": "2026-10-21T16:21:25.310Z",
+      "key": "handshake:b99dd0a6-11f9-4d42-b8f7-970c32d4cd75",
+      "company": "Handshake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T16:30:22.702Z"
+    },
     {
       "id": "R1002855",
       "title": "Full-Stack Engineer 4 (Mobile)",
@@ -45003,38 +45087,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T00:20:18.396Z"
-    },
-    {
-      "id": "f5d45c23-66d6-47bf-950c-d1ee1b3965da",
-      "title": "Senior Software Engineer - Go",
-      "location": "United States (+1 more)",
-      "team": "Core API Platform",
-      "url": "https://jobs.ashbyhq.com/quicknode/f5d45c23-66d6-47bf-950c-d1ee1b3965da",
-      "postedAt": "2026-09-21T16:23:04.703Z",
-      "key": "quicknode:f5d45c23-66d6-47bf-950c-d1ee1b3965da",
-      "company": "Quicknode",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T16:30:25.016Z"
-    },
-    {
-      "id": "b81545ab-8cb3-44d2-b98b-b29a8d4c15ea",
-      "title": "Senior Software Engineer - Go & Rust, Blockchain Infrastructure",
-      "location": "United States (+1 more)",
-      "team": "Build",
-      "url": "https://jobs.ashbyhq.com/quicknode/b81545ab-8cb3-44d2-b98b-b29a8d4c15ea",
-      "postedAt": "2026-09-21T16:22:40.248Z",
-      "key": "quicknode:b81545ab-8cb3-44d2-b98b-b29a8d4c15ea",
-      "company": "Quicknode",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T16:30:25.016Z"
     },
     {
       "id": "8827511002",
