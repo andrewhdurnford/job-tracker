@@ -1,19 +1,21 @@
 {
-  "generatedAt": "2026-10-21T17:10:18.389Z",
+  "generatedAt": "2026-10-21T17:20:16.240Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "roblox:8238467",
-    "roblox:8244812"
+    "laika:8306538",
+    "Nvidia:JR2028394",
+    "spacex:8694609002",
+    "temporal:27c50970-e919-4803-9acc-e1ebc854f3f7"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 152,
+    "intern": 148,
     "new-grad": 21,
-    "experienced": 2306
+    "experienced": 2309
   },
   "companies": [
     {
@@ -1426,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -1565,10 +1567,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -1972,7 +1974,7 @@
     {
       "name": "GiveCampus",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2665,7 +2667,7 @@
     {
       "name": "LAIKA",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 134,
+      "jobCount": 135,
       "error": null,
       "stale": false
     },
@@ -4534,7 +4536,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4695,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 103,
+      "jobCount": 104,
       "error": null,
       "stale": false
     },
@@ -5024,7 +5026,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5359,10 +5361,10 @@
     },
     {
       "name": "Verifiable",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Veritus",
@@ -5479,7 +5481,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 57,
+      "jobCount": 56,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028394",
+      "title": "System Software Engineer – Data Center GPU Compute Diagnostics",
+      "location": "US, NC, Durham",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/System-Software-Engineer---Data-Center-GPU-Compute-Diagnostics_JR2028394",
+      "postedAt": "2026-10-21T17:20:20.568Z",
+      "key": "Nvidia:JR2028394",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T17:20:16.240Z"
+    },
+    {
+      "id": "8306538",
+      "title": "Sr Media Systems Engineer",
+      "location": "Hillsboro, OR",
+      "team": null,
+      "url": "https://www.laika.com/careers/job-listing?jobid=8306538&gh_jid=8306538",
+      "postedAt": "2026-10-21T17:15:09.000Z",
+      "key": "laika:8306538",
+      "company": "LAIKA",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T17:20:16.240Z"
+    },
+    {
+      "id": "8694609002",
+      "title": "Data Engineer (Starlink Mobile)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8694609002?gh_jid=8694609002",
+      "postedAt": "2026-10-21T17:12:59.000Z",
+      "key": "spacex:8694609002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T17:20:16.240Z"
+    },
+    {
+      "id": "27c50970-e919-4803-9acc-e1ebc854f3f7",
+      "title": "Senior Manager, Developer Advocacy (NAMER)",
+      "location": "San Francisco, California",
+      "team": "Developer Relations",
+      "url": "https://jobs.ashbyhq.com/temporal/27c50970-e919-4803-9acc-e1ebc854f3f7",
+      "postedAt": "2026-10-21T17:10:46.626Z",
+      "key": "temporal:27c50970-e919-4803-9acc-e1ebc854f3f7",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T17:20:16.240Z"
+    },
     {
       "id": "8238467",
       "title": "Senior Software Engineer, Engine Harmony",
@@ -21385,22 +21451,6 @@
       "firstSeen": "2026-10-08T20:40:52.406Z"
     },
     {
-      "id": "30478",
-      "title": "Software Engineer Intern",
-      "location": "US-Seattle-3rd",
-      "team": "University",
-      "url": "https://uscareers-docusign.icims.com/jobs/30478/login",
-      "postedAt": "2026-10-08T20:34:00.000Z",
-      "key": "DocuSign:30478",
-      "company": "DocuSign",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T20:40:52.406Z"
-    },
-    {
       "id": "4432119009",
       "title": "Production Quality Engineer",
       "location": "Torrance, California, United States",
@@ -26024,7 +26074,7 @@
     },
     {
       "id": "f33184f4-52ef-4b75-b644-2a7d6d525118",
-      "title": "Software Engineer - Forward Deployed",
+      "title": "Forward Deployed Software Engineer",
       "location": "Austin, TX",
       "team": "Forward Deployable Eng",
       "url": "https://jobs.ashbyhq.com/saronic/f33184f4-52ef-4b75-b644-2a7d6d525118",
@@ -26056,7 +26106,7 @@
     },
     {
       "id": "4bd52e96-1903-4d2a-8e04-0e4d8851059e",
-      "title": "Software Engineer - Forward Deployed",
+      "title": "Forward Deployed Software Engineer",
       "location": "San Diego, CA",
       "team": "Forward Deployable Eng",
       "url": "https://jobs.ashbyhq.com/saronic/4bd52e96-1903-4d2a-8e04-0e4d8851059e",
@@ -37057,28 +37107,6 @@
       "firstSeen": "2026-09-25T20:40:16.845Z"
     },
     {
-      "id": "8224900",
-      "title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900",
-      "postedAt": "2026-09-25T20:20:21.000Z",
-      "key": "waymo:8224900",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T20:30:24.205Z"
-    },
-    {
       "id": "8005730003",
       "title": "Software Engineer - HIL",
       "location": "Austin, Texas, United States; South San Francisco, California, United States",
@@ -44924,54 +44952,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T17:30:22.638Z"
-    },
-    {
-      "id": "8220919",
-      "title": "MIT- Software Engineer Intern | Engine",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220919",
-      "postedAt": "2026-09-21T17:19:23.000Z",
-      "key": "singlestore:8220919",
-      "company": "SingleStore",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T22:20:19.938Z"
-    },
-    {
-      "id": "8220941",
-      "title": "MIT- Software Engineer Intern | Helios",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220941",
-      "postedAt": "2026-09-21T17:13:38.000Z",
-      "key": "singlestore:8220941",
-      "company": "SingleStore",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T18:10:20.913Z"
-    },
-    {
-      "id": "4412861009",
-      "title": "Site Reliability Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/givecampus/jobs/4412861009",
-      "postedAt": "2026-09-21T17:11:56.000Z",
-      "key": "givecampus:4412861009",
-      "company": "GiveCampus",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T18:10:20.913Z"
     },
     {
       "id": "R1001268",
