@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-21T18:50:15.856Z",
+  "generatedAt": "2026-10-21T19:00:26.093Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "epicgames:6200691004",
+    "snowflake:143a2248-564b-4cfa-85f5-d47bac911d74",
+    "zapier:7683bf9a-cb86-47de-a15b-4bcc0b70e2e2"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 19,
-    "experienced": 2297
+    "experienced": 2300
   },
   "companies": [
     {
@@ -591,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1612,7 +1616,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4341,10 +4345,10 @@
     },
     {
       "name": "Sandbox VR",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sandstone",
@@ -4636,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -5616,7 +5620,7 @@
     {
       "name": "Zapier",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "143a2248-564b-4cfa-85f5-d47bac911d74",
+      "title": "Senior Infrastructure Engineer, Observe by Snowflake",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74",
+      "postedAt": "2026-10-21T18:56:09.350Z",
+      "key": "snowflake:143a2248-564b-4cfa-85f5-d47bac911d74",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T19:00:26.093Z"
+    },
+    {
+      "id": "6200691004",
+      "title": "Senior QA Engineer",
+      "location": "Cary,North Carolina,United States",
+      "team": "QA",
+      "url": "https://epicgames.com/careers/jobs/6200691004?gh_jid=6200691004",
+      "postedAt": "2026-10-21T18:56:00.000Z",
+      "key": "epicgames:6200691004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T19:00:26.093Z"
+    },
+    {
+      "id": "7683bf9a-cb86-47de-a15b-4bcc0b70e2e2",
+      "title": "Sr. Engineer, Infrastructure Security",
+      "location": "NAMER (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/zapier/7683bf9a-cb86-47de-a15b-4bcc0b70e2e2",
+      "postedAt": "2026-10-21T18:55:28.664Z",
+      "key": "zapier:7683bf9a-cb86-47de-a15b-4bcc0b70e2e2",
+      "company": "Zapier",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T19:00:26.093Z"
+    },
     {
       "id": "c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
       "title": "Senior Backend Engineer | Accounting",
