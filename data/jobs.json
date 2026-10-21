@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-21T15:40:18.682Z",
+  "generatedAt": "2026-10-21T15:50:16.946Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Visa:REF089579W"
+    "cerebras:b418fbca-9a33-4ac5-adb3-24dd57b1c678",
+    "Remitly:R_107041",
+    "zscaler:5255854007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -312,7 +314,7 @@
     {
       "name": "Anyscale",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -593,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -865,7 +867,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2636,7 +2638,7 @@
     {
       "name": "Kraken",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5688,7 +5690,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107041",
+      "title": "Senior Software Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Engineer_R_107041-1",
+      "postedAt": "2026-10-21T15:50:20.273Z",
+      "key": "Remitly:R_107041",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T15:50:16.946Z"
+    },
+    {
+      "id": "b418fbca-9a33-4ac5-adb3-24dd57b1c678",
+      "title": "Staff Software Engineer, GPU Inference",
+      "location": "Toronto, CAN (+1 more)",
+      "team": "Inference Service",
+      "url": "https://jobs.ashbyhq.com/cerebras/b418fbca-9a33-4ac5-adb3-24dd57b1c678",
+      "postedAt": "2026-10-21T15:47:18.233Z",
+      "key": "cerebras:b418fbca-9a33-4ac5-adb3-24dd57b1c678",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-21T15:50:16.946Z"
+    },
     {
       "id": "REF089579W",
       "title": "ML Engineer Sr Consultant",
@@ -7156,6 +7191,22 @@
         "us"
       ],
       "firstSeen": "2026-10-20T18:00:24.371Z"
+    },
+    {
+      "id": "5255854007",
+      "title": "Principal Software Engineer - Intelligent Data Platform",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5255854007",
+      "postedAt": "2026-10-20T17:53:52.000Z",
+      "key": "zscaler:5255854007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T15:50:16.946Z"
     },
     {
       "id": "5200385007",
@@ -15465,22 +15516,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T22:45:30.069Z"
-    },
-    {
-      "id": "R_107039",
-      "title": "Senior Data Engineer",
-      "location": "Arlington Virginia, United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Senior-Data-Engineer_R_107039",
-      "postedAt": "2026-10-13T22:40:21.613Z",
-      "key": "Remitly:R_107039",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T22:40:18.262Z"
     },
     {
       "id": "8269100",
@@ -26834,22 +26869,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-05T16:00:26.608Z"
-    },
-    {
-      "id": "ed60fdf0-f4b2-4657-864d-b09ea5903423",
-      "title": "Infrastructure Engineer - Core Platform",
-      "location": "LATAM (+10 more)",
-      "team": "Core Infrastructure",
-      "url": "https://jobs.ashbyhq.com/kraken.com/ed60fdf0-f4b2-4657-864d-b09ea5903423",
-      "postedAt": "2026-10-05T15:50:45.930Z",
-      "key": "kraken.com:ed60fdf0-f4b2-4657-864d-b09ea5903423",
-      "company": "Kraken",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-10-05T16:00:26.608Z"
     },
@@ -45019,22 +45038,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T00:57:47.551Z"
-    },
-    {
-      "id": "02ed9406-2b43-4009-a80f-2dd94e2f6e96",
-      "title": " Staff Software Engineer, Platform Infrastructure (Foundations)",
-      "location": "San Francisco",
-      "team": "322 Infra",
-      "url": "https://jobs.ashbyhq.com/anyscale/02ed9406-2b43-4009-a80f-2dd94e2f6e96",
-      "postedAt": "2026-09-21T15:48:30.903Z",
-      "key": "anyscale:02ed9406-2b43-4009-a80f-2dd94e2f6e96",
-      "company": "Anyscale",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T15:50:20.032Z"
     },
     {
       "id": "8827511002",
