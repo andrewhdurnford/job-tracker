@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-10-21T21:00:24.562Z",
+  "generatedAt": "2026-10-21T21:10:16.233Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "tripactions:8311102",
+    "openai:1441816f-6429-426e-8f6d-8e5930a818f9",
+    "openai:5ef10e09-2b3f-41de-b77c-829787302101",
+    "xai:5271634007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -674,7 +679,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3250,7 +3255,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4244,7 +4249,7 @@
     {
       "name": "Roboflow",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5581,7 +5586,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5271634007",
+      "title": "Security Engineer - GRC Federal Frameworks",
+      "location": " Palo Alto, CA; Austin, TX; New York, NY; Washington, DC",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5271634007",
+      "postedAt": "2026-10-21T21:08:57.000Z",
+      "key": "xai:5271634007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:10:16.233Z"
+    },
+    {
+      "id": "5ef10e09-2b3f-41de-b77c-829787302101",
+      "title": "Research Scientist / Research Engineer, Search Integrity",
+      "location": "San Francisco",
+      "team": "Foundations",
+      "url": "https://jobs.ashbyhq.com/openai/5ef10e09-2b3f-41de-b77c-829787302101",
+      "postedAt": "2026-10-21T21:05:30.865Z",
+      "key": "openai:5ef10e09-2b3f-41de-b77c-829787302101",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:10:16.233Z"
+    },
+    {
+      "id": "1441816f-6429-426e-8f6d-8e5930a818f9",
+      "title": "Research Scientist / Research Engineer, Search - Knowledge Graphs",
+      "location": "San Francisco",
+      "team": "Foundations",
+      "url": "https://jobs.ashbyhq.com/openai/1441816f-6429-426e-8f6d-8e5930a818f9",
+      "postedAt": "2026-10-21T21:04:47.291Z",
+      "key": "openai:1441816f-6429-426e-8f6d-8e5930a818f9",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:10:16.233Z"
+    },
+    {
+      "id": "8311102",
+      "title": "Frontend Architect",
+      "location": "Remote (USA)",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8311102",
+      "postedAt": "2026-10-21T21:01:08.000Z",
+      "key": "tripactions:8311102",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:10:16.233Z"
+    },
     {
       "id": "451bfa6d-b429-450f-b272-5a77d52cf384",
       "title": "Staff Process Modeling Engineer",
@@ -13439,22 +13508,6 @@
       "firstSeen": "2026-10-15T21:50:15.050Z"
     },
     {
-      "id": "8236515",
-      "title": "Senior Software Engineer, FinOps",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8236515",
-      "postedAt": "2026-10-15T21:49:58.000Z",
-      "key": "boxinc:8236515",
-      "company": "Box",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T21:50:15.050Z"
-    },
-    {
       "id": "8039525",
       "title": "Staff Software Engineer, HR Experience",
       "location": "New York, NY - Hybrid",
@@ -15778,38 +15831,6 @@
         "us"
       ],
       "firstSeen": "2026-10-19T10:50:16.782Z"
-    },
-    {
-      "id": "8279979",
-      "title": "Frontend Architect",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://navan.com/careers/openings?gh_jid=8279979",
-      "postedAt": "2026-10-14T13:39:06.000Z",
-      "key": "tripactions:8279979",
-      "company": "Navan",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T13:40:17.273Z"
-    },
-    {
-      "id": "8279901",
-      "title": "Frontend Architect",
-      "location": "Palo Alto, CA or San Francisco, CA",
-      "team": null,
-      "url": "https://navan.com/careers/openings?gh_jid=8279901",
-      "postedAt": "2026-10-14T13:39:04.000Z",
-      "key": "tripactions:8279901",
-      "company": "Navan",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T13:40:17.273Z"
     },
     {
       "id": "d62250a9-363c-43b0-b3de-958e3cc9f97b",
@@ -44673,22 +44694,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T21:20:17.323Z"
-    },
-    {
-      "id": "caf6b587-0b05-4bf6-a2ac-504b91c36977",
-      "title": "Senior Software Engineer",
-      "location": "San Francisco",
-      "team": "Roboflow Labs",
-      "url": "https://jobs.ashbyhq.com/roboflow/caf6b587-0b05-4bf6-a2ac-504b91c36977",
-      "postedAt": "2026-09-21T21:06:31.108Z",
-      "key": "roboflow:caf6b587-0b05-4bf6-a2ac-504b91c36977",
-      "company": "Roboflow",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T21:10:40.859Z"
     },
     {
       "id": "JR2026132",
