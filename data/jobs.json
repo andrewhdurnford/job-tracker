@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-21T13:40:18.069Z",
+  "generatedAt": "2026-10-21T13:50:18.404Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Capital One:R1002136",
+    "Capital One:R1001975",
+    "snowflake:1e128d1a-b3d5-4ff3-8b34-60a81165d27f"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 22,
-    "experienced": 2315
+    "experienced": 2318
   },
   "companies": [
     {
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 266,
+      "jobCount": 268,
       "error": null,
       "stale": false
     },
@@ -4636,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 103,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1e128d1a-b3d5-4ff3-8b34-60a81165d27f",
+      "title": "Cloud Support Engineer",
+      "location": "CA-Ontario-Toronto",
+      "team": "Global Support",
+      "url": "https://jobs.ashbyhq.com/snowflake/1e128d1a-b3d5-4ff3-8b34-60a81165d27f",
+      "postedAt": "2026-10-21T13:43:28.190Z",
+      "key": "snowflake:1e128d1a-b3d5-4ff3-8b34-60a81165d27f",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-21T13:50:18.404Z"
+    },
     {
       "id": "6230861004",
       "title": "Staff Engineer, Security Operations",
@@ -37501,6 +37521,22 @@
       "firstSeen": "2026-09-25T14:00:26.069Z"
     },
     {
+      "id": "R1002136",
+      "title": "Full Stack Engineer - 4 (JavaScript, TypeScript)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer---4--JavaScript--TypeScript-_R1002136-1",
+      "postedAt": "2026-09-25T13:50:36.956Z",
+      "key": "Capital One:R1002136",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T13:50:18.404Z"
+    },
+    {
       "id": "8815140002",
       "title": "Staff Product Security Architect ",
       "location": "Remote, Canada; Remote, Israel; Remote, Poland; Remote, United Kingdom; Remote, United States",
@@ -41461,6 +41497,22 @@
         "us"
       ],
       "firstSeen": "2026-09-23T14:00:23.905Z"
+    },
+    {
+      "id": "R1001975",
+      "title": "Senior Staff AI Engineer (Remote Eligible)",
+      "location": "6 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/San-Francisco--CA/Senior-Staff-AI-Engineer--Remote-Eligible-_R1001975-1",
+      "postedAt": "2026-09-23T13:50:38.370Z",
+      "key": "Capital One:R1001975",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-21T13:50:18.404Z"
     },
     {
       "id": "R1001163",
