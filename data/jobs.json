@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-10-21T17:30:20.944Z",
+  "generatedAt": "2026-10-21T17:40:16.531Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "coinbase:8304046",
+    "nubank:88148c53-ac05-4472-b58d-729a618108ce",
+    "Nvidia:JR2028237",
+    "openai:74842880-e750-4664-9e2e-83b4c96c5a03"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 147,
-    "new-grad": 21,
-    "experienced": 2307
+    "new-grad": 20,
+    "experienced": 2308
   },
   "companies": [
     {
@@ -471,7 +476,7 @@
     {
       "name": "Attentive",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -562,7 +567,7 @@
     {
       "name": "Bill.com",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1052,7 +1057,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -3397,7 +3402,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 135,
+      "jobCount": 136,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -4531,7 +4536,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4720,7 +4725,7 @@
     {
       "name": "Spotify",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028237",
+      "title": "High-Performance LLM Training Engineer - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/High-Performance-LLM-Training-Engineer---New-College-Grad-2027_JR2028237",
+      "postedAt": "2026-10-21T17:40:20.755Z",
+      "key": "Nvidia:JR2028237",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T17:40:16.531Z"
+    },
+    {
+      "id": "8304046",
+      "title": "Data Scientist",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8304046?gh_jid=8304046",
+      "postedAt": "2026-10-21T17:35:27.000Z",
+      "key": "coinbase:8304046",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-21T17:40:16.531Z"
+    },
+    {
+      "id": "74842880-e750-4664-9e2e-83b4c96c5a03",
+      "title": "Principal Software Engineer, Full Stack — Codex",
+      "location": "San Francisco",
+      "team": "Codex - Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/74842880-e750-4664-9e2e-83b4c96c5a03",
+      "postedAt": "2026-10-21T17:32:33.465Z",
+      "key": "openai:74842880-e750-4664-9e2e-83b4c96c5a03",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T17:40:16.531Z"
+    },
+    {
+      "id": "88148c53-ac05-4472-b58d-729a618108ce",
+      "title": "Staff Security Engineer (IAM)",
+      "location": "Miami (+3 more)",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/88148c53-ac05-4472-b58d-729a618108ce",
+      "postedAt": "2026-10-21T17:32:08.529Z",
+      "key": "nubank:88148c53-ac05-4472-b58d-729a618108ce",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T17:40:16.531Z"
+    },
     {
       "id": "JR2028394",
       "title": "System Software Engineer – Data Center GPU Compute Diagnostics",
@@ -44822,70 +44891,6 @@
       "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220882",
       "postedAt": "2026-09-21T17:42:05.000Z",
       "key": "singlestore:8220882",
-      "company": "SingleStore",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T22:20:19.938Z"
-    },
-    {
-      "id": "4413218009",
-      "title": "Staff Software Engineer, Machine Learning",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/attentive/jobs/4413218009",
-      "postedAt": "2026-09-21T17:40:02.000Z",
-      "key": "attentive:4413218009",
-      "company": "Attentive",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T18:10:20.913Z"
-    },
-    {
-      "id": "9e3bdb48-67eb-49d9-ae0b-a337ba69a05f",
-      "title": "Research Scientist - Personalization",
-      "location": "New York, NY",
-      "team": "Personalization",
-      "url": "https://jobs.lever.co/spotify/9e3bdb48-67eb-49d9-ae0b-a337ba69a05f",
-      "postedAt": "2026-09-21T17:37:41.331Z",
-      "key": "spotify:9e3bdb48-67eb-49d9-ae0b-a337ba69a05f",
-      "company": "Spotify",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T15:20:27.623Z"
-    },
-    {
-      "id": "6202740004",
-      "title": "Staff Software Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://www.bill.com/job?6202740004&gh_jid=6202740004",
-      "postedAt": "2026-09-21T17:36:47.000Z",
-      "key": "billcom:6202740004",
-      "company": "Bill.com",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T19:40:17.430Z"
-    },
-    {
-      "id": "8220863",
-      "title": "MIT-Software Engineer-New Grad |Engine|",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863",
-      "postedAt": "2026-09-21T17:36:07.000Z",
-      "key": "singlestore:8220863",
       "company": "SingleStore",
       "level": "new-grad",
       "term": null,
