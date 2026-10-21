@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-21T21:20:17.322Z",
+  "generatedAt": "2026-10-21T21:30:21.449Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "affirm:8039471003",
-    "cerebras:315e96ea-e64d-4096-b9ba-c0025cf796f6"
+    "shieldai:1f8803d4-b87b-42a2-aa2a-85de9655702a"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 19,
-    "experienced": 2309
+    "experienced": 2308
   },
   "companies": [
     {
@@ -986,7 +985,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -1265,7 +1264,7 @@
     {
       "name": "Culture Biosciences",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4338,7 +4337,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4471,7 +4470,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1f8803d4-b87b-42a2-aa2a-85de9655702a",
+      "title": "Manager, Engineering - Software Integration, San Mateo (R5237)",
+      "location": "San Mateo, California",
+      "team": "Quality",
+      "url": "https://jobs.lever.co/shieldai/1f8803d4-b87b-42a2-aa2a-85de9655702a",
+      "postedAt": "2026-10-21T21:22:13.050Z",
+      "key": "shieldai:1f8803d4-b87b-42a2-aa2a-85de9655702a",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T21:30:21.449Z"
+    },
     {
       "id": "8039471003",
       "title": "Analyst, Early Career (Full Stack)",
@@ -44676,38 +44691,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T21:30:22.950Z"
-    },
-    {
-      "id": "8221852",
-      "title": "Manager II, Software Engineering, Infrastructure",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8221852?gh_jid=8221852",
-      "postedAt": "2026-09-21T21:24:02.000Z",
-      "key": "samsara:8221852",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-21T22:40:17.574Z"
-    },
-    {
-      "id": "8001434003",
-      "title": "Software Engineer,  Automation and Control",
-      "location": "Remote",
-      "team": null,
-      "url": "https://culturebiosciences.com/careers?gh_jid=8001434003",
-      "postedAt": "2026-09-21T21:23:44.000Z",
-      "key": "culturebiosciences:8001434003",
-      "company": "Culture Biosciences",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-09-21T22:40:17.574Z"
     },
     {
       "id": "R1001456",
