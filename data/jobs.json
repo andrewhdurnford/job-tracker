@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T20:30:20.953Z",
+  "generatedAt": "2026-10-21T20:40:18.197Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "commure:cf28305f-0a9f-4b1b-a449-7f77aa0e2b14"
+    "airbnb:8300926"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 145,
     "new-grad": 18,
-    "experienced": 2309
+    "experienced": 2310
   },
   "companies": [
     {
@@ -116,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 104,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8300926",
+      "title": "Senior Data Engineer, Payments",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8300926?gh_jid=8300926",
+      "postedAt": "2026-10-21T20:37:35.000Z",
+      "key": "airbnb:8300926",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T20:40:18.197Z"
+    },
     {
       "id": "cf28305f-0a9f-4b1b-a449-7f77aa0e2b14",
       "title": "Senior Software Engineer, R&D",
