@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T01:00:23.738Z",
+  "generatedAt": "2026-10-21T01:10:15.434Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Nvidia:JR2028350"
+    "phantom:ced59678-c49a-4e3c-bf12-08582447313d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 22,
-    "experienced": 2304
+    "experienced": 2305
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1755,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3686,7 +3686,7 @@
     {
       "name": "Phantom",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5036,10 +5036,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "board returned 0 jobs (streak 2/3) — keeping last snapshot",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "ced59678-c49a-4e3c-bf12-08582447313d",
+      "title": "Senior Data Engineer",
+      "location": "Remote",
+      "team": "Growth",
+      "url": "https://jobs.ashbyhq.com/phantom/ced59678-c49a-4e3c-bf12-08582447313d",
+      "postedAt": "2026-10-21T01:05:04.955Z",
+      "key": "phantom:ced59678-c49a-4e3c-bf12-08582447313d",
+      "company": "Phantom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-21T01:10:15.434Z"
+    },
     {
       "id": "JR2028350",
       "title": "Software Engineer, Agent Performance Modeling - New College Grad 2026",
