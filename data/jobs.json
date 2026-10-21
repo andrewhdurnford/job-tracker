@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-21T23:00:25.885Z",
+  "generatedAt": "2026-10-21T23:10:16.388Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "openai:e99105f1-0a15-4f25-9538-60312568f835",
-    "planetscale:4463390009"
+    "reddit:8110339"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 142,
     "new-grad": 19,
-    "experienced": 2309
+    "experienced": 2310
   },
   "companies": [
     {
@@ -594,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2064,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4107,7 +4106,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8110339",
+      "title": "Senior Data Scientist, Safety Enforcement",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8110339",
+      "postedAt": "2026-10-21T23:07:25.000Z",
+      "key": "reddit:8110339",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T23:10:16.388Z"
+    },
     {
       "id": "4463390009",
       "title": "AI Developer Experience Engineer",
