@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-21T00:00:28.926Z",
+  "generatedAt": "2026-10-21T00:10:16.536Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "DocuSign:30508",
+    "midstream:cdd5103a-8118-4fda-872d-9eca7cefb083"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 146,
+    "intern": 147,
     "new-grad": 22,
-    "experienced": 2300
+    "experienced": 2301
   },
   "companies": [
     {
@@ -1423,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -3033,7 +3036,7 @@
     {
       "name": "Midstream Health",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 103,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "cdd5103a-8118-4fda-872d-9eca7cefb083",
+      "title": "Value Engineer",
+      "location": "Remote | US",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/midstream/cdd5103a-8118-4fda-872d-9eca7cefb083",
+      "postedAt": "2026-10-21T00:07:06.322Z",
+      "key": "midstream:cdd5103a-8118-4fda-872d-9eca7cefb083",
+      "company": "Midstream Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-21T00:10:16.536Z"
+    },
     {
       "id": "JR2015832",
       "title": "Senior Software Engineer, Platform Engineering",
@@ -18617,6 +18637,22 @@
         "us"
       ],
       "firstSeen": "2026-10-09T22:30:21.936Z"
+    },
+    {
+      "id": "30508",
+      "title": "Software Engineer Intern",
+      "location": "US-Seattle-3rd",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30508/login",
+      "postedAt": "2026-10-09T22:23:00.000Z",
+      "key": "DocuSign:30508",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T00:10:16.536Z"
     },
     {
       "id": "30509",
