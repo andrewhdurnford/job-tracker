@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-21T22:50:18.179Z",
+  "generatedAt": "2026-10-21T23:00:25.885Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "openai:e99105f1-0a15-4f25-9538-60312568f835",
+    "planetscale:4463390009"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 143,
+    "intern": 142,
     "new-grad": 19,
-    "experienced": 2308
+    "experienced": 2309
   },
   "companies": [
     {
@@ -1423,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -1612,7 +1615,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3509,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -3782,7 +3785,7 @@
     {
       "name": "PlanetScale",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5700,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "4463390009",
+      "title": "AI Developer Experience Engineer",
+      "location": "Remote US ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
+      "postedAt": "2026-10-21T22:57:46.000Z",
+      "key": "planetscale:4463390009",
+      "company": "PlanetScale",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T23:00:25.885Z"
+    },
+    {
+      "id": "e99105f1-0a15-4f25-9538-60312568f835",
+      "title": "Software Engineer, Privacy Engineering (Lawful Access) ",
+      "location": "San Francisco",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835",
+      "postedAt": "2026-10-21T22:55:41.495Z",
+      "key": "openai:e99105f1-0a15-4f25-9538-60312568f835",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T23:00:25.885Z"
+    },
+    {
       "id": "6226641004",
       "title": "Software Engineer, Stream Integrations",
       "location": "Remote - Canada",
@@ -5714,22 +5749,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-21T22:40:16.360Z"
-    },
-    {
-      "id": "30561",
-      "title": "Software Engineer",
-      "location": "US-Seattle-3rd",
-      "team": "Engineering",
-      "url": "https://uscareers-docusign.icims.com/jobs/30561/login",
-      "postedAt": "2026-10-21T22:12:00.000Z",
-      "key": "DocuSign:30561",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T22:20:16.353Z"
     },
     {
       "id": "8249252",
@@ -44565,22 +44584,6 @@
         "us"
       ],
       "firstSeen": "2026-09-21T23:30:40.126Z"
-    },
-    {
-      "id": "6202675004",
-      "title": "Data Science Intern",
-      "location": "Cary,North Carolina,United States",
-      "team": "Data Science",
-      "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
-      "postedAt": "2026-09-21T22:52:02.000Z",
-      "key": "epicgames:6202675004",
-      "company": "Epic Games",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T23:00:27.795Z"
     },
     {
       "id": "JR2025923",
