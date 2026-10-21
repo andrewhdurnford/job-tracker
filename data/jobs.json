@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T18:20:16.747Z",
+  "generatedAt": "2026-10-21T18:30:21.606Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "asana:8227390"
+    "ramp:c0a71032-1efb-40dc-b1e8-aa0f30cd5961"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 146,
     "new-grad": 19,
-    "experienced": 2304
+    "experienced": 2303
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1054,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -4036,7 +4036,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4476,10 +4476,10 @@
     },
     {
       "name": "Shiru",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Short Story",
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 104,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+      "title": "Senior Backend Engineer | Accounting",
+      "location": "New York, NY (HQ) (+1 more)",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+      "postedAt": "2026-10-21T18:22:42.345Z",
+      "key": "ramp:c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-21T18:30:21.606Z"
+    },
+    {
       "id": "7714d5ef-c07c-493c-a029-e8dc7f533288",
       "title": "Senior Security Engineer ",
       "location": "USA (Remote)",
@@ -5810,22 +5826,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-21T17:40:16.531Z"
-    },
-    {
-      "id": "8304046",
-      "title": "Data Scientist",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8304046?gh_jid=8304046",
-      "postedAt": "2026-10-21T17:35:27.000Z",
-      "key": "coinbase:8304046",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-10-21T17:40:16.531Z"
     },
@@ -44731,22 +44731,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-21T18:50:18.643Z"
-    },
-    {
-      "id": "65780e7c-6cbd-4e01-a437-2142363d855d",
-      "title": "Demo Experience Engineer, Technical Success",
-      "location": "San Francisco",
-      "team": "Technical Success",
-      "url": "https://jobs.ashbyhq.com/openai/65780e7c-6cbd-4e01-a437-2142363d855d",
-      "postedAt": "2026-09-21T18:21:37.454Z",
-      "key": "openai:65780e7c-6cbd-4e01-a437-2142363d855d",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-21T18:30:23.749Z"
     },
     {
       "id": "R1001304",
