@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-10-22T20:00:28.577Z",
+  "generatedAt": "2026-10-22T20:10:16.837Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "cursor:6868de4a-f753-4f10-8dc5-f7aabef03b56",
-    "snowflake:6aa02c13-d9db-4624-b4ce-cc467562e2ed",
-    "stripe:8260980"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -14,7 +10,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 19,
-    "experienced": 2297
+    "experienced": 2292
   },
   "companies": [
     {
@@ -595,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -938,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4198,10 +4194,10 @@
     },
     {
       "name": "Rezo Therapeutics",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Rigetti Quantum Computing",
@@ -5480,7 +5476,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 52,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -5578,7 +5574,7 @@
     {
       "name": "Writer",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5696,10 +5692,10 @@
     },
     {
       "name": "Zuma",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     }
   ],
   "jobs": [
@@ -44512,86 +44508,6 @@
       "postedAt": "2026-09-22T20:10:22.580Z",
       "key": "Nvidia:JR2025407",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T20:10:18.507Z"
-    },
-    {
-      "id": "8222061",
-      "title": "Product Quality Engineer, Vehicle Systems ",
-      "location": "Mountain View, CA, USA; Novi, MI, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8222061",
-      "postedAt": "2026-09-22T20:10:12.000Z",
-      "key": "waymo:8222061",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T19:50:20.667Z"
-    },
-    {
-      "id": "95b50afd-4996-4623-ae1c-602fe04b2777",
-      "title": "Software engineer, generative AI",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/writer/95b50afd-4996-4623-ae1c-602fe04b2777",
-      "postedAt": "2026-09-22T20:08:51.065Z",
-      "key": "writer:95b50afd-4996-4623-ae1c-602fe04b2777",
-      "company": "Writer",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T20:20:29.525Z"
-    },
-    {
-      "id": "699a2c97-5273-4954-a92a-a2ccee95c95e",
-      "title": "Software engineer, connectors & MCP",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/writer/699a2c97-5273-4954-a92a-a2ccee95c95e",
-      "postedAt": "2026-09-22T20:07:30.675Z",
-      "key": "writer:699a2c97-5273-4954-a92a-a2ccee95c95e",
-      "company": "Writer",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T20:10:18.507Z"
-    },
-    {
-      "id": "40021ec1-fc21-4230-8d95-0eca8fd51bec",
-      "title": "Software engineer, agents",
-      "location": "New York City, NY (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/writer/40021ec1-fc21-4230-8d95-0eca8fd51bec",
-      "postedAt": "2026-09-22T20:06:00.252Z",
-      "key": "writer:40021ec1-fc21-4230-8d95-0eca8fd51bec",
-      "company": "Writer",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T20:10:18.507Z"
-    },
-    {
-      "id": "55dc4451-a89c-46d3-b482-9d2b5e9879d3",
-      "title": "Security engineer, detection and response",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/writer/55dc4451-a89c-46d3-b482-9d2b5e9879d3",
-      "postedAt": "2026-09-22T20:02:38.383Z",
-      "key": "writer:55dc4451-a89c-46d3-b482-9d2b5e9879d3",
-      "company": "Writer",
       "level": "experienced",
       "term": null,
       "regions": [
