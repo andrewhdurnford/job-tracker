@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-22T13:50:17.049Z",
+  "generatedAt": "2026-10-22T14:00:28.085Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "whoop:3363c311-cf72-4986-9c7f-11913e693b47"
+    "Capital One:R247320",
+    "mixpanel:8124704",
+    "tripactions:8306360"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -11,8 +13,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 141,
-    "new-grad": 19,
-    "experienced": 2292
+    "new-grad": 20,
+    "experienced": 2293
   },
   "companies": [
     {
@@ -788,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 252,
+      "jobCount": 253,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3091,7 +3093,7 @@
     {
       "name": "Mixpanel",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3252,7 +3254,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 94,
+      "jobCount": 93,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R247320",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "postedAt": "2026-10-22T14:00:31.633Z",
+      "key": "Capital One:R247320",
+      "company": "Capital One",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-22T14:00:28.085Z"
+    },
+    {
+      "id": "8124704",
+      "title": "Senior Software Engineer, Experimentation",
+      "location": "San Francisco, US (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8124704",
+      "postedAt": "2026-10-22T13:58:53.000Z",
+      "key": "mixpanel:8124704",
+      "company": "Mixpanel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T14:00:28.085Z"
+    },
+    {
+      "id": "8306360",
+      "title": "Sr. Data Scientist",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8306360",
+      "postedAt": "2026-10-22T13:51:54.000Z",
+      "key": "tripactions:8306360",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T14:00:28.085Z"
+    },
     {
       "id": "3363c311-cf72-4986-9c7f-11913e693b47",
       "title": "Security Detection Engineer",
@@ -12058,7 +12108,7 @@
     },
     {
       "id": "6223092004",
-      "title": "Software Engineer II - Growth",
+      "title": "Software Engineer II (Full-stack) - Growth",
       "location": "United States",
       "team": null,
       "url": "https://www.bill.com/job?6223092004&gh_jid=6223092004",
@@ -44629,22 +44679,6 @@
       "postedAt": "2026-09-22T14:01:05.531Z",
       "key": "Capital One:R1001484",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T14:01:02.106Z"
-    },
-    {
-      "id": "8830956002",
-      "title": "Hardware Test Automation Engineer",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8830956002?gh_jid=8830956002",
-      "postedAt": "2026-09-22T13:54:10.000Z",
-      "key": "spacex:8830956002",
-      "company": "SpaceX",
       "level": "experienced",
       "term": null,
       "regions": [
