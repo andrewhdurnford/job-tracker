@@ -1,19 +1,23 @@
 {
-  "generatedAt": "2026-10-22T00:50:19.143Z",
+  "generatedAt": "2026-10-22T01:00:23.157Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "pyka:374590a5-498f-4257-ac5f-fe884d42ca6f",
-    "sierra:0cb4da3e-3c67-4f14-a84d-956042669275"
+    "Nvidia:JR2026949",
+    "sierra:200df475-2175-45ce-9510-7d04afabd08d",
+    "sierra:43fe3ab5-60ce-4d2c-b3bb-90c201968de2",
+    "sierra:2f372b6b-d163-48bd-b5df-84f9bf2b4dbc",
+    "sierra:50ec6f9a-25f9-44b4-b8cc-50c897e698b3",
+    "sierra:0dfe7805-aa81-4b8c-88e0-f93a7f80ecee"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 141,
+    "intern": 142,
     "new-grad": 19,
-    "experienced": 2313
+    "experienced": 2311
   },
   "companies": [
     {
@@ -3428,7 +3432,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 136,
+      "jobCount": 137,
       "error": null,
       "stale": false
     },
@@ -4492,7 +4496,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4698,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 104,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 98,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5706,106 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026949",
+      "title": "PhD Research Intern, AI for Climate and Weather Simulation - 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2026949",
+      "postedAt": "2026-10-22T01:00:27.143Z",
+      "key": "Nvidia:JR2026949",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T01:00:23.157Z"
+    },
+    {
+      "id": "0dfe7805-aa81-4b8c-88e0-f93a7f80ecee",
+      "title": "Software Engineer, Horizon",
+      "location": "San Francisco, CA",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/0dfe7805-aa81-4b8c-88e0-f93a7f80ecee",
+      "postedAt": "2026-10-22T00:52:35.726Z",
+      "key": "sierra:0dfe7805-aa81-4b8c-88e0-f93a7f80ecee",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T01:00:23.157Z"
+    },
+    {
+      "id": "50ec6f9a-25f9-44b4-b8cc-50c897e698b3",
+      "title": "Software Engineer, Payments Infrastructure",
+      "location": "San Francisco, CA",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/50ec6f9a-25f9-44b4-b8cc-50c897e698b3",
+      "postedAt": "2026-10-22T00:52:16.032Z",
+      "key": "sierra:50ec6f9a-25f9-44b4-b8cc-50c897e698b3",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T01:00:23.157Z"
+    },
+    {
+      "id": "2f372b6b-d163-48bd-b5df-84f9bf2b4dbc",
+      "title": "Software Engineer, Channels and Experiences",
+      "location": "San Francisco, CA",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/2f372b6b-d163-48bd-b5df-84f9bf2b4dbc",
+      "postedAt": "2026-10-22T00:51:53.640Z",
+      "key": "sierra:2f372b6b-d163-48bd-b5df-84f9bf2b4dbc",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T01:00:23.157Z"
+    },
+    {
+      "id": "43fe3ab5-60ce-4d2c-b3bb-90c201968de2",
+      "title": "Software Engineer, Insights",
+      "location": "San Francisco, CA",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/43fe3ab5-60ce-4d2c-b3bb-90c201968de2",
+      "postedAt": "2026-10-22T00:50:52.085Z",
+      "key": "sierra:43fe3ab5-60ce-4d2c-b3bb-90c201968de2",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T01:00:23.157Z"
+    },
+    {
+      "id": "200df475-2175-45ce-9510-7d04afabd08d",
+      "title": "Software Engineer, Agent Builder",
+      "location": "San Francisco, CA",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/200df475-2175-45ce-9510-7d04afabd08d",
+      "postedAt": "2026-10-22T00:50:24.057Z",
+      "key": "sierra:200df475-2175-45ce-9510-7d04afabd08d",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T01:00:23.157Z"
+    },
     {
       "id": "0cb4da3e-3c67-4f14-a84d-956042669275",
       "title": "Software Engineer, Agent Runtime",
@@ -38929,22 +39033,6 @@
       "firstSeen": "2026-09-24T22:50:17.117Z"
     },
     {
-      "id": "87f2a303-c2a1-484e-9e4b-efdcaafa440e",
-      "title": "Software Engineer, Horizon",
-      "location": "San Francisco, CA",
-      "team": "Platform Engineering",
-      "url": "https://jobs.ashbyhq.com/sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e",
-      "postedAt": "2026-09-24T22:10:13.906Z",
-      "key": "sierra:87f2a303-c2a1-484e-9e4b-efdcaafa440e",
-      "company": "Sierra",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-24T22:20:21.232Z"
-    },
-    {
       "id": "5239093007",
       "title": " Architect / Senior Principal Software Development Engineer (Layer 7 Security & Proxy)",
       "location": "Santa Clara, California, USA",
@@ -44516,102 +44604,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T01:30:22.734Z"
-    },
-    {
-      "id": "8829307002",
-      "title": "Software Engineer, Simulations (Vehicle Engineering) ",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8829307002?gh_jid=8829307002",
-      "postedAt": "2026-09-22T00:44:19.000Z",
-      "key": "spacex:8829307002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T00:50:17.464Z"
-    },
-    {
-      "id": "8829309002",
-      "title": "Software Engineer, C++ (Simulations) ",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8829309002?gh_jid=8829309002",
-      "postedAt": "2026-09-22T00:44:18.000Z",
-      "key": "spacex:8829309002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T00:50:17.464Z"
-    },
-    {
-      "id": "8829312002",
-      "title": "Simulation Software Engineer (Vehicle Engineering) ",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8829312002?gh_jid=8829312002",
-      "postedAt": "2026-09-22T00:44:16.000Z",
-      "key": "spacex:8829312002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T00:50:17.464Z"
-    },
-    {
-      "id": "8829320002",
-      "title": "Sr. Software Engineer, Simulations (Vehicle Engineering)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8829320002?gh_jid=8829320002",
-      "postedAt": "2026-09-22T00:43:35.000Z",
-      "key": "spacex:8829320002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T00:50:17.464Z"
-    },
-    {
-      "id": "8829330002",
-      "title": "Sr. Software Engineer, C++ (Simulations) ",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8829330002?gh_jid=8829330002",
-      "postedAt": "2026-09-22T00:43:33.000Z",
-      "key": "spacex:8829330002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T00:50:17.464Z"
-    },
-    {
-      "id": "8829326002",
-      "title": "Sr. Simulation Software Engineer (Vehicle Engineering)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8829326002?gh_jid=8829326002",
-      "postedAt": "2026-09-22T00:43:30.000Z",
-      "key": "spacex:8829326002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T00:50:17.464Z"
     },
     {
       "id": "R1001265",
