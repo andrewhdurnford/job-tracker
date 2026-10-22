@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-22T22:00:23.630Z",
+  "generatedAt": "2026-10-22T22:10:17.385Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "verkada:5273085007"
+    "waymo:8212626"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 152,
+    "intern": 151,
     "new-grad": 20,
     "experienced": 2288
   },
@@ -116,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2917,7 +2917,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5702,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "8212626",
+      "title": "Machine Learning Engineer, Scenes",
+      "location": "Mountain View, California, United States, San Francisco, California, United States",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8212626",
+      "postedAt": "2026-10-22T22:06:35.000Z",
+      "key": "waymo:8212626",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T22:10:17.385Z"
+    },
+    {
       "id": "5273085007",
       "title": "Senior Software Engineer - Computer Vision",
       "location": "San Mateo, CA United States",
@@ -7543,22 +7559,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-21T23:40:15.544Z"
-    },
-    {
-      "id": "8280222",
-      "title": "Software Engineer, DevAI",
-      "location": "United States",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222",
-      "postedAt": "2026-10-21T23:20:53.000Z",
-      "key": "airbnb:8280222",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T23:30:20.582Z"
     },
     {
       "id": "5ed7f0f6-fb88-4523-b406-9bcf96407a15",
@@ -44426,28 +44426,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T22:20:18.109Z"
-    },
-    {
-      "id": "8221956",
-      "title": "2027 Summer Intern, PhD, Data Science",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221956",
-      "postedAt": "2026-09-22T22:02:12.000Z",
-      "key": "waymo:8221956",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T22:10:17.386Z"
     },
     {
       "id": "R1001486",
