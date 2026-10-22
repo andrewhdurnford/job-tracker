@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-10-22T17:10:16.257Z",
+  "generatedAt": "2026-10-22T17:20:18.068Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "aiprise:979719ab-e60c-4495-88b6-2ab8c5ac56d3",
-    "stripe:8314283",
-    "waymo:8311552"
+    "elevenlabs:b380fb97-bb18-46a5-91db-5132e6693e93",
+    "elevenlabs:815547bf-0ade-482d-84b0-4163ab1161e5"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +13,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 20,
-    "experienced": 2301
+    "experienced": 2302
   },
   "companies": [
     {
@@ -1539,7 +1538,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 102,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5690,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "815547bf-0ade-482d-84b0-4163ab1161e5",
+      "title": "iOS Engineer - Creative App",
+      "location": "Remote",
+      "team": "Creative App",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/815547bf-0ade-482d-84b0-4163ab1161e5",
+      "postedAt": "2026-10-22T17:12:49.379Z",
+      "key": "elevenlabs:815547bf-0ade-482d-84b0-4163ab1161e5",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-22T17:20:18.068Z"
+    },
+    {
+      "id": "b380fb97-bb18-46a5-91db-5132e6693e93",
+      "title": "Android Engineer - Creative App",
+      "location": "Remote",
+      "team": "Creative App",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b380fb97-bb18-46a5-91db-5132e6693e93",
+      "postedAt": "2026-10-22T17:11:28.107Z",
+      "key": "elevenlabs:b380fb97-bb18-46a5-91db-5132e6693e93",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-22T17:20:18.068Z"
+    },
     {
       "id": "8311552",
       "title": "Senior Staff Technical Lead, Simulator Platform Horizontal Integrations",
@@ -5721,7 +5752,7 @@
     },
     {
       "id": "979719ab-e60c-4495-88b6-2ab8c5ac56d3",
-      "title": "Engineering Manager",
+      "title": "Engineering Manager (AI)",
       "location": "San Jose, CA",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/aiprise/979719ab-e60c-4495-88b6-2ab8c5ac56d3",
@@ -14912,22 +14943,6 @@
         "us"
       ],
       "firstSeen": "2026-10-15T21:40:16.054Z"
-    },
-    {
-      "id": "5265821007",
-      "title": "Principal Software Development Engineer, Platform Engineering",
-      "location": "Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5265821007",
-      "postedAt": "2026-10-15T21:21:29.000Z",
-      "key": "zscaler:5265821007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T18:50:16.497Z"
     },
     {
       "id": "ed0ec3c2-aa74-4d81-97d9-f99e6b47d078",
