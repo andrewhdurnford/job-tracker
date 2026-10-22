@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-22T17:00:25.599Z",
+  "generatedAt": "2026-10-22T17:10:16.257Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "aiprise:979719ab-e60c-4495-88b6-2ab8c5ac56d3",
+    "stripe:8314283",
+    "waymo:8311552"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 20,
-    "experienced": 2299
+    "experienced": 2301
   },
   "companies": [
     {
@@ -107,7 +111,7 @@
     {
       "name": "AiPrise",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1010,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 102,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4797,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5476,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 51,
+      "jobCount": 52,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8311552",
+      "title": "Senior Staff Technical Lead, Simulator Platform Horizontal Integrations",
+      "location": "Mountain View, California, United States; San Francisco, California, United States. ",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8311552",
+      "postedAt": "2026-10-22T17:08:57.000Z",
+      "key": "waymo:8311552",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T17:10:16.257Z"
+    },
+    {
+      "id": "979719ab-e60c-4495-88b6-2ab8c5ac56d3",
+      "title": "Engineering Manager",
+      "location": "San Jose, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/aiprise/979719ab-e60c-4495-88b6-2ab8c5ac56d3",
+      "postedAt": "2026-10-22T17:06:25.936Z",
+      "key": "aiprise:979719ab-e60c-4495-88b6-2ab8c5ac56d3",
+      "company": "AiPrise",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T17:10:16.257Z"
+    },
+    {
+      "id": "8314283",
+      "title": "Software Engineer",
+      "location": "South San Francisco, CA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8314283",
+      "postedAt": "2026-10-22T17:01:03.000Z",
+      "key": "stripe:8314283",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T17:10:16.257Z"
+    },
     {
       "id": "8314235",
       "title": "Software Engineer, Resource Automation",
@@ -44702,22 +44754,6 @@
       "postedAt": "2026-09-22T17:10:20.687Z",
       "key": "Capital One:R1001453",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T17:10:17.405Z"
-    },
-    {
-      "id": "8221248",
-      "title": "Senior Oracle Security and AI Engineer",
-      "location": "Austin, TX",
-      "team": "Information Technology",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8221248?gh_jid=8221248",
-      "postedAt": "2026-09-22T17:06:04.000Z",
-      "key": "cloudflare:8221248",
-      "company": "Cloudflare",
       "level": "experienced",
       "term": null,
       "regions": [
