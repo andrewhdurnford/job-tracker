@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-10-22T17:50:18.562Z",
+  "generatedAt": "2026-10-22T18:00:25.291Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "nubank:4e0373cd-d0d5-44f0-a57f-616aae821059",
-    "outset:f27ab616-7298-45cc-96a3-8161f356deea",
-    "outset:a9a0c4b2-b42c-4db2-9d83-c434b894799a",
-    "zscaler:5253937007"
+    "baseten:34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
+    "baseten:08bededd-d362-453e-b014-384a2003cbf1",
+    "talkiatry:1efdf792-0f3d-4cbd-8ce9-277ed6980289"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 19,
-    "experienced": 2303
+    "experienced": 2305
   },
   "companies": [
     {
@@ -525,7 +524,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -596,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3982,10 +3981,10 @@
     },
     {
       "name": "Pyka",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Pylon",
@@ -4696,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 102,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4831,7 +4830,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4970,7 +4969,7 @@
     {
       "name": "Talkiatry",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,57 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1efdf792-0f3d-4cbd-8ce9-277ed6980289",
+      "title": "Senior Engineering Manager",
+      "location": "Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/talkiatry/1efdf792-0f3d-4cbd-8ce9-277ed6980289",
+      "postedAt": "2026-10-22T17:57:38.397Z",
+      "key": "talkiatry:1efdf792-0f3d-4cbd-8ce9-277ed6980289",
+      "company": "Talkiatry",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-22T18:00:25.291Z"
+    },
+    {
+      "id": "08bededd-d362-453e-b014-384a2003cbf1",
+      "title": "Software Engineer - Partner Platform",
+      "location": "San Francisco (+4 more)",
+      "team": "Product Platform",
+      "url": "https://jobs.ashbyhq.com/baseten/08bededd-d362-453e-b014-384a2003cbf1",
+      "postedAt": "2026-10-22T17:54:24.939Z",
+      "key": "baseten:08bededd-d362-453e-b014-384a2003cbf1",
+      "company": "Baseten",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-22T18:00:25.291Z"
+    },
+    {
+      "id": "34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
+      "title": "Software Engineer - Billing & Internal Tooling",
+      "location": "San Francisco (+4 more)",
+      "team": "Product Platform",
+      "url": "https://jobs.ashbyhq.com/baseten/34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
+      "postedAt": "2026-10-22T17:50:10.803Z",
+      "key": "baseten:34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
+      "company": "Baseten",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-22T18:00:25.291Z"
+    },
     {
       "id": "4e0373cd-d0d5-44f0-a57f-616aae821059",
       "title": "Lead Software Engineer",
@@ -34713,22 +34763,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T00:00:23.304Z"
-    },
-    {
-      "id": "57204e3c-1431-49c5-919c-4fff65f5c3a5",
-      "title": "Software Engineer - Partner Platform",
-      "location": "San Francisco",
-      "team": "Enterprise",
-      "url": "https://jobs.ashbyhq.com/baseten/57204e3c-1431-49c5-919c-4fff65f5c3a5",
-      "postedAt": "2026-09-29T23:48:23.744Z",
-      "key": "baseten:57204e3c-1431-49c5-919c-4fff65f5c3a5",
-      "company": "Baseten",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T23:50:16.460Z"
     },
     {
       "id": "8857452002",
