@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-22T00:40:16.751Z",
+  "generatedAt": "2026-10-22T00:50:19.143Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "pyka:374590a5-498f-4257-ac5f-fe884d42ca6f",
+    "sierra:0cb4da3e-3c67-4f14-a84d-956042669275"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 142,
+    "intern": 141,
     "new-grad": 19,
-    "experienced": 2311
+    "experienced": 2313
   },
   "companies": [
     {
@@ -1612,7 +1615,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3978,7 +3981,7 @@
     {
       "name": "Pyka",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4489,7 +4492,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 104,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "0cb4da3e-3c67-4f14-a84d-956042669275",
+      "title": "Software Engineer, Agent Runtime",
+      "location": "San Francisco, CA",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/0cb4da3e-3c67-4f14-a84d-956042669275",
+      "postedAt": "2026-10-22T00:49:37.326Z",
+      "key": "sierra:0cb4da3e-3c67-4f14-a84d-956042669275",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T00:50:19.143Z"
+    },
+    {
+      "id": "374590a5-498f-4257-ac5f-fe884d42ca6f",
+      "title": "Manager, Software Engineering - Cloud infrastructure",
+      "location": "Alameda HQ",
+      "team": "Software Engineering",
+      "url": "https://jobs.lever.co/pyka/374590a5-498f-4257-ac5f-fe884d42ca6f",
+      "postedAt": "2026-10-22T00:41:04.474Z",
+      "key": "pyka:374590a5-498f-4257-ac5f-fe884d42ca6f",
+      "company": "Pyka",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T00:50:19.143Z"
+    },
     {
       "id": "5457716008",
       "title": "Staff Software Engineer, Finance Engineering",
@@ -44524,22 +44559,6 @@
       "key": "spacex:8829312002",
       "company": "SpaceX",
       "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T00:50:17.464Z"
-    },
-    {
-      "id": "6202659004",
-      "title": "Engine Programmer Intern",
-      "location": "Cary,North Carolina,United States",
-      "team": "Engineering Generalist",
-      "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
-      "postedAt": "2026-09-22T00:43:35.000Z",
-      "key": "epicgames:6202659004",
-      "company": "Epic Games",
-      "level": "intern",
       "term": null,
       "regions": [
         "us"
