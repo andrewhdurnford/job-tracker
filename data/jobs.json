@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-22T00:20:15.486Z",
+  "generatedAt": "2026-10-22T00:30:21.446Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "anthropic:5457716008",
+    "treasuryprime:5460658008"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 143,
+    "intern": 142,
     "new-grad": 19,
-    "experienced": 2311
+    "experienced": 2312
   },
   "companies": [
     {
@@ -65,7 +68,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -303,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 104,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4797,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5168,7 +5171,7 @@
     {
       "name": "Treasury Prime",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5457716008",
+      "title": "Staff Software Engineer, Finance Engineering",
+      "location": "San Francisco, CA | Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457716008",
+      "postedAt": "2026-10-22T00:29:11.000Z",
+      "key": "anthropic:5457716008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T00:30:21.446Z"
+    },
+    {
+      "id": "5460658008",
+      "title": "Senior DevOps Engineer",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/treasuryprime/jobs/5460658008",
+      "postedAt": "2026-10-22T00:26:45.000Z",
+      "key": "treasuryprime:5460658008",
+      "company": "Treasury Prime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T00:30:21.446Z"
+    },
     {
       "id": "8274383",
       "title": "Software Engineer II - Control Plane (Hosted Foundations / Applications)",
@@ -10701,26 +10736,6 @@
         "us"
       ],
       "firstSeen": "2026-10-19T17:00:23.675Z"
-    },
-    {
-      "id": "R172997",
-      "title": "2027 Intern - Data, AI & Innovation",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Data--AI---Innovation_R172997",
-      "postedAt": "2026-10-19T16:50:22.269Z",
-      "key": "Adobe:R172997",
-      "company": "Adobe",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T16:50:17.376Z"
     },
     {
       "id": "341a5ad4-9134-4bad-88e1-2ce0f70bf519",
@@ -44613,22 +44628,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T00:40:17.900Z"
-    },
-    {
-      "id": "8222149",
-      "title": "Data Scientist",
-      "location": "Seattle, WA",
-      "team": "Global Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8222149",
-      "postedAt": "2026-09-22T00:23:42.000Z",
-      "key": "stripe:8222149",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T00:30:35.162Z"
     },
     {
       "id": "JR2025923",
