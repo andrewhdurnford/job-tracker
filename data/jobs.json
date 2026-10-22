@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-22T22:50:17.502Z",
+  "generatedAt": "2026-10-22T23:00:27.859Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "temporal:ccc3148c-fde1-4b22-bf5b-fd74a0f95c1d"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -64,10 +66,10 @@
     },
     {
       "name": "Adobe",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Adyen",
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1240,10 +1242,10 @@
     },
     {
       "name": "CrowdStrike",
-      "ok": false,
+      "ok": true,
       "jobCount": 34,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "CTGT",
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2368,7 +2370,7 @@
     {
       "name": "Inferact",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3375,10 +3377,10 @@
     },
     {
       "name": "Nova Credit",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Novig",
@@ -3522,10 +3524,10 @@
     },
     {
       "name": "Ophelia",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Optiver",
@@ -5021,7 +5023,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5034,10 +5036,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -5398,10 +5400,10 @@
     },
     {
       "name": "Visa",
-      "ok": false,
+      "ok": true,
       "jobCount": 41,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Vitalize",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "ccc3148c-fde1-4b22-bf5b-fd74a0f95c1d",
+      "title": "Senior Engineering Manager, Observability Engineering",
+      "location": "Seattle, Washington (+1 more)",
+      "team": "DevProd",
+      "url": "https://jobs.ashbyhq.com/temporal/ccc3148c-fde1-4b22-bf5b-fd74a0f95c1d",
+      "postedAt": "2026-10-22T22:47:20.584Z",
+      "key": "temporal:ccc3148c-fde1-4b22-bf5b-fd74a0f95c1d",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T23:00:27.859Z"
+    },
     {
       "id": "8302244",
       "title": "Staff Web Engineer, Advisor Products",
@@ -44310,22 +44328,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T23:47:47.580Z"
-    },
-    {
-      "id": "ad992ead-2a9a-4694-8fca-0504354548cd",
-      "title": "Member of Technical Staff, Production Site Reliability Engineer",
-      "location": "San Francisco",
-      "team": "Research & Engineering",
-      "url": "https://jobs.ashbyhq.com/inferact/ad992ead-2a9a-4694-8fca-0504354548cd",
-      "postedAt": "2026-09-22T22:58:23.914Z",
-      "key": "inferact:ad992ead-2a9a-4694-8fca-0504354548cd",
-      "company": "Inferact",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T23:00:27.081Z"
     },
     {
       "id": "R1001486",
