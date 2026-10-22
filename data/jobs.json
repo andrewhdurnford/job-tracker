@@ -1,17 +1,19 @@
 {
-  "generatedAt": "2026-10-22T15:33:44.452Z",
+  "generatedAt": "2026-10-22T15:40:17.674Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "1password:6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f",
-    "1password:b2726ac7-dd0d-42f3-93a5-139e18c90779"
+    "1password:aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+    "1password:c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+    "DocuSign:30563",
+    "Nvidia:JR2012046"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 145,
+    "intern": 148,
     "new-grad": 20,
     "experienced": 2292
   },
@@ -19,7 +21,7 @@
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -594,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -937,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1426,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 134,
+      "jobCount": 135,
       "error": null,
       "stale": false
     },
@@ -5304,7 +5306,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,84 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2012046",
+      "title": "Senior Software Engineer, Hardware Tools and Methodology Development",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Hardware-Tools-and-Methodology-Development_JR2012046",
+      "postedAt": "2026-10-22T15:40:21.815Z",
+      "key": "Nvidia:JR2012046",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T15:40:17.674Z"
+    },
+    {
+      "id": "c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+      "title": "Developer Intern, Provisioning - Winter 2027",
+      "location": "Remote (United States | Canada)",
+      "team": "Internships",
+      "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+      "postedAt": "2026-10-22T15:36:02.416Z",
+      "key": "1password:c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+      "company": "1Password",
+      "level": "intern",
+      "term": {
+        "label": "Winter 2027",
+        "seasons": [
+          "winter"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-22T15:40:17.674Z"
+    },
+    {
+      "id": "30563",
+      "title": "Applied Science Intern",
+      "location": "US-SFO-Main",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30563/login",
+      "postedAt": "2026-10-22T15:34:00.000Z",
+      "key": "DocuSign:30563",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T15:40:17.674Z"
+    },
+    {
+      "id": "aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+      "title": "Security Intern, Threat Operations - Winter 2027",
+      "location": "Remote (United States | Canada)",
+      "team": "Internships",
+      "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+      "postedAt": "2026-10-22T15:32:58.305Z",
+      "key": "1password:aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+      "company": "1Password",
+      "level": "intern",
+      "term": {
+        "label": "Winter 2027",
+        "seasons": [
+          "winter"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-22T15:40:17.674Z"
+    },
     {
       "id": "b2726ac7-dd0d-42f3-93a5-139e18c90779",
       "title": "Developer Intern, Vault Team - Winter 2027",
@@ -44614,23 +44694,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-09-22T15:40:17.920Z"
-    },
-    {
-      "id": "8223417",
-      "title": "Software Engineer, Site Reliability",
-      "location": "United States | Remote",
-      "team": null,
-      "url": "https://careers.upstart.com/jobs?gh_jid=8223417",
-      "postedAt": "2026-09-22T15:35:12.000Z",
-      "key": "upstart:8223417",
-      "company": "Upstart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
       ],
       "firstSeen": "2026-09-22T15:40:17.920Z"
     },
