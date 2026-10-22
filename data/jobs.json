@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-10-22T19:24:36.446Z",
+  "generatedAt": "2026-10-22T19:30:23.747Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "ramp:09360e92-fc95-4ba6-9611-dfefd60b13ce",
-    "ramp:29a5da77-37f0-402a-92bc-072778e77ed8",
-    "Visa:REF089520W",
-    "Visa:REF089125W"
+    "elastic:8315564"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 19,
-    "experienced": 2300
+    "experienced": 2299
   },
   "companies": [
     {
@@ -1526,7 +1523,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -1673,7 +1670,7 @@
     {
       "name": "Faire",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3514,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 51,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 102,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8315564",
+      "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+      "location": "Switzerland",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8315564&gh_jid=8315564",
+      "postedAt": "2026-10-22T19:30:05.000Z",
+      "key": "elastic:8315564",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-22T19:30:23.747Z"
+    },
     {
       "id": "REF089520W",
       "title": "Director, Data Engineering",
@@ -44647,38 +44660,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T22:20:17.318Z"
-    },
-    {
-      "id": "ac442f1f-c0d2-4608-a155-bfc89190e01c",
-      "title": "Full-Stack Software Engineer, Child Safety Tools & Systems",
-      "location": "San Francisco",
-      "team": "Applied AI",
-      "url": "https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c",
-      "postedAt": "2026-09-22T19:29:04.677Z",
-      "key": "openai:ac442f1f-c0d2-4608-a155-bfc89190e01c",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T19:30:22.336Z"
-    },
-    {
-      "id": "8831888002",
-      "title": "Senior Applied AI/ML Scientist - Listing Quality",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/faire/jobs/8831888002?gh_jid=8831888002",
-      "postedAt": "2026-09-22T19:25:03.000Z",
-      "key": "faire:8831888002",
-      "company": "Faire",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T19:30:22.336Z"
     },
     {
       "id": "JR2026364",
