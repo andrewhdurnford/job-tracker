@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-10-22T22:40:16.352Z",
+  "generatedAt": "2026-10-22T22:50:17.502Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "openai:dd9c7c04-7181-4c65-9c6a-0e04313e3707",
-    "robinhood:8302244"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -13,7 +10,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 20,
-    "experienced": 2287
+    "experienced": 2286
   },
   "companies": [
     {
@@ -67,10 +64,10 @@
     },
     {
       "name": "Adobe",
-      "ok": true,
+      "ok": false,
       "jobCount": 7,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Adyen",
@@ -937,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1243,10 +1240,10 @@
     },
     {
       "name": "CrowdStrike",
-      "ok": true,
+      "ok": false,
       "jobCount": 34,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "CTGT",
@@ -1756,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4695,7 +4692,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 102,
+      "jobCount": 101,
       "error": null,
       "stale": false
     },
@@ -4876,10 +4873,10 @@
     },
     {
       "name": "Superside",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Svix",
@@ -5037,10 +5034,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tennr",
@@ -5401,10 +5398,10 @@
     },
     {
       "name": "Visa",
-      "ok": true,
+      "ok": false,
       "jobCount": 41,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Vitalize",
@@ -44329,22 +44326,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T23:00:27.081Z"
-    },
-    {
-      "id": "8829632002",
-      "title": "Machine Maintenance Engineer, Tool & Die ",
-      "location": "Bastrop, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8829632002?gh_jid=8829632002",
-      "postedAt": "2026-09-22T22:45:48.000Z",
-      "key": "spacex:8829632002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T22:50:17.000Z"
     },
     {
       "id": "R1001486",
