@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-10-22T16:40:20.457Z",
+  "generatedAt": "2026-10-22T16:50:17.068Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "bobyard:03e53145-f50b-477b-bea2-bfb98c071b72",
-    "Remitly:R_106624",
-    "Remitly:R_106623"
+    "openai:551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
+    "stripe:8314235"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -595,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -938,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2169,7 +2168,7 @@
     {
       "name": "Harness",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3513,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -4801,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 52,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8314235",
+      "title": "Software Engineer, Resource Automation",
+      "location": "South San Francisco, CA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8314235",
+      "postedAt": "2026-10-22T16:43:29.000Z",
+      "key": "stripe:8314235",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T16:50:17.068Z"
+    },
+    {
+      "id": "551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
+      "title": "Software Engineer, Identity Infrastructure ",
+      "location": "San Francisco (+2 more)",
+      "team": "IT",
+      "url": "https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
+      "postedAt": "2026-10-22T16:41:00.891Z",
+      "key": "openai:551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T16:50:17.068Z"
+    },
     {
       "id": "R_106624",
       "title": "Fullstack Software Development Engineer I, Card",
@@ -18241,22 +18272,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T19:00:23.788Z"
-    },
-    {
-      "id": "5262390007",
-      "title": "Senior Product Security Engineer ",
-      "location": "U.S. (Remote)",
-      "team": null,
-      "url": "https://www.harness.io/company/jobs/apply?gh_jid=5262390007&gh_jid=5262390007",
-      "postedAt": "2026-10-13T18:49:03.000Z",
-      "key": "harnessinc:5262390007",
-      "company": "Harness",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T18:50:19.952Z"
     },
     {
       "id": "547fef33-6371-4a49-9085-5810744f95b0",
@@ -44824,22 +44839,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T17:00:32.071Z"
-    },
-    {
-      "id": "8222098",
-      "title": "Research Scientist, World Model Post-Training",
-      "location": "Mountain View, CA, USA; San Francisco, CA, USA; New York, NY, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8222098",
-      "postedAt": "2026-09-22T16:48:50.000Z",
-      "key": "waymo:8222098",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T16:50:19.348Z"
     },
     {
       "id": "R1001606",
