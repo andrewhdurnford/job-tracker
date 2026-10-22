@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-10-22T22:30:21.155Z",
+  "generatedAt": "2026-10-22T22:40:16.352Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "doordashusa:8273965"
+    "openai:dd9c7c04-7181-4c65-9c6a-0e04313e3707",
+    "robinhood:8302244"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 150,
+    "intern": 148,
     "new-grad": 20,
-    "experienced": 2288
+    "experienced": 2287
   },
   "companies": [
     {
@@ -431,7 +432,7 @@
     {
       "name": "Astranis",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -4232,7 +4233,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 103,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 102,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4875,10 +4876,10 @@
     },
     {
       "name": "Superside",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Svix",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8302244",
+      "title": "Staff Web Engineer, Advisor Products",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8302244?t=gh_src=&gh_jid=8302244",
+      "postedAt": "2026-10-22T22:37:11.000Z",
+      "key": "robinhood:8302244",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T22:40:16.352Z"
+    },
+    {
+      "id": "dd9c7c04-7181-4c65-9c6a-0e04313e3707",
+      "title": "Principal Software Engineer, Productivity",
+      "location": "San Francisco",
+      "team": "Applied AI",
+      "url": "https://jobs.ashbyhq.com/openai/dd9c7c04-7181-4c65-9c6a-0e04313e3707",
+      "postedAt": "2026-10-22T22:35:52.950Z",
+      "key": "openai:dd9c7c04-7181-4c65-9c6a-0e04313e3707",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T22:40:16.352Z"
+    },
     {
       "id": "662b0a18-904c-484f-9d44-a8c920ad5acc",
       "title": "Sr. Staff Threat Intelligence Engineer",
@@ -44312,98 +44345,6 @@
         "us"
       ],
       "firstSeen": "2026-09-22T22:50:17.000Z"
-    },
-    {
-      "id": "4704595006",
-      "title": "Flight Software Intern (Winter 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006",
-      "postedAt": "2026-09-22T22:37:25.000Z",
-      "key": "astranis:4704595006",
-      "company": "Astranis",
-      "level": "intern",
-      "term": {
-        "label": "Winter 2027",
-        "seasons": [
-          "winter"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T22:40:17.137Z"
-    },
-    {
-      "id": "4704598006",
-      "title": "Flight Software Intern (Summer 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006",
-      "postedAt": "2026-09-22T22:37:23.000Z",
-      "key": "astranis:4704598006",
-      "company": "Astranis",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T22:40:17.137Z"
-    },
-    {
-      "id": "8834104002",
-      "title": "Sr. Power Systems Engineer",
-      "location": "College Station, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8834104002?gh_jid=8834104002",
-      "postedAt": "2026-09-22T22:37:03.000Z",
-      "key": "spacex:8834104002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T22:40:17.137Z"
-    },
-    {
-      "id": "4704714006",
-      "title": "Flight Software Associate (Winter 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704714006",
-      "postedAt": "2026-09-22T22:37:01.000Z",
-      "key": "astranis:4704714006",
-      "company": "Astranis",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T22:40:17.137Z"
-    },
-    {
-      "id": "4704716006",
-      "title": "Flight Software Associate (Summer 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704716006",
-      "postedAt": "2026-09-22T22:36:59.000Z",
-      "key": "astranis:4704716006",
-      "company": "Astranis",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T22:40:17.137Z"
     },
     {
       "id": "R1001486",
