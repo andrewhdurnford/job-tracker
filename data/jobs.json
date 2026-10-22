@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-22T00:00:25.257Z",
+  "generatedAt": "2026-10-22T00:10:18.370Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "DocuSign:30478",
+    "elastic:8274383"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 142,
+    "intern": 143,
     "new-grad": 19,
-    "experienced": 2310
+    "experienced": 2311
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1423,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -1521,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8274383",
+      "title": "Software Engineer II - Control Plane (Hosted Foundations / Applications)",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383",
+      "postedAt": "2026-10-22T00:05:16.000Z",
+      "key": "elastic:8274383",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T00:10:18.370Z"
+    },
     {
       "id": "R30435",
       "title": "Director of Engineering, Sensor Detection Platform (Remote)",
@@ -22308,6 +22327,22 @@
         "us"
       ],
       "firstSeen": "2026-10-08T20:40:52.406Z"
+    },
+    {
+      "id": "30478",
+      "title": "Software Engineer Intern",
+      "location": "US-Seattle-3rd",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30478/login",
+      "postedAt": "2026-10-08T20:34:00.000Z",
+      "key": "DocuSign:30478",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T00:10:18.370Z"
     },
     {
       "id": "4432119009",
