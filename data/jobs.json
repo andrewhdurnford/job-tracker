@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-22T19:50:18.744Z",
+  "generatedAt": "2026-10-22T20:00:28.577Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2019406"
+    "cursor:6868de4a-f753-4f10-8dc5-f7aabef03b56",
+    "snowflake:6aa02c13-d9db-4624-b4ce-cc467562e2ed",
+    "stripe:8260980"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 19,
-    "experienced": 2299
+    "experienced": 2297
   },
   "companies": [
     {
@@ -788,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 254,
+      "jobCount": 253,
       "error": null,
       "stale": false
     },
@@ -1278,7 +1280,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4196,10 +4198,10 @@
     },
     {
       "name": "Rezo Therapeutics",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Rigetti Quantum Computing",
@@ -4414,7 +4416,7 @@
     {
       "name": "Sentry",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -4799,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5576,7 +5578,7 @@
     {
       "name": "Writer",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5694,13 +5696,61 @@
     },
     {
       "name": "Zuma",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     }
   ],
   "jobs": [
+    {
+      "id": "6aa02c13-d9db-4624-b4ce-cc467562e2ed",
+      "title": "Senior Software Engineer - Marketplace ",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/6aa02c13-d9db-4624-b4ce-cc467562e2ed",
+      "postedAt": "2026-10-22T19:53:50.565Z",
+      "key": "snowflake:6aa02c13-d9db-4624-b4ce-cc467562e2ed",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T20:00:28.577Z"
+    },
+    {
+      "id": "6868de4a-f753-4f10-8dc5-f7aabef03b56",
+      "title": "Software Engineer, Compute Infra",
+      "location": "San Francisco (+1 more)",
+      "team": "Cloud",
+      "url": "https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56",
+      "postedAt": "2026-10-22T19:53:00.965Z",
+      "key": "cursor:6868de4a-f753-4f10-8dc5-f7aabef03b56",
+      "company": "Cursor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T20:00:28.577Z"
+    },
+    {
+      "id": "8260980",
+      "title": "Staff Software Engineer, Payments Intelligence",
+      "location": "Seattle, New York, San Francisco",
+      "team": "8511 PayIntel - Eng",
+      "url": "https://stripe.com/jobs/search?gh_jid=8260980",
+      "postedAt": "2026-10-22T19:52:24.000Z",
+      "key": "stripe:8260980",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-22T20:00:28.577Z"
+    },
     {
       "id": "JR2019406",
       "title": "Senior Reliability Engineer",
@@ -5877,22 +5927,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-22T19:10:16.717Z"
-    },
-    {
-      "id": "R249202",
-      "title": "Staff Engineer - Data Engineering",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Software-Engineer_R249202-1",
-      "postedAt": "2026-10-22T19:00:44.163Z",
-      "key": "Capital One:R249202",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-22T19:00:40.428Z"
     },
     {
       "id": "f50260bc-5da2-475d-bc4b-172ad7c5aa01",
@@ -44574,70 +44608,6 @@
       "postedAt": "2026-09-22T20:00:29.005Z",
       "key": "Capital One:R1001276",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T20:00:25.677Z"
-    },
-    {
-      "id": "d22a420f-786e-4c66-8846-c77878483cd5",
-      "title": "Infrastructure engineer",
-      "location": "New York City, NY (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/writer/d22a420f-786e-4c66-8846-c77878483cd5",
-      "postedAt": "2026-09-22T20:00:15.667Z",
-      "key": "writer:d22a420f-786e-4c66-8846-c77878483cd5",
-      "company": "Writer",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T20:10:18.507Z"
-    },
-    {
-      "id": "c21128b0-28cd-424c-b1a8-27b1ead69d97",
-      "title": "AI research scientist",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/writer/c21128b0-28cd-424c-b1a8-27b1ead69d97",
-      "postedAt": "2026-09-22T19:57:30.241Z",
-      "key": "writer:c21128b0-28cd-424c-b1a8-27b1ead69d97",
-      "company": "Writer",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T20:00:25.677Z"
-    },
-    {
-      "id": "40f9e2b4-3284-4a20-b45d-0f5e5dd9108d",
-      "title": "AI engineer ",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/writer/40f9e2b4-3284-4a20-b45d-0f5e5dd9108d",
-      "postedAt": "2026-09-22T19:55:57.584Z",
-      "key": "writer:40f9e2b4-3284-4a20-b45d-0f5e5dd9108d",
-      "company": "Writer",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-22T20:00:25.677Z"
-    },
-    {
-      "id": "f34d1bfd-4b09-4436-976a-79fd6648cf7b",
-      "title": "Engineering Manager, Infrastructure",
-      "location": "San Francisco, California",
-      "team": "Engineering ",
-      "url": "https://jobs.ashbyhq.com/sentry/f34d1bfd-4b09-4436-976a-79fd6648cf7b",
-      "postedAt": "2026-09-22T19:51:24.036Z",
-      "key": "sentry:f34d1bfd-4b09-4436-976a-79fd6648cf7b",
-      "company": "Sentry",
       "level": "experienced",
       "term": null,
       "regions": [
