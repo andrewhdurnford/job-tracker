@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T14:50:17.436Z",
+  "generatedAt": "2026-10-23T15:00:26.773Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 20,
-    "experienced": 2268
+    "experienced": 2267
   },
   "companies": [
     {
@@ -253,10 +253,10 @@
     },
     {
       "name": "Anchorage",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Andera",
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1464,10 +1464,10 @@
     },
     {
       "name": "Doxel",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Dropbox",
@@ -1507,7 +1507,7 @@
     {
       "name": "Eight Sleep",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1744,10 +1744,10 @@
     },
     {
       "name": "Fintual",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Finvest",
@@ -2108,10 +2108,10 @@
     },
     {
       "name": "H1",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "HackerRank",
@@ -2927,10 +2927,10 @@
     },
     {
       "name": "MaverickX",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "May Mobility",
@@ -3725,10 +3725,10 @@
     },
     {
       "name": "PickTrace",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "PicsArt",
@@ -3769,7 +3769,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 101,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4826,7 +4826,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5029,7 +5029,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5692,10 +5692,10 @@
     },
     {
       "name": "Zuma",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     }
   ],
   "jobs": [
@@ -44315,22 +44315,6 @@
       "postedAt": "2026-09-23T15:10:22.350Z",
       "key": "Capital One:R1001741",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T15:10:18.682Z"
-    },
-    {
-      "id": "74b90c13-fe64-4bcd-9b5e-ebad6b5b4570",
-      "title": "Security Engineer",
-      "location": "Remote - US",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/eightsleep/74b90c13-fe64-4bcd-9b5e-ebad6b5b4570",
-      "postedAt": "2026-09-23T15:00:11.552Z",
-      "key": "eightsleep:74b90c13-fe64-4bcd-9b5e-ebad6b5b4570",
-      "company": "Eight Sleep",
       "level": "experienced",
       "term": null,
       "regions": [
