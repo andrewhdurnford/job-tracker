@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-10-23T18:00:29.039Z",
+  "generatedAt": "2026-10-23T18:10:16.022Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "cribl:6232093004",
-    "komodohealth:8912047002",
-    "roblox:8283707"
+    "juicebox:386a5d74-ea06-4a8c-aeb5-c883fe55cf44"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -595,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -761,10 +759,10 @@
     },
     {
       "name": "Canary Technologies",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Candid Health",
@@ -1195,10 +1193,10 @@
     },
     {
       "name": "Coupa",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Coupang",
@@ -1455,7 +1453,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -1566,10 +1564,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -2364,10 +2362,10 @@
     },
     {
       "name": "Included Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inferact",
@@ -2505,7 +2503,7 @@
     {
       "name": "Juicebox",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3085,10 +3083,10 @@
     },
     {
       "name": "Mistral AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mixpanel",
@@ -3260,10 +3258,10 @@
     },
     {
       "name": "Neighbor",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Neo4j",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "386a5d74-ea06-4a8c-aeb5-c883fe55cf44",
+      "title": "Engineering Lead",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/juicebox/386a5d74-ea06-4a8c-aeb5-c883fe55cf44",
+      "postedAt": "2026-10-23T18:07:08.712Z",
+      "key": "juicebox:386a5d74-ea06-4a8c-aeb5-c883fe55cf44",
+      "company": "Juicebox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T18:10:16.022Z"
+    },
     {
       "id": "6232093004",
       "title": "Senior Information Systems Engineer",
@@ -43833,22 +43847,6 @@
         "us"
       ],
       "firstSeen": "2026-09-23T18:30:24.774Z"
-    },
-    {
-      "id": "8225722",
-      "title": "Autonomy Platform Engineer",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8225722",
-      "postedAt": "2026-09-23T18:04:38.000Z",
-      "key": "doordashusa:8225722",
-      "company": "DoorDash",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T18:10:16.330Z"
     },
     {
       "id": "R1001935",
