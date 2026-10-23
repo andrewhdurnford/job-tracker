@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-23T16:10:19.549Z",
+  "generatedAt": "2026-10-23T16:20:18.831Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "cloudflare:8311378",
+    "DocuSign:30578",
+    "DocuSign:30571",
+    "DocuSign:30587",
+    "twilio:8258589"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 150,
+    "intern": 153,
     "new-grad": 20,
-    "experienced": 2257
+    "experienced": 2258
   },
   "companies": [
     {
@@ -591,7 +597,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1010,7 +1016,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -1423,7 +1429,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -2144,7 +2150,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5224,7 +5230,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8311378",
+      "title": "Data Center Network Operations Engineer",
+      "location": "Atlanta, GA (+6 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8311378?gh_jid=8311378",
+      "postedAt": "2026-10-23T16:18:50.000Z",
+      "key": "cloudflare:8311378",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T16:20:18.831Z"
+    },
+    {
+      "id": "8258589",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Remote - Ontario, Canada (DNU)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8258589",
+      "postedAt": "2026-10-23T16:17:20.000Z",
+      "key": "twilio:8258589",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-23T16:20:18.831Z"
+    },
+    {
+      "id": "30587",
+      "title": "Agentic AI Engineer Intern",
+      "location": "US-SFO-Main",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30587/login",
+      "postedAt": "2026-10-23T16:15:00.000Z",
+      "key": "DocuSign:30587",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T16:20:18.831Z"
+    },
+    {
+      "id": "30571",
+      "title": "Software Developer Intern",
+      "location": "US-SFO-Main",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30571/login",
+      "postedAt": "2026-10-23T16:15:00.000Z",
+      "key": "DocuSign:30571",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T16:20:18.831Z"
+    },
+    {
+      "id": "30578",
+      "title": "AI Platform Engineer Intern",
+      "location": "US-SFO-Main",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30578/login",
+      "postedAt": "2026-10-23T16:14:00.000Z",
+      "key": "DocuSign:30578",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T16:20:18.831Z"
+    },
     {
       "id": "R29877",
       "title": "Systems Engineer II (Remote)",
@@ -37200,22 +37286,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T03:50:15.717Z"
-    },
-    {
-      "id": "8596f81e-d6a6-4217-a829-cb067d8e59ef",
-      "title": "Senior Data Scientist, Product Analytics",
-      "location": "San Francisco, CA",
-      "team": "Data & Machine Learning",
-      "url": "https://jobs.ashbyhq.com/handshake/8596f81e-d6a6-4217-a829-cb067d8e59ef",
-      "postedAt": "2026-09-29T03:13:17.974Z",
-      "key": "handshake:8596f81e-d6a6-4217-a829-cb067d8e59ef",
-      "company": "Handshake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T03:20:20.299Z"
     },
     {
       "id": "8214618",
