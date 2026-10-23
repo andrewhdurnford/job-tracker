@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-23T20:20:22.539Z",
+  "generatedAt": "2026-10-23T20:30:24.741Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "roblox:8287855"
+    "saronic:1bda085b-f8bb-490f-9804-66c4f6a55b29",
+    "sierra:4b28305d-e601-4328-a8f5-9f236bd718bd",
+    "sofi:8037984003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 19,
-    "experienced": 2236
+    "experienced": 2237
   },
   "companies": [
     {
@@ -228,7 +230,7 @@
     {
       "name": "Amca",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3588,7 +3590,7 @@
     {
       "name": "Palantir",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4365,7 +4367,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4491,7 +4493,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4659,7 +4661,7 @@
     {
       "name": "SoFi",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1bda085b-f8bb-490f-9804-66c4f6a55b29",
+      "title": "Electrical Build Engineer",
+      "location": "Austin, TX",
+      "team": "Hardware Eng",
+      "url": "https://jobs.ashbyhq.com/saronic/1bda085b-f8bb-490f-9804-66c4f6a55b29",
+      "postedAt": "2026-10-23T20:27:04.016Z",
+      "key": "saronic:1bda085b-f8bb-490f-9804-66c4f6a55b29",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T20:30:24.741Z"
+    },
+    {
+      "id": "4b28305d-e601-4328-a8f5-9f236bd718bd",
+      "title": "Software Engineer, Cloud Infrastructure",
+      "location": "San Francisco, CA",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/sierra/4b28305d-e601-4328-a8f5-9f236bd718bd",
+      "postedAt": "2026-10-23T20:25:08.206Z",
+      "key": "sierra:4b28305d-e601-4328-a8f5-9f236bd718bd",
+      "company": "Sierra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T20:30:24.741Z"
+    },
+    {
+      "id": "8037984003",
+      "title": "Principal Software Engineer, Data Platform — Data Trust & AI Context",
+      "location": "WA - Seattle; UT - Cottonwood Heights; CA - San Francisco ",
+      "team": null,
+      "url": "https://sofi.com/careers/job/8037984003?gh_jid=8037984003",
+      "postedAt": "2026-10-23T20:23:50.000Z",
+      "key": "sofi:8037984003",
+      "company": "SoFi",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T20:30:24.741Z"
+    },
     {
       "id": "8287855",
       "title": "Principal Reliability Operations Engineer",
@@ -43554,38 +43604,6 @@
       "postedAt": "2026-09-23T20:30:32.042Z",
       "key": "Capital One:R1001749",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T20:30:28.776Z"
-    },
-    {
-      "id": "4417108009",
-      "title": "Build Engineering Specialist",
-      "location": "El Segundo, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/amca/jobs/4417108009",
-      "postedAt": "2026-09-23T20:27:40.000Z",
-      "key": "amca:4417108009",
-      "company": "Amca",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T20:30:28.776Z"
-    },
-    {
-      "id": "98c244fc-444b-43ba-b152-30227191170b",
-      "title": "Security Systems Engineer",
-      "location": "Seattle, WA",
-      "team": "Global Security and Investigations",
-      "url": "https://jobs.lever.co/palantir/98c244fc-444b-43ba-b152-30227191170b",
-      "postedAt": "2026-09-23T20:22:09.272Z",
-      "key": "palantir:98c244fc-444b-43ba-b152-30227191170b",
-      "company": "Palantir",
       "level": "experienced",
       "term": null,
       "regions": [
