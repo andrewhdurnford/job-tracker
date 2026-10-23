@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-10-23T05:20:17.053Z",
+  "generatedAt": "2026-10-23T05:30:19.593Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "CrowdStrike:R30302"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -3727,10 +3725,10 @@
     },
     {
       "name": "PickTrace",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "PicsArt",
