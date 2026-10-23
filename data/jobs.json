@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-10-23T17:00:27.136Z",
+  "generatedAt": "2026-10-23T17:10:18.679Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "CrowdStrike:R30384",
-    "CrowdStrike:R30377",
-    "verkada:5273882007"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -14,7 +10,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 20,
-    "experienced": 2258
+    "experienced": 2251
   },
   "companies": [
     {
@@ -1895,10 +1891,10 @@
     },
     {
       "name": "Freshworks",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Fulcrum",
@@ -4493,7 +4489,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4569,10 +4565,10 @@
     },
     {
       "name": "Skyways",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sleeper",
@@ -44035,119 +44031,6 @@
       "postedAt": "2026-09-23T17:10:23.332Z",
       "key": "Capital One:R1001794",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T17:10:20.281Z"
-    },
-    {
-      "id": "fd5df98a-e2c8-4d47-a803-daee5cccb36f",
-      "title": "Software Engineer, Agent - Tech, Media & Telecom",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Agent Engineering",
-      "url": "https://jobs.ashbyhq.com/sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f",
-      "postedAt": "2026-09-23T17:08:47.244Z",
-      "key": "sierra:fd5df98a-e2c8-4d47-a803-daee5cccb36f",
-      "company": "Sierra",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T17:20:20.674Z"
-    },
-    {
-      "id": "d2dc9baf-30d4-4708-9227-62a946b4b37e",
-      "title": "Software Engineer, Agent - Travel & Hospitality",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Agent Engineering",
-      "url": "https://jobs.ashbyhq.com/sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e",
-      "postedAt": "2026-09-23T17:08:27.771Z",
-      "key": "sierra:d2dc9baf-30d4-4708-9227-62a946b4b37e",
-      "company": "Sierra",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T17:20:20.674Z"
-    },
-    {
-      "id": "b9b9b5e0-7304-4265-aa71-d71d80d29402",
-      "title": "Software Engineer, Agent - Insurance",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Agent Engineering",
-      "url": "https://jobs.ashbyhq.com/sierra/b9b9b5e0-7304-4265-aa71-d71d80d29402",
-      "postedAt": "2026-09-23T17:07:19.284Z",
-      "key": "sierra:b9b9b5e0-7304-4265-aa71-d71d80d29402",
-      "company": "Sierra",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T17:10:20.281Z"
-    },
-    {
-      "id": "c729c633-0376-436e-8f2b-1501088b85b0",
-      "title": "Software Engineer, Agent - Retail",
-      "location": "San Francisco, CA (+3 more)",
-      "team": "Agent Engineering",
-      "url": "https://jobs.ashbyhq.com/sierra/c729c633-0376-436e-8f2b-1501088b85b0",
-      "postedAt": "2026-09-23T17:06:32.307Z",
-      "key": "sierra:c729c633-0376-436e-8f2b-1501088b85b0",
-      "company": "Sierra",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-23T17:10:20.281Z"
-    },
-    {
-      "id": "7dae2e7c-6556-438c-bf60-509931d8188c",
-      "title": "Software Engineer, Agent - Public Sector",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Agent Engineering",
-      "url": "https://jobs.ashbyhq.com/sierra/7dae2e7c-6556-438c-bf60-509931d8188c",
-      "postedAt": "2026-09-23T17:06:01.317Z",
-      "key": "sierra:7dae2e7c-6556-438c-bf60-509931d8188c",
-      "company": "Sierra",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T17:10:20.281Z"
-    },
-    {
-      "id": "33dbd62f-8212-4ea8-9b59-74370c1f2803",
-      "title": "Software Engineer, Agent - Financial Services",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Agent Engineering",
-      "url": "https://jobs.ashbyhq.com/sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803",
-      "postedAt": "2026-09-23T17:05:41.540Z",
-      "key": "sierra:33dbd62f-8212-4ea8-9b59-74370c1f2803",
-      "company": "Sierra",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T17:10:20.281Z"
-    },
-    {
-      "id": "f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
-      "title": "Software Engineer, Agent - Healthcare",
-      "location": "New York, NY (+1 more)",
-      "team": "Agent Engineering",
-      "url": "https://jobs.ashbyhq.com/sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
-      "postedAt": "2026-09-23T17:05:12.660Z",
-      "key": "sierra:f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
-      "company": "Sierra",
       "level": "experienced",
       "term": null,
       "regions": [
