@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-23T22:40:17.073Z",
+  "generatedAt": "2026-10-23T22:50:17.363Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "asana:8319678",
+    "asana:7962306",
+    "gitlab:8771512002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 19,
-    "experienced": 2252
+    "experienced": 2251
   },
   "companies": [
     {
@@ -387,7 +391,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -1836,7 +1840,7 @@
     {
       "name": "Flow Engineering",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1962,7 +1966,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4692,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 97,
+      "jobCount": 95,
       "error": null,
       "stale": false
     },
@@ -4826,7 +4830,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5112,7 +5116,7 @@
     {
       "name": "Together AI",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8319678",
+      "title": "Senior Software Engineer, AI",
+      "location": "Vancouver, BC",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/8319678?gh_jid=8319678",
+      "postedAt": "2026-10-23T22:48:17.000Z",
+      "key": "asana:8319678",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-23T22:50:17.363Z"
+    },
+    {
+      "id": "8771512002",
+      "title": "Backend Engineer, Knowledge Graph (Rust)",
+      "location": "Remote, Canada; Remote, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+      "postedAt": "2026-10-23T22:47:07.000Z",
+      "key": "gitlab:8771512002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-23T22:50:17.363Z"
+    },
+    {
+      "id": "7962306",
+      "title": "Software Engineer, AI",
+      "location": "Vancouver, BC",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/7962306?gh_jid=7962306",
+      "postedAt": "2026-10-23T22:42:38.000Z",
+      "key": "asana:7962306",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-23T22:50:17.363Z"
+    },
     {
       "id": "JR2028170",
       "title": "Staff Site Reliability Operations",
@@ -43718,70 +43771,6 @@
         "us"
       ],
       "firstSeen": "2026-09-23T23:00:58.797Z"
-    },
-    {
-      "id": "5224090007",
-      "title": "Staff Software Engineer - AI Compute, Together Cloud",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5224090007",
-      "postedAt": "2026-09-23T22:48:12.000Z",
-      "key": "togetherai:5224090007",
-      "company": "Together AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T22:50:16.215Z"
-    },
-    {
-      "id": "8840486002",
-      "title": "Sr. Full Stack Software Engineer (Components)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8840486002?gh_jid=8840486002",
-      "postedAt": "2026-09-23T22:45:10.000Z",
-      "key": "spacex:8840486002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T22:50:16.215Z"
-    },
-    {
-      "id": "8839057002",
-      "title": "Full Stack Software Engineer (Components)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8839057002?gh_jid=8839057002",
-      "postedAt": "2026-09-23T22:44:10.000Z",
-      "key": "spacex:8839057002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T22:50:16.215Z"
-    },
-    {
-      "id": "b77281cd-bfd0-4885-82eb-8ed0cc75a0fa",
-      "title": "Head of Forward Deployed Engineering",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/flowengineering/b77281cd-bfd0-4885-82eb-8ed0cc75a0fa",
-      "postedAt": "2026-09-23T22:42:56.696Z",
-      "key": "flowengineering:b77281cd-bfd0-4885-82eb-8ed0cc75a0fa",
-      "company": "Flow Engineering",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T22:50:16.215Z"
     },
     {
       "id": "JR2016045",
