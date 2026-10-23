@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-23T21:30:22.249Z",
+  "generatedAt": "2026-10-23T21:40:17.205Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Nvidia:JR2018371",
+    "shieldai:18b3fd20-87bd-4f96-9636-7cfd0ada20af",
+    "stripe:8144196"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 19,
-    "experienced": 2237
+    "experienced": 2240
   },
   "companies": [
     {
@@ -934,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2915,7 +2919,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 136,
+      "jobCount": 137,
       "error": null,
       "stale": false
     },
@@ -4468,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -4797,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2018371",
+      "title": "Software Engineer, Workflow Systems",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Engineering-Workflow-Platform_JR2018371",
+      "postedAt": "2026-10-23T21:40:20.855Z",
+      "key": "Nvidia:JR2018371",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T21:40:17.205Z"
+    },
+    {
+      "id": "18b3fd20-87bd-4f96-9636-7cfd0ada20af",
+      "title": "Staff Engineer, Software Embedded Applications - Ranger (R6393)",
+      "location": "Seattle, Washington",
+      "team": "X-BAT Engineering - Software",
+      "url": "https://jobs.lever.co/shieldai/18b3fd20-87bd-4f96-9636-7cfd0ada20af",
+      "postedAt": "2026-10-23T21:37:44.953Z",
+      "key": "shieldai:18b3fd20-87bd-4f96-9636-7cfd0ada20af",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T21:40:17.205Z"
+    },
     {
       "id": "8316086",
       "title": "Staff Machine Learning Engineer, Retrieval & Targeting",
@@ -27472,6 +27508,22 @@
         "us"
       ],
       "firstSeen": "2026-10-07T15:50:16.243Z"
+    },
+    {
+      "id": "8144196",
+      "title": "AI Engineer",
+      "location": "Chicago",
+      "team": "1155 SA Transformation",
+      "url": "https://stripe.com/jobs/search?gh_jid=8144196",
+      "postedAt": "2026-10-07T15:39:36.000Z",
+      "key": "stripe:8144196",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T21:40:17.205Z"
     },
     {
       "id": "161017ed-2809-48a2-8575-44880917c8ae",
