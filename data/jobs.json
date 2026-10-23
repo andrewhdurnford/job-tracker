@@ -1,20 +1,18 @@
 {
-  "generatedAt": "2026-10-23T22:50:17.363Z",
+  "generatedAt": "2026-10-23T23:00:24.243Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "asana:8319678",
-    "asana:7962306",
-    "gitlab:8771512002"
+    "okta:8319274"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 153,
+    "intern": 151,
     "new-grad": 19,
-    "experienced": 2251
+    "experienced": 2249
   },
   "companies": [
     {
@@ -433,7 +431,7 @@
     {
       "name": "Astranis",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -595,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3471,7 +3469,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -3513,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -5767,6 +5765,22 @@
         "canada"
       ],
       "firstSeen": "2026-10-23T22:30:23.241Z"
+    },
+    {
+      "id": "8319274",
+      "title": "Sr. Software Engineer, AI Platform & Infrastructure",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8319274?gh_jid=8319274",
+      "postedAt": "2026-10-23T22:29:17.000Z",
+      "key": "okta:8319274",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T23:00:24.243Z"
     },
     {
       "id": "8319602",
@@ -10303,22 +10317,6 @@
       "postedAt": "2026-10-21T17:40:20.755Z",
       "key": "Nvidia:JR2028237",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T17:40:16.531Z"
-    },
-    {
-      "id": "74842880-e750-4664-9e2e-83b4c96c5a03",
-      "title": "Principal Software Engineer, Full Stack — Codex",
-      "location": "San Francisco",
-      "team": "Codex - Engineering",
-      "url": "https://jobs.ashbyhq.com/openai/74842880-e750-4664-9e2e-83b4c96c5a03",
-      "postedAt": "2026-10-21T17:32:33.465Z",
-      "key": "openai:74842880-e750-4664-9e2e-83b4c96c5a03",
-      "company": "OpenAI",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -43695,82 +43693,6 @@
         "us"
       ],
       "firstSeen": "2026-09-23T23:10:15.027Z"
-    },
-    {
-      "id": "4715985006",
-      "title": "Software Defined Radio Hardware Associate (Winter 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4715985006",
-      "postedAt": "2026-09-23T22:57:53.000Z",
-      "key": "astranis:4715985006",
-      "company": "Astranis",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T23:00:58.797Z"
-    },
-    {
-      "id": "4715983006",
-      "title": "Software Defined Radio Hardware Associate (Summer 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
-      "postedAt": "2026-09-23T22:57:50.000Z",
-      "key": "astranis:4715983006",
-      "company": "Astranis",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T23:00:58.797Z"
-    },
-    {
-      "id": "4716088006",
-      "title": "Software Defined Radio Hardware Intern (Summer 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4716088006",
-      "postedAt": "2026-09-23T22:52:17.000Z",
-      "key": "astranis:4716088006",
-      "company": "Astranis",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T23:00:58.797Z"
-    },
-    {
-      "id": "4716087006",
-      "title": "Software Defined Radio Hardware Intern (Winter 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/astranis/jobs/4716087006",
-      "postedAt": "2026-09-23T22:52:15.000Z",
-      "key": "astranis:4716087006",
-      "company": "Astranis",
-      "level": "intern",
-      "term": {
-        "label": "Winter 2027",
-        "seasons": [
-          "winter"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T23:00:58.797Z"
     },
     {
       "id": "JR2016045",
