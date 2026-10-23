@@ -1,18 +1,21 @@
 {
-  "generatedAt": "2026-10-23T21:00:25.302Z",
+  "generatedAt": "2026-10-23T21:10:16.199Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "sola:cf2b27be-7dc8-4e14-aff0-512639bac918"
+    "assemblyai:4747365005",
+    "assemblyai:4747340005",
+    "DocuSign:30497",
+    "sofi:8040823003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 152,
+    "intern": 153,
     "new-grad": 19,
-    "experienced": 2234
+    "experienced": 2236
   },
   "companies": [
     {
@@ -424,7 +427,7 @@
     {
       "name": "AssemblyAI",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1425,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -2846,7 +2849,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -3979,10 +3982,10 @@
     },
     {
       "name": "Pyka",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pylon",
@@ -4659,7 +4662,7 @@
     {
       "name": "SoFi",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4721,10 +4724,10 @@
     },
     {
       "name": "Spotify",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sprinklr",
@@ -4828,7 +4831,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5702,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "4747340005",
+      "title": "Forward Deployed Engineer, Triage (SF)",
+      "location": "San Francisco ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4747340005",
+      "postedAt": "2026-10-23T21:07:51.000Z",
+      "key": "assemblyai:4747340005",
+      "company": "AssemblyAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T21:10:16.199Z"
+    },
+    {
+      "id": "4747365005",
+      "title": "Forward Deployed Engineer, Triage (NYC)",
+      "location": "New York City",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4747365005",
+      "postedAt": "2026-10-23T21:07:49.000Z",
+      "key": "assemblyai:4747365005",
+      "company": "AssemblyAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T21:10:16.199Z"
+    },
+    {
+      "id": "8040823003",
+      "title": "Senior Data Engineer",
+      "location": "Cottonwood Heights, Utah, United States",
+      "team": null,
+      "url": "https://sofi.com/careers/job/8040823003?gh_jid=8040823003",
+      "postedAt": "2026-10-23T21:07:04.000Z",
+      "key": "sofi:8040823003",
+      "company": "SoFi",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T21:10:16.199Z"
+    },
+    {
       "id": "cf2b27be-7dc8-4e14-aff0-512639bac918",
       "title": "Forward Deployed Engineer",
       "location": "New York City",
@@ -6173,7 +6224,7 @@
     },
     {
       "id": "6122975004",
-      "title": "Senior Backend Engineer",
+      "title": "Principal Engineer, AI Platform",
       "location": "Cary,North Carolina,United States",
       "team": "Engineering Generalist",
       "url": "https://epicgames.com/careers/jobs/6122975004?gh_jid=6122975004",
@@ -23409,6 +23460,22 @@
         "us"
       ],
       "firstSeen": "2026-10-09T21:00:23.963Z"
+    },
+    {
+      "id": "30497",
+      "title": "Software Engineer Intern",
+      "location": "US-Chicago",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30497/login",
+      "postedAt": "2026-10-09T20:51:00.000Z",
+      "key": "DocuSign:30497",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T21:10:16.199Z"
     },
     {
       "id": "30513",
@@ -43479,22 +43546,6 @@
         "us"
       ],
       "firstSeen": "2026-09-23T21:50:20.254Z"
-    },
-    {
-      "id": "8831430002",
-      "title": "Senior Software Engineer, Rider",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8831430002?gh_jid=8831430002",
-      "postedAt": "2026-09-23T21:00:59.000Z",
-      "key": "lyft:8831430002",
-      "company": "Lyft",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-23T21:10:16.194Z"
     },
     {
       "id": "JR2016032",
