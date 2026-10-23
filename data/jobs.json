@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-10-23T18:50:17.361Z",
+  "generatedAt": "2026-10-23T19:00:25.407Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "epicgames:6232770004",
-    "kraken.com:6b7da81b-ce7c-46bb-ab25-e2f9ab0d77f1"
+    "openai:d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+    "Remitly:R_107101",
+    "shieldai:bef440ce-0365-4de7-9b1e-b1288cdaf7f3"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 154,
+    "intern": 155,
     "new-grad": 19,
-    "experienced": 2241
+    "experienced": 2237
   },
   "companies": [
     {
@@ -516,7 +517,7 @@
     {
       "name": "Bankjoy",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1090,7 +1091,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3512,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -3772,7 +3773,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4072,7 +4073,7 @@
     {
       "name": "ReadMe",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4135,7 +4136,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4471,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4849,7 +4850,7 @@
     {
       "name": "Sunday",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107101",
+      "title": "Senior Software Development Engineer, High Value Send Experience",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Development-Engineer--High-Value-Send-Experience_R_107101",
+      "postedAt": "2026-10-23T19:00:29.001Z",
+      "key": "Remitly:R_107101",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T19:00:25.407Z"
+    },
+    {
+      "id": "bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
+      "title": "June 2027 Co-op - Reliability Engineering #5953",
+      "location": "Seattle, Washington (+2 more)",
+      "team": "X-BAT Engineering - Avionics",
+      "url": "https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
+      "postedAt": "2026-10-23T18:59:08.463Z",
+      "key": "shieldai:bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
+      "company": "Shield AI",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T19:00:25.407Z"
+    },
+    {
+      "id": "d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+      "title": "Software Engineer",
+      "location": "San Francisco",
+      "team": "Alignment",
+      "url": "https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+      "postedAt": "2026-10-23T18:55:14.565Z",
+      "key": "openai:d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T19:00:25.407Z"
+    },
     {
       "id": "6b7da81b-ce7c-46bb-ab25-e2f9ab0d77f1",
       "title": "Data Center Operations Engineer",
@@ -43683,105 +43732,6 @@
       "term": null,
       "regions": [
         "remote"
-      ],
-      "firstSeen": "2026-09-23T19:00:25.759Z"
-    },
-    {
-      "id": "0c389137-0c97-45c0-bde8-61f2f3bf1205",
-      "title": "Senior iOS Engineer",
-      "location": "Canada (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/bankjoy/0c389137-0c97-45c0-bde8-61f2f3bf1205",
-      "postedAt": "2026-09-23T18:59:40.880Z",
-      "key": "bankjoy:0c389137-0c97-45c0-bde8-61f2f3bf1205",
-      "company": "Bankjoy",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-23T19:00:25.759Z"
-    },
-    {
-      "id": "04fc9c4e-7ff1-49ac-8f5d-b1b70a0567c8",
-      "title": "Senior Engineering Manager, Payments & Reconciliation",
-      "location": "Mountain View, CA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/04fc9c4e-7ff1-49ac-8f5d-b1b70a0567c8",
-      "postedAt": "2026-09-23T18:58:34.849Z",
-      "key": "commure:04fc9c4e-7ff1-49ac-8f5d-b1b70a0567c8",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T19:00:25.759Z"
-    },
-    {
-      "id": "22b61ced-c1e2-4425-8a0d-231f4ebb3c8c",
-      "title": "Forward Deployed Engineer",
-      "location": "Remote, US (+3 more)",
-      "team": "Success",
-      "url": "https://jobs.ashbyhq.com/readme/22b61ced-c1e2-4425-8a0d-231f4ebb3c8c",
-      "postedAt": "2026-09-23T18:56:56.699Z",
-      "key": "readme:22b61ced-c1e2-4425-8a0d-231f4ebb3c8c",
-      "company": "ReadMe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T19:50:52.970Z"
-    },
-    {
-      "id": "9ebfec14-14b7-43d8-8496-29f3beeca7a2",
-      "title": "Senior Android Engineer",
-      "location": "Canada (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/bankjoy/9ebfec14-14b7-43d8-8496-29f3beeca7a2",
-      "postedAt": "2026-09-23T18:54:59.019Z",
-      "key": "bankjoy:9ebfec14-14b7-43d8-8496-29f3beeca7a2",
-      "company": "Bankjoy",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-23T19:00:25.759Z"
-    },
-    {
-      "id": "bd525705-1430-4f45-adb2-888165d45aa6",
-      "title": "Robotics Systems Software Integration Engineer",
-      "location": "Redwood City, CA",
-      "team": "Robotics",
-      "url": "https://jobs.ashbyhq.com/sunday/bd525705-1430-4f45-adb2-888165d45aa6",
-      "postedAt": "2026-09-23T18:54:26.278Z",
-      "key": "sunday:bd525705-1430-4f45-adb2-888165d45aa6",
-      "company": "Sunday",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T19:00:25.759Z"
-    },
-    {
-      "id": "26449f3a-64c7-471c-a39a-d4ab40f21846",
-      "title": "Lead Android Engineer",
-      "location": "Canada (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/bankjoy/26449f3a-64c7-471c-a39a-d4ab40f21846",
-      "postedAt": "2026-09-23T18:50:21.292Z",
-      "key": "bankjoy:26449f3a-64c7-471c-a39a-d4ab40f21846",
-      "company": "Bankjoy",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
       ],
       "firstSeen": "2026-09-23T19:00:25.759Z"
     },
