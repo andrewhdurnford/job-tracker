@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-10-23T19:50:16.038Z",
+  "generatedAt": "2026-10-23T20:00:28.190Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "spacex:8910071002"
+    "Nvidia:JR2016845",
+    "uipath:6a2c70cc-6106-4df8-ab2d-5cc550acc572",
+    "waymo:8287385"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 152,
+    "intern": 153,
     "new-grad": 19,
     "experienced": 2236
   },
@@ -936,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1425,7 +1427,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -2811,7 +2813,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -3419,15 +3421,15 @@
     },
     {
       "name": "NUVACORE",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 135,
+      "jobCount": 136,
       "error": null,
       "stale": false
     },
@@ -5254,7 +5256,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,60 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2016845",
+      "title": "Senior Firmware Engineer, Networking",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer--Networking_JR2016845",
+      "postedAt": "2026-10-23T20:00:32.034Z",
+      "key": "Nvidia:JR2016845",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T20:00:28.190Z"
+    },
+    {
+      "id": "6a2c70cc-6106-4df8-ab2d-5cc550acc572",
+      "title": "Senior Software Engineer -AI",
+      "location": "Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/uipath/6a2c70cc-6106-4df8-ab2d-5cc550acc572",
+      "postedAt": "2026-10-23T19:56:04.959Z",
+      "key": "uipath:6a2c70cc-6106-4df8-ab2d-5cc550acc572",
+      "company": "UiPath",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T20:00:28.190Z"
+    },
+    {
+      "id": "8287385",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385",
+      "postedAt": "2026-10-23T19:55:17.000Z",
+      "key": "waymo:8287385",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T20:00:28.190Z"
+    },
     {
       "id": "8910071002",
       "title": "AI Software Engineer (Vehicle Engineering)",
@@ -7091,22 +7147,6 @@
       "key": "palantir:66b495eb-aaf9-4bf9-a759-41854534add7",
       "company": "Palantir",
       "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T21:40:16.359Z"
-    },
-    {
-      "id": "30586",
-      "title": "Cloud Platform Engineer",
-      "location": "US-SFO-Main",
-      "team": "IT Infrastructure & Operations",
-      "url": "https://uscareers-docusign.icims.com/jobs/30586/login",
-      "postedAt": "2026-10-22T21:31:00.000Z",
-      "key": "DocuSign:30586",
-      "company": "DocuSign",
-      "level": "experienced",
       "term": null,
       "regions": [
         "us"
@@ -43587,22 +43627,6 @@
         "us"
       ],
       "firstSeen": "2026-09-23T20:00:23.759Z"
-    },
-    {
-      "id": "5238195007",
-      "title": "Sr. Field Quality Engineer, Software Integration",
-      "location": "Casa Grande, AZ",
-      "team": null,
-      "url": "https://lucidmotors.com/careers/search/5238195007?gh_jid=5238195007",
-      "postedAt": "2026-09-23T19:57:25.000Z",
-      "key": "lucidmotors:5238195007",
-      "company": "Lucid Motors",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T19:58:23.905Z"
     },
     {
       "id": "76c2a136-4e93-4e1a-bbdf-de4268498838",
