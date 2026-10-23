@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-23T16:50:18.337Z",
+  "generatedAt": "2026-10-23T17:00:27.136Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "coinbase:8318599",
-    "lucidmotors:5254390007"
+    "CrowdStrike:R30384",
+    "CrowdStrike:R30377",
+    "verkada:5273882007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 20,
-    "experienced": 2256
+    "experienced": 2258
   },
   "companies": [
     {
@@ -866,7 +867,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1244,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -1894,10 +1895,10 @@
     },
     {
       "name": "Freshworks",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Fulcrum",
@@ -4568,10 +4569,10 @@
     },
     {
       "name": "Skyways",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sleeper",
@@ -5374,7 +5375,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R30384",
+      "title": "Sr Software Engineer, Cloud - Fusion (Hybrid, Sunnyvale)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer--Cloud---Fusion--Hybrid--Sunnyvale-_R30384",
+      "postedAt": "2026-10-23T17:00:30.669Z",
+      "key": "CrowdStrike:R30384",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T17:00:27.136Z"
+    },
+    {
+      "id": "5273882007",
+      "title": "Senior Backend Engineer - Access Control",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5273882007",
+      "postedAt": "2026-10-23T16:59:05.000Z",
+      "key": "verkada:5273882007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T17:00:27.136Z"
+    },
     {
       "id": "8318599",
       "title": "Offensive Security Engineer, AI ",
@@ -11261,6 +11294,22 @@
         "us"
       ],
       "firstSeen": "2026-10-20T17:10:19.679Z"
+    },
+    {
+      "id": "R30377",
+      "title": "Sr. Full Stack Engineer - Infrastructure Team (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Software-Engineer--Infrastructure--Remote-_R30377-1",
+      "postedAt": "2026-10-20T17:00:34.973Z",
+      "key": "CrowdStrike:R30377",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T17:00:27.136Z"
     },
     {
       "id": "8303798",
@@ -44105,23 +44154,6 @@
         "us"
       ],
       "firstSeen": "2026-09-23T17:10:20.281Z"
-    },
-    {
-      "id": "78f1098a-6022-40ba-b7a0-948711921de2",
-      "title": "Staff Software Engineer, Inference API",
-      "location": "Sunnyvale, CA (+1 more)",
-      "team": "Inference Service",
-      "url": "https://jobs.ashbyhq.com/cerebras/78f1098a-6022-40ba-b7a0-948711921de2",
-      "postedAt": "2026-09-23T16:51:14.897Z",
-      "key": "cerebras:78f1098a-6022-40ba-b7a0-948711921de2",
-      "company": "Cerebras Systems",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-23T16:59:39.967Z"
     },
     {
       "id": "R1001617",
