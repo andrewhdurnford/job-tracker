@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-10-23T21:40:17.205Z",
+  "generatedAt": "2026-10-23T21:50:16.593Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Nvidia:JR2018371",
-    "shieldai:18b3fd20-87bd-4f96-9636-7cfd0ada20af",
-    "stripe:8144196"
+    "benchling:7c32ac1e-3de3-462b-aa17-7618317f0da0",
+    "Nvidia:JR2028454"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +13,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 19,
-    "experienced": 2240
+    "experienced": 2242
   },
   "companies": [
     {
@@ -552,7 +551,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2364,10 +2363,10 @@
     },
     {
       "name": "Included Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "Inferact",
@@ -3429,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 137,
+      "jobCount": 138,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028454",
+      "title": "Senior System Software Engineer, Automotive Performance",
+      "location": "US, CA, Remote",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-System-Software-Engineer--Automotive-Performance_JR2028454",
+      "postedAt": "2026-10-23T21:50:20.852Z",
+      "key": "Nvidia:JR2028454",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T21:50:16.593Z"
+    },
+    {
+      "id": "7c32ac1e-3de3-462b-aa17-7618317f0da0",
+      "title": "Software Engineer, Cloud Infrastructure",
+      "location": "San Francisco, CA",
+      "team": "Engineering: Infrastructure",
+      "url": "https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0",
+      "postedAt": "2026-10-23T21:42:31.702Z",
+      "key": "benchling:7c32ac1e-3de3-462b-aa17-7618317f0da0",
+      "company": "Benchling",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T21:50:16.593Z"
+    },
     {
       "id": "JR2018371",
       "title": "Software Engineer, Workflow Systems",
@@ -27111,7 +27142,7 @@
     },
     {
       "id": "7917911",
-      "title": "Software Engineer,  Real-Time Communication Infrastructure",
+      "title": "Senior Software Engineer,  Real-Time Communication Infrastructure",
       "location": "Mountain View, CA, USA",
       "team": null,
       "url": "https://careers.withwaymo.com/jobs?gh_jid=7917911",
