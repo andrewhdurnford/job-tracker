@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-23T15:17:09.892Z",
+  "generatedAt": "2026-10-23T15:20:16.698Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "databricks:8910846002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 20,
-    "experienced": 2269
+    "experienced": 2270
   },
   "companies": [
     {
@@ -190,10 +192,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Alpaca",
@@ -1290,7 +1292,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2927,10 +2929,10 @@
     },
     {
       "name": "MaverickX",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "May Mobility",
@@ -4826,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8910846002",
+      "title": "Associate Forward Deployed Engineer",
+      "location": "Mountain View, California",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+      "postedAt": "2026-10-23T15:19:31.000Z",
+      "key": "databricks:8910846002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T15:20:16.698Z"
+    },
     {
       "id": "JR2023503",
       "title": "Senior DFX Software Engineer - Machine Learning",
