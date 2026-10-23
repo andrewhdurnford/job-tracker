@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-23T14:20:16.788Z",
+  "generatedAt": "2026-10-23T14:30:21.412Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "CrowdStrike:R28302",
+    "kong:e75c7ded-f94e-4ee8-9365-794bbd0e0e91"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 20,
-    "experienced": 2267
+    "experienced": 2268
   },
   "companies": [
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 234,
+      "jobCount": 233,
       "error": null,
       "stale": false
     },
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1142,10 +1145,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Conveo",
@@ -1241,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -1674,10 +1677,10 @@
     },
     {
       "name": "FamPay",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Farel",
@@ -1753,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2031,10 +2034,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2627,7 +2630,7 @@
     {
       "name": "Kong",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2899,10 +2902,10 @@
     },
     {
       "name": "Mashgin",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mastra",
@@ -3417,10 +3420,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Nvidia",
@@ -4194,10 +4197,10 @@
     },
     {
       "name": "Rezo Therapeutics",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Rigetti Quantum Computing",
@@ -5699,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R28302",
+      "title": "EII Cloud Software Engineer - Cloud (Hybrid)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Cloud--Hybrid-_R28302",
+      "postedAt": "2026-10-23T14:30:26.073Z",
+      "key": "CrowdStrike:R28302",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T14:30:21.412Z"
+    },
+    {
+      "id": "e75c7ded-f94e-4ee8-9365-794bbd0e0e91",
+      "title": "Software Engineer",
+      "location": "Toronto, Canada (+2 more)",
+      "team": "ENG",
+      "url": "https://jobs.ashbyhq.com/kong/e75c7ded-f94e-4ee8-9365-794bbd0e0e91",
+      "postedAt": "2026-10-23T14:20:00.889Z",
+      "key": "kong:e75c7ded-f94e-4ee8-9365-794bbd0e0e91",
+      "company": "Kong",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-23T14:30:21.412Z"
+    },
     {
       "id": "b7c3bdef-92c8-44b3-a1f9-1b34698a862d",
       "title": "DevOps Engineer W/M (remote) 🇪🇺",
@@ -33914,22 +33950,6 @@
         "us"
       ],
       "firstSeen": "2026-10-01T14:50:17.639Z"
-    },
-    {
-      "id": "R1002629",
-      "title": "Full-stack Engineer 4 (Manager IC)",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Manager-IC-_R1002629-1",
-      "postedAt": "2026-10-01T14:30:28.705Z",
-      "key": "Capital One:R1002629",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T14:30:25.461Z"
     },
     {
       "id": "95800771-37a4-4226-b03f-d4fc6ea88f65",
