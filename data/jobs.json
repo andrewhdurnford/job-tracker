@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-10-23T11:50:17.048Z",
+  "generatedAt": "2026-10-23T12:00:26.746Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "CrowdStrike:R30492",
-    "CrowdStrike:R30396"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -53,10 +50,10 @@
     },
     {
       "name": "ACLU",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Adaptive Security",
@@ -389,10 +386,10 @@
     },
     {
       "name": "Asana",
-      "ok": true,
+      "ok": false,
       "jobCount": 13,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Ashby",
@@ -594,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -928,16 +925,16 @@
     },
     {
       "name": "Chime",
-      "ok": true,
+      "ok": false,
       "jobCount": 12,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2876,7 +2873,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3203,10 +3200,10 @@
     },
     {
       "name": "Nabis",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nabla Bio",
@@ -3226,7 +3223,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3469,10 +3466,10 @@
     },
     {
       "name": "Okta",
-      "ok": true,
+      "ok": false,
       "jobCount": 35,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Ollama",
@@ -3637,10 +3634,10 @@
     },
     {
       "name": "Pendo",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pendulum",
@@ -4239,10 +4236,10 @@
     },
     {
       "name": "Roblox",
-      "ok": true,
+      "ok": false,
       "jobCount": 53,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Roboflow",
@@ -4974,10 +4971,10 @@
     },
     {
       "name": "Tanium",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tavus",
