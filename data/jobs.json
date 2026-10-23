@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-10-23T21:50:16.593Z",
+  "generatedAt": "2026-10-23T22:00:29.027Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "benchling:7c32ac1e-3de3-462b-aa17-7618317f0da0",
-    "Nvidia:JR2028454"
+    "mercury:6233820004",
+    "okta:8319085",
+    "shieldai:8abadd40-234d-4fda-8651-7e9c251ed428",
+    "zscaler:5268021007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 19,
-    "experienced": 2242
+    "experienced": 2246
   },
   "companies": [
     {
@@ -2363,10 +2365,10 @@
     },
     {
       "name": "Included Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inferact",
@@ -2987,7 +2989,7 @@
     {
       "name": "Mercury",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3470,7 +3472,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -4471,7 +4473,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 97,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5689,7 +5691,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,71 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6233820004",
+      "title": "Senior Software Engineer - Cards",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6233820004",
+      "postedAt": "2026-10-23T21:55:47.000Z",
+      "key": "mercury:6233820004",
+      "company": "Mercury",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-23T22:00:29.027Z"
+    },
+    {
+      "id": "5268021007",
+      "title": "Manager – AI & Data Platform Engineering",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268021007",
+      "postedAt": "2026-10-23T21:55:26.000Z",
+      "key": "zscaler:5268021007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T22:00:29.027Z"
+    },
+    {
+      "id": "8319085",
+      "title": "Software Architect, AI Systems and Platform",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8319085?gh_jid=8319085",
+      "postedAt": "2026-10-23T21:54:20.000Z",
+      "key": "okta:8319085",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T22:00:29.027Z"
+    },
+    {
+      "id": "8abadd40-234d-4fda-8651-7e9c251ed428",
+      "title": "Senior Staff Engineer, Mission Systems Software - Ranger (R6394)",
+      "location": "Seattle, Washington",
+      "team": "X-BAT Engineering - Software",
+      "url": "https://jobs.lever.co/shieldai/8abadd40-234d-4fda-8651-7e9c251ed428",
+      "postedAt": "2026-10-23T21:50:30.879Z",
+      "key": "shieldai:8abadd40-234d-4fda-8651-7e9c251ed428",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T22:00:29.027Z"
+    },
     {
       "id": "JR2028454",
       "title": "Senior System Software Engineer, Automotive Performance",
