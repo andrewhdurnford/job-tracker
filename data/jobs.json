@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-23T17:50:16.174Z",
+  "generatedAt": "2026-10-23T18:00:29.039Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "epicgames:6122975004"
+    "cribl:6232093004",
+    "komodohealth:8912047002",
+    "roblox:8283707"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -11,8 +13,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 153,
-    "new-grad": 20,
-    "experienced": 2247
+    "new-grad": 19,
+    "experienced": 2245
   },
   "companies": [
     {
@@ -759,10 +761,10 @@
     },
     {
       "name": "Canary Technologies",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Candid Health",
@@ -879,7 +881,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1193,10 +1195,10 @@
     },
     {
       "name": "Coupa",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Coupang",
@@ -1229,7 +1231,7 @@
     {
       "name": "Cribl",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1564,10 +1566,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Encord",
@@ -2362,10 +2364,10 @@
     },
     {
       "name": "Included Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Inferact",
@@ -3083,10 +3085,10 @@
     },
     {
       "name": "Mistral AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mixpanel",
@@ -3258,10 +3260,10 @@
     },
     {
       "name": "Neighbor",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Neo4j",
@@ -3469,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4239,7 +4241,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 53,
+      "jobCount": 54,
       "error": null,
       "stale": false
     },
@@ -4372,7 +4374,7 @@
     {
       "name": "Scale AI",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 96,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 94,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6232093004",
+      "title": "Senior Information Systems Engineer",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://cribl.io/job-detail/?gh_jid=6232093004",
+      "postedAt": "2026-10-23T17:58:20.000Z",
+      "key": "cribl:6232093004",
+      "company": "Cribl",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T18:00:29.039Z"
+    },
+    {
+      "id": "8912047002",
+      "title": "Senior Data Platform Engineer",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8912047002",
+      "postedAt": "2026-10-23T17:57:15.000Z",
+      "key": "komodohealth:8912047002",
+      "company": "Komodo Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T18:00:29.039Z"
+    },
+    {
+      "id": "8283707",
+      "title": "Software Engineer, Reliability ",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8283707?gh_jid=8283707",
+      "postedAt": "2026-10-23T17:53:14.000Z",
+      "key": "roblox:8283707",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-23T18:00:29.039Z"
+    },
     {
       "id": "6122975004",
       "title": "Senior Backend Engineer",
@@ -41589,22 +41639,6 @@
       "firstSeen": "2026-09-24T19:19:45.349Z"
     },
     {
-      "id": "8843099002",
-      "title": "Senior Data Platform Engineer",
-      "location": "New York, New York",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8843099002",
-      "postedAt": "2026-09-24T19:13:58.000Z",
-      "key": "komodohealth:8843099002",
-      "company": "Komodo Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-24T19:19:45.349Z"
-    },
-    {
       "id": "REF085123W",
       "title": "Sr. Software Engineer - Core Automation Platform",
       "location": "US - Ashburn, VA",
@@ -43833,70 +43867,6 @@
       "firstSeen": "2026-10-16T18:03:43.643Z"
     },
     {
-      "id": "8832619002",
-      "title": "Principal Software Engineer, Power Optimization (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8832619002?gh_jid=8832619002",
-      "postedAt": "2026-09-23T17:58:07.000Z",
-      "key": "spacex:8832619002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T18:10:16.330Z"
-    },
-    {
-      "id": "4714346006",
-      "title": "Senior Security Engineer (Infrastructure)",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4714346006",
-      "postedAt": "2026-09-23T17:56:45.000Z",
-      "key": "chainguard:4714346006",
-      "company": "Chainguard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T18:00:25.975Z"
-    },
-    {
-      "id": "8193328",
-      "title": "Senior Systems Engineer, Productivity Engineering",
-      "location": "Bellevue, Washington; San Francisco, California",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8193328?gh_jid=8193328",
-      "postedAt": "2026-09-23T17:55:55.000Z",
-      "key": "okta:8193328",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T18:00:25.975Z"
-    },
-    {
-      "id": "4736426005",
-      "title": "Software Engineer, Public Sector - New Grad",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
-      "postedAt": "2026-09-23T17:55:35.000Z",
-      "key": "scaleai:4736426005",
-      "company": "Scale AI",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T18:00:25.975Z"
-    },
-    {
       "id": "REF088661W",
       "title": "Senior Staff Fullstack Engineer (Sr. Consultant) - Corporate GenAI Technologies",
       "location": "US - Bellevue, WA",
@@ -43905,22 +43875,6 @@
       "postedAt": "2026-09-23T17:50:21.685Z",
       "key": "Visa:REF088661W",
       "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T17:50:17.927Z"
-    },
-    {
-      "id": "8838385002",
-      "title": "Project Controls Engineer, Starship Infrastructure",
-      "location": "Cape Canaveral, FL",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8838385002?gh_jid=8838385002",
-      "postedAt": "2026-09-23T17:47:57.000Z",
-      "key": "spacex:8838385002",
-      "company": "SpaceX",
       "level": "experienced",
       "term": null,
       "regions": [
