@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:50:19.857Z",
+  "generatedAt": "2026-10-24T10:00:25.203Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 95,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -20258,7 +20258,7 @@
     {
       "id": "8269100",
       "title": "Senior Software Engineer, Distributed Databases",
-      "location": "Austin, TX (+2 more)",
+      "location": "Austin, TX (+4 more)",
       "team": "Emerging Technology and Incubation",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
       "postedAt": "2026-10-13T22:19:07.000Z",
