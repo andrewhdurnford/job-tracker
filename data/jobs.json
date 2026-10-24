@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:00:30.188Z",
+  "generatedAt": "2026-10-24T20:10:18.277Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 142,
     "new-grad": 19,
-    "experienced": 2188
+    "experienced": 2187
   },
   "companies": [
     {
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3467,7 +3467,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -3585,10 +3585,10 @@
     },
     {
       "name": "Palantir",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Paradigm",
@@ -42295,22 +42295,6 @@
       "postedAt": "2026-09-24T20:10:20.445Z",
       "key": "Capital One:R1002012",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-24T20:10:17.074Z"
-    },
-    {
-      "id": "8212358",
-      "title": "Senior Software Engineer - Core Infrastructure",
-      "location": "San Francisco, California",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8212358?gh_jid=8212358",
-      "postedAt": "2026-09-24T20:09:28.000Z",
-      "key": "okta:8212358",
-      "company": "Okta",
       "level": "experienced",
       "term": null,
       "regions": [
