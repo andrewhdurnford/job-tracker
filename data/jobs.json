@@ -1,16 +1,20 @@
 {
-  "generatedAt": "2026-10-24T00:50:17.291Z",
+  "generatedAt": "2026-10-24T01:00:24.584Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Nvidia:JR2028501",
+    "shieldai:2eaf030f-e574-4989-b85a-b43258df928b",
+    "shieldai:871049a8-c24a-4ed5-8214-0e56c91b40d3"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 150,
+    "intern": 149,
     "new-grad": 19,
-    "experienced": 2251
+    "experienced": 2254
   },
   "companies": [
     {
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 141,
+      "jobCount": 142,
       "error": null,
       "stale": false
     },
@@ -4034,7 +4038,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4468,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 52,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 95,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028501",
+      "title": "Manager, Data and AI Engineering",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Data-and-AI-Engineering_JR2028501",
+      "postedAt": "2026-10-24T01:00:29.273Z",
+      "key": "Nvidia:JR2028501",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-24T01:00:24.584Z"
+    },
+    {
+      "id": "871049a8-c24a-4ed5-8214-0e56c91b40d3",
+      "title": "Senior Systems Engineer (R6455)",
+      "location": "Seattle, Washington",
+      "team": "X-BAT Engineering",
+      "url": "https://jobs.lever.co/shieldai/871049a8-c24a-4ed5-8214-0e56c91b40d3",
+      "postedAt": "2026-10-24T00:55:14.953Z",
+      "key": "shieldai:871049a8-c24a-4ed5-8214-0e56c91b40d3",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-24T01:00:24.584Z"
+    },
+    {
+      "id": "2eaf030f-e574-4989-b85a-b43258df928b",
+      "title": "Senior Engineer, Cybersecurity (R6438)",
+      "location": "Seattle, Washington",
+      "team": "X-BAT Engineering",
+      "url": "https://jobs.lever.co/shieldai/2eaf030f-e574-4989-b85a-b43258df928b",
+      "postedAt": "2026-10-24T00:50:08.643Z",
+      "key": "shieldai:2eaf030f-e574-4989-b85a-b43258df928b",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-24T01:00:24.584Z"
+    },
     {
       "id": "ced15f44-bec6-456a-850c-7269ac90d794",
       "title": "Senior Engineer, Reliability (R6440)",
@@ -43675,22 +43727,6 @@
         "us"
       ],
       "firstSeen": "2026-09-24T01:10:18.883Z"
-    },
-    {
-      "id": "fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
-      "title": "Software Engineering Intern, Android",
-      "location": "New York, NY (HQ)",
-      "team": "Emerging Talent - SWE",
-      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
-      "postedAt": "2026-09-24T00:55:33.807Z",
-      "key": "ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
-      "company": "Ramp",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-24T01:00:27.454Z"
     },
     {
       "id": "R170716",
