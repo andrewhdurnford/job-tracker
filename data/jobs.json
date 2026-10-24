@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:40:17.185Z",
+  "generatedAt": "2026-10-24T04:50:16.535Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2915,7 +2915,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3977,10 +3977,10 @@
     },
     {
       "name": "Pyka",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Pylon",
