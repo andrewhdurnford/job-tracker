@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:50:18.507Z",
+  "generatedAt": "2026-10-24T22:00:24.319Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4747,10 +4747,10 @@
     },
     {
       "name": "Squire Technologies",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Stability AI",
@@ -4985,10 +4985,10 @@
     },
     {
       "name": "Tecton",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tekton Dynamics",
