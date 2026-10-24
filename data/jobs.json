@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:20:23.656Z",
+  "generatedAt": "2026-10-24T04:30:21.478Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -785,10 +785,10 @@
     },
     {
       "name": "Capital One",
-      "ok": true,
+      "ok": false,
       "jobCount": 231,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "CaptivateIQ",
@@ -3641,10 +3641,10 @@
     },
     {
       "name": "Pendulum",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Pennylane",
@@ -3886,10 +3886,10 @@
     },
     {
       "name": "Procore",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Prodigal",
@@ -4194,10 +4194,10 @@
     },
     {
       "name": "Rezo Therapeutics",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 504 Gateway Time-out",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Rigetti Quantum Computing",
