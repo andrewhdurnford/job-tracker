@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:10:17.201Z",
+  "generatedAt": "2026-10-24T08:20:17.766Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 19,
-    "experienced": 2234
+    "experienced": 2228
   },
   "companies": [
     {
@@ -64,10 +64,10 @@
     },
     {
       "name": "Adobe",
-      "ok": false,
-      "jobCount": 7,
-      "error": "response was not valid JSON",
-      "stale": true
+      "ok": true,
+      "jobCount": 6,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Adyen",
@@ -3424,10 +3424,10 @@
     },
     {
       "name": "Nvidia",
-      "ok": false,
-      "jobCount": 142,
-      "error": "response was not valid JSON",
-      "stale": true
+      "ok": true,
+      "jobCount": 138,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Oasis Security",
@@ -5398,10 +5398,10 @@
     },
     {
       "name": "Visa",
-      "ok": false,
-      "jobCount": 39,
-      "error": "response was not valid JSON",
-      "stale": true
+      "ok": true,
+      "jobCount": 38,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Vitalize",
@@ -43597,70 +43597,6 @@
       "firstSeen": "2026-09-24T12:20:21.142Z"
     },
     {
-      "id": "R170716",
-      "title": "AI Engineer 4",
-      "location": "San Jose",
-      "team": null,
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/AI-Engineer-4_R170716-1",
-      "postedAt": "2026-09-23T23:10:22.262Z",
-      "key": "Adobe:R170716",
-      "company": "Adobe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T23:10:15.027Z"
-    },
-    {
-      "id": "JR2016045",
-      "title": "Senior Software Triage Engineer - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Triage-Engineer---Autonomous-Vehicles_JR2016045",
-      "postedAt": "2026-09-23T21:50:24.556Z",
-      "key": "Nvidia:JR2016045",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T21:50:20.254Z"
-    },
-    {
-      "id": "JR2016032",
-      "title": "Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032",
-      "postedAt": "2026-09-23T20:50:30.221Z",
-      "key": "Nvidia:JR2016032",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T20:50:26.211Z"
-    },
-    {
-      "id": "JR2026387",
-      "title": "Security Architect - New College Grad 2026",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Security-Architect---New-College-Grad-2026_JR2026387-1",
-      "postedAt": "2026-09-23T20:40:20.889Z",
-      "key": "Nvidia:JR2026387",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T20:40:16.840Z"
-    },
-    {
       "id": "76c2a136-4e93-4e1a-bbdf-de4268498838",
       "title": "Mobile / Full Stack Staff & Software Engineer, Consumer Monetization",
       "location": "San Francisco",
@@ -43675,38 +43611,6 @@
         "us"
       ],
       "firstSeen": "2026-09-23T19:58:23.905Z"
-    },
-    {
-      "id": "REF088445W",
-      "title": "Staff Software Engineer (Android / iOS)",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-Software-Engineer--Android---iOS-_REF088445W",
-      "postedAt": "2026-09-23T19:00:29.370Z",
-      "key": "Visa:REF088445W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T19:00:25.759Z"
-    },
-    {
-      "id": "JR2026501",
-      "title": "Technical Lead, GenAI - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Lead--GenAI---Autonomous-Vehicles_JR2026501",
-      "postedAt": "2026-09-23T18:40:19.722Z",
-      "key": "Nvidia:JR2026501",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T18:40:15.972Z"
     },
     {
       "id": "REF088661W",
