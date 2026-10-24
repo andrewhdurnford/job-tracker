@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T06:10:17.760Z",
+  "generatedAt": "2026-10-24T06:20:17.177Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -2479,10 +2479,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "JFrog",
@@ -3046,10 +3046,10 @@
     },
     {
       "name": "Mindy",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mirage",
@@ -4467,10 +4467,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 52,
-      "error": null,
-      "stale": false
+      "error": "HTTP 504 Gateway Time-out",
+      "stale": true
     },
     {
       "name": "Shiru",
