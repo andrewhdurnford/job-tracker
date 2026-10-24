@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-23T23:50:16.377Z",
+  "generatedAt": "2026-10-24T00:00:26.136Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "commure:e27a6e98-d2fc-45cb-9fa7-4622612ec673"
+    "gleanwork:4747393005",
+    "Nvidia:JR2028539"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1985,7 +1986,7 @@
     {
       "name": "Glean",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4022,7 +4023,7 @@
     {
       "name": "RADAR",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 95,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "JR2028539",
+      "title": "Senior Staff Software Engineer - Data Engineering",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Data-Engineering_JR2028539-1",
+      "postedAt": "2026-10-24T00:00:30.623Z",
+      "key": "Nvidia:JR2028539",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-24T00:00:26.136Z"
+    },
+    {
+      "id": "4747393005",
+      "title": "Senior Site Reliability Engineer",
+      "location": "Mountain View, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747393005",
+      "postedAt": "2026-10-23T23:50:53.000Z",
+      "key": "gleanwork:4747393005",
+      "company": "Glean",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-24T00:00:26.136Z"
+    },
+    {
       "id": "e27a6e98-d2fc-45cb-9fa7-4622612ec673",
       "title": "Engineering Manager, Provider Experience",
       "location": "Mountain View, CA (+2 more)",
@@ -5716,22 +5749,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T23:50:16.377Z"
-    },
-    {
-      "id": "JR2028501",
-      "title": "Manager, Data and AI Engineering",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Data-and-AI-Engineering_JR2028501",
-      "postedAt": "2026-10-23T23:20:22.138Z",
-      "key": "Nvidia:JR2028501",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T23:20:18.360Z"
     },
     {
       "id": "8319701",
@@ -7185,7 +7202,7 @@
     {
       "id": "8209134",
       "title": "2027 - Software Engineering Intern, AMER",
-      "location": "Austin; New York City; Palo Alto; San Francisco; Seattle",
+      "location": "Austin; New York City; San Francisco",
       "team": null,
       "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
       "postedAt": "2026-10-23T12:57:16.000Z",
@@ -26167,22 +26184,6 @@
       "term": null,
       "regions": [
         "remote"
-      ],
-      "firstSeen": "2026-10-08T16:10:24.509Z"
-    },
-    {
-      "id": "8259621",
-      "title": "Senior Site Reliability Engineer",
-      "location": "Seattle, WA; Sunnyvale, CA; or San Diego, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/radar/jobs/8259621",
-      "postedAt": "2026-10-08T16:09:55.000Z",
-      "key": "radar:8259621",
-      "company": "RADAR",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-08T16:10:24.509Z"
     },
