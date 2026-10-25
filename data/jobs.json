@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:20:21.678Z",
+  "generatedAt": "2026-10-25T03:30:20.714Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -785,10 +785,10 @@
     },
     {
       "name": "Capital One",
-      "ok": true,
+      "ok": false,
       "jobCount": 218,
-      "error": null,
-      "stale": false
+      "error": "HTTP 500 Internal Server Error",
+      "stale": true
     },
     {
       "name": "CaptivateIQ",
@@ -1674,10 +1674,10 @@
     },
     {
       "name": "FamPay",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Farel",
@@ -3417,10 +3417,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nvidia",
@@ -3886,10 +3886,10 @@
     },
     {
       "name": "Procore",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 500 Internal Server Error",
+      "stale": true
     },
     {
       "name": "Prodigal",
@@ -5692,10 +5692,10 @@
     },
     {
       "name": "Zuma",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     }
   ],
   "jobs": [
