@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T22:40:17.711Z",
+  "generatedAt": "2026-10-25T22:50:17.956Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 138,
+    "intern": 137,
     "new-grad": 19,
-    "experienced": 2085
+    "experienced": 2083
   },
   "companies": [
     {
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2102,7 +2102,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2915,7 +2915,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4636,7 +4636,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -5476,7 +5476,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -40665,60 +40665,6 @@
       "term": null,
       "regions": [
         "remote"
-      ],
-      "firstSeen": "2026-09-25T22:50:14.934Z"
-    },
-    {
-      "id": "8205624",
-      "title": "Staff Software Engineer, Retirement Money Planning",
-      "location": "Burlingame, CA - Hybrid; Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8205624",
-      "postedAt": "2026-09-25T22:46:39.000Z",
-      "key": "gusto:8205624",
-      "company": "Gusto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T04:50:15.331Z"
-    },
-    {
-      "id": "8227411",
-      "title": "2027 Summer Intern, MS/PhD, Perception, Machine Learning",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411",
-      "postedAt": "2026-09-25T22:46:35.000Z",
-      "key": "waymo:8227411",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T22:50:14.934Z"
-    },
-    {
-      "id": "6e96b818-2350-4601-8bdd-7ddd6c4a5f6d",
-      "title": "Software Engineer - Postgres",
-      "location": "US-CA-Menlo Park (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d",
-      "postedAt": "2026-09-25T22:42:33.837Z",
-      "key": "snowflake:6e96b818-2350-4601-8bdd-7ddd6c4a5f6d",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-09-25T22:50:14.934Z"
     },
