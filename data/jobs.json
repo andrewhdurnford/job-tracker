@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:10:17.534Z",
+  "generatedAt": "2026-10-25T03:20:21.678Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 142,
     "new-grad": 19,
-    "experienced": 2166
+    "experienced": 2165
   },
   "companies": [
     {
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1674,10 +1674,10 @@
     },
     {
       "name": "FamPay",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Farel",
@@ -3417,10 +3417,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nvidia",
@@ -4692,7 +4692,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 91,
+      "jobCount": 90,
       "error": null,
       "stale": false
     },
@@ -5692,10 +5692,10 @@
     },
     {
       "name": "Zuma",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     }
   ],
   "jobs": [
@@ -41933,22 +41933,6 @@
         "us"
       ],
       "firstSeen": "2026-09-25T08:00:27.637Z"
-    },
-    {
-      "id": "8843951002",
-      "title": "Site Reliability Engineer, Kubernetes Platform (Top Secret Clearance)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8843951002?gh_jid=8843951002",
-      "postedAt": "2026-09-25T03:12:53.000Z",
-      "key": "spacex:8843951002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-25T03:20:17.273Z"
     },
     {
       "id": "REF088255W",
