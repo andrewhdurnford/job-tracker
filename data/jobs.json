@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-26T10:20:18.699Z",
+  "generatedAt": "2026-10-26T10:30:26.189Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "alluxio:44a5ab93-a791-42b8-86f4-a1ece1018ae4"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 136,
     "new-grad": 19,
-    "experienced": 2060
+    "experienced": 2061
   },
   "companies": [
     {
@@ -191,7 +193,7 @@
     {
       "name": "Alluxio",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5356,10 +5358,10 @@
     },
     {
       "name": "Verifiable",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Veritus",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "44a5ab93-a791-42b8-86f4-a1ece1018ae4",
+      "title": "Staff Software Engineer – Distributed Systems",
+      "location": "Foster City, California",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/alluxio/44a5ab93-a791-42b8-86f4-a1ece1018ae4",
+      "postedAt": "2026-10-26T10:24:05.330Z",
+      "key": "alluxio:44a5ab93-a791-42b8-86f4-a1ece1018ae4",
+      "company": "Alluxio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T10:30:26.189Z"
+    },
     {
       "id": "6f7656fc-9983-48be-bbd3-8b40e0e3027a",
       "title": "Container Engineer",
