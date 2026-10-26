@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-26T19:40:19.341Z",
+  "generatedAt": "2026-10-26T19:50:18.019Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "infisical:bcac562e-af8f-465c-a4b5-68eda6d43aaa",
-    "nuvacore:f167579a-db4b-4f85-91b9-e0bfb444a37c",
-    "toast:8186869"
+    "CrowdStrike:R29483",
+    "databricks:8907988002",
+    "databricks:8910846002",
+    "pinterest:8240355"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 138,
     "new-grad": 19,
-    "experienced": 2061
+    "experienced": 2062
   },
   "companies": [
     {
@@ -1245,7 +1246,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -1294,7 +1295,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3758,7 +3759,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -3773,7 +3774,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4164,7 +4165,7 @@
     {
       "name": "Replit",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4472,7 +4473,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -4696,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 85,
+      "jobCount": 84,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29483",
+      "title": "Security Engineer III - SIEM (Hybrid)",
+      "location": "USA - New York, NY",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---New-York-NY/Engineer-III---SIEM-Integrations--Hybrid-_R29483",
+      "postedAt": "2026-10-26T19:50:21.531Z",
+      "key": "CrowdStrike:R29483",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T19:50:18.019Z"
+    },
+    {
+      "id": "8240355",
+      "title": "Staff Machine Learning Engineer",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8240355",
+      "postedAt": "2026-10-26T19:44:30.000Z",
+      "key": "pinterest:8240355",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T19:50:18.019Z"
+    },
     {
       "id": "f167579a-db4b-4f85-91b9-e0bfb444a37c",
       "title": "CPU Software Intern",
@@ -7859,6 +7892,22 @@
       "firstSeen": "2026-10-23T15:50:20.192Z"
     },
     {
+      "id": "8910846002",
+      "title": "Associate Forward Deployed Engineer",
+      "location": "Mountain View, California",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+      "postedAt": "2026-10-23T15:19:31.000Z",
+      "key": "databricks:8910846002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T19:50:18.019Z"
+    },
+    {
       "id": "JR2023503",
       "title": "Senior DFX Software Engineer - Machine Learning",
       "location": "US, CA, Santa Clara",
@@ -9841,6 +9890,22 @@
         "us"
       ],
       "firstSeen": "2026-10-22T13:50:17.049Z"
+    },
+    {
+      "id": "8907988002",
+      "title": "Associate Forward Deployed Engineer",
+      "location": "New York City, New York",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+      "postedAt": "2026-10-22T13:31:19.000Z",
+      "key": "databricks:8907988002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T19:50:18.019Z"
     },
     {
       "id": "R1004280",
@@ -20765,22 +20830,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T22:10:17.916Z"
-    },
-    {
-      "id": "1066b974-3cd8-42cf-a11c-a4217c06f70f",
-      "title": "Data Scientist, Growth",
-      "location": "Foster City, CA",
-      "team": "Data",
-      "url": "https://jobs.ashbyhq.com/replit/1066b974-3cd8-42cf-a11c-a4217c06f70f",
-      "postedAt": "2026-10-13T22:07:13.122Z",
-      "key": "replit:1066b974-3cd8-42cf-a11c-a4217c06f70f",
-      "company": "Replit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T14:10:21.568Z"
     },
     {
       "id": "2bd4132f-9971-4eb2-98dd-4b1a5b538338",
@@ -40618,38 +40667,6 @@
         "us"
       ],
       "firstSeen": "2026-09-26T20:00:20.732Z"
-    },
-    {
-      "id": "16e2e233-4fed-463d-bc14-a69af7681737",
-      "title": "Staff Engineer, Aircraft Trajectory Modeling (R5787)",
-      "location": "San Diego, California",
-      "team": "Engineering",
-      "url": "https://jobs.lever.co/shieldai/16e2e233-4fed-463d-bc14-a69af7681737",
-      "postedAt": "2026-09-26T19:46:02.905Z",
-      "key": "shieldai:16e2e233-4fed-463d-bc14-a69af7681737",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-26T19:50:17.102Z"
-    },
-    {
-      "id": "8848613002",
-      "title": "Software Engineer, Manufacturing Infrastructure",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8848613002?gh_jid=8848613002",
-      "postedAt": "2026-09-26T19:40:48.000Z",
-      "key": "spacex:8848613002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-26T19:50:17.102Z"
     },
     {
       "id": "REF088255W",
