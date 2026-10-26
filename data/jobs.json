@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T18:20:58.533Z",
+  "generatedAt": "2026-10-26T18:30:23.876Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "securityscorecard:8324966"
+    "neuralink:8044955003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 135,
     "new-grad": 19,
-    "experienced": 2066
+    "experienced": 2067
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3308,7 +3308,7 @@
     {
       "name": "Neuralink",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3587,10 +3587,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8044955003",
+      "title": "Infrastructure Engineer, Mechanical Tooling",
+      "location": "Austin, Texas, United States; South San Francisco, California, United States",
+      "team": null,
+      "url": "https://boards.greenhouse.io/neuralink/jobs/8044955003?gh_jid=8044955003",
+      "postedAt": "2026-10-26T18:29:11.000Z",
+      "key": "neuralink:8044955003",
+      "company": "Neuralink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T18:30:23.876Z"
+    },
     {
       "id": "8324966",
       "title": "Distinguished Software Engineer, AI",
@@ -35772,7 +35788,7 @@
     },
     {
       "id": "8859394002",
-      "title": "Senior Software Engineer - Identity & Access Management",
+      "title": "Staff Software Engineer - Identity & Access Management",
       "location": "San Francisco, California, United States",
       "team": null,
       "url": "https://www.brex.com/careers/8859394002?gh_jid=8859394002",
@@ -35788,7 +35804,7 @@
     },
     {
       "id": "8859393002",
-      "title": "Senior Software Engineer - Identity & Access Management",
+      "title": "Staff Software Engineer - Identity & Access Management",
       "location": "Seattle, Washington, United States",
       "team": null,
       "url": "https://www.brex.com/careers/8859393002?gh_jid=8859393002",
@@ -35804,7 +35820,7 @@
     },
     {
       "id": "8859337002",
-      "title": "Senior Software Engineer - Identity & Access Management",
+      "title": "Staff Software Engineer - Identity & Access Management",
       "location": "New York, New York, United States",
       "team": null,
       "url": "https://www.brex.com/careers/8859337002?gh_jid=8859337002",
