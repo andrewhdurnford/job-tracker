@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T23:00:25.841Z",
+  "generatedAt": "2026-10-26T23:07:39.495Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Nvidia:JR2025882"
+    "snowflake:95b87897-68dc-47c0-a4c0-2320d36dafac"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 19,
-    "experienced": 2085
+    "experienced": 2086
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2950,10 +2950,10 @@
     },
     {
       "name": "Meesho",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Melio",
@@ -4638,7 +4638,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "95b87897-68dc-47c0-a4c0-2320d36dafac",
+      "title": "Senior Software Engineer, Compute Service",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/95b87897-68dc-47c0-a4c0-2320d36dafac",
+      "postedAt": "2026-10-26T23:01:45.089Z",
+      "key": "snowflake:95b87897-68dc-47c0-a4c0-2320d36dafac",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T23:07:39.495Z"
+    },
     {
       "id": "JR2025882",
       "title": "Software DevOps Engineer, Networking",
