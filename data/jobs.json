@@ -1,13 +1,11 @@
 {
-  "generatedAt": "2026-10-26T21:00:27.916Z",
+  "generatedAt": "2026-10-26T21:10:17.730Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2024551",
-    "stripe:8311069",
-    "stripe:8311082",
-    "temporal:e3d7f035-7946-469f-84cf-e1c775bf25e8",
-    "twilio:8258581"
+    "Capital One:R1001276",
+    "ServiceTitan:JR116321",
+    "zscaler:5246776007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +14,7 @@
   "levelCounts": {
     "intern": 138,
     "new-grad": 19,
-    "experienced": 2073
+    "experienced": 2076
   },
   "companies": [
     {
@@ -597,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -792,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 182,
+      "jobCount": 183,
       "error": null,
       "stale": false
     },
@@ -1568,10 +1566,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -2037,10 +2035,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -2954,10 +2952,10 @@
     },
     {
       "name": "Meesho",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Melio",
@@ -4439,7 +4437,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4473,10 +4471,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 42,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -4928,10 +4926,10 @@
     },
     {
       "name": "Synapticure",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sysdig",
@@ -5692,7 +5690,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR116321",
+      "title": "Senior Identity Governance Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Senior-Identity-Governance-Engineer_JR116321",
+      "postedAt": "2026-10-26T21:10:20.870Z",
+      "key": "ServiceTitan:JR116321",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T21:10:17.730Z"
+    },
+    {
+      "id": "R1001276",
+      "title": "Full-stack Engineer 4 (Python, Java)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Python--Java-_R1001276-1",
+      "postedAt": "2026-10-26T21:10:20.636Z",
+      "key": "Capital One:R1001276",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T21:10:17.730Z"
+    },
     {
       "id": "JR2024551",
       "title": "Data Application Engineer, Enterprise Data Management",
@@ -37512,6 +37542,22 @@
         "us"
       ],
       "firstSeen": "2026-09-30T01:19:23.380Z"
+    },
+    {
+      "id": "5246776007",
+      "title": " Senior Machine Learning Engineer",
+      "location": "Remote - USA; Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5246776007",
+      "postedAt": "2026-09-30T00:30:47.000Z",
+      "key": "zscaler:5246776007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T21:10:17.730Z"
     },
     {
       "id": "8241748",
