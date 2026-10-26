@@ -1,16 +1,20 @@
 {
-  "generatedAt": "2026-10-26T22:00:25.161Z",
+  "generatedAt": "2026-10-26T22:10:24.627Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "billiontoone:4747865005",
+    "flowengineering:f37e7006-5e7d-4589-8006-c8d0215ee296",
+    "Procore:R0018911"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 138,
+    "intern": 139,
     "new-grad": 19,
-    "experienced": 2080
+    "experienced": 2082
   },
   "companies": [
     {
@@ -569,7 +573,7 @@
     {
       "name": "BillionToOne",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -591,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -934,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1836,7 +1840,7 @@
     {
       "name": "Flow Engineering",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3887,7 +3891,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R0018911",
+      "title": "Senior AI Engineer",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-AI-Engineer_R0018911",
+      "postedAt": "2026-10-26T22:10:28.466Z",
+      "key": "Procore:R0018911",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T22:10:24.627Z"
+    },
+    {
+      "id": "4747865005",
+      "title": "Research Associate Intern",
+      "location": "Menlo Park, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4747865005",
+      "postedAt": "2026-10-26T22:03:06.000Z",
+      "key": "billiontoone:4747865005",
+      "company": "BillionToOne",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T22:10:24.627Z"
+    },
+    {
+      "id": "f37e7006-5e7d-4589-8006-c8d0215ee296",
+      "title": "Tech Lead Manager",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/flowengineering/f37e7006-5e7d-4589-8006-c8d0215ee296",
+      "postedAt": "2026-10-26T22:00:24.234Z",
+      "key": "flowengineering:f37e7006-5e7d-4589-8006-c8d0215ee296",
+      "company": "Flow Engineering",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T22:10:24.627Z"
+    },
     {
       "id": "8040269003",
       "title": "Senior Software Engineer, Backend (AI Platform)",
