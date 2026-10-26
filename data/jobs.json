@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T18:10:19.399Z",
+  "generatedAt": "2026-10-26T18:20:58.533Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "gleanwork:4744818005"
+    "securityscorecard:8324966"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 135,
     "new-grad": 19,
-    "experienced": 2065
+    "experienced": 2066
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1755,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4386,7 +4386,7 @@
     {
       "name": "Security Scorecard",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8324966",
+      "title": "Distinguished Software Engineer, AI",
+      "location": "Remote (US/CAN/LATAM)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/8324966",
+      "postedAt": "2026-10-26T18:12:09.000Z",
+      "key": "securityscorecard:8324966",
+      "company": "Security Scorecard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T18:20:58.533Z"
+    },
     {
       "id": "7472e486-0aa6-4f9d-86da-2105a42b2dce",
       "title": "Forward Deployed Engineer (FDE) - AI Infra - SF",
@@ -21551,7 +21567,7 @@
     {
       "id": "4443888009",
       "title": "Director, AI Developer Experience",
-      "location": "New York, NY",
+      "location": "New York, NY (Hybrid)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/attentive/jobs/4443888009",
       "postedAt": "2026-10-13T17:22:22.000Z",
