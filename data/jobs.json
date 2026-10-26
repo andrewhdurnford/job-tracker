@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-26T22:50:18.105Z",
+  "generatedAt": "2026-10-26T23:00:25.841Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "anthropic:5462966008",
-    "Nvidia:JR2028412"
+    "Nvidia:JR2025882"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -467,7 +466,7 @@
     {
       "name": "Atomic Industries",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -594,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2951,10 +2950,10 @@
     },
     {
       "name": "Meesho",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Melio",
@@ -3428,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 145,
+      "jobCount": 146,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025882",
+      "title": "Software DevOps Engineer, Networking",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-DevOps-Engineer--Networking_JR2025882",
+      "postedAt": "2026-10-26T23:00:30.306Z",
+      "key": "Nvidia:JR2025882",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T23:00:25.841Z"
+    },
     {
       "id": "JR2028412",
       "title": "Senior Systems Firmware Engineer - SBIOS, Bringup",
@@ -33277,22 +33292,6 @@
       },
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-10-02T20:00:22.243Z"
-    },
-    {
-      "id": "e7449ccb-627b-4184-8e3c-c562d9929ecf",
-      "title": "Senior Device Software Engineer",
-      "location": "San Francisco, CA",
-      "team": "Sauron",
-      "url": "https://jobs.ashbyhq.com/atomic/e7449ccb-627b-4184-8e3c-c562d9929ecf",
-      "postedAt": "2026-10-02T19:54:22.722Z",
-      "key": "atomic:e7449ccb-627b-4184-8e3c-c562d9929ecf",
-      "company": "Atomic Industries",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-02T20:00:22.243Z"
     },
