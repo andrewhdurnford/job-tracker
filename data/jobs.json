@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T19:10:18.436Z",
+  "generatedAt": "2026-10-26T19:20:17.894Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 136,
     "new-grad": 19,
-    "experienced": 2065
+    "experienced": 2063
   },
   "companies": [
     {
@@ -786,7 +786,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 180,
+      "jobCount": 179,
       "error": null,
       "stale": false
     },
@@ -4314,7 +4314,7 @@
     {
       "name": "Salient",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 86,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5482,10 +5482,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Weave",
@@ -13224,22 +13224,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Data-Engineer-4--Manager--IC-_R1004141-1",
       "postedAt": "2026-10-20T16:00:31.790Z",
       "key": "Capital One:R1004141",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T16:00:28.261Z"
-    },
-    {
-      "id": "R1002215",
-      "title": "Full-stack Engineer 4",
-      "location": "Richmond, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1002215",
-      "postedAt": "2026-10-20T16:00:31.790Z",
-      "key": "Capital One:R1002215",
       "company": "Capital One",
       "level": "experienced",
       "term": null,
@@ -40651,22 +40635,6 @@
       "url": "https://jobs.ashbyhq.com/salient/4de2e28b-8603-45e9-aaeb-46d7a09838a2",
       "postedAt": "2026-09-26T19:22:05.000Z",
       "key": "salient:4de2e28b-8603-45e9-aaeb-46d7a09838a2",
-      "company": "Salient",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T03:50:16.152Z"
-    },
-    {
-      "id": "f88db9d8-cadb-453d-9ee4-76576c379eb0",
-      "title": "Cloud Infrastructure Engineer",
-      "location": "SF Headquarters",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/salient/f88db9d8-cadb-453d-9ee4-76576c379eb0",
-      "postedAt": "2026-09-26T19:18:07.230Z",
-      "key": "salient:f88db9d8-cadb-453d-9ee4-76576c379eb0",
       "company": "Salient",
       "level": "experienced",
       "term": null,
