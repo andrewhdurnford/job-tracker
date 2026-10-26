@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-26T17:10:19.121Z",
+  "generatedAt": "2026-10-26T17:20:22.042Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "greenboard:f4bad55a-64e6-48e0-a3d7-f0fe7178a8c8"
+    "Capital One:R1001217",
+    "openai:5dce6671-9aa8-4c49-b263-b175a2a927f8"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 179,
+      "jobCount": 180,
       "error": null,
       "stale": false
     },
@@ -1243,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -2481,10 +2482,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "JFrog",
@@ -3511,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -5254,7 +5255,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001217",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Manager--IC-_R1001217-1",
+      "postedAt": "2026-10-26T17:20:25.386Z",
+      "key": "Capital One:R1001217",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T17:20:22.042Z"
+    },
     {
       "id": "f4bad55a-64e6-48e0-a3d7-f0fe7178a8c8",
       "title": "Senior DevSecOps Engineer",
@@ -7071,22 +7088,6 @@
       "firstSeen": "2026-10-23T20:00:28.190Z"
     },
     {
-      "id": "6a2c70cc-6106-4df8-ab2d-5cc550acc572",
-      "title": "Senior Software Engineer -AI",
-      "location": "Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/uipath/6a2c70cc-6106-4df8-ab2d-5cc550acc572",
-      "postedAt": "2026-10-23T19:56:04.959Z",
-      "key": "uipath:6a2c70cc-6106-4df8-ab2d-5cc550acc572",
-      "company": "UiPath",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T20:00:28.190Z"
-    },
-    {
       "id": "8287385",
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
       "location": "Mountain View, CA, USA",
@@ -8023,22 +8024,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T05:20:17.053Z"
-    },
-    {
-      "id": "R30441",
-      "title": "Distinguished Software Engineer, Sensor (Remote)",
-      "location": "USA - Remote, TX",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-TX/Distinguished-Software-Engineer--Sensor--Remote-_R30441-1",
-      "postedAt": "2026-10-23T05:00:29.380Z",
-      "key": "CrowdStrike:R30441",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T05:00:24.495Z"
     },
     {
       "id": "6231660004",
@@ -18936,6 +18921,22 @@
         "us"
       ],
       "firstSeen": "2026-10-15T01:10:18.692Z"
+    },
+    {
+      "id": "5dce6671-9aa8-4c49-b263-b175a2a927f8",
+      "title": "Data Scientist, Personalization & Machine Learning",
+      "location": "San Francisco",
+      "team": "Data Science",
+      "url": "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8",
+      "postedAt": "2026-10-15T01:07:39.592Z",
+      "key": "openai:5dce6671-9aa8-4c49-b263-b175a2a927f8",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T17:20:22.042Z"
     },
     {
       "id": "JR2027584",
