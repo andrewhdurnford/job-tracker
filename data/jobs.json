@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-10-26T20:50:17.921Z",
+  "generatedAt": "2026-10-26T21:00:27.916Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "coinbase:8319444",
-    "coinbase:8319448",
-    "Nvidia:JR2016396"
+    "Nvidia:JR2024551",
+    "stripe:8311069",
+    "stripe:8311082",
+    "temporal:e3d7f035-7946-469f-84cf-e1c775bf25e8",
+    "twilio:8258581"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +16,7 @@
   "levelCounts": {
     "intern": 138,
     "new-grad": 19,
-    "experienced": 2068
+    "experienced": 2073
   },
   "companies": [
     {
@@ -1566,10 +1568,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Encord",
@@ -2035,10 +2037,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 4,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -2952,10 +2954,10 @@
     },
     {
       "name": "Meesho",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Melio",
@@ -3429,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 143,
+      "jobCount": 144,
       "error": null,
       "stale": false
     },
@@ -4801,7 +4803,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4926,10 +4928,10 @@
     },
     {
       "name": "Synapticure",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sysdig",
@@ -5025,7 +5027,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5228,7 +5230,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2024551",
+      "title": "Data Application Engineer, Enterprise Data Management",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Application-Engineer--Enterprise-Data-Management_JR2024551",
+      "postedAt": "2026-10-26T21:00:32.728Z",
+      "key": "Nvidia:JR2024551",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T21:00:27.916Z"
+    },
+    {
+      "id": "e3d7f035-7946-469f-84cf-e1c775bf25e8",
+      "title": "Software Engineer II, Cloud Applications",
+      "location": "United States (Remote)",
+      "team": "Cloud Applications",
+      "url": "https://jobs.ashbyhq.com/temporal/e3d7f035-7946-469f-84cf-e1c775bf25e8",
+      "postedAt": "2026-10-26T20:59:39.060Z",
+      "key": "temporal:e3d7f035-7946-469f-84cf-e1c775bf25e8",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T21:00:27.916Z"
+    },
+    {
+      "id": "8258581",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Remote - Ontario, Canada (DNU)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
+      "postedAt": "2026-10-26T20:57:06.000Z",
+      "key": "twilio:8258581",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-26T21:00:27.916Z"
+    },
+    {
+      "id": "8311082",
+      "title": "iOS Engineer, Identity Product",
+      "location": "San Francisco, CA; Seattle, WA; New York City, NY",
+      "team": "8215 Identity - Eng",
+      "url": "https://stripe.com/jobs/search?gh_jid=8311082",
+      "postedAt": "2026-10-26T20:53:41.000Z",
+      "key": "stripe:8311082",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T21:00:27.916Z"
+    },
+    {
+      "id": "8311069",
+      "title": "Android Engineer, Identity Product",
+      "location": "San Francisco, CA; Seattle, WA; New York City, NY",
+      "team": "8215 Identity - Eng",
+      "url": "https://stripe.com/jobs/search?gh_jid=8311069",
+      "postedAt": "2026-10-26T20:50:46.000Z",
+      "key": "stripe:8311069",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T21:00:27.916Z"
+    },
     {
       "id": "JR2016396",
       "title": "Senior AI-Native Systems Software Engineer, TensorRT",
