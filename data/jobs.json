@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-26T13:50:19.590Z",
+  "generatedAt": "2026-10-26T14:00:31.633Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Capital One:R1004094"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 179,
+      "jobCount": 180,
       "error": null,
       "stale": false
     },
@@ -1290,7 +1292,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4054,10 +4056,10 @@
     },
     {
       "name": "Reach",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Reacher",
@@ -4826,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004094",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1004094-2",
+      "postedAt": "2026-10-26T14:00:35.310Z",
+      "key": "Capital One:R1004094",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T14:00:31.633Z"
+    },
     {
       "id": "3abf96ca-2937-4290-9d23-5208aece08b2",
       "title": "Full-Stack Engineer - Ads Engine",
@@ -7409,22 +7427,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T15:50:20.192Z"
-    },
-    {
-      "id": "8910846002",
-      "title": "Associate Forward Deployed Engineer",
-      "location": "Mountain View, California",
-      "team": null,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
-      "postedAt": "2026-10-23T15:19:31.000Z",
-      "key": "databricks:8910846002",
-      "company": "Databricks",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T15:20:16.698Z"
     },
     {
       "id": "JR2023503",
