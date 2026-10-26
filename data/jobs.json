@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:00:31.794Z",
+  "generatedAt": "2026-10-26T12:10:18.234Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 136,
     "new-grad": 19,
-    "experienced": 2061
+    "experienced": 2060
   },
   "companies": [
     {
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 86,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5399,7 +5399,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -18324,22 +18324,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-15T16:40:16.632Z"
-    },
-    {
-      "id": "REF074767W",
-      "title": "Staff Data Engineer",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-Data-Engineer_REF074767W",
-      "postedAt": "2026-10-15T16:30:24.982Z",
-      "key": "Visa:REF074767W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T16:30:21.999Z"
     },
     {
       "id": "320f140f-bd7b-4df6-a2a8-f561bf83f7bf",
