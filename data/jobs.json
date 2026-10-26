@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-26T23:20:19.094Z",
+  "generatedAt": "2026-10-26T23:30:22.475Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "CrowdStrike:R29787",
+    "Nvidia:JR2028696",
+    "speak:8428825b-a10f-47e2-acc6-5e24d11d6137"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -591,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1241,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -1423,7 +1427,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 148,
+      "jobCount": 147,
       "error": null,
       "stale": false
     },
@@ -4699,7 +4703,7 @@
     {
       "name": "Speak",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5700,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "R29787",
+      "title": "Sr. Engineer, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer-II--Cloud-Native---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29787",
+      "postedAt": "2026-10-26T23:30:27.250Z",
+      "key": "CrowdStrike:R29787",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T23:30:22.475Z"
+    },
+    {
+      "id": "JR2028696",
+      "title": "Senior Engineering Manager, Graphics APIs and Platforms",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Engineering-Manager--Graphics-APIs-and-Platforms_JR2028696",
+      "postedAt": "2026-10-26T23:30:26.928Z",
+      "key": "Nvidia:JR2028696",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T23:30:22.475Z"
+    },
+    {
+      "id": "8428825b-a10f-47e2-acc6-5e24d11d6137",
+      "title": "Full-Stack Engineer - Enterprise",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/speak/8428825b-a10f-47e2-acc6-5e24d11d6137",
+      "postedAt": "2026-10-26T23:19:48.266Z",
+      "key": "speak:8428825b-a10f-47e2-acc6-5e24d11d6137",
+      "company": "Speak",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T23:30:22.475Z"
+    },
+    {
       "id": "JR2020021",
       "title": "Systems Engineer, World Model Evaluation - Autonomous Vehicles",
       "location": "US, CA, Santa Clara",
@@ -5746,22 +5798,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T23:07:39.495Z"
-    },
-    {
-      "id": "JR2025882",
-      "title": "Software DevOps Engineer, Networking",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-DevOps-Engineer--Networking_JR2025882",
-      "postedAt": "2026-10-26T23:00:30.306Z",
-      "key": "Nvidia:JR2025882",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T23:00:25.841Z"
     },
     {
       "id": "JR2028412",
@@ -18338,22 +18374,6 @@
       "firstSeen": "2026-10-15T23:00:24.286Z"
     },
     {
-      "id": "JR2024352",
-      "title": "Principal Software Engineer – Infrastructure",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---Infrastructure_JR2024352-1",
-      "postedAt": "2026-10-15T22:50:20.042Z",
-      "key": "Nvidia:JR2024352",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T22:50:15.742Z"
-    },
-    {
       "id": "5454673008",
       "title": "Applied AI Engineer, Startups (Physical AI)",
       "location": "San Francisco, CA",
@@ -25233,22 +25253,6 @@
       "firstSeen": "2026-10-09T19:40:16.714Z"
     },
     {
-      "id": "29922",
-      "title": "Detection Engineer",
-      "location": "US-OK-Remote",
-      "team": "Security",
-      "url": "https://uscareers-docusign.icims.com/jobs/29922/login",
-      "postedAt": "2026-10-09T19:34:00.000Z",
-      "key": "DocuSign:29922",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-09T19:40:16.714Z"
-    },
-    {
       "id": "8267151",
       "title": "Staff Machine Learning Engineer",
       "location": "Remote - USA",
@@ -26356,7 +26360,7 @@
     },
     {
       "id": "0f8bdc04-5d1d-4db1-a888-3f367cb4469e",
-      "title": "Head of Engineering",
+      "title": "Technical Lead Manager - Platform Engineering",
       "location": "San Francisco",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/llamaindex/0f8bdc04-5d1d-4db1-a888-3f367cb4469e",
