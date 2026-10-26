@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-26T23:40:20.053Z",
+  "generatedAt": "2026-10-26T23:50:19.549Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "baseten:7c0ba27d-2f09-42f2-9277-1b756076b00b"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 19,
-    "experienced": 2088
+    "experienced": 2089
   },
   "companies": [
     {
@@ -520,7 +522,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5700,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "7c0ba27d-2f09-42f2-9277-1b756076b00b",
+      "title": "Software Engineer, Compute and Isolation",
+      "location": "San Francisco (+1 more)",
+      "team": "Agent Infra",
+      "url": "https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b",
+      "postedAt": "2026-10-26T23:47:29.816Z",
+      "key": "baseten:7c0ba27d-2f09-42f2-9277-1b756076b00b",
+      "company": "Baseten",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T23:50:19.549Z"
+    },
+    {
       "id": "R29787",
       "title": "Sr. Engineer, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
       "location": "USA - Sunnyvale, CA",
@@ -6136,7 +6154,7 @@
     {
       "id": "8311082",
       "title": "iOS Engineer, Identity Product",
-      "location": "San Francisco, CA; Seattle, WA; New York City, NY",
+      "location": "San Francisco, CA",
       "team": "8215 Identity - Eng",
       "url": "https://stripe.com/jobs/search?gh_jid=8311082",
       "postedAt": "2026-10-26T20:53:41.000Z",
