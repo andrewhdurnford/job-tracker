@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:10:21.866Z",
+  "generatedAt": "2026-10-26T10:20:18.699Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5356,10 +5356,10 @@
     },
     {
       "name": "Verifiable",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Veritus",
