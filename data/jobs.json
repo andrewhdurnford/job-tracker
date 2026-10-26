@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-26T19:20:17.894Z",
+  "generatedAt": "2026-10-26T19:30:22.500Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R1004432",
+    "gleanwork:4747670005"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 136,
+    "intern": 137,
     "new-grad": 19,
-    "experienced": 2063
+    "experienced": 2060
   },
   "companies": [
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 179,
+      "jobCount": 180,
       "error": null,
       "stale": false
     },
@@ -1983,7 +1986,7 @@
     {
       "name": "Glean",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4314,7 +4317,7 @@
     {
       "name": "Salient",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4468,7 +4471,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 86,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 85,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5482,10 +5485,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Weave",
@@ -5699,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004432",
+      "title": "Full-stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1004432-1",
+      "postedAt": "2026-10-26T19:30:26.091Z",
+      "key": "Capital One:R1004432",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T19:30:22.500Z"
+    },
+    {
+      "id": "4747670005",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "location": "Mountain View, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005",
+      "postedAt": "2026-10-26T19:26:35.000Z",
+      "key": "gleanwork:4747670005",
+      "company": "Glean",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T19:30:22.500Z"
+    },
     {
       "id": "5271149007",
       "title": "Technical Writer Intern, Developer Experience (Summer 2027)",
@@ -40577,71 +40618,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-26T19:40:22.646Z"
-    },
-    {
-      "id": "e6129683-3f3a-46f6-96d0-2d35426e7229",
-      "title": "Staff Engineer, State Estimation (R5783)",
-      "location": "Remote",
-      "team": "Engineering",
-      "url": "https://jobs.lever.co/shieldai/e6129683-3f3a-46f6-96d0-2d35426e7229",
-      "postedAt": "2026-09-26T19:27:44.016Z",
-      "key": "shieldai:e6129683-3f3a-46f6-96d0-2d35426e7229",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-10-07T18:50:16.497Z"
-    },
-    {
-      "id": "6af0cafd-bd6b-425e-9154-020ec8711776",
-      "title": "Telephony Infrastructure Engineer",
-      "location": "SF Headquarters",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/salient/6af0cafd-bd6b-425e-9154-020ec8711776",
-      "postedAt": "2026-09-26T19:25:49.246Z",
-      "key": "salient:6af0cafd-bd6b-425e-9154-020ec8711776",
-      "company": "Salient",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T03:50:16.152Z"
-    },
-    {
-      "id": "8848609002",
-      "title": "Full Stack Software Engineer, Manufacturing Systems ",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8848609002?gh_jid=8848609002",
-      "postedAt": "2026-09-26T19:24:10.000Z",
-      "key": "spacex:8848609002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-26T19:30:56.030Z"
-    },
-    {
-      "id": "4de2e28b-8603-45e9-aaeb-46d7a09838a2",
-      "title": "Lead Security Engineer",
-      "location": "SF Headquarters",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/salient/4de2e28b-8603-45e9-aaeb-46d7a09838a2",
-      "postedAt": "2026-09-26T19:22:05.000Z",
-      "key": "salient:4de2e28b-8603-45e9-aaeb-46d7a09838a2",
-      "company": "Salient",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T03:50:16.152Z"
     },
     {
       "id": "REF088255W",
