@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-26T21:20:17.520Z",
+  "generatedAt": "2026-10-26T21:30:25.424Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "openai:916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
+    "openai:d134caf2-907c-4c85-be2d-fad477d2b425",
+    "zscaler:5270975007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 138,
     "new-grad": 19,
-    "experienced": 2075
+    "experienced": 2077
   },
   "companies": [
     {
@@ -2894,7 +2898,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3509,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 84,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5270975007",
+      "title": "Sr. Staff Software Development Engineer",
+      "location": "San Jose, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5270975007",
+      "postedAt": "2026-10-26T21:22:11.000Z",
+      "key": "zscaler:5270975007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T21:30:25.424Z"
+    },
+    {
+      "id": "d134caf2-907c-4c85-be2d-fad477d2b425",
+      "title": "Value Engineer - NYC",
+      "location": "New York City",
+      "team": "Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/d134caf2-907c-4c85-be2d-fad477d2b425",
+      "postedAt": "2026-10-26T21:21:51.242Z",
+      "key": "openai:d134caf2-907c-4c85-be2d-fad477d2b425",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T21:30:25.424Z"
+    },
+    {
+      "id": "916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
+      "title": " Value Engineer - San Francisco",
+      "location": "San Francisco",
+      "team": "Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
+      "postedAt": "2026-10-26T21:21:48.233Z",
+      "key": "openai:916fa6f6-f441-43c6-9769-27e4bf0b2cc9",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-26T21:30:25.424Z"
+    },
     {
       "id": "JR116321",
       "title": "Senior Identity Governance Engineer",
@@ -37538,22 +37590,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T01:19:23.380Z"
-    },
-    {
-      "id": "5246776007",
-      "title": " Senior Machine Learning Engineer",
-      "location": "Remote - USA; Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5246776007",
-      "postedAt": "2026-09-30T00:30:47.000Z",
-      "key": "zscaler:5246776007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T21:10:17.730Z"
     },
     {
       "id": "8241748",
