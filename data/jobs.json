@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-27T16:10:18.109Z",
+  "generatedAt": "2026-10-27T16:20:19.635Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "boxinc:8267895"
+    "affirm:8016932003",
+    "Tempus AI:JR202601131",
+    "tennr:8cfdd6c5-081e-4c10-9b43-effdc91cbda6"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 19,
-    "experienced": 2118
+    "experienced": 2121
   },
   "companies": [
     {
@@ -81,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 54,
+      "jobCount": 55,
       "error": null,
       "stale": false
     },
@@ -593,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 82,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5037,14 +5039,14 @@
     {
       "name": "Tempus AI",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
     {
       "name": "Tennr",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "JR202601131",
+      "title": "Senior Manager, Software Engineering (Data Architecture)",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Chicago/Senior-Manager--Software-Engineering--Data-Architecture-_JR202601131-1",
+      "postedAt": "2026-10-27T16:20:23.338Z",
+      "key": "Tempus AI:JR202601131",
+      "company": "Tempus AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T16:20:19.635Z"
+    },
+    {
+      "id": "8016932003",
+      "title": "Product Security Engineer II - IAM",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8016932003",
+      "postedAt": "2026-10-27T16:13:58.000Z",
+      "key": "affirm:8016932003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-27T16:20:19.635Z"
+    },
+    {
+      "id": "8cfdd6c5-081e-4c10-9b43-effdc91cbda6",
+      "title": "Forward Deployed Engineering Team Manager",
+      "location": "New York City Office",
+      "team": "Embedded Solutions",
+      "url": "https://jobs.ashbyhq.com/tennr/8cfdd6c5-081e-4c10-9b43-effdc91cbda6",
+      "postedAt": "2026-10-27T16:10:53.557Z",
+      "key": "tennr:8cfdd6c5-081e-4c10-9b43-effdc91cbda6",
+      "company": "Tennr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T16:20:19.635Z"
+    },
+    {
       "id": "8267895",
       "title": "Software Engineer III, GTOC",
       "location": "Redwood City, CA, United States",
@@ -6007,7 +6057,7 @@
     },
     {
       "id": "8040751003",
-      "title": "Product Security Engineer II - CIAM",
+      "title": "Software Engineer II - CIAM",
       "location": "Remote US",
       "team": null,
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
@@ -6023,7 +6073,7 @@
     },
     {
       "id": "8040753003",
-      "title": "Product Security Engineer II - CIAM",
+      "title": "Software Engineer II - CIAM",
       "location": "Remote Canada",
       "team": null,
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003",
@@ -28175,7 +28225,7 @@
     {
       "id": "8247246",
       "title": "Staff Machine Learning Engineer, Content Visual AI",
-      "location": "San Francisco, CA, US; New York City, NY, US; Seattle, WA, US; Remote, US",
+      "location": "San Francisco, CA, US; New York, NY, US; Seattle, WA, US; Remote, US",
       "team": null,
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8247246",
       "postedAt": "2026-10-08T15:49:26.000Z",
