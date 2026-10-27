@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-27T05:10:18.157Z",
+  "generatedAt": "2026-10-27T05:20:18.517Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "harvey:0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -2172,7 +2174,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 82,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5105,7 +5107,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
+      "title": "Software Engineer, Agents",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
+      "postedAt": "2026-10-27T05:15:15.927Z",
+      "key": "harvey:0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
+      "company": "Harvey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T05:20:18.517Z"
+    },
     {
       "id": "REF089900W",
       "title": "Consulting & Analytics Intern - Summer 2027",
@@ -8405,22 +8423,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T18:00:29.039Z"
-    },
-    {
-      "id": "8186869",
-      "title": "Software Engineer II (Fullstack), Digital Storefront",
-      "location": "US (remote)",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8186869",
-      "postedAt": "2026-10-23T17:50:16.000Z",
-      "key": "toast:8186869",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T19:40:19.341Z"
     },
     {
       "id": "6122975004",
