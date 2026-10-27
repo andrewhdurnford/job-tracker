@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-10-27T16:20:19.635Z",
+  "generatedAt": "2026-10-27T16:30:25.237Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "affirm:8016932003",
-    "Tempus AI:JR202601131",
-    "tennr:8cfdd6c5-081e-4c10-9b43-effdc91cbda6"
+    "anyscale:f6845640-e1d7-42f6-82a1-ebfa8967e00d",
+    "okta:8303680",
+    "revenuecat:22cccdd0-817d-460f-9f9d-a3d0ab3e6e2b",
+    "thinkingmachines:7c8b01f8-8542-4cb4-9701-5578960cda3b",
+    "thinkingmachines:14bef671-162c-4513-bfcf-e679e41e10a8"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +16,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 19,
-    "experienced": 2121
+    "experienced": 2123
   },
   "companies": [
     {
@@ -314,7 +316,7 @@
     {
       "name": "Anyscale",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -595,7 +597,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -790,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 188,
+      "jobCount": 187,
       "error": null,
       "stale": false
     },
@@ -2176,7 +2178,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3471,7 +3473,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4136,7 +4138,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4185,7 +4187,7 @@
     {
       "name": "RevenueCat",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 82,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5067,7 +5069,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "22cccdd0-817d-460f-9f9d-a3d0ab3e6e2b",
+      "title": "Senior Data Scientist, Product",
+      "location": "Americas (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/revenuecat/22cccdd0-817d-460f-9f9d-a3d0ab3e6e2b",
+      "postedAt": "2026-10-27T16:29:38.633Z",
+      "key": "revenuecat:22cccdd0-817d-460f-9f9d-a3d0ab3e6e2b",
+      "company": "RevenueCat",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T16:30:25.237Z"
+    },
+    {
+      "id": "f6845640-e1d7-42f6-82a1-ebfa8967e00d",
+      "title": "Engineering Manager, Ray Data",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/anyscale/f6845640-e1d7-42f6-82a1-ebfa8967e00d",
+      "postedAt": "2026-10-27T16:25:02.883Z",
+      "key": "anyscale:f6845640-e1d7-42f6-82a1-ebfa8967e00d",
+      "company": "Anyscale",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T16:30:25.237Z"
+    },
+    {
+      "id": "7c8b01f8-8542-4cb4-9701-5578960cda3b",
+      "title": "Software Engineer, Security",
+      "location": "San Francisco",
+      "team": "Security & IT",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/7c8b01f8-8542-4cb4-9701-5578960cda3b",
+      "postedAt": "2026-10-27T16:24:28.319Z",
+      "key": "thinkingmachines:7c8b01f8-8542-4cb4-9701-5578960cda3b",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T16:30:25.237Z"
+    },
+    {
+      "id": "14bef671-162c-4513-bfcf-e679e41e10a8",
+      "title": "Infrastructure Engineer, Security",
+      "location": "San Francisco",
+      "team": "Security & IT",
+      "url": "https://jobs.ashbyhq.com/thinkingmachines/14bef671-162c-4513-bfcf-e679e41e10a8",
+      "postedAt": "2026-10-27T16:23:44.228Z",
+      "key": "thinkingmachines:14bef671-162c-4513-bfcf-e679e41e10a8",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T16:30:25.237Z"
+    },
+    {
+      "id": "8303680",
+      "title": "Director, Site Reliability Engineering ",
+      "location": "Bellevue, Washington; San Francisco, California",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8303680?gh_jid=8303680",
+      "postedAt": "2026-10-27T16:22:39.000Z",
+      "key": "okta:8303680",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T16:30:25.237Z"
+    },
     {
       "id": "JR202601131",
       "title": "Senior Manager, Software Engineering (Data Architecture)",
@@ -6426,22 +6508,6 @@
         "us"
       ],
       "firstSeen": "2026-10-27T07:00:26.528Z"
-    },
-    {
-      "id": "0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
-      "title": "Software Engineer, Agents",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
-      "postedAt": "2026-10-27T05:15:15.927Z",
-      "key": "harvey:0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
-      "company": "Harvey",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T05:20:18.517Z"
     },
     {
       "id": "REF089900W",
@@ -13853,22 +13919,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T21:20:19.949Z"
-    },
-    {
-      "id": "R_107079",
-      "title": "Software Development Engineer",
-      "location": "Seattle, Washington United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107079",
-      "postedAt": "2026-10-20T21:10:20.451Z",
-      "key": "Remitly:R_107079",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T21:10:17.080Z"
     },
     {
       "id": "6224936004",
@@ -41818,22 +41868,6 @@
         "us"
       ],
       "firstSeen": "2026-09-27T20:00:26.045Z"
-    },
-    {
-      "id": "R1002223",
-      "title": "Full-stack Engineer 4",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002223-1",
-      "postedAt": "2026-09-27T19:54:08.040Z",
-      "key": "Capital One:R1002223",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-27T19:54:04.723Z"
     },
     {
       "id": "R1002218",
