@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-27T14:10:24.026Z",
+  "generatedAt": "2026-10-27T14:20:20.942Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R1002600",
+    "Capital One:R1002409"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 19,
-    "experienced": 2102
+    "experienced": 2103
   },
   "companies": [
     {
@@ -190,10 +193,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Alpaca",
@@ -757,10 +760,10 @@
     },
     {
       "name": "Canary Technologies",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Candid Health",
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 183,
+      "jobCount": 185,
       "error": null,
       "stale": false
     },
@@ -1429,10 +1432,10 @@
     },
     {
       "name": "Dolls Kill",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Domino Data Lab",
@@ -2031,10 +2034,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -3417,15 +3420,15 @@
     },
     {
       "name": "NUVACORE",
-      "ok": true,
+      "ok": false,
       "jobCount": 4,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 150,
+      "jobCount": 149,
       "error": null,
       "stale": false
     },
@@ -8291,22 +8294,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T21:50:16.593Z"
-    },
-    {
-      "id": "JR2018371",
-      "title": "Software Engineer, Workflow Systems",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Engineering-Workflow-Platform_JR2018371",
-      "postedAt": "2026-10-23T21:40:20.855Z",
-      "key": "Nvidia:JR2018371",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T21:40:17.205Z"
     },
     {
       "id": "8316086",
@@ -38084,6 +38071,22 @@
       "firstSeen": "2026-09-30T14:30:22.444Z"
     },
     {
+      "id": "R1002600",
+      "title": "Integration Engineer 4 - Mainframe DB2 DBA",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Integration-Engineer-4---Mainframe-DB2-DBA_R1002600-1",
+      "postedAt": "2026-09-30T14:20:38.849Z",
+      "key": "Capital One:R1002600",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T14:20:20.942Z"
+    },
+    {
       "id": "R1001908",
       "title": "Full-stack Engineer 4 (Manager, IC)",
       "location": "New York, NY",
@@ -39505,6 +39508,22 @@
         "us"
       ],
       "firstSeen": "2026-09-29T15:00:26.771Z"
+    },
+    {
+      "id": "R1002409",
+      "title": "Full-stack Engineer 4 (AWS, Java & Python) (Enterprise Platforms Technology)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--AWS--Java---Python---Enterprise-Platforms-Technology-_R1002409",
+      "postedAt": "2026-09-29T14:20:40.249Z",
+      "key": "Capital One:R1002409",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T14:20:20.942Z"
     },
     {
       "id": "R1002316",
