@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T15:00:29.124Z",
+  "generatedAt": "2026-10-27T15:10:19.342Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "singlestore:8318150",
-    "zscaler:5256472007"
+    "coinbase:8326127",
+    "Tempus AI:JR202600801"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 19,
-    "experienced": 2105
+    "experienced": 2107
   },
   "companies": [
     {
@@ -1055,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -1565,10 +1565,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -1756,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2064,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2363,10 +2363,10 @@
     },
     {
       "name": "Included Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inferact",
@@ -3287,10 +3287,10 @@
     },
     {
       "name": "Netomi",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Netskope",
@@ -3840,10 +3840,10 @@
     },
     {
       "name": "PostEra",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Postman",
@@ -4470,10 +4470,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 41,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Shiru",
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 82,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5038,7 +5038,7 @@
     {
       "name": "Tempus AI",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR202600801",
+      "title": "Software Engineer II",
+      "location": "Remote",
+      "team": null,
+      "url": "https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/Remote/Software-Engineer-II_JR202600801-1",
+      "postedAt": "2026-10-27T15:10:23.210Z",
+      "key": "Tempus AI:JR202600801",
+      "company": "Tempus AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-27T15:10:19.342Z"
+    },
+    {
+      "id": "8326127",
+      "title": "Senior Software Engineer, Certificates Management",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8326127?gh_jid=8326127",
+      "postedAt": "2026-10-27T15:00:23.000Z",
+      "key": "coinbase:8326127",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T15:10:19.342Z"
+    },
     {
       "id": "5256472007",
       "title": "Principal Software Development Engineer- Go",
@@ -12662,7 +12694,7 @@
     },
     {
       "id": "6225090004",
-      "title": "Sr. Staff Engineer, Security AI-SOC",
+      "title": "Sr. Staff Software Engineer, Cribl Detect",
       "location": "Remote - United States",
       "team": null,
       "url": "https://cribl.io/job-detail/?gh_jid=6225090004",
