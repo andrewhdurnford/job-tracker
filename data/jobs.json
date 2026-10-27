@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-27T20:30:22.897Z",
+  "generatedAt": "2026-10-27T20:40:18.773Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "pelago:5277544007"
+    "Visa:REF089900W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
+    "intern": 150,
     "new-grad": 21,
     "experienced": 2135
   },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 82,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5401,7 +5401,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF089900W",
+      "title": "Consulting & Analytics Intern - Summer 2027",
+      "location": "US - Atlanta, GA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W",
+      "postedAt": "2026-10-27T20:40:23.977Z",
+      "key": "Visa:REF089900W",
+      "company": "Visa",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T20:40:18.773Z"
+    },
     {
       "id": "5277544007",
       "title": "Product Engineer, Platform",
