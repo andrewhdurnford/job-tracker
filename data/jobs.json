@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T16:40:20.395Z",
+  "generatedAt": "2026-10-27T16:50:22.115Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1004100",
-    "Capital One:R1002223"
+    "airbnb:8325813",
+    "attentive:4469280009"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,8 +12,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 150,
-    "new-grad": 19,
-    "experienced": 2124
+    "new-grad": 18,
+    "experienced": 2126
   },
   "companies": [
     {
@@ -117,7 +117,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -474,7 +474,7 @@
     {
       "name": "Attentive",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -789,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 189,
+      "jobCount": 188,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 82,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4469280009",
+      "title": "Senior Analytics Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/attentive/jobs/4469280009",
+      "postedAt": "2026-10-27T16:47:01.000Z",
+      "key": "attentive:4469280009",
+      "company": "Attentive",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T16:50:22.115Z"
+    },
+    {
+      "id": "8325813",
+      "title": "Senior Software Engineer, UI Tooling (Full Stack iOS)",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8325813?gh_jid=8325813",
+      "postedAt": "2026-10-27T16:46:12.000Z",
+      "key": "airbnb:8325813",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T16:50:22.115Z"
+    },
     {
       "id": "R1004100",
       "title": "Full-stack Engineer 4 (Java, Python, AWS)",
@@ -11404,22 +11436,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T15:10:18.396Z"
-    },
-    {
-      "id": "R247320",
-      "title": "Associate, Software Engineer, New Grad Card Expansion",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
-      "postedAt": "2026-10-22T14:00:31.633Z",
-      "key": "Capital One:R247320",
-      "company": "Capital One",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-22T14:00:28.085Z"
     },
     {
       "id": "8124704",
@@ -41531,7 +41547,7 @@
     },
     {
       "id": "6209681004",
-      "title": "Principal Research Programmer, Unreal Assistant",
+      "title": "Principal Research Programmer, Epic Developer Assistant",
       "location": "Montreal,Quebec,Canada",
       "team": "Engineering Specialist",
       "url": "https://epicgames.com/careers/jobs/6209681004?gh_jid=6209681004",
