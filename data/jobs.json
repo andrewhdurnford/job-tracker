@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-27T01:40:17.398Z",
+  "generatedAt": "2026-10-27T01:50:17.911Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R1004226",
+    "lucidmotors:5256429007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 19,
-    "experienced": 2088
+    "experienced": 2090
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 183,
+      "jobCount": 184,
       "error": null,
       "stale": false
     },
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1753,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2809,7 +2812,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004226",
+      "title": "Data Engineer 4 (Python, Oracle Database)",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Data-Engineer-4--Python--Oracle-Database-_R1004226-1",
+      "postedAt": "2026-10-27T01:50:21.347Z",
+      "key": "Capital One:R1004226",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T01:50:17.911Z"
+    },
+    {
+      "id": "5256429007",
+      "title": "Senior Engineer, Powertrain Controls Validation",
+      "location": "Newark, CA",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5256429007?gh_jid=5256429007",
+      "postedAt": "2026-10-27T01:44:03.000Z",
+      "key": "lucidmotors:5256429007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T01:50:17.911Z"
+    },
     {
       "id": "8303150",
       "title": "Sr. Director, Developer Solutions Strategist",
