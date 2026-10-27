@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-10-27T13:24:05.208Z",
+  "generatedAt": "2026-10-27T13:30:28.018Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "affirm:8040751003",
+    "affirm:8040753003",
+    "Capital One:R244394",
+    "dropbox:8261916",
+    "dropbox:8261911"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +16,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 19,
-    "experienced": 2098
+    "experienced": 2103
   },
   "companies": [
     {
@@ -79,7 +85,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 51,
+      "jobCount": 53,
       "error": null,
       "stale": false
     },
@@ -591,7 +597,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -786,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 184,
+      "jobCount": 185,
       "error": null,
       "stale": false
     },
@@ -1472,7 +1478,7 @@
     {
       "name": "Dropbox",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5705,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R244394",
+      "title": "Senior Associate, Data Scientist - People Strategy & Analytics",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---People-Strategy---Analytics_R244394-1",
+      "postedAt": "2026-10-27T13:30:31.448Z",
+      "key": "Capital One:R244394",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T13:30:28.018Z"
+    },
+    {
+      "id": "8040751003",
+      "title": "Product Security Engineer II - CIAM",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
+      "postedAt": "2026-10-27T13:29:57.000Z",
+      "key": "affirm:8040751003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T13:30:28.018Z"
+    },
+    {
+      "id": "8040753003",
+      "title": "Product Security Engineer II - CIAM",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040753003",
+      "postedAt": "2026-10-27T13:29:55.000Z",
+      "key": "affirm:8040753003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-27T13:30:28.018Z"
+    },
     {
       "id": "REF089878W",
       "title": "2027 Sophomore Internship Program - Software Engineer Intern, Ashburn",
@@ -27629,6 +27683,38 @@
         "us"
       ],
       "firstSeen": "2026-10-08T17:40:16.640Z"
+    },
+    {
+      "id": "8261916",
+      "title": "Principal Software Engineer, Product Engineering",
+      "location": "Remote - Canada: Select locations",
+      "team": null,
+      "url": "https://jobs.dropbox.com/listing/8261916?gh_jid=8261916",
+      "postedAt": "2026-10-08T17:21:58.000Z",
+      "key": "dropbox:8261916",
+      "company": "Dropbox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-27T13:30:28.018Z"
+    },
+    {
+      "id": "8261911",
+      "title": "Principal Software Engineer, Product Engineering",
+      "location": "Remote - US: All locations",
+      "team": null,
+      "url": "https://jobs.dropbox.com/listing/8261911?gh_jid=8261911",
+      "postedAt": "2026-10-08T17:21:53.000Z",
+      "key": "dropbox:8261911",
+      "company": "Dropbox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T13:30:28.018Z"
     },
     {
       "id": "0a72434c-1265-4148-b269-375a25d44572",
