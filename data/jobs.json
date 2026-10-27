@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-27T15:30:22.846Z",
+  "generatedAt": "2026-10-27T15:40:18.932Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Adobe:R173239",
-    "Visa:REF087764W"
+    "mercor:799ecfcc-4258-4075-8b11-12fc64fb2868"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 19,
-    "experienced": 2113
+    "experienced": 2114
   },
   "companies": [
     {
@@ -2111,10 +2110,10 @@
     },
     {
       "name": "H1",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "HackerRank",
@@ -2482,10 +2481,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "JFrog",
@@ -2897,7 +2896,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2973,7 +2972,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5674,10 +5673,10 @@
     },
     {
       "name": "Zippi",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zoom",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "799ecfcc-4258-4075-8b11-12fc64fb2868",
+      "title": "AI Infrastructure Engineer ",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/799ecfcc-4258-4075-8b11-12fc64fb2868",
+      "postedAt": "2026-10-27T15:38:51.650Z",
+      "key": "mercor:799ecfcc-4258-4075-8b11-12fc64fb2868",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T15:40:18.932Z"
+    },
     {
       "id": "REF087764W",
       "title": "Cybersecurity Engineer, Mobile & AI Application",
