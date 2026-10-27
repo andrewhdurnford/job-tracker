@@ -1,16 +1,20 @@
 {
-  "generatedAt": "2026-10-27T23:20:21.597Z",
+  "generatedAt": "2026-10-27T23:30:26.302Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "etched:13ee168b-41a8-4612-b4c7-15cfe9f9a3ac",
+    "mercor:049bd532-6fb7-4ae6-85a1-788dd31a14ca",
+    "mercor:2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 150,
+    "intern": 152,
     "new-grad": 25,
-    "experienced": 2147
+    "experienced": 2145
   },
   "companies": [
     {
@@ -2970,7 +2974,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3467,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4531,7 +4535,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5700,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae",
+      "title": "Research Engineer, Intern – Benchmarking",
+      "location": "San Francisco",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/mercor/2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae",
+      "postedAt": "2026-10-27T23:25:34.698Z",
+      "key": "mercor:2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae",
+      "company": "Mercor",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T23:30:26.302Z"
+    },
+    {
+      "id": "13ee168b-41a8-4612-b4c7-15cfe9f9a3ac",
+      "title": "Forward Deployment Engineer",
+      "location": "San Jose",
+      "team": "Platform",
+      "url": "https://jobs.ashbyhq.com/etched/13ee168b-41a8-4612-b4c7-15cfe9f9a3ac",
+      "postedAt": "2026-10-27T23:22:42.324Z",
+      "key": "etched:13ee168b-41a8-4612-b4c7-15cfe9f9a3ac",
+      "company": "Etched",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T23:30:26.302Z"
+    },
+    {
+      "id": "049bd532-6fb7-4ae6-85a1-788dd31a14ca",
+      "title": "Research Engineer Intern - Environments, Data and Post-Training",
+      "location": "San Francisco",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/mercor/049bd532-6fb7-4ae6-85a1-788dd31a14ca",
+      "postedAt": "2026-10-27T23:21:20.365Z",
+      "key": "mercor:049bd532-6fb7-4ae6-85a1-788dd31a14ca",
+      "company": "Mercor",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T23:30:26.302Z"
+    },
+    {
       "id": "JR2023397",
       "title": "Robotics Research Engineer - Robot Simulation and Evaluation",
       "location": "US, CA, Santa Clara",
@@ -5714,22 +5766,6 @@
         "us"
       ],
       "firstSeen": "2026-10-27T23:10:18.311Z"
-    },
-    {
-      "id": "8328707",
-      "title": "Senior Principal Security Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8328707",
-      "postedAt": "2026-10-27T22:55:44.000Z",
-      "key": "singlestore:8328707",
-      "company": "SingleStore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T23:00:28.893Z"
     },
     {
       "id": "040d7828-d53b-4a0b-8782-812d27fb3483",
@@ -9350,22 +9386,6 @@
       "firstSeen": "2026-10-23T22:30:23.241Z"
     },
     {
-      "id": "8319274",
-      "title": "Sr. Software Engineer, AI Platform & Infrastructure",
-      "location": "San Francisco, California",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8319274?gh_jid=8319274",
-      "postedAt": "2026-10-23T22:29:17.000Z",
-      "key": "okta:8319274",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T23:00:24.243Z"
-    },
-    {
       "id": "8319602",
       "title": "Staff Security Engineer (AI GRC)",
       "location": "Mountain View, USA",
@@ -9422,22 +9442,6 @@
       "postedAt": "2026-10-23T22:22:37.481Z",
       "key": "harvey:90421e4b-77d2-40a4-bb7f-80d2a0a9b5b3",
       "company": "Harvey",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T22:30:23.241Z"
-    },
-    {
-      "id": "9a1abdd3-47fb-4dab-9023-5ccf0601e9a9",
-      "title": "Forward Deployment Engineer",
-      "location": "San Jose",
-      "team": "Platform",
-      "url": "https://jobs.ashbyhq.com/etched/9a1abdd3-47fb-4dab-9023-5ccf0601e9a9",
-      "postedAt": "2026-10-23T22:21:33.108Z",
-      "key": "etched:9a1abdd3-47fb-4dab-9023-5ccf0601e9a9",
-      "company": "Etched",
       "level": "experienced",
       "term": null,
       "regions": [
