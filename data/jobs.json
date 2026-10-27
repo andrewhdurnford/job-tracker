@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-27T09:20:19.012Z",
+  "generatedAt": "2026-10-27T09:30:22.963Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "stripe:8144196"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 140,
     "new-grad": 19,
-    "experienced": 2094
+    "experienced": 2095
   },
   "companies": [
     {
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4797,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -29184,6 +29186,22 @@
         "us"
       ],
       "firstSeen": "2026-10-07T15:50:16.243Z"
+    },
+    {
+      "id": "8144196",
+      "title": "AI Engineer",
+      "location": "Chicago",
+      "team": "1155 SA Transformation",
+      "url": "https://stripe.com/jobs/search?gh_jid=8144196",
+      "postedAt": "2026-10-07T15:39:36.000Z",
+      "key": "stripe:8144196",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T09:30:22.963Z"
     },
     {
       "id": "161017ed-2809-48a2-8575-44880917c8ae",
