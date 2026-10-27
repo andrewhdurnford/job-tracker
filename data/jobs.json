@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-27T02:20:18.927Z",
+  "generatedAt": "2026-10-27T02:30:22.829Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Nvidia:JR2028241",
+    "Nvidia:JR2028694"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 19,
-    "experienced": 2091
+    "experienced": 2093
   },
   "companies": [
     {
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 147,
+      "jobCount": 149,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 82,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028694",
+      "title": "Network Software Engineer, Automation and Intelligence",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Network-Software-Engineer--Automation-and-Intelligence_JR2028694",
+      "postedAt": "2026-10-27T02:30:26.113Z",
+      "key": "Nvidia:JR2028694",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T02:30:22.829Z"
+    },
+    {
+      "id": "JR2028241",
+      "title": "Senior Staff AI Engineer – Finance",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-AI-Engineer---Finance_JR2028241",
+      "postedAt": "2026-10-27T02:30:26.113Z",
+      "key": "Nvidia:JR2028241",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T02:30:22.829Z"
+    },
     {
       "id": "7acb033e-9fce-405b-84af-cfa3acb24870",
       "title": "Senior Security Engineer",
