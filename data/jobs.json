@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-27T00:30:22.984Z",
+  "generatedAt": "2026-10-27T00:40:17.824Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "cloudflare:8303150"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 139,
     "new-grad": 19,
-    "experienced": 2091
+    "experienced": 2092
   },
   "companies": [
     {
@@ -1010,7 +1012,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5692,13 +5694,29 @@
     },
     {
       "name": "Zuma",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     }
   ],
   "jobs": [
+    {
+      "id": "8303150",
+      "title": "Sr. Director, Developer Solutions Strategist",
+      "location": "Austin, TX",
+      "team": "Developer Relations",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8303150?gh_jid=8303150",
+      "postedAt": "2026-10-27T00:30:44.000Z",
+      "key": "cloudflare:8303150",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T00:40:17.824Z"
+    },
     {
       "id": "JR2025882",
       "title": "Software DevOps Engineer, Networking",
