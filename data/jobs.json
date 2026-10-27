@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T19:10:22.587Z",
+  "generatedAt": "2026-10-27T19:20:20.169Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1004522"
+    "quindar:d52070a1-887c-4a06-b6de-c1e84f683f96"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 18,
-    "experienced": 2134
+    "experienced": 2133
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 149,
+      "jobCount": 147,
       "error": null,
       "stale": false
     },
@@ -4015,7 +4015,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 82,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "d52070a1-887c-4a06-b6de-c1e84f683f96",
+      "title": "Sr. Software Engineer, Command & Control",
+      "location": "Denver, CO (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/quindar/d52070a1-887c-4a06-b6de-c1e84f683f96",
+      "postedAt": "2026-10-27T19:19:08.022Z",
+      "key": "quindar:d52070a1-887c-4a06-b6de-c1e84f683f96",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T19:20:20.169Z"
+    },
     {
       "id": "R1004522",
       "title": "Full-Stack Engineer 4 (Bank Technology)",
@@ -25436,22 +25452,6 @@
       "firstSeen": "2026-10-10T11:20:14.309Z"
     },
     {
-      "id": "JR2019870",
-      "title": "Senior Systems Software Engineer, Data Center Platform Enablement",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870",
-      "postedAt": "2026-10-10T03:50:20.775Z",
-      "key": "Nvidia:JR2019870",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-10T03:50:16.508Z"
-    },
-    {
       "id": "22729334-b583-451b-917f-42414c32d243",
       "title": "Lead Forward Deployed Engineer",
       "location": "San Francisco",
@@ -36298,22 +36298,6 @@
         "us"
       ],
       "firstSeen": "2026-10-16T18:40:16.702Z"
-    },
-    {
-      "id": "JR2024736",
-      "title": "Staff Site Reliability Operations",
-      "location": "US, OR, Hillsboro",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Staff-Site-Reliability-Operations_JR2024736",
-      "postedAt": "2026-10-01T18:30:23.780Z",
-      "key": "Nvidia:JR2024736",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T18:30:19.092Z"
     },
     {
       "id": "8247432",
