@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-10-27T20:40:18.773Z",
+  "generatedAt": "2026-10-27T20:50:18.704Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Visa:REF089900W"
+    "anthropic:5462972008",
+    "roblox:8283711",
+    "roblox:8227776",
+    "Visa:REF088499W",
+    "zscaler:5270975007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 21,
-    "experienced": 2135
+    "experienced": 2139
   },
   "companies": [
     {
@@ -305,7 +309,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -593,7 +597,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +940,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4239,7 +4243,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 52,
+      "jobCount": 54,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 82,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5688,7 +5692,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5705,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF088499W",
+      "title": "Cybersecurity Engineer - AI Agent - Local Candidate",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Cybersecurity-Engineer---Product-Development_REF088499W",
+      "postedAt": "2026-10-27T20:50:22.798Z",
+      "key": "Visa:REF088499W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T20:50:18.704Z"
+    },
+    {
+      "id": "8283711",
+      "title": "Engineering Manager - Reliability Engineering",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8283711?gh_jid=8283711",
+      "postedAt": "2026-10-27T20:45:18.000Z",
+      "key": "roblox:8283711",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T20:50:18.704Z"
+    },
+    {
+      "id": "5462972008",
+      "title": "Autonomous Systems Security Engineer",
+      "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462972008",
+      "postedAt": "2026-10-27T20:42:45.000Z",
+      "key": "anthropic:5462972008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-27T20:50:18.704Z"
+    },
     {
       "id": "REF089900W",
       "title": "Consulting & Analytics Intern - Summer 2027",
@@ -6637,7 +6690,7 @@
     },
     {
       "id": "ae344099-3fde-4027-bfde-f953db8b4728",
-      "title": "Senior Software Engineer, Anonymization",
+      "title": "Software Engineer, Frontier Data Products ",
       "location": "San Francisco",
       "team": "Core Engineering",
       "url": "https://jobs.ashbyhq.com/mercor/ae344099-3fde-4027-bfde-f953db8b4728",
@@ -7664,6 +7717,22 @@
         "us"
       ],
       "firstSeen": "2026-10-26T21:50:18.237Z"
+    },
+    {
+      "id": "5270975007",
+      "title": "Sr. Staff Software Development Engineer",
+      "location": "San Jose, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5270975007",
+      "postedAt": "2026-10-26T21:22:11.000Z",
+      "key": "zscaler:5270975007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T20:50:18.704Z"
     },
     {
       "id": "d134caf2-907c-4c85-be2d-fad477d2b425",
@@ -34649,22 +34718,6 @@
       "firstSeen": "2026-10-02T19:40:17.323Z"
     },
     {
-      "id": "REF088349W",
-      "title": "Sr. Data Engineer",
-      "location": "US - Bellevue, WA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Bellevue-WA/Sr-Data-Engineer_REF088349W",
-      "postedAt": "2026-10-02T19:30:29.134Z",
-      "key": "Visa:REF088349W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T19:30:22.181Z"
-    },
-    {
       "id": "8243732",
       "title": "2027 Summer Intern, PhD, Research, World Action Model",
       "location": "Mountain View, CA, USA",
@@ -39060,6 +39113,22 @@
         "canada"
       ],
       "firstSeen": "2026-09-29T23:20:15.400Z"
+    },
+    {
+      "id": "8227776",
+      "title": "Senior Software Engineer, Reliability",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8227776?gh_jid=8227776",
+      "postedAt": "2026-09-29T23:14:58.000Z",
+      "key": "roblox:8227776",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T20:50:18.704Z"
     },
     {
       "id": "c7bcdaec-9714-44b0-8ba8-adc824594b54",
