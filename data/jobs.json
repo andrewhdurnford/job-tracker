@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-10-27T19:30:25.053Z",
+  "generatedAt": "2026-10-27T19:40:19.116Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "sambanovasystems:6224940004",
-    "sambanovasystems:6224835004",
-    "sambanovasystems:6224938004"
+    "DocuSign:30584",
+    "togetherai:5268939007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -194,10 +193,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Alpaca",
@@ -595,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -790,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 187,
+      "jobCount": 186,
       "error": null,
       "stale": false
     },
@@ -938,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1146,10 +1145,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Conveo",
@@ -1427,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -4471,10 +4470,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 41,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -5116,7 +5115,7 @@
     {
       "name": "Together AI",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5268939007",
+      "title": "(Senior/Junior AI Inference Reliability Engineer, Compute Infra",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5268939007",
+      "postedAt": "2026-10-27T19:36:00.000Z",
+      "key": "togetherai:5268939007",
+      "company": "Together AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T19:40:19.116Z"
+    },
+    {
+      "id": "30584",
+      "title": "Senior Software Engineer",
+      "location": "US-Seattle-3rd",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30584/login",
+      "postedAt": "2026-10-27T19:30:00.000Z",
+      "key": "DocuSign:30584",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-27T19:40:19.116Z"
+    },
     {
       "id": "6224940004",
       "title": "Cloud Platform Engineer - New Grad",
@@ -13983,7 +14014,7 @@
     },
     {
       "id": "5266079007",
-      "title": "(Staff / Senior Staff) AI Infra Engineer, Inference Infrastructure",
+      "title": "(Staff / Senior Staff) AI Inference Reliability Engineer, Compute Infra",
       "location": "San Francisco",
       "team": null,
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5266079007",
@@ -29581,22 +29612,6 @@
       "firstSeen": "2026-10-07T17:50:23.019Z"
     },
     {
-      "id": "R1003126",
-      "title": "Principal Associate, Software Engineering",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Principal-Associate--Software-Engineering_R1003126-1",
-      "postedAt": "2026-10-07T17:40:19.964Z",
-      "key": "Capital One:R1003126",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-07T17:40:16.982Z"
-    },
-    {
       "id": "7917911",
       "title": "Senior Software Engineer,  Real-Time Communication Infrastructure",
       "location": "Mountain View, CA, USA",
@@ -36604,22 +36619,6 @@
         "seasons": [],
         "year": 2027
       },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T17:10:18.763Z"
-    },
-    {
-      "id": "8240632",
-      "title": "Senior Software Engineer, Chassis ",
-      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8240632",
-      "postedAt": "2026-10-01T17:01:59.000Z",
-      "key": "waymo:8240632",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
       "regions": [
         "us"
       ],
