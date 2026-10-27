@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T07:24:59.200Z",
+  "generatedAt": "2026-10-27T07:30:22.829Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -3417,10 +3417,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": true,
+      "ok": false,
       "jobCount": 4,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nvidia",
@@ -4341,10 +4341,10 @@
     },
     {
       "name": "Sandbox VR",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sandstone",
