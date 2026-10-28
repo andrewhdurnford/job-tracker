@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-10-28T19:34:24.027Z",
+  "generatedAt": "2026-10-28T19:40:19.747Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "alpaca:6237960004",
+    "Capital One:R1004560",
+    "mercor:e1f7a5ed-248c-45ea-aa2d-838f3db8ce27",
+    "Remitly:R_107103"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 151,
+    "intern": 150,
     "new-grad": 26,
-    "experienced": 2130
+    "experienced": 2134
   },
   "companies": [
     {
@@ -198,7 +203,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 187,
+      "jobCount": 188,
       "error": null,
       "stale": false
     },
@@ -2970,7 +2975,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4132,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5476,7 +5481,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107103",
+      "title": "Senior Engineering Manager, Corporate Security",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Engineering-Manager--Corporate-Security_R_107103",
+      "postedAt": "2026-10-28T19:40:23.659Z",
+      "key": "Remitly:R_107103",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T19:40:19.747Z"
+    },
+    {
+      "id": "R1004560",
+      "title": "Full-stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1004560-1",
+      "postedAt": "2026-10-28T19:40:23.658Z",
+      "key": "Capital One:R1004560",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T19:40:19.747Z"
+    },
+    {
+      "id": "e1f7a5ed-248c-45ea-aa2d-838f3db8ce27",
+      "title": "Analytics Engineer",
+      "location": "San Francisco",
+      "team": "Finance ",
+      "url": "https://jobs.ashbyhq.com/mercor/e1f7a5ed-248c-45ea-aa2d-838f3db8ce27",
+      "postedAt": "2026-10-28T19:36:05.453Z",
+      "key": "mercor:e1f7a5ed-248c-45ea-aa2d-838f3db8ce27",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T19:40:19.747Z"
+    },
+    {
+      "id": "6237960004",
+      "title": "Senior Software Engineer – Agent Experiences",
+      "location": "Remote - Americas",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6237960004",
+      "postedAt": "2026-10-28T19:34:28.000Z",
+      "key": "alpaca:6237960004",
+      "company": "Alpaca",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-28T19:40:19.747Z"
+    },
     {
       "id": "R1002937",
       "title": "Full-stack Engineer 4 (Manager, IC)",
@@ -41811,28 +41880,6 @@
       "company": "Capital One",
       "level": "experienced",
       "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T19:40:18.033Z"
-    },
-    {
-      "id": "8234670",
-      "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
-      "location": "San Francisco, California",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
-      "postedAt": "2026-09-28T19:34:51.000Z",
-      "key": "waymo:8234670",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
       "regions": [
         "us"
       ],
