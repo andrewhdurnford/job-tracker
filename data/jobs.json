@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-28T21:50:17.283Z",
+  "generatedAt": "2026-10-28T22:00:26.401Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "databricks:8829039002",
-    "pronto:8922801002"
+    "cohere:8df498e9-aba8-487f-80ba-362b492bad09",
+    "Nvidia:JR2024918",
+    "render:88cb74a4-bc28-40b1-b792-d3041e3e17d3"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 26,
-    "experienced": 2139
+    "experienced": 2141
   },
   "companies": [
     {
@@ -594,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 189,
+      "jobCount": 188,
       "error": null,
       "stale": false
     },
@@ -937,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1048,7 +1049,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 154,
+      "jobCount": 155,
       "error": null,
       "stale": false
     },
@@ -4156,7 +4157,7 @@
     {
       "name": "Render",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,55 @@
   ],
   "jobs": [
     {
+      "id": "JR2024918",
+      "title": "System Software Engineer, Performance - CUDA Driver",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Performance---CUDA-Driver_JR2024918",
+      "postedAt": "2026-10-28T22:00:31.454Z",
+      "key": "Nvidia:JR2024918",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T22:00:26.401Z"
+    },
+    {
+      "id": "88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+      "title": "Software Engineer, Network Infrastructure",
+      "location": "Remote: United States (+2 more)",
+      "team": "Networking",
+      "url": "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+      "postedAt": "2026-10-28T21:58:20.506Z",
+      "key": "render:88cb74a4-bc28-40b1-b792-d3041e3e17d3",
+      "company": "Render",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-28T22:00:26.401Z"
+    },
+    {
+      "id": "8df498e9-aba8-487f-80ba-362b492bad09",
+      "title": "Forward Deployed Engineer, Inference ",
+      "location": "United States",
+      "team": "Delivery Engineering | Infrastructure",
+      "url": "https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09",
+      "postedAt": "2026-10-28T21:49:48.769Z",
+      "key": "cohere:8df498e9-aba8-487f-80ba-362b492bad09",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T22:00:26.401Z"
+    },
+    {
       "id": "8922801002",
       "title": "Physical & Facility Security Engineer",
       "location": "San Francisco, CA",
@@ -6960,7 +7010,7 @@
       "id": "13ee168b-41a8-4612-b4c7-15cfe9f9a3ac",
       "title": "Forward Deployment Engineer",
       "location": "San Jose",
-      "team": "Software",
+      "team": "Platform",
       "url": "https://jobs.ashbyhq.com/etched/13ee168b-41a8-4612-b4c7-15cfe9f9a3ac",
       "postedAt": "2026-10-27T23:22:42.324Z",
       "key": "etched:13ee168b-41a8-4612-b4c7-15cfe9f9a3ac",
@@ -41876,22 +41926,6 @@
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Go--AWS-_R1002264-1",
       "postedAt": "2026-09-28T19:40:21.640Z",
       "key": "Capital One:R1002264",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T19:40:18.033Z"
-    },
-    {
-      "id": "R1001725",
-      "title": "Machine Learning Engineer 4",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Machine-Learning-Engineer-4_R1001725-1",
-      "postedAt": "2026-09-28T19:40:21.640Z",
-      "key": "Capital One:R1001725",
       "company": "Capital One",
       "level": "experienced",
       "term": null,
