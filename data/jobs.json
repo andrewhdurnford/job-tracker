@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-27T23:50:17.537Z",
+  "generatedAt": "2026-10-28T00:00:28.188Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Nvidia:JR2012979"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -114,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -2703,10 +2705,10 @@
     },
     {
       "name": "LaunchDarkly",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Ledgy",
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 144,
+      "jobCount": 145,
       "error": null,
       "stale": false
     },
@@ -4467,10 +4469,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 41,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -4775,10 +4777,10 @@
     },
     {
       "name": "STARK BANK",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Stilta",
@@ -5083,10 +5085,10 @@
     },
     {
       "name": "Thunkable",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tilt",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2012979",
+      "title": "Research Scientist, Electronic Design Automation - New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
+      "postedAt": "2026-10-28T00:00:32.959Z",
+      "key": "Nvidia:JR2012979",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T00:00:28.188Z"
+    },
     {
       "id": "2b1a4fd9-300d-4ae9-b5c8-eacba99bf4ae",
       "title": "Research Engineer, Intern – Benchmarking",
@@ -6820,22 +6838,6 @@
       "postedAt": "2026-10-27T16:00:32.488Z",
       "key": "Capital One:R1004486",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T16:00:29.056Z"
-    },
-    {
-      "id": "8327822",
-      "title": "Senior iOS Engineer, Guest & Host",
-      "location": "Remote, USA ",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8327822?gh_jid=8327822",
-      "postedAt": "2026-10-27T15:58:17.000Z",
-      "key": "airbnb:8327822",
-      "company": "Airbnb",
       "level": "experienced",
       "term": null,
       "regions": [
