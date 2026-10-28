@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-28T18:10:21.457Z",
+  "generatedAt": "2026-10-28T18:20:18.748Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "cursor:7d6611cb-28bf-4277-8758-178154466934",
-    "etched:37798f2c-d2d8-4911-bd5a-41b0f6f7c238"
+    "robinhood:8331571"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 151,
     "new-grad": 26,
-    "experienced": 2133
+    "experienced": 2131
   },
   "companies": [
     {
@@ -82,7 +81,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 56,
+      "jobCount": 54,
       "error": null,
       "stale": false
     },
@@ -390,7 +389,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -594,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -937,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4233,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -4829,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8331571",
+      "title": "Senior Software Engineer, Capacity & Efficiency",
+      "location": "Bellevue, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8331571?t=gh_src=&gh_jid=8331571",
+      "postedAt": "2026-10-28T18:10:48.000Z",
+      "key": "robinhood:8331571",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T18:20:18.748Z"
+    },
     {
       "id": "37798f2c-d2d8-4911-bd5a-41b0f6f7c238",
       "title": "Forward Deployed Systems Engineer",
@@ -6980,7 +6995,7 @@
     {
       "id": "e391dd3c-5908-4533-93f3-fe471187dfa9",
       "title": "Senior Software Engineer, ML API – AI Inference",
-      "location": "Sunnyvale, CA",
+      "location": "Toronto, CAN",
       "team": "Inference Service",
       "url": "https://jobs.ashbyhq.com/cerebras/e391dd3c-5908-4533-93f3-fe471187dfa9",
       "postedAt": "2026-10-27T19:51:12.823Z",
@@ -6989,7 +7004,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "canada"
       ],
       "firstSeen": "2026-10-27T20:00:27.060Z"
     },
@@ -25002,7 +25017,7 @@
     },
     {
       "id": "8261861",
-      "title": "Manager ll, Engineering - Datadog Agent SDLC",
+      "title": "Manager II, Engineering - Datadog Agent SDLC",
       "location": "Boston, Massachusetts, USA; New York, New York, USA",
       "team": null,
       "url": "https://careers.datadoghq.com/detail/8261861/?gh_jid=8261861",
@@ -41872,54 +41887,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-28T18:30:21.537Z"
-    },
-    {
-      "id": "8237744",
-      "title": "Staff Software Engineer, AI Teammates",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://www.asana.com/jobs/apply/8237744?gh_jid=8237744",
-      "postedAt": "2026-09-28T18:16:18.000Z",
-      "key": "asana:8237744",
-      "company": "Asana",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T18:20:21.015Z"
-    },
-    {
-      "id": "8003801003",
-      "title": "Staff Software Engineer, Backend (Identity Decisioning)",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003801003",
-      "postedAt": "2026-09-28T18:14:06.000Z",
-      "key": "affirm:8003801003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-28T18:20:21.015Z"
-    },
-    {
-      "id": "8003799003",
-      "title": "Staff Software Engineer, Backend (Identity Decisioning)",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003799003",
-      "postedAt": "2026-09-28T18:14:04.000Z",
-      "key": "affirm:8003799003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T18:20:21.015Z"
     },
     {
       "id": "R1001970",
