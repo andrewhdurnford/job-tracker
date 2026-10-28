@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T20:00:25.287Z",
+  "generatedAt": "2026-10-28T20:10:20.661Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "openai:b82699a2-5819-4276-a402-fd88f56f9246",
-    "Remitly:R_106634"
+    "Nvidia:JR2020850",
+    "Remitly:R_107118"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 26,
-    "experienced": 2136
+    "experienced": 2137
   },
   "companies": [
     {
@@ -594,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -937,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2147,7 +2147,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 152,
+      "jobCount": 153,
       "error": null,
       "stale": false
     },
@@ -3798,10 +3798,10 @@
     },
     {
       "name": "Poll Everywhere",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Polymath",
@@ -4135,7 +4135,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 81,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2020850",
+      "title": "Senior DFT Methodology - Data Analytics and Applied AI Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-DFT-Methodology---Data-Analytics-and-Applied-AI-Engineer_JR2020850",
+      "postedAt": "2026-10-28T20:10:24.986Z",
+      "key": "Nvidia:JR2020850",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T20:10:20.661Z"
+    },
+    {
+      "id": "R_107118",
+      "title": "Senior Software Development Engineer, Customer Success Engineering",
+      "location": "Burnaby, British Columbia, Canada",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Senior-Software-Development-Engineer--Customer-Success-Engineering_R_107118",
+      "postedAt": "2026-10-28T20:10:23.953Z",
+      "key": "Remitly:R_107118",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-28T20:10:20.661Z"
+    },
     {
       "id": "R_106634",
       "title": "Software Development Engineer II, Remitly Business",
@@ -13772,7 +13804,7 @@
     },
     {
       "id": "5ed7f0f6-fb88-4523-b406-9bcf96407a15",
-      "title": "Engineering Manager",
+      "title": "Tech Lead Manager",
       "location": "Normal, IL",
       "team": "Software Engineering",
       "url": "https://jobs.ashbyhq.com/mindrobotics/5ed7f0f6-fb88-4523-b406-9bcf96407a15",
@@ -41834,22 +41866,6 @@
         "us"
       ],
       "firstSeen": "2026-09-28T20:40:17.469Z"
-    },
-    {
-      "id": "6354c156-220b-4323-baaf-143c2b8ab149",
-      "title": "Senior Software Engineer, Data Platform",
-      "location": "San Francisco, CA",
-      "team": "Careers Engineering",
-      "url": "https://jobs.ashbyhq.com/handshake/6354c156-220b-4323-baaf-143c2b8ab149",
-      "postedAt": "2026-09-28T20:06:12.620Z",
-      "key": "handshake:6354c156-220b-4323-baaf-143c2b8ab149",
-      "company": "Handshake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T20:10:17.584Z"
     },
     {
       "id": "d297d07c-eaa7-4896-946d-df2879c8cde3",
