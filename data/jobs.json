@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-28T21:40:18.041Z",
+  "generatedAt": "2026-10-28T21:50:17.283Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "databricks:8829039002",
+    "pronto:8922801002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 148,
+    "intern": 147,
     "new-grad": 26,
-    "experienced": 2138
+    "experienced": 2139
   },
   "companies": [
     {
@@ -1290,7 +1293,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2844,7 +2847,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3922,7 +3925,7 @@
     {
       "name": "Pronto",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4636,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 81,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8922801002",
+      "title": "Physical & Facility Security Engineer",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pronto/jobs/8922801002",
+      "postedAt": "2026-10-28T21:48:26.000Z",
+      "key": "pronto:8922801002",
+      "company": "Pronto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T21:50:17.283Z"
+    },
+    {
+      "id": "8829039002",
+      "title": "Software Engineer, Infrastructure",
+      "location": "United States",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002",
+      "postedAt": "2026-10-28T21:46:24.000Z",
+      "key": "databricks:8829039002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T21:50:17.283Z"
+    },
     {
       "id": "5466480008",
       "title": "Staff+ Software Engineer, Deployment",
@@ -41816,44 +41851,6 @@
         "us"
       ],
       "firstSeen": "2026-09-28T22:00:22.843Z"
-    },
-    {
-      "id": "8843341002",
-      "title": "Applied Scientist Intern, PhD (Summer 2027)",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
-      "postedAt": "2026-09-28T21:44:14.000Z",
-      "key": "lyft:8843341002",
-      "company": "Lyft",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T21:50:17.309Z"
-    },
-    {
-      "id": "d297d07c-eaa7-4896-946d-df2879c8cde3",
-      "title": "Principal Software Engineer II - Interoperable Foundations",
-      "location": "US-WA-Bellevue (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/d297d07c-eaa7-4896-946d-df2879c8cde3",
-      "postedAt": "2026-09-28T19:51:00.449Z",
-      "key": "snowflake:d297d07c-eaa7-4896-946d-df2879c8cde3",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T20:00:24.483Z"
     },
     {
       "id": "R1002263",
