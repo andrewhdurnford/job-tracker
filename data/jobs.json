@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-10-28T16:20:22.702Z",
+  "generatedAt": "2026-10-28T16:30:25.994Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "upstart:8329488"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 151,
     "new-grad": 25,
-    "experienced": 2139
+    "experienced": 2138
   },
   "companies": [
     {
@@ -593,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1655,10 +1653,10 @@
     },
     {
       "name": "Exowatt",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Factory",
@@ -3371,7 +3369,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 82,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5736,7 +5734,7 @@
     },
     {
       "id": "8326088",
-      "title": "Software Engineer II, Shipping Solutions",
+      "title": "Software Engineer II, Autonomous Freight Technology",
       "location": "Bellevue, Washington, United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/flexport/jobs/8326088",
@@ -42115,22 +42113,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-28T16:40:24.393Z"
-    },
-    {
-      "id": "06e1d3a8-2706-4ed9-9fe6-8b69607de18e",
-      "title": "Security Engineer, Detection and Response",
-      "location": "San Francisco, California (+1 more)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/notion/06e1d3a8-2706-4ed9-9fe6-8b69607de18e",
-      "postedAt": "2026-09-28T16:20:26.330Z",
-      "key": "notion:06e1d3a8-2706-4ed9-9fe6-8b69607de18e",
-      "company": "Notion",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T16:30:23.913Z"
     },
     {
       "id": "R1001682",
