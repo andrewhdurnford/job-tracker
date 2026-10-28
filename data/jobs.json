@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-28T15:10:19.103Z",
+  "generatedAt": "2026-10-28T15:20:18.529Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "okta:8329646"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 25,
-    "experienced": 2142
+    "experienced": 2140
   },
   "companies": [
     {
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -617,10 +619,10 @@
     },
     {
       "name": "Bloom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Blueberry Pediatrics",
@@ -730,7 +732,7 @@
     {
       "name": "Calendly",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -814,7 +816,7 @@
     {
       "name": "CareMessage",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -1612,7 +1614,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -2031,10 +2033,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -3467,7 +3469,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4467,10 +4469,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 41,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Shiru",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8329646",
+      "title": "Senior Software Engineer, Performance ( Toronto) ",
+      "location": "Toronto, Ontario, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8329646?gh_jid=8329646",
+      "postedAt": "2026-10-28T15:14:00.000Z",
+      "key": "okta:8329646",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-28T15:20:18.529Z"
+    },
     {
       "id": "R1004511",
       "title": "Full-stack Engineer 4",
@@ -42165,54 +42183,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T20:10:19.137Z"
-    },
-    {
-      "id": "c6ef6788-c2d3-4668-8361-8ffd9ce92c1b",
-      "title": "Senior Data Platform Engineer",
-      "location": "United States (Remote)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/caremessage/c6ef6788-c2d3-4668-8361-8ffd9ce92c1b",
-      "postedAt": "2026-09-28T15:17:00.080Z",
-      "key": "caremessage:c6ef6788-c2d3-4668-8361-8ffd9ce92c1b",
-      "company": "CareMessage",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T15:20:19.769Z"
-    },
-    {
-      "id": "6209681004",
-      "title": "Principal Research Programmer, Epic Developer Assistant",
-      "location": "Montreal,Quebec,Canada",
-      "team": "Engineering Specialist",
-      "url": "https://epicgames.com/careers/jobs/6209681004?gh_jid=6209681004",
-      "postedAt": "2026-09-28T15:15:31.000Z",
-      "key": "epicgames:6209681004",
-      "company": "Epic Games",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-28T15:20:19.769Z"
-    },
-    {
-      "id": "8846049002",
-      "title": "Senior Full Stack Engineer, Website Development",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8846049002",
-      "postedAt": "2026-09-28T15:12:27.000Z",
-      "key": "calendly:8846049002",
-      "company": "Calendly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T15:30:21.989Z"
     },
     {
       "id": "R1002302",
