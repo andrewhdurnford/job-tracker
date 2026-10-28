@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-10-28T14:30:22.758Z",
+  "generatedAt": "2026-10-28T14:40:18.949Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1004516",
-    "stripe:8311069"
+    "Capital One:R1004511",
+    "Capital One:R1004467",
+    "stripe:8311082"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 25,
-    "experienced": 2143
+    "experienced": 2144
   },
   "companies": [
     {
@@ -594,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 185,
+      "jobCount": 187,
       "error": null,
       "stale": false
     },
@@ -1244,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -1425,10 +1426,10 @@
     },
     {
       "name": "DocuSign",
-      "ok": true,
+      "ok": false,
       "jobCount": 30,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Dolls Kill",
@@ -4800,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5024,7 +5025,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004511",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1004511-1",
+      "postedAt": "2026-10-28T14:40:22.039Z",
+      "key": "Capital One:R1004511",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T14:40:18.949Z"
+    },
+    {
+      "id": "R1004467",
+      "title": "Principal Associate, Data Scientist - SBB Fraud",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Principal-Associate--Data-Scientist---SBB-Fraud_R1004467",
+      "postedAt": "2026-10-28T14:40:22.039Z",
+      "key": "Capital One:R1004467",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T14:40:18.949Z"
+    },
     {
       "id": "R1004516",
       "title": "Full-stack Engineer 4 (Bank Tech)",
@@ -8502,6 +8535,22 @@
       "firstSeen": "2026-10-26T21:00:27.916Z"
     },
     {
+      "id": "8311082",
+      "title": "iOS Engineer, Identity",
+      "location": "Seattle, WA; San Francisco, CA; New York City, NY",
+      "team": "8215 Identity - Eng",
+      "url": "https://stripe.com/jobs/search?gh_jid=8311082",
+      "postedAt": "2026-10-26T20:53:41.000Z",
+      "key": "stripe:8311082",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T14:40:18.949Z"
+    },
+    {
       "id": "8311069",
       "title": "Android Engineer, Identity ",
       "location": "Seattle, WA; San Francisco, CA; New York City, NY",
@@ -9722,7 +9771,7 @@
     },
     {
       "id": "8771512002",
-      "title": "Backend Engineer, Knowledge Graph (Rust)",
+      "title": "Backend Engineer, Knowledge Graph",
       "location": "Remote, Canada; Remote, United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
@@ -13158,22 +13207,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T00:10:18.370Z"
-    },
-    {
-      "id": "R30435",
-      "title": "Director of Engineering, Sensor Detection Platform (Remote)",
-      "location": "USA - Remote, MN",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-MN/Director-of-Engineering--Sensor-Detection-Platform--Remote-_R30435",
-      "postedAt": "2026-10-21T23:50:19.739Z",
-      "key": "CrowdStrike:R30435",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T23:50:15.205Z"
     },
     {
       "id": "8311496",
@@ -21394,23 +21427,6 @@
       "firstSeen": "2026-10-15T14:40:18.007Z"
     },
     {
-      "id": "109d72d0-e739-406c-87ae-b0f1f5ae7ade",
-      "title": "Senior Software Engineer, Observability",
-      "location": "United States (Remote) (+1 more)",
-      "team": "DevProd",
-      "url": "https://jobs.ashbyhq.com/temporal/109d72d0-e739-406c-87ae-b0f1f5ae7ade",
-      "postedAt": "2026-10-15T14:28:35.255Z",
-      "key": "temporal:109d72d0-e739-406c-87ae-b0f1f5ae7ade",
-      "company": "Temporal",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-15T14:30:21.646Z"
-    },
-    {
       "id": "4ee99986-77ad-4113-8058-891d5cc7284a",
       "title": "Staff Software Engineer, AI Foundations (AI Agent Optimization)",
       "location": "United States (Remote) (+1 more)",
@@ -23309,7 +23325,7 @@
     {
       "id": "8269100",
       "title": "Senior Software Engineer, Distributed Databases",
-      "location": "Austin, TX (+4 more)",
+      "location": "Austin, TX (+5 more)",
       "team": "Emerging Technology and Incubation",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100",
       "postedAt": "2026-10-13T22:19:07.000Z",
