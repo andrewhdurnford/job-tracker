@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-28T18:00:28.355Z",
+  "generatedAt": "2026-10-28T18:10:21.457Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "cursor:7d6611cb-28bf-4277-8758-178154466934",
+    "etched:37798f2c-d2d8-4911-bd5a-41b0f6f7c238"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 151,
     "new-grad": 26,
-    "experienced": 2131
+    "experienced": 2133
   },
   "companies": [
     {
@@ -1276,7 +1279,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1626,7 +1629,7 @@
     {
       "name": "Etched",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4826,7 +4829,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "37798f2c-d2d8-4911-bd5a-41b0f6f7c238",
+      "title": "Forward Deployed Systems Engineer",
+      "location": "San Jose",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/etched/37798f2c-d2d8-4911-bd5a-41b0f6f7c238",
+      "postedAt": "2026-10-28T18:09:16.548Z",
+      "key": "etched:37798f2c-d2d8-4911-bd5a-41b0f6f7c238",
+      "company": "Etched",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T18:10:21.457Z"
+    },
+    {
+      "id": "7d6611cb-28bf-4277-8758-178154466934",
+      "title": "Regional Director, Forward Deployed Engineering - Public Sector",
+      "location": "Washington, D.C.",
+      "team": "Forward Deployment",
+      "url": "https://jobs.ashbyhq.com/cursor/7d6611cb-28bf-4277-8758-178154466934",
+      "postedAt": "2026-10-28T18:06:56.420Z",
+      "key": "cursor:7d6611cb-28bf-4277-8758-178154466934",
+      "company": "Cursor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T18:10:21.457Z"
+    },
     {
       "id": "0f600ed1-d70a-4648-820f-a1d1da3f7617",
       "title": "Research Engineer / Research Scientist, Human Flourishing",
@@ -24514,7 +24549,7 @@
     {
       "id": "a04294fa-aadb-40c4-ace9-4db84e0f1a7a",
       "title": "Senior Blockchain Engineer, Moonshot",
-      "location": "Remote (+2 more)",
+      "location": "New York (+1 more)",
       "team": "Software Engineering ",
       "url": "https://jobs.ashbyhq.com/alchemy/a04294fa-aadb-40c4-ace9-4db84e0f1a7a",
       "postedAt": "2026-10-13T16:29:02.993Z",
@@ -24523,15 +24558,14 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us",
-        "remote"
+        "us"
       ],
       "firstSeen": "2026-10-13T16:30:25.357Z"
     },
     {
       "id": "bca25725-dbdf-4786-9af9-aa793766d2b5",
       "title": "Senior Software Engineer, Data Services",
-      "location": "San Francisco (+2 more)",
+      "location": "San Francisco (+1 more)",
       "team": "Software Engineering ",
       "url": "https://jobs.ashbyhq.com/alchemy/bca25725-dbdf-4786-9af9-aa793766d2b5",
       "postedAt": "2026-10-13T16:25:05.228Z",
@@ -24540,8 +24574,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us",
-        "remote"
+        "us"
       ],
       "firstSeen": "2026-10-13T16:30:25.357Z"
     },
@@ -24596,7 +24629,7 @@
     {
       "id": "37fa4765-8e1d-4c61-ba52-071e2d6bead0",
       "title": "Senior Data Engineer",
-      "location": "New York (+2 more)",
+      "location": "New York (+1 more)",
       "team": "Software Engineering ",
       "url": "https://jobs.ashbyhq.com/alchemy/37fa4765-8e1d-4c61-ba52-071e2d6bead0",
       "postedAt": "2026-10-13T16:19:27.699Z",
@@ -24605,8 +24638,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us",
-        "remote"
+        "us"
       ],
       "firstSeen": "2026-10-13T16:30:25.357Z"
     },
