@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T19:20:24.083Z",
+  "generatedAt": "2026-10-28T19:30:26.735Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Nvidia:JR2009916"
+    "Capital One:R1002937"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 151,
     "new-grad": 26,
-    "experienced": 2130
+    "experienced": 2131
   },
   "companies": [
     {
@@ -788,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 186,
+      "jobCount": 187,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2658,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3832,10 +3832,10 @@
     },
     {
       "name": "Porter",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "PostEra",
@@ -5484,10 +5484,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Weave",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002937",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1002937-1",
+      "postedAt": "2026-10-28T19:30:30.405Z",
+      "key": "Capital One:R1002937",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T19:30:26.735Z"
+    },
     {
       "id": "JR2009916",
       "title": "Senior Developer Relations Manager, Data Platforms",
