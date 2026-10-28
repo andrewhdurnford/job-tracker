@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-10-28T22:30:23.188Z",
+  "generatedAt": "2026-10-28T22:40:17.859Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "astro-mechanica:b66d95fa-f4e7-4a17-8da3-59fb977ddebf",
+    "stripe:8164666",
+    "zscaler:5267223007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 26,
-    "experienced": 2135
+    "experienced": 2138
   },
   "companies": [
     {
@@ -436,7 +440,7 @@
     {
       "name": "Astro Mechanica",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4797,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -5686,7 +5690,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5267223007",
+      "title": "Sr Engineering Manager, API Platform",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5267223007",
+      "postedAt": "2026-10-28T22:37:04.000Z",
+      "key": "zscaler:5267223007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T22:40:17.859Z"
+    },
+    {
+      "id": "b66d95fa-f4e7-4a17-8da3-59fb977ddebf",
+      "title": "Senior Ground Software Engineer",
+      "location": "San Francisco",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/astro-mechanica/b66d95fa-f4e7-4a17-8da3-59fb977ddebf",
+      "postedAt": "2026-10-28T22:36:38.964Z",
+      "key": "astro-mechanica:b66d95fa-f4e7-4a17-8da3-59fb977ddebf",
+      "company": "Astro Mechanica",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T22:40:17.859Z"
+    },
+    {
+      "id": "8164666",
+      "title": "Technical Curriculum Developer, Technical Enablement",
+      "location": "San Francisco; Seattle; Remote",
+      "team": "1120 Training & Certification",
+      "url": "https://stripe.com/jobs/search?gh_jid=8164666",
+      "postedAt": "2026-10-28T22:31:30.000Z",
+      "key": "stripe:8164666",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-28T22:40:17.859Z"
+    },
     {
       "id": "88cb74a4-bc28-40b1-b792-d3041e3e17d3",
       "title": "Software Engineer, Network Infrastructure",
