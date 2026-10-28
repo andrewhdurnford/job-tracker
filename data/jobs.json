@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-10-28T20:20:22.010Z",
+  "generatedAt": "2026-10-28T20:30:23.461Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "shieldai:f8b2ffef-ae89-4860-ba6f-b5e59cb6d31e"
+    "alpaca:6237975004",
+    "Capital One:R1001279",
+    "twilio:8240487",
+    "verkada:5278642007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 26,
-    "experienced": 2137
+    "experienced": 2140
   },
   "companies": [
     {
@@ -200,7 +203,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -788,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 188,
+      "jobCount": 189,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 81,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5226,7 +5229,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1001279",
+      "title": "Machine Learning Engineer 5 (Senior Manager, IC)",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Machine-Learning-Engineer-5--Senior-Manager--IC-_R1001279-1",
+      "postedAt": "2026-10-28T20:30:26.906Z",
+      "key": "Capital One:R1001279",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T20:30:23.461Z"
+    },
+    {
+      "id": "8240487",
+      "title": "Machine Learning Engineer 2",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8240487",
+      "postedAt": "2026-10-28T20:28:37.000Z",
+      "key": "twilio:8240487",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T20:30:23.461Z"
+    },
+    {
+      "id": "5278642007",
+      "title": "Staff Backend Engineer - Licensing & Revenue Platform",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5278642007",
+      "postedAt": "2026-10-28T20:26:12.000Z",
+      "key": "verkada:5278642007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T20:30:23.461Z"
+    },
+    {
+      "id": "6237975004",
+      "title": "Senior Software Engineer – Agent Developer Platform",
+      "location": "Remote - Americas",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6237975004",
+      "postedAt": "2026-10-28T20:21:39.000Z",
+      "key": "alpaca:6237975004",
+      "company": "Alpaca",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-28T20:30:23.461Z"
+    },
     {
       "id": "f8b2ffef-ae89-4860-ba6f-b5e59cb6d31e",
       "title": "Senior Software Engineer, Frontend Platform (R5790)",
@@ -23347,7 +23414,7 @@
     {
       "id": "8278262",
       "title": "Senior Systems Engineer, Browser Isolation",
-      "location": "Austin, TX (+2 more)",
+      "location": "Atlanta, GA (+6 more)",
       "team": "Engineering",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8278262?gh_jid=8278262",
       "postedAt": "2026-10-14T11:11:13.000Z",
@@ -37486,22 +37553,6 @@
       "postedAt": "2026-10-01T18:14:03.000Z",
       "key": "brex:8783482002",
       "company": "Brex",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T18:20:16.111Z"
-    },
-    {
-      "id": "5254506007",
-      "title": "Staff Backend Engineer - Licensing & Revenue Platform",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5254506007",
-      "postedAt": "2026-10-01T18:10:22.000Z",
-      "key": "verkada:5254506007",
-      "company": "Verkada",
       "level": "experienced",
       "term": null,
       "regions": [
