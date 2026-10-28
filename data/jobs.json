@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-28T16:10:21.082Z",
+  "generatedAt": "2026-10-28T16:20:22.702Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "upstart:8329488"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 151,
     "new-grad": 25,
-    "experienced": 2138
+    "experienced": 2139
   },
   "companies": [
     {
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 82,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5301,7 +5303,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8329488",
+      "title": "Applied Scientist",
+      "location": "United States | Remote",
+      "team": null,
+      "url": "https://careers.upstart.com/jobs?gh_jid=8329488",
+      "postedAt": "2026-10-28T16:15:54.000Z",
+      "key": "upstart:8329488",
+      "company": "Upstart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-28T16:20:22.702Z"
+    },
     {
       "id": "8305772",
       "title": "AI Operations Engineer",
