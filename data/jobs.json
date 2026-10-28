@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-28T00:30:22.278Z",
+  "generatedAt": "2026-10-28T00:40:19.058Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "robinhood:8329677"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 25,
-    "experienced": 2146
+    "experienced": 2145
   },
   "companies": [
     {
@@ -4230,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 82,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4797,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8329677",
+      "title": "Senior Quality Engineer",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8329677?t=gh_src=&gh_jid=8329677",
+      "postedAt": "2026-10-28T00:38:47.000Z",
+      "key": "robinhood:8329677",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T00:40:19.058Z"
+    },
     {
       "id": "JR2027101",
       "title": "Senior Software Engineer, Cloud Infrastructure",
@@ -8126,38 +8144,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-10-26T21:00:27.916Z"
-    },
-    {
-      "id": "8311082",
-      "title": "iOS Engineer, Identity",
-      "location": "San Francisco, CA",
-      "team": "8215 Identity - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8311082",
-      "postedAt": "2026-10-26T20:53:41.000Z",
-      "key": "stripe:8311082",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T21:00:27.916Z"
-    },
-    {
-      "id": "8311069",
-      "title": "Android Engineer, Identity ",
-      "location": "San Francisco, CA",
-      "team": "8215 Identity - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8311069",
-      "postedAt": "2026-10-26T20:50:46.000Z",
-      "key": "stripe:8311069",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-26T21:00:27.916Z"
     },
