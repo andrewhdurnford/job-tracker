@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T21:30:22.551Z",
+  "generatedAt": "2026-10-28T21:40:18.041Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,7 +8,7 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
+    "intern": 148,
     "new-grad": 26,
     "experienced": 2138
   },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 81,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5476,7 +5476,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -6925,7 +6925,7 @@
       "id": "13ee168b-41a8-4612-b4c7-15cfe9f9a3ac",
       "title": "Forward Deployment Engineer",
       "location": "San Jose",
-      "team": "Platform",
+      "team": "Software",
       "url": "https://jobs.ashbyhq.com/etched/13ee168b-41a8-4612-b4c7-15cfe9f9a3ac",
       "postedAt": "2026-10-27T23:22:42.324Z",
       "key": "etched:13ee168b-41a8-4612-b4c7-15cfe9f9a3ac",
@@ -35429,28 +35429,6 @@
         "us"
       ],
       "firstSeen": "2026-10-10T07:40:14.951Z"
-    },
-    {
-      "id": "8248327",
-      "title": "2027 Summer Intern, MS/PhD, Perception, Evaluation",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8248327",
-      "postedAt": "2026-10-02T21:20:44.000Z",
-      "key": "waymo:8248327",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T21:30:20.033Z"
     },
     {
       "id": "R1002940",
