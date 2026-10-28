@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-10-28T13:40:18.271Z",
+  "generatedAt": "2026-10-28T13:50:17.189Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "elevenlabs:969bbf7d-037c-4965-812e-442105ce58c1",
-    "Nvidia:JR2027990",
-    "Nvidia:JR2028324",
-    "Nvidia:JR2028850"
+    "fieldguide:172e66cc-5b2e-48b8-bace-9b9cfeb722ed",
+    "harvey:d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1302,7 +1300,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1701,7 +1699,7 @@
     {
       "name": "Fieldguide",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2177,7 +2175,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4368,7 +4366,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4472,10 +4470,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 41,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Shiru",
@@ -4780,10 +4778,10 @@
     },
     {
       "name": "STARK BANK",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Stilta",
@@ -5704,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "172e66cc-5b2e-48b8-bace-9b9cfeb722ed",
+      "title": "Senior Engineering Manager, Platform",
+      "location": "San Francisco, CA or Remote (USA)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/fieldguide/172e66cc-5b2e-48b8-bace-9b9cfeb722ed",
+      "postedAt": "2026-10-28T13:47:32.513Z",
+      "key": "fieldguide:172e66cc-5b2e-48b8-bace-9b9cfeb722ed",
+      "company": "Fieldguide",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T13:50:17.189Z"
+    },
+    {
+      "id": "d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206",
+      "title": "Staff Product Security Engineer",
+      "location": "San Francisco (+1 more)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/harvey/d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206",
+      "postedAt": "2026-10-28T13:40:27.699Z",
+      "key": "harvey:d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206",
+      "company": "Harvey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-28T13:50:17.189Z"
+    },
     {
       "id": "JR2028850",
       "title": "Manager, DSX Software Engineering and Controls",
@@ -15512,22 +15542,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T18:40:20.515Z"
-    },
-    {
-      "id": "8304107",
-      "title": "Staff Software Engineer - Watchdog Anomaly Detection",
-      "location": "New York, New York, USA",
-      "team": null,
-      "url": "https://careers.datadoghq.com/detail/8304107/?gh_jid=8304107",
-      "postedAt": "2026-10-20T18:24:36.000Z",
-      "key": "datadog:8304107",
-      "company": "Datadog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T18:30:22.899Z"
     },
     {
       "id": "R1004164",
@@ -42233,22 +42247,6 @@
       "term": null,
       "regions": [
         "remote"
-      ],
-      "firstSeen": "2026-09-28T13:50:20.720Z"
-    },
-    {
-      "id": "ff3875c5-3dcb-4f9f-8614-c69345a857a8",
-      "title": "Quality Engineer",
-      "location": "Austin, TX",
-      "team": "Quality",
-      "url": "https://jobs.ashbyhq.com/saronic/ff3875c5-3dcb-4f9f-8614-c69345a857a8",
-      "postedAt": "2026-09-28T13:43:00.951Z",
-      "key": "saronic:ff3875c5-3dcb-4f9f-8614-c69345a857a8",
-      "company": "Saronic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-09-28T13:50:20.720Z"
     },
