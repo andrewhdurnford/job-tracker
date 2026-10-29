@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T21:00:26.789Z",
+  "generatedAt": "2026-10-29T21:10:18.387Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "block:5461961008"
+    "DocuSign:30577"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1425,7 +1425,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -1466,10 +1466,10 @@
     },
     {
       "name": "Doxel",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Dropbox",
@@ -1964,7 +1964,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "30577",
+      "title": "Lead Software Engineer, Identity & Authentication Platform",
+      "location": "US-Seattle-3rd",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30577/login",
+      "postedAt": "2026-10-29T21:01:00.000Z",
+      "key": "DocuSign:30577",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T21:10:18.387Z"
+    },
     {
       "id": "5461961008",
       "title": "Senior Software Engineer, Developer Experience",
@@ -41032,23 +41048,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T21:20:19.976Z"
-    },
-    {
-      "id": "8846304002",
-      "title": "Senior Security Risk Engineer",
-      "location": "Remote, Canada; Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8846304002",
-      "postedAt": "2026-09-29T21:07:54.000Z",
-      "key": "gitlab:8846304002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-29T21:10:16.346Z"
     },
     {
       "id": "JR2019101",
