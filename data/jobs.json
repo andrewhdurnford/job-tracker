@@ -1,19 +1,16 @@
 {
-  "generatedAt": "2026-10-29T22:20:18.153Z",
+  "generatedAt": "2026-10-29T22:30:23.897Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "natera:6232841004",
-    "natera:6232923004",
-    "Nvidia:JR2027170",
-    "Nvidia:JR2028607"
+    "Nvidia:JR2026799"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 148,
+    "intern": 149,
     "new-grad": 24,
     "experienced": 2095
   },
@@ -1406,10 +1403,10 @@
     },
     {
       "name": "Despegar",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Discord",
@@ -3430,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 158,
+      "jobCount": 159,
       "error": null,
       "stale": false
     },
@@ -5566,7 +5563,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5704,6 +5701,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026799",
+      "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
+      "postedAt": "2026-10-29T22:30:28.163Z",
+      "key": "Nvidia:JR2026799",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T22:30:23.897Z"
+    },
     {
       "id": "JR2027170",
       "title": "AI Systems Software Engineering Intern – Summer 2027",
