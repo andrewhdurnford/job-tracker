@@ -1,16 +1,22 @@
 {
-  "generatedAt": "2026-10-29T00:00:27.756Z",
+  "generatedAt": "2026-10-29T00:10:19.235Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "figma:6238015004",
+    "illumio:b686e47e-95ca-434c-87d5-cc92d8002e91",
+    "illumio:eee00779-1f22-4e83-8eaa-223adabef783",
+    "illumio:372174f8-2298-4d5a-a5e3-98ad4d9d8521",
+    "stripe:8332718"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 147,
+    "intern": 148,
     "new-grad": 26,
-    "experienced": 2120
+    "experienced": 2123
   },
   "companies": [
     {
@@ -1703,7 +1709,7 @@
     {
       "name": "Figma",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -2340,7 +2346,7 @@
     {
       "name": "Illumio",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4230,7 +4236,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 81,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4797,7 +4803,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5705,90 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6238015004",
+      "title": "PhD Intern, Security Engineer (2027)",
+      "location": "San Francisco, CA • New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004",
+      "postedAt": "2026-10-29T00:08:03.000Z",
+      "key": "figma:6238015004",
+      "company": "Figma",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T00:10:19.235Z"
+    },
+    {
+      "id": "b686e47e-95ca-434c-87d5-cc92d8002e91",
+      "title": "Staff Engineer - Container Security ",
+      "location": "Sunnyvale, California - HQ",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/illumio/b686e47e-95ca-434c-87d5-cc92d8002e91",
+      "postedAt": "2026-10-29T00:04:32.925Z",
+      "key": "illumio:b686e47e-95ca-434c-87d5-cc92d8002e91",
+      "company": "Illumio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T00:10:19.235Z"
+    },
+    {
+      "id": "372174f8-2298-4d5a-a5e3-98ad4d9d8521",
+      "title": "Sr. Software Engineer - Container Security",
+      "location": "Sunnyvale, California - HQ",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/illumio/372174f8-2298-4d5a-a5e3-98ad4d9d8521",
+      "postedAt": "2026-10-29T00:02:56.593Z",
+      "key": "illumio:372174f8-2298-4d5a-a5e3-98ad4d9d8521",
+      "company": "Illumio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T00:10:19.235Z"
+    },
+    {
+      "id": "eee00779-1f22-4e83-8eaa-223adabef783",
+      "title": "Sr. Software Engineer - Cloud Security",
+      "location": "Sunnyvale, California - HQ",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/illumio/eee00779-1f22-4e83-8eaa-223adabef783",
+      "postedAt": "2026-10-29T00:02:04.751Z",
+      "key": "illumio:eee00779-1f22-4e83-8eaa-223adabef783",
+      "company": "Illumio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T00:10:19.235Z"
+    },
+    {
+      "id": "8332718",
+      "title": "Software Engineer, Fraud System Interventions",
+      "location": "South San Francisco, CA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8332718",
+      "postedAt": "2026-10-29T00:01:17.000Z",
+      "key": "stripe:8332718",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T00:10:19.235Z"
+    },
     {
       "id": "8332676",
       "title": "Software Engineer - Full stack",
@@ -41497,22 +41587,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T01:10:17.100Z"
-    },
-    {
-      "id": "8205579",
-      "title": "Engineering Manager, AI Platform & Agentic Apps",
-      "location": "Menlo Park, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8205579?t=gh_src=&gh_jid=8205579",
-      "postedAt": "2026-09-29T00:05:28.000Z",
-      "key": "robinhood:8205579",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T04:20:19.888Z"
     },
     {
       "id": "8842018002",
