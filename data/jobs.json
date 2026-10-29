@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-10-29T21:50:16.795Z",
+  "generatedAt": "2026-10-29T22:00:26.507Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1001713",
-    "inngest:33b9f4ae-3be8-4a00-8548-8a00c276fd88",
-    "Nvidia:JR2028664",
-    "Nvidia:JR2029009"
+    "gongio:4723250006"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 147,
     "new-grad": 24,
-    "experienced": 2095
+    "experienced": 2094
   },
   "companies": [
     {
@@ -939,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1758,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1877,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2030,7 +2027,7 @@
     {
       "name": "Gong",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2953,10 +2950,10 @@
     },
     {
       "name": "Meesho",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Melio",
@@ -3892,7 +3889,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4242,7 +4239,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 75,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5705,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "4723250006",
+      "title": "AI Enterprise Architect",
+      "location": "Remote (US)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gongio/jobs/4723250006",
+      "postedAt": "2026-10-29T21:51:24.000Z",
+      "key": "gongio:4723250006",
+      "company": "Gong",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T22:00:26.507Z"
+    },
+    {
       "id": "JR2028664",
       "title": "Manager, Systems Software",
       "location": "US, CA, Santa Clara",
@@ -5825,22 +5838,6 @@
       "postedAt": "2026-10-29T21:30:27.396Z",
       "key": "Remitly:R_107105",
       "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T21:30:23.643Z"
-    },
-    {
-      "id": "R0019006",
-      "title": "Manager, Forward Deployed Engineering",
-      "location": "US - Texas - Austin",
-      "team": null,
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Manager--Forward-Deployed-Engineering_R0019006",
-      "postedAt": "2026-10-29T21:30:27.183Z",
-      "key": "Procore:R0019006",
-      "company": "Procore",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -6155,7 +6152,7 @@
     },
     {
       "id": "f7b9e8d5-7368-4a54-b445-ff647f12b1b6",
-      "title": "Software, Platform (Early Career)",
+      "title": "Software Engineer, Platform (Early Career)",
       "location": "Torrance, CA",
       "team": "Infrastructure",
       "url": "https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6",
@@ -41087,22 +41084,6 @@
       "postedAt": "2026-09-29T22:00:27.367Z",
       "key": "Nvidia:JR2026396",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T22:00:23.115Z"
-    },
-    {
-      "id": "8201883",
-      "title": "Principal Software Engineer, Ads User Experience",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8201883?gh_jid=8201883",
-      "postedAt": "2026-09-29T21:51:28.000Z",
-      "key": "roblox:8201883",
-      "company": "Roblox",
       "level": "experienced",
       "term": null,
       "regions": [
