@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-29T17:10:17.047Z",
+  "generatedAt": "2026-10-29T17:20:19.534Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "coupang:8081184"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1199,7 +1201,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -1241,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3585,10 +3587,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 7,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8081184",
+      "title": "Sr. Staff ML Infra Engineer - Offline Infra & Training",
+      "location": "Mountain View, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8081184",
+      "postedAt": "2026-10-29T17:14:37.000Z",
+      "key": "coupang:8081184",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T17:20:19.534Z"
+    },
     {
       "id": "7685466",
       "title": "Principal Software Engineer, ML & Media Infra",
@@ -19582,22 +19600,6 @@
         "us"
       ],
       "firstSeen": "2026-10-19T05:10:16.413Z"
-    },
-    {
-      "id": "R25100",
-      "title": "Sr. Software Engineer, MarTech (Remote)",
-      "location": "USA - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Data-Engineer---CDP--Remote-_R25100",
-      "postedAt": "2026-10-19T05:00:26.602Z",
-      "key": "CrowdStrike:R25100",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T05:00:21.979Z"
     },
     {
       "id": "JR2028004",
