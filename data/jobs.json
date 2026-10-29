@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-29T18:50:19.821Z",
+  "generatedAt": "2026-10-29T19:00:27.564Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Capital One:R1004654"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2103
+    "experienced": 2102
   },
   "companies": [
     {
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -757,10 +759,10 @@
     },
     {
       "name": "Canary Technologies",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Candid Health",
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1969,7 +1971,7 @@
     {
       "name": "GiveCampus",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5132,10 +5134,10 @@
     },
     {
       "name": "Tovala",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Town",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004654",
+      "title": "Senior Manager Enterprise SaaS Sales - Capital One Software (Remote)",
+      "location": "2 Locations",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Senior-Manager-Enterprise-SaaS-Sales---Capital-One-Software--Remote-_R1004654-1",
+      "postedAt": "2026-10-29T19:00:31.160Z",
+      "key": "Capital One:R1004654",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-10-29T19:00:27.564Z"
+    },
     {
       "id": "76fd7bc4-1808-4bff-8663-16c917f45f4e",
       "title": "Developer Programs Lead",
@@ -13589,22 +13607,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-22T18:50:18.881Z"
-    },
-    {
-      "id": "R1001156",
-      "title": "Full Stack Engineer 4 (Go, AWS)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Go--AWS-_R1001156-1",
-      "postedAt": "2026-10-22T18:40:21.986Z",
-      "key": "Capital One:R1001156",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T18:40:18.744Z"
     },
     {
       "id": "022da778-f070-4f97-9c6b-b2622ef8b7b7",
@@ -41350,22 +41352,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T19:10:18.041Z"
-    },
-    {
-      "id": "4422291009",
-      "title": "Senior Software Engineer, Emerging Product",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/givecampus/jobs/4422291009",
-      "postedAt": "2026-09-29T18:54:15.000Z",
-      "key": "givecampus:4422291009",
-      "company": "GiveCampus",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T19:00:25.599Z"
     },
     {
       "id": "R1002296",
