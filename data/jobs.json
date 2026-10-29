@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-10-29T19:30:30.765Z",
+  "generatedAt": "2026-10-29T19:40:20.161Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "airbnb:8334926",
-    "permitflow:9c2b3eba-d001-4582-b55d-052dcc139a14"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -13,7 +10,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2101
+    "experienced": 2098
   },
   "companies": [
     {
@@ -594,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1875,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2064,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2659,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2693,7 +2690,7 @@
     {
       "name": "Latent",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3420,10 +3417,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": true,
+      "ok": false,
       "jobCount": 4,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nvidia",
@@ -3575,7 +3572,7 @@
     {
       "name": "PagerDuty",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4695,7 +4692,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 76,
+      "jobCount": 75,
       "error": null,
       "stale": false
     },
@@ -4829,7 +4826,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -41274,54 +41271,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T19:50:22.385Z"
-    },
-    {
-      "id": "c54c96d7-2776-41be-b74c-b2beaad99634",
-      "title": "Software Engineer (Frontend)",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/latent/c54c96d7-2776-41be-b74c-b2beaad99634",
-      "postedAt": "2026-09-29T19:39:37.870Z",
-      "key": "latent:c54c96d7-2776-41be-b74c-b2beaad99634",
-      "company": "Latent",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T19:40:17.430Z"
-    },
-    {
-      "id": "6211202004",
-      "title": "Senior Security Engineer - Cloud Security ",
-      "location": "Toronto",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6211202004",
-      "postedAt": "2026-09-29T19:38:58.000Z",
-      "key": "pagerduty:6211202004",
-      "company": "PagerDuty",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-08T15:20:24.227Z"
-    },
-    {
-      "id": "8827481002",
-      "title": "Sr. Data Center Safety Engineer (AI Supercomputer) ",
-      "location": "Memphis, TN",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8827481002?gh_jid=8827481002",
-      "postedAt": "2026-09-29T19:37:00.000Z",
-      "key": "spacex:8827481002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T19:40:17.430Z"
     },
     {
       "id": "499fce9c-29e5-4789-a6e5-f961b2c34e8e",
