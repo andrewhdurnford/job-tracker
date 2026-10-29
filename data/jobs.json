@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-29T20:40:18.564Z",
+  "generatedAt": "2026-10-29T20:50:17.629Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "xai:5252714007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 75,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5105,7 +5107,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5581,7 +5583,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -39666,6 +39668,22 @@
       "firstSeen": "2026-09-30T19:50:20.190Z"
     },
     {
+      "id": "5252714007",
+      "title": "Software Engineer, Evaluation Infrastructure",
+      "location": " Palo Alto, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5252714007",
+      "postedAt": "2026-09-30T19:41:34.000Z",
+      "key": "xai:5252714007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T20:50:17.629Z"
+    },
+    {
       "id": "R1002664",
       "title": "Full-stack Engineer 4",
       "location": "New York, NY",
@@ -41031,22 +41049,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T21:00:26.791Z"
-    },
-    {
-      "id": "8223599",
-      "title": "Senior Software Engineer, Backend — Toast International",
-      "location": "Canada Hybrid (Ontario)",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8223599",
-      "postedAt": "2026-09-29T20:46:27.000Z",
-      "key": "toast:8223599",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-29T20:50:16.855Z"
     },
     {
       "id": "JR2019101",
