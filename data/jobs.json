@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-29T22:40:16.987Z",
+  "generatedAt": "2026-10-29T22:50:22.313Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R1003371",
+    "coinbase:8335547"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 24,
-    "experienced": 2093
+    "experienced": 2095
   },
   "companies": [
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 178,
+      "jobCount": 179,
       "error": null,
       "stale": false
     },
@@ -1052,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -1142,10 +1145,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Conveo",
@@ -2248,10 +2251,10 @@
     },
     {
       "name": "Houzz",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "HubSpot",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003371",
+      "title": "Mobile Engineer 4 (iOS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-4--iOS-_R1003371-1",
+      "postedAt": "2026-10-29T22:50:25.573Z",
+      "key": "Capital One:R1003371",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T22:50:22.313Z"
+    },
+    {
+      "id": "8335547",
+      "title": "Senior Software Engineer, Backend (Coinbase One)",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8335547?gh_jid=8335547",
+      "postedAt": "2026-10-29T22:43:45.000Z",
+      "key": "coinbase:8335547",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T22:50:22.313Z"
+    },
     {
       "id": "JR2026799",
       "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027",
