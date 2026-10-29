@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-29T22:00:26.507Z",
+  "generatedAt": "2026-10-29T22:10:17.155Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "gongio:4723250006"
+    "Nvidia:JR2028891"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 147,
+    "intern": 146,
     "new-grad": 24,
     "experienced": 2094
   },
@@ -228,7 +228,7 @@
     {
       "name": "Amca",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1418,7 +1418,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 156,
+      "jobCount": 157,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 75,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028891",
+      "title": "Senior Research Scientist, EDA and AI",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist--EDA-and-AI_JR2028891",
+      "postedAt": "2026-10-29T22:10:20.488Z",
+      "key": "Nvidia:JR2028891",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T22:10:17.155Z"
+    },
     {
       "id": "4723250006",
       "title": "AI Enterprise Architect",
@@ -41036,44 +41052,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T22:20:17.055Z"
-    },
-    {
-      "id": "c47cbb77-3f20-4dc4-8cfc-6f1b8a43fb63",
-      "title": "Senior Principal Software Engineer, Networking",
-      "location": "United States",
-      "team": "ENG-Runtime",
-      "url": "https://jobs.ashbyhq.com/docker/c47cbb77-3f20-4dc4-8cfc-6f1b8a43fb63",
-      "postedAt": "2026-09-29T22:06:23.123Z",
-      "key": "docker:c47cbb77-3f20-4dc4-8cfc-6f1b8a43fb63",
-      "company": "Docker",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T22:10:17.558Z"
-    },
-    {
-      "id": "4425120009",
-      "title": "Software Engineering Internship (Summer 2027)",
-      "location": "El Segundo, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/amca/jobs/4425120009",
-      "postedAt": "2026-09-29T22:04:08.000Z",
-      "key": "amca:4425120009",
-      "company": "Amca",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T01:19:23.380Z"
     },
     {
       "id": "JR2026396",
