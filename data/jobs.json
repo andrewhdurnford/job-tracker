@@ -1,22 +1,25 @@
 {
-  "generatedAt": "2026-10-29T13:30:24.147Z",
+  "generatedAt": "2026-10-29T13:40:18.359Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "1password:a8f6ec2c-ca75-42a0-9708-f7bd74ff6671",
+    "DocuSign:30597"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 148,
+    "intern": 149,
     "new-grad": 25,
-    "experienced": 2103
+    "experienced": 2104
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -1423,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -2108,10 +2111,10 @@
     },
     {
       "name": "H1",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "HackerRank",
@@ -5699,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a8f6ec2c-ca75-42a0-9708-f7bd74ff6671",
+      "title": "Staff Demo Engineer",
+      "location": "Remote (United States | Canada)",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/1password/a8f6ec2c-ca75-42a0-9708-f7bd74ff6671",
+      "postedAt": "2026-10-29T13:35:34.898Z",
+      "key": "1password:a8f6ec2c-ca75-42a0-9708-f7bd74ff6671",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-29T13:40:18.359Z"
+    },
+    {
+      "id": "30597",
+      "title": "Software Engineer Intern",
+      "location": "US-Seattle-3rd",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30597/login",
+      "postedAt": "2026-10-29T13:33:00.000Z",
+      "key": "DocuSign:30597",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T13:40:18.359Z"
+    },
     {
       "id": "R1004665",
       "title": "Full Stack Engineer 4",
