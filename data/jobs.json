@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T06:50:19.151Z",
+  "generatedAt": "2026-10-29T07:00:28.758Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2124
+    "experienced": 2106
   },
   "companies": [
     {
@@ -786,7 +786,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 191,
+      "jobCount": 176,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3425,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 156,
+      "jobCount": 153,
       "error": null,
       "stale": false
     },
@@ -4467,10 +4467,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 42,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -5132,10 +5132,10 @@
     },
     {
       "name": "Tovala",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Town",
@@ -41614,54 +41614,6 @@
       "firstSeen": "2026-09-29T07:20:16.195Z"
     },
     {
-      "id": "JR2025901",
-      "title": "Staff Software Developer, Unified Communications",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Staff-Unified-Communications-Engineer_JR2025901",
-      "postedAt": "2026-09-28T22:00:27.451Z",
-      "key": "Nvidia:JR2025901",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T22:00:22.843Z"
-    },
-    {
-      "id": "R1002263",
-      "title": "Full-stack Engineer 4 (Go, AWS)",
-      "location": "Richmond, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Go--AWS-_R1002263-1",
-      "postedAt": "2026-09-28T19:40:21.640Z",
-      "key": "Capital One:R1002263",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T19:40:18.033Z"
-    },
-    {
-      "id": "R1002264",
-      "title": "Full-stack Engineer 4 (Go, AWS)",
-      "location": "Richmond, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Go--AWS-_R1002264-1",
-      "postedAt": "2026-09-28T19:40:21.640Z",
-      "key": "Capital One:R1002264",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T19:40:18.033Z"
-    },
-    {
       "id": "R30047",
       "title": "Engineering Manager, Infrastructure (Remote)",
       "location": "USA - Remote, CA",
@@ -41676,102 +41628,6 @@
         "us"
       ],
       "firstSeen": "2026-09-28T19:20:20.515Z"
-    },
-    {
-      "id": "R1001924",
-      "title": "Full-stack Engineer 5 (Java, Python, AWS)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Java--Python--AWS-_R1001924-1",
-      "postedAt": "2026-09-28T18:40:20.800Z",
-      "key": "Capital One:R1001924",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T18:40:17.283Z"
-    },
-    {
-      "id": "R1001970",
-      "title": "Full-stack Engineer 4 (Python, Java, Spring Boot)",
-      "location": "Chicago, IL",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4--Python--Java--Spring-Boot-_R1001970-1",
-      "postedAt": "2026-09-28T18:10:20.710Z",
-      "key": "Capital One:R1001970",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T18:10:17.314Z"
-    },
-    {
-      "id": "R1001851",
-      "title": "Full-stack Engineer 4",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001851-1",
-      "postedAt": "2026-09-28T18:00:32.619Z",
-      "key": "Capital One:R1001851",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T18:00:28.963Z"
-    },
-    {
-      "id": "R1001859",
-      "title": "Full-stack Engineer 4",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001859-1",
-      "postedAt": "2026-09-28T18:00:32.618Z",
-      "key": "Capital One:R1001859",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T18:00:28.963Z"
-    },
-    {
-      "id": "R1001855",
-      "title": "Machine Learning Engineer 5",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Machine-Learning-Engineer-5_R1001855-1",
-      "postedAt": "2026-09-28T18:00:32.618Z",
-      "key": "Capital One:R1001855",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T18:00:28.963Z"
-    },
-    {
-      "id": "R1002337",
-      "title": "Senior Associate, Data Scientist - Credit Line Increase Program",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist---Credit-Line-Increase-Program_R1002337-1",
-      "postedAt": "2026-09-28T17:50:20.112Z",
-      "key": "Capital One:R1002337",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T17:50:17.520Z"
     },
     {
       "id": "R1002300",
@@ -41790,118 +41646,6 @@
       "firstSeen": "2026-09-28T17:40:16.501Z"
     },
     {
-      "id": "R1001836",
-      "title": "Full-stack Engineer 4",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1001836-2",
-      "postedAt": "2026-09-28T17:20:20.892Z",
-      "key": "Capital One:R1001836",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T17:20:17.370Z"
-    },
-    {
-      "id": "R1002331",
-      "title": "Full-stack Engineer 4",
-      "location": "Richmond, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1002331-1",
-      "postedAt": "2026-09-28T16:50:18.996Z",
-      "key": "Capital One:R1002331",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T16:50:15.911Z"
-    },
-    {
-      "id": "R1001682",
-      "title": "Full-stack Engineer 4 (Manager, IC)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1001682-1",
-      "postedAt": "2026-09-28T16:00:32.071Z",
-      "key": "Capital One:R1001682",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T16:00:28.504Z"
-    },
-    {
-      "id": "R1001499",
-      "title": "Android Mobile Engineer 4 (Manager, IC)",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Android-Mobile-Engineer-4--Manager--IC-_R1001499-1",
-      "postedAt": "2026-09-28T15:30:25.504Z",
-      "key": "Capital One:R1001499",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T15:30:21.989Z"
-    },
-    {
-      "id": "R1002302",
-      "title": "Full-stack Engineer 4 (Backend & API Development) (Cloud Operations Resilience Engineering)",
-      "location": "Riverwoods, IL",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-stack-Engineer-4--Backend---API-Development---Cloud-Operations-Resilience-Engineering-_R1002302-1",
-      "postedAt": "2026-09-28T15:10:25.325Z",
-      "key": "Capital One:R1002302",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T15:10:17.804Z"
-    },
-    {
-      "id": "R1002389",
-      "title": "Full-stack Engineer 5 (Senior Manager, IC )-EDT",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5--Senior-Manager--IC---EDT_R1002389-1",
-      "postedAt": "2026-09-28T14:50:31.507Z",
-      "key": "Capital One:R1002389",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T14:50:17.669Z"
-    },
-    {
-      "id": "R1002240",
-      "title": "Director, Full-stack Engineer - Dealer CRM",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Director--Full-stack-Engineer---Dealer-CRM_R1002240-1",
-      "postedAt": "2026-09-28T14:40:21.803Z",
-      "key": "Capital One:R1002240",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T14:40:18.280Z"
-    },
-    {
       "id": "R1002200",
       "title": "Full-stack Engineer 4 (Distributed data & AWS) (Cloud Operations Resilience Engineering)",
       "location": "3 Locations",
@@ -41916,22 +41660,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-28T13:50:20.720Z"
-    },
-    {
-      "id": "JR2026536",
-      "title": "GPU SW Security Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-SW-Security-Engineer_JR2026536",
-      "postedAt": "2026-09-28T09:00:28.023Z",
-      "key": "Nvidia:JR2026536",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T09:00:23.782Z"
     },
     {
       "id": "JR2024825",
@@ -43036,22 +42764,6 @@
         "us"
       ],
       "firstSeen": "2026-08-11T17:50:39.035Z"
-    },
-    {
-      "id": "JR2011122",
-      "title": "Platform Software Validation Engineer - SDET",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2011122",
-      "postedAt": "2026-08-10T18:30:50.139Z",
-      "key": "Nvidia:JR2011122",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-08-20T18:30:21.713Z"
     },
     {
       "id": "5207314007",
