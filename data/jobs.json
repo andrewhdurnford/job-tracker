@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-29T17:50:17.488Z",
+  "generatedAt": "2026-10-29T18:00:30.122Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "northwoodspace:f7b9e8d5-7368-4a54-b445-ff647f12b1b6"
+    "Capital One:R1004780",
+    "robinhood:8334429"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 176,
+      "jobCount": 177,
       "error": null,
       "stale": false
     },
@@ -1452,10 +1453,10 @@
     },
     {
       "name": "DoorDash",
-      "ok": true,
+      "ok": false,
       "jobCount": 31,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Doppler",
@@ -3587,10 +3588,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 7,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -4232,7 +4233,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4386,7 +4387,7 @@
     {
       "name": "Security Scorecard",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4469,10 +4470,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 42,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 77,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4828,7 +4829,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5303,7 +5304,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "R1004780",
+      "title": "Senior Manager, Full-stack Engineer (Java, Python, AWS)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Manager--Full-stack-Engineer--Java--Python--AWS-_R1004780-1",
+      "postedAt": "2026-10-29T18:00:32.751Z",
+      "key": "Capital One:R1004780",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T18:00:30.122Z"
+    },
+    {
+      "id": "8334429",
+      "title": "Senior Software Engineer, AI Security",
+      "location": "Bellevue, WA; Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8334429?t=gh_src=&gh_jid=8334429",
+      "postedAt": "2026-10-29T17:52:47.000Z",
+      "key": "robinhood:8334429",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T18:00:30.122Z"
+    },
+    {
       "id": "f7b9e8d5-7368-4a54-b445-ff647f12b1b6",
       "title": "Software, Platform (Early Career)",
       "location": "Torrance, CA",
@@ -5790,22 +5823,6 @@
       "postedAt": "2026-10-29T17:24:29.000Z",
       "key": "figma:6235282004",
       "company": "Figma",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T17:30:23.862Z"
-    },
-    {
-      "id": "8334213",
-      "title": "Senior Security Engineer",
-      "location": "Remote (US/LATAM)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/8334213",
-      "postedAt": "2026-10-29T17:21:16.000Z",
-      "key": "securityscorecard:8334213",
-      "company": "Security Scorecard",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -41447,23 +41464,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-09-29T18:00:25.514Z"
-    },
-    {
-      "id": "8214129",
-      "title": "Senior Data Platform Engineer",
-      "location": "United States | Remote",
-      "team": null,
-      "url": "https://careers.upstart.com/jobs?gh_jid=8214129",
-      "postedAt": "2026-09-29T17:57:53.000Z",
-      "key": "upstart:8214129",
-      "company": "Upstart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
       ],
       "firstSeen": "2026-09-29T18:00:25.514Z"
     },
