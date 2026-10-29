@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-29T15:40:18.160Z",
+  "generatedAt": "2026-10-29T15:50:17.919Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "lyft:8923592002",
-    "rigetti:4e731d11-c3d4-43fd-b292-966129e1bfc2"
+    "saronic:1c9e8bb8-44ed-45ee-b65f-6c316903e6db"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 25,
-    "experienced": 2100
+    "experienced": 2101
   },
   "companies": [
     {
@@ -594,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -937,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4366,7 +4365,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4470,10 +4469,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 42,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1c9e8bb8-44ed-45ee-b65f-6c316903e6db",
+      "title": "Senior Systems Engineer",
+      "location": "Austin, TX",
+      "team": "Information Technology",
+      "url": "https://jobs.ashbyhq.com/saronic/1c9e8bb8-44ed-45ee-b65f-6c316903e6db",
+      "postedAt": "2026-10-29T15:45:52.178Z",
+      "key": "saronic:1c9e8bb8-44ed-45ee-b65f-6c316903e6db",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T15:50:17.919Z"
+    },
     {
       "id": "8923592002",
       "title": "Software Engineer, AI Entries",
@@ -22601,7 +22616,7 @@
     },
     {
       "id": "2755bf98-87a0-46ee-8e86-18c307b0e4ad",
-      "title": "Senior Software Engineer, Applied AI",
+      "title": "Senior Software Engineer II, Applied AI",
       "location": "Hybrid - Seattle",
       "team": "Executive",
       "url": "https://jobs.ashbyhq.com/wrapbook/2755bf98-87a0-46ee-8e86-18c307b0e4ad",
