@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T02:50:20.224Z",
+  "generatedAt": "2026-10-29T03:00:29.717Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "openai:9f7371c4-e306-4a45-a400-aa2843fabd85"
+    "bayesianhealth:3ea2fcfb-9a68-4b8d-a9aa-600a733ef655"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2123
+    "experienced": 2121
   },
   "companies": [
     {
@@ -305,7 +305,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -529,7 +529,7 @@
     {
       "name": "Bayesian Health",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3771,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4799,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3ea2fcfb-9a68-4b8d-a9aa-600a733ef655",
+      "title": "Software Engineer, Data & Analytics Platform",
+      "location": "Remote - US Only",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/bayesianhealth/3ea2fcfb-9a68-4b8d-a9aa-600a733ef655",
+      "postedAt": "2026-10-29T02:56:25.917Z",
+      "key": "bayesianhealth:3ea2fcfb-9a68-4b8d-a9aa-600a733ef655",
+      "company": "Bayesian Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T03:00:29.717Z"
+    },
     {
       "id": "9f7371c4-e306-4a45-a400-aa2843fabd85",
       "title": "Network Infrastructure Engineer, Global Network Infra (WAN)",
@@ -41550,54 +41566,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T03:50:15.717Z"
-    },
-    {
-      "id": "8214618",
-      "title": "Full Stack Engineer, Enterprise Engineering",
-      "location": "US",
-      "team": "8712 Enterprise Engine",
-      "url": "https://stripe.com/jobs/search?gh_jid=8214618",
-      "postedAt": "2026-09-29T02:57:48.000Z",
-      "key": "stripe:8214618",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T03:00:23.529Z"
-    },
-    {
-      "id": "5437172008",
-      "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences)",
-      "location": "San Francisco, CA | New York City, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5437172008",
-      "postedAt": "2026-09-29T02:57:03.000Z",
-      "key": "anthropic:5437172008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T03:00:23.529Z"
-    },
-    {
-      "id": "8214616",
-      "title": "Full Stack Engineer, Enterprise Engineering",
-      "location": "Canada Locations",
-      "team": "8712 Enterprise Engine",
-      "url": "https://stripe.com/jobs/search?gh_jid=8214616",
-      "postedAt": "2026-09-29T02:54:32.000Z",
-      "key": "stripe:8214616",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-29T03:00:23.529Z"
     },
     {
       "id": "JR2025901",
