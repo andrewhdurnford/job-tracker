@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-10-29T16:30:23.259Z",
+  "generatedAt": "2026-10-29T16:40:17.715Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "databricks:8923831002",
-    "lyft:8921760002",
-    "okta:8319274"
+    "pinterest:8046838",
+    "zscaler:5279376007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
+    "intern": 148,
     "new-grad": 25,
-    "experienced": 2105
+    "experienced": 2107
   },
   "companies": [
     {
@@ -2877,7 +2876,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3758,7 +3757,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5480,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -5690,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5279376007",
+      "title": "Principal Software Development Engineer (Layer 7 Security & Proxy)",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5279376007",
+      "postedAt": "2026-10-29T16:37:22.000Z",
+      "key": "zscaler:5279376007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T16:40:17.715Z"
+    },
+    {
+      "id": "8046838",
+      "title": "Staff Software Engineer, Service Configuration Deployments",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8046838",
+      "postedAt": "2026-10-29T16:34:57.000Z",
+      "key": "pinterest:8046838",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T16:40:17.715Z"
+    },
     {
       "id": "8923831002",
       "title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
@@ -41452,28 +41483,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T16:50:21.534Z"
-    },
-    {
-      "id": "8234876",
-      "title": "2027 Summer Intern, PhD, Planner Machine Learning",
-      "location": "San Francisco, California",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234876",
-      "postedAt": "2026-09-29T16:36:53.000Z",
-      "key": "waymo:8234876",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T16:40:19.096Z"
     },
     {
       "id": "JR2023255",
