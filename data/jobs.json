@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T21:10:18.387Z",
+  "generatedAt": "2026-10-29T21:20:18.794Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "DocuSign:30577"
+    "permitflow:84c5c956-abc7-4567-a666-1f131b84053a"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2090
+    "experienced": 2087
   },
   "companies": [
     {
@@ -1466,10 +1466,10 @@
     },
     {
       "name": "Doxel",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Dropbox",
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2658,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2846,7 +2846,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3882,7 +3882,7 @@
     {
       "name": "Probook",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 75,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5044,7 +5044,7 @@
     {
       "name": "Tennr",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "84c5c956-abc7-4567-a666-1f131b84053a",
+      "title": "Staff Analytics Engineer",
+      "location": "New York City, NY",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/permitflow/84c5c956-abc7-4567-a666-1f131b84053a",
+      "postedAt": "2026-10-29T21:12:12.617Z",
+      "key": "permitflow:84c5c956-abc7-4567-a666-1f131b84053a",
+      "company": "PermitFlow",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T21:20:18.794Z"
+    },
     {
       "id": "30577",
       "title": "Lead Software Engineer, Identity & Authentication Platform",
@@ -7577,22 +7593,6 @@
       "postedAt": "2026-10-28T15:40:51.000Z",
       "key": "adyen:8300952",
       "company": "Adyen",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T15:50:18.428Z"
-    },
-    {
-      "id": "a2c4b711-898a-4a8b-b869-bf708cd7ad31",
-      "title": "Staff Analytics Engineer",
-      "location": "New York City, NY",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/permitflow/a2c4b711-898a-4a8b-b869-bf708cd7ad31",
-      "postedAt": "2026-10-28T15:40:12.619Z",
-      "key": "permitflow:a2c4b711-898a-4a8b-b869-bf708cd7ad31",
-      "company": "PermitFlow",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -41018,38 +41018,6 @@
       "firstSeen": "2026-09-29T21:20:19.976Z"
     },
     {
-      "id": "8856442002",
-      "title": "Data Scientist, Decisions - Mapping",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8856442002?gh_jid=8856442002",
-      "postedAt": "2026-09-29T21:18:09.000Z",
-      "key": "lyft:8856442002",
-      "company": "Lyft",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-29T21:20:19.976Z"
-    },
-    {
-      "id": "ef59b5ca-8c20-47c0-b44a-2bea5eb5017a",
-      "title": "Senior Backend Engineer (ML)",
-      "location": "New York City Office",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/tennr/ef59b5ca-8c20-47c0-b44a-2bea5eb5017a",
-      "postedAt": "2026-09-29T21:15:13.372Z",
-      "key": "tennr:ef59b5ca-8c20-47c0-b44a-2bea5eb5017a",
-      "company": "Tennr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T21:20:19.976Z"
-    },
-    {
       "id": "JR2019101",
       "title": "Senior Software Development Tech Lead – NVLink FW and NVOS",
       "location": "US, CA, Santa Clara",
@@ -41160,22 +41128,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-29T19:50:22.385Z"
-    },
-    {
-      "id": "499fce9c-29e5-4789-a6e5-f961b2c34e8e",
-      "title": "Senior Software Engineer - Infrastructure",
-      "location": "Manhattan",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/probook/499fce9c-29e5-4789-a6e5-f961b2c34e8e",
-      "postedAt": "2026-09-29T19:13:53.529Z",
-      "key": "probook:499fce9c-29e5-4789-a6e5-f961b2c34e8e",
-      "company": "Probook",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T19:20:18.002Z"
     },
     {
       "id": "R1002296",
