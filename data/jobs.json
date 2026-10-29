@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-29T06:00:28.012Z",
+  "generatedAt": "2026-10-29T06:10:18.997Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "coinbase:8333165"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2123
+    "experienced": 2124
   },
   "companies": [
     {
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1052,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -2656,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4145,10 +4147,10 @@
     },
     {
       "name": "Remote",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Render",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8333165",
+      "title": "Staff Machine Learning Engineer, Compliance Automation (Platform)",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8333165?gh_jid=8333165",
+      "postedAt": "2026-10-29T06:02:17.000Z",
+      "key": "coinbase:8333165",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T06:10:18.997Z"
+    },
     {
       "id": "5173120008",
       "title": "Staff+ Software Engineer, Enterprise Connectivity",
