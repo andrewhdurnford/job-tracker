@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-10-29T22:50:22.313Z",
+  "generatedAt": "2026-10-29T23:00:27.810Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "Capital One:R1003371",
-    "coinbase:8335547"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -13,7 +10,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 24,
-    "experienced": 2095
+    "experienced": 2094
   },
   "companies": [
     {
@@ -594,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -937,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1145,10 +1142,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Conveo",
@@ -1756,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2251,10 +2248,10 @@
     },
     {
       "name": "Houzz",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "HubSpot",
@@ -4415,7 +4412,7 @@
     {
       "name": "Sentry",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4477,10 +4474,10 @@
     },
     {
       "name": "Shiru",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Short Story",
@@ -4722,10 +4719,10 @@
     },
     {
       "name": "Spotify",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sprinklr",
@@ -36062,22 +36059,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-04T19:10:15.010Z"
-    },
-    {
-      "id": "c00e77f5-bd58-49da-b4a8-3b6249529747",
-      "title": "Staff Software Engineer, AI Developer Tooling",
-      "location": "San Francisco, California",
-      "team": "Engineering ",
-      "url": "https://jobs.ashbyhq.com/sentry/c00e77f5-bd58-49da-b4a8-3b6249529747",
-      "postedAt": "2026-10-04T03:45:38.493Z",
-      "key": "sentry:c00e77f5-bd58-49da-b4a8-3b6249529747",
-      "company": "Sentry",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-04T03:50:14.705Z"
     },
     {
       "id": "35026637-d96b-47b3-a154-96e31765a7aa",
