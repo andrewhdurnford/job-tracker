@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-29T15:50:17.919Z",
+  "generatedAt": "2026-10-29T16:00:27.634Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "saronic:1c9e8bb8-44ed-45ee-b65f-6c316903e6db"
+    "ophelia:5442505008",
+    "saronic:e7ee6a31-551a-434b-8864-98cc341668b9"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 25,
-    "experienced": 2101
+    "experienced": 2102
   },
   "companies": [
     {
@@ -305,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2096,10 +2097,10 @@
     },
     {
       "name": "Groww",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Gusto",
@@ -3525,7 +3526,7 @@
     {
       "name": "Ophelia",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3923,10 +3924,10 @@
     },
     {
       "name": "Pronto",
-      "ok": true,
+      "ok": false,
       "jobCount": 4,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Proof Holdings",
@@ -4365,7 +4366,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4469,10 +4470,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 42,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Shiru",
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 78,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "e7ee6a31-551a-434b-8864-98cc341668b9",
+      "title": "Systems Engineer I",
+      "location": "Austin, TX",
+      "team": "Information Technology",
+      "url": "https://jobs.ashbyhq.com/saronic/e7ee6a31-551a-434b-8864-98cc341668b9",
+      "postedAt": "2026-10-29T15:56:02.529Z",
+      "key": "saronic:e7ee6a31-551a-434b-8864-98cc341668b9",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T16:00:27.634Z"
+    },
     {
       "id": "1c9e8bb8-44ed-45ee-b65f-6c316903e6db",
       "title": "Senior Systems Engineer",
@@ -36529,6 +36546,22 @@
       "firstSeen": "2026-10-02T18:10:16.777Z"
     },
     {
+      "id": "5442505008",
+      "title": "Data Scientist",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/ophelia/jobs/5442505008",
+      "postedAt": "2026-10-02T17:59:53.000Z",
+      "key": "ophelia:5442505008",
+      "company": "Ophelia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T16:00:27.634Z"
+    },
+    {
       "id": "5250506007",
       "title": "Senior Supplier Quality Engineer ",
       "location": "Casa Grande, AZ",
@@ -41408,22 +41441,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T23:30:19.928Z"
-    },
-    {
-      "id": "5434559008",
-      "title": "Staff / Senior Software Engineer, Security Fusion Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434559008",
-      "postedAt": "2026-09-29T15:58:26.000Z",
-      "key": "anthropic:5434559008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T16:00:31.073Z"
     },
     {
       "id": "R_106968",
