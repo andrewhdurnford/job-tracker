@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-29T19:20:18.471Z",
+  "generatedAt": "2026-10-29T19:30:30.765Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "permitflow:454c26bc-d100-4211-95aa-5ef5c0c1cdc3"
+    "airbnb:8334926",
+    "permitflow:9c2b3eba-d001-4582-b55d-052dcc139a14"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2102
+    "experienced": 2101
   },
   "companies": [
     {
@@ -116,7 +117,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4106,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4695,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 77,
+      "jobCount": 76,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "9c2b3eba-d001-4582-b55d-052dcc139a14",
+      "title": "Staff Software Engineer",
+      "location": "New York City, NY",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/permitflow/9c2b3eba-d001-4582-b55d-052dcc139a14",
+      "postedAt": "2026-10-29T19:26:32.844Z",
+      "key": "permitflow:9c2b3eba-d001-4582-b55d-052dcc139a14",
+      "company": "PermitFlow",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T19:30:30.765Z"
+    },
+    {
+      "id": "8334926",
+      "title": "Backend Engineer, Profile & Community",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8334926?gh_jid=8334926",
+      "postedAt": "2026-10-29T19:24:15.000Z",
+      "key": "airbnb:8334926",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T19:30:30.765Z"
+    },
     {
       "id": "454c26bc-d100-4211-95aa-5ef5c0c1cdc3",
       "title": "Principal Software Engineer, Platform",
@@ -8100,8 +8133,8 @@
     {
       "id": "4232d337-fbc7-4e8c-81d5-2903ab0eb6e8",
       "title": "Web Developer",
-      "location": "Toronto (+5 more)",
-      "team": "North",
+      "location": "Toronto (+6 more)",
+      "team": "Engineering & Infra",
       "url": "https://jobs.ashbyhq.com/cohere/4232d337-fbc7-4e8c-81d5-2903ab0eb6e8",
       "postedAt": "2026-10-27T21:46:02.092Z",
       "key": "cohere:4232d337-fbc7-4e8c-81d5-2903ab0eb6e8",
@@ -8109,6 +8142,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
+        "us",
         "canada"
       ],
       "firstSeen": "2026-10-27T21:50:19.023Z"
@@ -12941,22 +12975,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T01:40:16.079Z"
-    },
-    {
-      "id": "08035d47-a610-4a5a-92bc-105ae3d18fc8",
-      "title": "Senior Analytics Engineer",
-      "location": "New York City, NY",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/permitflow/08035d47-a610-4a5a-92bc-105ae3d18fc8",
-      "postedAt": "2026-10-23T01:16:49.747Z",
-      "key": "permitflow:08035d47-a610-4a5a-92bc-105ae3d18fc8",
-      "company": "PermitFlow",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T01:20:16.375Z"
     },
     {
       "id": "40de0618-fb19-443d-85fd-ba690d3721a8",
@@ -21622,22 +21640,6 @@
       "url": "https://boards.greenhouse.io/spacex/jobs/8893738002?gh_jid=8893738002",
       "postedAt": "2026-10-16T02:53:21.000Z",
       "key": "spacex:8893738002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T03:10:19.532Z"
-    },
-    {
-      "id": "8893735002",
-      "title": "Sr. Network Security Engineer ",
-      "location": "Memphis, TN",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8893735002?gh_jid=8893735002",
-      "postedAt": "2026-10-16T02:52:23.000Z",
-      "key": "spacex:8893735002",
       "company": "SpaceX",
       "level": "experienced",
       "term": null,
@@ -41320,22 +41322,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T19:40:17.430Z"
-    },
-    {
-      "id": "8240716",
-      "title": "Frontend Engineer, Ads Campaign Manager",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8240716",
-      "postedAt": "2026-09-29T19:30:04.000Z",
-      "key": "reddit:8240716",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T19:30:24.104Z"
     },
     {
       "id": "499fce9c-29e5-4789-a6e5-f961b2c34e8e",
