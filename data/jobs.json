@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-29T19:40:20.161Z",
+  "generatedAt": "2026-10-29T19:50:19.595Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "anthropic:5419154008",
+    "saronic:96c1f534-bd49-481c-88c5-85d344b20c82"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2098
+    "experienced": 2099
   },
   "companies": [
     {
@@ -303,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2656,7 +2659,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3417,10 +3420,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nvidia",
@@ -4251,7 +4254,7 @@
     {
       "name": "Rogo",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4363,7 +4366,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4826,7 +4829,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5699,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "96c1f534-bd49-481c-88c5-85d344b20c82",
+      "title": "Forward Deployed Build Engineer",
+      "location": "Austin, TX",
+      "team": "Forward Deployable Eng",
+      "url": "https://jobs.ashbyhq.com/saronic/96c1f534-bd49-481c-88c5-85d344b20c82",
+      "postedAt": "2026-10-29T19:45:18.950Z",
+      "key": "saronic:96c1f534-bd49-481c-88c5-85d344b20c82",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T19:50:19.595Z"
+    },
+    {
+      "id": "5419154008",
+      "title": "Staff / Senior Data Center Security Engineer",
+      "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5419154008",
+      "postedAt": "2026-10-29T19:41:14.000Z",
+      "key": "anthropic:5419154008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-10-29T19:50:19.595Z"
+    },
     {
       "id": "9c2b3eba-d001-4582-b55d-052dcc139a14",
       "title": "Staff Software Engineer",
@@ -41253,22 +41289,6 @@
       "term": null,
       "regions": [
         "remote"
-      ],
-      "firstSeen": "2026-09-29T19:50:22.385Z"
-    },
-    {
-      "id": "4ba0410d-e51e-4ad2-b850-ffa62d58c24b",
-      "title": "Security Engineer, Cloud",
-      "location": "New York City",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/rogo/4ba0410d-e51e-4ad2-b850-ffa62d58c24b",
-      "postedAt": "2026-09-29T19:46:28.574Z",
-      "key": "rogo:4ba0410d-e51e-4ad2-b850-ffa62d58c24b",
-      "company": "Rogo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-09-29T19:50:22.385Z"
     },
