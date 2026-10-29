@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-29T21:30:23.643Z",
+  "generatedAt": "2026-10-29T21:40:18.608Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "natera:6228785004",
-    "Procore:R0019006",
-    "Remitly:R_107105"
+    "boxinc:8318475",
+    "Remitly:R_107104",
+    "zscaler:5242488007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2089
+    "experienced": 2092
   },
   "companies": [
     {
@@ -595,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -678,7 +678,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -938,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2660,7 +2660,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2919,7 +2919,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4136,7 +4136,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5690,7 +5690,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107104",
+      "title": "Security Engineer II, Corporate Security",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Security-Engineer-II--Corporate-Security_R_107104",
+      "postedAt": "2026-10-29T21:40:22.087Z",
+      "key": "Remitly:R_107104",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T21:40:18.608Z"
+    },
+    {
+      "id": "5242488007",
+      "title": "Staff Software Development Engineer",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5242488007",
+      "postedAt": "2026-10-29T21:34:42.000Z",
+      "key": "zscaler:5242488007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T21:40:18.608Z"
+    },
+    {
+      "id": "8318475",
+      "title": "Software Engineer III, Kubernetes",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318475",
+      "postedAt": "2026-10-29T21:31:24.000Z",
+      "key": "boxinc:8318475",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T21:40:18.608Z"
+    },
     {
       "id": "R_107105",
       "title": "Security Engineer II, Security Platform",
