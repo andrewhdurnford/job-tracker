@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T16:10:19.416Z",
+  "generatedAt": "2026-10-29T16:20:23.532Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "natera:6209752004"
+    "edra:728ad13b-088a-43a0-82bd-b158b16d7bec"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1502,7 +1502,7 @@
     {
       "name": "Edra",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1887,7 +1887,7 @@
     {
       "name": "Freshpaint",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -2950,10 +2950,10 @@
     },
     {
       "name": "Meesho",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Melio",
@@ -4343,10 +4343,10 @@
     },
     {
       "name": "Sandbox VR",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sandstone",
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 78,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "728ad13b-088a-43a0-82bd-b158b16d7bec",
+      "title": "AI Research Engineer (New York)",
+      "location": "New York",
+      "team": "AI",
+      "url": "https://jobs.ashbyhq.com/edra/728ad13b-088a-43a0-82bd-b158b16d7bec",
+      "postedAt": "2026-10-29T16:11:52.243Z",
+      "key": "edra:728ad13b-088a-43a0-82bd-b158b16d7bec",
+      "company": "Edra",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T16:20:23.532Z"
+    },
     {
       "id": "e7ee6a31-551a-434b-8864-98cc341668b9",
       "title": "Systems Engineer I",
@@ -10960,7 +10976,7 @@
       "id": "871049a8-c24a-4ed5-8214-0e56c91b40d3",
       "title": "Senior Systems Engineer (R6455)",
       "location": "Seattle, Washington",
-      "team": "X-BAT Engineering",
+      "team": "Ranger Eng - Systems & Test",
       "url": "https://jobs.lever.co/shieldai/871049a8-c24a-4ed5-8214-0e56c91b40d3",
       "postedAt": "2026-10-24T00:55:14.953Z",
       "key": "shieldai:871049a8-c24a-4ed5-8214-0e56c91b40d3",
@@ -10976,7 +10992,7 @@
       "id": "2eaf030f-e574-4989-b85a-b43258df928b",
       "title": "Senior Engineer, Cybersecurity (R6438)",
       "location": "Seattle, Washington",
-      "team": "X-BAT Engineering",
+      "team": "Ranger Eng - Systems & Test",
       "url": "https://jobs.lever.co/shieldai/2eaf030f-e574-4989-b85a-b43258df928b",
       "postedAt": "2026-10-24T00:50:08.643Z",
       "key": "shieldai:2eaf030f-e574-4989-b85a-b43258df928b",
@@ -10992,7 +11008,7 @@
       "id": "ced15f44-bec6-456a-850c-7269ac90d794",
       "title": "Senior Engineer, Reliability (R6440)",
       "location": "Seattle, Washington",
-      "team": "X-BAT Engineering",
+      "team": "Ranger Eng - Systems & Test",
       "url": "https://jobs.lever.co/shieldai/ced15f44-bec6-456a-850c-7269ac90d794",
       "postedAt": "2026-10-24T00:42:36.529Z",
       "key": "shieldai:ced15f44-bec6-456a-850c-7269ac90d794",
@@ -11320,7 +11336,7 @@
       "id": "0edc2cfa-d7df-497e-ae42-a4aa88867c06",
       "title": "Staff Mission Systems Engineer - Ranger (R6405)",
       "location": "Seattle, Washington",
-      "team": "X-BAT Engineering - MEG",
+      "team": "Ranger Eng - MEG",
       "url": "https://jobs.lever.co/shieldai/0edc2cfa-d7df-497e-ae42-a4aa88867c06",
       "postedAt": "2026-10-23T22:12:05.835Z",
       "key": "shieldai:0edc2cfa-d7df-497e-ae42-a4aa88867c06",
@@ -24476,22 +24492,6 @@
         "us"
       ],
       "firstSeen": "2026-10-14T00:10:20.011Z"
-    },
-    {
-      "id": "d6f0af53-fbd9-400f-ba46-26f65ee26478",
-      "title": "Support Engineer",
-      "location": "Remote - US",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/freshpaint/d6f0af53-fbd9-400f-ba46-26f65ee26478",
-      "postedAt": "2026-10-14T00:10:01.674Z",
-      "key": "freshpaint:d6f0af53-fbd9-400f-ba46-26f65ee26478",
-      "company": "Freshpaint",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T00:20:14.898Z"
     },
     {
       "id": "87ae18c8-5bef-423e-968e-7ea6ab4f97b8",
