@@ -1,15 +1,17 @@
 {
-  "generatedAt": "2026-10-29T01:00:25.727Z",
+  "generatedAt": "2026-10-29T01:10:20.844Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "robinhood:8248320"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 148,
-    "new-grad": 26,
+    "new-grad": 25,
     "experienced": 2119
   },
   "companies": [
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4230,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 79,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 78,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5063,7 +5065,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8248320",
+      "title": "Senior Web Engineer, Options",
+      "location": "Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8248320?t=gh_src=&gh_jid=8248320",
+      "postedAt": "2026-10-29T01:10:20.000Z",
+      "key": "robinhood:8248320",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T01:10:20.844Z"
+    },
     {
       "id": "94338723-fa19-4865-a37e-6cc10f5c5638",
       "title": "Staff Engineer - Cloud Security ",
@@ -41517,38 +41535,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-29T02:00:22.264Z"
-    },
-    {
-      "id": "25a113b5-f4ec-4e61-a20d-041fff725d7d",
-      "title": "Developer Relations Engineer",
-      "location": "San Francisco",
-      "team": "Core Engineering",
-      "url": "https://jobs.ashbyhq.com/thinkingmachines/25a113b5-f4ec-4e61-a20d-041fff725d7d",
-      "postedAt": "2026-09-29T01:09:31.323Z",
-      "key": "thinkingmachines:25a113b5-f4ec-4e61-a20d-041fff725d7d",
-      "company": "Thinking Machines Lab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T01:10:17.100Z"
-    },
-    {
-      "id": "8854394002",
-      "title": "New Graduate Engineer, Software (Starfall)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8854394002?gh_jid=8854394002",
-      "postedAt": "2026-09-29T01:09:01.000Z",
-      "key": "spacex:8854394002",
-      "company": "SpaceX",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T01:10:17.100Z"
     },
     {
       "id": "JR2025901",
