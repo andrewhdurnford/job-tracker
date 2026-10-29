@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-29T18:30:22.732Z",
+  "generatedAt": "2026-10-29T18:40:18.707Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "render:76fd7bc4-1808-4bff-8663-16c917f45f4e"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2104
+    "experienced": 2105
   },
   "companies": [
     {
@@ -4153,7 +4155,7 @@
     {
       "name": "Render",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 77,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "76fd7bc4-1808-4bff-8663-16c917f45f4e",
+      "title": "Developer Programs Lead",
+      "location": "Remote: United States",
+      "team": "Developer Experience",
+      "url": "https://jobs.ashbyhq.com/render/76fd7bc4-1808-4bff-8663-16c917f45f4e",
+      "postedAt": "2026-10-29T18:33:20.464Z",
+      "key": "render:76fd7bc4-1808-4bff-8663-16c917f45f4e",
+      "company": "Render",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T18:40:18.707Z"
+    },
     {
       "id": "91b38c09-d291-4fb4-805a-baa03a7c67bb",
       "title": "Vulnerability Research Engineer",
