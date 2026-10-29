@@ -1,18 +1,21 @@
 {
-  "generatedAt": "2026-10-29T22:10:17.155Z",
+  "generatedAt": "2026-10-29T22:20:18.153Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Nvidia:JR2028891"
+    "natera:6232841004",
+    "natera:6232923004",
+    "Nvidia:JR2027170",
+    "Nvidia:JR2028607"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 146,
+    "intern": 148,
     "new-grad": 24,
-    "experienced": 2094
+    "experienced": 2095
   },
   "companies": [
     {
@@ -1403,10 +1406,10 @@
     },
     {
       "name": "Despegar",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Discord",
@@ -3245,7 +3248,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 157,
+      "jobCount": 158,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 75,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,20 +5705,80 @@
   ],
   "jobs": [
     {
-      "id": "JR2028891",
-      "title": "Senior Research Scientist, EDA and AI",
-      "location": "US, CA, Santa Clara",
+      "id": "JR2027170",
+      "title": "AI Systems Software Engineering Intern – Summer 2027",
+      "location": "US, TX, Austin",
       "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist--EDA-and-AI_JR2028891",
-      "postedAt": "2026-10-29T22:10:20.488Z",
-      "key": "Nvidia:JR2028891",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
+      "postedAt": "2026-10-29T22:20:22.339Z",
+      "key": "Nvidia:JR2027170",
       "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T22:20:18.153Z"
+    },
+    {
+      "id": "JR2028607",
+      "title": "Compiler Software Engineering Intern - Summer 2027",
+      "location": "US, WA, Redmond",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+      "postedAt": "2026-10-29T22:20:22.339Z",
+      "key": "Nvidia:JR2028607",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T22:20:18.153Z"
+    },
+    {
+      "id": "6232923004",
+      "title": "Staff Software Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6232923004",
+      "postedAt": "2026-10-29T22:17:24.000Z",
+      "key": "natera:6232923004",
+      "company": "Natera",
       "level": "experienced",
       "term": null,
       "regions": [
         "us"
       ],
-      "firstSeen": "2026-10-29T22:10:17.155Z"
+      "firstSeen": "2026-10-29T22:20:18.153Z"
+    },
+    {
+      "id": "6232841004",
+      "title": "Senior Software Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6232841004",
+      "postedAt": "2026-10-29T22:16:27.000Z",
+      "key": "natera:6232841004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T22:20:18.153Z"
     },
     {
       "id": "4723250006",
