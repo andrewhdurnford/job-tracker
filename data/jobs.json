@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-10-29T18:40:18.707Z",
+  "generatedAt": "2026-10-29T18:50:19.821Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "render:76fd7bc4-1808-4bff-8663-16c917f45f4e"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,13 +10,13 @@
   "levelCounts": {
     "intern": 148,
     "new-grad": 25,
-    "experienced": 2105
+    "experienced": 2103
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -593,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1523,7 +1521,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 77,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -7374,23 +7372,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T15:50:18.428Z"
-    },
-    {
-      "id": "a492badd-a02f-4360-aa15-7ea8c6e2c85e",
-      "title": "Junior Developer",
-      "location": "Remote (United States | Canada)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e",
-      "postedAt": "2026-10-28T15:35:50.703Z",
-      "key": "1password:a492badd-a02f-4360-aa15-7ea8c6e2c85e",
-      "company": "1Password",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-28T15:40:23.489Z"
     },
     {
       "id": "8329646",
@@ -41385,22 +41366,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T19:00:25.599Z"
-    },
-    {
-      "id": "8237959",
-      "title": "Director of Software Engineering - Distributed Systems, Serverless - Elasticsearch",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8237959&gh_jid=8237959",
-      "postedAt": "2026-09-29T18:45:21.000Z",
-      "key": "elastic:8237959",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T18:50:16.049Z"
     },
     {
       "id": "R1002296",
