@@ -1,20 +1,21 @@
 {
-  "generatedAt": "2026-10-29T21:40:18.608Z",
+  "generatedAt": "2026-10-29T21:50:16.795Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "boxinc:8318475",
-    "Remitly:R_107104",
-    "zscaler:5242488007"
+    "Capital One:R1001713",
+    "inngest:33b9f4ae-3be8-4a00-8548-8a00c276fd88",
+    "Nvidia:JR2028664",
+    "Nvidia:JR2029009"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 148,
-    "new-grad": 25,
-    "experienced": 2092
+    "intern": 147,
+    "new-grad": 24,
+    "experienced": 2095
   },
   "companies": [
     {
@@ -595,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -790,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 177,
+      "jobCount": 178,
       "error": null,
       "stale": false
     },
@@ -938,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1987,7 +1988,7 @@
     {
       "name": "Glean",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -2414,7 +2415,7 @@
     {
       "name": "Inngest",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2952,10 +2953,10 @@
     },
     {
       "name": "Meesho",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Melio",
@@ -3429,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 154,
+      "jobCount": 156,
       "error": null,
       "stale": false
     },
@@ -4640,7 +4641,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028664",
+      "title": "Manager, Systems Software",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Systems-Software_JR2028664",
+      "postedAt": "2026-10-29T21:50:21.072Z",
+      "key": "Nvidia:JR2028664",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T21:50:16.795Z"
+    },
+    {
+      "id": "JR2029009",
+      "title": "Software Engineer, Technical Lead – Performance Data Platform",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Technical-Lead---Performance-Data-Platform_JR2029009",
+      "postedAt": "2026-10-29T21:50:21.072Z",
+      "key": "Nvidia:JR2029009",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T21:50:16.795Z"
+    },
+    {
+      "id": "R1001713",
+      "title": "Full-Stack Engineer 5",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-5_R1001713-1",
+      "postedAt": "2026-10-29T21:50:20.304Z",
+      "key": "Capital One:R1001713",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T21:50:16.795Z"
+    },
+    {
+      "id": "33b9f4ae-3be8-4a00-8548-8a00c276fd88",
+      "title": "Developer Success Engineer",
+      "location": "San Francisco",
+      "team": "Developer Success",
+      "url": "https://jobs.ashbyhq.com/inngest/33b9f4ae-3be8-4a00-8548-8a00c276fd88",
+      "postedAt": "2026-10-29T21:43:32.840Z",
+      "key": "inngest:33b9f4ae-3be8-4a00-8548-8a00c276fd88",
+      "company": "Inngest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T21:50:16.795Z"
+    },
     {
       "id": "R_107104",
       "title": "Security Engineer II, Corporate Security",
@@ -7504,22 +7569,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T17:50:18.583Z"
-    },
-    {
-      "id": "4748567005",
-      "title": "Software Engineer, University Grad",
-      "location": "Mountain View, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
-      "postedAt": "2026-10-28T17:22:26.000Z",
-      "key": "gleanwork:4748567005",
-      "company": "Glean",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T17:30:28.041Z"
     },
     {
       "id": "b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
@@ -10702,28 +10751,6 @@
       "company": "Capital One",
       "level": "experienced",
       "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T19:30:22.500Z"
-    },
-    {
-      "id": "4747670005",
-      "title": "Software Engineer, Intern (Summer 2027)",
-      "location": "Mountain View, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005",
-      "postedAt": "2026-10-26T19:26:35.000Z",
-      "key": "gleanwork:4747670005",
-      "company": "Glean",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
       "regions": [
         "us"
       ],
@@ -41316,22 +41343,6 @@
       "postedAt": "2026-09-29T15:30:23.811Z",
       "key": "Capital One:R1001649",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T15:30:20.342Z"
-    },
-    {
-      "id": "b3fab313-f31f-44b6-8c32-222084f93259",
-      "title": "Frontend Software Engineer– Cortex AI Apps  ",
-      "location": "US-CA-Menlo Park",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/b3fab313-f31f-44b6-8c32-222084f93259",
-      "postedAt": "2026-09-29T15:20:39.861Z",
-      "key": "snowflake:b3fab313-f31f-44b6-8c32-222084f93259",
-      "company": "Snowflake",
       "level": "experienced",
       "term": null,
       "regions": [
