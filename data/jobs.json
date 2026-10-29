@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-29T16:20:23.532Z",
+  "generatedAt": "2026-10-29T16:30:23.259Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "edra:728ad13b-088a-43a0-82bd-b158b16d7bec"
+    "databricks:8923831002",
+    "lyft:8921760002",
+    "okta:8319274"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 25,
-    "experienced": 2102
+    "experienced": 2105
   },
   "companies": [
     {
@@ -1292,7 +1294,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2846,7 +2848,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -2950,10 +2952,10 @@
     },
     {
       "name": "Meesho",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Melio",
@@ -3469,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8923831002",
+      "title": "Staff Machine Learning Engineer, CustomerLake (ML/LLM)",
+      "location": "New York City, New York",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002",
+      "postedAt": "2026-10-29T16:26:03.000Z",
+      "key": "databricks:8923831002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T16:30:23.259Z"
+    },
+    {
+      "id": "8921760002",
+      "title": "Engineering Manager, Developer Environments",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8921760002?gh_jid=8921760002",
+      "postedAt": "2026-10-29T16:23:03.000Z",
+      "key": "lyft:8921760002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T16:30:23.259Z"
+    },
     {
       "id": "728ad13b-088a-43a0-82bd-b158b16d7bec",
       "title": "AI Research Engineer (New York)",
@@ -11235,6 +11269,22 @@
         "canada"
       ],
       "firstSeen": "2026-10-23T22:30:23.241Z"
+    },
+    {
+      "id": "8319274",
+      "title": "Sr. Software Engineer, AI Platform & Infrastructure",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8319274?gh_jid=8319274",
+      "postedAt": "2026-10-23T22:29:17.000Z",
+      "key": "okta:8319274",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T16:30:23.259Z"
     },
     {
       "id": "8319602",
