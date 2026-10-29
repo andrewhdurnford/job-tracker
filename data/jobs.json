@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T16:40:17.715Z",
+  "generatedAt": "2026-10-29T16:50:17.974Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "pinterest:8046838",
-    "zscaler:5279376007"
+    "Remitly:R_107119",
+    "zscaler:5279380007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -2876,7 +2876,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3259,10 +3259,10 @@
     },
     {
       "name": "Neighbor",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Neo4j",
@@ -4135,7 +4135,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 78,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5024,7 +5024,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -5689,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107119",
+      "title": "Software Development Engineer II (SDE2), Trust Experience",
+      "location": "Burnaby, British Columbia, Canada",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Software-Development-Engineer-II--SDE2---Trust-Experience_R_107119",
+      "postedAt": "2026-10-29T16:50:21.869Z",
+      "key": "Remitly:R_107119",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-29T16:50:17.974Z"
+    },
+    {
+      "id": "5279380007",
+      "title": "Sr Staff Software Engineer (Layer 7 Security & Proxy)",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5279380007",
+      "postedAt": "2026-10-29T16:41:10.000Z",
+      "key": "zscaler:5279380007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-29T16:50:17.974Z"
+    },
     {
       "id": "5279376007",
       "title": "Principal Software Development Engineer (Layer 7 Security & Proxy)",
@@ -7749,7 +7781,7 @@
     {
       "id": "040d7828-d53b-4a0b-8782-812d27fb3483",
       "title": "Audio Systems Engineer",
-      "location": "San Francisco",
+      "location": "San Francisco (+1 more)",
       "team": "Audio",
       "url": "https://jobs.ashbyhq.com/sesame/040d7828-d53b-4a0b-8782-812d27fb3483",
       "postedAt": "2026-10-27T22:47:10.426Z",
@@ -14981,7 +15013,7 @@
     },
     {
       "id": "5ef10e09-2b3f-41de-b77c-829787302101",
-      "title": "Research Scientist / Research Engineer, Search Integrity",
+      "title": "Research Scientist / Research Engineer, Safety + Alignment, Search",
       "location": "San Francisco",
       "team": "Foundations",
       "url": "https://jobs.ashbyhq.com/openai/5ef10e09-2b3f-41de-b77c-829787302101",
@@ -19862,7 +19894,7 @@
       "id": "0b0240a5-9928-42f5-8feb-73ff8d2864f5",
       "title": "Staff Engineer, Aircraft Configuration Design - Ranger (R6298)",
       "location": "Seattle, Washington",
-      "team": "X-BAT Engineering - Configuration Design",
+      "team": "Ranger Eng - Config Design",
       "url": "https://jobs.lever.co/shieldai/0b0240a5-9928-42f5-8feb-73ff8d2864f5",
       "postedAt": "2026-10-17T02:04:47.164Z",
       "key": "shieldai:0b0240a5-9928-42f5-8feb-73ff8d2864f5",
@@ -41451,38 +41483,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T17:00:25.140Z"
-    },
-    {
-      "id": "81cc8698-59f8-418a-85fd-1fc154b33ee4",
-      "title": "Software Engineer II, Open Source Server",
-      "location": "United States (Remote) (+2 more)",
-      "team": "Open Source Server",
-      "url": "https://jobs.ashbyhq.com/temporal/81cc8698-59f8-418a-85fd-1fc154b33ee4",
-      "postedAt": "2026-09-29T16:50:12.148Z",
-      "key": "temporal:81cc8698-59f8-418a-85fd-1fc154b33ee4",
-      "company": "Temporal",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T17:00:25.140Z"
-    },
-    {
-      "id": "8211704",
-      "title": "Senior Software Engineer, Fleet Response Efficiency & Optimization",
-      "location": "Mountain View ; CA San Francisco, CA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8211704",
-      "postedAt": "2026-09-29T16:47:21.000Z",
-      "key": "waymo:8211704",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-29T16:50:21.534Z"
     },
     {
       "id": "JR2023255",
