@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-10-30T19:20:22.430Z",
+  "generatedAt": "2026-10-30T19:30:23.638Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "1password:b9ff2259-517c-4ec2-b92f-646be8bf12b6",
-    "ServiceTitan:JR115243",
-    "suno:9401ddbc-f1df-429c-ab35-9d3485e02785"
+    "coinbase:8337715",
+    "flexport:8337254",
+    "flexport:8337256",
+    "nubank:8eded9f1-abca-47a3-89a9-772bf3e3d5e9"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 26,
-    "experienced": 2067
+    "experienced": 2070
   },
   "companies": [
     {
@@ -595,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -938,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1056,7 +1057,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -1819,7 +1820,7 @@
     {
       "name": "Flexport",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3401,7 +3402,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3471,7 +3472,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -3645,10 +3646,10 @@
     },
     {
       "name": "Pendulum",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pennylane",
@@ -5675,10 +5676,10 @@
     },
     {
       "name": "Zippi",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zoom",
@@ -5703,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8eded9f1-abca-47a3-89a9-772bf3e3d5e9",
+      "title": "Senior Staff Software Engineer - Money Boxes",
+      "location": "Toronto",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/8eded9f1-abca-47a3-89a9-772bf3e3d5e9",
+      "postedAt": "2026-10-30T19:25:38.573Z",
+      "key": "nubank:8eded9f1-abca-47a3-89a9-772bf3e3d5e9",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-30T19:30:23.638Z"
+    },
+    {
+      "id": "8337256",
+      "title": "Senior IT Systems Engineer ",
+      "location": "U.S. Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8337256",
+      "postedAt": "2026-10-30T19:23:56.000Z",
+      "key": "flexport:8337256",
+      "company": "Flexport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T19:30:23.638Z"
+    },
+    {
+      "id": "8337254",
+      "title": "Senior IT Systems Engineer ",
+      "location": "Bellevue, Washington, United States; San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/flexport/jobs/8337254",
+      "postedAt": "2026-10-30T19:23:54.000Z",
+      "key": "flexport:8337254",
+      "company": "Flexport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T19:30:23.638Z"
+    },
+    {
+      "id": "8337715",
+      "title": "Senior Software Engineer, Tax Engineering",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8337715?gh_jid=8337715",
+      "postedAt": "2026-10-30T19:22:50.000Z",
+      "key": "coinbase:8337715",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-30T19:30:23.638Z"
+    },
     {
       "id": "JR115243",
       "title": "Senior Director, Software Engineering",
@@ -11298,7 +11363,7 @@
     },
     {
       "id": "ed8ab178-e7a4-4524-8714-7ef55d574c7d",
-      "title": "Software Engineer, Storage Systems (Agent Infra)",
+      "title": "Software Engineer - Storage Systems (Agent Infra)",
       "location": "San Francisco (+1 more)",
       "team": "Agent Infra",
       "url": "https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d",
@@ -11330,7 +11395,7 @@
     },
     {
       "id": "d7e9ee32-dee8-459f-9d8a-538d65df51ae",
-      "title": "Software Engineer, Networking (Agent Infra)",
+      "title": "Software Engineer - Networking (Agent Infra)",
       "location": "San Francisco (+1 more)",
       "team": "Agent Infra",
       "url": "https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae",
@@ -11346,7 +11411,7 @@
     },
     {
       "id": "7c0ba27d-2f09-42f2-9277-1b756076b00b",
-      "title": "Software Engineer, Compute and Isolation",
+      "title": "Software Engineer - Compute and Isolation",
       "location": "San Francisco (+1 more)",
       "team": "Agent Infra",
       "url": "https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b",
@@ -40713,22 +40778,6 @@
       "postedAt": "2026-09-30T19:30:27.361Z",
       "key": "Capital One:R1002657",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T19:30:23.668Z"
-    },
-    {
-      "id": "8243997",
-      "title": "Staff Software Engineer",
-      "location": "San Francisco, California",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8243997?gh_jid=8243997",
-      "postedAt": "2026-09-30T19:25:24.000Z",
-      "key": "okta:8243997",
-      "company": "Okta",
       "level": "experienced",
       "term": null,
       "regions": [
