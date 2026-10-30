@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T02:20:18.050Z",
+  "generatedAt": "2026-10-30T02:30:23.174Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 24,
-    "experienced": 2088
+    "experienced": 2087
   },
   "companies": [
     {
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3467,7 +3467,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 74,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -40993,22 +40993,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T03:20:14.988Z"
-    },
-    {
-      "id": "8201589",
-      "title": "Senior Developer Support Engineer - Builder Experience (BX)",
-      "location": "Toronto, Ontario, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8201589?gh_jid=8201589",
-      "postedAt": "2026-09-30T02:29:51.000Z",
-      "key": "okta:8201589",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-30T02:30:21.133Z"
     },
     {
       "id": "R1002276",
