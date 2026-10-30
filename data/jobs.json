@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:40:18.506Z",
+  "generatedAt": "2026-10-30T00:50:19.925Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2656,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 74,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -21455,7 +21455,7 @@
     {
       "id": "8881929002",
       "title": "Staff Software Engineer, On-Prem",
-      "location": "Remote, Canada or Remote, United States",
+      "location": "Canada (Remote) or United States (Remote) or  Mexico City, Mexico (Hybrid)",
       "team": null,
       "url": "http://www.circleci.com/careers/jobs/8881929002/?gh_jid=8881929002",
       "postedAt": "2026-10-16T17:30:30.000Z",
@@ -21520,7 +21520,7 @@
     {
       "id": "8881777002",
       "title": "Senior Software Engineer, Query",
-      "location": "Remote, Canada or Remote, United States",
+      "location": "Canada (Remote), United States (Remote), United Kingdom (Remote) Mexico City, Mexico - Hybrid",
       "team": null,
       "url": "http://www.circleci.com/careers/jobs/8881777002/?gh_jid=8881777002",
       "postedAt": "2026-10-16T17:26:53.000Z",
@@ -21529,8 +21529,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us",
-        "canada"
+        "us"
       ],
       "firstSeen": "2026-10-16T17:30:20.734Z"
     },
