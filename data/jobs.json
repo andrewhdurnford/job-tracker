@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-30T11:50:25.569Z",
+  "generatedAt": "2026-10-30T12:00:28.709Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R1004487",
+    "intercom:8333690"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 24,
-    "experienced": 2062
+    "experienced": 2064
   },
   "companies": [
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 170,
+      "jobCount": 171,
       "error": null,
       "stale": false
     },
@@ -2424,7 +2427,7 @@
     {
       "name": "Intercom",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4467,10 +4470,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 41,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Shiru",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004487",
+      "title": "Full Stack Engineer - 4  (Java, JavaScript, TypeScript, AWS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer---4---Java--JavaScript--TypeScript--AWS-_R1004487-1",
+      "postedAt": "2026-10-30T12:00:31.074Z",
+      "key": "Capital One:R1004487",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T12:00:28.709Z"
+    },
+    {
+      "id": "8333690",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8333690",
+      "postedAt": "2026-10-30T11:51:29.000Z",
+      "key": "intercom:8333690",
+      "company": "Intercom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T12:00:28.709Z"
+    },
     {
       "id": "R1003763",
       "title": "Full-stack Engineer 4",
