@@ -1,14 +1,12 @@
 {
-  "generatedAt": "2026-10-30T16:20:19.533Z",
+  "generatedAt": "2026-10-30T16:30:27.166Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R247320",
-    "stripe:8330131",
-    "stripe:8333074",
-    "stripe:8333122",
-    "stripe:8328662",
-    "stripe:8328664"
+    "affirm:8057948003",
+    "affirm:8057950003",
+    "Capital One:R1004883",
+    "spacex:8907587002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +15,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 26,
-    "experienced": 2049
+    "experienced": 2050
   },
   "companies": [
     {
@@ -86,7 +84,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 51,
+      "jobCount": 53,
       "error": null,
       "stale": false
     },
@@ -598,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -681,7 +679,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -793,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 171,
+      "jobCount": 172,
       "error": null,
       "stale": false
     },
@@ -1542,7 +1540,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -3635,7 +3633,7 @@
     {
       "name": "Peloton",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4699,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 74,
+      "jobCount": 75,
       "error": null,
       "stale": false
     },
@@ -5707,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "R1004883",
+      "title": "Site Reliability Engineer 5",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Site-Reliability-Engineer-5_R1004883-1",
+      "postedAt": "2026-10-30T16:30:30.671Z",
+      "key": "Capital One:R1004883",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T16:30:27.166Z"
+    },
+    {
+      "id": "8057950003",
+      "title": "Senior Staff Software Engineer, Backend (Compute Platform)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8057950003",
+      "postedAt": "2026-10-30T16:25:16.000Z",
+      "key": "affirm:8057950003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-30T16:30:27.166Z"
+    },
+    {
+      "id": "8057948003",
+      "title": "Senior Staff Software Engineer, Backend (Compute Platform)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8057948003",
+      "postedAt": "2026-10-30T16:25:14.000Z",
+      "key": "affirm:8057948003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T16:30:27.166Z"
+    },
+    {
       "id": "R247320",
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "location": "Toronto, ON",
@@ -6512,22 +6558,6 @@
       "postedAt": "2026-10-29T21:34:42.000Z",
       "key": "zscaler:5242488007",
       "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T21:40:18.608Z"
-    },
-    {
-      "id": "8318475",
-      "title": "Software Engineer III, Kubernetes",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318475",
-      "postedAt": "2026-10-29T21:31:24.000Z",
-      "key": "boxinc:8318475",
-      "company": "Box",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -10576,6 +10606,22 @@
         "us"
       ],
       "firstSeen": "2026-10-27T07:00:26.528Z"
+    },
+    {
+      "id": "8907587002",
+      "title": "Maintenance Engineering Manager (Power Plant)",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8907587002?gh_jid=8907587002",
+      "postedAt": "2026-10-27T05:23:59.000Z",
+      "key": "spacex:8907587002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T16:30:27.166Z"
     },
     {
       "id": "52e98603-8302-4bf1-9bdb-6ab829c8e701",
@@ -19164,22 +19210,6 @@
       "url": "https://jobs.ashbyhq.com/elevenlabs/9fbd9227-57e0-4221-9255-1a1d967be8ed",
       "postedAt": "2026-10-19T23:14:29.196Z",
       "key": "elevenlabs:9fbd9227-57e0-4221-9255-1a1d967be8ed",
-      "company": "ElevenLabs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T23:20:16.911Z"
-    },
-    {
-      "id": "120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
-      "title": "HPC Infrastructure Engineer - GPU Clusters",
-      "location": "United States (+3 more)",
-      "team": "Research Engineering",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
-      "postedAt": "2026-10-19T23:13:41.065Z",
-      "key": "elevenlabs:120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
       "company": "ElevenLabs",
       "level": "experienced",
       "term": null,
@@ -40613,22 +40643,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T16:40:15.915Z"
-    },
-    {
-      "id": "8223452",
-      "title": "Senior Backend Software Engineer (E-Commerce)",
-      "location": "New York, New York",
-      "team": null,
-      "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8223452",
-      "postedAt": "2026-09-30T16:28:04.000Z",
-      "key": "peloton:8223452",
-      "company": "Peloton",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T16:30:19.652Z"
     },
     {
       "id": "6212021004",
