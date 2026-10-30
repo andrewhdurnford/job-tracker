@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-10-30T15:40:18.835Z",
+  "generatedAt": "2026-10-30T15:50:18.525Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1004571"
+    "CrowdStrike:R30047",
+    "fastly:8334023"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 149,
     "new-grad": 24,
-    "experienced": 2054
+    "experienced": 2051
   },
   "companies": [
     {
@@ -1243,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -1691,7 +1692,7 @@
     {
       "name": "Fastly",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2531,7 +2532,7 @@
     {
       "name": "Justworks",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3420,7 +3421,7 @@
     {
       "name": "NUVACORE",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3469,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8334023",
+      "title": "Senior Software Engineer, Edge Security",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8334023",
+      "postedAt": "2026-10-30T15:42:05.000Z",
+      "key": "fastly:8334023",
+      "company": "Fastly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T15:50:18.525Z"
+    },
     {
       "id": "R1004571",
       "title": "Full-stack Engineer 4",
@@ -11599,6 +11616,22 @@
         "us"
       ],
       "firstSeen": "2026-10-26T16:20:23.072Z"
+    },
+    {
+      "id": "R30047",
+      "title": "Engineering Manager, Infrastructure (Remote)",
+      "location": "USA - Remote, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Engineering-Manager--Infrastructure--Remote-_R30047",
+      "postedAt": "2026-10-26T15:50:23.912Z",
+      "key": "CrowdStrike:R30047",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T15:50:18.525Z"
     },
     {
       "id": "a2463ea0-6585-429c-95f2-10dc4a8cdae8",
@@ -40541,87 +40574,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T16:00:25.482Z"
-    },
-    {
-      "id": "8243158",
-      "title": "Staff Software Engineer",
-      "location": "Toronto, Ontario, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8243158?gh_jid=8243158",
-      "postedAt": "2026-09-30T15:48:18.000Z",
-      "key": "okta:8243158",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-30T15:50:17.507Z"
-    },
-    {
-      "id": "9f9af971-46a1-40cc-b7e3-d78fbb92ae4b",
-      "title": "Compiler and ToolChain Engineer",
-      "location": "United States (+1 more)",
-      "team": "SOFTWARE",
-      "url": "https://jobs.lever.co/nuvacore/9f9af971-46a1-40cc-b7e3-d78fbb92ae4b",
-      "postedAt": "2026-09-30T15:47:33.530Z",
-      "key": "nuvacore:9f9af971-46a1-40cc-b7e3-d78fbb92ae4b",
-      "company": "NUVACORE",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-09-30T15:50:17.507Z"
-    },
-    {
-      "id": "8243174",
-      "title": "Senior Software Engineer",
-      "location": "Toronto, Ontario, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8243174?gh_jid=8243174",
-      "postedAt": "2026-09-30T15:45:27.000Z",
-      "key": "okta:8243174",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-30T15:50:17.507Z"
-    },
-    {
-      "id": "8236883",
-      "title": "Senior Data Scientist - Applied ML",
-      "location": "New York, New York",
-      "team": null,
-      "url": "https://boards.greenhouse.io/justworks/jobs/8236883?gh_jid=8236883",
-      "postedAt": "2026-09-30T15:44:33.000Z",
-      "key": "justworks:8236883",
-      "company": "Justworks",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T15:50:17.507Z"
-    },
-    {
-      "id": "8243124",
-      "title": "Staff Software Engineer",
-      "location": "San Francisco, California",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8243124?gh_jid=8243124",
-      "postedAt": "2026-09-30T15:44:28.000Z",
-      "key": "okta:8243124",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T15:50:17.507Z"
     },
     {
       "id": "R1002521",
