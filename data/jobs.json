@@ -1,18 +1,22 @@
 {
-  "generatedAt": "2026-10-30T16:10:19.204Z",
+  "generatedAt": "2026-10-30T16:20:19.533Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "roblox:8315883",
-    "xai:5279894007"
+    "Capital One:R247320",
+    "stripe:8330131",
+    "stripe:8333074",
+    "stripe:8333122",
+    "stripe:8328662",
+    "stripe:8328664"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 149,
-    "new-grad": 25,
+    "intern": 153,
+    "new-grad": 26,
     "experienced": 2049
   },
   "companies": [
@@ -789,7 +793,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 170,
+      "jobCount": 171,
       "error": null,
       "stale": false
     },
@@ -937,7 +941,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1300,7 +1304,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4800,7 +4804,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5706,102 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R247320",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320",
+      "postedAt": "2026-10-30T16:20:23.047Z",
+      "key": "Capital One:R247320",
+      "company": "Capital One",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-30T16:20:19.533Z"
+    },
+    {
+      "id": "8328662",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "location": "San Francisco, New York City, Seattle",
+      "team": "5112 General University",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+      "postedAt": "2026-10-30T16:19:28.000Z",
+      "key": "stripe:8328662",
+      "company": "Stripe",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T16:20:19.533Z"
+    },
+    {
+      "id": "8333074",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "location": "San Francisco, New York City, Seattle",
+      "team": "5112 General University",
+      "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+      "postedAt": "2026-10-30T16:19:26.000Z",
+      "key": "stripe:8333074",
+      "company": "Stripe",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T16:20:19.533Z"
+    },
+    {
+      "id": "8328664",
+      "title": "PhD Machine Learning Engineer, Intern",
+      "location": "Toronto",
+      "team": "5112 General University",
+      "url": "https://stripe.com/jobs/search?gh_jid=8328664",
+      "postedAt": "2026-10-30T16:19:24.000Z",
+      "key": "stripe:8328664",
+      "company": "Stripe",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-30T16:20:19.533Z"
+    },
+    {
+      "id": "8333122",
+      "title": "Master's Machine Learning Engineer, Intern",
+      "location": "Toronto",
+      "team": "5112 General University",
+      "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+      "postedAt": "2026-10-30T16:19:21.000Z",
+      "key": "stripe:8333122",
+      "company": "Stripe",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-30T16:20:19.533Z"
+    },
+    {
+      "id": "8330131",
+      "title": "Engineering Manager, Commerce Systems",
+      "location": "US",
+      "team": "8121 Commerce Systems",
+      "url": "https://stripe.com/jobs/search?gh_jid=8330131",
+      "postedAt": "2026-10-30T16:11:22.000Z",
+      "key": "stripe:8330131",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T16:20:19.533Z"
+    },
     {
       "id": "5279894007",
       "title": "Operation & Maintenance Engineer (Power Plant) - Memphis",
@@ -18787,7 +18887,7 @@
     {
       "id": "dc722822-ddf7-4932-aee1-1f4f9becae2c",
       "title": "Developer Advocate - Volcano",
-      "location": "United States",
+      "location": "San Francisco, California, United States",
       "team": "OCTO",
       "url": "https://jobs.ashbyhq.com/kong/dc722822-ddf7-4932-aee1-1f4f9becae2c",
       "postedAt": "2026-10-20T11:54:35.685Z",
@@ -21175,22 +21275,6 @@
         "us"
       ],
       "firstSeen": "2026-10-16T21:50:16.105Z"
-    },
-    {
-      "id": "8292699",
-      "title": "Senior Security Engineer - Platform Trust & Safety",
-      "location": "New York, New York, USA",
-      "team": null,
-      "url": "https://careers.datadoghq.com/detail/8292699/?gh_jid=8292699",
-      "postedAt": "2026-10-16T21:11:50.000Z",
-      "key": "datadog:8292699",
-      "company": "Datadog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T14:00:28.830Z"
     },
     {
       "id": "JR2016777",
