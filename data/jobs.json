@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-10-30T14:40:19.642Z",
+  "generatedAt": "2026-10-30T14:50:19.190Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "CrowdStrike:R29100"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -617,10 +619,10 @@
     },
     {
       "name": "Bloom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Blueberry Pediatrics",
@@ -1241,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -3628,7 +3630,7 @@
     {
       "name": "Peloton",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -13196,22 +13198,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T16:20:18.831Z"
-    },
-    {
-      "id": "8304455",
-      "title": "Sr. Data Scientist",
-      "location": "New York, New York",
-      "team": null,
-      "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8304455",
-      "postedAt": "2026-10-23T15:46:49.000Z",
-      "key": "peloton:8304455",
-      "company": "Peloton",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T15:50:20.192Z"
     },
     {
       "id": "JR2023503",
@@ -32639,6 +32625,22 @@
         "remote"
       ],
       "firstSeen": "2026-10-07T15:00:28.566Z"
+    },
+    {
+      "id": "R29100",
+      "title": "Sr. Software Engineer - Cloud - Risk Analytics (Hybrid)",
+      "location": "USA - New York, NY",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---New-York-NY/Sr-Engineer-Cloud--Remote-_R29100",
+      "postedAt": "2026-10-07T14:50:30.959Z",
+      "key": "CrowdStrike:R29100",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T14:50:19.190Z"
     },
     {
       "id": "8260985",
