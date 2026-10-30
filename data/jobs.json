@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-10-30T12:10:22.954Z",
+  "generatedAt": "2026-10-30T12:20:19.427Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "intercom:8333679"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1144,10 +1142,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Conveo",
@@ -1746,10 +1744,10 @@
     },
     {
       "name": "Fintual",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Finvest",
@@ -3771,7 +3769,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4828,7 +4826,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
