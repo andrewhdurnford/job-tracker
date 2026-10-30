@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-10-30T16:30:27.166Z",
+  "generatedAt": "2026-10-30T16:40:18.949Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "affirm:8057948003",
-    "affirm:8057950003",
-    "Capital One:R1004883",
-    "spacex:8907587002"
+    "snowflake:67057ad9-3f52-4f54-80c6-20a1ea026db4"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 26,
-    "experienced": 2050
+    "experienced": 2049
   },
   "companies": [
     {
@@ -1246,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -3430,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 162,
+      "jobCount": 161,
       "error": null,
       "stale": false
     },
@@ -4641,7 +4638,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 75,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5095,10 +5092,10 @@
     },
     {
       "name": "Tilt",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Titan",
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "67057ad9-3f52-4f54-80c6-20a1ea026db4",
+      "title": "Staff Software Engineer - Metadata",
+      "location": "US-WA-Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/67057ad9-3f52-4f54-80c6-20a1ea026db4",
+      "postedAt": "2026-10-30T16:34:26.649Z",
+      "key": "snowflake:67057ad9-3f52-4f54-80c6-20a1ea026db4",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T16:40:18.949Z"
+    },
     {
       "id": "R1004883",
       "title": "Site Reliability Engineer 5",
@@ -10848,22 +10861,6 @@
       "firstSeen": "2026-10-28T23:30:21.098Z"
     },
     {
-      "id": "R29787",
-      "title": "Sr. Engineer, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
-      "location": "USA - Sunnyvale, CA",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer-II--Cloud-Native---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29787",
-      "postedAt": "2026-10-26T23:30:27.250Z",
-      "key": "CrowdStrike:R29787",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T23:30:22.475Z"
-    },
-    {
       "id": "8428825b-a10f-47e2-acc6-5e24d11d6137",
       "title": "Full-Stack Engineer - Enterprise",
       "location": "San Francisco",
@@ -12703,22 +12700,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T22:00:29.027Z"
-    },
-    {
-      "id": "JR2028454",
-      "title": "Senior System Software Engineer, Automotive Performance",
-      "location": "US, CA, Remote",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-System-Software-Engineer--Automotive-Performance_JR2028454",
-      "postedAt": "2026-10-23T21:50:20.852Z",
-      "key": "Nvidia:JR2028454",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T21:50:16.593Z"
     },
     {
       "id": "7c32ac1e-3de3-462b-aa17-7618317f0da0",
