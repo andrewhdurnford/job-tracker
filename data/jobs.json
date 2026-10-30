@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-10-30T14:10:18.248Z",
+  "generatedAt": "2026-10-30T14:30:23.142Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "mirage:d8528add-5d9f-4cac-9b0a-caf7c99d48ca",
+    "mirage:2a113ad8-45b6-4c9e-aa01-3c3e2b884321",
+    "mirage:312108e7-559d-4e25-909c-df039d765d20",
+    "mirage:08ca24dc-4527-4d40-9952-723474b20ce3"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 24,
-    "experienced": 2063
+    "experienced": 2060
   },
   "companies": [
     {
@@ -591,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -757,10 +762,10 @@
     },
     {
       "name": "Canary Technologies",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Candid Health",
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 171,
+      "jobCount": 169,
       "error": null,
       "stale": false
     },
@@ -934,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1891,10 +1896,10 @@
     },
     {
       "name": "Freshworks",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Fulcrum",
@@ -2031,10 +2036,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -2061,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2948,10 +2953,10 @@
     },
     {
       "name": "Meesho",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Melio",
@@ -3837,10 +3842,10 @@
     },
     {
       "name": "PostEra",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Postman",
@@ -4104,7 +4109,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "08ca24dc-4527-4d40-9952-723474b20ce3",
+      "title": "Software Engineer, Photoreal 3D",
+      "location": "Union Square, New York City",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mirage/08ca24dc-4527-4d40-9952-723474b20ce3",
+      "postedAt": "2026-10-30T14:22:35.854Z",
+      "key": "mirage:08ca24dc-4527-4d40-9952-723474b20ce3",
+      "company": "Mirage",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T14:30:23.142Z"
+    },
+    {
+      "id": "312108e7-559d-4e25-909c-df039d765d20",
+      "title": "Software Engineer, iOS",
+      "location": "Union Square, New York City",
+      "team": "iOS ",
+      "url": "https://jobs.ashbyhq.com/mirage/312108e7-559d-4e25-909c-df039d765d20",
+      "postedAt": "2026-10-30T14:21:27.921Z",
+      "key": "mirage:312108e7-559d-4e25-909c-df039d765d20",
+      "company": "Mirage",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T14:30:23.142Z"
+    },
+    {
+      "id": "2a113ad8-45b6-4c9e-aa01-3c3e2b884321",
+      "title": "Software Engineer, Agents ",
+      "location": "Union Square, New York City",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/mirage/2a113ad8-45b6-4c9e-aa01-3c3e2b884321",
+      "postedAt": "2026-10-30T14:21:02.497Z",
+      "key": "mirage:2a113ad8-45b6-4c9e-aa01-3c3e2b884321",
+      "company": "Mirage",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T14:30:23.142Z"
+    },
+    {
+      "id": "d8528add-5d9f-4cac-9b0a-caf7c99d48ca",
+      "title": "Software Engineer, Backend ",
+      "location": "Union Square, New York City",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/mirage/d8528add-5d9f-4cac-9b0a-caf7c99d48ca",
+      "postedAt": "2026-10-30T14:20:43.373Z",
+      "key": "mirage:d8528add-5d9f-4cac-9b0a-caf7c99d48ca",
+      "company": "Mirage",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T14:30:23.142Z"
+    },
     {
       "id": "cf003594-4b16-49ae-9dfb-b1c9aadf42b9",
       "title": "Principal Software Engineer, Growth ",
@@ -13070,22 +13139,6 @@
       "firstSeen": "2026-10-23T16:50:18.337Z"
     },
     {
-      "id": "6fc84af9-2c9f-4814-88b3-9f60afd924a5",
-      "title": "Software Engineer, 3D Rendering",
-      "location": "Union Square, New York City",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mirage/6fc84af9-2c9f-4814-88b3-9f60afd924a5",
-      "postedAt": "2026-10-23T16:38:54.790Z",
-      "key": "mirage:6fc84af9-2c9f-4814-88b3-9f60afd924a5",
-      "company": "Mirage",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T16:40:17.427Z"
-    },
-    {
       "id": "8258589",
       "title": "Staff Machine Learning Engineer",
       "location": "Remote - Ontario, Canada (DNU)",
@@ -18500,54 +18553,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T14:50:18.479Z"
-    },
-    {
-      "id": "ea041e05-bd6b-481c-9cd2-21e31460255b",
-      "title": "Software Engineer, iOS",
-      "location": "Union Square, New York City",
-      "team": "iOS ",
-      "url": "https://jobs.ashbyhq.com/mirage/ea041e05-bd6b-481c-9cd2-21e31460255b",
-      "postedAt": "2026-10-20T14:16:09.873Z",
-      "key": "mirage:ea041e05-bd6b-481c-9cd2-21e31460255b",
-      "company": "Mirage",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T14:20:16.693Z"
-    },
-    {
-      "id": "90f94252-d48f-41a8-b0a5-066f48552083",
-      "title": "Software Engineer, Agents ",
-      "location": "Union Square, New York City",
-      "team": "Backend",
-      "url": "https://jobs.ashbyhq.com/mirage/90f94252-d48f-41a8-b0a5-066f48552083",
-      "postedAt": "2026-10-20T14:13:35.517Z",
-      "key": "mirage:90f94252-d48f-41a8-b0a5-066f48552083",
-      "company": "Mirage",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T14:20:16.693Z"
-    },
-    {
-      "id": "0d823573-16d7-4b05-915b-e6e5fe7cfb12",
-      "title": "Software Engineer, Backend ",
-      "location": "Union Square, New York City",
-      "team": "Backend",
-      "url": "https://jobs.ashbyhq.com/mirage/0d823573-16d7-4b05-915b-e6e5fe7cfb12",
-      "postedAt": "2026-10-20T14:13:08.481Z",
-      "key": "mirage:0d823573-16d7-4b05-915b-e6e5fe7cfb12",
-      "company": "Mirage",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T14:20:16.693Z"
     },
     {
       "id": "30540",
@@ -29233,22 +29238,6 @@
       "firstSeen": "2026-10-09T18:40:18.602Z"
     },
     {
-      "id": "R1003156",
-      "title": "Front-end Engineer 5",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Front-end-Engineer-5_R1003156-1",
-      "postedAt": "2026-10-09T18:30:23.819Z",
-      "key": "Capital One:R1003156",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-09T18:30:20.725Z"
-    },
-    {
       "id": "5d1cf6ea-c2c4-491a-b19a-ab95767c0d4b",
       "title": "Senior Analytics Engineer",
       "location": "United States (Remote)",
@@ -32654,22 +32643,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T15:30:19.915Z"
-    },
-    {
-      "id": "R1001286",
-      "title": "Full-Stack Engineer 4 (Python, Java, AWS)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Python--Java--AWS-_R1001286",
-      "postedAt": "2026-10-07T15:00:32.244Z",
-      "key": "Capital One:R1001286",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T15:00:28.566Z"
     },
     {
       "id": "5445625008",
@@ -40769,22 +40742,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T15:00:27.889Z"
-    },
-    {
-      "id": "8243010",
-      "title": "Senior Staff Machine Learning Engineer, ML Understanding",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8243010",
-      "postedAt": "2026-09-30T14:22:33.000Z",
-      "key": "reddit:8243010",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T14:30:22.444Z"
     },
     {
       "id": "R1002600",
