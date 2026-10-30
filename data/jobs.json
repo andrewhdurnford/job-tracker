@@ -1,13 +1,9 @@
 {
-  "generatedAt": "2026-10-30T18:50:19.603Z",
+  "generatedAt": "2026-10-30T19:00:28.334Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "akunacapital:8258666",
-    "cloudflare:8243201",
-    "sofi:8089614003",
-    "sofi:8089606003",
-    "sofi:8089599003"
+    "okta:8332602"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +12,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 26,
-    "experienced": 2069
+    "experienced": 2067
   },
   "companies": [
     {
@@ -597,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -940,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1212,7 +1208,7 @@
     {
       "name": "Coursera",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2150,7 +2146,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3473,7 +3469,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -4663,7 +4659,7 @@
     {
       "name": "SoFi",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "8332602",
+      "title": "Security Architect - U.S. Public Sector",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8332602?gh_jid=8332602",
+      "postedAt": "2026-10-30T18:52:48.000Z",
+      "key": "okta:8332602",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T19:00:28.334Z"
+    },
+    {
       "id": "8089599003",
       "title": "Staff Software Engineer, AI Developer Experience",
       "location": "CA - San Francisco; WA - Seattle",
@@ -5729,22 +5741,6 @@
       "url": "https://sofi.com/careers/job/8089606003?gh_jid=8089606003",
       "postedAt": "2026-10-30T18:48:05.000Z",
       "key": "sofi:8089606003",
-      "company": "SoFi",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T18:50:19.603Z"
-    },
-    {
-      "id": "8089614003",
-      "title": "Senior Engineering Manager, AI Platform Engineering",
-      "location": "CA - San Francisco; WA - Seattle",
-      "team": null,
-      "url": "https://sofi.com/careers/job/8089614003?gh_jid=8089614003",
-      "postedAt": "2026-10-30T18:48:01.000Z",
-      "key": "sofi:8089614003",
       "company": "SoFi",
       "level": "experienced",
       "term": null,
@@ -40769,38 +40765,6 @@
         "canada"
       ],
       "firstSeen": "2026-09-30T19:10:14.999Z"
-    },
-    {
-      "id": "6211197004",
-      "title": "Senior Software Developer, BE",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/coursera/jobs/6211197004",
-      "postedAt": "2026-09-30T18:55:09.000Z",
-      "key": "coursera:6211197004",
-      "company": "Coursera",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-30T19:00:31.216Z"
-    },
-    {
-      "id": "f911a2db-f80c-478c-b0d8-e62e9a6f1627",
-      "title": "Data Scientist, Handshake AI",
-      "location": "San Francisco, CA",
-      "team": "HAI Engineering",
-      "url": "https://jobs.ashbyhq.com/handshake/f911a2db-f80c-478c-b0d8-e62e9a6f1627",
-      "postedAt": "2026-09-30T18:53:30.554Z",
-      "key": "handshake:f911a2db-f80c-478c-b0d8-e62e9a6f1627",
-      "company": "Handshake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T19:00:31.216Z"
     },
     {
       "id": "R1001947",
