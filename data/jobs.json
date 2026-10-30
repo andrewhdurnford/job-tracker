@@ -1,37 +1,48 @@
 {
-  "generatedAt": "2026-10-30T23:30:27.586Z",
+  "generatedAt": "2026-10-30T23:40:17.764Z",
   "bootstrap": false,
-  "lastRunNewCount": 20,
+  "lastRunNewCount": 31,
   "newKeys": [
-    "gleanwork:4748567005",
-    "Nvidia:JR2011473",
-    "Nvidia:JR2009916",
-    "Nvidia:JR2010863",
-    "Nvidia:JR2011122",
-    "Nvidia:JR2010334",
-    "Nvidia:JR2009423",
-    "Nvidia:JR2008124",
-    "Nvidia:JR2005597",
-    "Nvidia:JR2005596",
-    "Nvidia:JR2005063",
-    "Nvidia:JR2003682",
-    "Nvidia:JR2003385",
-    "Nvidia:JR2001863",
-    "Nvidia:JR2001988",
-    "Nvidia:JR2002546",
-    "Nvidia:JR2001996",
-    "Nvidia:JR2001533",
-    "Nvidia:JR2000652",
-    "spacex:8924709002"
+    "anthropic:5464234008",
+    "blacksmith:365ce100-6b89-4950-a19f-61bfbce35a3c",
+    "Nvidia:JR2015726",
+    "Nvidia:JR2015536",
+    "Nvidia:JR2015666",
+    "Nvidia:JR2015068",
+    "Nvidia:JR2014725",
+    "Nvidia:JR2014995",
+    "Nvidia:JR2015168",
+    "Nvidia:JR2014259",
+    "Nvidia:JR2014515",
+    "Nvidia:JR2014856",
+    "Nvidia:JR2013625",
+    "Nvidia:JR2014055",
+    "Nvidia:JR2014056",
+    "Nvidia:JR2013809",
+    "Nvidia:JR2013728",
+    "Nvidia:JR2013287",
+    "Nvidia:JR2013322",
+    "Nvidia:JR2010442",
+    "Nvidia:JR2012046",
+    "Nvidia:JR2012398",
+    "Nvidia:JR2012979",
+    "Nvidia:JR2012698",
+    "Nvidia:JR2013039",
+    "Nvidia:JR2012685",
+    "Nvidia:JR2011267",
+    "Nvidia:JR2012287",
+    "Nvidia:JR2010907",
+    "Nvidia:JR2011805",
+    "render:5498e2c2-44d7-4a4b-9bb9-20c0eca92440"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 129,
-    "new-grad": 27,
-    "experienced": 1958
+    "intern": 130,
+    "new-grad": 26,
+    "experienced": 1986
   },
   "companies": [
     {
@@ -324,7 +335,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -583,7 +594,7 @@
     {
       "name": "Bill.com",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -604,7 +615,7 @@
     {
       "name": "Blacksmith",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2004,7 +2015,7 @@
     {
       "name": "Glean",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -3446,7 +3457,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 57,
       "error": null,
       "stale": false
     },
@@ -4174,7 +4185,7 @@
     {
       "name": "Render",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4433,7 +4444,7 @@
     {
       "name": "Sentry",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4712,10 +4723,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 76,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5720,6 +5731,508 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2011267",
+      "title": "Research Scientist, AI for Graphics and Gaming - New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267",
+      "postedAt": "2026-10-30T23:40:26.600Z",
+      "key": "Nvidia:JR2011267",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2010907",
+      "title": "Senior Product Development Engineer - Datacenter",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Development-Engineer---Datacenter_JR2010907",
+      "postedAt": "2026-10-30T23:40:26.600Z",
+      "key": "Nvidia:JR2010907",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2011805",
+      "title": "Senior System Software Engineer - Tegra",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Tegra-Diagnostic-Software-Engineer_JR2011805",
+      "postedAt": "2026-10-30T23:40:26.600Z",
+      "key": "Nvidia:JR2011805",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2012287",
+      "title": "Senior Systems Software Engineer - GPU Diagnostics",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---GPU-Diagnostics_JR2012287",
+      "postedAt": "2026-10-30T23:40:26.600Z",
+      "key": "Nvidia:JR2012287",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2012398",
+      "title": "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
+      "postedAt": "2026-10-30T23:40:25.762Z",
+      "key": "Nvidia:JR2012398",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "Fall 2026",
+        "seasons": [
+          "fall"
+        ],
+        "year": 2026
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2012979",
+      "title": "Research Scientist, Electronic Design Automation - New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979",
+      "postedAt": "2026-10-30T23:40:25.762Z",
+      "key": "Nvidia:JR2012979",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2012698",
+      "title": "Research Scientist, Fundamental Generative AI - New College Grad 2026",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698",
+      "postedAt": "2026-10-30T23:40:25.762Z",
+      "key": "Nvidia:JR2012698",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2013039",
+      "title": "Senior Research Scientist, Fundamental Generative AI",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist--Fundamental-Generative-AI_JR2013039",
+      "postedAt": "2026-10-30T23:40:25.762Z",
+      "key": "Nvidia:JR2013039",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2012046",
+      "title": "Senior Software Engineer, Hardware Tools and Methodology Development",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Hardware-Tools-and-Methodology-Development_JR2012046",
+      "postedAt": "2026-10-30T23:40:25.762Z",
+      "key": "Nvidia:JR2012046",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2012685",
+      "title": "Senior System Software Engineer - Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---Autonomous-Vehicles_JR2012685",
+      "postedAt": "2026-10-30T23:40:25.762Z",
+      "key": "Nvidia:JR2012685",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2010442",
+      "title": "Senior Datacenter Power Systems Modeling Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Datacenter-Power-Systems-Modeling-Engineer_JR2010442",
+      "postedAt": "2026-10-30T23:40:24.940Z",
+      "key": "Nvidia:JR2010442",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2013287",
+      "title": "Senior Manager, Engineering -  Enterprise AI and Automation",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Engineering----Enterprise-AI-and-Automation_JR2013287",
+      "postedAt": "2026-10-30T23:40:24.940Z",
+      "key": "Nvidia:JR2013287",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2013322",
+      "title": "Senior System Software Engineer - CUDA Chips",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---CUDA-Chips_JR2013322",
+      "postedAt": "2026-10-30T23:40:24.940Z",
+      "key": "Nvidia:JR2013322",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2013728",
+      "title": "Senior System Software Engineer - AV Platform",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---AV-Platform_JR2013728",
+      "postedAt": "2026-10-30T23:40:24.144Z",
+      "key": "Nvidia:JR2013728",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2013809",
+      "title": "Lead Principal Engineer, Enterprise Agentic AI Platform",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Lead-Principal-Engineer--Enterprise-Agentic-AI-Platform_JR2013809",
+      "postedAt": "2026-10-30T23:40:24.143Z",
+      "key": "Nvidia:JR2013809",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2013625",
+      "title": "Principal Datacenter HSIO Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Datacenter-HSIO-Engineer_JR2013625",
+      "postedAt": "2026-10-30T23:40:23.349Z",
+      "key": "Nvidia:JR2013625",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2014055",
+      "title": "Principal Engineer, CUDA UMD - GPU Kernel Scheduling",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Engineer--CUDA-UMD---Kernel-Scheduling_JR2014055",
+      "postedAt": "2026-10-30T23:40:23.349Z",
+      "key": "Nvidia:JR2014055",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2014259",
+      "title": "Senior Analytics Engineer, Finance",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-and-Reporting-Analyst_JR2014259",
+      "postedAt": "2026-10-30T23:40:23.349Z",
+      "key": "Nvidia:JR2014259",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2014056",
+      "title": "Senior Software Engineer, CUDA UMD - Graphs and GPU Sharing",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--CUDA-UMD---Graphs-and-GPU-Sharing_JR2014056",
+      "postedAt": "2026-10-30T23:40:23.349Z",
+      "key": "Nvidia:JR2014056",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2014515",
+      "title": "Senior Systems Software Engineer - Deep Learning Solutions",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Deep-Learning-Solutions_JR2014515",
+      "postedAt": "2026-10-30T23:40:23.349Z",
+      "key": "Nvidia:JR2014515",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2014856",
+      "title": "System Software Engineer, Calibration - Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856",
+      "postedAt": "2026-10-30T23:40:23.349Z",
+      "key": "Nvidia:JR2014856",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2015168",
+      "title": "Senior Manager, Machine Learning Ops Engineering - Automotive",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SeniorManager--Machine-Learning-Ops-Engineering---Automotive_JR2015168",
+      "postedAt": "2026-10-30T23:40:22.508Z",
+      "key": "Nvidia:JR2015168",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2014725",
+      "title": "Senior Software Engineer - CUDA Driver",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---CUDA-Driver_JR2014725",
+      "postedAt": "2026-10-30T23:40:22.508Z",
+      "key": "Nvidia:JR2014725",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2015068",
+      "title": "Senior Software Engineer, Networking",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Software-Engineer_JR2015068",
+      "postedAt": "2026-10-30T23:40:22.508Z",
+      "key": "Nvidia:JR2015068",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2014995",
+      "title": "Senior Systems Software Engineer - Advanced Technology Group",
+      "location": "US, OR, Hillsboro",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Systems-Software-Engineer---Advanced-Technology-Group_JR2014995",
+      "postedAt": "2026-10-30T23:40:22.508Z",
+      "key": "Nvidia:JR2014995",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2015726",
+      "title": "Principal Software Engineer — Agentic AI Applications and Foundations",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer---Agentic-AI-Applications-and-Foundations_JR2015726",
+      "postedAt": "2026-10-30T23:40:21.448Z",
+      "key": "Nvidia:JR2015726",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2015536",
+      "title": "Senior Manager, Software Engineering - JAX",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Software-Engineering---JAX_JR2015536",
+      "postedAt": "2026-10-30T23:40:21.448Z",
+      "key": "Nvidia:JR2015536",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "JR2015666",
+      "title": "Senior Systems Software Engineer - Autonomous Vehicles",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer---Autonomous-Vehicles_JR2015666",
+      "postedAt": "2026-10-30T23:40:21.448Z",
+      "key": "Nvidia:JR2015666",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "365ce100-6b89-4950-a19f-61bfbce35a3c",
+      "title": "Systems Security Engineer",
+      "location": "New York City",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/blacksmith/365ce100-6b89-4950-a19f-61bfbce35a3c",
+      "postedAt": "2026-10-30T23:39:50.769Z",
+      "key": "blacksmith:365ce100-6b89-4950-a19f-61bfbce35a3c",
+      "company": "Blacksmith",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "5498e2c2-44d7-4a4b-9bb9-20c0eca92440",
+      "title": "Staff Developer Relations Engineer ",
+      "location": "Remote: United States",
+      "team": "Developer Relations",
+      "url": "https://jobs.ashbyhq.com/render/5498e2c2-44d7-4a4b-9bb9-20c0eca92440",
+      "postedAt": "2026-10-30T23:37:05.304Z",
+      "key": "render:5498e2c2-44d7-4a4b-9bb9-20c0eca92440",
+      "company": "Render",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
+    {
+      "id": "5464234008",
+      "title": "Data Engineer",
+      "location": "San Francisco, CA | New York City, NY; Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5464234008",
+      "postedAt": "2026-10-30T23:34:18.000Z",
+      "key": "anthropic:5464234008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T23:40:17.764Z"
+    },
     {
       "id": "JR2000652",
       "title": "Senior Robotics Research Scientist",
@@ -9518,22 +10031,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T17:50:18.583Z"
-    },
-    {
-      "id": "4748567005",
-      "title": "Software Engineer, University Grad",
-      "location": "Mountain View, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005",
-      "postedAt": "2026-10-28T17:22:26.000Z",
-      "key": "gleanwork:4748567005",
-      "company": "Glean",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:30:27.586Z"
     },
     {
       "id": "b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
@@ -25606,22 +26103,6 @@
       "firstSeen": "2026-10-13T21:10:18.037Z"
     },
     {
-      "id": "6223339004",
-      "title": "Staff Database Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://www.bill.com/job?6223339004&gh_jid=6223339004",
-      "postedAt": "2026-10-13T20:59:56.000Z",
-      "key": "billcom:6223339004",
-      "company": "Bill.com",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T21:00:27.014Z"
-    },
-    {
       "id": "5d465c7c-9e05-4ec0-83fc-4bb3ea6105d0",
       "title": "Software Engineer (Travel Heavy)",
       "location": "San Francisco, CA",
@@ -28744,22 +29225,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-10-09T18:40:18.602Z"
-    },
-    {
-      "id": "5ee81d6f-e837-43bb-af06-8f26c992a766",
-      "title": "Software Engineer, Streaming Platform",
-      "location": "San Francisco, California",
-      "team": "Engineering ",
-      "url": "https://jobs.ashbyhq.com/sentry/5ee81d6f-e837-43bb-af06-8f26c992a766",
-      "postedAt": "2026-10-09T18:33:47.016Z",
-      "key": "sentry:5ee81d6f-e837-43bb-af06-8f26c992a766",
-      "company": "Sentry",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-09T18:40:18.602Z"
     },
