@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-10-30T19:10:24.953Z",
+  "generatedAt": "2026-10-30T19:20:22.430Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1004740"
+    "1password:b9ff2259-517c-4ec2-b92f-646be8bf12b6",
+    "ServiceTitan:JR115243",
+    "suno:9401ddbc-f1df-429c-ab35-9d3485e02785"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -18,7 +20,7 @@
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -3469,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -4239,7 +4241,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4435,7 +4437,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 74,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4855,7 +4857,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR115243",
+      "title": "Senior Director, Software Engineering",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Senior-Director--Software-Engineering_JR115243",
+      "postedAt": "2026-10-30T19:20:26.025Z",
+      "key": "ServiceTitan:JR115243",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T19:20:22.430Z"
+    },
+    {
+      "id": "9401ddbc-f1df-429c-ab35-9d3485e02785",
+      "title": "Senior / Staff Software Engineer, Data Infrastructure",
+      "location": "Boston (+1 more)",
+      "team": "Platform Engineering",
+      "url": "https://jobs.ashbyhq.com/suno/9401ddbc-f1df-429c-ab35-9d3485e02785",
+      "postedAt": "2026-10-30T19:14:05.850Z",
+      "key": "suno:9401ddbc-f1df-429c-ab35-9d3485e02785",
+      "company": "Suno",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T19:20:22.430Z"
+    },
+    {
+      "id": "b9ff2259-517c-4ec2-b92f-646be8bf12b6",
+      "title": "Developer, Enterprise Tenants and Policies",
+      "location": "Remote (United States | Canada)",
+      "team": "Product Engineering",
+      "url": "https://jobs.ashbyhq.com/1password/b9ff2259-517c-4ec2-b92f-646be8bf12b6",
+      "postedAt": "2026-10-30T19:13:47.185Z",
+      "key": "1password:b9ff2259-517c-4ec2-b92f-646be8bf12b6",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-30T19:20:22.430Z"
+    },
     {
       "id": "R1004740",
       "title": "Senior Associate, Front-End Web & Email Developer (Auto)",
@@ -40694,54 +40745,6 @@
       "postedAt": "2026-09-30T19:20:25.211Z",
       "key": "Capital One:R1002665",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T19:20:21.388Z"
-    },
-    {
-      "id": "8221564",
-      "title": "Principal Software Engineer, Build",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8221564?gh_jid=8221564",
-      "postedAt": "2026-09-30T19:16:51.000Z",
-      "key": "roblox:8221564",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T19:20:21.388Z"
-    },
-    {
-      "id": "8243981",
-      "title": "Senior Software Engineer, OIG",
-      "location": "Bellevue, Washington",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8243981?gh_jid=8243981",
-      "postedAt": "2026-09-30T19:11:07.000Z",
-      "key": "okta:8243981",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T19:20:21.388Z"
-    },
-    {
-      "id": "8243989",
-      "title": "Staff Software Engineer, OIG",
-      "location": "Bellevue, Washington",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8243989?gh_jid=8243989",
-      "postedAt": "2026-09-30T19:10:57.000Z",
-      "key": "okta:8243989",
-      "company": "Okta",
       "level": "experienced",
       "term": null,
       "regions": [
