@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T19:00:28.334Z",
+  "generatedAt": "2026-10-30T19:10:24.953Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "okta:8332602"
+    "Capital One:R1004740"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -788,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 172,
+      "jobCount": 173,
       "error": null,
       "stale": false
     },
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4645,7 +4645,7 @@
     {
       "name": "Snyk",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 74,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004740",
+      "title": "Senior Associate, Front-End Web & Email Developer (Auto)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Associate--Front-End-Web---Email-Developer--Auto-_R1004740-1",
+      "postedAt": "2026-10-30T19:10:27.580Z",
+      "key": "Capital One:R1004740",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T19:10:24.953Z"
+    },
     {
       "id": "8332602",
       "title": "Security Architect - U.S. Public Sector",
@@ -14684,7 +14700,7 @@
       "id": "fac13a25-9ede-43a9-b644-ad0e2760cb6d",
       "title": "AI Engineer, Design",
       "location": "Palo Alto (+8 more)",
-      "team": "Engineer",
+      "team": "Design",
       "url": "https://jobs.ashbyhq.com/nubank/fac13a25-9ede-43a9-b644-ad0e2760cb6d",
       "postedAt": "2026-10-22T20:54:23.348Z",
       "key": "nubank:fac13a25-9ede-43a9-b644-ad0e2760cb6d",
@@ -40746,23 +40762,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-09-30T19:10:14.999Z"
-    },
-    {
-      "id": "507a3707-d6bd-48c4-800f-429ecf40769e",
-      "title": "Senior Product Security Engineer",
-      "location": "United States - Boston Office (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snyk/507a3707-d6bd-48c4-800f-429ecf40769e",
-      "postedAt": "2026-09-30T19:08:51.894Z",
-      "key": "snyk:507a3707-d6bd-48c4-800f-429ecf40769e",
-      "company": "Snyk",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
       ],
       "firstSeen": "2026-09-30T19:10:14.999Z"
     },
