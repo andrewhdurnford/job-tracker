@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-30T12:00:28.709Z",
+  "generatedAt": "2026-10-30T12:10:22.954Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1004487",
-    "intercom:8333690"
+    "intercom:8333679"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1145,10 +1144,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Conveo",
@@ -1747,10 +1746,10 @@
     },
     {
       "name": "Fintual",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Finvest",
@@ -2427,7 +2426,7 @@
     {
       "name": "Intercom",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2749,7 +2748,7 @@
     {
       "name": "Lio (formerly askLio)",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3772,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4829,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8333679",
+      "title": "Forward Deployed Engineer",
+      "location": "Chicago, Illinois",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8333679",
+      "postedAt": "2026-10-30T12:03:46.000Z",
+      "key": "intercom:8333679",
+      "company": "Intercom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T12:10:22.954Z"
+    },
     {
       "id": "R1004487",
       "title": "Full Stack Engineer - 4  (Java, JavaScript, TypeScript, AWS)",
@@ -40868,22 +40883,6 @@
         "us"
       ],
       "firstSeen": "2026-10-27T12:40:17.689Z"
-    },
-    {
-      "id": "fd1f9639-567e-4579-982e-bfb65ff72e22",
-      "title": "Forward Deployed AI Software Engineer",
-      "location": "New York Office",
-      "team": "Implementation",
-      "url": "https://jobs.ashbyhq.com/lio/fd1f9639-567e-4579-982e-bfb65ff72e22",
-      "postedAt": "2026-09-30T12:05:37.635Z",
-      "key": "lio:fd1f9639-567e-4579-982e-bfb65ff72e22",
-      "company": "Lio (formerly askLio)",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T12:10:20.549Z"
     },
     {
       "id": "REF082667W",
