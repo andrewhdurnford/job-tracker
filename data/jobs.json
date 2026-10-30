@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-10-30T15:30:27.017Z",
+  "generatedAt": "2026-10-30T15:40:18.835Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Capital One:R1004571"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 150,
+    "intern": 149,
     "new-grad": 24,
-    "experienced": 2056
+    "experienced": 2054
   },
   "companies": [
     {
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -757,10 +759,10 @@
     },
     {
       "name": "Canary Technologies",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Candid Health",
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 169,
+      "jobCount": 170,
       "error": null,
       "stale": false
     },
@@ -1241,7 +1243,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -2087,10 +2089,10 @@
     },
     {
       "name": "Gridware",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Groww",
@@ -4230,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4467,10 +4469,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 41,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Shiru",
@@ -4797,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5146,10 +5148,10 @@
     },
     {
       "name": "Tractian",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Trade Republic",
@@ -5419,10 +5421,10 @@
     },
     {
       "name": "Volta Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Vori",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004571",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1004571-2",
+      "postedAt": "2026-10-30T15:40:22.585Z",
+      "key": "Capital One:R1004571",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T15:40:18.835Z"
+    },
     {
       "id": "9f4a2d85-8fa6-4374-9f1d-800492967dc7",
       "title": "Staff Software Engineer, Full Stack",
@@ -25006,38 +25024,6 @@
       "firstSeen": "2026-10-14T10:10:17.938Z"
     },
     {
-      "id": "8126314",
-      "title": "Senior Software Engineer, International",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8126314?t=gh_src=&gh_jid=8126314",
-      "postedAt": "2026-10-14T09:04:51.000Z",
-      "key": "robinhood:8126314",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-14T09:10:16.382Z"
-    },
-    {
-      "id": "8126312",
-      "title": "Senior Software Engineer, International ",
-      "location": "Menlo Park, CA; New York, NY",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8126312?t=gh_src=&gh_jid=8126312",
-      "postedAt": "2026-10-14T08:57:55.000Z",
-      "key": "robinhood:8126312",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T09:00:25.149Z"
-    },
-    {
       "id": "5378643008",
       "title": "Engineering Manager, Claude Platform",
       "location": "San Francisco, CA | New York City, NY",
@@ -40638,28 +40624,6 @@
       "firstSeen": "2026-09-30T15:50:17.507Z"
     },
     {
-      "id": "8241260",
-      "title": "High School Internship, Software Engineering (Summer 2027)",
-      "location": "Seattle, San Francisco",
-      "team": "5112 General University",
-      "url": "https://stripe.com/jobs/search?gh_jid=8241260",
-      "postedAt": "2026-09-30T15:38:09.000Z",
-      "key": "stripe:8241260",
-      "company": "Stripe",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T15:40:22.826Z"
-    },
-    {
       "id": "R1002521",
       "title": "Full-stack Engineer 4",
       "location": "McLean, VA",
@@ -40850,22 +40814,6 @@
         "us"
       ],
       "firstSeen": "2026-09-29T15:50:19.167Z"
-    },
-    {
-      "id": "R30047",
-      "title": "Engineering Manager, Infrastructure (Remote)",
-      "location": "USA - Remote, CA",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Engineering-Manager--Infrastructure--Remote-_R30047",
-      "postedAt": "2026-09-28T19:20:25.015Z",
-      "key": "CrowdStrike:R30047",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-28T19:20:20.515Z"
     },
     {
       "id": "R1002300",
