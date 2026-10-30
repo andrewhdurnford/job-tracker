@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-10-30T16:00:27.033Z",
+  "generatedAt": "2026-10-30T16:10:19.204Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "roblox:8315883",
+    "xai:5279894007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 149,
-    "new-grad": 24,
-    "experienced": 2048
+    "new-grad": 25,
+    "experienced": 2049
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4237,7 +4240,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -5581,7 +5584,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,42 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5279894007",
+      "title": "Operation & Maintenance Engineer (Power Plant) - Memphis",
+      "location": " Southaven, MS; Memphis, TN",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5279894007",
+      "postedAt": "2026-10-30T16:09:54.000Z",
+      "key": "xai:5279894007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T16:10:19.204Z"
+    },
+    {
+      "id": "8315883",
+      "title": "[2027] Senior Software Engineer - Data Acquisition PhD Early Career",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883",
+      "postedAt": "2026-10-30T16:04:17.000Z",
+      "key": "roblox:8315883",
+      "company": "Roblox",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T16:10:19.204Z"
+    },
     {
       "id": "8334023",
       "title": "Senior Software Engineer, Edge Security",
