@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-10-30T17:50:18.098Z",
+  "generatedAt": "2026-10-30T18:00:28.821Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "roblox:8304210"
+    "affirm:8040388003",
+    "affirm:8040386003",
+    "gitlab:8687958002",
+    "sofi:8089590003",
+    "stripe:8330131"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 153,
     "new-grad": 26,
-    "experienced": 2057
+    "experienced": 2059
   },
   "companies": [
     {
@@ -81,7 +85,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 53,
+      "jobCount": 55,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1759,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1776,7 +1780,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1878,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1964,7 +1968,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -2033,10 +2037,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -2063,7 +2067,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3245,7 +3249,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3756,7 +3760,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -3771,7 +3775,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4659,7 +4663,7 @@
     {
       "name": "SoFi",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4799,7 +4803,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -5107,7 +5111,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5706,54 @@
   ],
   "jobs": [
     {
+      "id": "8089590003",
+      "title": "Principal Software Engineer, Cloud Networking Platform",
+      "location": "CA - San Francisco; WA - Seattle; UT - Cottonwood Heights",
+      "team": null,
+      "url": "https://sofi.com/careers/job/8089590003?gh_jid=8089590003",
+      "postedAt": "2026-10-30T18:00:19.000Z",
+      "key": "sofi:8089590003",
+      "company": "SoFi",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T18:00:28.821Z"
+    },
+    {
+      "id": "8040386003",
+      "title": "Senior Software Engineer, Backend (AI Platform) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040386003",
+      "postedAt": "2026-10-30T17:52:49.000Z",
+      "key": "affirm:8040386003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T18:00:28.821Z"
+    },
+    {
+      "id": "8040388003",
+      "title": "Senior Software Engineer, Backend (AI Platform)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8040388003",
+      "postedAt": "2026-10-30T17:52:47.000Z",
+      "key": "affirm:8040388003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-10-30T18:00:28.821Z"
+    },
+    {
       "id": "8304210",
       "title": "Software Engineer, Discovery UX",
       "location": "San Mateo, CA, United States",
@@ -5940,6 +5992,22 @@
         "canada"
       ],
       "firstSeen": "2026-10-30T16:20:19.533Z"
+    },
+    {
+      "id": "8330131",
+      "title": "Engineering Manager, Commerce Systems",
+      "location": "US",
+      "team": "8121 Commerce Systems",
+      "url": "https://stripe.com/jobs/search?gh_jid=8330131",
+      "postedAt": "2026-10-30T16:11:22.000Z",
+      "key": "stripe:8330131",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T18:00:28.821Z"
     },
     {
       "id": "5279894007",
@@ -6621,22 +6689,6 @@
         ],
         "year": 2027
       },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T22:20:18.153Z"
-    },
-    {
-      "id": "6232923004",
-      "title": "Staff Software Engineer",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6232923004",
-      "postedAt": "2026-10-29T22:17:24.000Z",
-      "key": "natera:6232923004",
-      "company": "Natera",
-      "level": "experienced",
-      "term": null,
       "regions": [
         "us"
       ],
@@ -13410,22 +13462,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T18:00:29.039Z"
-    },
-    {
-      "id": "8186869",
-      "title": "Software Engineer II (Fullstack), Digital Storefront",
-      "location": "US (remote)",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8186869",
-      "postedAt": "2026-10-23T17:50:16.000Z",
-      "key": "toast:8186869",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T14:20:19.185Z"
     },
     {
       "id": "6122975004",
@@ -31888,6 +31924,23 @@
       "firstSeen": "2026-10-08T04:10:16.156Z"
     },
     {
+      "id": "8687958002",
+      "title": "Senior Backend Engineer, Core DevOps: Container Registry",
+      "location": "Remote, Canada; Remote, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687958002",
+      "postedAt": "2026-10-08T02:34:12.000Z",
+      "key": "gitlab:8687958002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-30T18:00:28.821Z"
+    },
+    {
       "id": "4716922006",
       "title": "Senior Product Security Engineer",
       "location": "United States - Remote",
@@ -40634,22 +40687,6 @@
       "postedAt": "2026-09-30T18:00:27.424Z",
       "key": "Capital One:R1001711",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T18:00:23.736Z"
-    },
-    {
-      "id": "8234555",
-      "title": "Director, Machine Learning Engineering, Ads Measurement",
-      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8234555",
-      "postedAt": "2026-09-30T17:50:52.000Z",
-      "key": "pinterest:8234555",
-      "company": "Pinterest",
       "level": "experienced",
       "term": null,
       "regions": [
