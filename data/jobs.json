@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:30:14.536Z",
+  "generatedAt": "2026-10-30T21:40:18.769Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 152,
     "new-grad": 26,
-    "experienced": 2071
+    "experienced": 2066
   },
   "companies": [
     {
@@ -79,7 +79,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 56,
+      "jobCount": 54,
       "error": null,
       "stale": false
     },
@@ -1562,10 +1562,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -3467,7 +3467,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3509,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 52,
+      "jobCount": 51,
       "error": null,
       "stale": false
     },
@@ -4636,7 +4636,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 74,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4826,7 +4826,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5702,7 +5702,7 @@
     {
       "id": "8338018",
       "title": "Senior Systems Engineer, SDKs, Terraform, & Code Generation",
-      "location": "Austin, TX (+9 more)",
+      "location": "Austin, TX (+1 more)",
       "team": "Engineering",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8338018?gh_jid=8338018",
       "postedAt": "2026-10-30T21:13:48.000Z",
@@ -35650,22 +35650,6 @@
       "firstSeen": "2026-10-05T23:19:43.071Z"
     },
     {
-      "id": "3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
-      "title": "Backend Software Engineer, Cooperative AI (Evals) ",
-      "location": "San Francisco (+1 more)",
-      "team": "Applied AI",
-      "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
-      "postedAt": "2026-10-05T23:10:59.808Z",
-      "key": "openai:3d064454-c0c3-4225-bc2c-6d8c0f8735b2",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T00:10:17.728Z"
-    },
-    {
       "id": "7613aca3-9dd8-41cd-b114-06ef4de967a9",
       "title": "Software Engineer, Cooperative AI",
       "location": "San Francisco (+1 more)",
@@ -40676,70 +40660,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T22:00:23.539Z"
-    },
-    {
-      "id": "8241679",
-      "title": "Senior Software Engineer, Security Engineering (Auth0)",
-      "location": "Toronto, Ontario, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8241679?gh_jid=8241679",
-      "postedAt": "2026-09-30T21:35:20.000Z",
-      "key": "okta:8241679",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-30T21:40:15.021Z"
-    },
-    {
-      "id": "16d130a1-4014-4458-829f-ea2ba48d366d",
-      "title": "Software Engineer – Mobile Team ",
-      "location": "US-CA-Menlo Park",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d",
-      "postedAt": "2026-09-30T21:33:58.519Z",
-      "key": "snowflake:16d130a1-4014-4458-829f-ea2ba48d366d",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T21:40:15.021Z"
-    },
-    {
-      "id": "8009368003",
-      "title": "Senior Software Engineer, backend (Online Storage)",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8009368003",
-      "postedAt": "2026-09-30T21:33:51.000Z",
-      "key": "affirm:8009368003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-09-30T21:40:15.021Z"
-    },
-    {
-      "id": "8009366003",
-      "title": "Senior Software Engineer, Backend (Online Storage)",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8009366003",
-      "postedAt": "2026-09-30T21:33:50.000Z",
-      "key": "affirm:8009366003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T21:40:15.021Z"
     },
     {
       "id": "R1002594",
