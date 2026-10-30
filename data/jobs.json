@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-10-30T22:10:19.461Z",
+  "generatedAt": "2026-10-30T22:20:17.736Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "freed:161d4300-0a97-4263-8aa5-c23a1dd3b92c",
+    "justworks:8236874"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 129,
     "new-grad": 26,
-    "experienced": 1929
+    "experienced": 1930
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1753,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1774,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,13 +1875,13 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
       "name": "Freed",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2529,7 +2532,7 @@
     {
       "name": "Justworks",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 51,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "161d4300-0a97-4263-8aa5-c23a1dd3b92c",
+      "title": "ML Engineer",
+      "location": "San Francisco ",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/freed/161d4300-0a97-4263-8aa5-c23a1dd3b92c",
+      "postedAt": "2026-10-30T22:17:55.870Z",
+      "key": "freed:161d4300-0a97-4263-8aa5-c23a1dd3b92c",
+      "company": "Freed",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T22:20:17.736Z"
+    },
+    {
+      "id": "8236874",
+      "title": "Senior Software Engineer",
+      "location": "New York, New York",
+      "team": null,
+      "url": "https://boards.greenhouse.io/justworks/jobs/8236874?gh_jid=8236874",
+      "postedAt": "2026-10-30T22:11:33.000Z",
+      "key": "justworks:8236874",
+      "company": "Justworks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T22:20:17.736Z"
+    },
     {
       "id": "JR2028517",
       "title": "Senior System Software Engineer— Autonomous Driving Context Fusion",
@@ -13067,22 +13102,6 @@
       "key": "shieldai:bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
       "company": "Shield AI",
       "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T19:00:25.407Z"
-    },
-    {
-      "id": "d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
-      "title": "Software Engineer",
-      "location": "San Francisco",
-      "team": "Alignment",
-      "url": "https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
-      "postedAt": "2026-10-23T18:55:14.565Z",
-      "key": "openai:d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
-      "company": "OpenAI",
-      "level": "experienced",
       "term": null,
       "regions": [
         "us"
