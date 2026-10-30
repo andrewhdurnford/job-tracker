@@ -1,20 +1,17 @@
 {
-  "generatedAt": "2026-10-30T18:00:28.821Z",
+  "generatedAt": "2026-10-30T18:10:19.247Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "affirm:8040388003",
-    "affirm:8040386003",
-    "gitlab:8687958002",
-    "sofi:8089590003",
-    "stripe:8330131"
+    "gitlab:8883597002",
+    "harvey:54770fc2-8dc0-4812-bfc5-0f4d628b97d9"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 153,
+    "intern": 152,
     "new-grad": 26,
     "experienced": 2059
   },
@@ -393,7 +390,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -792,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 174,
+      "jobCount": 173,
       "error": null,
       "stale": false
     },
@@ -1759,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1780,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1878,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1968,7 +1965,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2037,10 +2034,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -2067,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2178,7 +2175,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -3775,7 +3772,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5482,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "54770fc2-8dc0-4812-bfc5-0f4d628b97d9",
+      "title": "Senior Infrastructure Engineer",
+      "location": "New York",
+      "team": "IT",
+      "url": "https://jobs.ashbyhq.com/harvey/54770fc2-8dc0-4812-bfc5-0f4d628b97d9",
+      "postedAt": "2026-10-30T18:00:27.303Z",
+      "key": "harvey:54770fc2-8dc0-4812-bfc5-0f4d628b97d9",
+      "company": "Harvey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T18:10:19.247Z"
+    },
+    {
       "id": "8089590003",
       "title": "Principal Software Engineer, Cloud Networking Platform",
       "location": "CA - San Francisco; WA - Seattle; UT - Cottonwood Heights",
@@ -5768,22 +5781,6 @@
         "us"
       ],
       "firstSeen": "2026-10-30T17:50:18.098Z"
-    },
-    {
-      "id": "R1004901",
-      "title": "Sr. Associate, AI Engineer",
-      "location": "Toronto, ON",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Sr-Associate--AI-Engineer_R1004901",
-      "postedAt": "2026-10-30T17:30:28.954Z",
-      "key": "Capital One:R1004901",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-30T17:30:25.347Z"
     },
     {
       "id": "29931bc1-508f-4b41-ad6a-aab97e4d8958",
@@ -17006,6 +17003,23 @@
         "us"
       ],
       "firstSeen": "2026-10-21T16:50:20.241Z"
+    },
+    {
+      "id": "8883597002",
+      "title": "Director of Engineering, Dedicated Infrastructure & Platforms",
+      "location": "Remote, Canada; Remote, United Kingdom; Remote, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883597002",
+      "postedAt": "2026-10-21T16:41:42.000Z",
+      "key": "gitlab:8883597002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-10-30T18:10:19.247Z"
     },
     {
       "id": "6231045004",
@@ -40639,44 +40653,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-30T18:20:16.153Z"
-    },
-    {
-      "id": "7962412",
-      "title": "Software Engineer, Data Loading Infrastructure ",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://www.asana.com/jobs/apply/7962412?gh_jid=7962412",
-      "postedAt": "2026-09-30T18:10:01.000Z",
-      "key": "asana:7962412",
-      "company": "Asana",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T18:10:16.827Z"
-    },
-    {
-      "id": "8240198",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198",
-      "postedAt": "2026-09-30T18:03:17.000Z",
-      "key": "waymo:8240198",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T18:10:16.827Z"
     },
     {
       "id": "R1001711",
