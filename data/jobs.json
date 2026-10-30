@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T14:50:19.190Z",
+  "generatedAt": "2026-10-30T15:00:28.428Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "CrowdStrike:R29100"
+    "arq:3f714ba2-e37a-471f-aa20-fe86c22d65d4"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 150,
     "new-grad": 24,
-    "experienced": 2059
+    "experienced": 2057
   },
   "companies": [
     {
@@ -375,7 +375,7 @@
     {
       "name": "ARQ",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1096,7 +1096,7 @@
     {
       "name": "Compass",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 74,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3f714ba2-e37a-471f-aa20-fe86c22d65d4",
+      "title": "Senior Detection Engineer | SecOps",
+      "location": "London (+2 more)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/arq/3f714ba2-e37a-471f-aa20-fe86c22d65d4",
+      "postedAt": "2026-10-30T14:50:32.001Z",
+      "key": "arq:3f714ba2-e37a-471f-aa20-fe86c22d65d4",
+      "company": "ARQ",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-30T15:00:28.428Z"
+    },
     {
       "id": "08ca24dc-4527-4d40-9952-723474b20ce3",
       "title": "Software Engineer, Photoreal 3D",
@@ -34996,7 +35012,7 @@
     },
     {
       "id": "8257354",
-      "title": "Staff Software Engineer, Link - Consumer Preference",
+      "title": "Staff Full Stack Software Engineer, Link - Consumer Preference",
       "location": "San Francisco, NYC, Seattle",
       "team": "8560 Bank Connections - Eng",
       "url": "https://stripe.com/jobs/search?gh_jid=8257354",
@@ -40675,54 +40691,6 @@
         "us"
       ],
       "firstSeen": "2026-09-30T15:30:22.145Z"
-    },
-    {
-      "id": "8243028",
-      "title": "Staff Security Engineer - AI",
-      "location": "Seattle",
-      "team": null,
-      "url": "https://www.compass.com/careers?gh_jid=8243028",
-      "postedAt": "2026-09-30T14:59:43.000Z",
-      "key": "urbancompass:8243028",
-      "company": "Compass",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T15:00:27.889Z"
-    },
-    {
-      "id": "8243025",
-      "title": "Staff Security Engineer - AI",
-      "location": "Boston",
-      "team": null,
-      "url": "https://www.compass.com/careers?gh_jid=8243025",
-      "postedAt": "2026-09-30T14:59:42.000Z",
-      "key": "urbancompass:8243025",
-      "company": "Compass",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T15:00:27.889Z"
-    },
-    {
-      "id": "8226338",
-      "title": "Staff Security Engineer - AI",
-      "location": "New York City",
-      "team": null,
-      "url": "https://www.compass.com/careers?gh_jid=8226338",
-      "postedAt": "2026-09-30T14:59:40.000Z",
-      "key": "urbancompass:8226338",
-      "company": "Compass",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-30T15:00:27.889Z"
     },
     {
       "id": "R1002600",
