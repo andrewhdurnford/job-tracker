@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T18:10:18.788Z",
+  "generatedAt": "2026-10-31T18:20:19.020Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 142,
     "new-grad": 22,
-    "experienced": 2194
+    "experienced": 2193
   },
   "companies": [
     {
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -709,7 +709,7 @@
     {
       "name": "Brex",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2360,10 +2360,10 @@
     },
     {
       "name": "Included Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Inferact",
@@ -42855,22 +42855,6 @@
         "us"
       ],
       "firstSeen": "2026-10-09T18:20:19.048Z"
-    },
-    {
-      "id": "8783482002",
-      "title": "Data Scientist II, Applied ML",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://www.brex.com/careers/8783482002?gh_jid=8783482002",
-      "postedAt": "2026-10-01T18:14:03.000Z",
-      "key": "brex:8783482002",
-      "company": "Brex",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T18:20:16.111Z"
     },
     {
       "id": "R1002155",
