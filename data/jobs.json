@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-10-31T04:30:23.631Z",
+  "generatedAt": "2026-10-31T04:40:22.043Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "sierra:ef896ee9-e903-4a1f-84c2-537373cb9081"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 152,
+    "intern": 153,
     "new-grad": 26,
     "experienced": 2234
   },
@@ -785,10 +787,10 @@
     },
     {
       "name": "Capital One",
-      "ok": false,
+      "ok": true,
       "jobCount": 172,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "CaptivateIQ",
@@ -4489,7 +4491,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "ef896ee9-e903-4a1f-84c2-537373cb9081",
+      "title": "Research Intern",
+      "location": "San Francisco, CA",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081",
+      "postedAt": "2026-10-31T04:30:38.046Z",
+      "key": "sierra:ef896ee9-e903-4a1f-84c2-537373cb9081",
+      "company": "Sierra",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-10-31T04:40:22.043Z"
+    },
     {
       "id": "8047150",
       "title": "Staff Analytics Engineer",
