@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T18:20:18.836Z",
+  "generatedAt": "2026-11-01T18:30:23.425Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 140,
     "new-grad": 22,
-    "experienced": 2092
+    "experienced": 2090
   },
   "companies": [
     {
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1290,7 +1290,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3404,7 +3404,7 @@
     {
       "name": "Numeral",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3725,10 +3725,10 @@
     },
     {
       "name": "PickTrace",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "PicsArt",
@@ -4985,10 +4985,10 @@
     },
     {
       "name": "Tecton",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tekton Dynamics",
@@ -41228,38 +41228,6 @@
         "us"
       ],
       "firstSeen": "2026-10-02T18:40:16.081Z"
-    },
-    {
-      "id": "4019093f-a90b-476a-82af-c8a2bcf289d1",
-      "title": "Software Engineer, Growth",
-      "location": "New York",
-      "team": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/numeral/4019093f-a90b-476a-82af-c8a2bcf289d1",
-      "postedAt": "2026-10-02T18:25:50.811Z",
-      "key": "numeral:4019093f-a90b-476a-82af-c8a2bcf289d1",
-      "company": "Numeral",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T18:30:31.381Z"
-    },
-    {
-      "id": "8862144002",
-      "title": "Sr. Manager, Engineering - AI/BI",
-      "location": "Mountain View, California; San Francisco, California",
-      "team": null,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8862144002",
-      "postedAt": "2026-10-02T18:21:48.000Z",
-      "key": "databricks:8862144002",
-      "company": "Databricks",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T18:30:31.381Z"
     },
     {
       "id": "R30285",
