@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-11-02T17:00:28.532Z",
+  "generatedAt": "2026-11-02T17:10:24.466Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "saronic:a424fdc6-83b5-4176-9172-7bf951e7b97d"
+    "Capital One:R1004708",
+    "method:bcb8abe9-2e96-4484-8d7e-7d1fece7a138",
+    "method:9eba8322-0e81-42db-9dcb-81ddcc7c907a",
+    "sentinellabs:8161794003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 123,
     "new-grad": 20,
-    "experienced": 2051
+    "experienced": 2055
   },
   "companies": [
     {
@@ -788,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 138,
+      "jobCount": 139,
       "error": null,
       "stale": false
     },
@@ -2495,10 +2498,10 @@
     },
     {
       "name": "Jito",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Juicebox",
@@ -3014,7 +3017,7 @@
     {
       "name": "Method Security",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3848,7 +3851,7 @@
       "name": "Postman",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4407,7 +4410,7 @@
     {
       "name": "SentinelOne",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 58,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004708",
+      "title": "Full-stack Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1004708",
+      "postedAt": "2026-11-02T17:10:27.986Z",
+      "key": "Capital One:R1004708",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T17:10:24.466Z"
+    },
+    {
+      "id": "9eba8322-0e81-42db-9dcb-81ddcc7c907a",
+      "title": "Software Engineer",
+      "location": "New York, NY (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/method/9eba8322-0e81-42db-9dcb-81ddcc7c907a",
+      "postedAt": "2026-11-02T17:08:00.638Z",
+      "key": "method:9eba8322-0e81-42db-9dcb-81ddcc7c907a",
+      "company": "Method Security",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T17:10:24.466Z"
+    },
+    {
+      "id": "bcb8abe9-2e96-4484-8d7e-7d1fece7a138",
+      "title": "Senior Software Engineer",
+      "location": "New York, NY (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/method/bcb8abe9-2e96-4484-8d7e-7d1fece7a138",
+      "postedAt": "2026-11-02T17:07:12.838Z",
+      "key": "method:bcb8abe9-2e96-4484-8d7e-7d1fece7a138",
+      "company": "Method Security",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T17:10:24.466Z"
+    },
+    {
+      "id": "8161794003",
+      "title": "Director, Software Engineering, Agent Platform",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://www.sentinelone.com/jobs/?gh_jid=8161794003",
+      "postedAt": "2026-11-02T17:02:35.000Z",
+      "key": "sentinellabs:8161794003",
+      "company": "SentinelOne",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T17:10:24.466Z"
+    },
     {
       "id": "a424fdc6-83b5-4176-9172-7bf951e7b97d",
       "title": "NPI Quality Engineer - Naval",
