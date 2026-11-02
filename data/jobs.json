@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-02T16:10:20.255Z",
+  "generatedAt": "2026-11-02T16:20:25.174Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1004984"
+    "cloudflare:8239181",
+    "Visa:REF089743W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 20,
-    "experienced": 2048
+    "experienced": 2049
   },
   "companies": [
     {
@@ -788,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 138,
+      "jobCount": 137,
       "error": null,
       "stale": false
     },
@@ -1012,7 +1013,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 58,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5036,10 +5037,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -5401,7 +5402,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF089743W",
+      "title": "Staff Software Engineer",
+      "location": "US - Austin, TX",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Staff-Software-Engineer_REF089743W",
+      "postedAt": "2026-11-02T16:20:29.598Z",
+      "key": "Visa:REF089743W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T16:20:25.174Z"
+    },
+    {
+      "id": "8239181",
+      "title": "Senior Systems Engineer",
+      "location": "Austin, TX (+1 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8239181?gh_jid=8239181",
+      "postedAt": "2026-11-02T16:10:30.000Z",
+      "key": "cloudflare:8239181",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T16:20:25.174Z"
+    },
     {
       "id": "R1004984",
       "title": "Capital One Shopping Tech, Data Engineer 5 (Remote- Eligible)",
@@ -36662,22 +36695,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T17:20:19.150Z"
-    },
-    {
-      "id": "R1003248",
-      "title": "Capital One Shopping Tech, Data Engineer 5 (Remote- Eligible)",
-      "location": "2 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Capital-One-Shopping-Tech--Data-Engineer-5--Remote--Eligible-_R1003248-1",
-      "postedAt": "2026-10-07T17:10:21.339Z",
-      "key": "Capital One:R1003248",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-07T17:10:17.752Z"
     },
     {
       "id": "8871406002",
