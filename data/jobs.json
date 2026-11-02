@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-11-02T19:10:20.339Z",
+  "generatedAt": "2026-11-02T19:20:21.013Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "airbnb:8334372",
-    "Remitly:R_107116",
-    "spacex:8880656002",
-    "spacex:8880628002"
+    "pinterest:8279563",
+    "xai:5280957007",
+    "xai:5280958007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 123,
     "new-grad": 21,
-    "experienced": 2068
+    "experienced": 2071
   },
   "companies": [
     {
@@ -596,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -939,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3759,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -3774,7 +3773,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4831,7 +4830,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5586,7 +5585,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8279563",
+      "title": "Staff Machine Learning Engineer, Homefeed",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8279563",
+      "postedAt": "2026-11-02T19:18:48.000Z",
+      "key": "pinterest:8279563",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T19:20:21.013Z"
+    },
+    {
+      "id": "5280958007",
+      "title": "Sr. Model Engineer, Post-Training & RL",
+      "location": " Palo Alto, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5280958007",
+      "postedAt": "2026-11-02T19:17:45.000Z",
+      "key": "xai:5280958007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T19:20:21.013Z"
+    },
+    {
+      "id": "5280957007",
+      "title": "Sr. Model Engineer, Mid-training",
+      "location": " Palo Alto, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
+      "postedAt": "2026-11-02T19:17:11.000Z",
+      "key": "xai:5280957007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T19:20:21.013Z"
+    },
     {
       "id": "R_107116",
       "title": "Software Development Engineer II, Localization",
