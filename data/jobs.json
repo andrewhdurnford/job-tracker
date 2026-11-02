@@ -1,8 +1,14 @@
 {
-  "generatedAt": "2026-11-02T14:40:44.439Z",
+  "generatedAt": "2026-11-02T14:50:19.766Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 5,
+  "newKeys": [
+    "Capital One:R1004243",
+    "Capital One:R1004242",
+    "mirage:9e5835a2-5a70-4919-9a92-c7dc1b74163f",
+    "mirage:881f87a7-fbca-43ca-adee-cd87d838dc52",
+    "mirage:d6032f7a-1f0f-4e6d-ba00-3d86c18933f4"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +16,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 20,
-    "experienced": 2048
+    "experienced": 2049
   },
   "companies": [
     {
@@ -786,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 136,
+      "jobCount": 138,
       "error": null,
       "stale": false
     },
@@ -934,7 +940,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4691,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 58,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4797,7 +4803,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004243",
+      "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
+      "location": "Cambridge, MA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cambridge-MA/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1004243-1",
+      "postedAt": "2026-11-02T14:50:23.518Z",
+      "key": "Capital One:R1004243",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T14:50:19.766Z"
+    },
+    {
+      "id": "R1004242",
+      "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4---Intelligent-Foundations-and-Experiences--IFX-_R1004242",
+      "postedAt": "2026-11-02T14:50:23.518Z",
+      "key": "Capital One:R1004242",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T14:50:19.766Z"
+    },
+    {
+      "id": "d6032f7a-1f0f-4e6d-ba00-3d86c18933f4",
+      "title": "Software Engineer, Photoreal 3D",
+      "location": "Union Square, New York City",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mirage/d6032f7a-1f0f-4e6d-ba00-3d86c18933f4",
+      "postedAt": "2026-11-02T14:41:58.742Z",
+      "key": "mirage:d6032f7a-1f0f-4e6d-ba00-3d86c18933f4",
+      "company": "Mirage",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T14:50:19.766Z"
+    },
+    {
+      "id": "881f87a7-fbca-43ca-adee-cd87d838dc52",
+      "title": "Software Engineer, Backend ",
+      "location": "Union Square, New York City",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/mirage/881f87a7-fbca-43ca-adee-cd87d838dc52",
+      "postedAt": "2026-11-02T14:41:25.615Z",
+      "key": "mirage:881f87a7-fbca-43ca-adee-cd87d838dc52",
+      "company": "Mirage",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T14:50:19.766Z"
+    },
+    {
+      "id": "9e5835a2-5a70-4919-9a92-c7dc1b74163f",
+      "title": "Software Engineer, Agents ",
+      "location": "Union Square, New York City",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/mirage/9e5835a2-5a70-4919-9a92-c7dc1b74163f",
+      "postedAt": "2026-11-02T14:40:35.095Z",
+      "key": "mirage:9e5835a2-5a70-4919-9a92-c7dc1b74163f",
+      "company": "Mirage",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T14:50:19.766Z"
+    },
     {
       "id": "c6a90178-82d7-414e-ad74-69496b44d3c4",
       "title": "Engineering Manager - Frontend - Krak",
@@ -12623,22 +12709,6 @@
       "firstSeen": "2026-10-30T15:00:28.428Z"
     },
     {
-      "id": "08ca24dc-4527-4d40-9952-723474b20ce3",
-      "title": "Software Engineer, Photoreal 3D",
-      "location": "Union Square, New York City",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mirage/08ca24dc-4527-4d40-9952-723474b20ce3",
-      "postedAt": "2026-10-30T14:22:35.854Z",
-      "key": "mirage:08ca24dc-4527-4d40-9952-723474b20ce3",
-      "company": "Mirage",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T14:30:23.142Z"
-    },
-    {
       "id": "312108e7-559d-4e25-909c-df039d765d20",
       "title": "Software Engineer, iOS",
       "location": "Union Square, New York City",
@@ -12646,38 +12716,6 @@
       "url": "https://jobs.ashbyhq.com/mirage/312108e7-559d-4e25-909c-df039d765d20",
       "postedAt": "2026-10-30T14:21:27.921Z",
       "key": "mirage:312108e7-559d-4e25-909c-df039d765d20",
-      "company": "Mirage",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T14:30:23.142Z"
-    },
-    {
-      "id": "2a113ad8-45b6-4c9e-aa01-3c3e2b884321",
-      "title": "Software Engineer, Agents ",
-      "location": "Union Square, New York City",
-      "team": "Backend",
-      "url": "https://jobs.ashbyhq.com/mirage/2a113ad8-45b6-4c9e-aa01-3c3e2b884321",
-      "postedAt": "2026-10-30T14:21:02.497Z",
-      "key": "mirage:2a113ad8-45b6-4c9e-aa01-3c3e2b884321",
-      "company": "Mirage",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T14:30:23.142Z"
-    },
-    {
-      "id": "d8528add-5d9f-4cac-9b0a-caf7c99d48ca",
-      "title": "Software Engineer, Backend ",
-      "location": "Union Square, New York City",
-      "team": "Backend",
-      "url": "https://jobs.ashbyhq.com/mirage/d8528add-5d9f-4cac-9b0a-caf7c99d48ca",
-      "postedAt": "2026-10-30T14:20:43.373Z",
-      "key": "mirage:d8528add-5d9f-4cac-9b0a-caf7c99d48ca",
       "company": "Mirage",
       "level": "experienced",
       "term": null,
@@ -15206,22 +15244,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T02:50:17.881Z"
-    },
-    {
-      "id": "8329718",
-      "title": "Staff Software Engineer, Dashboard Product",
-      "location": "Seattle",
-      "team": "8414 MerchantXP - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8329718",
-      "postedAt": "2026-10-28T01:21:27.000Z",
-      "key": "stripe:8329718",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T01:30:21.709Z"
     },
     {
       "id": "8919948002",
