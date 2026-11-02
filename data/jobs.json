@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-11-02T22:10:18.574Z",
+  "generatedAt": "2026-11-02T22:20:22.049Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "robinhood:8348038",
-    "snowflake:808d3b05-081d-4eb6-a5dc-74448c3429e9"
+    "Procore:R0019009",
+    "robinhood:8348035",
+    "snorkelai:6240913004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 125,
+    "intern": 124,
     "new-grad": 21,
-    "experienced": 2095
+    "experienced": 2098
   },
   "companies": [
     {
@@ -1747,10 +1748,10 @@
     },
     {
       "name": "Fintual",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Finvest",
@@ -3336,10 +3337,10 @@
     },
     {
       "name": "Nimble Rx",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nira Energy",
@@ -3890,7 +3891,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4233,7 +4234,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4632,7 +4633,7 @@
     {
       "name": "Snorkel AI",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 63,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5402,7 +5403,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R0019009",
+      "title": "Senior Platform Engineer, MCP & Connectors",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-Platform-Engineer--MCP---Connectors_R0019009",
+      "postedAt": "2026-11-02T22:20:25.450Z",
+      "key": "Procore:R0019009",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T22:20:22.049Z"
+    },
+    {
+      "id": "6240913004",
+      "title": "Research Scientist, Open Benchmarks",
+      "location": "San Francisco, CA (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6240913004",
+      "postedAt": "2026-11-02T22:14:16.000Z",
+      "key": "snorkelai:6240913004",
+      "company": "Snorkel AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T22:20:22.049Z"
+    },
+    {
+      "id": "8348035",
+      "title": "Applications Developer, Workday",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8348035?t=gh_src=&gh_jid=8348035",
+      "postedAt": "2026-11-02T22:11:27.000Z",
+      "key": "robinhood:8348035",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-02T22:20:22.049Z"
+    },
     {
       "id": "808d3b05-081d-4eb6-a5dc-74448c3429e9",
       "title": "Information Systems Security Engineer ",
@@ -17567,26 +17616,6 @@
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W-1",
       "postedAt": "2026-10-27T13:00:54.444Z",
       "key": "Visa:REF089919W",
-      "company": "Visa",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T13:00:26.842Z"
-    },
-    {
-      "id": "REF089880W",
-      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
-      "location": "US - Denver, CO",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1",
-      "postedAt": "2026-10-27T13:00:54.444Z",
-      "key": "Visa:REF089880W",
       "company": "Visa",
       "level": "intern",
       "term": {
