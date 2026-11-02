@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-02T19:40:19.410Z",
+  "generatedAt": "2026-11-02T19:50:35.848Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1004616",
-    "elevenlabs:ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
-    "elevenlabs:e4e0450f-d139-4f8e-b210-2f326a680d90"
+    "Nvidia:JR2024713",
+    "spacex:8927312002",
+    "spruceid:c06e4344-c7b0-4c1b-beb8-a9646594ff7c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 123,
     "new-grad": 21,
-    "experienced": 2075
+    "experienced": 2077
   },
   "companies": [
     {
@@ -595,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3429,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 320,
+      "jobCount": 321,
       "error": null,
       "stale": false
     },
@@ -4339,7 +4339,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 60,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 61,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4738,7 +4738,7 @@
     {
       "name": "Spruce Systems",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "JR2024713",
+      "title": "Applied Systems Engineering Rotation Engineer - New College Graduate 2026",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713",
+      "postedAt": "2026-11-02T19:50:39.913Z",
+      "key": "Nvidia:JR2024713",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T19:50:35.848Z"
+    },
+    {
+      "id": "c06e4344-c7b0-4c1b-beb8-a9646594ff7c",
+      "title": "Senior/Staff Forward-Deployed Engineer (Mobile)",
+      "location": "REMOTE",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/spruceid/c06e4344-c7b0-4c1b-beb8-a9646594ff7c",
+      "postedAt": "2026-11-02T19:43:33.905Z",
+      "key": "spruceid:c06e4344-c7b0-4c1b-beb8-a9646594ff7c",
+      "company": "Spruce Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-02T19:50:35.848Z"
+    },
+    {
       "id": "R1004616",
       "title": "Full-stack Engineer 5",
       "location": "New York, NY",
@@ -5718,6 +5750,22 @@
         "us"
       ],
       "firstSeen": "2026-11-02T19:40:19.410Z"
+    },
+    {
+      "id": "8927312002",
+      "title": "Sr. Security Engineer (Infrastructure)",
+      "location": "Cape Canaveral, FL",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927312002?gh_jid=8927312002",
+      "postedAt": "2026-11-02T19:36:41.000Z",
+      "key": "spacex:8927312002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T19:50:35.848Z"
     },
     {
       "id": "e4e0450f-d139-4f8e-b210-2f326a680d90",
@@ -35943,22 +35991,6 @@
         "us"
       ],
       "firstSeen": "2026-10-14T20:30:19.393Z"
-    },
-    {
-      "id": "8264748",
-      "title": "Sr Offensive AI Security Engineer II",
-      "location": "Remote - MA",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8264748?gh_jid=8264748",
-      "postedAt": "2026-10-08T15:27:51.000Z",
-      "key": "samsara:8264748",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T15:30:20.937Z"
     },
     {
       "id": "7992391d-a890-41f7-85c8-849e0b878981",
