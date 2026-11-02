@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T16:50:20.126Z",
+  "generatedAt": "2026-11-02T17:00:28.532Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1004991"
+    "saronic:a424fdc6-83b5-4176-9172-7bf951e7b97d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 123,
     "new-grad": 20,
-    "experienced": 2050
+    "experienced": 2051
   },
   "companies": [
     {
@@ -3848,7 +3848,7 @@
       "name": "Postman",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4365,7 +4365,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 58,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a424fdc6-83b5-4176-9172-7bf951e7b97d",
+      "title": "NPI Quality Engineer - Naval",
+      "location": "Austin, TX",
+      "team": "Quality",
+      "url": "https://jobs.ashbyhq.com/saronic/a424fdc6-83b5-4176-9172-7bf951e7b97d",
+      "postedAt": "2026-11-02T16:54:58.326Z",
+      "key": "saronic:a424fdc6-83b5-4176-9172-7bf951e7b97d",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T17:00:28.532Z"
+    },
     {
       "id": "R1004991",
       "title": "Capital One Shopping Tech, Data Engineer 5 (Remote- Eligible)",
