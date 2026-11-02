@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-11-02T17:20:22.842Z",
+  "generatedAt": "2026-11-02T17:30:25.725Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "airbnb:8337480",
+    "Capital One:R1004947",
+    "Nvidia:JR2024734",
+    "vercel:6240736004"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 123,
     "new-grad": 20,
-    "experienced": 2055
+    "experienced": 2058
   },
   "companies": [
     {
@@ -114,7 +119,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 139,
+      "jobCount": 140,
       "error": null,
       "stale": false
     },
@@ -2108,10 +2113,10 @@
     },
     {
       "name": "H1",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "HackerRank",
@@ -3425,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 319,
+      "jobCount": 320,
       "error": null,
       "stale": false
     },
@@ -3585,10 +3590,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 7,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -5083,10 +5088,10 @@
     },
     {
       "name": "Thunkable",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tilt",
@@ -5343,7 +5348,7 @@
     {
       "name": "Vercel",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5686,7 +5691,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2024734",
+      "title": "Senior Staff Software Engineer - Agentic Automation",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Staff-Software-Engineer---Agentic-Automation_JR2024734",
+      "postedAt": "2026-11-02T17:30:29.651Z",
+      "key": "Nvidia:JR2024734",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T17:30:25.725Z"
+    },
+    {
+      "id": "R1004947",
+      "title": "Staff Engineer - Data Engineering",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Engineer---Data-Engineering_R1004947-1",
+      "postedAt": "2026-11-02T17:30:28.431Z",
+      "key": "Capital One:R1004947",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-02T17:30:25.725Z"
+    },
+    {
+      "id": "8337480",
+      "title": "Senior Application Security Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8337480?gh_jid=8337480",
+      "postedAt": "2026-11-02T17:27:51.000Z",
+      "key": "airbnb:8337480",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T17:30:25.725Z"
+    },
+    {
+      "id": "6240736004",
+      "title": "Software Engineer, Compute",
+      "location": "Hybrid - San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6240736004",
+      "postedAt": "2026-11-02T17:26:43.000Z",
+      "key": "vercel:6240736004",
+      "company": "Vercel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T17:30:25.725Z"
+    },
     {
       "id": "R1004708",
       "title": "Full-stack Engineer 4",
@@ -23796,22 +23865,6 @@
       "firstSeen": "2026-10-20T18:00:24.371Z"
     },
     {
-      "id": "5255854007",
-      "title": "Principal Software Engineer - Intelligent Data Platform",
-      "location": "Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5255854007",
-      "postedAt": "2026-10-20T17:53:52.000Z",
-      "key": "zscaler:5255854007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T15:50:16.946Z"
-    },
-    {
       "id": "5200385007",
       "title": "Sr. Site Reliability Engineer-Federal, Security Clearance",
       "location": "Crystal City, Virginia, USA",
@@ -26788,7 +26841,7 @@
       "id": "acbe3667-1be2-4880-9d5b-969eb6127b7c",
       "title": "Software Engineering Manager, AI Migrations (Forward Deployed)",
       "location": "US-CA-Menlo Park",
-      "team": "Professional Services",
+      "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/snowflake/acbe3667-1be2-4880-9d5b-969eb6127b7c",
       "postedAt": "2026-10-16T19:39:12.851Z",
       "key": "snowflake:acbe3667-1be2-4880-9d5b-969eb6127b7c",
