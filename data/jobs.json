@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-02T23:30:23.285Z",
+  "generatedAt": "2026-11-02T23:40:30.869Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "coinbase:8304052",
-    "reddit:8337444"
+    "databricks:8927749002",
+    "Nvidia:JR2023004",
+    "toast:8186869"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 21,
-    "experienced": 2108
+    "experienced": 2111
   },
   "companies": [
     {
@@ -594,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -937,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1293,7 +1294,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 328,
+      "jobCount": 329,
       "error": null,
       "stale": false
     },
@@ -3644,10 +3645,10 @@
     },
     {
       "name": "Pendulum",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pennylane",
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 63,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5108,7 +5109,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5149,10 +5150,10 @@
     },
     {
       "name": "Tractian",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Trade Republic",
@@ -5695,13 +5696,45 @@
     },
     {
       "name": "Zuma",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     }
   ],
   "jobs": [
+    {
+      "id": "JR2023004",
+      "title": "Senior Software Engineer, Machine Learning Safety",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Machine-Learning-Safety_JR2023004",
+      "postedAt": "2026-11-02T23:40:36.124Z",
+      "key": "Nvidia:JR2023004",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T23:40:30.869Z"
+    },
+    {
+      "id": "8927749002",
+      "title": "Sr. Staff Software Engineer, Agentic Applications",
+      "location": "Mountain View, California",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8927749002",
+      "postedAt": "2026-11-02T23:30:33.000Z",
+      "key": "databricks:8927749002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T23:40:30.869Z"
+    },
     {
       "id": "8337444",
       "title": "Software Engineer, Infrastructure Engineering",
@@ -20317,6 +20350,22 @@
       "firstSeen": "2026-10-23T18:00:29.039Z"
     },
     {
+      "id": "8186869",
+      "title": "Software Engineer II (Fullstack), Digital Storefront",
+      "location": "US (remote)",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8186869",
+      "postedAt": "2026-10-23T17:50:16.000Z",
+      "key": "toast:8186869",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T23:40:30.869Z"
+    },
+    {
       "id": "6122975004",
       "title": "Principal Engineer, AI Platform",
       "location": "Cary,North Carolina,United States",
@@ -33959,7 +34008,7 @@
     },
     {
       "id": "8882642002",
-      "title": "Site Reliability Engineer, Data Center Infrastructure ",
+      "title": "Sr. Site Reliability Engineer, Data Center Infrastructure ",
       "location": "Bastrop, TX",
       "team": null,
       "url": "https://boards.greenhouse.io/spacex/jobs/8882642002?gh_jid=8882642002",
