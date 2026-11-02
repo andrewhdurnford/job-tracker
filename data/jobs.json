@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-11-02T23:40:30.869Z",
+  "generatedAt": "2026-11-02T23:50:18.322Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "databricks:8927749002",
-    "Nvidia:JR2023004",
-    "toast:8186869"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -14,7 +10,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 21,
-    "experienced": 2111
+    "experienced": 2109
   },
   "companies": [
     {
@@ -118,7 +114,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -938,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1405,10 +1401,10 @@
     },
     {
       "name": "Despegar",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Discord",
@@ -1757,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1778,7 +1774,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1876,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3645,10 +3641,10 @@
     },
     {
       "name": "Pendulum",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Pennylane",
@@ -4633,7 +4629,7 @@
     {
       "name": "Snorkel AI",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5150,10 +5146,10 @@
     },
     {
       "name": "Tractian",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Trade Republic",
@@ -5696,10 +5692,10 @@
     },
     {
       "name": "Zuma",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     }
   ],
   "jobs": [
@@ -5942,22 +5938,6 @@
       "postedAt": "2026-11-02T22:20:25.450Z",
       "key": "Procore:R0019009",
       "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-02T22:20:22.049Z"
-    },
-    {
-      "id": "6240913004",
-      "title": "Research Scientist, Open Benchmarks Grants",
-      "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6240913004",
-      "postedAt": "2026-11-02T22:14:16.000Z",
-      "key": "snorkelai:6240913004",
-      "company": "Snorkel AI",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -6785,22 +6765,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-11-02T17:30:25.725Z"
-    },
-    {
-      "id": "8337480",
-      "title": "Senior Application Security Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8337480?gh_jid=8337480",
-      "postedAt": "2026-11-02T17:27:51.000Z",
-      "key": "airbnb:8337480",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-11-02T17:30:25.725Z"
     },
