@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-02T15:00:29.381Z",
+  "generatedAt": "2026-11-02T15:10:20.726Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "alpaca:6238474004"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 20,
-    "experienced": 2048
+    "experienced": 2049
   },
   "companies": [
     {
@@ -198,7 +200,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2656,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2915,7 +2917,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4826,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6238474004",
+      "title": "Senior Software Engineer - Risk",
+      "location": "Remote - Americas",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6238474004",
+      "postedAt": "2026-11-02T15:07:10.000Z",
+      "key": "alpaca:6238474004",
+      "company": "Alpaca",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-02T15:10:20.726Z"
+    },
     {
       "id": "R1004243",
       "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
