@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-02T19:00:28.288Z",
+  "generatedAt": "2026-11-02T19:10:20.339Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "arketa:aa8596b5-f6ef-44cf-b89e-6de1e9a2508e",
-    "stripe:8346831"
+    "airbnb:8334372",
+    "Remitly:R_107116",
+    "spacex:8880656002",
+    "spacex:8880628002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 123,
     "new-grad": 21,
-    "experienced": 2064
+    "experienced": 2068
   },
   "companies": [
     {
@@ -117,7 +119,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -3728,10 +3730,10 @@
     },
     {
       "name": "PickTrace",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "PicsArt",
@@ -3772,7 +3774,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3833,10 +3835,10 @@
     },
     {
       "name": "Porter",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "PostEra",
@@ -4135,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4589,10 +4591,10 @@
     },
     {
       "name": "Smartcuts",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Smartsheet",
@@ -4624,10 +4626,10 @@
     },
     {
       "name": "Snappr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Snorkel AI",
@@ -4695,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 58,
+      "jobCount": 60,
       "error": null,
       "stale": false
     },
@@ -4829,7 +4831,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107116",
+      "title": "Software Development Engineer II, Localization",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-II--Localization_R_107116",
+      "postedAt": "2026-11-02T19:10:24.015Z",
+      "key": "Remitly:R_107116",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T19:10:20.339Z"
+    },
+    {
+      "id": "8880656002",
+      "title": "Sr. AI Security Software Engineer (Starshield)",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8880656002?gh_jid=8880656002",
+      "postedAt": "2026-11-02T19:07:12.000Z",
+      "key": "spacex:8880656002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T19:10:20.339Z"
+    },
+    {
+      "id": "8880628002",
+      "title": "Sr. AI Security Software Engineer (Starshield)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8880628002?gh_jid=8880628002",
+      "postedAt": "2026-11-02T19:07:09.000Z",
+      "key": "spacex:8880628002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T19:10:20.339Z"
+    },
+    {
+      "id": "8334372",
+      "title": "Staff Software Engineer, Tech Foundations",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8334372?gh_jid=8334372",
+      "postedAt": "2026-11-02T19:03:07.000Z",
+      "key": "airbnb:8334372",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T19:10:20.339Z"
+    },
     {
       "id": "8346831",
       "title": "Data Scientist, FX Quantitative Research",
