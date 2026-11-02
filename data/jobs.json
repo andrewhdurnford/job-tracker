@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T18:10:20.829Z",
+  "generatedAt": "2026-11-02T18:20:21.540Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "okta:8287671"
+    "komodohealth:8922346002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 123,
     "new-grad": 20,
-    "experienced": 2058
+    "experienced": 2059
   },
   "companies": [
     {
@@ -2622,7 +2622,7 @@
     {
       "name": "Komodo Health",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 58,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8922346002",
+      "title": "Senior Corporate IT Security Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8922346002",
+      "postedAt": "2026-11-02T18:15:32.000Z",
+      "key": "komodohealth:8922346002",
+      "company": "Komodo Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T18:20:21.540Z"
+    },
     {
       "id": "8287671",
       "title": "Senior Software Engineer in Test, Android",
