@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-02T15:30:27.521Z",
+  "generatedAt": "2026-11-02T15:40:22.933Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "garnerhealth:6238004004"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 20,
-    "experienced": 2048
+    "experienced": 2047
   },
   "companies": [
     {
@@ -198,7 +200,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -757,10 +759,10 @@
     },
     {
       "name": "Canary Technologies",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Candid Health",
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 138,
+      "jobCount": 137,
       "error": null,
       "stale": false
     },
@@ -1913,7 +1915,7 @@
     {
       "name": "Garner Health",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2493,10 +2495,10 @@
     },
     {
       "name": "Jito",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Juicebox",
@@ -3641,10 +3643,10 @@
     },
     {
       "name": "Pendulum",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pennylane",
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 58,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5034,10 +5036,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -5482,10 +5484,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Weave",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6238004004",
+      "title": "Senior Security Engineer",
+      "location": "Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6238004004",
+      "postedAt": "2026-11-02T15:39:36.000Z",
+      "key": "garnerhealth:6238004004",
+      "company": "Garner Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-02T15:40:22.933Z"
+    },
     {
       "id": "R1004243",
       "title": "Full-stack Engineer 4 - Intelligent Foundations and Experiences (IFX)",
@@ -14486,22 +14504,6 @@
       "firstSeen": "2026-10-28T20:30:23.461Z"
     },
     {
-      "id": "6237975004",
-      "title": "Senior Software Engineer – Agent Developer Platform",
-      "location": "Remote - Americas",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6237975004",
-      "postedAt": "2026-10-28T20:21:39.000Z",
-      "key": "alpaca:6237975004",
-      "company": "Alpaca",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-28T20:30:23.461Z"
-    },
-    {
       "id": "f8b2ffef-ae89-4860-ba6f-b5e59cb6d31e",
       "title": "Senior Software Engineer, Frontend Platform (R5790)",
       "location": "San Diego, California (+1 more)",
@@ -16416,22 +16418,6 @@
         "us"
       ],
       "firstSeen": "2026-10-27T15:00:29.124Z"
-    },
-    {
-      "id": "R1003753",
-      "title": "Senior Associate, Data Scientist - US Card DFS Integration",
-      "location": "Chicago, IL",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Senior-Associate--Data-Scientist---US-Card-DFS-Integration_R1003753-2",
-      "postedAt": "2026-10-27T14:40:22.659Z",
-      "key": "Capital One:R1003753",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T14:40:20.301Z"
     },
     {
       "id": "4421401009",
