@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-02T19:50:35.848Z",
+  "generatedAt": "2026-11-02T20:00:30.949Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2024713",
-    "spacex:8927312002",
-    "spruceid:c06e4344-c7b0-4c1b-beb8-a9646594ff7c"
+    "asana:8326299",
+    "speak:607e0571-9459-487c-8c9d-03248993aae8",
+    "spruceid:da8bfeb0-8d43-4fa0-808b-28025ce70feb"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 123,
     "new-grad": 21,
-    "experienced": 2077
+    "experienced": 2080
   },
   "companies": [
     {
@@ -391,7 +391,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3815,7 +3815,7 @@
       "name": "Pomelo Care",
       "ok": false,
       "jobCount": 1,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3841,10 +3841,10 @@
     },
     {
       "name": "PostEra",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Postman",
@@ -4703,7 +4703,7 @@
     {
       "name": "Speak",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4738,7 +4738,7 @@
     {
       "name": "Spruce Systems",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5033,7 +5033,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5318,10 +5318,10 @@
     },
     {
       "name": "Valar Atomics",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Vanta",
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "607e0571-9459-487c-8c9d-03248993aae8",
+      "title": "Backend Engineer, Payments",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/speak/607e0571-9459-487c-8c9d-03248993aae8",
+      "postedAt": "2026-11-02T19:59:05.416Z",
+      "key": "speak:607e0571-9459-487c-8c9d-03248993aae8",
+      "company": "Speak",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T20:00:30.949Z"
+    },
+    {
+      "id": "8326299",
+      "title": "Head of IT Systems Engineering",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/8326299?gh_jid=8326299",
+      "postedAt": "2026-11-02T19:58:12.000Z",
+      "key": "asana:8326299",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T20:00:30.949Z"
+    },
+    {
+      "id": "da8bfeb0-8d43-4fa0-808b-28025ce70feb",
+      "title": "Staff Forward Deployed Software Engineer",
+      "location": "REMOTE",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/spruceid/da8bfeb0-8d43-4fa0-808b-28025ce70feb",
+      "postedAt": "2026-11-02T19:52:15.177Z",
+      "key": "spruceid:da8bfeb0-8d43-4fa0-808b-28025ce70feb",
+      "company": "Spruce Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-02T20:00:30.949Z"
+    },
     {
       "id": "JR2024713",
       "title": "Applied Systems Engineering Rotation Engineer - New College Graduate 2026",
