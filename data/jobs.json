@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-02T18:40:21.060Z",
+  "generatedAt": "2026-11-02T18:50:22.151Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "CrowdStrike:R25100",
-    "pelago:5281733007",
-    "spacex:8927278002"
+    "northwoodspace:b3d9670c-54a1-4342-a13c-56eace26de83",
+    "stripe:8346778",
+    "verkada:5280545007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,8 +13,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 123,
-    "new-grad": 20,
-    "experienced": 2062
+    "new-grad": 21,
+    "experienced": 2064
   },
   "companies": [
     {
@@ -595,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3359,7 +3359,7 @@
     {
       "name": "Northwood Space",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3729,10 +3729,10 @@
     },
     {
       "name": "PickTrace",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "PicsArt",
@@ -4801,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5375,7 +5375,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,58 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8346778",
+      "title": "Data Scientist, FX Quantitative Research",
+      "location": "Toronto",
+      "team": "7112 Data Science",
+      "url": "https://stripe.com/jobs/search?gh_jid=8346778",
+      "postedAt": "2026-11-02T18:49:07.000Z",
+      "key": "stripe:8346778",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-02T18:50:22.151Z"
+    },
+    {
+      "id": "b3d9670c-54a1-4342-a13c-56eace26de83",
+      "title": "Software Engineer, Prism",
+      "location": "Torrance, CA",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/northwoodspace/b3d9670c-54a1-4342-a13c-56eace26de83",
+      "postedAt": "2026-11-02T18:47:37.598Z",
+      "key": "northwoodspace:b3d9670c-54a1-4342-a13c-56eace26de83",
+      "company": "Northwood Space",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T18:50:22.151Z"
+    },
+    {
+      "id": "5280545007",
+      "title": "Backend Software Engineer - University Graduate 2027",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5280545007",
+      "postedAt": "2026-11-02T18:47:29.000Z",
+      "key": "verkada:5280545007",
+      "company": "Verkada",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T18:50:22.151Z"
+    },
     {
       "id": "R25100",
       "title": "Sr. Software Engineer, MarTech (Remote)",
