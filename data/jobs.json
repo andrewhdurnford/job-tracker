@@ -1,17 +1,16 @@
 {
-  "generatedAt": "2026-11-02T16:20:25.174Z",
+  "generatedAt": "2026-11-02T16:30:24.643Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "cloudflare:8239181",
-    "Visa:REF089743W"
+    "Capital One:R1004036"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 126,
+    "intern": 123,
     "new-grad": 20,
     "experienced": 2049
   },
@@ -82,7 +81,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -594,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -789,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 137,
+      "jobCount": 138,
       "error": null,
       "stale": false
     },
@@ -937,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1426,7 +1425,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -2363,10 +2362,10 @@
     },
     {
       "name": "Included Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Inferact",
@@ -3772,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004036",
+      "title": "Full-stack Engineer 4 (Manager, IC )",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager--IC--_R1004036-1",
+      "postedAt": "2026-11-02T16:30:27.944Z",
+      "key": "Capital One:R1004036",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T16:30:24.643Z"
+    },
     {
       "id": "REF089743W",
       "title": "Staff Software Engineer",
@@ -14035,7 +14050,7 @@
     {
       "id": "b6e0d9c6-a5ad-4d27-ad67-fde760e277b6",
       "title": "Software Engineer, Infranomics",
-      "location": "San Francisco",
+      "location": "San Francisco (+2 more)",
       "team": "Scaling",
       "url": "https://jobs.ashbyhq.com/openai/b6e0d9c6-a5ad-4d27-ad67-fde760e277b6",
       "postedAt": "2026-10-29T03:12:08.668Z",
@@ -14051,7 +14066,7 @@
     {
       "id": "1d386acc-5fe0-44ed-b288-a6b1b891c9a8",
       "title": "Software Engineer, Traffic Infrastructure",
-      "location": "San Francisco",
+      "location": "San Francisco (+1 more)",
       "team": "Scaling",
       "url": "https://jobs.ashbyhq.com/openai/1d386acc-5fe0-44ed-b288-a6b1b891c9a8",
       "postedAt": "2026-10-29T03:04:56.522Z",
@@ -16438,7 +16453,7 @@
     },
     {
       "id": "5256472007",
-      "title": "Principal Software Development Engineer- Go",
+      "title": "Principal Software Development Engineer- Go/Java",
       "location": "Santa Clara, California, USA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5256472007",
@@ -19276,54 +19291,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-10-23T16:20:18.831Z"
-    },
-    {
-      "id": "30587",
-      "title": "Agentic AI Engineer Intern",
-      "location": "US-SFO-Main",
-      "team": "University",
-      "url": "https://uscareers-docusign.icims.com/jobs/30587/login",
-      "postedAt": "2026-10-23T16:15:00.000Z",
-      "key": "DocuSign:30587",
-      "company": "DocuSign",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T16:20:18.831Z"
-    },
-    {
-      "id": "30571",
-      "title": "Software Developer Intern",
-      "location": "US-SFO-Main",
-      "team": "University",
-      "url": "https://uscareers-docusign.icims.com/jobs/30571/login",
-      "postedAt": "2026-10-23T16:15:00.000Z",
-      "key": "DocuSign:30571",
-      "company": "DocuSign",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T16:20:18.831Z"
-    },
-    {
-      "id": "30578",
-      "title": "AI Platform Engineer Intern",
-      "location": "US-SFO-Main",
-      "team": "University",
-      "url": "https://uscareers-docusign.icims.com/jobs/30578/login",
-      "postedAt": "2026-10-23T16:14:00.000Z",
-      "key": "DocuSign:30578",
-      "company": "DocuSign",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-23T16:20:18.831Z"
     },
@@ -23635,22 +23602,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-20T19:00:25.207Z"
-    },
-    {
-      "id": "8017509003",
-      "title": "Software Engineer II, Backend (Purchasing Power - Core)",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017509003",
-      "postedAt": "2026-10-20T18:53:29.000Z",
-      "key": "affirm:8017509003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-10-20T19:00:25.207Z"
     },
