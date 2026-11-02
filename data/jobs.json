@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-11-02T23:10:20.304Z",
+  "generatedAt": "2026-11-02T23:20:24.654Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "figma:6231582004",
+    "Nvidia:JR2028914",
+    "roblox:8275414",
+    "shieldai:ac38d092-f435-4301-880b-48d0e92679a4"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 125,
+    "intern": 126,
     "new-grad": 21,
-    "experienced": 2105
+    "experienced": 2108
   },
   "companies": [
     {
@@ -1703,7 +1708,7 @@
     {
       "name": "Figma",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 328,
+      "jobCount": 329,
       "error": null,
       "stale": false
     },
@@ -4237,7 +4242,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -4468,7 +4473,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 63,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5704,60 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028914",
+      "title": "Senior Software Engineer, SRE and Production Engineering - DGX Cloud",
+      "location": "Canada, Remote",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Software-Engineer--SRE-and-Production-Engineering---DGX-Cloud_JR2028914",
+      "postedAt": "2026-11-02T23:20:29.182Z",
+      "key": "Nvidia:JR2028914",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-02T23:20:24.654Z"
+    },
+    {
+      "id": "8275414",
+      "title": "Senior Software Engineer (Machine Learning) - Economy ML",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8275414?gh_jid=8275414",
+      "postedAt": "2026-11-02T23:20:19.000Z",
+      "key": "roblox:8275414",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T23:20:24.654Z"
+    },
+    {
+      "id": "ac38d092-f435-4301-880b-48d0e92679a4",
+      "title": "Summer 2027 Intern - Embedded Firmware - 5810",
+      "location": "Dallas, Texas",
+      "team": "V-BAT Engineering",
+      "url": "https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4",
+      "postedAt": "2026-11-02T23:09:56.680Z",
+      "key": "shieldai:ac38d092-f435-4301-880b-48d0e92679a4",
+      "company": "Shield AI",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T23:20:24.654Z"
+    },
     {
       "id": "48962b15-6796-4f34-a4ca-4cebe142103d",
       "title": "Software Engineer, Federal",
@@ -14978,6 +15037,22 @@
         "us"
       ],
       "firstSeen": "2026-10-29T15:00:28.903Z"
+    },
+    {
+      "id": "6231582004",
+      "title": "Developer Advocate, Payload",
+      "location": "San Francisco, CA • New York, NY • United States",
+      "team": null,
+      "url": "https://boards.greenhouse.io/figma/jobs/6231582004?gh_jid=6231582004",
+      "postedAt": "2026-10-29T14:36:37.000Z",
+      "key": "figma:6231582004",
+      "company": "Figma",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T23:20:24.654Z"
     },
     {
       "id": "8333742",
