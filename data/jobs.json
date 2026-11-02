@@ -1,20 +1,21 @@
 {
-  "generatedAt": "2026-11-02T20:00:30.949Z",
+  "generatedAt": "2026-11-02T20:10:19.125Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "asana:8326299",
-    "speak:607e0571-9459-487c-8c9d-03248993aae8",
-    "spruceid:da8bfeb0-8d43-4fa0-808b-28025ce70feb"
+    "astro-mechanica:746a6647-a07d-41ef-91e4-0dfe3a10800b",
+    "astro-mechanica:740cedb6-3c69-49c2-8662-7997799b8c87",
+    "lucidmotors:5279158007",
+    "toast:8245633"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 123,
+    "intern": 125,
     "new-grad": 21,
-    "experienced": 2080
+    "experienced": 2082
   },
   "companies": [
     {
@@ -440,7 +441,7 @@
     {
       "name": "Astro Mechanica",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -2813,7 +2814,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3815,7 +3816,7 @@
       "name": "Pomelo Care",
       "ok": false,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3841,10 +3842,10 @@
     },
     {
       "name": "PostEra",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Postman",
@@ -4695,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 61,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5033,7 +5034,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5109,7 +5110,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5318,10 +5319,10 @@
     },
     {
       "name": "Valar Atomics",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Vanta",
@@ -5703,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "740cedb6-3c69-49c2-8662-7997799b8c87",
+      "title": "Software Engineering Intern",
+      "location": "San Francisco",
+      "team": "Internships",
+      "url": "https://jobs.ashbyhq.com/astro-mechanica/740cedb6-3c69-49c2-8662-7997799b8c87",
+      "postedAt": "2026-11-02T20:07:06.716Z",
+      "key": "astro-mechanica:740cedb6-3c69-49c2-8662-7997799b8c87",
+      "company": "Astro Mechanica",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T20:10:19.125Z"
+    },
+    {
+      "id": "746a6647-a07d-41ef-91e4-0dfe3a10800b",
+      "title": "Airframe/Structures Engineering Intern",
+      "location": "San Francisco",
+      "team": "Internships",
+      "url": "https://jobs.ashbyhq.com/astro-mechanica/746a6647-a07d-41ef-91e4-0dfe3a10800b",
+      "postedAt": "2026-11-02T20:07:04.888Z",
+      "key": "astro-mechanica:746a6647-a07d-41ef-91e4-0dfe3a10800b",
+      "company": "Astro Mechanica",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T20:10:19.125Z"
+    },
+    {
+      "id": "5279158007",
+      "title": "Staff Software Development Engineer In Test, Platform Software",
+      "location": "Newark, CA",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5279158007?gh_jid=5279158007",
+      "postedAt": "2026-11-02T20:02:08.000Z",
+      "key": "lucidmotors:5279158007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T20:10:19.125Z"
+    },
     {
       "id": "607e0571-9459-487c-8c9d-03248993aae8",
       "title": "Backend Engineer, Payments",
@@ -32311,6 +32360,22 @@
         "us"
       ],
       "firstSeen": "2026-10-13T14:10:17.703Z"
+    },
+    {
+      "id": "8245633",
+      "title": "Software Engineer II, Developer Experience",
+      "location": "Remote, US",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8245633",
+      "postedAt": "2026-10-13T14:02:51.000Z",
+      "key": "toast:8245633",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T20:10:19.125Z"
     },
     {
       "id": "49e569f0-503e-4e42-a1ba-7e63684e90d3",
