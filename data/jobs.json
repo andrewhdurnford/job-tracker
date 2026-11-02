@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-11-02T07:50:17.577Z",
+  "generatedAt": "2026-11-02T08:00:38.763Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "CrowdStrike:R30703",
+    "CrowdStrike:R30597",
+    "CrowdStrike:R29970",
+    "CrowdStrike:R27157"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 134,
     "new-grad": 20,
-    "experienced": 2052
+    "experienced": 2044
   },
   "companies": [
     {
@@ -591,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 141,
+      "jobCount": 135,
       "error": null,
       "stale": false
     },
@@ -1241,7 +1246,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 40,
       "error": null,
       "stale": false
     },
@@ -4132,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 58,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5399,7 +5404,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R30703",
+      "title": "Cloud Engineer III, Exposure Management (Hybrid, Sunnyvale)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Cloud-Engineer-III--Exposure-Management--Hybrid--Sunnyvale-_R30703",
+      "postedAt": "2026-11-02T08:00:43.105Z",
+      "key": "CrowdStrike:R30703",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T08:00:38.763Z"
+    },
+    {
+      "id": "R30597",
+      "title": "Front End Engineer II (Remote)",
+      "location": "USA - Remote, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Front-End-Engineer-II--Remote-_R30597",
+      "postedAt": "2026-11-02T08:00:43.105Z",
+      "key": "CrowdStrike:R30597",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T08:00:38.763Z"
+    },
+    {
+      "id": "R29970",
+      "title": "Sr. Platform Engineer - Kubernetes (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Sr-Platform-Engineer---Kubernetes--Remote-_R29970",
+      "postedAt": "2026-11-02T08:00:43.105Z",
+      "key": "CrowdStrike:R29970",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T08:00:38.763Z"
+    },
+    {
+      "id": "R27157",
+      "title": "Sr. Software Engineer - Sensor - Cloud Runtime Protection (Hybrid)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Sensor---Cloud-Runtime-Protection--Hybrid-_R27157",
+      "postedAt": "2026-11-02T08:00:43.105Z",
+      "key": "CrowdStrike:R27157",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T08:00:38.763Z"
+    },
     {
       "id": "R30482",
       "title": "Engineer III - Cloud (Remote)",
@@ -40384,182 +40453,6 @@
       "firstSeen": "2026-10-04T19:10:15.010Z"
     },
     {
-      "id": "R1002940",
-      "title": "Senior Associate, Data Scientist - Applied AI (Financial Services)",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Associate--Data-Scientist---Applied-AI--Financial-Services-_R1002940-1",
-      "postedAt": "2026-10-02T21:20:20.845Z",
-      "key": "Capital One:R1002940",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T21:20:17.411Z"
-    },
-    {
-      "id": "R_106938",
-      "title": "Principal Software Development Engineer, Core Transfer Experience",
-      "location": "Seattle, Washington United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Principal-Software-Development-Engineer--Core-Transfer-Experience_R_106938",
-      "postedAt": "2026-10-02T20:20:21.006Z",
-      "key": "Remitly:R_106938",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T20:20:17.463Z"
-    },
-    {
-      "id": "R1002908",
-      "title": "Full Stack Engineer 4",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4_R1002908-1",
-      "postedAt": "2026-10-02T19:50:24.141Z",
-      "key": "Capital One:R1002908",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T19:50:20.667Z"
-    },
-    {
-      "id": "R1002869",
-      "title": "Staff Full-stack Engineer - FS Tech Architecture",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Staff-Full-stack-Engineer---FS-Tech-Architecture_R1002869-1",
-      "postedAt": "2026-10-02T19:00:28.672Z",
-      "key": "Capital One:R1002869",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T19:00:25.701Z"
-    },
-    {
-      "id": "R30285",
-      "title": "Vice President, AI Architect (Remote)",
-      "location": "USA - Remote",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Vice-President--AI-Architect--Remote-_R30285",
-      "postedAt": "2026-10-02T16:00:31.485Z",
-      "key": "CrowdStrike:R30285",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T16:00:27.153Z"
-    },
-    {
-      "id": "R1002536",
-      "title": "Full-stack Engineer 4 (Java, Spring Boot, Python, CI/CD)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Java--Spring-Boot--Python--CI-CD-_R1002536-2",
-      "postedAt": "2026-10-02T16:00:30.463Z",
-      "key": "Capital One:R1002536",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T16:00:27.153Z"
-    },
-    {
-      "id": "REF088874W",
-      "title": "Senior Data Scientist",
-      "location": "CA - Toronto, Canada",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/CA---Toronto-Canada/Senior-Data-Scientist_REF088874W",
-      "postedAt": "2026-10-02T15:10:21.576Z",
-      "key": "Visa:REF088874W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-02T15:10:18.064Z"
-    },
-    {
-      "id": "R1002593",
-      "title": "Senior Staff Full-stack Engineer - FS Tech Architecture",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Staff-Full-stack-Engineer---FS-Tech-Architecture_R1002593",
-      "postedAt": "2026-10-02T15:10:20.701Z",
-      "key": "Capital One:R1002593",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T15:10:18.064Z"
-    },
-    {
-      "id": "R1002592",
-      "title": "Staff Full-stack Engineer - FS Tech Architecture",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Staff-Full-stack-Engineer---FS-Tech-Architecture_R1002592-2",
-      "postedAt": "2026-10-02T15:10:20.701Z",
-      "key": "Capital One:R1002592",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T15:10:18.064Z"
-    },
-    {
-      "id": "REF085174W",
-      "title": "Sr. SW AI Engineer",
-      "location": "US - Austin, TX",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Austin-TX/Sr-SW-AI-Engineer_REF085174W-2",
-      "postedAt": "2026-10-02T14:40:19.726Z",
-      "key": "Visa:REF085174W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T14:40:16.294Z"
-    },
-    {
-      "id": "R_106424",
-      "title": "Staff Software Engineer, USA & Canada Regional Experience",
-      "location": "Seattle, Washington United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Staff-Software-Engineer_R_106424",
-      "postedAt": "2026-10-02T00:20:22.264Z",
-      "key": "Remitly:R_106424",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-02T00:20:18.305Z"
-    },
-    {
       "id": "d1d11006-d1e8-42c4-b1ea-02f4013c1ddb",
       "title": "Senior Software Engineer, Flight + Plan",
       "location": "Washington, DC",
@@ -40974,22 +40867,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-23T14:20:19.479Z"
-    },
-    {
-      "id": "R_106940",
-      "title": "Principal Software Engineer, High Value Send",
-      "location": "Seattle, Washington United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Principal-Software-Engineer--High-Value-Send_R_106940-1",
-      "postedAt": "2026-09-23T06:20:22.246Z",
-      "key": "Remitly:R_106940",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T06:20:18.715Z"
     },
     {
       "id": "R1001274",
