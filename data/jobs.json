@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-11-02T21:10:18.850Z",
+  "generatedAt": "2026-11-02T21:20:19.617Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "Nvidia:JR2021717"
+    "affirm:8017509003",
+    "Capital One:R1002665",
+    "Capital One:R1001486",
+    "Capital One:R1002512",
+    "cohere:1a765f7b-ba66-43b1-8b17-86467a897ac4",
+    "elastic:8347901"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +17,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 21,
-    "experienced": 2090
+    "experienced": 2094
   },
   "companies": [
     {
@@ -81,7 +86,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -788,16 +793,16 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 141,
+      "jobCount": 142,
       "error": null,
       "stale": false
     },
     {
       "name": "CaptivateIQ",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Capy",
@@ -936,7 +941,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1047,7 +1052,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1523,7 +1528,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -2110,10 +2115,10 @@
     },
     {
       "name": "H1",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "HackerRank",
@@ -3797,10 +3802,10 @@
     },
     {
       "name": "Poll Everywhere",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Polymath",
@@ -5701,6 +5706,87 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002665",
+      "title": "Full-stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1002665-1",
+      "postedAt": "2026-11-02T21:20:22.687Z",
+      "key": "Capital One:R1002665",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T21:20:19.617Z"
+    },
+    {
+      "id": "R1001486",
+      "title": "Mobile Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Mobile-Engineer-4_R1001486-1",
+      "postedAt": "2026-11-02T21:20:22.687Z",
+      "key": "Capital One:R1001486",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T21:20:19.617Z"
+    },
+    {
+      "id": "R1002512",
+      "title": "Senior Manager, Full-stack Engineer",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Manager--Full-stack-Engineer_R1002512-1",
+      "postedAt": "2026-11-02T21:20:22.687Z",
+      "key": "Capital One:R1002512",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T21:20:19.617Z"
+    },
+    {
+      "id": "1a765f7b-ba66-43b1-8b17-86467a897ac4",
+      "title": "Senior Security Operations Engineer",
+      "location": "United States (+1 more)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/cohere/1a765f7b-ba66-43b1-8b17-86467a897ac4",
+      "postedAt": "2026-11-02T21:18:19.070Z",
+      "key": "cohere:1a765f7b-ba66-43b1-8b17-86467a897ac4",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-02T21:20:19.617Z"
+    },
+    {
+      "id": "8347901",
+      "title": "Senior Security Research Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8347901&gh_jid=8347901",
+      "postedAt": "2026-11-02T21:11:23.000Z",
+      "key": "elastic:8347901",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T21:20:19.617Z"
+    },
     {
       "id": "JR2021717",
       "title": "Senior AI Engineer",
@@ -24362,6 +24448,22 @@
       "firstSeen": "2026-10-20T19:00:25.207Z"
     },
     {
+      "id": "8017509003",
+      "title": "Software Engineer II, Backend (Purchasing Power - Core)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017509003",
+      "postedAt": "2026-10-20T18:53:29.000Z",
+      "key": "affirm:8017509003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-02T21:20:19.617Z"
+    },
+    {
       "id": "8304038",
       "title": "Software Engineer - Crypto Data Foundations",
       "location": "Remote - USA",
@@ -27350,22 +27452,6 @@
       "firstSeen": "2026-10-16T20:20:16.137Z"
     },
     {
-      "id": "R1003879",
-      "title": "Data Engineer 4, Real-time Data Platform",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-4--Real-time-Data-Platform_R1003879-1",
-      "postedAt": "2026-10-16T20:00:27.810Z",
-      "key": "Capital One:R1003879",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T20:00:24.236Z"
-    },
-    {
       "id": "1722cd81-8e62-4eac-b971-b698357ccb9e",
       "title": "Sr. AWS Cloud Infrastructure Engineer",
       "location": "New York",
@@ -28073,22 +28159,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-16T13:20:17.040Z"
-    },
-    {
-      "id": "R1003878",
-      "title": "Data Engineer 4, Auto Data Platforms",
-      "location": "Plano, TX",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-4--Auto-Data-Platforms_R1003878-1",
-      "postedAt": "2026-10-16T12:50:20.661Z",
-      "key": "Capital One:R1003878",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T12:50:17.210Z"
     },
     {
       "id": "88a70f56-834d-44d4-add8-e36b739e5495",
