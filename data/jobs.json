@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T21:00:31.633Z",
+  "generatedAt": "2026-11-02T21:10:18.850Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Nvidia:JR2028169"
+    "Nvidia:JR2021717"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 21,
-    "experienced": 2089
+    "experienced": 2090
   },
   "companies": [
     {
@@ -794,10 +794,10 @@
     },
     {
       "name": "CaptivateIQ",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Capy",
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2110,10 +2110,10 @@
     },
     {
       "name": "H1",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "HackerRank",
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 327,
+      "jobCount": 328,
       "error": null,
       "stale": false
     },
@@ -3797,10 +3797,10 @@
     },
     {
       "name": "Poll Everywhere",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Polymath",
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 63,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2021717",
+      "title": "Senior AI Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-AI-Engineer_JR2021717",
+      "postedAt": "2026-11-02T21:10:24.800Z",
+      "key": "Nvidia:JR2021717",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T21:10:18.850Z"
+    },
     {
       "id": "JR2028169",
       "title": "Staff Software Engineer - Agentic Automation",
