@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-11-02T23:20:24.654Z",
+  "generatedAt": "2026-11-02T23:30:23.285Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "figma:6231582004",
-    "Nvidia:JR2028914",
-    "roblox:8275414",
-    "shieldai:ac38d092-f435-4301-880b-48d0e92679a4"
+    "coinbase:8304052",
+    "reddit:8337444"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -596,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -939,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3430,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 329,
+      "jobCount": 328,
       "error": null,
       "stale": false
     },
@@ -4109,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -5705,20 +5703,36 @@
   ],
   "jobs": [
     {
-      "id": "JR2028914",
-      "title": "Senior Software Engineer, SRE and Production Engineering - DGX Cloud",
-      "location": "Canada, Remote",
+      "id": "8337444",
+      "title": "Software Engineer, Infrastructure Engineering",
+      "location": "Remote - United States",
       "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Software-Engineer--SRE-and-Production-Engineering---DGX-Cloud_JR2028914",
-      "postedAt": "2026-11-02T23:20:29.182Z",
-      "key": "Nvidia:JR2028914",
-      "company": "Nvidia",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
+      "postedAt": "2026-11-02T23:28:32.000Z",
+      "key": "reddit:8337444",
+      "company": "Reddit",
       "level": "experienced",
       "term": null,
       "regions": [
-        "canada"
+        "us"
       ],
-      "firstSeen": "2026-11-02T23:20:24.654Z"
+      "firstSeen": "2026-11-02T23:30:23.285Z"
+    },
+    {
+      "id": "8304052",
+      "title": "Senior Data Scientist, Platform",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8304052?gh_jid=8304052",
+      "postedAt": "2026-11-02T23:22:19.000Z",
+      "key": "coinbase:8304052",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T23:30:23.285Z"
     },
     {
       "id": "8275414",
@@ -5952,7 +5966,7 @@
     },
     {
       "id": "8348038",
-      "title": "Senior AI Operations Engineer",
+      "title": "Senior AI Operations Engineer, Enterprise Tech",
       "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
       "team": null,
       "url": "https://boards.greenhouse.io/robinhood/jobs/8348038?t=gh_src=&gh_jid=8348038",
@@ -16122,7 +16136,7 @@
     },
     {
       "id": "8305772",
-      "title": "AI Operations Engineer",
+      "title": "AI Operations Engineer, Enterprise Tech",
       "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
       "team": null,
       "url": "https://boards.greenhouse.io/robinhood/jobs/8305772?t=gh_src=&gh_jid=8305772",
@@ -28835,22 +28849,6 @@
         "us"
       ],
       "firstSeen": "2026-10-15T23:50:15.225Z"
-    },
-    {
-      "id": "8287668",
-      "title": "Senior Data Scientist, Product",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8287668?gh_jid=8287668",
-      "postedAt": "2026-10-15T23:40:55.000Z",
-      "key": "coinbase:8287668",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T22:50:19.866Z"
     },
     {
       "id": "5427855008",
