@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T15:40:22.933Z",
+  "generatedAt": "2026-11-02T15:50:21.060Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "garnerhealth:6238004004"
+    "boxinc:8318858"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -200,7 +200,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -676,7 +676,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1445,10 +1445,10 @@
     },
     {
       "name": "doola",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "DoorDash",
@@ -3643,10 +3643,10 @@
     },
     {
       "name": "Pendulum",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Pennylane",
@@ -3832,10 +3832,10 @@
     },
     {
       "name": "Porter",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "PostEra",
@@ -4203,10 +4203,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Rilla",
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 58,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5036,10 +5036,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 7,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tennr",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8318858",
+      "title": "Senior Software Engineer, Application Security",
+      "location": "Redwood City, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318858",
+      "postedAt": "2026-11-02T15:45:06.000Z",
+      "key": "boxinc:8318858",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T15:50:21.060Z"
+    },
     {
       "id": "6238004004",
       "title": "Senior Security Engineer",
@@ -14612,22 +14628,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-28T19:40:19.747Z"
-    },
-    {
-      "id": "6237960004",
-      "title": "Senior Software Engineer – Agent Experiences",
-      "location": "Remote - Americas",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6237960004",
-      "postedAt": "2026-10-28T19:34:28.000Z",
-      "key": "alpaca:6237960004",
-      "company": "Alpaca",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
       ],
       "firstSeen": "2026-10-28T19:40:19.747Z"
     },
