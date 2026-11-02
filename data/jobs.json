@@ -1,20 +1,24 @@
 {
-  "generatedAt": "2026-11-02T22:20:22.049Z",
+  "generatedAt": "2026-11-02T22:30:24.103Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "Procore:R0019009",
-    "robinhood:8348035",
-    "snorkelai:6240913004"
+    "airbnb:8348197",
+    "palantir:6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+    "palantir:ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
+    "peloton:8304700",
+    "shieldai:651bbbbe-1cba-4d59-8ed8-168f9dbb373b",
+    "shieldai:82e0ffd1-3887-4253-b458-00f39e0a387f",
+    "Visa:REF089880W"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 124,
+    "intern": 125,
     "new-grad": 21,
-    "experienced": 2098
+    "experienced": 2104
   },
   "companies": [
     {
@@ -118,7 +122,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -3590,7 +3594,7 @@
     {
       "name": "Palantir",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3632,7 +3636,7 @@
     {
       "name": "Peloton",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4472,7 +4476,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4699,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 63,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5403,7 +5407,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5707,102 @@
     }
   ],
   "jobs": [
+    {
+      "id": "651bbbbe-1cba-4d59-8ed8-168f9dbb373b",
+      "title": "Platform Engineer AI Compute  (6034)",
+      "location": "San Diego, California (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/shieldai/651bbbbe-1cba-4d59-8ed8-168f9dbb373b",
+      "postedAt": "2026-11-02T22:29:29.732Z",
+      "key": "shieldai:651bbbbe-1cba-4d59-8ed8-168f9dbb373b",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T22:30:24.103Z"
+    },
+    {
+      "id": "8348197",
+      "title": "Senior Systems Engineer, Tech Foundations",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8348197?gh_jid=8348197",
+      "postedAt": "2026-11-02T22:28:26.000Z",
+      "key": "airbnb:8348197",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T22:30:24.103Z"
+    },
+    {
+      "id": "8304700",
+      "title": "Sr. AI Engineer (Full Stack)",
+      "location": "New York, New York",
+      "team": null,
+      "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8304700",
+      "postedAt": "2026-11-02T22:22:40.000Z",
+      "key": "peloton:8304700",
+      "company": "Peloton",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T22:30:24.103Z"
+    },
+    {
+      "id": "ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
+      "title": "Software Engineer - Applied AI, Defense Applications",
+      "location": "Washington, D.C.",
+      "team": "Dev",
+      "url": "https://jobs.lever.co/palantir/ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
+      "postedAt": "2026-11-02T22:21:06.185Z",
+      "key": "palantir:ca222ecd-b659-4e3e-aee5-d85655c7bbc8",
+      "company": "Palantir",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T22:30:24.103Z"
+    },
+    {
+      "id": "82e0ffd1-3887-4253-b458-00f39e0a387f",
+      "title": "Staff Software Engineer ML Platform (6244)",
+      "location": "San Diego, California (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.lever.co/shieldai/82e0ffd1-3887-4253-b458-00f39e0a387f",
+      "postedAt": "2026-11-02T22:20:42.309Z",
+      "key": "shieldai:82e0ffd1-3887-4253-b458-00f39e0a387f",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T22:30:24.103Z"
+    },
+    {
+      "id": "6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+      "title": "Software Engineer - Applied AI, Defense Applications",
+      "location": "New York, NY",
+      "team": "Dev",
+      "url": "https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+      "postedAt": "2026-11-02T22:20:40.973Z",
+      "key": "palantir:6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+      "company": "Palantir",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T22:30:24.103Z"
+    },
     {
       "id": "R0019009",
       "title": "Senior Platform Engineer, MCP & Connectors",
@@ -16385,6 +16485,26 @@
         "us"
       ],
       "firstSeen": "2026-10-27T22:50:19.866Z"
+    },
+    {
+      "id": "REF089880W",
+      "title": "2027 Sophomore Internship Program - Software Engineer Intern, Highlands Ranch",
+      "location": "US - Denver, CO",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF089880W-1",
+      "postedAt": "2026-10-27T22:30:32.177Z",
+      "key": "Visa:REF089880W",
+      "company": "Visa",
+      "level": "intern",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T22:30:24.103Z"
     },
     {
       "id": "8313894",
