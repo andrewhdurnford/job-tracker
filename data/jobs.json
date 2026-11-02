@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-02T19:30:26.564Z",
+  "generatedAt": "2026-11-02T19:40:19.410Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "stripe:8346417",
-    "xai:5281818007"
+    "Capital One:R1004616",
+    "elevenlabs:ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+    "elevenlabs:e4e0450f-d139-4f8e-b210-2f326a680d90"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 123,
     "new-grad": 21,
-    "experienced": 2073
+    "experienced": 2075
   },
   "companies": [
     {
@@ -594,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 140,
+      "jobCount": 141,
       "error": null,
       "stale": false
     },
@@ -1538,7 +1539,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 60,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,56 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004616",
+      "title": "Full-stack Engineer 5",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5_R1004616-1",
+      "postedAt": "2026-11-02T19:40:22.711Z",
+      "key": "Capital One:R1004616",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-02T19:40:19.410Z"
+    },
+    {
+      "id": "e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "title": "Full-Stack Engineer (Backend Leaning) - Payments Engineering",
+      "location": "Remote (+5 more)",
+      "team": "Core Platform",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "postedAt": "2026-11-02T19:36:35.946Z",
+      "key": "elevenlabs:e4e0450f-d139-4f8e-b210-2f326a680d90",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-02T19:40:19.410Z"
+    },
+    {
+      "id": "ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+      "title": "Full-Stack Engineer (Backend Leaning) - Platform Engineering",
+      "location": "Remote (+5 more)",
+      "team": "Core Platform",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+      "postedAt": "2026-11-02T19:36:14.051Z",
+      "key": "elevenlabs:ce3d5a59-fb8c-482b-bc3f-60e44576c5e0",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-02T19:40:19.410Z"
+    },
     {
       "id": "8346417",
       "title": "Engineering Manager, Infrastructure (Privy)",
@@ -21451,23 +21502,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-22T12:40:17.262Z"
-    },
-    {
-      "id": "e6924f60-c8cc-42b3-9d05-2442ec30e12d",
-      "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
-      "location": "Remote (+4 more)",
-      "team": "Studio",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d",
-      "postedAt": "2026-10-22T10:57:54.716Z",
-      "key": "elevenlabs:e6924f60-c8cc-42b3-9d05-2442ec30e12d",
-      "company": "ElevenLabs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-10-22T11:00:24.852Z"
     },
     {
       "id": "4ef5101e-b083-49cd-808a-54c754d159e5",
