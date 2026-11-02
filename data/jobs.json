@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T09:20:57.922Z",
+  "generatedAt": "2026-11-02T09:30:25.238Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -1142,10 +1142,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Conveo",
@@ -1674,10 +1674,10 @@
     },
     {
       "name": "FamPay",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Farel",
@@ -3769,7 +3769,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4467,10 +4467,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 37,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -4826,7 +4826,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
