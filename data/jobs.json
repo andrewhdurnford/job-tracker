@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-03T16:00:43.372Z",
+  "generatedAt": "2026-11-03T16:10:20.759Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "lyft:8927263002",
+    "spacex:8928311002",
+    "spacex:8928312002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 20,
-    "experienced": 2134
+    "experienced": 2137
   },
   "companies": [
     {
@@ -591,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2844,7 +2848,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 65,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 67,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8927263002",
+      "title": "Senior Software Engineer, Forecasting & Real-Time Optimization",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8927263002?gh_jid=8927263002",
+      "postedAt": "2026-11-03T16:10:07.000Z",
+      "key": "lyft:8927263002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T16:10:20.759Z"
+    },
+    {
+      "id": "8928312002",
+      "title": "Sr. Site Reliability Engineer, Infrastructure ",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8928312002?gh_jid=8928312002",
+      "postedAt": "2026-11-03T16:02:49.000Z",
+      "key": "spacex:8928312002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T16:10:20.759Z"
+    },
+    {
+      "id": "8928311002",
+      "title": "Sr. Site Reliability Engineer",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8928311002?gh_jid=8928311002",
+      "postedAt": "2026-11-03T16:02:46.000Z",
+      "key": "spacex:8928311002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T16:10:20.759Z"
+    },
     {
       "id": "5c035308-cc3b-4cd4-bd9d-9fb4624f1bfd",
       "title": "Applications Engineers, Agentic Workflows",
