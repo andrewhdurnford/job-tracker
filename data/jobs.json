@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T06:40:21.651Z",
+  "generatedAt": "2026-11-03T06:50:20.363Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -3424,10 +3424,10 @@
     },
     {
       "name": "Nvidia",
-      "ok": true,
+      "ok": false,
       "jobCount": 334,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Oasis Security",
@@ -5398,10 +5398,10 @@
     },
     {
       "name": "Visa",
-      "ok": true,
+      "ok": false,
       "jobCount": 38,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Vitalize",
