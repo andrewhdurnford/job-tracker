@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T17:40:22.828Z",
+  "generatedAt": "2026-11-03T17:50:21.700Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "suno:84af340c-efff-42b6-9861-4baee60b7405"
+    "snowflake:3c806286-0ec6-47a8-a2fa-2df841c96709"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 21,
-    "experienced": 2142
+    "experienced": 2143
   },
   "companies": [
     {
@@ -4638,7 +4638,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 67,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3c806286-0ec6-47a8-a2fa-2df841c96709",
+      "title": "Senior Engineering Manager - AIM Virtualization",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/3c806286-0ec6-47a8-a2fa-2df841c96709",
+      "postedAt": "2026-11-03T17:43:23.645Z",
+      "key": "snowflake:3c806286-0ec6-47a8-a2fa-2df841c96709",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T17:50:21.700Z"
+    },
     {
       "id": "84af340c-efff-42b6-9861-4baee60b7405",
       "title": "Staff Software Engineer, Bots + Fraud",
@@ -33117,7 +33133,7 @@
     },
     {
       "id": "4443888009",
-      "title": "Director, AI Developer Experience",
+      "title": "Director of Engineer, AI Developer Experience",
       "location": "New York, NY (Hybrid)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/attentive/jobs/4443888009",
