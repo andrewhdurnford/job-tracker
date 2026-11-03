@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-03T01:10:18.199Z",
+  "generatedAt": "2026-11-03T01:20:19.113Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "hypercubic:497e109c-23cb-4d9a-a00c-14d0ebb86684"
+    "alpaca:6241652004",
+    "spacex:8927257002",
+    "spacex:8927341002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 20,
-    "experienced": 2114
+    "experienced": 2117
   },
   "companies": [
     {
@@ -200,7 +202,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -593,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3419,10 +3421,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nvidia",
@@ -4694,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 63,
+      "jobCount": 65,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "6241652004",
+      "title": "Security Operations Engineer",
+      "location": "Remote -  Americas ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6241652004",
+      "postedAt": "2026-11-03T01:18:20.000Z",
+      "key": "alpaca:6241652004",
+      "company": "Alpaca",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-03T01:20:19.113Z"
+    },
+    {
+      "id": "8927341002",
+      "title": "Sr. Software Engineer (Starlink Enterprise)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927341002?gh_jid=8927341002",
+      "postedAt": "2026-11-03T01:13:42.000Z",
+      "key": "spacex:8927341002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T01:20:19.113Z"
+    },
+    {
+      "id": "8927257002",
+      "title": "Software Engineer (Starlink Enteprise)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927257002?gh_jid=8927257002",
+      "postedAt": "2026-11-03T01:12:49.000Z",
+      "key": "spacex:8927257002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T01:20:19.113Z"
+    },
+    {
       "id": "497e109c-23cb-4d9a-a00c-14d0ebb86684",
       "title": "Founding Software Engineer - Backend",
       "location": "San Francisco",
@@ -5965,7 +6015,7 @@
     },
     {
       "id": "8348197",
-      "title": "Senior Systems Engineer, Tech Foundations",
+      "title": "Senior Systems Engineer, BizTech",
       "location": "United States",
       "team": null,
       "url": "https://careers.airbnb.com/positions/8348197?gh_jid=8348197",
@@ -25262,7 +25312,7 @@
     },
     {
       "id": "09fb47fc-39e0-4fca-9bff-5d19d43f5a44",
-      "title": "Software Engineer, Platform",
+      "title": "Fullstack Software Engineer, Platform",
       "location": "Torrance, CA (+1 more)",
       "team": "Software",
       "url": "https://jobs.ashbyhq.com/northwoodspace/09fb47fc-39e0-4fca-9bff-5d19d43f5a44",
