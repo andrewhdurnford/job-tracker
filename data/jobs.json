@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T01:20:19.113Z",
+  "generatedAt": "2026-11-03T01:30:26.150Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "alpaca:6241652004",
-    "spacex:8927257002",
-    "spacex:8927341002"
+    "alpaca:6241653004",
+    "Nvidia:JR2014725",
+    "Nvidia:JR2026396"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 20,
-    "experienced": 2117
+    "experienced": 2120
   },
   "companies": [
     {
@@ -202,7 +202,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -595,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2035,10 +2035,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -3429,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 330,
+      "jobCount": 332,
       "error": null,
       "stale": false
     },
@@ -3589,10 +3589,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 9,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -4877,10 +4877,10 @@
     },
     {
       "name": "Superside",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Svix",
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2014725",
+      "title": "Senior Software Engineer - CUDA Driver",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---CUDA-Driver_JR2014725",
+      "postedAt": "2026-11-03T01:30:30.668Z",
+      "key": "Nvidia:JR2014725",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T01:30:26.150Z"
+    },
+    {
+      "id": "JR2026396",
+      "title": "System Software Engineer - GPU Power and Performance Management",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU-Power-and-Performance-Management_JR2026396",
+      "postedAt": "2026-11-03T01:30:30.668Z",
+      "key": "Nvidia:JR2026396",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T01:30:26.150Z"
+    },
+    {
+      "id": "6241653004",
+      "title": "IT Security Engineer",
+      "location": "Remote -  Americas ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6241653004",
+      "postedAt": "2026-11-03T01:23:25.000Z",
+      "key": "alpaca:6241653004",
+      "company": "Alpaca",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-03T01:30:26.150Z"
+    },
     {
       "id": "6241652004",
       "title": "Security Operations Engineer",
