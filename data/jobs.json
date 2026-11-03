@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-03T22:40:18.916Z",
+  "generatedAt": "2026-11-03T22:50:19.403Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "shieldai:f96fb376-39bb-42b7-84a0-7b53ff88f126"
+    "roblox:8350727",
+    "spacex:8925605002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 124,
     "new-grad": 21,
-    "experienced": 2194
+    "experienced": 2196
   },
   "companies": [
     {
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4239,7 +4240,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 72,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 73,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "8350727",
+      "title": "Senior Software Engineer, Content Understanding",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8350727?gh_jid=8350727",
+      "postedAt": "2026-11-03T22:48:11.000Z",
+      "key": "roblox:8350727",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T22:50:19.403Z"
+    },
+    {
       "id": "f96fb376-39bb-42b7-84a0-7b53ff88f126",
       "title": "Senior Staff Systems Security Engineer, Program Protection (TX/DC/Sea) (R6515)",
       "location": "United States",
@@ -5716,6 +5733,22 @@
         "us"
       ],
       "firstSeen": "2026-11-03T22:40:18.916Z"
+    },
+    {
+      "id": "8925605002",
+      "title": "Embedded Software Engineer, Satellite Antenna (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8925605002?gh_jid=8925605002",
+      "postedAt": "2026-11-03T22:32:39.000Z",
+      "key": "spacex:8925605002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T22:50:19.403Z"
     },
     {
       "id": "8282837",
