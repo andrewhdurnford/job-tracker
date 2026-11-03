@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T18:30:26.281Z",
+  "generatedAt": "2026-11-03T18:40:20.713Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "spacex:8927919002",
-    "spacex:8927923002",
-    "traversal:bbeab2c4-3510-47c4-b992-260b853d9bdd",
-    "twilio:8026199"
+    "boxinc:8318473",
+    "openai:f363932f-2820-4056-9786-14cb697f4a93",
+    "Procore:R0018636",
+    "ServiceTitan:JR116359"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +15,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 21,
-    "experienced": 2150
+    "experienced": 2154
   },
   "companies": [
     {
@@ -258,10 +258,10 @@
     },
     {
       "name": "Anchorage",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Andera",
@@ -622,10 +622,10 @@
     },
     {
       "name": "Bloom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Blueberry Pediatrics",
@@ -679,7 +679,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1434,10 +1434,10 @@
     },
     {
       "name": "Dolls Kill",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Domino Data Lab",
@@ -1448,10 +1448,10 @@
     },
     {
       "name": "doola",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "DoorDash",
@@ -1679,10 +1679,10 @@
     },
     {
       "name": "FamPay",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Farel",
@@ -2113,10 +2113,10 @@
     },
     {
       "name": "H1",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "HackerRank",
@@ -3156,10 +3156,10 @@
     },
     {
       "name": "Multiply Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mutiny",
@@ -3191,10 +3191,10 @@
     },
     {
       "name": "Mytos",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "n8n",
@@ -3514,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -3892,7 +3892,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4438,7 +4438,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 69,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5137,10 +5137,10 @@
     },
     {
       "name": "Tovala",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Town",
@@ -5676,10 +5676,10 @@
     },
     {
       "name": "Zippi",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zoom",
@@ -5697,13 +5697,77 @@
     },
     {
       "name": "Zuma",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     }
   ],
   "jobs": [
+    {
+      "id": "JR116359",
+      "title": "Staff Product Security Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Staff-Product-Security-Engineer_JR116359",
+      "postedAt": "2026-11-03T18:40:25.003Z",
+      "key": "ServiceTitan:JR116359",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:40:20.713Z"
+    },
+    {
+      "id": "R0018636",
+      "title": "Senior QA Engineer - DroneDeploy",
+      "location": "US - Georgia",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Georgia/Senior-QA-Engineer---DroneDeploy_R0018636",
+      "postedAt": "2026-11-03T18:40:24.303Z",
+      "key": "Procore:R0018636",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:40:20.713Z"
+    },
+    {
+      "id": "8318473",
+      "title": "Senior Software Engineer, Reliability",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318473",
+      "postedAt": "2026-11-03T18:32:51.000Z",
+      "key": "boxinc:8318473",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:40:20.713Z"
+    },
+    {
+      "id": "f363932f-2820-4056-9786-14cb697f4a93",
+      "title": "Engineering Manager, API Multicloud",
+      "location": "San Francisco",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/f363932f-2820-4056-9786-14cb697f4a93",
+      "postedAt": "2026-11-03T18:29:36.470Z",
+      "key": "openai:f363932f-2820-4056-9786-14cb697f4a93",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:40:20.713Z"
+    },
     {
       "id": "bbeab2c4-3510-47c4-b992-260b853d9bdd",
       "title": "AI Engineer - Forward Deployed Engineer",
