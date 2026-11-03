@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T18:40:20.713Z",
+  "generatedAt": "2026-11-03T18:50:31.121Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "boxinc:8318473",
-    "openai:f363932f-2820-4056-9786-14cb697f4a93",
-    "Procore:R0018636",
-    "ServiceTitan:JR116359"
+    "fivetran:8075733003",
+    "fivetran:8167896003",
+    "spacex:8928919002",
+    "volta:8ffd7d6d-a76a-4d92-b039-8d207e2e1b24"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +15,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 21,
-    "experienced": 2154
+    "experienced": 2158
   },
   "companies": [
     {
@@ -258,10 +258,10 @@
     },
     {
       "name": "Anchorage",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Andera",
@@ -1434,10 +1434,10 @@
     },
     {
       "name": "Dolls Kill",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Domino Data Lab",
@@ -1448,10 +1448,10 @@
     },
     {
       "name": "doola",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "DoorDash",
@@ -1792,7 +1792,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -2113,10 +2113,10 @@
     },
     {
       "name": "H1",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "HackerRank",
@@ -3156,10 +3156,10 @@
     },
     {
       "name": "Multiply Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mutiny",
@@ -3191,10 +3191,10 @@
     },
     {
       "name": "Mytos",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "n8n",
@@ -4696,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 69,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 70,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5137,10 +5137,10 @@
     },
     {
       "name": "Tovala",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Town",
@@ -5418,7 +5418,7 @@
     {
       "name": "Volta",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5676,10 +5676,10 @@
     },
     {
       "name": "Zippi",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zoom",
@@ -5697,13 +5697,77 @@
     },
     {
       "name": "Zuma",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     }
   ],
   "jobs": [
+    {
+      "id": "8928919002",
+      "title": "Software Engineer, Manufacturing",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8928919002?gh_jid=8928919002",
+      "postedAt": "2026-11-03T18:48:06.000Z",
+      "key": "spacex:8928919002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:50:31.121Z"
+    },
+    {
+      "id": "8ffd7d6d-a76a-4d92-b039-8d207e2e1b24",
+      "title": "Software Engineer | Developer Experience",
+      "location": "Palo Alto, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/volta/8ffd7d6d-a76a-4d92-b039-8d207e2e1b24",
+      "postedAt": "2026-11-03T18:43:43.421Z",
+      "key": "volta:8ffd7d6d-a76a-4d92-b039-8d207e2e1b24",
+      "company": "Volta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:50:31.121Z"
+    },
+    {
+      "id": "8167896003",
+      "title": "Manager Security Engineer, Operations",
+      "location": "Remote, Massachusetts, United States, AMER",
+      "team": null,
+      "url": "https://www.fivetran.com/careers/job?gh_jid=8167896003",
+      "postedAt": "2026-11-03T18:42:52.000Z",
+      "key": "fivetran:8167896003",
+      "company": "Fivetran",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:50:31.121Z"
+    },
+    {
+      "id": "8075733003",
+      "title": "Manager Security Engineer, Operations",
+      "location": "Remote, New York, United States, AMER",
+      "team": null,
+      "url": "https://www.fivetran.com/careers/job?gh_jid=8075733003",
+      "postedAt": "2026-11-03T18:42:49.000Z",
+      "key": "fivetran:8075733003",
+      "company": "Fivetran",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:50:31.121Z"
+    },
     {
       "id": "JR116359",
       "title": "Staff Product Security Engineer",
