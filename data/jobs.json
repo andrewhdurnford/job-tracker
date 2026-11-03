@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-03T19:20:25.960Z",
+  "generatedAt": "2026-11-03T19:30:36.956Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Capital One:R1005054",
+    "Capital One:R1005052",
+    "spacex:8927858002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 21,
-    "experienced": 2158
+    "experienced": 2161
   },
   "companies": [
     {
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 139,
+      "jobCount": 141,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 71,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 72,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1005054",
+      "title": "Full Stack Engineer 4 (Go & Angular) (Cloud Operations Resilience Engineering)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-Stack-Engineer-4--Go---Angular---Cloud-Operations-Resilience-Engineering-_R1005054-1",
+      "postedAt": "2026-11-03T19:30:40.395Z",
+      "key": "Capital One:R1005054",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T19:30:36.956Z"
+    },
+    {
+      "id": "R1005052",
+      "title": "Full-stack Engineer 5 (Senior Manager, IC) Cloud Operations Resilience Engineering)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Senior-Manager--IC--Cloud-Operations-Resilience-Engineering-_R1005052",
+      "postedAt": "2026-11-03T19:30:40.395Z",
+      "key": "Capital One:R1005052",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T19:30:36.956Z"
+    },
+    {
+      "id": "8927858002",
+      "title": "Propulsion Software Engineer (Falcon Engineering)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927858002?gh_jid=8927858002",
+      "postedAt": "2026-11-03T19:22:16.000Z",
+      "key": "spacex:8927858002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T19:30:36.956Z"
+    },
     {
       "id": "8927762002",
       "title": "HVAC Programmer Level 4/5 (Starbase)",
