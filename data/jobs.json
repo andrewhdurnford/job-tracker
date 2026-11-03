@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-03T07:50:20.104Z",
+  "generatedAt": "2026-11-03T08:00:28.718Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "CrowdStrike:R30689",
+    "CrowdStrike:R30514",
+    "promise:7dcb44b6-b8a6-4955-92f3-421f60770f65"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 127,
     "new-grad": 20,
-    "experienced": 2132
+    "experienced": 2135
   },
   "companies": [
     {
@@ -1241,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -1401,10 +1405,10 @@
     },
     {
       "name": "Despegar",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Discord",
@@ -3186,10 +3190,10 @@
     },
     {
       "name": "Mytos",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "n8n",
@@ -3417,10 +3421,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nvidia",
@@ -3585,10 +3589,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 9,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -3915,7 +3919,7 @@
     {
       "name": "Promise",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5419,10 +5423,10 @@
     },
     {
       "name": "Volta Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Vori",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R30689",
+      "title": "Software Engineer 3 - Sensor, macOS (Remote)",
+      "location": "5 Locations",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-CA/Software-Engineer-3---Sensor--macOS--Remote-_R30689",
+      "postedAt": "2026-11-03T08:00:33.296Z",
+      "key": "CrowdStrike:R30689",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-03T08:00:28.718Z"
+    },
+    {
+      "id": "R30514",
+      "title": "Sr. Software Engineer II - Cloud - Policy Management (Hybrid)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer-II---Cloud---Policy-Management--Hybrid-_R30514",
+      "postedAt": "2026-11-03T08:00:33.296Z",
+      "key": "CrowdStrike:R30514",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T08:00:28.718Z"
+    },
+    {
+      "id": "7dcb44b6-b8a6-4955-92f3-421f60770f65",
+      "title": "Senior Security Engineer",
+      "location": "Washington, D.C.",
+      "team": "IT/Sec",
+      "url": "https://jobs.ashbyhq.com/promise/7dcb44b6-b8a6-4955-92f3-421f60770f65",
+      "postedAt": "2026-11-03T07:58:40.502Z",
+      "key": "promise:7dcb44b6-b8a6-4955-92f3-421f60770f65",
+      "company": "Promise",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T08:00:28.718Z"
+    },
     {
       "id": "ac4259d7-1276-440f-b918-851ef3e0faa5",
       "title": "Forward Deployed Engineer",
