@@ -1,12 +1,10 @@
 {
-  "generatedAt": "2026-11-03T20:30:32.332Z",
+  "generatedAt": "2026-11-03T20:40:20.856Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "anthropic:5455618008",
-    "Capital One:R1005036",
-    "mercor:861df396-2508-4ede-97b8-51a85bbc98e2",
-    "pendo:8929128002"
+    "checkr:8350852",
+    "stripe:8301936"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -3430,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 335,
+      "jobCount": 334,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 72,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4802,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8350852",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Denver, Colorado, United States; San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8350852",
+      "postedAt": "2026-11-03T20:33:28.000Z",
+      "key": "checkr:8350852",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T20:40:20.856Z"
+    },
+    {
+      "id": "8301936",
+      "title": "Frontend Engineer, Design Systems",
+      "location": "US",
+      "team": "8813 Web Presence & Platform",
+      "url": "https://stripe.com/jobs/search?gh_jid=8301936",
+      "postedAt": "2026-11-03T20:32:07.000Z",
+      "key": "stripe:8301936",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T20:40:20.856Z"
+    },
     {
       "id": "R1005036",
       "title": "Senior Manager, Full-stack Engineer",
@@ -9067,22 +9097,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Supplier-Quality-Engineer_JR2021428",
       "postedAt": "2026-10-31T01:00:06.228Z",
       "key": "Nvidia:JR2021428",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-31T00:59:25.748Z"
-    },
-    {
-      "id": "JR2020644",
-      "title": "Principal Software Engineer, Vehicle Dynamics Simulation - AV",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Engineer--Vehicle-Dynamics-Simulation---AV_JR2020644-1",
-      "postedAt": "2026-10-31T01:00:05.350Z",
-      "key": "Nvidia:JR2020644",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
@@ -20393,22 +20407,6 @@
       "postedAt": "2026-10-26T16:39:45.626Z",
       "key": "tryjeeves:75cb18c2-fb97-4469-b000-2df1b7d73ce9",
       "company": "Jeeves",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T16:40:19.579Z"
-    },
-    {
-      "id": "8324892",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Denver, Colorado, United States; San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/checkr/jobs/8324892",
-      "postedAt": "2026-10-26T16:38:23.000Z",
-      "key": "checkr:8324892",
-      "company": "Checkr",
       "level": "experienced",
       "term": null,
       "regions": [
