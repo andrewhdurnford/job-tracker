@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-03T15:10:24.726Z",
+  "generatedAt": "2026-11-03T15:20:20.887Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "cloudflare:8336674",
+    "rescale:5c035308-cc3b-4cd4-bd9d-9fb4624f1bfd"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 20,
-    "experienced": 2141
+    "experienced": 2143
   },
   "companies": [
     {
@@ -1010,7 +1013,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4167,7 +4170,7 @@
     {
       "name": "Rescale",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5419,10 +5422,10 @@
     },
     {
       "name": "Volta Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Vori",
@@ -5671,10 +5674,10 @@
     },
     {
       "name": "Zippi",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zoom",
@@ -5699,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5c035308-cc3b-4cd4-bd9d-9fb4624f1bfd",
+      "title": "Applications Engineers, Agentic Workflows",
+      "location": "Remote (United States)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/rescale/5c035308-cc3b-4cd4-bd9d-9fb4624f1bfd",
+      "postedAt": "2026-11-03T15:09:12.184Z",
+      "key": "rescale:5c035308-cc3b-4cd4-bd9d-9fb4624f1bfd",
+      "company": "Rescale",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T15:20:20.887Z"
+    },
     {
       "id": "JR202601180",
       "title": "Senior Software Engineer",
@@ -7769,6 +7788,22 @@
         "us"
       ],
       "firstSeen": "2026-11-02T11:20:23.079Z"
+    },
+    {
+      "id": "8336674",
+      "title": "Systems Engineer, WARP",
+      "location": "Austin, TX (+2 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8336674?gh_jid=8336674",
+      "postedAt": "2026-11-02T09:35:19.000Z",
+      "key": "cloudflare:8336674",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T15:20:20.887Z"
     },
     {
       "id": "4020db7a-1ec0-48e3-9bbd-f1337c63a403",
