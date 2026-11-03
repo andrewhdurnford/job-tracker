@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-11-03T20:50:24.939Z",
+  "generatedAt": "2026-11-03T21:00:30.492Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "anthropic:5471361008",
+    "DocuSign:30508",
+    "freshpaint:d6f0af53-fbd9-400f-ba46-26f65ee26478",
+    "nextdoor:8350937"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 124,
+    "intern": 125,
     "new-grad": 21,
-    "experienced": 2172
+    "experienced": 2175
   },
   "companies": [
     {
@@ -303,7 +308,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -1423,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -1885,7 +1890,7 @@
     {
       "name": "Freshpaint",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3327,7 +3332,7 @@
     {
       "name": "Nextdoor",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 72,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8350937",
+      "title": "Senior Staff Software Engineer - Monetization",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://about.nextdoor.com/careers-list/?gh_jid=8350937",
+      "postedAt": "2026-11-03T20:59:50.000Z",
+      "key": "nextdoor:8350937",
+      "company": "Nextdoor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:00:30.492Z"
+    },
+    {
+      "id": "d6f0af53-fbd9-400f-ba46-26f65ee26478",
+      "title": "Support Engineer",
+      "location": "Remote - US",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/freshpaint/d6f0af53-fbd9-400f-ba46-26f65ee26478",
+      "postedAt": "2026-11-03T20:54:49.031Z",
+      "key": "freshpaint:d6f0af53-fbd9-400f-ba46-26f65ee26478",
+      "company": "Freshpaint",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:00:30.492Z"
+    },
+    {
+      "id": "5471361008",
+      "title": "Applied AI Architect, Beneficial Deployments (Global & Public Health)",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471361008",
+      "postedAt": "2026-11-03T20:54:35.000Z",
+      "key": "anthropic:5471361008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:00:30.492Z"
+    },
     {
       "id": "8350852",
       "title": "Senior Machine Learning Engineer",
@@ -35393,6 +35446,22 @@
         "us"
       ],
       "firstSeen": "2026-11-03T12:10:22.301Z"
+    },
+    {
+      "id": "30508",
+      "title": "Software Engineer Intern",
+      "location": "US-Seattle-3rd",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30508/login",
+      "postedAt": "2026-10-09T22:23:00.000Z",
+      "key": "DocuSign:30508",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:00:30.492Z"
     },
     {
       "id": "30509",
