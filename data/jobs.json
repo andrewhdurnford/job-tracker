@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-11-03T23:40:20.238Z",
+  "generatedAt": "2026-11-03T23:50:19.505Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "mercor:5ece408b-0741-4917-a3f7-27d5acb25d57",
-    "writer:6ac02771-059b-490b-960b-f5616f255b65",
-    "writer:f84935a9-9589-4db1-af82-be9b1cab48a4",
-    "writer:770c58f3-7391-41cd-b992-be5a7311b1b2"
+    "airbnb:8330153",
+    "checkr:8351381",
+    "Nvidia:JR2028517",
+    "writer:ce86adec-e8ce-4bbf-a706-43795a982de6",
+    "writer:47dd1728-97f7-4e0d-9a7a-39009aa212a5"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +16,7 @@
   "levelCounts": {
     "intern": 124,
     "new-grad": 21,
-    "experienced": 2207
+    "experienced": 2211
   },
   "companies": [
     {
@@ -119,7 +120,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -596,7 +597,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3430,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 338,
+      "jobCount": 339,
       "error": null,
       "stale": false
     },
@@ -5579,7 +5580,7 @@
     {
       "name": "Writer",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028517",
+      "title": "Senior System Software Engineer— Autonomous Driving Context Fusion",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--Autonomous-Driving-Context-Fusion_JR2028517",
+      "postedAt": "2026-11-03T23:50:23.737Z",
+      "key": "Nvidia:JR2028517",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T23:50:19.505Z"
+    },
+    {
+      "id": "47dd1728-97f7-4e0d-9a7a-39009aa212a5",
+      "title": "Software engineer, connectors & MCP",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/writer/47dd1728-97f7-4e0d-9a7a-39009aa212a5",
+      "postedAt": "2026-11-03T23:48:51.372Z",
+      "key": "writer:47dd1728-97f7-4e0d-9a7a-39009aa212a5",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T23:50:19.505Z"
+    },
+    {
+      "id": "8351381",
+      "title": "Senior Software Engineer (Ruby/Rails), MVR",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8351381",
+      "postedAt": "2026-11-03T23:42:27.000Z",
+      "key": "checkr:8351381",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T23:50:19.505Z"
+    },
+    {
+      "id": "8330153",
+      "title": "Engineering Manager, Streaming Infrastructure",
+      "location": "USA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8330153?gh_jid=8330153",
+      "postedAt": "2026-11-03T23:41:12.000Z",
+      "key": "airbnb:8330153",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T23:50:19.505Z"
+    },
+    {
+      "id": "ce86adec-e8ce-4bbf-a706-43795a982de6",
+      "title": "Software engineer, agents",
+      "location": "New York City, NY (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/writer/ce86adec-e8ce-4bbf-a706-43795a982de6",
+      "postedAt": "2026-11-03T23:40:50.564Z",
+      "key": "writer:ce86adec-e8ce-4bbf-a706-43795a982de6",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T23:50:19.505Z"
+    },
     {
       "id": "770c58f3-7391-41cd-b992-be5a7311b1b2",
       "title": "Infrastructure engineer",
@@ -20863,22 +20944,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T17:10:19.121Z"
-    },
-    {
-      "id": "8324959",
-      "title": "Senior Software Engineer (Ruby/Rails), MVR",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/checkr/jobs/8324959",
-      "postedAt": "2026-10-26T17:00:02.000Z",
-      "key": "checkr:8324959",
-      "company": "Checkr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T17:00:29.452Z"
     },
     {
       "id": "5270973007",
