@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-03T01:00:28.254Z",
+  "generatedAt": "2026-11-03T01:10:18.199Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "hypercubic:497e109c-23cb-4d9a-a00c-14d0ebb86684"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -2319,7 +2321,7 @@
     {
       "name": "Hypercubic",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3355,7 +3357,7 @@
     {
       "name": "Northwood Space",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3417,10 +3419,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nvidia",
@@ -5700,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "497e109c-23cb-4d9a-a00c-14d0ebb86684",
+      "title": "Founding Software Engineer - Backend",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/hypercubic/497e109c-23cb-4d9a-a00c-14d0ebb86684",
+      "postedAt": "2026-11-03T01:02:53.599Z",
+      "key": "hypercubic:497e109c-23cb-4d9a-a00c-14d0ebb86684",
+      "company": "Hypercubic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T01:10:18.199Z"
+    },
+    {
       "id": "JR2028914",
       "title": "Senior Software Engineer, SRE and Production Engineering - DGX Cloud",
       "location": "Canada, Remote",
@@ -6729,22 +6747,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-11-02T18:50:22.151Z"
-    },
-    {
-      "id": "b3d9670c-54a1-4342-a13c-56eace26de83",
-      "title": "Software Engineer, Prism",
-      "location": "Torrance, CA",
-      "team": "Software",
-      "url": "https://jobs.ashbyhq.com/northwoodspace/b3d9670c-54a1-4342-a13c-56eace26de83",
-      "postedAt": "2026-11-02T18:47:37.598Z",
-      "key": "northwoodspace:b3d9670c-54a1-4342-a13c-56eace26de83",
-      "company": "Northwood Space",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-11-02T18:50:22.151Z"
     },
@@ -22401,7 +22403,7 @@
     },
     {
       "id": "5b6f905f-2a7a-4c70-b40f-fbc46dfe5cb8",
-      "title": "Senior Software Engineer, Portal",
+      "title": "Senior Software Engineer (Portal)",
       "location": "Torrance, CA (+1 more)",
       "team": "Software",
       "url": "https://jobs.ashbyhq.com/northwoodspace/5b6f905f-2a7a-4c70-b40f-fbc46dfe5cb8",
