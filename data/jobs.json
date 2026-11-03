@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-03T17:50:21.700Z",
+  "generatedAt": "2026-11-03T18:00:32.686Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "snowflake:3c806286-0ec6-47a8-a2fa-2df841c96709"
+    "humaninterest:8319689",
+    "Procore:R0018693",
+    "vanta:6d2a60a8-7daf-4482-ab9a-6b87516548d0"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 21,
-    "experienced": 2143
+    "experienced": 2145
   },
   "companies": [
     {
@@ -192,10 +194,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Alpaca",
@@ -1144,10 +1146,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Conveo",
@@ -1403,10 +1405,10 @@
     },
     {
       "name": "Despegar",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Discord",
@@ -2293,7 +2295,7 @@
     {
       "name": "Human Interest",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2896,7 +2898,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3727,10 +3729,10 @@
     },
     {
       "name": "PickTrace",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "PicsArt",
@@ -3889,7 +3891,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4476,10 +4478,10 @@
     },
     {
       "name": "Shiru",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Short Story",
@@ -4799,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -5324,7 +5326,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5533,10 +5535,10 @@
     },
     {
       "name": "WithCoverage",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Wiz",
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R0018693",
+      "title": "Software Architect",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Software-Architect_R0018693",
+      "postedAt": "2026-11-03T18:00:36.310Z",
+      "key": "Procore:R0018693",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:00:32.686Z"
+    },
+    {
+      "id": "8319689",
+      "title": "Senior Software Engineer - Mobile",
+      "location": "United States, Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8319689",
+      "postedAt": "2026-11-03T17:56:42.000Z",
+      "key": "humaninterest:8319689",
+      "company": "Human Interest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:00:32.686Z"
+    },
+    {
+      "id": "6d2a60a8-7daf-4482-ab9a-6b87516548d0",
+      "title": "Software Engineer, AI Platform",
+      "location": "Remote U.S.",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/6d2a60a8-7daf-4482-ab9a-6b87516548d0",
+      "postedAt": "2026-11-03T17:51:55.417Z",
+      "key": "vanta:6d2a60a8-7daf-4482-ab9a-6b87516548d0",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:00:32.686Z"
+    },
     {
       "id": "3c806286-0ec6-47a8-a2fa-2df841c96709",
       "title": "Senior Engineering Manager - AIM Virtualization",
@@ -28135,7 +28185,7 @@
     {
       "id": "4456112009",
       "title": "Senior Software Engineer, Shopper Data Platform",
-      "location": "United States",
+      "location": "New York, NY (Hybrid)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/attentive/jobs/4456112009",
       "postedAt": "2026-10-17T00:05:40.000Z",
@@ -30439,22 +30489,6 @@
         "us"
       ],
       "firstSeen": "2026-10-15T17:30:25.147Z"
-    },
-    {
-      "id": "8257935",
-      "title": "Staff Software Engineer, Alloy Integrations",
-      "location": "Seattle",
-      "team": "9014 Metronome - R&D",
-      "url": "https://stripe.com/jobs/search?gh_jid=8257935",
-      "postedAt": "2026-10-15T16:48:50.000Z",
-      "key": "stripe:8257935",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T16:50:17.040Z"
     },
     {
       "id": "b853c28e-15a7-4dac-be01-b0fbc00cd006",
@@ -36787,7 +36821,7 @@
     {
       "id": "4438176009",
       "title": "Director of Engineering, Cloud Platform",
-      "location": "United States",
+      "location": "New York, NY (Hybrid)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/attentive/jobs/4438176009",
       "postedAt": "2026-10-08T18:57:46.000Z",
