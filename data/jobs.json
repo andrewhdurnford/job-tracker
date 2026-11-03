@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-03T17:30:27.737Z",
+  "generatedAt": "2026-11-03T17:40:22.828Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "suno:84af340c-efff-42b6-9861-4baee60b7405"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 21,
-    "experienced": 2141
+    "experienced": 2142
   },
   "companies": [
     {
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 67,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4853,7 +4855,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "84af340c-efff-42b6-9861-4baee60b7405",
+      "title": "Staff Software Engineer, Bots + Fraud",
+      "location": "San Francisco",
+      "team": "Security Engineering ",
+      "url": "https://jobs.ashbyhq.com/suno/84af340c-efff-42b6-9861-4baee60b7405",
+      "postedAt": "2026-11-03T17:39:18.556Z",
+      "key": "suno:84af340c-efff-42b6-9861-4baee60b7405",
+      "company": "Suno",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T17:40:22.828Z"
+    },
     {
       "id": "6240725004",
       "title": "Machine Learning Engineer - New Grad",
