@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-03T01:30:26.150Z",
+  "generatedAt": "2026-11-03T01:40:19.386Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "alpaca:6241653004",
-    "Nvidia:JR2014725",
-    "Nvidia:JR2026396"
+    "alpaca:6241656004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 20,
-    "experienced": 2120
+    "experienced": 2121
   },
   "companies": [
     {
@@ -202,7 +200,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2035,10 +2033,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -3589,10 +3587,10 @@
     },
     {
       "name": "Palantir",
-      "ok": false,
+      "ok": true,
       "jobCount": 9,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Paradigm",
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 65,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4877,10 +4875,10 @@
     },
     {
       "name": "Superside",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Svix",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6241656004",
+      "title": "AI Security Engineer",
+      "location": "Remote -  Americas ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6241656004",
+      "postedAt": "2026-11-03T01:32:57.000Z",
+      "key": "alpaca:6241656004",
+      "company": "Alpaca",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-03T01:40:19.386Z"
+    },
     {
       "id": "JR2014725",
       "title": "Senior Software Engineer - CUDA Driver",
