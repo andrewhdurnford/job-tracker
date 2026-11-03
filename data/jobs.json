@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-11-03T18:20:29.999Z",
+  "generatedAt": "2026-11-03T18:30:26.281Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "spacex:8927919002",
+    "spacex:8927923002",
+    "traversal:bbeab2c4-3510-47c4-b992-260b853d9bdd",
+    "twilio:8026199"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 21,
-    "experienced": 2146
+    "experienced": 2150
   },
   "companies": [
     {
@@ -591,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -617,10 +622,10 @@
     },
     {
       "name": "Bloom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Blueberry Pediatrics",
@@ -934,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1674,10 +1679,10 @@
     },
     {
       "name": "FamPay",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Farel",
@@ -1753,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1774,7 +1779,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1877,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3977,10 +3982,10 @@
     },
     {
       "name": "Pyka",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Pylon",
@@ -4692,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 67,
+      "jobCount": 69,
       "error": null,
       "stale": false
     },
@@ -5161,7 +5166,7 @@
     {
       "name": "Traversal",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5224,7 +5229,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5671,10 +5676,10 @@
     },
     {
       "name": "Zippi",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zoom",
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "bbeab2c4-3510-47c4-b992-260b853d9bdd",
+      "title": "AI Engineer - Forward Deployed Engineer",
+      "location": "New York",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd",
+      "postedAt": "2026-11-03T18:27:05.839Z",
+      "key": "traversal:bbeab2c4-3510-47c4-b992-260b853d9bdd",
+      "company": "Traversal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:30:26.281Z"
+    },
+    {
+      "id": "8927919002",
+      "title": "Software Engineer, Full Stack (Data & Video Analysis)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927919002?gh_jid=8927919002",
+      "postedAt": "2026-11-03T18:22:57.000Z",
+      "key": "spacex:8927919002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:30:26.281Z"
+    },
+    {
+      "id": "8927923002",
+      "title": "Sr. Software Engineer, Full Stack (Data & Video Analysis)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927923002?gh_jid=8927923002",
+      "postedAt": "2026-11-03T18:22:47.000Z",
+      "key": "spacex:8927923002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:30:26.281Z"
+    },
+    {
+      "id": "8026199",
+      "title": "Software Engineer (L3) Email",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8026199",
+      "postedAt": "2026-11-03T18:22:02.000Z",
+      "key": "twilio:8026199",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T18:30:26.281Z"
+    },
     {
       "id": "25ab987b-b07e-424b-8ce9-eb10de739a7f",
       "title": "Staff Software Engineer, Infrastructure Foundations",
@@ -14110,7 +14179,7 @@
     {
       "id": "8922013002",
       "title": "Data Scientist, Enterprise Analytics",
-      "location": "Remote, United States",
+      "location": "Remote, Canada; Remote, United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922013002",
       "postedAt": "2026-10-30T19:59:39.000Z",
@@ -14119,7 +14188,8 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "us",
+        "canada"
       ],
       "firstSeen": "2026-10-30T20:10:22.735Z"
     },
@@ -33522,7 +33592,7 @@
     {
       "id": "8883003002",
       "title": "Director, Analytics Engineering ",
-      "location": "Remote, United States",
+      "location": "Remote, Canada; Remote, United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883003002",
       "postedAt": "2026-10-13T14:52:13.000Z",
@@ -33531,7 +33601,8 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "us",
+        "canada"
       ],
       "firstSeen": "2026-10-13T15:00:24.962Z"
     },
