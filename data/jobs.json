@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-11-03T16:40:23.949Z",
+  "generatedAt": "2026-11-03T16:50:22.785Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "anthropic:5462557008",
-    "gitlab:8922249002",
-    "suno:2b0cd5e3-0e97-4c85-a959-56a421300ea4",
-    "vercel:6242246004"
+    "vanta:e4e1f472-5113-4cd0-b8f9-dd10af087f5d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 20,
-    "experienced": 2141
+    "experienced": 2140
   },
   "companies": [
     {
@@ -791,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 140,
+      "jobCount": 138,
       "error": null,
       "stale": false
     },
@@ -3261,10 +3258,10 @@
     },
     {
       "name": "Neighbor",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Neo4j",
@@ -3996,10 +3993,10 @@
     },
     {
       "name": "Quartzy",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Quicknode",
@@ -5327,7 +5324,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "e4e1f472-5113-4cd0-b8f9-dd10af087f5d",
+      "title": "Staff Software Engineer, Growth (Self Serve)",
+      "location": "Remote U.S.",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/e4e1f472-5113-4cd0-b8f9-dd10af087f5d",
+      "postedAt": "2026-11-03T16:43:15.695Z",
+      "key": "vanta:e4e1f472-5113-4cd0-b8f9-dd10af087f5d",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T16:50:22.785Z"
+    },
     {
       "id": "8922249002",
       "title": "Intermediate Fullstack Engineer, Subscription Lifecycle ",
@@ -36676,22 +36689,6 @@
       "firstSeen": "2026-10-08T19:30:20.395Z"
     },
     {
-      "id": "R1001314",
-      "title": "Full-stack Engineer 4 (Golang, Python, Java, AWS)",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Golang--Python--Java--AWS-_R1001314-1",
-      "postedAt": "2026-10-08T19:20:19.983Z",
-      "key": "Capital One:R1001314",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T19:20:16.566Z"
-    },
-    {
       "id": "8230569",
       "title": "Staff Software Engineer",
       "location": "United States",
@@ -42247,22 +42244,6 @@
         "remote"
       ],
       "firstSeen": "2026-09-23T14:20:19.479Z"
-    },
-    {
-      "id": "R1001274",
-      "title": "Full-stack Engineer 4 (Python, Typescript)",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Python--Typescript-_R1001274-2",
-      "postedAt": "2026-09-22T20:10:26.743Z",
-      "key": "Capital One:R1001274",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T20:10:19.709Z"
     },
     {
       "id": "R1001287",
