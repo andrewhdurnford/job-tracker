@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-03T22:30:26.670Z",
+  "generatedAt": "2026-11-03T22:40:18.916Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "shieldai:f96fb376-39bb-42b7-84a0-7b53ff88f126"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 124,
     "new-grad": 21,
-    "experienced": 2195
+    "experienced": 2194
   },
   "companies": [
     {
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3355,7 +3357,7 @@
     {
       "name": "Northwood Space",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 338,
+      "jobCount": 337,
       "error": null,
       "stale": false
     },
@@ -4468,7 +4470,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 72,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5700,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "f96fb376-39bb-42b7-84a0-7b53ff88f126",
+      "title": "Senior Staff Systems Security Engineer, Program Protection (TX/DC/Sea) (R6515)",
+      "location": "United States",
+      "team": "X-BAT Engineering",
+      "url": "https://jobs.lever.co/shieldai/f96fb376-39bb-42b7-84a0-7b53ff88f126",
+      "postedAt": "2026-11-03T22:36:04.665Z",
+      "key": "shieldai:f96fb376-39bb-42b7-84a0-7b53ff88f126",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T22:40:18.916Z"
+    },
+    {
       "id": "8282837",
       "title": "Senior Machine Learning Infrastructure Engineer",
       "location": "San Mateo, CA, United States",
@@ -5714,22 +5732,6 @@
         "us"
       ],
       "firstSeen": "2026-11-03T22:23:51.179Z"
-    },
-    {
-      "id": "JR2020652",
-      "title": "Senior Platform Service Software Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Service-Software-Engineer_JR2020652",
-      "postedAt": "2026-11-03T22:20:24.251Z",
-      "key": "Nvidia:JR2020652",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T22:20:20.904Z"
     },
     {
       "id": "8927268002",
@@ -7286,22 +7288,6 @@
       "postedAt": "2026-11-03T02:19:42.315Z",
       "key": "temporal:86db065f-0f55-4985-b0f1-ce6a5e75f622",
       "company": "Temporal",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T02:20:19.544Z"
-    },
-    {
-      "id": "ad3d19b2-114e-4096-810e-64f289c862db",
-      "title": "Lead Software Engineer (Prism)",
-      "location": "Torrance, CA",
-      "team": "Software",
-      "url": "https://jobs.ashbyhq.com/northwoodspace/ad3d19b2-114e-4096-810e-64f289c862db",
-      "postedAt": "2026-11-03T02:14:28.237Z",
-      "key": "northwoodspace:ad3d19b2-114e-4096-810e-64f289c862db",
-      "company": "Northwood Space",
       "level": "experienced",
       "term": null,
       "regions": [
