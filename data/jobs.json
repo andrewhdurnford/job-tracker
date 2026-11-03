@@ -1,23 +1,21 @@
 {
-  "generatedAt": "2026-11-03T20:20:20.454Z",
+  "generatedAt": "2026-11-03T20:30:32.332Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "DocuSign:30508",
-    "janestreet:8922042002",
-    "nubank:ebd549b9-7a59-441b-962c-9c5356162b2b",
-    "nubank:220b3892-1c66-4411-a18d-8a0ba2681318",
-    "reddit:8350749",
-    "samsara:7985175"
+    "anthropic:5455618008",
+    "Capital One:R1005036",
+    "mercor:861df396-2508-4ede-97b8-51a85bbc98e2",
+    "pendo:8929128002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 125,
+    "intern": 124,
     "new-grad": 21,
-    "experienced": 2168
+    "experienced": 2172
   },
   "companies": [
     {
@@ -310,7 +308,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -793,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 142,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -1430,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -2038,10 +2036,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -2977,7 +2975,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3642,7 +3640,7 @@
     {
       "name": "Pendo",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3776,7 +3774,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4698,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 72,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5706,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1005036",
+      "title": "Senior Manager, Full-stack Engineer",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Manager--Full-stack-Engineer_R1005036-1",
+      "postedAt": "2026-11-03T20:30:35.836Z",
+      "key": "Capital One:R1005036",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T20:30:32.332Z"
+    },
+    {
+      "id": "861df396-2508-4ede-97b8-51a85bbc98e2",
+      "title": "Software Engineer, Discovery",
+      "location": "San Francisco",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/861df396-2508-4ede-97b8-51a85bbc98e2",
+      "postedAt": "2026-11-03T20:27:23.082Z",
+      "key": "mercor:861df396-2508-4ede-97b8-51a85bbc98e2",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T20:30:32.332Z"
+    },
+    {
+      "id": "5455618008",
+      "title": "Applied AI Architect, Public Sector (State & Local Government)",
+      "location": "San Francisco, CA | New York City, NY | Washington, DC",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455618008",
+      "postedAt": "2026-11-03T20:24:13.000Z",
+      "key": "anthropic:5455618008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T20:30:32.332Z"
+    },
+    {
+      "id": "8929128002",
+      "title": "Sr. Software Engineer, Backend",
+      "location": "Raleigh, NC",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8929128002",
+      "postedAt": "2026-11-03T20:21:52.000Z",
+      "key": "pendo:8929128002",
+      "company": "Pendo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T20:30:32.332Z"
+    },
     {
       "id": "220b3892-1c66-4411-a18d-8a0ba2681318",
       "title": "Senior Systems Engineer - Traffic Management",
@@ -35336,22 +35398,6 @@
         "us"
       ],
       "firstSeen": "2026-11-03T12:10:22.301Z"
-    },
-    {
-      "id": "30508",
-      "title": "Software Engineer Intern",
-      "location": "US-Seattle-3rd",
-      "team": "University",
-      "url": "https://uscareers-docusign.icims.com/jobs/30508/login",
-      "postedAt": "2026-10-09T22:23:00.000Z",
-      "key": "DocuSign:30508",
-      "company": "DocuSign",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T20:20:20.454Z"
     },
     {
       "id": "30509",
