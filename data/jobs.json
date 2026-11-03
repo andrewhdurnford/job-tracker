@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-11-03T21:20:27.566Z",
+  "generatedAt": "2026-11-03T21:30:32.544Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 9,
   "newKeys": [
-    "Nvidia:JR2029313"
+    "anyscale:cf99cc2e-a0d5-463f-a449-354992cd6153",
+    "braze:8349922",
+    "braze:8350523",
+    "braze:8350530",
+    "braze:8350519",
+    "braze:8350514",
+    "Nvidia:JR2026547",
+    "toast:8334794",
+    "zscaler:5267318007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +20,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 21,
-    "experienced": 2177
+    "experienced": 2186
   },
   "companies": [
     {
@@ -312,7 +320,7 @@
     {
       "name": "Anyscale",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -690,7 +698,7 @@
     {
       "name": "Braze",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -1193,10 +1201,10 @@
     },
     {
       "name": "Coupa",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Coupang",
@@ -3427,7 +3435,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 335,
+      "jobCount": 336,
       "error": null,
       "stale": false
     },
@@ -4721,10 +4729,10 @@
     },
     {
       "name": "Spotify",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sprinklr",
@@ -5107,7 +5115,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5688,7 +5696,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5709,150 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2026547",
+      "title": "Performance Engineer - Deep Learning",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer---Deep-Learning_JR2026547",
+      "postedAt": "2026-11-03T21:30:37.029Z",
+      "key": "Nvidia:JR2026547",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:30:32.544Z"
+    },
+    {
+      "id": "5267318007",
+      "title": "Staff Software Development Engineer",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5267318007",
+      "postedAt": "2026-11-03T21:28:32.000Z",
+      "key": "zscaler:5267318007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:30:32.544Z"
+    },
+    {
+      "id": "cf99cc2e-a0d5-463f-a449-354992cd6153",
+      "title": "Senior Cloud Security Engineer",
+      "location": "San Francisco",
+      "team": "323 Security",
+      "url": "https://jobs.ashbyhq.com/anyscale/cf99cc2e-a0d5-463f-a449-354992cd6153",
+      "postedAt": "2026-11-03T21:25:18.228Z",
+      "key": "anyscale:cf99cc2e-a0d5-463f-a449-354992cd6153",
+      "company": "Anyscale",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:30:32.544Z"
+    },
+    {
+      "id": "8350530",
+      "title": "Staff Software Engineer, Messaging Experience",
+      "location": "Toronto",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8350530",
+      "postedAt": "2026-11-03T21:24:42.000Z",
+      "key": "braze:8350530",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-03T21:30:32.544Z"
+    },
+    {
+      "id": "8350523",
+      "title": "Staff Software Engineer, Messaging Experience",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8350523",
+      "postedAt": "2026-11-03T21:24:40.000Z",
+      "key": "braze:8350523",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:30:32.544Z"
+    },
+    {
+      "id": "8350519",
+      "title": "Staff Software Engineer, Messaging Experience",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8350519",
+      "postedAt": "2026-11-03T21:24:38.000Z",
+      "key": "braze:8350519",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:30:32.544Z"
+    },
+    {
+      "id": "8350514",
+      "title": "Staff Software Engineer, Messaging Experience",
+      "location": "Austin",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8350514",
+      "postedAt": "2026-11-03T21:24:37.000Z",
+      "key": "braze:8350514",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:30:32.544Z"
+    },
+    {
+      "id": "8349922",
+      "title": "Staff Software Engineer, Messaging Experience",
+      "location": "New York City",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8349922",
+      "postedAt": "2026-11-03T21:24:35.000Z",
+      "key": "braze:8349922",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:30:32.544Z"
+    },
+    {
+      "id": "8334794",
+      "title": "Software Engineer II, Backend",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8334794",
+      "postedAt": "2026-11-03T21:21:50.000Z",
+      "key": "toast:8334794",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-03T21:30:32.544Z"
+    },
     {
       "id": "JR2029313",
       "title": "Senior AI Agent Test Developer, SDET",
