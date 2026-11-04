@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-11-04T00:00:28.630Z",
+  "generatedAt": "2026-11-04T00:10:19.971Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "databricks:8829053002",
-    "writer:2170c74d-7726-4d8f-910e-7f4ef7ac4fd1",
-    "writer:dcf1819e-6890-434f-8b72-8493bc35a7d2",
-    "writer:2111a9b4-8dab-4562-9692-ad7cb2c7b968"
+    "openai:02b170ae-de32-46f5-8ef1-844b268681fe"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 124,
     "new-grad": 21,
-    "experienced": 2214
+    "experienced": 2215
   },
   "companies": [
     {
@@ -1758,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1877,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2066,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2661,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2920,7 +2917,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3514,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "02b170ae-de32-46f5-8ef1-844b268681fe",
+      "title": "Staff Backend Engineer, Financial Engineering",
+      "location": "San Francisco",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/02b170ae-de32-46f5-8ef1-844b268681fe",
+      "postedAt": "2026-11-04T00:02:33.947Z",
+      "key": "openai:02b170ae-de32-46f5-8ef1-844b268681fe",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T00:10:19.971Z"
+    },
     {
       "id": "8829053002",
       "title": "Senior Software Engineer, IT Digital Employee Experience",
@@ -39486,7 +39499,7 @@
     {
       "id": "8871406002",
       "title": "Senior CX Platform Engineer",
-      "location": "Remote",
+      "location": "Remote, Canada; Remote, United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871406002",
       "postedAt": "2026-10-07T16:49:26.000Z",
@@ -39495,7 +39508,8 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "remote"
+        "us",
+        "canada"
       ],
       "firstSeen": "2026-10-07T16:50:18.500Z"
     },
