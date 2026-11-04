@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-04T00:30:25.791Z",
+  "generatedAt": "2026-11-04T00:40:32.681Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "airbnb:8351417"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 124,
     "new-grad": 21,
-    "experienced": 2216
+    "experienced": 2217
   },
   "companies": [
     {
@@ -114,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1774,7 +1776,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4826,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5700,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "8351417",
+      "title": "Senior Machine Learning Engineer, Relevance",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8351417?gh_jid=8351417",
+      "postedAt": "2026-11-04T00:31:12.000Z",
+      "key": "airbnb:8351417",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T00:40:32.681Z"
+    },
+    {
       "id": "a22230e6-803d-4e2e-82f8-ff5f500cdc3d",
       "title": "Cloud - Bare Metal Infrastructure Engineer",
       "location": "Remote: United States (+3 more)",
@@ -6503,7 +6521,7 @@
     {
       "id": "5455618008",
       "title": "Applied AI Architect, Public Sector (State & Local Government)",
-      "location": "San Francisco, CA | New York City, NY | Washington, DC",
+      "location": "San Francisco, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455618008",
       "postedAt": "2026-11-03T20:24:13.000Z",
