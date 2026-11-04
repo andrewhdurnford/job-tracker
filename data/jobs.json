@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T23:00:28.821Z",
+  "generatedAt": "2026-11-04T23:10:19.652Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "xai:5280951007"
+    "deepgram:3c9a9729-7ff1-49e3-a388-f108745e4b41"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 120,
     "new-grad": 20,
-    "experienced": 2237
+    "experienced": 2234
   },
   "companies": [
     {
@@ -1369,7 +1369,7 @@
     {
       "name": "Deepgram",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4056,10 +4056,10 @@
     },
     {
       "name": "Reach",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Reacher",
@@ -5345,7 +5345,7 @@
     {
       "name": "Vercel",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "3c9a9729-7ff1-49e3-a388-f108745e4b41",
+      "title": "Software Engineer - Applied AI",
+      "location": "San Francisco, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/deepgram/3c9a9729-7ff1-49e3-a388-f108745e4b41",
+      "postedAt": "2026-11-04T23:05:33.697Z",
+      "key": "deepgram:3c9a9729-7ff1-49e3-a388-f108745e4b41",
+      "company": "Deepgram",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T23:10:19.652Z"
+    },
+    {
       "id": "5280951007",
       "title": "Sr. Model Engineer, RL Training Framework",
       "location": " Palo Alto, CA",
@@ -5790,22 +5806,6 @@
       "postedAt": "2026-11-04T22:03:32.580Z",
       "key": "blacksmith:8aee4647-2e8a-4ff3-b805-2e4e8cb49de3",
       "company": "Blacksmith",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-04T22:10:21.877Z"
-    },
-    {
-      "id": "6195153004",
-      "title": "Software Engineer, Backend",
-      "location": "Hybrid - San Francisco, New York City",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6195153004",
-      "postedAt": "2026-11-04T22:00:22.000Z",
-      "key": "vercel:6195153004",
-      "company": "Vercel",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -8782,38 +8782,6 @@
         "us"
       ],
       "firstSeen": "2026-11-03T16:40:23.949Z"
-    },
-    {
-      "id": "6242246004",
-      "title": "Software Engineer, Agent Auth",
-      "location": "Hybrid - San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6242246004",
-      "postedAt": "2026-11-03T16:31:46.000Z",
-      "key": "vercel:6242246004",
-      "company": "Vercel",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T16:40:23.949Z"
-    },
-    {
-      "id": "6242244004",
-      "title": "Software Engineer, Connect ",
-      "location": "Hybrid - San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6242244004",
-      "postedAt": "2026-11-03T16:30:13.000Z",
-      "key": "vercel:6242244004",
-      "company": "Vercel",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T16:30:26.118Z"
     },
     {
       "id": "8927263002",
@@ -26896,22 +26864,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-30T18:10:19.247Z"
-    },
-    {
-      "id": "6231045004",
-      "title": "Engineering Director, Vercel for Platforms",
-      "location": "Hybrid - San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6231045004",
-      "postedAt": "2026-10-21T16:40:43.000Z",
-      "key": "vercel:6231045004",
-      "company": "Vercel",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T16:50:20.241Z"
     },
     {
       "id": "8232146",
