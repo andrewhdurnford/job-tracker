@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T08:50:20.584Z",
+  "generatedAt": "2026-11-04T09:00:26.398Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 22,
-    "experienced": 2225
+    "experienced": 2224
   },
   "companies": [
     {
@@ -1744,10 +1744,10 @@
     },
     {
       "name": "Fintual",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Finvest",
@@ -3151,10 +3151,10 @@
     },
     {
       "name": "Multiply Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mutiny",
@@ -3250,7 +3250,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3417,10 +3417,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nvidia",
@@ -3769,7 +3769,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4201,10 +4201,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Rilla",
@@ -4621,10 +4621,10 @@
     },
     {
       "name": "Snappr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Snorkel AI",
@@ -30603,22 +30603,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-16T15:10:15.941Z"
-    },
-    {
-      "id": "8287469",
-      "title": "Senior Data Scientist, Fraud Operations",
-      "location": "Bengaluru, IN",
-      "team": null,
-      "url": "https://navan.com/careers/openings?gh_jid=8287469",
-      "postedAt": "2026-10-16T14:50:20.000Z",
-      "key": "tripactions:8287469",
-      "company": "Navan",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T15:00:24.656Z"
     },
     {
       "id": "5266813007",
