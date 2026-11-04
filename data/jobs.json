@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-04T18:50:21.905Z",
+  "generatedAt": "2026-11-04T19:00:31.605Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "roblox:8221568",
-    "roblox:8311454"
+    "redis:d0c71974-3e7c-4080-ad97-7f3c7241fb48",
+    "spacex:8927740002",
+    "stripe:8306475",
+    "waymo:8351491"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 21,
-    "experienced": 2240
+    "experienced": 2238
   },
   "companies": [
     {
@@ -75,7 +77,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -594,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -937,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2218,7 +2220,7 @@
       "name": "Hightouch",
       "ok": false,
       "jobCount": 3,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3259,10 +3261,10 @@
     },
     {
       "name": "Neighbor",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Neo4j",
@@ -3687,7 +3689,7 @@
     {
       "name": "Phantom",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3855,7 +3857,7 @@
     {
       "name": "Postscript",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4114,7 +4116,7 @@
     {
       "name": "Redis",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4436,7 +4438,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4695,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 76,
+      "jobCount": 77,
       "error": null,
       "stale": false
     },
@@ -4722,10 +4724,10 @@
     },
     {
       "name": "Spotify",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sprinklr",
@@ -4773,7 +4775,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4800,7 +4802,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -5086,10 +5088,10 @@
     },
     {
       "name": "Thunkable",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tilt",
@@ -5227,7 +5229,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5481,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8306475",
+      "title": "Security Engineer, Privy",
+      "location": "NYC-Privy",
+      "team": "9001 Privy - R&D",
+      "url": "https://stripe.com/jobs/search?gh_jid=8306475",
+      "postedAt": "2026-11-04T19:00:09.000Z",
+      "key": "stripe:8306475",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T19:00:31.605Z"
+    },
+    {
+      "id": "8927740002",
+      "title": "IT Windows Systems Engineer ",
+      "location": "Memphis, TN",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8927740002?gh_jid=8927740002",
+      "postedAt": "2026-11-04T18:59:43.000Z",
+      "key": "spacex:8927740002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T19:00:31.605Z"
+    },
+    {
+      "id": "8351491",
+      "title": "Senior Staff Machine Learning Engineer, Perception, Simulation Realism",
+      "location": "Mountain View, California, United States; San Francisco, California, United States",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8351491",
+      "postedAt": "2026-11-04T18:54:49.000Z",
+      "key": "waymo:8351491",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T19:00:31.605Z"
+    },
+    {
+      "id": "d0c71974-3e7c-4080-ad97-7f3c7241fb48",
+      "title": "Director, Engineering Operations",
+      "location": "United States",
+      "team": "Technology",
+      "url": "https://jobs.ashbyhq.com/redis/d0c71974-3e7c-4080-ad97-7f3c7241fb48",
+      "postedAt": "2026-11-04T18:52:19.322Z",
+      "key": "redis:d0c71974-3e7c-4080-ad97-7f3c7241fb48",
+      "company": "Redis",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T19:00:31.605Z"
+    },
     {
       "id": "8311454",
       "title": "Senior Software Engineer, Build Platform",
@@ -14214,22 +14280,6 @@
       "firstSeen": "2026-10-31T00:20:17.975Z"
     },
     {
-      "id": "JR115782",
-      "title": "Staff Software Engineer, Platform (DevEx)",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Staff-Software-Engineer--Platform--DevEx-_JR115782",
-      "postedAt": "2026-10-31T00:10:24.065Z",
-      "key": "ServiceTitan:JR115782",
-      "company": "ServiceTitan",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-31T00:10:20.029Z"
-    },
-    {
       "id": "8900232002",
       "title": "Senior Software Engineer, Membership Experience",
       "location": "San Francisco, CA, USA",
@@ -16056,22 +16106,6 @@
       "postedAt": "2026-10-30T23:20:24.210Z",
       "key": "Nvidia:JR1997186",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:20:19.952Z"
-    },
-    {
-      "id": "JR115781",
-      "title": "Principal Software Engineer, Platform (DevEx)",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Principal-Software-Engineer--Platform--DevEx-_JR115781",
-      "postedAt": "2026-10-30T23:20:24.001Z",
-      "key": "ServiceTitan:JR115781",
-      "company": "ServiceTitan",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -26992,22 +27026,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T02:10:22.335Z"
-    },
-    {
-      "id": "ced59678-c49a-4e3c-bf12-08582447313d",
-      "title": "Senior Data Engineer",
-      "location": "Remote",
-      "team": "Growth",
-      "url": "https://jobs.ashbyhq.com/phantom/ced59678-c49a-4e3c-bf12-08582447313d",
-      "postedAt": "2026-10-21T01:05:04.955Z",
-      "key": "phantom:ced59678-c49a-4e3c-bf12-08582447313d",
-      "company": "Phantom",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-21T01:10:15.434Z"
     },
     {
       "id": "de1d9fbe-c7a9-49ac-b5c0-aaaa606325b2",
@@ -43215,54 +43233,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T19:10:30.786Z"
-    },
-    {
-      "id": "8868675002",
-      "title": "Senior Fullstack Engineer, Customer Context",
-      "location": "Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/postscript/jobs/8868675002",
-      "postedAt": "2026-10-05T18:54:14.000Z",
-      "key": "postscript:8868675002",
-      "company": "Postscript",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-05T19:00:26.283Z"
-    },
-    {
-      "id": "8160966",
-      "title": "Machine Learning Engineering Manager, Credit & Underwriting",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8160966",
-      "postedAt": "2026-10-05T18:54:11.000Z",
-      "key": "adyen:8160966",
-      "company": "Adyen",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T19:00:26.283Z"
-    },
-    {
-      "id": "8067027",
-      "title": "Staff Mobile Software Engineer (P4)",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8067027",
-      "postedAt": "2026-10-05T18:51:26.000Z",
-      "key": "twilio:8067027",
-      "company": "Twilio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T14:00:23.414Z"
     },
     {
       "id": "a4e0c464-decb-410b-897b-ea039203c33e",
