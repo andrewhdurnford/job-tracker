@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-11-04T23:10:19.652Z",
+  "generatedAt": "2026-11-04T23:20:22.125Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "deepgram:3c9a9729-7ff1-49e3-a388-f108745e4b41"
+    "notion:f524ef6b-6a8a-4d73-b7ff-eac85bd6c887",
+    "permitflow:ff27be84-25db-4d65-a421-ff9b0cd339a4",
+    "vercel:6231045004",
+    "vercel:6242246004",
+    "vercel:6195153004",
+    "vercel:6242244004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +17,7 @@
   "levelCounts": {
     "intern": 120,
     "new-grad": 20,
-    "experienced": 2234
+    "experienced": 2237
   },
   "companies": [
     {
@@ -844,7 +849,7 @@
     {
       "name": "Carvana",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3245,7 +3250,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3371,7 +3376,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3516,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -3658,7 +3663,7 @@
     {
       "name": "PermitFlow",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4056,10 +4061,10 @@
     },
     {
       "name": "Reach",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Reacher",
@@ -5345,7 +5350,7 @@
     {
       "name": "Vercel",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5707,39 @@
   ],
   "jobs": [
     {
+      "id": "f524ef6b-6a8a-4d73-b7ff-eac85bd6c887",
+      "title": "Software Engineer, Growth",
+      "location": "San Francisco, California (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887",
+      "postedAt": "2026-11-04T23:19:02.513Z",
+      "key": "notion:f524ef6b-6a8a-4d73-b7ff-eac85bd6c887",
+      "company": "Notion",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T23:20:22.125Z"
+    },
+    {
+      "id": "ff27be84-25db-4d65-a421-ff9b0cd339a4",
+      "title": "Principal Software Engineer, Platform",
+      "location": "New York City, NY (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/permitflow/ff27be84-25db-4d65-a421-ff9b0cd339a4",
+      "postedAt": "2026-11-04T23:18:10.294Z",
+      "key": "permitflow:ff27be84-25db-4d65-a421-ff9b0cd339a4",
+      "company": "PermitFlow",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-04T23:20:22.125Z"
+    },
+    {
       "id": "3c9a9729-7ff1-49e3-a388-f108745e4b41",
       "title": "Software Engineer - Applied AI",
       "location": "San Francisco, CA",
@@ -5812,6 +5850,22 @@
         "us"
       ],
       "firstSeen": "2026-11-04T22:10:21.877Z"
+    },
+    {
+      "id": "6195153004",
+      "title": "Software Engineer, Backend",
+      "location": "Hybrid - San Francisco, New York City",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6195153004",
+      "postedAt": "2026-11-04T22:00:22.000Z",
+      "key": "vercel:6195153004",
+      "company": "Vercel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T23:20:22.125Z"
     },
     {
       "id": "8352927",
@@ -6431,22 +6485,6 @@
       "url": "https://job-boards.greenhouse.io/natera/jobs/6237775004",
       "postedAt": "2026-11-04T18:07:22.000Z",
       "key": "natera:6237775004",
-      "company": "Natera",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-04T18:10:31.756Z"
-    },
-    {
-      "id": "6239914004",
-      "title": "Senior Software Engineer",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6239914004",
-      "postedAt": "2026-11-04T18:05:15.000Z",
-      "key": "natera:6239914004",
       "company": "Natera",
       "level": "experienced",
       "term": null,
@@ -8782,6 +8820,38 @@
         "us"
       ],
       "firstSeen": "2026-11-03T16:40:23.949Z"
+    },
+    {
+      "id": "6242246004",
+      "title": "Software Engineer, Agent Auth",
+      "location": "Hybrid - San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6242246004",
+      "postedAt": "2026-11-03T16:31:46.000Z",
+      "key": "vercel:6242246004",
+      "company": "Vercel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T23:20:22.125Z"
+    },
+    {
+      "id": "6242244004",
+      "title": "Software Engineer, Connect ",
+      "location": "Hybrid - San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6242244004",
+      "postedAt": "2026-11-03T16:30:13.000Z",
+      "key": "vercel:6242244004",
+      "company": "Vercel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T23:20:22.125Z"
     },
     {
       "id": "8927263002",
@@ -26866,6 +26936,22 @@
       "firstSeen": "2026-10-30T18:10:19.247Z"
     },
     {
+      "id": "6231045004",
+      "title": "Engineering Director, Vercel for Platforms",
+      "location": "Hybrid - San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6231045004",
+      "postedAt": "2026-10-21T16:40:43.000Z",
+      "key": "vercel:6231045004",
+      "company": "Vercel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T23:20:22.125Z"
+    },
+    {
       "id": "8232146",
       "title": "AI Research Scientist",
       "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid)",
@@ -42890,38 +42976,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T23:30:22.704Z"
-    },
-    {
-      "id": "8257813",
-      "title": "Senior Engineer, Information Security",
-      "location": "Tempe, AZ",
-      "team": null,
-      "url": "https://www.carvana.com/careers/apply?gh_jid=8257813",
-      "postedAt": "2026-10-05T23:12:37.000Z",
-      "key": "carvana:8257813",
-      "company": "Carvana",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T23:19:43.071Z"
-    },
-    {
-      "id": "7613aca3-9dd8-41cd-b114-06ef4de967a9",
-      "title": "Software Engineer, Cooperative AI",
-      "location": "San Francisco (+1 more)",
-      "team": "Applied AI",
-      "url": "https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9",
-      "postedAt": "2026-10-05T23:10:27.181Z",
-      "key": "openai:7613aca3-9dd8-41cd-b114-06ef4de967a9",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T17:10:18.845Z"
     },
     {
       "id": "f33184f4-52ef-4b75-b644-2a7d6d525118",
