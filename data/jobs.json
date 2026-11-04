@@ -1,18 +1,20 @@
 {
-  "generatedAt": "2026-11-04T19:40:19.503Z",
+  "generatedAt": "2026-11-04T19:50:19.091Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "snowflake:776b1e0d-a3d4-417f-9178-eb20a0852ec4"
+    "airbnb:8274802",
+    "chainguard:4725945006",
+    "natera:6242804004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 125,
+    "intern": 122,
     "new-grad": 21,
-    "experienced": 2236
+    "experienced": 2237
   },
   "companies": [
     {
@@ -116,7 +118,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -879,7 +881,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -2972,7 +2974,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3245,7 +3247,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3322,7 +3324,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 76,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5254,7 +5256,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6242804004",
+      "title": "Senior Data Engineer, Data Foundations",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6242804004",
+      "postedAt": "2026-11-04T19:47:41.000Z",
+      "key": "natera:6242804004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T19:50:19.091Z"
+    },
+    {
+      "id": "4725945006",
+      "title": "Senior Software Engineer, Containers",
+      "location": "Canada - Remote; Germany - Remote; United Kingdom - Remote; United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4725945006",
+      "postedAt": "2026-11-04T19:42:53.000Z",
+      "key": "chainguard:4725945006",
+      "company": "Chainguard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-04T19:50:19.091Z"
+    },
     {
       "id": "776b1e0d-a3d4-417f-9178-eb20a0852ec4",
       "title": "Staff Software Engineer, Cortex AI Functions",
@@ -6139,7 +6174,7 @@
     },
     {
       "id": "f15795b7-58c7-4855-a6d1-911c9928ed3d",
-      "title": "Software Engineer, AI Developer Productivity ",
+      "title": "Software Engineer, AI Developer Platform ",
       "location": "Union Square, New York City",
       "team": "Backend",
       "url": "https://jobs.ashbyhq.com/mirage/f15795b7-58c7-4855-a6d1-911c9928ed3d",
@@ -29057,22 +29092,6 @@
       "firstSeen": "2026-10-19T21:20:20.407Z"
     },
     {
-      "id": "3cc74eaf-9e74-462b-863a-583d3aaff6c4",
-      "title": "Principal Software Engineer ",
-      "location": "Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/uipath/3cc74eaf-9e74-462b-863a-583d3aaff6c4",
-      "postedAt": "2026-10-19T21:10:53.814Z",
-      "key": "uipath:3cc74eaf-9e74-462b-863a-583d3aaff6c4",
-      "company": "UiPath",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T21:20:20.407Z"
-    },
-    {
       "id": "8301086",
       "title": "Intern, Software Engineering",
       "location": "New York City",
@@ -36265,6 +36284,22 @@
       "firstSeen": "2026-10-12T20:40:15.848Z"
     },
     {
+      "id": "8274802",
+      "title": "Senior Software Engineer, Payments Platform",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8274802?gh_jid=8274802",
+      "postedAt": "2026-10-12T20:32:34.000Z",
+      "key": "airbnb:8274802",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T19:50:19.091Z"
+    },
+    {
       "id": "8268917",
       "title": "Senior Site Reliability Engineer  - EPG",
       "location": "Bellevue, Washington; San Francisco, California",
@@ -37463,22 +37498,6 @@
         "us"
       ],
       "firstSeen": "2026-10-16T19:20:19.240Z"
-    },
-    {
-      "id": "5436245008",
-      "title": "GTM AI Engineer (Automation & AI)",
-      "location": "Arlington, Virginia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Kansas City, Missouri, USA; Newark, New Jersey, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5436245008",
-      "postedAt": "2026-10-09T19:37:53.000Z",
-      "key": "newrelic:5436245008",
-      "company": "New Relic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-04T17:28:47.966Z"
     },
     {
       "id": "8221890",
@@ -43138,66 +43157,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T20:40:56.127Z"
-    },
-    {
-      "id": "8257205",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
-      "postedAt": "2026-10-05T19:44:22.000Z",
-      "key": "waymo:8257205",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T20:05:36.448Z"
-    },
-    {
-      "id": "8257159",
-      "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257159",
-      "postedAt": "2026-10-05T19:41:27.000Z",
-      "key": "waymo:8257159",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T20:05:36.448Z"
-    },
-    {
-      "id": "e6502490-37c6-471a-9ffb-cf397764c518",
-      "title": "Research Intern",
-      "location": "San Francisco",
-      "team": "Research | Internships",
-      "url": "https://jobs.ashbyhq.com/mercor/e6502490-37c6-471a-9ffb-cf397764c518",
-      "postedAt": "2026-10-05T19:40:37.171Z",
-      "key": "mercor:e6502490-37c6-471a-9ffb-cf397764c518",
-      "company": "Mercor",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T20:28:01.910Z"
     },
     {
       "id": "a4e0c464-decb-410b-897b-ea039203c33e",
