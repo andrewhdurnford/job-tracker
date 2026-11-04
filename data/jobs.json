@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-04T22:30:26.209Z",
+  "generatedAt": "2026-11-04T22:40:26.124Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "spacex:8931276002",
+    "goteleport:4ac5c867-e63e-41eb-a978-8a63e29f6e49"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 120,
     "new-grad": 20,
-    "experienced": 2241
+    "experienced": 2238
   },
   "companies": [
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 158,
+      "jobCount": 157,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 343,
+      "jobCount": 341,
       "error": null,
       "stale": false
     },
@@ -3754,7 +3757,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 78,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 79,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5700,36 +5703,36 @@
   ],
   "jobs": [
     {
-      "id": "JR2023143",
-      "title": "Senior Security Engineer, Infrastructure Security Engineering - DGX Cloud",
-      "location": "Canada, Remote",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Canada-Remote/Senior-Security-Engineer--Infrastructure-Security-Engineering---DGX-Cloud_JR2023143-1",
-      "postedAt": "2026-11-04T22:20:25.984Z",
-      "key": "Nvidia:JR2023143",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-04T22:20:21.643Z"
-    },
-    {
-      "id": "JR2022613",
-      "title": "Manager, Chip Software",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Chip-Software_JR2022613",
-      "postedAt": "2026-11-04T22:10:26.288Z",
-      "key": "Nvidia:JR2022613",
-      "company": "Nvidia",
+      "id": "4ac5c867-e63e-41eb-a978-8a63e29f6e49",
+      "title": "Staff Backend Engineer - Performance - US",
+      "location": "United States (Remote)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/goteleport/4ac5c867-e63e-41eb-a978-8a63e29f6e49",
+      "postedAt": "2026-11-04T22:37:57.878Z",
+      "key": "goteleport:4ac5c867-e63e-41eb-a978-8a63e29f6e49",
+      "company": "Teleport",
       "level": "experienced",
       "term": null,
       "regions": [
         "us"
       ],
-      "firstSeen": "2026-11-04T22:10:21.877Z"
+      "firstSeen": "2026-11-04T22:40:26.124Z"
+    },
+    {
+      "id": "8931276002",
+      "title": "Sr. Full Stack Engineer, Launch Software ",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8931276002?gh_jid=8931276002",
+      "postedAt": "2026-11-04T22:27:32.000Z",
+      "key": "spacex:8931276002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T22:40:26.124Z"
     },
     {
       "id": "5254403007",
@@ -7178,22 +7181,6 @@
         "us"
       ],
       "firstSeen": "2026-11-04T02:20:19.652Z"
-    },
-    {
-      "id": "R1004141",
-      "title": "Data Engineer 4 (Manager, IC)",
-      "location": "Richmond, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Data-Engineer-4--Manager--IC-_R1004141-1",
-      "postedAt": "2026-11-04T02:10:23.084Z",
-      "key": "Capital One:R1004141",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-04T02:10:19.841Z"
     },
     {
       "id": "8929044002",
@@ -10321,7 +10308,7 @@
     },
     {
       "id": "5280957007",
-      "title": "Sr. Model Engineer, Mid-training",
+      "title": "Sr. Model Engineer, Mid-Training",
       "location": " Palo Alto, CA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
@@ -38785,22 +38772,6 @@
       "firstSeen": "2026-10-08T23:20:16.508Z"
     },
     {
-      "id": "543d88d2-7ca9-4762-9006-5ebd0d64ce05",
-      "title": "Staff Backend Engineer - Performance - US",
-      "location": "United States (Remote)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/goteleport/543d88d2-7ca9-4762-9006-5ebd0d64ce05",
-      "postedAt": "2026-10-08T22:59:21.092Z",
-      "key": "goteleport:543d88d2-7ca9-4762-9006-5ebd0d64ce05",
-      "company": "Teleport",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T23:00:23.019Z"
-    },
-    {
       "id": "5261795007",
       "title": "Senior Backend Engineer - Intercom",
       "location": "San Mateo, CA United States",
@@ -43016,22 +42987,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-05T22:50:18.320Z"
-    },
-    {
-      "id": "7957635",
-      "title": "Manager II, Engineering, Serving Infrastructure",
-      "location": "Palo Alto, CA, US; San Francisco, CA, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7957635",
-      "postedAt": "2026-10-05T22:39:59.000Z",
-      "key": "pinterest:7957635",
-      "company": "Pinterest",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T22:40:16.398Z"
     },
     {
       "id": "f33184f4-52ef-4b75-b644-2a7d6d525118",
