@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-04T11:30:23.182Z",
+  "generatedAt": "2026-11-04T11:40:18.412Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "kraken.com:1ef252be-b664-42eb-abc5-6b02b54114ff"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -593,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1144,10 +1142,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Conveo",
@@ -1655,10 +1653,10 @@
     },
     {
       "name": "Exowatt",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Factory",
@@ -3048,10 +3046,10 @@
     },
     {
       "name": "Mindy",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mirage",
