@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-11-04T13:30:26.420Z",
+  "generatedAt": "2026-11-04T13:40:19.895Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "Capital One:R1001291",
+    "Capital One:R1001880",
+    "Capital One:R1001177",
+    "whoop:211e1d59-ffdf-4711-b035-756f04816bcc"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 22,
-    "experienced": 2228
+    "experienced": 2232
   },
   "companies": [
     {
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 145,
+      "jobCount": 148,
       "error": null,
       "stale": false
     },
@@ -2656,7 +2661,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3769,7 +3774,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3795,10 +3800,10 @@
     },
     {
       "name": "Poll Everywhere",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Polymath",
@@ -4201,10 +4206,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Rilla",
@@ -5511,7 +5516,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5692,13 +5697,77 @@
     },
     {
       "name": "Zuma",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     }
   ],
   "jobs": [
+    {
+      "id": "R1001880",
+      "title": "Full-stack Engineer 4 (Java, Python, AWS, Spark)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Java--Python--AWS--Spark-_R1001880-1",
+      "postedAt": "2026-11-04T13:40:22.897Z",
+      "key": "Capital One:R1001880",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T13:40:19.895Z"
+    },
+    {
+      "id": "R1001291",
+      "title": "Full-stack Engineer 5 (Golang, AWS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Golang--AWS-_R1001291-1",
+      "postedAt": "2026-11-04T13:40:22.897Z",
+      "key": "Capital One:R1001291",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T13:40:19.895Z"
+    },
+    {
+      "id": "R1001177",
+      "title": "Machine Learning Engineer 4",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Machine-Learning-Engineer-4_R1001177-1",
+      "postedAt": "2026-11-04T13:40:22.897Z",
+      "key": "Capital One:R1001177",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T13:40:19.895Z"
+    },
+    {
+      "id": "211e1d59-ffdf-4711-b035-756f04816bcc",
+      "title": "Staff Android Engineer, Connectivity ",
+      "location": "Boston, MA",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/whoop/211e1d59-ffdf-4711-b035-756f04816bcc",
+      "postedAt": "2026-11-04T13:29:27.758Z",
+      "key": "whoop:211e1d59-ffdf-4711-b035-756f04816bcc",
+      "company": "WHOOP",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T13:40:19.895Z"
+    },
     {
       "id": "8350965",
       "title": "Senior Software Engineer - Developer Experience, Android",
@@ -6312,7 +6381,7 @@
       "id": "f96fb376-39bb-42b7-84a0-7b53ff88f126",
       "title": "Senior Staff Systems Security Engineer, Program Protection (TX/DC/Sea) (R6515)",
       "location": "United States",
-      "team": "X-BAT Engineering",
+      "team": "X-BAT Engineering - System Engineering & Integrated Test",
       "url": "https://jobs.lever.co/shieldai/f96fb376-39bb-42b7-84a0-7b53ff88f126",
       "postedAt": "2026-11-03T22:36:04.665Z",
       "key": "shieldai:f96fb376-39bb-42b7-84a0-7b53ff88f126",
