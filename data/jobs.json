@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-04T20:10:21.182Z",
+  "generatedAt": "2026-11-04T20:20:19.071Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "anyscale:503a08c2-80b1-4968-8dcf-06380453bcdb",
-    "spacex:8929638002",
-    "toast:8245633"
+    "temporal:cfc85072-6669-4671-afd4-e860f7072668"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1146,10 +1144,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Conveo",
@@ -2777,10 +2775,10 @@
     },
     {
       "name": "Living Carbon",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "LlamaIndex",
@@ -4478,10 +4476,10 @@
     },
     {
       "name": "Shiru",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Short Story",
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 78,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4801,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 30,
       "error": null,
       "stale": false
     },
@@ -5025,7 +5023,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5486,10 +5484,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Weave",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "cfc85072-6669-4671-afd4-e860f7072668",
+      "title": "Staff Software Engineer, Compute (Temporal Cloud)",
+      "location": "United States (Remote)",
+      "team": "Compute",
+      "url": "https://jobs.ashbyhq.com/temporal/cfc85072-6669-4671-afd4-e860f7072668",
+      "postedAt": "2026-11-04T20:16:11.475Z",
+      "key": "temporal:cfc85072-6669-4671-afd4-e860f7072668",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T20:20:19.071Z"
+    },
     {
       "id": "503a08c2-80b1-4968-8dcf-06380453bcdb",
       "title": "Forward Deployed Engineer - AI/ML Platforms",
@@ -43104,22 +43118,6 @@
       "postedAt": "2026-10-05T20:28:05.426Z",
       "key": "Capital One:R1003027",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T20:28:01.910Z"
-    },
-    {
-      "id": "8257354",
-      "title": "Staff Full Stack Software Engineer, Link - Consumer Preference",
-      "location": "San Francisco, NYC, Seattle",
-      "team": "8560 Bank Connections - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8257354",
-      "postedAt": "2026-10-05T20:17:49.000Z",
-      "key": "stripe:8257354",
-      "company": "Stripe",
       "level": "experienced",
       "term": null,
       "regions": [
