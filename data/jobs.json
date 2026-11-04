@@ -1,18 +1,17 @@
 {
-  "generatedAt": "2026-11-04T21:00:31.710Z",
+  "generatedAt": "2026-11-04T21:10:21.865Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1005190",
-    "lancedb:be8a0e53-8e8e-4493-9e64-a91c0d330fbd"
+    "xai:5285250007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 121,
-    "new-grad": 21,
+    "intern": 120,
+    "new-grad": 20,
     "experienced": 2238
   },
   "companies": [
@@ -1194,10 +1193,10 @@
     },
     {
       "name": "Coupa",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Coupang",
@@ -3428,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 342,
+      "jobCount": 341,
       "error": null,
       "stale": false
     },
@@ -3994,10 +3993,10 @@
     },
     {
       "name": "Quartzy",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Quicknode",
@@ -4568,10 +4567,10 @@
     },
     {
       "name": "Skyways",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Sleeper",
@@ -5115,7 +5114,7 @@
     {
       "name": "Together AI",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5584,7 +5583,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5285250007",
+      "title": "Sr. Software Engineer, Network (C++)",
+      "location": " Palo Alto, CA; Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5285250007",
+      "postedAt": "2026-11-04T21:01:52.000Z",
+      "key": "xai:5285250007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T21:10:21.865Z"
+    },
     {
       "id": "R1005190",
       "title": "Mobile Engineer 5",
@@ -15395,22 +15410,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Software-Engineering---Cumulus-Linux_JR2018585",
       "postedAt": "2026-10-30T23:50:23.339Z",
       "key": "Nvidia:JR2018585",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:50:18.349Z"
-    },
-    {
-      "id": "JR2018839",
-      "title": "Principal System Software Engineer - AV Platform",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-System-Software-Engineer---AV-Platform_JR2018839",
-      "postedAt": "2026-10-30T23:50:23.339Z",
-      "key": "Nvidia:JR2018839",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
@@ -31746,48 +31745,6 @@
       "company": "Snowflake",
       "level": "experienced",
       "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T04:40:15.441Z"
-    },
-    {
-      "id": "5238471007",
-      "title": "Hardware Security Engineer, New Grad (2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238471007",
-      "postedAt": "2026-10-16T04:32:37.000Z",
-      "key": "togetherai:5238471007",
-      "company": "Together AI",
-      "level": "new-grad",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T04:40:15.441Z"
-    },
-    {
-      "id": "5238469007",
-      "title": "Hardware Security Engineer Intern (Summer 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
-      "postedAt": "2026-10-16T04:31:37.000Z",
-      "key": "togetherai:5238469007",
-      "company": "Together AI",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
       "regions": [
         "us"
       ],
