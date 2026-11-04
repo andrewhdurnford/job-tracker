@@ -1,20 +1,21 @@
 {
-  "generatedAt": "2026-11-04T19:50:19.091Z",
+  "generatedAt": "2026-11-04T20:00:31.131Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "airbnb:8274802",
-    "chainguard:4725945006",
-    "natera:6242804004"
+    "databricks:8931033002",
+    "discord:8910013002",
+    "ramp:6511d68f-b65d-4499-962f-7e2f75eabe3f",
+    "spacex:8929620002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 122,
+    "intern": 121,
     "new-grad": 21,
-    "experienced": 2237
+    "experienced": 2241
   },
   "companies": [
     {
@@ -595,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -636,7 +637,7 @@
     {
       "name": "Bobyard",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -938,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1294,7 +1295,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1413,7 +1414,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1468,10 +1469,10 @@
     },
     {
       "name": "Doxel",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Dropbox",
@@ -1757,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1778,7 +1779,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1876,7 +1877,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1895,10 +1896,10 @@
     },
     {
       "name": "Freshworks",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Fulcrum",
@@ -2065,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2252,10 +2253,10 @@
     },
     {
       "name": "Houzz",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "HubSpot",
@@ -4038,7 +4039,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4569,10 +4570,10 @@
     },
     {
       "name": "Skyways",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sleeper",
@@ -4696,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 76,
+      "jobCount": 77,
       "error": null,
       "stale": false
     },
@@ -5696,13 +5697,78 @@
     },
     {
       "name": "Zuma",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     }
   ],
   "jobs": [
+    {
+      "id": "8929620002",
+      "title": "Principal Software Engineer (Application Software)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8929620002?gh_jid=8929620002",
+      "postedAt": "2026-11-04T19:59:22.000Z",
+      "key": "spacex:8929620002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T20:00:31.131Z"
+    },
+    {
+      "id": "6511d68f-b65d-4499-962f-7e2f75eabe3f",
+      "title": "Software Engineer, Frontend",
+      "location": "New York, NY (HQ) (+4 more)",
+      "team": "Frontend",
+      "url": "https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f",
+      "postedAt": "2026-11-04T19:56:37.701Z",
+      "key": "ramp:6511d68f-b65d-4499-962f-7e2f75eabe3f",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-04T20:00:31.131Z"
+    },
+    {
+      "id": "8931033002",
+      "title": "Senior Software Engineer - Access Management",
+      "location": "Bellevue, Washington",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8931033002",
+      "postedAt": "2026-11-04T19:55:14.000Z",
+      "key": "databricks:8931033002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T20:00:31.131Z"
+    },
+    {
+      "id": "8910013002",
+      "title": "Senior Machine Learning Engineer (Growth)",
+      "location": "San Francisco Bay Area",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8910013002",
+      "postedAt": "2026-11-04T19:52:48.000Z",
+      "key": "discord:8910013002",
+      "company": "Discord",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T20:00:31.131Z"
+    },
     {
       "id": "6242804004",
       "title": "Senior Data Engineer, Data Foundations",
@@ -43141,22 +43207,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T20:05:36.448Z"
-    },
-    {
-      "id": "ae7aa71b-5ed2-4066-b173-fc0618f2ed8f",
-      "title": "Computer Vision Research Engineer - Intern ",
-      "location": "San Francisco",
-      "team": "Computer Vision",
-      "url": "https://jobs.ashbyhq.com/bobyard/ae7aa71b-5ed2-4066-b173-fc0618f2ed8f",
-      "postedAt": "2026-10-05T19:55:34.526Z",
-      "key": "bobyard:ae7aa71b-5ed2-4066-b173-fc0618f2ed8f",
-      "company": "Bobyard",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T20:40:56.127Z"
     },
     {
       "id": "a4e0c464-decb-410b-897b-ea039203c33e",
