@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-04T14:30:22.837Z",
+  "generatedAt": "2026-11-04T14:40:20.319Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "supabase:985abb8d-cb2b-4f32-97d7-497e9f89e3ce"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1674,10 +1676,10 @@
     },
     {
       "name": "FamPay",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Farel",
@@ -3769,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4194,10 +4196,10 @@
     },
     {
       "name": "Rezo Therapeutics",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Rigetti Quantum Computing",
@@ -4860,7 +4862,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5322,7 +5324,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
+      "title": "Senior Developer Relations, Twitter Brand Rep",
+      "location": "Remote, Global",
+      "team": "Marketing",
+      "url": "https://jobs.ashbyhq.com/supabase/985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
+      "postedAt": "2026-11-04T14:33:58.224Z",
+      "key": "supabase:985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
+      "company": "Supabase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-04T14:40:20.319Z"
+    },
     {
       "id": "R1001314",
       "title": "Full-stack Engineer 4 (Golang, Python, Java, AWS)",
@@ -43273,22 +43291,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-05T14:40:18.718Z"
-    },
-    {
-      "id": "e8ed04e4-28ab-4108-95da-6282e9d6bf86",
-      "title": "Staff Software Engineer, Program Structure & Trust",
-      "location": "Remote - Canada",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/vanta/e8ed04e4-28ab-4108-95da-6282e9d6bf86",
-      "postedAt": "2026-10-05T14:39:03.511Z",
-      "key": "vanta:e8ed04e4-28ab-4108-95da-6282e9d6bf86",
-      "company": "Vanta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
       ],
       "firstSeen": "2026-10-05T14:40:18.718Z"
     },
