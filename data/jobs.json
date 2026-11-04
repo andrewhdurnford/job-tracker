@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-11-03T23:50:19.505Z",
+  "generatedAt": "2026-11-04T00:00:28.630Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "airbnb:8330153",
-    "checkr:8351381",
-    "Nvidia:JR2028517",
-    "writer:ce86adec-e8ce-4bbf-a706-43795a982de6",
-    "writer:47dd1728-97f7-4e0d-9a7a-39009aa212a5"
+    "databricks:8829053002",
+    "writer:2170c74d-7726-4d8f-910e-7f4ef7ac4fd1",
+    "writer:dcf1819e-6890-434f-8b72-8493bc35a7d2",
+    "writer:2111a9b4-8dab-4562-9692-ad7cb2c7b968"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +15,7 @@
   "levelCounts": {
     "intern": 124,
     "new-grad": 21,
-    "experienced": 2211
+    "experienced": 2214
   },
   "companies": [
     {
@@ -120,7 +119,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -597,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1296,7 +1295,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5580,7 +5579,7 @@
     {
       "name": "Writer",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "8829053002",
+      "title": "Senior Software Engineer, IT Digital Employee Experience",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829053002",
+      "postedAt": "2026-11-03T23:54:40.000Z",
+      "key": "databricks:8829053002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T00:00:28.630Z"
+    },
+    {
+      "id": "2111a9b4-8dab-4562-9692-ad7cb2c7b968",
+      "title": "AI deployment engineer (East)",
+      "location": "New York City, NY",
+      "team": "Deployment engineering",
+      "url": "https://jobs.ashbyhq.com/writer/2111a9b4-8dab-4562-9692-ad7cb2c7b968",
+      "postedAt": "2026-11-03T23:53:59.146Z",
+      "key": "writer:2111a9b4-8dab-4562-9692-ad7cb2c7b968",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T00:00:28.630Z"
+    },
+    {
+      "id": "dcf1819e-6890-434f-8b72-8493bc35a7d2",
+      "title": "AI deployment engineer (West)",
+      "location": "San Francisco, CA (+1 more)",
+      "team": "Deployment engineering",
+      "url": "https://jobs.ashbyhq.com/writer/dcf1819e-6890-434f-8b72-8493bc35a7d2",
+      "postedAt": "2026-11-03T23:52:46.131Z",
+      "key": "writer:dcf1819e-6890-434f-8b72-8493bc35a7d2",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T00:00:28.630Z"
+    },
+    {
       "id": "JR2028517",
       "title": "Senior System Software Engineer— Autonomous Driving Context Fusion",
       "location": "US, CA, Santa Clara",
@@ -5720,6 +5767,22 @@
         "us"
       ],
       "firstSeen": "2026-11-03T23:50:19.505Z"
+    },
+    {
+      "id": "2170c74d-7726-4d8f-910e-7f4ef7ac4fd1",
+      "title": "Software engineer, generative AI",
+      "location": "San Francisco, CA (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/writer/2170c74d-7726-4d8f-910e-7f4ef7ac4fd1",
+      "postedAt": "2026-11-03T23:50:21.799Z",
+      "key": "writer:2170c74d-7726-4d8f-910e-7f4ef7ac4fd1",
+      "company": "Writer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T00:00:28.630Z"
     },
     {
       "id": "47dd1728-97f7-4e0d-9a7a-39009aa212a5",
@@ -5746,22 +5809,6 @@
       "postedAt": "2026-11-03T23:42:27.000Z",
       "key": "checkr:8351381",
       "company": "Checkr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T23:50:19.505Z"
-    },
-    {
-      "id": "8330153",
-      "title": "Engineering Manager, Streaming Infrastructure",
-      "location": "USA",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8330153?gh_jid=8330153",
-      "postedAt": "2026-11-03T23:41:12.000Z",
-      "key": "airbnb:8330153",
-      "company": "Airbnb",
       "level": "experienced",
       "term": null,
       "regions": [
