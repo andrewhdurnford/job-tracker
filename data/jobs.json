@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-11-04T18:20:19.487Z",
+  "generatedAt": "2026-11-04T18:30:23.683Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R1005191"
+    "Capital One:R1002018",
+    "Capital One:R1002021",
+    "Capital One:R1002019",
+    "natera:6239916004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 21,
-    "experienced": 2235
+    "experienced": 2238
   },
   "companies": [
     {
@@ -788,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 154,
+      "jobCount": 157,
       "error": null,
       "stale": false
     },
@@ -1523,7 +1526,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -3245,7 +3248,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3771,7 +3774,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4693,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 76,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002018",
+      "title": "Full-stack Engineer 4 (Manager, IC)-Risk Tech",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Manager--IC--Risk-Tech_R1002018-1",
+      "postedAt": "2026-11-04T18:30:26.385Z",
+      "key": "Capital One:R1002018",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T18:30:23.683Z"
+    },
+    {
+      "id": "R1002019",
+      "title": "Full-stack Engineer 5 (Senior Manager, IC)-Risk Tech",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5--Senior-Manager--IC--Risk-Tech_R1002019-1",
+      "postedAt": "2026-11-04T18:30:26.385Z",
+      "key": "Capital One:R1002019",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T18:30:23.683Z"
+    },
+    {
+      "id": "R1002021",
+      "title": "Senior Manager, Full-stack Engineer (PL)-Risk Tech",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Senior-Manager--Full-stack-Engineer--PL--Risk-Tech_R1002021-1",
+      "postedAt": "2026-11-04T18:30:26.385Z",
+      "key": "Capital One:R1002021",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T18:30:23.683Z"
+    },
+    {
+      "id": "6239916004",
+      "title": "Staff Software Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6239916004",
+      "postedAt": "2026-11-04T18:21:43.000Z",
+      "key": "natera:6239916004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T18:30:23.683Z"
+    },
     {
       "id": "R1005191",
       "title": "Full-stack Engineer 5",
@@ -43182,22 +43249,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T18:40:16.364Z"
-    },
-    {
-      "id": "8244449",
-      "title": "Analytics Engineer, HR Analytics",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449",
-      "postedAt": "2026-10-05T18:27:13.000Z",
-      "key": "elastic:8244449",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-12T15:30:21.223Z"
     },
     {
       "id": "R1002710",
