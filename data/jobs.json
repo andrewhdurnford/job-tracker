@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-04T18:10:31.756Z",
+  "generatedAt": "2026-11-04T18:20:19.487Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "natera:6239914004",
-    "natera:6237775004",
-    "spacex:8930443002"
+    "Capital One:R1005191"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -790,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 153,
+      "jobCount": 154,
       "error": null,
       "stale": false
     },
@@ -3471,7 +3469,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 76,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1005191",
+      "title": "Full-stack Engineer 5",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5_R1005191-1",
+      "postedAt": "2026-11-04T18:20:22.149Z",
+      "key": "Capital One:R1005191",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T18:20:19.487Z"
+    },
     {
       "id": "6237775004",
       "title": "Staff Software Engineer",
@@ -43184,22 +43198,6 @@
         "us"
       ],
       "firstSeen": "2026-10-12T15:30:21.223Z"
-    },
-    {
-      "id": "8256688",
-      "title": "Senior Software Engineer, Security Engineering - Platform (Auth0)",
-      "location": "Toronto, Ontario, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8256688?gh_jid=8256688",
-      "postedAt": "2026-10-05T18:13:12.000Z",
-      "key": "okta:8256688",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-05T18:20:17.487Z"
     },
     {
       "id": "R1002710",
