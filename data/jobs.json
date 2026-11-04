@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T19:10:20.948Z",
+  "generatedAt": "2026-11-04T19:20:21.019Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "lyft:8901107002"
+    "Nvidia:JR2029056"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -619,10 +619,10 @@
     },
     {
       "name": "Bloom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Blueberry Pediatrics",
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1746,16 +1746,16 @@
     },
     {
       "name": "Fintual",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 341,
+      "jobCount": 342,
       "error": null,
       "stale": false
     },
@@ -3525,7 +3525,7 @@
     {
       "name": "Ophelia",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 75,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5610,10 +5610,10 @@
     },
     {
       "name": "Yuno",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Zapier",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2029056",
+      "title": "Senior Applied Research Scientist",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Applied-Research-Scientist_JR2029056",
+      "postedAt": "2026-11-04T19:20:25.193Z",
+      "key": "Nvidia:JR2029056",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T19:20:21.019Z"
+    },
     {
       "id": "8306475",
       "title": "Security Engineer, Privy",
@@ -43182,22 +43198,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T20:05:36.448Z"
-    },
-    {
-      "id": "5443572008",
-      "title": "Senior Site Reliability Engineer (Systems Engineer III)",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/ophelia/jobs/5443572008",
-      "postedAt": "2026-10-05T19:19:08.000Z",
-      "key": "ophelia:5443572008",
-      "company": "Ophelia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T20:50:16.592Z"
     },
     {
       "id": "a4e0c464-decb-410b-897b-ea039203c33e",
