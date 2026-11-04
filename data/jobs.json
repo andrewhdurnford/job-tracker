@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-04T01:20:19.838Z",
+  "generatedAt": "2026-11-04T01:30:26.896Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "robinhood:8333757"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -730,7 +732,7 @@
     {
       "name": "Calendly",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -1191,10 +1193,10 @@
     },
     {
       "name": "Coupa",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Coupang",
@@ -1774,7 +1776,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2656,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2915,7 +2917,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4230,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 73,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8333757",
+      "title": "Staff Software Engineer, Government Products",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8333757?t=gh_src=&gh_jid=8333757",
+      "postedAt": "2026-11-04T01:21:44.000Z",
+      "key": "robinhood:8333757",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T01:30:26.896Z"
+    },
     {
       "id": "R1002629",
       "title": "Full-stack Engineer 4 (Manager IC)",
@@ -28817,22 +28835,6 @@
       "postedAt": "2026-10-19T15:52:31.558Z",
       "key": "openai:a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
       "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T16:00:24.571Z"
-    },
-    {
-      "id": "8895903002",
-      "title": "Full Stack Engineer - Trust and Safety",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/calendly/jobs/8895903002",
-      "postedAt": "2026-10-19T15:51:22.000Z",
-      "key": "calendly:8895903002",
-      "company": "Calendly",
       "level": "experienced",
       "term": null,
       "regions": [
