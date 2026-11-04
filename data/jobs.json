@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-04T09:10:28.174Z",
+  "generatedAt": "2026-11-04T09:20:22.085Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "elastic:8227060",
+    "elastic:8352185"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 22,
-    "experienced": 2224
+    "experienced": 2226
   },
   "companies": [
     {
@@ -1521,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -1653,10 +1656,10 @@
     },
     {
       "name": "Exowatt",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Factory",
@@ -2927,10 +2930,10 @@
     },
     {
       "name": "MaverickX",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "May Mobility",
@@ -3284,10 +3287,10 @@
     },
     {
       "name": "Netomi",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Netskope",
@@ -3725,10 +3728,10 @@
     },
     {
       "name": "PickTrace",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "PicsArt",
@@ -4586,10 +4589,10 @@
     },
     {
       "name": "Smartcuts",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Smartsheet",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8352185",
+      "title": "Senior Platform Productivity Engineer - Core/Infra - Elasticsearch",
+      "location": "Canada",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8352185&gh_jid=8352185",
+      "postedAt": "2026-11-04T09:17:57.000Z",
+      "key": "elastic:8352185",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-04T09:20:22.085Z"
+    },
+    {
+      "id": "8227060",
+      "title": "Senior Platform Productivity Engineer - Core/Infra - Elasticsearch",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8227060&gh_jid=8227060",
+      "postedAt": "2026-11-04T09:17:55.000Z",
+      "key": "elastic:8227060",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T09:20:22.085Z"
+    },
     {
       "id": "4371e808-51f1-4c7a-a1ca-1819926a5c74",
       "title": "Staff Software Engineer - Billing Platform",
