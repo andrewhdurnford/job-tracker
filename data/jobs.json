@@ -1,18 +1,20 @@
 {
-  "generatedAt": "2026-11-04T17:50:20.617Z",
+  "generatedAt": "2026-11-04T18:00:34.188Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2014995"
+    "robinhood:8305772",
+    "spacex:8928938002",
+    "spacex:8928979002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 126,
+    "intern": 125,
     "new-grad": 21,
-    "experienced": 2231
+    "experienced": 2233
   },
   "companies": [
     {
@@ -150,10 +152,10 @@
     },
     {
       "name": "Akuna Capital",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Albedo",
@@ -500,10 +502,10 @@
     },
     {
       "name": "Azra Games",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Backflip AI",
@@ -593,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1012,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -1705,7 +1707,7 @@
     {
       "name": "Figma",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1755,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1776,7 +1778,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2425,10 +2427,10 @@
     },
     {
       "name": "Intercom",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Interfere",
@@ -3377,10 +3379,10 @@
     },
     {
       "name": "Nova Credit",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Novig",
@@ -4140,10 +4142,10 @@
     },
     {
       "name": "Remora",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Remote",
@@ -4232,7 +4234,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4371,10 +4373,10 @@
     },
     {
       "name": "Scale AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Scanner",
@@ -4694,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 73,
+      "jobCount": 75,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8928979002",
+      "title": "Sr. Software Engineer",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8928979002?gh_jid=8928979002",
+      "postedAt": "2026-11-04T17:56:26.000Z",
+      "key": "spacex:8928979002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T18:00:34.188Z"
+    },
+    {
+      "id": "8928938002",
+      "title": "Sr. Application Software Engineer, Manufacturing Systems",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8928938002?gh_jid=8928938002",
+      "postedAt": "2026-11-04T17:56:24.000Z",
+      "key": "spacex:8928938002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T18:00:34.188Z"
+    },
     {
       "id": "JR2014995",
       "title": "Senior Systems Software Engineer - Advanced Technology Group",
@@ -19005,6 +19039,22 @@
         "remote"
       ],
       "firstSeen": "2026-10-28T16:20:22.702Z"
+    },
+    {
+      "id": "8305772",
+      "title": "AI Operations Engineer, Enterprise Tech",
+      "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8305772?t=gh_src=&gh_jid=8305772",
+      "postedAt": "2026-10-28T15:54:24.000Z",
+      "key": "robinhood:8305772",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T18:00:34.188Z"
     },
     {
       "id": "8326088",
@@ -43128,42 +43178,6 @@
       "postedAt": "2026-10-05T18:00:25.798Z",
       "key": "Capital One:R1002710",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T18:00:23.034Z"
-    },
-    {
-      "id": "6207801004",
-      "title": "PhD Intern, AI Applied Scientist (2027)",
-      "location": "San Francisco, CA • New York, NY",
-      "team": null,
-      "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
-      "postedAt": "2026-10-05T17:58:07.000Z",
-      "key": "figma:6207801004",
-      "company": "Figma",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T18:00:23.034Z"
-    },
-    {
-      "id": "8250155",
-      "title": "Senior Software Engineer, Cloudflare for SaaS",
-      "location": "Austin, TX",
-      "team": "Engineering",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8250155?gh_jid=8250155",
-      "postedAt": "2026-10-05T17:57:47.000Z",
-      "key": "cloudflare:8250155",
-      "company": "Cloudflare",
       "level": "experienced",
       "term": null,
       "regions": [
