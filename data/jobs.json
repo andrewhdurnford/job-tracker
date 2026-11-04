@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-04T20:50:21.423Z",
+  "generatedAt": "2026-11-04T21:00:31.710Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1005004",
-    "justworks:8289444",
-    "koboldmetals:4751244005"
+    "Capital One:R1005190",
+    "lancedb:be8a0e53-8e8e-4493-9e64-a91c0d330fbd"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -790,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 158,
+      "jobCount": 159,
       "error": null,
       "stale": false
     },
@@ -1195,10 +1194,10 @@
     },
     {
       "name": "Coupa",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Coupang",
@@ -2295,7 +2294,7 @@
     {
       "name": "Human Interest",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1005190",
+      "title": "Mobile Engineer 5",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-5_R1005190-1",
+      "postedAt": "2026-11-04T21:00:35.481Z",
+      "key": "Capital One:R1005190",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T21:00:31.710Z"
+    },
+    {
+      "id": "be8a0e53-8e8e-4493-9e64-a91c0d330fbd",
+      "title": "Senior Software Engineer",
+      "location": "Americas or APAC",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/lancedb/be8a0e53-8e8e-4493-9e64-a91c0d330fbd",
+      "postedAt": "2026-11-04T20:53:13.305Z",
+      "key": "lancedb:be8a0e53-8e8e-4493-9e64-a91c0d330fbd",
+      "company": "LanceDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T21:00:31.710Z"
+    },
     {
       "id": "R1005004",
       "title": "Full Stack Engineer 4",
@@ -32105,22 +32136,6 @@
       "firstSeen": "2026-10-15T23:20:23.621Z"
     },
     {
-      "id": "3a984b21-7b04-44c8-b8be-471526dc66e0",
-      "title": "Senior Software Engineer",
-      "location": "Americas or APAC",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/lancedb/3a984b21-7b04-44c8-b8be-471526dc66e0",
-      "postedAt": "2026-10-15T22:57:06.942Z",
-      "key": "lancedb:3a984b21-7b04-44c8-b8be-471526dc66e0",
-      "company": "LanceDB",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T23:00:24.286Z"
-    },
-    {
       "id": "8827702002",
       "title": "Lead Software Engineer, Components Test (Starshield)",
       "location": "Hawthorne, CA",
@@ -43030,22 +43045,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T21:10:49.249Z"
-    },
-    {
-      "id": "8226682",
-      "title": "Engineering Manager - Mobile",
-      "location": "United States, Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/humaninterest/jobs/8226682",
-      "postedAt": "2026-10-05T20:51:38.000Z",
-      "key": "humaninterest:8226682",
-      "company": "Human Interest",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T20:55:48.922Z"
     },
     {
       "id": "4bd52e96-1903-4d2a-8e04-0e4d8851059e",
