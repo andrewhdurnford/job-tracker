@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-04T17:20:22.798Z",
+  "generatedAt": "2026-11-04T17:28:47.966Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1002302",
-    "Capital One:R1003069",
-    "pinterest:8328868"
+    "newrelic:5436245008"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -595,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -761,10 +759,10 @@
     },
     {
       "name": "Canary Technologies",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Candid Health",
@@ -938,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1195,10 +1193,10 @@
     },
     {
       "name": "Coupa",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Coupang",
@@ -1566,10 +1564,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -2483,10 +2481,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "JFrog",
@@ -2497,10 +2495,10 @@
     },
     {
       "name": "Jito",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Juicebox",
@@ -3324,7 +3322,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4198,10 +4196,10 @@
     },
     {
       "name": "Rezo Therapeutics",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Rigetti Quantum Computing",
@@ -4640,7 +4638,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5150,10 +5148,10 @@
     },
     {
       "name": "Tractian",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Trade Republic",
@@ -5423,10 +5421,10 @@
     },
     {
       "name": "Volta Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Vori",
@@ -5612,10 +5610,10 @@
     },
     {
       "name": "Yuno",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zapier",
@@ -37147,6 +37145,22 @@
       "firstSeen": "2026-10-16T19:20:19.240Z"
     },
     {
+      "id": "5436245008",
+      "title": "GTM AI Engineer (Automation & AI)",
+      "location": "Arlington, Virginia, USA; Austin, Texas, USA; Baltimore, Maryland, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Kansas City, Missouri, USA; Newark, New Jersey, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5436245008",
+      "postedAt": "2026-10-09T19:37:53.000Z",
+      "key": "newrelic:5436245008",
+      "company": "New Relic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T17:28:47.966Z"
+    },
+    {
       "id": "8221890",
       "title": "Senior Software Engineer - Data Acquisition",
       "location": "San Mateo, CA, United States",
@@ -43166,22 +43180,6 @@
       "postedAt": "2026-10-05T17:34:49.000Z",
       "key": "cockroachlabs:8156737",
       "company": "Cockroach Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T17:40:15.088Z"
-    },
-    {
-      "id": "60dbe8f9-4b0f-4edf-818d-f069d9323171",
-      "title": "Senior Manager - AI for Engineering Systems",
-      "location": "US-WA-Bellevue (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/60dbe8f9-4b0f-4edf-818d-f069d9323171",
-      "postedAt": "2026-10-05T17:23:07.836Z",
-      "key": "snowflake:60dbe8f9-4b0f-4edf-818d-f069d9323171",
-      "company": "Snowflake",
       "level": "experienced",
       "term": null,
       "regions": [
