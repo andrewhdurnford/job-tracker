@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-04T19:20:21.019Z",
+  "generatedAt": "2026-11-04T19:30:25.922Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2029056"
+    "etched:15fa07f2-b1e9-43dd-8e9f-47854633c626",
+    "phantom:b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e",
+    "spacex:8930419002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 21,
-    "experienced": 2236
+    "experienced": 2239
   },
   "companies": [
     {
@@ -1628,7 +1630,7 @@
     {
       "name": "Etched",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -1746,10 +1748,10 @@
     },
     {
       "name": "Fintual",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Finvest",
@@ -3686,7 +3688,7 @@
     {
       "name": "Phantom",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 75,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 76,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5610,10 +5612,10 @@
     },
     {
       "name": "Yuno",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zapier",
@@ -5702,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "15fa07f2-b1e9-43dd-8e9f-47854633c626",
+      "title": "Site Reliability Engineer - Fleet Command & Control",
+      "location": "San Jose",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/etched/15fa07f2-b1e9-43dd-8e9f-47854633c626",
+      "postedAt": "2026-11-04T19:20:59.534Z",
+      "key": "etched:15fa07f2-b1e9-43dd-8e9f-47854633c626",
+      "company": "Etched",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T19:30:25.922Z"
+    },
+    {
+      "id": "b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e",
+      "title": "Senior Backend Engineer (Data Platform)",
+      "location": "Remote",
+      "team": "Data Platform",
+      "url": "https://jobs.ashbyhq.com/phantom/b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e",
+      "postedAt": "2026-11-04T19:20:47.698Z",
+      "key": "phantom:b7d0a7f7-c1d0-43c3-936f-c97ff46ee72e",
+      "company": "Phantom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-04T19:30:25.922Z"
+    },
+    {
       "id": "JR2029056",
       "title": "Senior Applied Research Scientist",
       "location": "US, CA, Santa Clara",
@@ -5716,6 +5750,22 @@
         "us"
       ],
       "firstSeen": "2026-11-04T19:20:21.019Z"
+    },
+    {
+      "id": "8930419002",
+      "title": "IT Linux Systems Engineer",
+      "location": "Memphis, TN",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8930419002?gh_jid=8930419002",
+      "postedAt": "2026-11-04T19:12:27.000Z",
+      "key": "spacex:8930419002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T19:30:25.922Z"
     },
     {
       "id": "8306475",
@@ -8546,7 +8596,7 @@
       "id": "7dcb44b6-b8a6-4955-92f3-421f60770f65",
       "title": "Founding Security Engineer",
       "location": "Washington, D.C.",
-      "team": "IT/Sec",
+      "team": "Security & IT",
       "url": "https://jobs.ashbyhq.com/promise/7dcb44b6-b8a6-4955-92f3-421f60770f65",
       "postedAt": "2026-11-03T07:58:40.502Z",
       "key": "promise:7dcb44b6-b8a6-4955-92f3-421f60770f65",
@@ -19537,7 +19587,7 @@
     {
       "id": "6acdd80a-3a1b-4701-a607-ca10d86c6847",
       "title": "Data Engineer, Marketing",
-      "location": "San Francisco",
+      "location": "San Francisco, CA",
       "team": "Data",
       "url": "https://jobs.ashbyhq.com/cursor/6acdd80a-3a1b-4701-a607-ca10d86c6847",
       "postedAt": "2026-10-28T05:31:19.777Z",
@@ -24400,7 +24450,7 @@
     {
       "id": "6868de4a-f753-4f10-8dc5-f7aabef03b56",
       "title": "Software Engineer, Compute Infra",
-      "location": "San Francisco (+1 more)",
+      "location": "San Francisco, CA (+1 more)",
       "team": "Cloud",
       "url": "https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56",
       "postedAt": "2026-10-22T19:53:00.965Z",
@@ -33082,7 +33132,7 @@
     {
       "id": "a577902e-28e9-4e68-9ee9-91e34d1b59c4",
       "title": "Software Engineer, Model Lifecycle and Signals ",
-      "location": "New York (+1 more)",
+      "location": "New York, NY (+1 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4",
       "postedAt": "2026-10-15T01:25:48.788Z",
@@ -41545,7 +41595,7 @@
     {
       "id": "34cecd0c-c392-4454-8ef5-261310541011",
       "title": "Forward Deployed Engineer",
-      "location": "San Francisco (+2 more)",
+      "location": "San Francisco, CA (+2 more)",
       "team": "Forward Deployment",
       "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011",
       "postedAt": "2026-10-06T20:10:13.873Z",
