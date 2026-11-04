@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-04T13:20:19.739Z",
+  "generatedAt": "2026-11-04T13:30:26.420Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "doordashusa:8350965"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 22,
-    "experienced": 2229
+    "experienced": 2228
   },
   "companies": [
     {
@@ -2658,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3672,7 +3670,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4203,10 +4201,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Rilla",
@@ -5694,10 +5692,10 @@
     },
     {
       "name": "Zuma",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     }
   ],
   "jobs": [
@@ -43245,22 +43243,6 @@
         "us"
       ],
       "firstSeen": "2026-11-02T13:40:18.808Z"
-    },
-    {
-      "id": "4b5e02a8-6a94-494d-9d49-037f2cfc144d",
-      "title": "Member of Technical Staff (Senior QA Web Engineer)",
-      "location": "New York City (+1 more)",
-      "team": "AI Products",
-      "url": "https://jobs.ashbyhq.com/perplexity/4b5e02a8-6a94-494d-9d49-037f2cfc144d",
-      "postedAt": "2026-10-05T13:27:04.918Z",
-      "key": "perplexity:4b5e02a8-6a94-494d-9d49-037f2cfc144d",
-      "company": "Perplexity",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T16:50:21.786Z"
     },
     {
       "id": "R30272",
