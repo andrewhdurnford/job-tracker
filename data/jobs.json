@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T17:28:47.966Z",
+  "generatedAt": "2026-11-04T17:40:21.728Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "newrelic:5436245008"
+    "tripactions:8350952"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 126,
     "new-grad": 21,
-    "experienced": 2232
+    "experienced": 2231
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1033,7 +1033,7 @@
     {
       "name": "Cockroach Labs",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3252,7 +3252,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 341,
+      "jobCount": 340,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "8350952",
+      "title": "Site Reliability Engineer II ",
+      "location": "Palo Alto, CA or San Francisco, CA",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8350952",
+      "postedAt": "2026-11-04T17:35:37.000Z",
+      "key": "tripactions:8350952",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T17:40:21.728Z"
+    },
+    {
       "id": "R1002302",
       "title": "Full-stack Engineer 4 (Backend & API Development) (Cloud Operations Resilience Engineering)",
       "location": "Riverwoods, IL",
@@ -5917,7 +5933,7 @@
     },
     {
       "id": "6226999004",
-      "title": "Senior FullStack Engineer - Grafana Catalog| US | Remote",
+      "title": "Senior FullStack Engineer - Grafana Catalog | US | Remote",
       "location": "United States (Remote)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6226999004",
@@ -5933,7 +5949,7 @@
     },
     {
       "id": "6226998004",
-      "title": "Senior FullStack Engineer - Grafana Catalog| US | Remote",
+      "title": "Senior FullStack Engineer - Grafana Catalog | Canada| Remote",
       "location": "Canada (Remote)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6226998004",
@@ -15254,22 +15270,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Linux-Kernel-Software-Engineer_JR2015068",
       "postedAt": "2026-10-30T23:40:22.508Z",
       "key": "Nvidia:JR2015068",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:40:17.764Z"
-    },
-    {
-      "id": "JR2014995",
-      "title": "Senior Systems Software Engineer - Advanced Technology Group",
-      "location": "US, OR, Hillsboro",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Senior-Systems-Software-Engineer---Advanced-Technology-Group_JR2014995",
-      "postedAt": "2026-10-30T23:40:22.508Z",
-      "key": "Nvidia:JR2014995",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
@@ -43170,22 +43170,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T17:50:18.448Z"
-    },
-    {
-      "id": "8156737",
-      "title": "Sr. Corporate Security Engineer",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=8156737",
-      "postedAt": "2026-10-05T17:34:49.000Z",
-      "key": "cockroachlabs:8156737",
-      "company": "Cockroach Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T17:40:15.088Z"
     },
     {
       "id": "REF080828W",
