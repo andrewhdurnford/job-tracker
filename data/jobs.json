@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-04T22:45:14.377Z",
+  "generatedAt": "2026-11-04T22:50:26.983Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "natera:6233837004"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -253,10 +255,10 @@
     },
     {
       "name": "Anchorage",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Andera",
@@ -1521,7 +1523,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2656,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3243,7 +3245,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3769,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4929,10 +4931,10 @@
     },
     {
       "name": "Sysdig",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tacto",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6233837004",
+      "title": "Sr. Software Engineer (EHR Integration Team)",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6233837004",
+      "postedAt": "2026-11-04T22:49:00.000Z",
+      "key": "natera:6233837004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T22:50:26.983Z"
+    },
     {
       "id": "4ac5c867-e63e-41eb-a978-8a63e29f6e49",
       "title": "Staff Backend Engineer - Performance - US",
@@ -42952,22 +42970,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T23:00:23.267Z"
-    },
-    {
-      "id": "8257322",
-      "title": "Sr. Software Engineer - IT Software Engineering",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8257322&gh_jid=8257322",
-      "postedAt": "2026-10-05T22:48:51.000Z",
-      "key": "elastic:8257322",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T22:50:18.320Z"
     },
     {
       "id": "f33184f4-52ef-4b75-b644-2a7d6d525118",
