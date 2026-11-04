@@ -1,8 +1,15 @@
 {
-  "generatedAt": "2026-11-04T15:30:25.783Z",
+  "generatedAt": "2026-11-04T15:40:30.387Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 6,
+  "newKeys": [
+    "Capital One:R1005039",
+    "Capital One:R1004257",
+    "docker:33b629b4-fc3a-437e-b13b-16fef283af68",
+    "epicgames:6248467004",
+    "epicgames:6236545004",
+    "epicgames:6236543004"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +17,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 21,
-    "experienced": 2227
+    "experienced": 2232
   },
   "companies": [
     {
@@ -786,7 +793,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 148,
+      "jobCount": 150,
       "error": null,
       "stale": false
     },
@@ -1416,7 +1423,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1612,7 +1619,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4698,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 73,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4797,7 +4804,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5706,102 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004257",
+      "title": "Senior Manager, Full-stack Engineer",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Manager--Full-stack-Engineer_R1004257-2",
+      "postedAt": "2026-11-04T15:40:33.018Z",
+      "key": "Capital One:R1004257",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T15:40:30.387Z"
+    },
+    {
+      "id": "R1005039",
+      "title": "Staff Software Engineer - Capital One Travel Tech - Full-stack",
+      "location": "Toronto, ON",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Staff-Software-Engineer---Capital-One-Travel-Tech---Full-stack_R1005039-1",
+      "postedAt": "2026-11-04T15:40:33.018Z",
+      "key": "Capital One:R1005039",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-04T15:40:30.387Z"
+    },
+    {
+      "id": "6248467004",
+      "title": "Senior Language Programmer",
+      "location": "Vancouver,British Columbia,Canada",
+      "team": "Engineering Specialist",
+      "url": "https://epicgames.com/careers/jobs/6248467004?gh_jid=6248467004",
+      "postedAt": "2026-11-04T15:38:37.000Z",
+      "key": "epicgames:6248467004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-04T15:40:30.387Z"
+    },
+    {
+      "id": "6236545004",
+      "title": "Senior Language Programmer",
+      "location": "Sacramento",
+      "team": "Engineering Specialist",
+      "url": "https://epicgames.com/careers/jobs/6236545004?gh_jid=6236545004",
+      "postedAt": "2026-11-04T15:38:34.000Z",
+      "key": "epicgames:6236545004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T15:40:30.387Z"
+    },
+    {
+      "id": "6236543004",
+      "title": "Senior Language Programmer",
+      "location": "Cary,North Carolina,United States",
+      "team": "Engineering Specialist",
+      "url": "https://epicgames.com/careers/jobs/6236543004?gh_jid=6236543004",
+      "postedAt": "2026-11-04T15:38:32.000Z",
+      "key": "epicgames:6236543004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T15:40:30.387Z"
+    },
+    {
+      "id": "33b629b4-fc3a-437e-b13b-16fef283af68",
+      "title": "Senior Software Engineer, Tooling",
+      "location": "United States",
+      "team": "ENG-Platform",
+      "url": "https://jobs.ashbyhq.com/docker/33b629b4-fc3a-437e-b13b-16fef283af68",
+      "postedAt": "2026-11-04T15:38:01.476Z",
+      "key": "docker:33b629b4-fc3a-437e-b13b-16fef283af68",
+      "company": "Docker",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T15:40:30.387Z"
+    },
     {
       "id": "985abb8d-cb2b-4f32-97d7-497e9f89e3ce",
       "title": "Senior Developer Relations, Twitter Brand Rep",
@@ -43147,22 +43250,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T15:50:17.113Z"
-    },
-    {
-      "id": "8229361",
-      "title": "Engineering Manager, Mobile Development Productivity",
-      "location": "US-Remote",
-      "team": "8126 Developer Infrastructure",
-      "url": "https://stripe.com/jobs/search?gh_jid=8229361",
-      "postedAt": "2026-10-05T15:39:44.000Z",
-      "key": "stripe:8229361",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T15:40:17.570Z"
     },
     {
       "id": "JR202601036",
