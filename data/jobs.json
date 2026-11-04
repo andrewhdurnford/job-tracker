@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-11-04T19:00:31.605Z",
+  "generatedAt": "2026-11-04T19:10:20.948Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "redis:d0c71974-3e7c-4080-ad97-7f3c7241fb48",
-    "spacex:8927740002",
-    "stripe:8306475",
-    "waymo:8351491"
+    "lyft:8901107002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 21,
-    "experienced": 2238
+    "experienced": 2236
   },
   "companies": [
     {
@@ -596,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -622,10 +619,10 @@
     },
     {
       "name": "Bloom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Blueberry Pediatrics",
@@ -939,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1758,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1877,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2220,7 +2217,7 @@
       "name": "Hightouch",
       "ok": false,
       "jobCount": 3,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2849,7 +2846,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4235,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4697,7 +4694,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 77,
+      "jobCount": 75,
       "error": null,
       "stale": false
     },
@@ -4775,7 +4772,7 @@
       "name": "Starcloud",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5088,10 +5085,10 @@
     },
     {
       "name": "Thunkable",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tilt",
@@ -26900,6 +26897,22 @@
       "firstSeen": "2026-10-21T08:50:24.080Z"
     },
     {
+      "id": "8901107002",
+      "title": "Software Engineer, Growth Platforms",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8901107002?gh_jid=8901107002",
+      "postedAt": "2026-10-21T08:48:13.000Z",
+      "key": "lyft:8901107002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-04T19:10:20.948Z"
+    },
+    {
       "id": "8304878",
       "title": "Software Engineer, Reliability Platform",
       "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
@@ -39919,22 +39932,6 @@
       "firstSeen": "2026-10-07T21:40:14.992Z"
     },
     {
-      "id": "8223546",
-      "title": "Director of Engineering, Brokerage Platform",
-      "location": "Menlo Park, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8223546?t=gh_src=&gh_jid=8223546",
-      "postedAt": "2026-10-07T21:33:03.000Z",
-      "key": "robinhood:8223546",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T21:40:14.992Z"
-    },
-    {
       "id": "8262963",
       "title": "Staff Software Engineer - Core Identity ",
       "location": "Toronto, Ontario, Canada",
@@ -43201,38 +43198,6 @@
         "us"
       ],
       "firstSeen": "2026-10-16T20:50:16.592Z"
-    },
-    {
-      "id": "8865114002",
-      "title": "Sr. Cybersecurity Engineer (Starshield)",
-      "location": "Washington, DC",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8865114002?gh_jid=8865114002",
-      "postedAt": "2026-10-05T19:03:43.000Z",
-      "key": "spacex:8865114002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T19:10:30.786Z"
-    },
-    {
-      "id": "8865055002",
-      "title": "Sr. Cybersecurity Engineer (Starshield)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8865055002?gh_jid=8865055002",
-      "postedAt": "2026-10-05T19:03:41.000Z",
-      "key": "spacex:8865055002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T19:10:30.786Z"
     },
     {
       "id": "a4e0c464-decb-410b-897b-ea039203c33e",
