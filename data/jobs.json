@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-11-04T23:20:22.125Z",
+  "generatedAt": "2026-11-04T23:30:25.169Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "notion:f524ef6b-6a8a-4d73-b7ff-eac85bd6c887",
-    "permitflow:ff27be84-25db-4d65-a421-ff9b0cd339a4",
-    "vercel:6231045004",
-    "vercel:6242246004",
-    "vercel:6195153004",
-    "vercel:6242244004"
+    "natera:6239427004",
+    "natera:6250248004",
+    "permitflow:fe143519-5d16-46a3-a68c-5f5b21d57465"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +14,7 @@
   "levelCounts": {
     "intern": 120,
     "new-grad": 20,
-    "experienced": 2237
+    "experienced": 2235
   },
   "companies": [
     {
@@ -527,7 +524,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -598,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3250,7 +3247,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3663,7 +3660,7 @@
     {
       "name": "PermitFlow",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4698,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 79,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 78,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5706,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6239427004",
+      "title": "Lead Bioinformatics & Machine Learning Scientist",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6239427004",
+      "postedAt": "2026-11-04T23:23:44.000Z",
+      "key": "natera:6239427004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T23:30:25.169Z"
+    },
+    {
+      "id": "6250248004",
+      "title": "Lead Bioinformatics & Machine Learning Scientist",
+      "location": "San Carlos, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6250248004",
+      "postedAt": "2026-11-04T23:23:42.000Z",
+      "key": "natera:6250248004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T23:30:25.169Z"
+    },
+    {
+      "id": "fe143519-5d16-46a3-a68c-5f5b21d57465",
+      "title": "Principal Software Engineer, AI",
+      "location": "New York City, NY (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/permitflow/fe143519-5d16-46a3-a68c-5f5b21d57465",
+      "postedAt": "2026-11-04T23:19:16.445Z",
+      "key": "permitflow:fe143519-5d16-46a3-a68c-5f5b21d57465",
+      "company": "PermitFlow",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-04T23:30:25.169Z"
+    },
     {
       "id": "f524ef6b-6a8a-4d73-b7ff-eac85bd6c887",
       "title": "Software Engineer, Growth",
@@ -18314,23 +18360,6 @@
         "us"
       ],
       "firstSeen": "2026-10-29T19:30:30.765Z"
-    },
-    {
-      "id": "454c26bc-d100-4211-95aa-5ef5c0c1cdc3",
-      "title": "Principal Software Engineer, Platform",
-      "location": "New York City, NY (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/permitflow/454c26bc-d100-4211-95aa-5ef5c0c1cdc3",
-      "postedAt": "2026-10-29T19:17:03.971Z",
-      "key": "permitflow:454c26bc-d100-4211-95aa-5ef5c0c1cdc3",
-      "company": "PermitFlow",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-10-29T19:20:18.471Z"
     },
     {
       "id": "R1001156",
@@ -35218,23 +35247,6 @@
       "firstSeen": "2026-10-13T19:40:16.182Z"
     },
     {
-      "id": "e6382eec-5b9b-4b06-8ea1-f6a173173207",
-      "title": "Principal Software Engineer, AI",
-      "location": "New York City, NY (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/permitflow/e6382eec-5b9b-4b06-8ea1-f6a173173207",
-      "postedAt": "2026-10-13T19:30:17.516Z",
-      "key": "permitflow:e6382eec-5b9b-4b06-8ea1-f6a173173207",
-      "company": "PermitFlow",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-10-13T19:40:16.182Z"
-    },
-    {
       "id": "4720009006",
       "title": "Staff Software Engineer (Customer Platform) ",
       "location": "United States - Remote",
@@ -35951,7 +35963,7 @@
     },
     {
       "id": "8250440",
-      "title": "Senior Software Engineer",
+      "title": "Senior Software Engineer - Shared Services",
       "location": "Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/tanium/jobs/8250440",
@@ -42926,56 +42938,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T23:40:18.814Z"
-    },
-    {
-      "id": "14c4a663-0b1f-4c11-93ff-1359741ee456",
-      "title": "Software Engineer - Inference Platform",
-      "location": "San Francisco (+4 more)",
-      "team": "Inference",
-      "url": "https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456",
-      "postedAt": "2026-10-05T23:30:18.959Z",
-      "key": "baseten:14c4a663-0b1f-4c11-93ff-1359741ee456",
-      "company": "Baseten",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-05T23:40:18.814Z"
-    },
-    {
-      "id": "7cb19a05-8e5b-44cf-b3e7-19949e2eff04",
-      "title": "Software Engineer - Inference Performance",
-      "location": "San Francisco (+4 more)",
-      "team": "Inference",
-      "url": "https://jobs.ashbyhq.com/baseten/7cb19a05-8e5b-44cf-b3e7-19949e2eff04",
-      "postedAt": "2026-10-05T23:25:08.828Z",
-      "key": "baseten:7cb19a05-8e5b-44cf-b3e7-19949e2eff04",
-      "company": "Baseten",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-05T23:30:22.704Z"
-    },
-    {
-      "id": "8869044002",
-      "title": "IT Network Infrastructure Engineer, Outside Plant",
-      "location": "Starbase, TX",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8869044002?gh_jid=8869044002",
-      "postedAt": "2026-10-05T23:21:53.000Z",
-      "key": "spacex:8869044002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T23:30:22.704Z"
     },
     {
       "id": "f33184f4-52ef-4b75-b644-2a7d6d525118",
