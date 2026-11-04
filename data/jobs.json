@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-11-04T22:40:26.124Z",
+  "generatedAt": "2026-11-04T22:45:14.377Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "spacex:8931276002",
-    "goteleport:4ac5c867-e63e-41eb-a978-8a63e29f6e49"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -13,7 +10,7 @@
   "levelCounts": {
     "intern": 120,
     "new-grad": 20,
-    "experienced": 2238
+    "experienced": 2237
   },
   "companies": [
     {
@@ -256,10 +253,10 @@
     },
     {
       "name": "Anchorage",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Andera",
@@ -2064,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2659,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3281,7 +3278,7 @@
     {
       "name": "Netlify",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3772,7 +3769,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4932,10 +4929,10 @@
     },
     {
       "name": "Sysdig",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tacto",
@@ -6491,7 +6488,7 @@
     {
       "id": "8350952",
       "title": "Site Reliability Engineer II ",
-      "location": "Palo Alto, CA or San Francisco, CA",
+      "location": "Palo Alto, CA",
       "team": null,
       "url": "https://navan.com/careers/openings?gh_jid=8350952",
       "postedAt": "2026-11-04T17:35:37.000Z",
@@ -42969,22 +42966,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-05T22:50:18.320Z"
-    },
-    {
-      "id": "8859322002",
-      "title": "Senior Staff Data Scientist",
-      "location": "Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/netlify/jobs/8859322002",
-      "postedAt": "2026-10-05T22:42:55.000Z",
-      "key": "netlify:8859322002",
-      "company": "Netlify",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
       ],
       "firstSeen": "2026-10-05T22:50:18.320Z"
     },
