@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-11-04T16:30:24.137Z",
+  "generatedAt": "2026-11-04T16:40:27.068Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Arctic Wolf:R26_1203",
-    "Capital One:R1005078",
-    "grafanalabs:6226998004",
-    "grafanalabs:6226999004",
-    "zscaler:5279081007"
+    "mercury:6248613004",
+    "sentilink:dd69100c-8482-4583-9075-e81d4b8f906b",
+    "sentilink:a6e68750-7a2e-4296-baab-2e08ca95dac7",
+    "sentilink:dd839e2c-19fc-4496-8172-0adf786a8798"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +15,7 @@
   "levelCounts": {
     "intern": 125,
     "new-grad": 21,
-    "experienced": 2232
+    "experienced": 2235
   },
   "companies": [
     {
@@ -2990,7 +2989,7 @@
     {
       "name": "Mercury",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4404,7 +4403,7 @@
     {
       "name": "SentiLink",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4697,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 73,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5692,7 +5691,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5704,71 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a6e68750-7a2e-4296-baab-2e08ca95dac7",
+      "title": "Senior Software Engineer, Frontend",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/sentilink/a6e68750-7a2e-4296-baab-2e08ca95dac7",
+      "postedAt": "2026-11-04T16:37:47.283Z",
+      "key": "sentilink:a6e68750-7a2e-4296-baab-2e08ca95dac7",
+      "company": "SentiLink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T16:40:27.068Z"
+    },
+    {
+      "id": "dd839e2c-19fc-4496-8172-0adf786a8798",
+      "title": "Senior Product Engineer, Full Stack",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/sentilink/dd839e2c-19fc-4496-8172-0adf786a8798",
+      "postedAt": "2026-11-04T16:37:44.633Z",
+      "key": "sentilink:dd839e2c-19fc-4496-8172-0adf786a8798",
+      "company": "SentiLink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T16:40:27.068Z"
+    },
+    {
+      "id": "dd69100c-8482-4583-9075-e81d4b8f906b",
+      "title": "Senior Software Engineer, Full Stack",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/sentilink/dd69100c-8482-4583-9075-e81d4b8f906b",
+      "postedAt": "2026-11-04T16:37:39.152Z",
+      "key": "sentilink:dd69100c-8482-4583-9075-e81d4b8f906b",
+      "company": "SentiLink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-04T16:40:27.068Z"
+    },
+    {
+      "id": "6248613004",
+      "title": "Senior Data Scientist - Credit and Lending ML",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6248613004",
+      "postedAt": "2026-11-04T16:33:11.000Z",
+      "key": "mercury:6248613004",
+      "company": "Mercury",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-04T16:40:27.068Z"
+    },
     {
       "id": "R26_1203",
       "title": "Senior Developer - R&D Tools & Systems",
@@ -43183,22 +43247,6 @@
       "term": null,
       "regions": [
         "remote"
-      ],
-      "firstSeen": "2026-10-05T16:40:17.059Z"
-    },
-    {
-      "id": "5252248007",
-      "title": "Sr. Staff Site Reliability Engineer-Federal, Security Clearance",
-      "location": "Crystal City, Virginia, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5252248007",
-      "postedAt": "2026-10-05T16:31:59.000Z",
-      "key": "zscaler:5252248007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-05T16:40:17.059Z"
     },
