@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T19:40:21.580Z",
+  "generatedAt": "2026-11-05T19:50:21.079Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "benchling:6f74767c-0e7a-446b-84bf-5c04c270cb13",
-    "openai:783704d7-5afa-45aa-899b-1d6799f73004"
+    "alchemy:144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+    "Nvidia:JR2029105"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 122,
     "new-grad": 19,
-    "experienced": 2217
+    "experienced": 2218
   },
   "companies": [
     {
@@ -166,7 +166,7 @@
     {
       "name": "Alchemy",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -594,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1756,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1777,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1875,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2064,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2105,7 +2105,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 347,
+      "jobCount": 348,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2029105",
+      "title": "Senior Developer Relations Manager, Retail and CPG - Physical AI",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager--Retail-and-CPG---Physical-AI_JR2029105",
+      "postedAt": "2026-11-05T19:50:25.136Z",
+      "key": "Nvidia:JR2029105",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T19:50:21.079Z"
+    },
+    {
+      "id": "144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+      "title": "Security Operations Engineer",
+      "location": "New York (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/alchemy/144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+      "postedAt": "2026-11-05T19:44:48.665Z",
+      "key": "alchemy:144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+      "company": "Alchemy",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T19:50:21.079Z"
+    },
     {
       "id": "6f74767c-0e7a-446b-84bf-5c04c270cb13",
       "title": "Research Engineer, Model Evaluation and Improvement",
@@ -42712,22 +42744,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-10-06T19:50:21.613Z"
-    },
-    {
-      "id": "8244969",
-      "title": "Staff Software Engineer, PEO",
-      "location": "San Francisco, CA - Hybrid",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8244969",
-      "postedAt": "2026-10-06T19:45:21.000Z",
-      "key": "gusto:8244969",
-      "company": "Gusto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-06T19:50:21.613Z"
     },
