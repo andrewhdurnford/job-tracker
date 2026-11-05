@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-05T17:00:31.417Z",
+  "generatedAt": "2026-11-05T17:10:20.827Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "render:73a4d651-dd12-4c12-a695-36593041be63"
+    "shieldai:db8fc063-8856-4404-991c-f287712de949"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 120,
+    "intern": 121,
     "new-grad": 20,
-    "experienced": 2219
+    "experienced": 2218
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1809,10 +1809,10 @@
     },
     {
       "name": "Fleetzero",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Flexport",
@@ -3245,7 +3245,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3771,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4470,7 +4470,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "db8fc063-8856-4404-991c-f287712de949",
+      "title": "June 2027 Co-Op - Software Engineer Intern",
+      "location": "Dallas, Texas (+3 more)",
+      "team": "Software",
+      "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949",
+      "postedAt": "2026-11-05T17:02:43.501Z",
+      "key": "shieldai:db8fc063-8856-4404-991c-f287712de949",
+      "company": "Shield AI",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T17:10:20.827Z"
+    },
     {
       "id": "73a4d651-dd12-4c12-a695-36593041be63",
       "title": "Engineering Manager, Security ",
@@ -7254,22 +7270,6 @@
         "us"
       ],
       "firstSeen": "2026-11-04T18:20:19.487Z"
-    },
-    {
-      "id": "6237775004",
-      "title": "Staff Software Engineer",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6237775004",
-      "postedAt": "2026-11-04T18:07:22.000Z",
-      "key": "natera:6237775004",
-      "company": "Natera",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-04T18:10:31.756Z"
     },
     {
       "id": "8930443002",
