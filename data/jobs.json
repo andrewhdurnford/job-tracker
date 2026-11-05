@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-05T23:00:29.115Z",
+  "generatedAt": "2026-11-05T23:10:20.455Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "thumbtack:bdd97695-4f21-4cc5-ac26-4d16f31709dc",
+    "thumbtack:6e4e6d5f-1588-4d88-a4de-429573407773"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 118,
     "new-grad": 17,
-    "experienced": 2206
+    "experienced": 2208
   },
   "companies": [
     {
@@ -2215,7 +2218,7 @@
       "name": "Hightouch",
       "ok": false,
       "jobCount": 3,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2444,10 +2447,10 @@
     },
     {
       "name": "Inversion Space",
-      "ok": false,
+      "ok": true,
       "jobCount": 4,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Invert",
@@ -2551,7 +2554,7 @@
       "name": "KAYAK",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2948,10 +2951,10 @@
     },
     {
       "name": "Meesho",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Melio",
@@ -5077,7 +5080,7 @@
     {
       "name": "Thumbtack",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6e4e6d5f-1588-4d88-a4de-429573407773",
+      "title": "Senior Full Stack Engineer, People Products",
+      "location": "Remote, Ontario (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/thumbtack/6e4e6d5f-1588-4d88-a4de-429573407773",
+      "postedAt": "2026-11-05T23:01:16.724Z",
+      "key": "thumbtack:6e4e6d5f-1588-4d88-a4de-429573407773",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-05T23:10:20.455Z"
+    },
+    {
+      "id": "bdd97695-4f21-4cc5-ac26-4d16f31709dc",
+      "title": "Senior Full Stack Engineer, People Products",
+      "location": "Remote, United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/thumbtack/bdd97695-4f21-4cc5-ac26-4d16f31709dc",
+      "postedAt": "2026-11-05T23:01:15.035Z",
+      "key": "thumbtack:bdd97695-4f21-4cc5-ac26-4d16f31709dc",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T23:10:20.455Z"
+    },
     {
       "id": "159a0d40-dc48-4c4f-b67b-17909f2f3f7a",
       "title": "Growth Engineer",
