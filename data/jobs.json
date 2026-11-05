@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-05T10:40:20.145Z",
+  "generatedAt": "2026-11-05T10:50:20.580Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "elastic:8318197",
+    "elastic:8355143"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 119,
     "new-grad": 20,
-    "experienced": 2221
+    "experienced": 2223
   },
   "companies": [
     {
@@ -1156,10 +1159,10 @@
     },
     {
       "name": "Copia",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Cortex",
@@ -1521,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2656,7 +2659,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8355143",
+      "title": "Senior Java Engineer - Security - Elasticsearch",
+      "location": "Canada",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8355143&gh_jid=8355143",
+      "postedAt": "2026-11-05T10:46:54.000Z",
+      "key": "elastic:8355143",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-05T10:50:20.580Z"
+    },
+    {
+      "id": "8318197",
+      "title": "Senior Java Engineer - Security - Elasticsearch",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8318197&gh_jid=8318197",
+      "postedAt": "2026-11-05T10:45:11.000Z",
+      "key": "elastic:8318197",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T10:50:20.580Z"
+    },
     {
       "id": "05338831-de2e-4844-ae19-c57de2c91672",
       "title": "Software Engineer, Operations Research",
