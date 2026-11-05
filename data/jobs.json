@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-05T17:50:19.437Z",
+  "generatedAt": "2026-11-05T18:00:32.062Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "probook:7cc4e602-3b00-4ce2-8508-91fec2fd8518"
+    "luminai:31f26b21-eb8c-4d26-9711-da1ecf28339b",
+    "Procore:R0019000"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1776,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1874,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2811,7 +2812,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2832,7 +2833,7 @@
     {
       "name": "Luminai",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3889,7 +3890,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5107,7 +5108,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R0019000",
+      "title": "Senior Software Engineer - Procore AI Experience",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-Software-Engineer---Procore-AI-Experience_R0019000-1",
+      "postedAt": "2026-11-05T18:00:34.885Z",
+      "key": "Procore:R0019000",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T18:00:32.062Z"
+    },
+    {
+      "id": "31f26b21-eb8c-4d26-9711-da1ecf28339b",
+      "title": "Applied AI Engineer, Team Lead ",
+      "location": "SF Bay Area (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/luminai/31f26b21-eb8c-4d26-9711-da1ecf28339b",
+      "postedAt": "2026-11-05T17:49:54.520Z",
+      "key": "luminai:31f26b21-eb8c-4d26-9711-da1ecf28339b",
+      "company": "Luminai",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T18:00:32.062Z"
+    },
     {
       "id": "7cc4e602-3b00-4ce2-8508-91fec2fd8518",
       "title": "Member of the Technical Staff - Product Engineering",
@@ -42795,22 +42828,6 @@
       "firstSeen": "2026-10-06T18:10:21.977Z"
     },
     {
-      "id": "8249036",
-      "title": "Principal TA Systems Architect",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8249036",
-      "postedAt": "2026-10-06T17:57:43.000Z",
-      "key": "toast:8249036",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T18:00:25.995Z"
-    },
-    {
       "id": "adcd1339-0d66-4d54-8af5-1e0ca6389835",
       "title": "Engineering Manager, Release Validation",
       "location": "US-WA-Bellevue (+1 more)",
@@ -42819,22 +42836,6 @@
       "postedAt": "2026-10-06T17:55:14.411Z",
       "key": "snowflake:adcd1339-0d66-4d54-8af5-1e0ca6389835",
       "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T18:00:25.995Z"
-    },
-    {
-      "id": "5244511007",
-      "title": "Staff Security Engineer, Incident Response",
-      "location": "Newark, CA",
-      "team": null,
-      "url": "https://lucidmotors.com/careers/search/5244511007?gh_jid=5244511007",
-      "postedAt": "2026-10-06T17:52:03.000Z",
-      "key": "lucidmotors:5244511007",
-      "company": "Lucid Motors",
       "level": "experienced",
       "term": null,
       "regions": [
