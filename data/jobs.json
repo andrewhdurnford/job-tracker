@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-05T20:20:19.919Z",
+  "generatedAt": "2026-11-05T20:30:25.737Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R1003328",
+    "palantir:9aadca04-df88-4b46-95d8-c3b2628b30b0"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 120,
     "new-grad": 18,
-    "experienced": 2215
+    "experienced": 2214
   },
   "companies": [
     {
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 157,
+      "jobCount": 158,
       "error": null,
       "stale": false
     },
@@ -1087,7 +1090,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1423,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -3586,7 +3589,7 @@
     {
       "name": "Palantir",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 79,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5700,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "R1003328",
+      "title": "Data Engineer 5, Insights Platform",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-5--Insights-Platform_R1003328-1",
+      "postedAt": "2026-11-05T20:30:29.308Z",
+      "key": "Capital One:R1003328",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T20:30:25.737Z"
+    },
+    {
       "id": "7168696",
       "title": "Staff Machine Learning Engineer - Risk",
       "location": "San Francisco, CA - Hybrid",
@@ -6268,7 +6287,7 @@
     },
     {
       "id": "R1004709",
-      "title": "Principal Associate, Data Scientist -Financial Services",
+      "title": "Principal Associate, Data Scientist -Financial Services-Consumer Risk Modeling",
       "location": "Plano, TX",
       "team": null,
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Principal-Associate--Data-Scientist--Financial-Services_R1004709-1",
@@ -7234,6 +7253,22 @@
         "us"
       ],
       "firstSeen": "2026-11-04T21:00:31.710Z"
+    },
+    {
+      "id": "9aadca04-df88-4b46-95d8-c3b2628b30b0",
+      "title": "Backend Software Engineer - Data Connectors",
+      "location": "New York, NY",
+      "team": "Dev",
+      "url": "https://jobs.lever.co/palantir/9aadca04-df88-4b46-95d8-c3b2628b30b0",
+      "postedAt": "2026-11-04T20:57:06.330Z",
+      "key": "palantir:9aadca04-df88-4b46-95d8-c3b2628b30b0",
+      "company": "Palantir",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T20:30:25.737Z"
     },
     {
       "id": "be8a0e53-8e8e-4493-9e64-a91c0d330fbd",
@@ -36941,22 +36976,6 @@
       "firstSeen": "2026-10-13T13:50:16.654Z"
     },
     {
-      "id": "30535",
-      "title": "Software Engineer",
-      "location": "US-Seattle-3rd",
-      "team": "Engineering",
-      "url": "https://uscareers-docusign.icims.com/jobs/30535/login",
-      "postedAt": "2026-10-13T13:34:00.000Z",
-      "key": "DocuSign:30535",
-      "company": "DocuSign",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T13:40:48.966Z"
-    },
-    {
       "id": "8261861",
       "title": "Manager II, Engineering - Datadog Agent SDLC",
       "location": "Boston, Massachusetts, USA; New York, New York, USA",
@@ -42570,38 +42589,6 @@
         "us"
       ],
       "firstSeen": "2026-10-06T20:40:17.331Z"
-    },
-    {
-      "id": "39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
-      "title": "Software Engineer, AI Integrations",
-      "location": "Mountain View, CA",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
-      "postedAt": "2026-10-06T20:21:30.849Z",
-      "key": "commure:39e07152-a3d2-47c0-8c5b-36e8b3a6cdf5",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T20:30:19.294Z"
-    },
-    {
-      "id": "ee0220cc-ecec-413f-a22a-4d4d229683de",
-      "title": "Senior Software Engineer, AI Integrations",
-      "location": "Mountain View, CA (+3 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/ee0220cc-ecec-413f-a22a-4d4d229683de",
-      "postedAt": "2026-10-06T20:20:21.930Z",
-      "key": "commure:ee0220cc-ecec-413f-a22a-4d4d229683de",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T20:30:19.294Z"
     },
     {
       "id": "R1003114",
