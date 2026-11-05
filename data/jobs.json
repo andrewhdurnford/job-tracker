@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-05T19:50:21.079Z",
+  "generatedAt": "2026-11-05T20:00:30.221Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "alchemy:144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
-    "Nvidia:JR2029105"
+    "gusto:7168696"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,8 +11,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 122,
-    "new-grad": 19,
-    "experienced": 2218
+    "new-grad": 18,
+    "experienced": 2217
   },
   "companies": [
     {
@@ -82,7 +81,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -117,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -193,10 +192,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Alpaca",
@@ -1677,10 +1676,10 @@
     },
     {
       "name": "FamPay",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Farel",
@@ -2105,16 +2104,16 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
     {
       "name": "H1",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "HackerRank",
@@ -2363,10 +2362,10 @@
     },
     {
       "name": "Included Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Inferact",
@@ -3512,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -3980,10 +3979,10 @@
     },
     {
       "name": "Pyka",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pylon",
@@ -5359,10 +5358,10 @@
     },
     {
       "name": "Verifiable",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Veritus",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7168696",
+      "title": "Staff Machine Learning Engineer - Risk",
+      "location": "San Francisco, CA - Hybrid",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7168696",
+      "postedAt": "2026-11-05T19:56:39.000Z",
+      "key": "gusto:7168696",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T20:00:30.221Z"
+    },
     {
       "id": "JR2029105",
       "title": "Senior Developer Relations Manager, Retail and CPG - Physical AI",
@@ -42682,54 +42697,6 @@
         "us"
       ],
       "firstSeen": "2026-10-06T20:10:20.625Z"
-    },
-    {
-      "id": "8259526",
-      "title": "Staff Software Engineer, Payments (AirCover Insurance Platform)",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8259526?gh_jid=8259526",
-      "postedAt": "2026-10-06T19:59:10.000Z",
-      "key": "airbnb:8259526",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T20:00:46.803Z"
-    },
-    {
-      "id": "8010617003",
-      "title": "Software Engineer, Early Career (SF)",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
-      "postedAt": "2026-10-06T19:57:18.000Z",
-      "key": "affirm:8010617003",
-      "company": "Affirm",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T20:00:46.803Z"
-    },
-    {
-      "id": "4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2",
-      "title": "Software Engineer, Shop/Feed Ads ",
-      "location": "San Francisco",
-      "team": "Applied AI Engineering",
-      "url": "https://jobs.ashbyhq.com/openai/4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2",
-      "postedAt": "2026-10-06T19:50:26.215Z",
-      "key": "openai:4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T20:00:46.803Z"
     },
     {
       "id": "R1001099",
