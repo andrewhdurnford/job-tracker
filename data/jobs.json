@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-05T15:20:20.165Z",
+  "generatedAt": "2026-11-05T15:30:30.177Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "doordashusa:8355717",
+    "rogo:53360d09-8b16-45ab-b1a4-0575fa3733f1"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 119,
     "new-grad": 20,
-    "experienced": 2223
+    "experienced": 2222
   },
   "companies": [
     {
@@ -1451,7 +1454,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -2053,7 +2056,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4230,7 +4233,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4251,7 +4254,7 @@
     {
       "name": "Rogo",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4826,7 +4829,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "53360d09-8b16-45ab-b1a4-0575fa3733f1",
+      "title": "Security Engineer, Product",
+      "location": "New York City",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/rogo/53360d09-8b16-45ab-b1a4-0575fa3733f1",
+      "postedAt": "2026-11-05T15:25:07.300Z",
+      "key": "rogo:53360d09-8b16-45ab-b1a4-0575fa3733f1",
+      "company": "Rogo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T15:30:30.177Z"
+    },
+    {
+      "id": "8355717",
+      "title": "Full Stack Engineer, Applied AI",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8355717",
+      "postedAt": "2026-11-05T15:22:38.000Z",
+      "key": "doordashusa:8355717",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T15:30:30.177Z"
+    },
     {
       "id": "ae958e4c-2f4b-43e6-bdbd-47ab32b80e03",
       "title": "Developer Relations",
@@ -27616,38 +27651,6 @@
       "firstSeen": "2026-10-21T12:30:21.215Z"
     },
     {
-      "id": "6229324004",
-      "title": "Staff Backend Software Engineer - Loki | NASA | Remote",
-      "location": "Canada (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6229324004",
-      "postedAt": "2026-10-21T11:21:00.000Z",
-      "key": "grafanalabs:6229324004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-21T11:30:20.990Z"
-    },
-    {
-      "id": "6229322004",
-      "title": "Staff Backend Software Engineer - Loki | NASA | Remote",
-      "location": "United States (Remote)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6229322004",
-      "postedAt": "2026-10-21T11:13:41.000Z",
-      "key": "grafanalabs:6229322004",
-      "company": "Grafana Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T11:20:19.258Z"
-    },
-    {
       "id": "6229352004",
       "title": "Senior Backend Software Engineer - Loki | NASA | Remote",
       "location": "Canada (Remote)",
@@ -42900,22 +42903,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-06T15:50:17.517Z"
-    },
-    {
-      "id": "8214383",
-      "title": "Staff Software Engineer, AI Security",
-      "location": "Bellevue, WA; Menlo Park, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8214383?t=gh_src=&gh_jid=8214383",
-      "postedAt": "2026-10-06T15:28:01.000Z",
-      "key": "robinhood:8214383",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T15:30:32.719Z"
     },
     {
       "id": "R1002870",
