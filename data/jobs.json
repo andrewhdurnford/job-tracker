@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-05T17:42:52.633Z",
+  "generatedAt": "2026-11-05T17:50:19.437Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "probook:7cc4e602-3b00-4ce2-8508-91fec2fd8518"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 121,
     "new-grad": 20,
-    "experienced": 2225
+    "experienced": 2221
   },
   "companies": [
     {
@@ -394,7 +396,7 @@
     {
       "name": "Ashby",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -674,7 +676,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1774,7 +1776,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3411,7 +3413,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 350,
+      "jobCount": 349,
       "error": null,
       "stale": false
     },
@@ -3880,7 +3882,7 @@
     {
       "name": "Probook",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5511,7 +5513,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7cc4e602-3b00-4ce2-8508-91fec2fd8518",
+      "title": "Member of the Technical Staff - Product Engineering",
+      "location": "Manhattan",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/probook/7cc4e602-3b00-4ce2-8508-91fec2fd8518",
+      "postedAt": "2026-11-05T17:43:15.843Z",
+      "key": "probook:7cc4e602-3b00-4ce2-8508-91fec2fd8518",
+      "company": "Probook",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T17:50:19.437Z"
+    },
     {
       "id": "R_106722",
       "title": "Senior Fullstack Software Development Engineer",
@@ -6330,23 +6348,6 @@
         "us"
       ],
       "firstSeen": "2026-11-05T03:00:29.608Z"
-    },
-    {
-      "id": "998a6a42-3308-47b7-8350-e842dbc73920",
-      "title": "Support Systems Engineer - NAMER",
-      "location": "Remote - US (+1 more)",
-      "team": "Support Operations",
-      "url": "https://jobs.ashbyhq.com/ashby/998a6a42-3308-47b7-8350-e842dbc73920",
-      "postedAt": "2026-11-05T02:46:03.539Z",
-      "key": "ashby:998a6a42-3308-47b7-8350-e842dbc73920",
-      "company": "Ashby",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-11-05T02:48:59.626Z"
     },
     {
       "id": "JR2027548",
@@ -9382,22 +9383,6 @@
       "postedAt": "2026-11-03T18:40:25.003Z",
       "key": "ServiceTitan:JR116359",
       "company": "ServiceTitan",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T18:40:20.713Z"
-    },
-    {
-      "id": "8318473",
-      "title": "Senior Software Engineer, Reliability",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318473",
-      "postedAt": "2026-11-03T18:32:51.000Z",
-      "key": "boxinc:8318473",
-      "company": "Box",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -12739,22 +12724,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/System-Software-Engineer---Data-Center-GPU-Compute-Diagnostics_JR2028394",
       "postedAt": "2026-10-31T00:50:27.589Z",
       "key": "Nvidia:JR2028394",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-31T00:50:18.171Z"
-    },
-    {
-      "id": "JR2028171",
-      "title": "Executive Assistant, Developer and Performance Technology",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Executive-Assistant--Developer-and-Performance-Technology_JR2028171-1",
-      "postedAt": "2026-10-31T00:50:26.812Z",
-      "key": "Nvidia:JR2028171",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
@@ -38965,22 +38934,6 @@
       "firstSeen": "2026-10-09T16:10:17.427Z"
     },
     {
-      "id": "93218baa-4989-4141-b500-32f937e72131",
-      "title": "Senior Applied ML Algorithm Engineer",
-      "location": "Boston, MA",
-      "team": "Sensor Intelligence",
-      "url": "https://jobs.ashbyhq.com/whoop/93218baa-4989-4141-b500-32f937e72131",
-      "postedAt": "2026-10-09T16:07:36.352Z",
-      "key": "whoop:93218baa-4989-4141-b500-32f937e72131",
-      "company": "WHOOP",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-09T16:10:17.427Z"
-    },
-    {
       "id": "R1003281",
       "title": "Full-stack Engineer 4 (Java, TypeScript, AWS)",
       "location": "Plano, TX",
@@ -42898,22 +42851,6 @@
       "postedAt": "2026-10-06T17:50:20.369Z",
       "key": "CrowdStrike:R29568",
       "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T17:50:16.813Z"
-    },
-    {
-      "id": "8082100",
-      "title": "Senior Software Engineer, Collision Avoidance",
-      "location": "Mountain View, California (HQ)",
-      "team": null,
-      "url": "https://nuro.ai/careersitem?gh_jid=8082100",
-      "postedAt": "2026-10-06T17:48:09.000Z",
-      "key": "nuro:8082100",
-      "company": "Nuro",
       "level": "experienced",
       "term": null,
       "regions": [
