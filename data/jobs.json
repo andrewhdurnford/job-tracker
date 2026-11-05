@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-11-05T01:10:18.254Z",
+  "generatedAt": "2026-11-05T01:20:22.538Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "mirendil:ff6ad813-cf78-46fe-8bea-d8244e9d1042"
+    "Capital One:R1005243",
+    "cloudflare:8328562",
+    "Nvidia:JR2028887",
+    "reacher:feee83b1-5b0d-44ce-b978-aef18ba6d4a8",
+    "spacex:8931372002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 120,
     "new-grad": 20,
-    "experienced": 2232
+    "experienced": 2237
   },
   "companies": [
     {
@@ -788,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 157,
+      "jobCount": 158,
       "error": null,
       "stale": false
     },
@@ -1012,7 +1016,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2067,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2658,7 +2662,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3427,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 343,
+      "jobCount": 344,
       "error": null,
       "stale": false
     },
@@ -4064,7 +4068,7 @@
     {
       "name": "Reacher",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4698,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 77,
+      "jobCount": 78,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028887",
+      "title": "Firmware Engineer - GPU",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Firmware-Engineer---GPU_JR2028887-1",
+      "postedAt": "2026-11-05T01:20:26.944Z",
+      "key": "Nvidia:JR2028887",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T01:20:22.538Z"
+    },
+    {
+      "id": "R1005243",
+      "title": "Senior Manager, Product Management - Consumer & Developer Experience",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Senior-Manager--Product-Management---Consumer---Developer-Experience_R1005243-1",
+      "postedAt": "2026-11-05T01:20:26.162Z",
+      "key": "Capital One:R1005243",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T01:20:22.538Z"
+    },
+    {
+      "id": "feee83b1-5b0d-44ce-b978-aef18ba6d4a8",
+      "title": "Mobile Consumer Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/reacher/feee83b1-5b0d-44ce-b978-aef18ba6d4a8",
+      "postedAt": "2026-11-05T01:18:24.049Z",
+      "key": "reacher:feee83b1-5b0d-44ce-b978-aef18ba6d4a8",
+      "company": "Reacher",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T01:20:22.538Z"
+    },
+    {
+      "id": "8328562",
+      "title": "Senior Software Engineer, AI & Infrastructure Planning",
+      "location": "Austin, TX (+2 more)",
+      "team": "Infrastructure",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8328562?gh_jid=8328562",
+      "postedAt": "2026-11-05T01:18:11.000Z",
+      "key": "cloudflare:8328562",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T01:20:22.538Z"
+    },
+    {
+      "id": "8931372002",
+      "title": "Ground Systems Engineer, Asset Engineering",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8931372002?gh_jid=8931372002",
+      "postedAt": "2026-11-05T01:11:59.000Z",
+      "key": "spacex:8931372002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T01:20:22.538Z"
+    },
     {
       "id": "ff6ad813-cf78-46fe-8bea-d8244e9d1042",
       "title": "Member of Technical Staff, Security Engineer",
