@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-05T19:20:20.213Z",
+  "generatedAt": "2026-11-05T19:30:30.198Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "mongodb:8352433",
-    "waymo:8354804"
+    "robinhood:8346036"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 122,
     "new-grad": 19,
-    "experienced": 2218
+    "experienced": 2217
   },
   "companies": [
     {
@@ -594,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -937,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3407,7 +3406,7 @@
     {
       "name": "Numeral",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4233,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5514,7 +5513,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8346036",
+      "title": "Senior Backend Engineer, Growth",
+      "location": "Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8346036?t=gh_src=&gh_jid=8346036",
+      "postedAt": "2026-11-05T19:29:28.000Z",
+      "key": "robinhood:8346036",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T19:30:30.198Z"
+    },
     {
       "id": "8354804",
       "title": "Staff Machine Learning Engineer, AI Infrastructure",
@@ -42724,38 +42739,6 @@
       "postedAt": "2026-10-06T19:30:24.119Z",
       "key": "Capital One:R1002838",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T19:30:21.058Z"
-    },
-    {
-      "id": "7d78cf68-6480-47bb-9f88-bd0968cb5581",
-      "title": "Software Engineer, Platform",
-      "location": "San Francisco (HQ) (+2 more)",
-      "team": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/numeral/7d78cf68-6480-47bb-9f88-bd0968cb5581",
-      "postedAt": "2026-10-06T19:26:46.508Z",
-      "key": "numeral:7d78cf68-6480-47bb-9f88-bd0968cb5581",
-      "company": "Numeral",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T19:30:21.058Z"
-    },
-    {
-      "id": "23264cb1-d3cf-43e6-b05a-ec5f0fca56c6",
-      "title": "Staff Applied Machine Learning Scientist",
-      "location": "Boston, MA",
-      "team": "Sensor Intelligence",
-      "url": "https://jobs.ashbyhq.com/whoop/23264cb1-d3cf-43e6-b05a-ec5f0fca56c6",
-      "postedAt": "2026-10-06T19:21:02.308Z",
-      "key": "whoop:23264cb1-d3cf-43e6-b05a-ec5f0fca56c6",
-      "company": "WHOOP",
       "level": "experienced",
       "term": null,
       "regions": [
