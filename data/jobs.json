@@ -1,14 +1,18 @@
 {
-  "generatedAt": "2026-11-05T02:20:18.904Z",
+  "generatedAt": "2026-11-05T02:30:23.161Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "komodohealth:8922346002",
+    "Nvidia:JR2027095",
+    "Nvidia:JR2027548"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 120,
+    "intern": 121,
     "new-grad": 20,
     "experienced": 2237
   },
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 158,
+      "jobCount": 157,
       "error": null,
       "stale": false
     },
@@ -1087,7 +1091,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -2620,7 +2624,7 @@
     {
       "name": "Komodo Health",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 344,
+      "jobCount": 346,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 79,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5700,6 +5704,44 @@
   ],
   "jobs": [
     {
+      "id": "JR2027548",
+      "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
+      "postedAt": "2026-11-05T02:30:27.544Z",
+      "key": "Nvidia:JR2027548",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T02:30:23.161Z"
+    },
+    {
+      "id": "JR2027095",
+      "title": "Performance Engineer, Deep Learning and HPC",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2027095",
+      "postedAt": "2026-11-05T02:30:27.544Z",
+      "key": "Nvidia:JR2027095",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T02:30:23.161Z"
+    },
+    {
       "id": "8918317002",
       "title": "Software Engineer, Telemetry - Top Secret Clearance (Starlink)",
       "location": "Washington, DC",
@@ -5724,22 +5766,6 @@
       "postedAt": "2026-11-05T01:20:26.944Z",
       "key": "Nvidia:JR2028887",
       "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T01:20:22.538Z"
-    },
-    {
-      "id": "R1005243",
-      "title": "Senior Manager, Product Management - Consumer & Developer Experience",
-      "location": "Richmond, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Senior-Manager--Product-Management---Consumer---Developer-Experience_R1005243-1",
-      "postedAt": "2026-11-05T01:20:26.162Z",
-      "key": "Capital One:R1005243",
-      "company": "Capital One",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -10804,6 +10830,22 @@
         "us"
       ],
       "firstSeen": "2026-11-02T18:30:32.478Z"
+    },
+    {
+      "id": "8922346002",
+      "title": "Senior Corporate IT Security Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8922346002",
+      "postedAt": "2026-11-02T18:15:32.000Z",
+      "key": "komodohealth:8922346002",
+      "company": "Komodo Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T02:30:23.161Z"
     },
     {
       "id": "8287671",
@@ -42965,22 +43007,6 @@
         "us"
       ],
       "firstSeen": "2026-10-06T03:00:30.473Z"
-    },
-    {
-      "id": "2b2ad41e-8946-4c69-b3ed-abdf54ca92cc",
-      "title": "Staff Backend Engineer, Ambient AI",
-      "location": "Mountain View, CA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/2b2ad41e-8946-4c69-b3ed-abdf54ca92cc",
-      "postedAt": "2026-10-06T02:21:31.026Z",
-      "key": "commure:2b2ad41e-8946-4c69-b3ed-abdf54ca92cc",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T02:30:20.719Z"
     },
     {
       "id": "f33184f4-52ef-4b75-b644-2a7d6d525118",
