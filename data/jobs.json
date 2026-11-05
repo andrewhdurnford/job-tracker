@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T02:48:59.626Z",
+  "generatedAt": "2026-11-05T03:00:29.608Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "affirm:8010610003",
-    "ashby:998a6a42-3308-47b7-8350-e842dbc73920"
+    "adyen:8354657",
+    "radar:8259621"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 121,
     "new-grad": 20,
-    "experienced": 2239
+    "experienced": 2240
   },
   "companies": [
     {
@@ -75,7 +75,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1090,7 +1090,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2034,10 +2034,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -4023,7 +4023,7 @@
     {
       "name": "RADAR",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8354657",
+      "title": "Staff Engineer - Mobile Payments & Terminal Experiences",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8354657",
+      "postedAt": "2026-11-05T02:50:23.000Z",
+      "key": "adyen:8354657",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T03:00:29.608Z"
+    },
     {
       "id": "998a6a42-3308-47b7-8350-e842dbc73920",
       "title": "Support Systems Engineer - NAMER",
@@ -39830,6 +39846,22 @@
       "firstSeen": "2026-10-08T16:10:24.509Z"
     },
     {
+      "id": "8259621",
+      "title": "Senior Site Reliability Engineer",
+      "location": "Seattle, WA; Sunnyvale, CA; or San Diego, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/radar/jobs/8259621",
+      "postedAt": "2026-10-08T16:09:55.000Z",
+      "key": "radar:8259621",
+      "company": "RADAR",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T03:00:29.608Z"
+    },
+    {
       "id": "094067c8-29ec-4809-8617-06c7269593fb",
       "title": "Product Engineer (AI / Full-Stack)",
       "location": "Canada (Remote)",
@@ -43023,22 +43055,6 @@
         "us"
       ],
       "firstSeen": "2026-10-06T03:30:28.002Z"
-    },
-    {
-      "id": "eb7c3584-4708-45e7-b56a-31fcf6bf3c8e",
-      "title": "Senior iOS Engineer, Ambient AI",
-      "location": "Mountain View, CA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/commure/eb7c3584-4708-45e7-b56a-31fcf6bf3c8e",
-      "postedAt": "2026-10-06T02:51:25.825Z",
-      "key": "commure:eb7c3584-4708-45e7-b56a-31fcf6bf3c8e",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T03:00:30.473Z"
     },
     {
       "id": "f33184f4-52ef-4b75-b644-2a7d6d525118",
