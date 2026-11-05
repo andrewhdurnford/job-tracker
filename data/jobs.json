@@ -1,22 +1,19 @@
 {
-  "generatedAt": "2026-11-05T01:20:22.538Z",
+  "generatedAt": "2026-11-05T01:30:24.172Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Capital One:R1005243",
-    "cloudflare:8328562",
-    "Nvidia:JR2028887",
-    "reacher:feee83b1-5b0d-44ce-b978-aef18ba6d4a8",
-    "spacex:8931372002"
+    "Nvidia:JR2027095",
+    "Nvidia:JR2027548"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 120,
+    "intern": 121,
     "new-grad": 20,
-    "experienced": 2237
+    "experienced": 2238
   },
   "companies": [
     {
@@ -2067,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2662,7 +2659,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3087,10 +3084,10 @@
     },
     {
       "name": "Mistral AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Mixpanel",
@@ -3431,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 344,
+      "jobCount": 346,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2027548",
+      "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
+      "postedAt": "2026-11-05T01:30:28.600Z",
+      "key": "Nvidia:JR2027548",
+      "company": "Nvidia",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T01:30:24.172Z"
+    },
+    {
+      "id": "JR2027095",
+      "title": "Performance Engineer, Deep Learning and HPC",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineer--Deep-Learning-and-HPC_JR2027095",
+      "postedAt": "2026-11-05T01:30:28.600Z",
+      "key": "Nvidia:JR2027095",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T01:30:24.172Z"
+    },
     {
       "id": "JR2028887",
       "title": "Firmware Engineer - GPU",
