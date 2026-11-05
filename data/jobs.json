@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T21:00:34.125Z",
+  "generatedAt": "2026-11-05T21:10:20.962Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "DocuSign:30643"
+    "fivetran:8034257003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 119,
     "new-grad": 18,
-    "experienced": 2211
+    "experienced": 2212
   },
   "companies": [
     {
@@ -192,10 +192,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Alpaca",
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1789,7 +1789,7 @@
     {
       "name": "Fivetran",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3771,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8034257003",
+      "title": "Staff Software Engineer",
+      "location": "Remote, New York, United States, AMER",
+      "team": null,
+      "url": "https://www.fivetran.com/careers/job?gh_jid=8034257003",
+      "postedAt": "2026-11-05T21:01:37.000Z",
+      "key": "fivetran:8034257003",
+      "company": "Fivetran",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T21:10:20.962Z"
+    },
     {
       "id": "30643",
       "title": "Senior Software Engineer",
