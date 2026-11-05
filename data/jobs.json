@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-11-05T18:20:20.489Z",
+  "generatedAt": "2026-11-05T18:30:28.190Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "Capital One:R1005163",
+    "Capital One:R1005093",
+    "Capital One:R1004740",
+    "Remitly:R_107161"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 121,
     "new-grad": 20,
-    "experienced": 2218
+    "experienced": 2221
   },
   "companies": [
     {
@@ -786,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 155,
+      "jobCount": 158,
       "error": null,
       "stale": false
     },
@@ -934,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3083,7 +3088,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4132,7 +4137,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -5476,7 +5481,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107161",
+      "title": "Software Development Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer_R_107161",
+      "postedAt": "2026-11-05T18:30:31.109Z",
+      "key": "Remitly:R_107161",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T18:30:28.190Z"
+    },
+    {
+      "id": "R1005093",
+      "title": "Full Stack Engineer 4 (Lead / Manager IC)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Lead---Manager-IC-_R1005093-1",
+      "postedAt": "2026-11-05T18:30:31.008Z",
+      "key": "Capital One:R1005093",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T18:30:28.190Z"
+    },
+    {
+      "id": "R1005163",
+      "title": "Full-stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1005163-1",
+      "postedAt": "2026-11-05T18:30:31.008Z",
+      "key": "Capital One:R1005163",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T18:30:28.190Z"
+    },
     {
       "id": "87bd8fc1-54ea-4bda-90fc-95a956ea92f5",
       "title": "Senior Infrastructure Engineer (Platform)",
@@ -6548,7 +6601,7 @@
     {
       "id": "39d7a585-76f5-4c39-9a5a-b4e8002cdd43",
       "title": "Infrastructure Engineer (Platform)",
-      "location": "Torrance, CA",
+      "location": "Torrance, CA (+1 more)",
       "team": "Infrastructure",
       "url": "https://jobs.ashbyhq.com/northwoodspace/39d7a585-76f5-4c39-9a5a-b4e8002cdd43",
       "postedAt": "2026-11-05T00:04:22.507Z",
@@ -18072,6 +18125,22 @@
         "us"
       ],
       "firstSeen": "2026-10-30T18:40:18.110Z"
+    },
+    {
+      "id": "R1004740",
+      "title": "Senior Associate, Front-End Web & Email Developer (Auto)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Senior-Associate--Front-End-Web---Email-Developer--Auto-_R1004740-1",
+      "postedAt": "2026-10-30T18:30:36.005Z",
+      "key": "Capital One:R1004740",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T18:30:28.190Z"
     },
     {
       "id": "8324974",
@@ -42759,22 +42828,6 @@
         "us"
       ],
       "firstSeen": "2026-10-06T18:40:17.487Z"
-    },
-    {
-      "id": "8244908",
-      "title": "Staff Software Engineer, TLM, Quantitative Evaluations",
-      "location": "San Francisco, CA, USA; Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8244908",
-      "postedAt": "2026-10-06T18:22:49.000Z",
-      "key": "waymo:8244908",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T18:30:22.348Z"
     },
     {
       "id": "adcd1339-0d66-4d54-8af5-1e0ca6389835",
