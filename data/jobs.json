@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:00:28.460Z",
+  "generatedAt": "2026-11-05T07:10:20.398Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3083,7 +3083,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4467,10 +4467,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 42,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -29034,7 +29034,7 @@
     },
     {
       "id": "4433b308-1ff4-4b5f-9184-810e5d9844f6",
-      "title": "Developer Advocate ",
+      "title": "Staff Developer Advocate ",
       "location": "San Francisco",
       "team": "Dev Rel",
       "url": "https://jobs.ashbyhq.com/pinecone/4433b308-1ff4-4b5f-9184-810e5d9844f6",
