@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-11-05T10:50:20.580Z",
+  "generatedAt": "2026-11-05T11:00:31.808Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "elastic:8318197",
-    "elastic:8355143"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1677,10 +1674,10 @@
     },
     {
       "name": "FamPay",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Farel",
@@ -2064,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2659,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3086,7 +3083,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3772,7 +3769,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3798,10 +3795,10 @@
     },
     {
       "name": "Poll Everywhere",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Polymath",
