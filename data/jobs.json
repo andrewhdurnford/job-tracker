@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-05T01:40:19.777Z",
+  "generatedAt": "2026-11-05T01:50:17.773Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "spacex:8918317002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 120,
     "new-grad": 20,
-    "experienced": 2236
+    "experienced": 2237
   },
   "companies": [
     {
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 78,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 79,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8918317002",
+      "title": "Software Engineer, Telemetry - Top Secret Clearance (Starlink)",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8918317002?gh_jid=8918317002",
+      "postedAt": "2026-11-05T01:36:41.000Z",
+      "key": "spacex:8918317002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T01:50:17.773Z"
+    },
     {
       "id": "JR2028887",
       "title": "Firmware Engineer - GPU",
