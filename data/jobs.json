@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-05T11:00:31.808Z",
+  "generatedAt": "2026-11-05T11:10:19.544Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "wafer:eb0cc872-8e6e-4367-88ed-a1fc249ac642"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1674,10 +1676,10 @@
     },
     {
       "name": "FamPay",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Farel",
@@ -3083,7 +3085,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3769,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3795,10 +3797,10 @@
     },
     {
       "name": "Poll Everywhere",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Polymath",
@@ -5105,7 +5107,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5441,7 +5443,7 @@
     {
       "name": "Wafer",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "eb0cc872-8e6e-4367-88ed-a1fc249ac642",
+      "title": "DevOps Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/wafer/eb0cc872-8e6e-4367-88ed-a1fc249ac642",
+      "postedAt": "2026-11-05T11:07:43.638Z",
+      "key": "wafer:eb0cc872-8e6e-4367-88ed-a1fc249ac642",
+      "company": "Wafer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T11:10:19.544Z"
+    },
     {
       "id": "8355143",
       "title": "Senior Java Engineer - Security - Elasticsearch",
@@ -8772,22 +8790,6 @@
         "us"
       ],
       "firstSeen": "2026-11-03T19:10:20.531Z"
-    },
-    {
-      "id": "8334826",
-      "title": "Senior Software Engineer, Onboarding",
-      "location": "Boston, MA",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8334826",
-      "postedAt": "2026-11-03T18:51:05.000Z",
-      "key": "toast:8334826",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T19:00:36.534Z"
     },
     {
       "id": "8928919002",
