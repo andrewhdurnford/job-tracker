@@ -1,14 +1,12 @@
 {
-  "generatedAt": "2026-11-05T23:40:22.220Z",
+  "generatedAt": "2026-11-05T23:50:19.551Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "openai:c90cfa58-7513-4998-a1ce-f6168dd8fc95",
-    "spacex:8927289002",
-    "spacex:8932628002",
-    "spacex:8886620002",
-    "spacex:8932369002",
-    "spacex:8932368002"
+    "blueberrypediatrics:2b2e519a-5392-408d-8fb6-a4d6003667b7",
+    "Capital One:R1005300",
+    "openai:9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e",
+    "openai:a84e6109-142f-45ae-80e1-05811732cca1"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +15,7 @@
   "levelCounts": {
     "intern": 118,
     "new-grad": 17,
-    "experienced": 2216
+    "experienced": 2218
   },
   "companies": [
     {
@@ -632,7 +630,7 @@
     {
       "name": "Blueberry Pediatrics",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -793,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 160,
+      "jobCount": 161,
       "error": null,
       "stale": false
     },
@@ -2109,7 +2107,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2663,7 +2661,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2922,7 +2920,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3516,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -4013,7 +4011,7 @@
     {
       "name": "Quilt",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5707,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "R1005300",
+      "title": "Full-stack Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4_R1005300-2",
+      "postedAt": "2026-11-05T23:50:22.485Z",
+      "key": "Capital One:R1005300",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T23:50:19.551Z"
+    },
+    {
+      "id": "a84e6109-142f-45ae-80e1-05811732cca1",
+      "title": "Forward Deployed Engineer (FDE), Cyber- SF",
+      "location": "San Francisco",
+      "team": "Forward Deployed Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/a84e6109-142f-45ae-80e1-05811732cca1",
+      "postedAt": "2026-11-05T23:48:58.284Z",
+      "key": "openai:a84e6109-142f-45ae-80e1-05811732cca1",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T23:50:19.551Z"
+    },
+    {
+      "id": "9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e",
+      "title": "Forward Deployed Engineer (FDE), Cyber- NYC",
+      "location": "New York City (+1 more)",
+      "team": "Forward Deployed Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e",
+      "postedAt": "2026-11-05T23:48:15.716Z",
+      "key": "openai:9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T23:50:19.551Z"
+    },
+    {
       "id": "c90cfa58-7513-4998-a1ce-f6168dd8fc95",
       "title": "Forward Deployed Engineer (FDE), Financial Services- NYC",
       "location": "New York City",
@@ -5833,6 +5879,22 @@
         "us"
       ],
       "firstSeen": "2026-11-05T23:40:22.220Z"
+    },
+    {
+      "id": "2b2e519a-5392-408d-8fb6-a4d6003667b7",
+      "title": "Security Engineer",
+      "location": "Remote, USA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/blueberrypediatrics/2b2e519a-5392-408d-8fb6-a4d6003667b7",
+      "postedAt": "2026-11-05T23:14:49.032Z",
+      "key": "blueberrypediatrics:2b2e519a-5392-408d-8fb6-a4d6003667b7",
+      "company": "Blueberry Pediatrics",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T23:50:19.551Z"
     },
     {
       "id": "6e4e6d5f-1588-4d88-a4de-429573407773",
@@ -42507,38 +42569,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T00:00:24.829Z"
-    },
-    {
-      "id": "8250243",
-      "title": "Staff Software Engineer, Cloud Infrastructure",
-      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8250243",
-      "postedAt": "2026-10-06T23:49:51.000Z",
-      "key": "gusto:8250243",
-      "company": "Gusto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T23:50:16.023Z"
-    },
-    {
-      "id": "5259769007",
-      "title": "Software Engineer in Test, Device Software",
-      "location": "HQ - Redwood City, CA ",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/quilt/jobs/5259769007",
-      "postedAt": "2026-10-06T23:48:20.000Z",
-      "key": "quilt:5259769007",
-      "company": "Quilt",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T23:50:16.023Z"
     },
     {
       "id": "REF089125W",
