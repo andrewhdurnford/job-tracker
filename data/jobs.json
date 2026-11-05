@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-05T00:50:23.858Z",
+  "generatedAt": "2026-11-05T01:00:28.230Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "waymo:8354166"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 120,
     "new-grad": 20,
-    "experienced": 2233
+    "experienced": 2232
   },
   "companies": [
     {
@@ -2620,7 +2622,7 @@
     {
       "name": "Komodo Health",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3481,7 +3483,7 @@
     {
       "name": "Omada Health",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3536,10 +3538,10 @@
     },
     {
       "name": "Oscar Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "OutRival",
@@ -5476,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8354166",
+      "title": "PCBA Reliability Engineer ",
+      "location": "Mountain View, CA, USA ",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8354166",
+      "postedAt": "2026-11-05T00:53:56.000Z",
+      "key": "waymo:8354166",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T01:00:28.230Z"
+    },
     {
       "id": "39d7a585-76f5-4c39-9a5a-b4e8002cdd43",
       "title": "Infrastructure Engineer (Platform)",
@@ -10676,22 +10694,6 @@
         "us"
       ],
       "firstSeen": "2026-11-02T18:30:32.478Z"
-    },
-    {
-      "id": "8922346002",
-      "title": "Senior Corporate IT Security Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8922346002",
-      "postedAt": "2026-11-02T18:15:32.000Z",
-      "key": "komodohealth:8922346002",
-      "company": "Komodo Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-02T18:20:21.540Z"
     },
     {
       "id": "8287671",
@@ -42885,22 +42887,6 @@
         "us"
       ],
       "firstSeen": "2026-10-06T01:40:20.931Z"
-    },
-    {
-      "id": "8257928",
-      "title": "Staff Software Engineer",
-      "location": "Remote, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/omadahealth/jobs/8257928",
-      "postedAt": "2026-10-06T00:55:19.000Z",
-      "key": "omadahealth:8257928",
-      "company": "Omada Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T01:00:22.161Z"
     },
     {
       "id": "f33184f4-52ef-4b75-b644-2a7d6d525118",
