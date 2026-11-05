@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-05T19:30:30.198Z",
+  "generatedAt": "2026-11-05T19:40:21.580Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "robinhood:8346036"
+    "benchling:6f74767c-0e7a-446b-84bf-5c04c270cb13",
+    "openai:783704d7-5afa-45aa-899b-1d6799f73004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -550,7 +551,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1755,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1776,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2063,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3427,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 348,
+      "jobCount": 347,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -4470,7 +4471,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "6f74767c-0e7a-446b-84bf-5c04c270cb13",
+      "title": "Research Engineer, Model Evaluation and Improvement",
+      "location": "San Francisco, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/benchling/6f74767c-0e7a-446b-84bf-5c04c270cb13",
+      "postedAt": "2026-11-05T19:38:47.225Z",
+      "key": "benchling:6f74767c-0e7a-446b-84bf-5c04c270cb13",
+      "company": "Benchling",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T19:40:21.580Z"
+    },
+    {
+      "id": "783704d7-5afa-45aa-899b-1d6799f73004",
+      "title": "Software Engineer, Agent Platform",
+      "location": "San Francisco (+1 more)",
+      "team": "Applied AI Infrastructure",
+      "url": "https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004",
+      "postedAt": "2026-11-05T19:33:17.025Z",
+      "key": "openai:783704d7-5afa-45aa-899b-1d6799f73004",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-05T19:40:21.580Z"
+    },
+    {
       "id": "8346036",
       "title": "Senior Backend Engineer, Growth",
       "location": "Menlo Park, CA",
@@ -6460,22 +6493,6 @@
         "us"
       ],
       "firstSeen": "2026-11-05T12:10:19.362Z"
-    },
-    {
-      "id": "JR2029105",
-      "title": "Senior Developer Relations Manager, Retail and CPG - Physical AI",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager--Retail-and-CPG---Physical-AI_JR2029105",
-      "postedAt": "2026-11-05T11:30:31.189Z",
-      "key": "Nvidia:JR2029105",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T11:30:27.014Z"
     },
     {
       "id": "eb0cc872-8e6e-4367-88ed-a1fc249ac642",
@@ -42713,22 +42730,6 @@
         "us"
       ],
       "firstSeen": "2026-10-06T19:50:21.613Z"
-    },
-    {
-      "id": "2a5b30f5-ddd6-4d18-abca-6898ad5b7bbe",
-      "title": "Chief Engineer, Air Vehicle Lead - Ranger",
-      "location": "Seattle, Washington (+1 more)",
-      "team": "X-BAT Engineering",
-      "url": "https://jobs.lever.co/shieldai/2a5b30f5-ddd6-4d18-abca-6898ad5b7bbe",
-      "postedAt": "2026-10-06T19:31:48.159Z",
-      "key": "shieldai:2a5b30f5-ddd6-4d18-abca-6898ad5b7bbe",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-06T19:40:17.747Z"
     },
     {
       "id": "R1002838",
