@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-06T23:10:21.058Z",
+  "generatedAt": "2026-11-06T23:20:18.982Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "DocuSign:30645",
-    "okta:8356592"
+    "cresta:5476118008",
+    "mixpanel:8357913",
+    "Nvidia:JR2025019",
+    "waymo:8360600"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 112,
     "new-grad": 16,
-    "experienced": 2222
+    "experienced": 2226
   },
   "companies": [
     {
@@ -594,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -937,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1223,7 +1225,7 @@
     {
       "name": "Cresta",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3086,13 +3088,13 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
       "name": "Mixpanel",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 348,
+      "jobCount": 349,
       "error": null,
       "stale": false
     },
@@ -3772,7 +3774,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5479,7 +5481,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2025019",
+      "title": "Senior Linux Systems Engineer - EDA Infrastructure",
+      "location": "US, CA, Remote",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Linux-Systems-Engineer---EDA-Infrastructure_JR2025019",
+      "postedAt": "2026-11-06T23:20:22.451Z",
+      "key": "Nvidia:JR2025019",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T23:20:18.982Z"
+    },
+    {
+      "id": "8360600",
+      "title": "Senior Systems Engineer, Vehicle Security",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8360600",
+      "postedAt": "2026-11-06T23:18:42.000Z",
+      "key": "waymo:8360600",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T23:20:18.982Z"
+    },
+    {
+      "id": "5476118008",
+      "title": "AI Growth Engineer",
+      "location": "United States (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/cresta/jobs/5476118008",
+      "postedAt": "2026-11-06T23:17:56.000Z",
+      "key": "cresta:5476118008",
+      "company": "Cresta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T23:20:18.982Z"
+    },
+    {
+      "id": "8357913",
+      "title": "Security Engineer",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8357913",
+      "postedAt": "2026-11-06T23:13:33.000Z",
+      "key": "mixpanel:8357913",
+      "company": "Mixpanel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T23:20:18.982Z"
+    },
     {
       "id": "8356592",
       "title": "Staff Software Engineer, Integration Network (OIN)",
