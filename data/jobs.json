@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-11-06T20:10:21.853Z",
+  "generatedAt": "2026-11-06T20:20:20.519Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "Capital One:R1005153"
+    "cohere:735f26a3-9456-49e2-8f84-23804534cfe4",
+    "cohere:8f60b8e2-55b9-4258-a4cc-813273161f97",
+    "givecampus:4479171009",
+    "influxdata:fcb65380-7c27-45bf-9951-243783e0e7c3",
+    "spacex:8933873002",
+    "temporal:011bf96a-0e14-4b61-9fb9-b19ef6705a71"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +17,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 16,
-    "experienced": 2215
+    "experienced": 2220
   },
   "companies": [
     {
@@ -593,7 +598,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +941,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1047,7 +1052,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1964,14 +1969,14 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
     {
       "name": "GiveCampus",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2384,7 +2389,7 @@
     {
       "name": "InfluxData",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4699,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 82,
+      "jobCount": 83,
       "error": null,
       "stale": false
     },
@@ -5023,7 +5028,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5707,54 @@
   ],
   "jobs": [
     {
+      "id": "fcb65380-7c27-45bf-9951-243783e0e7c3",
+      "title": "Senior Staff Engineer",
+      "location": "Remote US",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/Influxdata/fcb65380-7c27-45bf-9951-243783e0e7c3",
+      "postedAt": "2026-11-06T20:18:46.513Z",
+      "key": "influxdata:fcb65380-7c27-45bf-9951-243783e0e7c3",
+      "company": "InfluxData",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T20:20:20.519Z"
+    },
+    {
+      "id": "8933873002",
+      "title": "Software Engineer, Flight Software (Starship)",
+      "location": "Cape Canaveral, FL",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8933873002?gh_jid=8933873002",
+      "postedAt": "2026-11-06T20:18:10.000Z",
+      "key": "spacex:8933873002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T20:20:20.519Z"
+    },
+    {
+      "id": "011bf96a-0e14-4b61-9fb9-b19ef6705a71",
+      "title": "Senior Software Engineer, Cloud Applications",
+      "location": "United States (Remote)",
+      "team": "Cloud",
+      "url": "https://jobs.ashbyhq.com/temporal/011bf96a-0e14-4b61-9fb9-b19ef6705a71",
+      "postedAt": "2026-11-06T20:16:54.445Z",
+      "key": "temporal:011bf96a-0e14-4b61-9fb9-b19ef6705a71",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T20:20:20.519Z"
+    },
+    {
       "id": "R1005153",
       "title": "Senior Manager, Full-Stack Engineer (Java | JavaScript | Typescript | AWS)",
       "location": "Plano, TX",
@@ -6258,6 +6311,22 @@
       "firstSeen": "2026-11-06T17:20:21.850Z"
     },
     {
+      "id": "4479171009",
+      "title": "AI Platform Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/givecampus/jobs/4479171009",
+      "postedAt": "2026-11-06T17:08:39.000Z",
+      "key": "givecampus:4479171009",
+      "company": "GiveCampus",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T20:20:20.519Z"
+    },
+    {
       "id": "d14aa0d6-f825-441d-9a11-2949d68bc4f8",
       "title": "Director, Systems Engineering & Architecture - Hivemind Enterprise",
       "location": "San Diego, California",
@@ -6384,6 +6453,23 @@
         "us"
       ],
       "firstSeen": "2026-11-06T16:20:20.393Z"
+    },
+    {
+      "id": "8f60b8e2-55b9-4258-a4cc-813273161f97",
+      "title": "Staff Software Engineer, ML Workload Platform",
+      "location": "Canada (+1 more)",
+      "team": "Engineering & Infra",
+      "url": "https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97",
+      "postedAt": "2026-11-06T15:27:08.011Z",
+      "key": "cohere:8f60b8e2-55b9-4258-a4cc-813273161f97",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-06T20:20:20.519Z"
     },
     {
       "id": "bd1ac97f-20f9-4727-9f92-7064035a416f",
@@ -6528,6 +6614,23 @@
         "remote"
       ],
       "firstSeen": "2026-11-06T14:30:27.248Z"
+    },
+    {
+      "id": "735f26a3-9456-49e2-8f84-23804534cfe4",
+      "title": "Staff Software Engineer, GPU Infrastructure",
+      "location": "Seattle (+3 more)",
+      "team": "Engineering & Infra",
+      "url": "https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4",
+      "postedAt": "2026-11-06T14:28:37.909Z",
+      "key": "cohere:735f26a3-9456-49e2-8f84-23804534cfe4",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-06T20:20:20.519Z"
     },
     {
       "id": "6250634004",
@@ -8037,23 +8140,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-11-05T17:40:19.511Z"
-    },
-    {
-      "id": "8931298002",
-      "title": "Senior Corporate Security Engineer",
-      "location": "Remote, Canada; Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8931298002",
-      "postedAt": "2026-11-05T17:36:56.000Z",
-      "key": "gitlab:8931298002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
       ],
       "firstSeen": "2026-11-05T17:40:19.511Z"
     },
