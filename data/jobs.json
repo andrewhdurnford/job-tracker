@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-06T05:40:19.027Z",
+  "generatedAt": "2026-11-06T05:50:19.596Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "xai:5286968007"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -3587,10 +3585,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 11,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
