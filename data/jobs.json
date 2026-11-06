@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-06T14:50:23.210Z",
+  "generatedAt": "2026-11-06T15:00:32.744Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "fivetran:8031705003",
-    "grafanalabs:6250647004",
-    "grafanalabs:6250649004"
+    "Capital One:R1004942",
+    "Capital One:R1004939",
+    "grafanalabs:6250646004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 116,
+    "intern": 115,
     "new-grad": 17,
-    "experienced": 2218
+    "experienced": 2220
   },
   "companies": [
     {
@@ -307,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -790,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 154,
+      "jobCount": 156,
       "error": null,
       "stale": false
     },
@@ -1427,7 +1427,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1757,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1778,7 +1778,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1876,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2057,7 +2057,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -2065,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4695,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 83,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1004939",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4--Manager--IC-_R1004939-1",
+      "postedAt": "2026-11-06T15:00:36.137Z",
+      "key": "Capital One:R1004939",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T15:00:32.744Z"
+    },
+    {
+      "id": "R1004942",
+      "title": "Full-stack Engineer 5 (Sr Manager, IC)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Sr-Manager--IC-_R1004942-1",
+      "postedAt": "2026-11-06T15:00:36.137Z",
+      "key": "Capital One:R1004942",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T15:00:32.744Z"
+    },
+    {
+      "id": "6250646004",
+      "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Spain | Remote",
+      "location": "Spain (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6250646004",
+      "postedAt": "2026-11-06T14:59:22.000Z",
+      "key": "grafanalabs:6250646004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-06T15:00:32.744Z"
+    },
     {
       "id": "6250647004",
       "title": "Staff Software Engineer - OpenTelemetry Python instrumentation | Ireland | Remote",
@@ -20891,22 +20939,6 @@
       "regions": [
         "us",
         "canada"
-      ],
-      "firstSeen": "2026-10-29T13:40:18.359Z"
-    },
-    {
-      "id": "30597",
-      "title": "Software Engineer Intern",
-      "location": "US-Seattle-3rd",
-      "team": "University",
-      "url": "https://uscareers-docusign.icims.com/jobs/30597/login",
-      "postedAt": "2026-10-29T13:33:00.000Z",
-      "key": "DocuSign:30597",
-      "company": "DocuSign",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-29T13:40:18.359Z"
     },
@@ -42693,23 +42725,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T15:30:19.915Z"
-    },
-    {
-      "id": "5445625008",
-      "title": "IT Systems Engineer, Client Platform Engineer, macOS",
-      "location": "Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445625008",
-      "postedAt": "2026-10-07T14:57:55.000Z",
-      "key": "anthropic:5445625008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-10-07T15:00:28.566Z"
     },
     {
       "id": "R29100",
