@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-11-06T01:30:23.051Z",
+  "generatedAt": "2026-11-06T01:40:20.223Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "etched:1a92048c-60e0-445b-a84e-8f008f1cf47b",
+    "xai:5286869007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 118,
+    "intern": 119,
     "new-grad": 17,
-    "experienced": 2216
+    "experienced": 2215
   },
   "companies": [
     {
@@ -1626,7 +1629,7 @@
     {
       "name": "Etched",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5581,7 +5584,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5286869007",
+      "title": "Sr. Software Engineer, Kernels/CUDA (C++)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5286869007",
+      "postedAt": "2026-11-06T01:33:59.000Z",
+      "key": "xai:5286869007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T01:40:20.223Z"
+    },
+    {
+      "id": "1a92048c-60e0-445b-a84e-8f008f1cf47b",
+      "title": "Infrastructure Engineering & Projects Intern",
+      "location": "San Jose",
+      "team": "Other",
+      "url": "https://jobs.ashbyhq.com/etched/1a92048c-60e0-445b-a84e-8f008f1cf47b",
+      "postedAt": "2026-11-06T01:31:57.607Z",
+      "key": "etched:1a92048c-60e0-445b-a84e-8f008f1cf47b",
+      "company": "Etched",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T01:40:20.223Z"
+    },
     {
       "id": "5286865007",
       "title": "Sr. Software Engineer, Linux Kernel",
@@ -7876,38 +7911,6 @@
         "us"
       ],
       "firstSeen": "2026-11-04T21:50:19.366Z"
-    },
-    {
-      "id": "5285276007",
-      "title": "Sr. Software Engineer, Training/Inference (C++)",
-      "location": "Palo Alto, CA; Seattle, WA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5285276007",
-      "postedAt": "2026-11-04T21:16:13.000Z",
-      "key": "xai:5285276007",
-      "company": "xAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-04T21:20:19.628Z"
-    },
-    {
-      "id": "5285268007",
-      "title": "Sr. Software Engineer, Kernels/CUDA (C++)",
-      "location": "Palo Alto, CA; Seattle, WA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5285268007",
-      "postedAt": "2026-11-04T21:11:14.000Z",
-      "key": "xai:5285268007",
-      "company": "xAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-04T21:20:19.628Z"
     },
     {
       "id": "R1005190",
