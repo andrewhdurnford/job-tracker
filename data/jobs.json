@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-06T22:00:29.255Z",
+  "generatedAt": "2026-11-06T22:10:20.117Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "clickup:e0427449-025a-4619-a588-17f0020a9d73",
-    "oscar:8129172",
-    "samsara:8289005"
+    "sofi:8197346003",
+    "spacex:8933507002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -2169,7 +2168,7 @@
     {
       "name": "Harness",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3589,10 +3588,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 11,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -4108,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4661,7 +4660,7 @@
     {
       "name": "SoFi",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 83,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 84,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5150,10 +5149,10 @@
     },
     {
       "name": "Tractian",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Trade Republic",
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8197346003",
+      "title": "Senior Software Engineer, AI Platform - Prism",
+      "location": "CA - San Francisco; WA - Seattle",
+      "team": null,
+      "url": "https://sofi.com/careers/job/8197346003?gh_jid=8197346003",
+      "postedAt": "2026-11-06T22:07:27.000Z",
+      "key": "sofi:8197346003",
+      "company": "SoFi",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T22:10:20.117Z"
+    },
+    {
+      "id": "8933507002",
+      "title": "Principal Network Engineer, AI Infrastructure (Starshield)",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8933507002?gh_jid=8933507002",
+      "postedAt": "2026-11-06T22:06:17.000Z",
+      "key": "spacex:8933507002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T22:10:20.117Z"
+    },
     {
       "id": "8289005",
       "title": "Sr. Firmware Engineer II",
@@ -29174,7 +29205,7 @@
     },
     {
       "id": "c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
-      "title": "Senior Backend Engineer | Accounting",
+      "title": "Backend Engineer | Accounting",
       "location": "New York, NY (HQ) (+1 more)",
       "team": "Backend",
       "url": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
@@ -31331,7 +31362,7 @@
     },
     {
       "id": "b7514711-8a29-4bd2-a97a-967be14e336f",
-      "title": "Senior Backend Engineer | AI Spend Management",
+      "title": "Backend Engineer | AI Spend Management",
       "location": "New York, NY (HQ) (+2 more)",
       "team": "Backend",
       "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f",
@@ -31380,7 +31411,7 @@
     },
     {
       "id": "47a75895-24af-49b7-9858-1be0ec0e7c71",
-      "title": "Senior Backend Engineer | Accounts Receivable",
+      "title": "Backend Engineer | Accounts Receivable",
       "location": "New York, NY (HQ) (+2 more)",
       "team": "Backend",
       "url": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71",
@@ -42413,38 +42444,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-10-07T22:10:18.218Z"
-    },
-    {
-      "id": "5249667007",
-      "title": "Staff/Senior Software Engineer - Cloud Platform Engineering",
-      "location": "U.S. (Remote)",
-      "team": null,
-      "url": "https://www.harness.io/company/jobs/apply?gh_jid=5249667007&gh_jid=5249667007",
-      "postedAt": "2026-10-07T22:06:54.000Z",
-      "key": "harnessinc:5249667007",
-      "company": "Harness",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T22:10:18.218Z"
-    },
-    {
-      "id": "8263374",
-      "title": "Senior iOS Software Engineer, Consumer Engineering",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8263374",
-      "postedAt": "2026-10-07T22:02:37.000Z",
-      "key": "reddit:8263374",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-07T22:10:18.218Z"
     },
