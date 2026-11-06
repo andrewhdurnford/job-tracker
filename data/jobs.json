@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-06T19:50:21.364Z",
+  "generatedAt": "2026-11-06T20:00:32.346Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1003642",
-    "coupang:8356962",
-    "goteleport:67257887-5704-479c-92eb-14a89e0d3412"
+    "ramp:6075e1dc-c833-4e27-a789-61d3a596c66c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +11,7 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 107,
-    "new-grad": 17,
+    "new-grad": 16,
     "experienced": 2215
   },
   "companies": [
@@ -595,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -938,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4038,7 +4036,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4738,7 +4736,7 @@
     {
       "name": "Spruce Systems",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5347,7 +5345,7 @@
     {
       "name": "Vercel",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6075e1dc-c833-4e27-a789-61d3a596c66c",
+      "title": "Senior Security Engineer, Identity",
+      "location": "New York, NY (HQ)",
+      "team": "IT Eng",
+      "url": "https://jobs.ashbyhq.com/ramp/6075e1dc-c833-4e27-a789-61d3a596c66c",
+      "postedAt": "2026-11-06T19:57:59.753Z",
+      "key": "ramp:6075e1dc-c833-4e27-a789-61d3a596c66c",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T20:00:32.346Z"
+    },
     {
       "id": "R1003642",
       "title": "Full-stack Engineer 4",
@@ -42354,38 +42368,6 @@
         "us"
       ],
       "firstSeen": "2026-10-15T23:50:15.225Z"
-    },
-    {
-      "id": "6218743004",
-      "title": "IT Systems Engineer",
-      "location": "Hybrid - San Francisco, New York City, Austin",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/vercel/jobs/6218743004",
-      "postedAt": "2026-10-07T19:59:48.000Z",
-      "key": "vercel:6218743004",
-      "company": "Vercel",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T20:10:16.467Z"
-    },
-    {
-      "id": "3d182b7f-482e-45b2-8668-f04f0b5fda8e",
-      "title": "Full-Stack Software Engineer (New Grad) – Remote",
-      "location": "United States",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e",
-      "postedAt": "2026-10-07T19:54:21.916Z",
-      "key": "spruceid:3d182b7f-482e-45b2-8668-f04f0b5fda8e",
-      "company": "Spruce Systems",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T20:00:23.931Z"
     },
     {
       "id": "a15e328f-5270-4f18-ae2e-fe92ac8276f5",
