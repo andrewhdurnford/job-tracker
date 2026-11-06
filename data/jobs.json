@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-06T11:30:25.031Z",
+  "generatedAt": "2026-11-06T11:40:22.673Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "samsara:8358617",
+    "samsara:8358618"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 115,
     "new-grad": 17,
-    "experienced": 2213
+    "experienced": 2215
   },
   "companies": [
     {
@@ -1753,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1774,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3083,7 +3086,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4335,7 +4338,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8358618",
+      "title": "Staff Machine Learning Engineer - Edge AI",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8358618?gh_jid=8358618",
+      "postedAt": "2026-11-06T11:32:01.000Z",
+      "key": "samsara:8358618",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-06T11:40:22.673Z"
+    },
+    {
+      "id": "8358617",
+      "title": "Staff Machine Learning Engineer - Edge AI",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8358617?gh_jid=8358617",
+      "postedAt": "2026-11-06T11:30:57.000Z",
+      "key": "samsara:8358617",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T11:40:22.673Z"
+    },
     {
       "id": "5463598008",
       "title": "Research Engineer, Cybersecurity RL (Reinforcement Learning)",
