@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-06T17:00:33.372Z",
+  "generatedAt": "2026-11-06T17:10:20.576Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "coinbase:8359446"
+    "airbnb:7763610",
+    "shieldai:d14aa0d6-f825-441d-9a11-2949d68bc4f8"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 17,
-    "experienced": 2208
+    "experienced": 2210
   },
   "companies": [
     {
@@ -116,7 +117,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -2259,7 +2260,7 @@
       "name": "HubSpot",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3085,7 +3086,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3335,10 +3336,10 @@
     },
     {
       "name": "Nimble Rx",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nira Energy",
@@ -4470,7 +4471,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 83,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4828,7 +4829,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5204,10 +5205,10 @@
     },
     {
       "name": "Truffle Security",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tuesday Labs",
@@ -5701,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "d14aa0d6-f825-441d-9a11-2949d68bc4f8",
+      "title": "Director, Systems Engineering & Architecture - Hivemind Enterprise",
+      "location": "San Diego, California",
+      "team": "Systems",
+      "url": "https://jobs.lever.co/shieldai/d14aa0d6-f825-441d-9a11-2949d68bc4f8",
+      "postedAt": "2026-11-06T17:06:32.451Z",
+      "key": "shieldai:d14aa0d6-f825-441d-9a11-2949d68bc4f8",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T17:10:20.576Z"
+    },
     {
       "id": "8359446",
       "title": "Staff Software Engineer, Frontend/Mobile (Consumer - Agentic Trading)",
@@ -30387,6 +30404,22 @@
         "us"
       ],
       "firstSeen": "2026-10-20T16:10:17.424Z"
+    },
+    {
+      "id": "7763610",
+      "title": "Senior Software Engineer,  Cloud Experience",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/7763610?gh_jid=7763610",
+      "postedAt": "2026-10-20T16:03:29.000Z",
+      "key": "airbnb:7763610",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T17:10:20.576Z"
     },
     {
       "id": "8300359",
