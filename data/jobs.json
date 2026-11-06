@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-11-06T03:40:19.176Z",
+  "generatedAt": "2026-11-06T03:50:19.329Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "wafer:6efae52e-2a06-4702-86db-c169c37c206c",
-    "wafer:0ca12c04-1f3f-4131-ad38-0c1287be8643"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -13,7 +10,7 @@
   "levelCounts": {
     "intern": 119,
     "new-grad": 17,
-    "experienced": 2224
+    "experienced": 2223
   },
   "companies": [
     {
@@ -594,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -937,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4722,10 +4719,10 @@
     },
     {
       "name": "Spotify",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sprinklr",
@@ -5444,7 +5441,7 @@
     {
       "name": "Wafer",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5702,22 +5699,6 @@
     }
   ],
   "jobs": [
-    {
-      "id": "0ca12c04-1f3f-4131-ad38-0c1287be8643",
-      "title": "Forward Deployed Engineer",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/wafer/0ca12c04-1f3f-4131-ad38-0c1287be8643",
-      "postedAt": "2026-11-06T03:35:10.401Z",
-      "key": "wafer:0ca12c04-1f3f-4131-ad38-0c1287be8643",
-      "company": "Wafer",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-06T03:40:19.176Z"
-    },
     {
       "id": "6efae52e-2a06-4702-86db-c169c37c206c",
       "title": "Developer Advocate",
@@ -7442,7 +7423,7 @@
     },
     {
       "id": "eb0cc872-8e6e-4367-88ed-a1fc249ac642",
-      "title": "DevOps Engineer",
+      "title": "Member of Technical Staff, DevOps",
       "location": "San Francisco",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/wafer/eb0cc872-8e6e-4367-88ed-a1fc249ac642",
