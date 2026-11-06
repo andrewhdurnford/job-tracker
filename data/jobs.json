@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-06T00:30:25.030Z",
+  "generatedAt": "2026-11-06T00:40:21.599Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "chainguard:4727461006",
+    "Nvidia:JR2029419"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -30,7 +33,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -877,7 +880,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 351,
+      "jobCount": 352,
       "error": null,
       "stale": false
     },
@@ -4020,7 +4023,7 @@
     {
       "name": "RADAR",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 84,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2029419",
+      "title": "Senior Firmware Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Firmware-Engineer_JR2029419",
+      "postedAt": "2026-11-06T00:40:25.894Z",
+      "key": "Nvidia:JR2029419",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T00:40:21.599Z"
+    },
+    {
+      "id": "4727461006",
+      "title": "Staff Software Engineer, Chainguard Harness",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4727461006",
+      "postedAt": "2026-11-06T00:35:04.000Z",
+      "key": "chainguard:4727461006",
+      "company": "Chainguard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T00:40:21.599Z"
+    },
     {
       "id": "8263016",
       "title": "Senior Software Engineer - Kubernetes platform",
@@ -40851,22 +40886,6 @@
       "firstSeen": "2026-10-08T16:10:24.509Z"
     },
     {
-      "id": "8259621",
-      "title": "Senior Site Reliability Engineer",
-      "location": "Seattle, WA; Sunnyvale, CA; or San Diego, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/radar/jobs/8259621",
-      "postedAt": "2026-10-08T16:09:55.000Z",
-      "key": "radar:8259621",
-      "company": "RADAR",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T03:00:29.608Z"
-    },
-    {
       "id": "094067c8-29ec-4809-8617-06c7269593fb",
       "title": "Product Engineer (AI / Full-Stack)",
       "location": "Canada (Remote)",
@@ -42614,22 +42633,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T01:30:21.325Z"
-    },
-    {
-      "id": "8015100003",
-      "title": "Director of Security Engineering",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://abnormal.ai/careers/jobs/8015100003?gh_jid=8015100003",
-      "postedAt": "2026-10-07T00:34:16.000Z",
-      "key": "abnormalsecurity:8015100003",
-      "company": "Abnormal Security",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T00:40:17.556Z"
     },
     {
       "id": "REF089125W",
