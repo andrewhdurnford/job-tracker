@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-06T18:30:26.339Z",
+  "generatedAt": "2026-11-06T18:40:21.529Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "ashby:5d4863d7-e1d9-4f4e-aed4-79d558185ac9",
+    "ashby:7f0f3837-3433-4ffe-8842-f3dbc3b621da",
+    "Nvidia:JR2028267"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 105,
     "new-grad": 17,
-    "experienced": 2208
+    "experienced": 2211
   },
   "companies": [
     {
@@ -394,7 +398,7 @@
     {
       "name": "Ashby",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -591,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 349,
+      "jobCount": 350,
       "error": null,
       "stale": false
     },
@@ -4826,7 +4830,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028267",
+      "title": "Principal Site Reliability Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Site-Reliability-Engineer_JR2028267",
+      "postedAt": "2026-11-06T18:40:24.902Z",
+      "key": "Nvidia:JR2028267",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T18:40:21.529Z"
+    },
+    {
+      "id": "7f0f3837-3433-4ffe-8842-f3dbc3b621da",
+      "title": "Head of Platform & Infrastructure Engineering",
+      "location": "Remote - Canada (+2 more)",
+      "team": "Americas Engineering",
+      "url": "https://jobs.ashbyhq.com/Ashby/7f0f3837-3433-4ffe-8842-f3dbc3b621da",
+      "postedAt": "2026-11-06T18:31:54.573Z",
+      "key": "ashby:7f0f3837-3433-4ffe-8842-f3dbc3b621da",
+      "company": "Ashby",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-06T18:40:21.529Z"
+    },
+    {
+      "id": "5d4863d7-e1d9-4f4e-aed4-79d558185ac9",
+      "title": "Head of Platform & Infrastructure Engineering",
+      "location": "Remote - US (+6 more)",
+      "team": "Americas Engineering",
+      "url": "https://jobs.ashbyhq.com/Ashby/5d4863d7-e1d9-4f4e-aed4-79d558185ac9",
+      "postedAt": "2026-11-06T18:31:51.791Z",
+      "key": "ashby:5d4863d7-e1d9-4f4e-aed4-79d558185ac9",
+      "company": "Ashby",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T18:40:21.529Z"
+    },
     {
       "id": "8933544002",
       "title": "Applied AI Architect",
