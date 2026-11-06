@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-06T14:10:19.807Z",
+  "generatedAt": "2026-11-06T14:20:20.412Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "grafanalabs:6250631004",
+    "grafanalabs:6250630004"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 115,
     "new-grad": 17,
-    "experienced": 2211
+    "experienced": 2213
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1774,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2053,7 +2056,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6250631004",
+      "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | Germany | Remote",
+      "location": "Germany (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6250631004",
+      "postedAt": "2026-11-06T14:17:54.000Z",
+      "key": "grafanalabs:6250631004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-06T14:20:20.412Z"
+    },
+    {
+      "id": "6250630004",
+      "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | UK | Remote",
+      "location": "United Kingdom (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6250630004",
+      "postedAt": "2026-11-06T14:15:44.000Z",
+      "key": "grafanalabs:6250630004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-06T14:20:20.412Z"
+    },
     {
       "id": "8358709",
       "title": "Senior Software Engineer II",
