@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T22:10:20.117Z",
+  "generatedAt": "2026-11-06T22:20:24.454Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "sofi:8197346003",
-    "spacex:8933507002"
+    "clickup:f919c7fa-88b9-4c7d-9990-153cd26e014f",
+    "wrapbook:0e33bea5-8133-4e9b-885b-ca11bef934fb"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -306,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -594,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -937,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -992,7 +992,7 @@
     {
       "name": "ClickUp",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1756,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3588,10 +3588,10 @@
     },
     {
       "name": "Palantir",
-      "ok": false,
+      "ok": true,
       "jobCount": 11,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Paradigm",
@@ -5080,7 +5080,7 @@
     {
       "name": "Thumbtack",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5570,7 +5570,7 @@
     {
       "name": "Wrapbook",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "f919c7fa-88b9-4c7d-9990-153cd26e014f",
+      "title": "Senior Security Engineer, Infrastructure Security",
+      "location": "United States",
+      "team": "32035 Security Engineering",
+      "url": "https://jobs.ashbyhq.com/clickup/f919c7fa-88b9-4c7d-9990-153cd26e014f",
+      "postedAt": "2026-11-06T22:17:27.355Z",
+      "key": "clickup:f919c7fa-88b9-4c7d-9990-153cd26e014f",
+      "company": "ClickUp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T22:20:24.454Z"
+    },
+    {
+      "id": "0e33bea5-8133-4e9b-885b-ca11bef934fb",
+      "title": "Senior Software Engineer II - Platform & Enablement",
+      "location": "Remote - Canada Only",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/wrapbook/0e33bea5-8133-4e9b-885b-ca11bef934fb",
+      "postedAt": "2026-11-06T22:14:57.936Z",
+      "key": "wrapbook:0e33bea5-8133-4e9b-885b-ca11bef934fb",
+      "company": "Wrapbook",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-06T22:20:24.454Z"
+    },
     {
       "id": "8197346003",
       "title": "Senior Software Engineer, AI Platform - Prism",
@@ -42398,38 +42430,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-07T22:40:15.114Z"
-    },
-    {
-      "id": "73f01c2f-103a-4627-928b-4dedcc2a3013",
-      "title": "Application Security Engineer II",
-      "location": "Remote, Ontario (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/thumbtack/73f01c2f-103a-4627-928b-4dedcc2a3013",
-      "postedAt": "2026-10-07T22:18:41.479Z",
-      "key": "thumbtack:73f01c2f-103a-4627-928b-4dedcc2a3013",
-      "company": "Thumbtack",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-07T22:20:18.327Z"
-    },
-    {
-      "id": "5446029008",
-      "title": "Manager of Applied AI Architecture, Startups",
-      "location": "San Francisco, CA | New York City, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446029008",
-      "postedAt": "2026-10-07T22:13:55.000Z",
-      "key": "anthropic:5446029008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T22:20:18.327Z"
     },
     {
       "id": "R_106615",
