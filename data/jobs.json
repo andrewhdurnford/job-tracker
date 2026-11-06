@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-11-06T16:10:26.373Z",
+  "generatedAt": "2026-11-06T16:20:20.393Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "arq:c16c740c-05c2-4c12-b6bc-03e469052f45"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 107,
+    "intern": 106,
     "new-grad": 17,
-    "experienced": 2210
+    "experienced": 2209
   },
   "companies": [
     {
@@ -373,7 +375,7 @@
     {
       "name": "ARQ",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -387,7 +389,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1774,7 +1776,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1962,7 +1964,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4826,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5112,7 +5114,7 @@
     {
       "name": "Together AI",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "c16c740c-05c2-4c12-b6bc-03e469052f45",
+      "title": "Security Engineer | Generalist",
+      "location": "London (+3 more)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/arq/c16c740c-05c2-4c12-b6bc-03e469052f45",
+      "postedAt": "2026-11-06T16:18:13.953Z",
+      "key": "arq:c16c740c-05c2-4c12-b6bc-03e469052f45",
+      "company": "ARQ",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T16:20:20.393Z"
+    },
     {
       "id": "bd1ac97f-20f9-4727-9f92-7064035a416f",
       "title": "Data Scientist, Preparedness",
@@ -32445,28 +32463,6 @@
       "firstSeen": "2026-10-16T23:10:09.020Z"
     },
     {
-      "id": "5267197007",
-      "title": "Research Intern, Frontier Speculative Decoding (Winter 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267197007",
-      "postedAt": "2026-10-16T22:48:57.000Z",
-      "key": "togetherai:5267197007",
-      "company": "Together AI",
-      "level": "intern",
-      "term": {
-        "label": "Winter 2027",
-        "seasons": [
-          "winter"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T22:50:19.722Z"
-    },
-    {
       "id": "5267198007",
       "title": "Research Intern, Frontier Speculative Decoding (Summer 2027)",
       "location": "San Francisco",
@@ -41466,23 +41462,6 @@
       "firstSeen": "2026-10-08T04:10:16.156Z"
     },
     {
-      "id": "8687958002",
-      "title": "Senior Backend Engineer, Core DevOps: Container Registry",
-      "location": "Remote, Canada; Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687958002",
-      "postedAt": "2026-10-08T02:34:12.000Z",
-      "key": "gitlab:8687958002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-30T18:00:28.821Z"
-    },
-    {
       "id": "4716922006",
       "title": "Senior Product Security Engineer",
       "location": "United States - Remote",
@@ -42385,22 +42364,6 @@
         "us"
       ],
       "firstSeen": "2026-10-16T16:20:20.271Z"
-    },
-    {
-      "id": "8214792",
-      "title": "Workday Integration Developer",
-      "location": "Vancouver, BC",
-      "team": null,
-      "url": "https://www.asana.com/jobs/apply/8214792?gh_jid=8214792",
-      "postedAt": "2026-10-07T16:10:40.000Z",
-      "key": "asana:8214792",
-      "company": "Asana",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-20T19:50:16.459Z"
     },
     {
       "id": "R29100",
