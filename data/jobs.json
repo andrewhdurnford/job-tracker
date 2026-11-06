@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T04:10:19.774Z",
+  "generatedAt": "2026-11-06T04:20:21.328Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 119,
     "new-grad": 17,
-    "experienced": 2223
+    "experienced": 2222
   },
   "companies": [
     {
@@ -3083,7 +3083,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3769,7 +3769,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4719,10 +4719,10 @@
     },
     {
       "name": "Spotify",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sprinklr",
@@ -5105,7 +5105,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5482,10 +5482,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Weave",
@@ -25562,22 +25562,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T18:00:29.039Z"
-    },
-    {
-      "id": "8186869",
-      "title": "Software Engineer II (Fullstack), Digital Storefront",
-      "location": "US (remote)",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8186869",
-      "postedAt": "2026-10-23T17:50:16.000Z",
-      "key": "toast:8186869",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-02T23:40:30.869Z"
     },
     {
       "id": "6122975004",
