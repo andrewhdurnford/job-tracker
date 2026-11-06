@@ -1,18 +1,23 @@
 {
-  "generatedAt": "2026-11-06T19:10:22.460Z",
+  "generatedAt": "2026-11-06T19:20:20.278Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "samsara:8359947"
+    "braze:8359951",
+    "braze:8359913",
+    "braze:8359901",
+    "braze:8351214",
+    "samsara:8359978",
+    "tanium:8357200"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 108,
+    "intern": 107,
     "new-grad": 17,
-    "experienced": 2210
+    "experienced": 2211
   },
   "companies": [
     {
@@ -690,7 +695,7 @@
     {
       "name": "Braze",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -788,7 +793,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 158,
+      "jobCount": 157,
       "error": null,
       "stale": false
     },
@@ -1537,7 +1542,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -1964,7 +1969,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4099,7 +4104,7 @@
     {
       "name": "Recursion",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4698,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 82,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4974,7 +4979,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5483,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5707,102 @@
   ],
   "jobs": [
     {
+      "id": "8359951",
+      "title": "AI Architect",
+      "location": "Austin",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8359951",
+      "postedAt": "2026-11-06T19:18:10.000Z",
+      "key": "braze:8359951",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T19:20:20.278Z"
+    },
+    {
+      "id": "8359913",
+      "title": "AI Architect",
+      "location": "Chicago",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8359913",
+      "postedAt": "2026-11-06T19:18:08.000Z",
+      "key": "braze:8359913",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T19:20:20.278Z"
+    },
+    {
+      "id": "8359901",
+      "title": "AI Architect",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8359901",
+      "postedAt": "2026-11-06T19:18:06.000Z",
+      "key": "braze:8359901",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T19:20:20.278Z"
+    },
+    {
+      "id": "8351214",
+      "title": "AI Architect",
+      "location": "New York City",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/braze/jobs/8351214",
+      "postedAt": "2026-11-06T19:18:04.000Z",
+      "key": "braze:8351214",
+      "company": "Braze",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T19:20:20.278Z"
+    },
+    {
+      "id": "8357200",
+      "title": "Senior Software Engineer, AI Security",
+      "location": "Durham, NC (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8357200",
+      "postedAt": "2026-11-06T19:12:48.000Z",
+      "key": "tanium:8357200",
+      "company": "Tanium",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T19:20:20.278Z"
+    },
+    {
+      "id": "8359978",
+      "title": "Firmware Engineer ",
+      "location": "Remote - Austin; Remote - Seattle; San Francisco, CA, United States",
+      "team": null,
+      "url": "https://www.samsara.com/company/careers/roles/8359978?gh_jid=8359978",
+      "postedAt": "2026-11-06T19:10:26.000Z",
+      "key": "samsara:8359978",
+      "company": "Samsara",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T19:20:20.278Z"
+    },
+    {
       "id": "8359947",
       "title": "Manager, Firmware Engineering",
       "location": "Remote - US",
@@ -5720,7 +5821,7 @@
     {
       "id": "e8924882-1020-440f-8a1b-511262040fcf",
       "title": "Senior Software Engineer, Database",
-      "location": "Remote Canada",
+      "location": "Remote Canada (+2 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/Influxdata/e8924882-1020-440f-8a1b-511262040fcf",
       "postedAt": "2026-11-06T18:49:38.295Z",
@@ -8207,22 +8308,6 @@
         "remote"
       ],
       "firstSeen": "2026-11-05T22:00:35.682Z"
-    },
-    {
-      "id": "8927630002",
-      "title": "Principal Field Security Engineer (US)",
-      "location": "Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8927630002",
-      "postedAt": "2026-11-05T14:35:04.000Z",
-      "key": "gitlab:8927630002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T14:40:22.460Z"
     },
     {
       "id": "R1005246",
@@ -19266,22 +19351,6 @@
       "firstSeen": "2026-10-30T23:20:19.952Z"
     },
     {
-      "id": "8246034",
-      "title": "Firmware Engineer ",
-      "location": "Remote - Austin; Remote - Seattle; San Francisco, CA, United States",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8246034?gh_jid=8246034",
-      "postedAt": "2026-10-30T22:52:56.000Z",
-      "key": "samsara:8246034",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:00:32.030Z"
-    },
-    {
       "id": "8925985002",
       "title": "OT Network Engineer, Mission Systems",
       "location": "Memphis, TN",
@@ -24924,22 +24993,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T14:40:23.256Z"
-    },
-    {
-      "id": "R1004094",
-      "title": "Full-stack Engineer 4",
-      "location": "McLean, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1004094-2",
-      "postedAt": "2026-10-26T14:00:35.310Z",
-      "key": "Capital One:R1004094",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T14:00:31.633Z"
     },
     {
       "id": "R1003961",
@@ -42288,60 +42341,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T19:50:18.046Z"
-    },
-    {
-      "id": "8262864",
-      "title": "Staff Engineer, Identity & Access Management (IAM)",
-      "location": "Remote Opportunity - United States; Salt Lake City, Utah",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/recursionpharmaceuticals/jobs/8262864",
-      "postedAt": "2026-10-07T19:18:53.000Z",
-      "key": "recursionpharmaceuticals:8262864",
-      "company": "Recursion",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T19:20:18.264Z"
-    },
-    {
-      "id": "c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
-      "title": "Full-Stack Engineer (Backend Leaning)",
-      "location": "United Kingdom (+12 more)",
-      "team": "STT",
-      "url": "https://jobs.ashbyhq.com/ElevenLabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
-      "postedAt": "2026-10-07T19:11:45.370Z",
-      "key": "elevenlabs:c7d59014-b918-4c15-ae33-79f5c9f2cf9f",
-      "company": "ElevenLabs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T19:20:18.264Z"
-    },
-    {
-      "id": "8227633",
-      "title": "2027 Summer Intern, MS/PhD, Perception, Robotics",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8227633",
-      "postedAt": "2026-10-07T19:11:14.000Z",
-      "key": "waymo:8227633",
-      "company": "Waymo",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T19:20:18.264Z"
     },
     {
       "id": "R1003160",
