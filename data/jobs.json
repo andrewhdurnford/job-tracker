@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-06T03:30:24.389Z",
+  "generatedAt": "2026-11-06T03:40:19.176Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "wafer:6efae52e-2a06-4702-86db-c169c37c206c",
+    "wafer:0ca12c04-1f3f-4131-ad38-0c1287be8643"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 119,
     "new-grad": 17,
-    "experienced": 2222
+    "experienced": 2224
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3083,7 +3086,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5441,7 +5444,7 @@
     {
       "name": "Wafer",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "0ca12c04-1f3f-4131-ad38-0c1287be8643",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/wafer/0ca12c04-1f3f-4131-ad38-0c1287be8643",
+      "postedAt": "2026-11-06T03:35:10.401Z",
+      "key": "wafer:0ca12c04-1f3f-4131-ad38-0c1287be8643",
+      "company": "Wafer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T03:40:19.176Z"
+    },
+    {
+      "id": "6efae52e-2a06-4702-86db-c169c37c206c",
+      "title": "Developer Advocate",
+      "location": "San Francisco",
+      "team": "Go To Market",
+      "url": "https://jobs.ashbyhq.com/wafer/6efae52e-2a06-4702-86db-c169c37c206c",
+      "postedAt": "2026-11-06T03:33:45.093Z",
+      "key": "wafer:6efae52e-2a06-4702-86db-c169c37c206c",
+      "company": "Wafer",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T03:40:19.176Z"
+    },
     {
       "id": "8356881",
       "title": "Senior Data Scientist",
