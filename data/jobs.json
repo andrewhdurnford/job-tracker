@@ -1,14 +1,10 @@
 {
-  "generatedAt": "2026-11-06T20:20:20.519Z",
+  "generatedAt": "2026-11-06T20:30:27.112Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "cohere:735f26a3-9456-49e2-8f84-23804534cfe4",
-    "cohere:8f60b8e2-55b9-4258-a4cc-813273161f97",
-    "givecampus:4479171009",
-    "influxdata:fcb65380-7c27-45bf-9951-243783e0e7c3",
-    "spacex:8933873002",
-    "temporal:011bf96a-0e14-4b61-9fb9-b19ef6705a71"
+    "oscar:8256400",
+    "uipath:6a2c70cc-6106-4df8-ab2d-5cc550acc572"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +13,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 16,
-    "experienced": 2220
+    "experienced": 2221
   },
   "companies": [
     {
@@ -598,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -941,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2151,7 +2147,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3544,7 +3540,7 @@
     {
       "name": "Oscar Health",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5259,7 +5255,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6a2c70cc-6106-4df8-ab2d-5cc550acc572",
+      "title": "Senior Software Engineer -AI",
+      "location": "Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/uipath/6a2c70cc-6106-4df8-ab2d-5cc550acc572",
+      "postedAt": "2026-11-06T20:27:26.788Z",
+      "key": "uipath:6a2c70cc-6106-4df8-ab2d-5cc550acc572",
+      "company": "UiPath",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T20:30:27.112Z"
+    },
+    {
+      "id": "8256400",
+      "title": "Senior Data Scientist, Fraud",
+      "location": "New York, New York, United States",
+      "team": null,
+      "url": "https://oscarhealth.com/careers/jobs?gh_jid=8256400",
+      "postedAt": "2026-11-06T20:22:56.000Z",
+      "key": "oscar:8256400",
+      "company": "Oscar Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T20:30:27.112Z"
+    },
     {
       "id": "fcb65380-7c27-45bf-9951-243783e0e7c3",
       "title": "Senior Staff Engineer",
@@ -42438,22 +42466,6 @@
         "us"
       ],
       "firstSeen": "2026-10-30T21:10:29.946Z"
-    },
-    {
-      "id": "b434ac30-8288-417a-96b0-29fa8dac7d58",
-      "title": "Software Engineer I, Build Review & Test",
-      "location": "San Francisco, CA",
-      "team": "HAI Engineering",
-      "url": "https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58",
-      "postedAt": "2026-10-07T20:22:50.985Z",
-      "key": "handshake:b434ac30-8288-417a-96b0-29fa8dac7d58",
-      "company": "Handshake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T20:30:22.619Z"
     },
     {
       "id": "a15e328f-5270-4f18-ae2e-fe92ac8276f5",
