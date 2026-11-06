@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-06T16:40:19.659Z",
+  "generatedAt": "2026-11-06T16:50:27.936Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "tanium:8335147",
+    "toast:8301214"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 17,
-    "experienced": 2206
+    "experienced": 2207
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1962,7 +1965,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4972,7 +4975,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5105,7 +5108,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8301214",
+      "title": "Senior Software Engineer, Business Map",
+      "location": "Remote USA ",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8301214",
+      "postedAt": "2026-11-06T16:47:20.000Z",
+      "key": "toast:8301214",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T16:50:27.936Z"
+    },
+    {
+      "id": "8335147",
+      "title": "Applied AI Engineer II",
+      "location": "Addison, TX (Hybrid); Durham, NC (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8335147",
+      "postedAt": "2026-11-06T16:46:38.000Z",
+      "key": "tanium:8335147",
+      "company": "Tanium",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T16:50:27.936Z"
+    },
     {
       "id": "8358786",
       "title": "Software Engineering Internship - San Francisco ",
@@ -42248,23 +42283,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T17:20:19.150Z"
-    },
-    {
-      "id": "8871406002",
-      "title": "Senior CX Platform Engineer",
-      "location": "Remote, Canada; Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871406002",
-      "postedAt": "2026-10-07T16:49:26.000Z",
-      "key": "gitlab:8871406002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-07T16:50:18.500Z"
     },
     {
       "id": "R1003140",
