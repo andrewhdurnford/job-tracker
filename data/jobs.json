@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T17:30:26.909Z",
+  "generatedAt": "2026-11-06T17:40:22.477Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "boxinc:8318473",
-    "Capital One:R1005333"
+    "Capital One:R1005338",
+    "DocuSign:30645"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 17,
-    "experienced": 2216
+    "experienced": 2214
   },
   "companies": [
     {
@@ -789,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 157,
+      "jobCount": 158,
       "error": null,
       "stale": false
     },
@@ -1426,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1454,7 +1454,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -1692,7 +1692,7 @@
     {
       "name": "Fastly",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 83,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4829,7 +4829,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4925,10 +4925,10 @@
     },
     {
       "name": "Synapticure",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sysdig",
@@ -5108,7 +5108,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5479,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "R1005338",
+      "title": "Full-stack Engineer 5",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-5_R1005338-1",
+      "postedAt": "2026-11-06T17:40:25.939Z",
+      "key": "Capital One:R1005338",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T17:40:22.477Z"
+    },
+    {
       "id": "R1005333",
       "title": "Full-stack Engineer 4",
       "location": "Plano, TX",
@@ -5717,6 +5733,22 @@
         "us"
       ],
       "firstSeen": "2026-11-06T17:30:26.909Z"
+    },
+    {
+      "id": "30645",
+      "title": "Lead Data Engineer",
+      "location": "US-SFO-Main",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30645/login",
+      "postedAt": "2026-11-06T17:29:00.000Z",
+      "key": "DocuSign:30645",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T17:40:22.477Z"
     },
     {
       "id": "4727959006",
@@ -7949,22 +7981,6 @@
       "postedAt": "2026-11-05T15:25:07.300Z",
       "key": "rogo:53360d09-8b16-45ab-b1a4-0575fa3733f1",
       "company": "Rogo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T15:30:30.177Z"
-    },
-    {
-      "id": "8355717",
-      "title": "Full Stack Engineer, Applied AI",
-      "location": "San Francisco, CA; Sunnyvale, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8355717",
-      "postedAt": "2026-11-05T15:22:38.000Z",
-      "key": "doordashusa:8355717",
-      "company": "DoorDash",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -25681,22 +25697,6 @@
       "firstSeen": "2026-10-23T19:50:16.038Z"
     },
     {
-      "id": "8162174",
-      "title": "Senior Software Engineer, Consumer",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8162174",
-      "postedAt": "2026-10-23T19:36:36.000Z",
-      "key": "toast:8162174",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T19:40:16.758Z"
-    },
-    {
       "id": "8908846002",
       "title": "Mission Integration Engineer, Mission and Ground Systems - Top Secret Clearance",
       "location": "Hawthorne, CA",
@@ -42379,38 +42379,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T17:50:23.019Z"
-    },
-    {
-      "id": "7917911",
-      "title": "Senior Software Engineer,  Real-Time Communication Infrastructure",
-      "location": "Mountain View, CA, USA",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=7917911",
-      "postedAt": "2026-10-07T17:38:12.000Z",
-      "key": "waymo:7917911",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T17:40:16.982Z"
-    },
-    {
-      "id": "8260015",
-      "title": "Senior Software Engineer, Platform Security",
-      "location": "Denver, CO; New York City, NY; San Francisco, CA",
-      "team": null,
-      "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8260015",
-      "postedAt": "2026-10-07T17:34:30.000Z",
-      "key": "fastly:8260015",
-      "company": "Fastly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T17:40:16.982Z"
     },
     {
       "id": "R1003140",
