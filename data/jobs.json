@@ -1,18 +1,17 @@
 {
-  "generatedAt": "2026-11-06T21:00:30.744Z",
+  "generatedAt": "2026-11-06T21:10:21.703Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "databricks:8907988002",
-    "waymo:8358262",
-    "waymo:8351210"
+    "coinbase:8347602",
+    "DocuSign:30587"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 109,
+    "intern": 110,
     "new-grad": 16,
     "experienced": 2215
   },
@@ -790,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 160,
+      "jobCount": 159,
       "error": null,
       "stale": false
     },
@@ -1056,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -1427,7 +1426,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -1757,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5704,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "8347602",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8347602?gh_jid=8347602",
+      "postedAt": "2026-11-06T21:01:16.000Z",
+      "key": "coinbase:8347602",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T21:10:21.703Z"
+    },
+    {
+      "id": "30587",
+      "title": "Agentic AI Engineer Intern",
+      "location": "US-SFO-Main",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/30587/login",
+      "postedAt": "2026-11-06T21:00:00.000Z",
+      "key": "DocuSign:30587",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T21:10:21.703Z"
+    },
+    {
       "id": "8351210",
       "title": "2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation",
       "location": "Mountain View, California, United States",
@@ -6513,7 +6544,7 @@
     },
     {
       "id": "8f60b8e2-55b9-4258-a4cc-813273161f97",
-      "title": "Staff Software Engineer, ML Workload Platform",
+      "title": "Software Engineer, ML Workload Platform",
       "location": "Canada (+1 more)",
       "team": "Engineering & Infra",
       "url": "https://jobs.ashbyhq.com/cohere/8f60b8e2-55b9-4258-a4cc-813273161f97",
@@ -43071,22 +43102,6 @@
         "us"
       ],
       "firstSeen": "2026-09-23T17:10:20.281Z"
-    },
-    {
-      "id": "R1001376",
-      "title": "Full Stack Engineer 4",
-      "location": "Richmond, VA",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4_R1001376",
-      "postedAt": "2026-09-23T15:10:22.350Z",
-      "key": "Capital One:R1001376",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-23T15:10:18.682Z"
     },
     {
       "id": "R1001741",
