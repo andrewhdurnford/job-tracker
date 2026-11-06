@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-06T18:50:19.657Z",
+  "generatedAt": "2026-11-06T19:00:33.785Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "duolingo:8928712002",
-    "notion:43ffba97-b64a-4c6a-ac13-c803253c9413",
-    "notion:27090d0f-07d3-419b-adaa-837b5e22f947"
+    "illumio:c8eaf0a7-64e3-4132-a7e9-6a06e008ca16",
+    "influxdata:e8924882-1020-440f-8a1b-511262040fcf"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -307,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -2344,7 +2343,7 @@
     {
       "name": "Illumio",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -2386,7 +2385,7 @@
     {
       "name": "InfluxData",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2890,7 +2889,7 @@
     {
       "name": "Mariana Minerals",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 82,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "e8924882-1020-440f-8a1b-511262040fcf",
+      "title": "Senior Software Engineer, Database",
+      "location": "Remote Canada",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/Influxdata/e8924882-1020-440f-8a1b-511262040fcf",
+      "postedAt": "2026-11-06T18:49:38.295Z",
+      "key": "influxdata:e8924882-1020-440f-8a1b-511262040fcf",
+      "company": "InfluxData",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-06T19:00:33.785Z"
+    },
     {
       "id": "8928712002",
       "title": "AI Research Intern (PhD)",
@@ -41001,6 +41016,22 @@
       "firstSeen": "2026-10-08T19:20:16.566Z"
     },
     {
+      "id": "c8eaf0a7-64e3-4132-a7e9-6a06e008ca16",
+      "title": "Sr. Marketing Operations Analyst/Developer",
+      "location": "Sunnyvale, California - HQ",
+      "team": "Marketing",
+      "url": "https://jobs.ashbyhq.com/illumio/c8eaf0a7-64e3-4132-a7e9-6a06e008ca16",
+      "postedAt": "2026-10-08T19:00:57.206Z",
+      "key": "illumio:c8eaf0a7-64e3-4132-a7e9-6a06e008ca16",
+      "company": "Illumio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T19:00:33.785Z"
+    },
+    {
       "id": "4438176009",
       "title": "Director of Engineering, Cloud Platform",
       "location": "New York, NY (Hybrid)",
@@ -42312,38 +42343,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-30T18:50:19.603Z"
-    },
-    {
-      "id": "5444482008",
-      "title": "Manager, Applied AI Architecture, Enterprise Tech",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444482008",
-      "postedAt": "2026-10-07T19:00:01.000Z",
-      "key": "anthropic:5444482008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T19:00:24.543Z"
-    },
-    {
-      "id": "8cd9a944-4988-4147-b373-8bb730730804",
-      "title": "Staff Mining Engineer ",
-      "location": "Moab, UT (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/marianaminerals/8cd9a944-4988-4147-b373-8bb730730804",
-      "postedAt": "2026-10-07T18:54:39.554Z",
-      "key": "marianaminerals:8cd9a944-4988-4147-b373-8bb730730804",
-      "company": "Mariana Minerals",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T19:00:24.543Z"
     },
     {
       "id": "R1003160",
