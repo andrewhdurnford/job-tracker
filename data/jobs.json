@@ -1,19 +1,20 @@
 {
-  "generatedAt": "2026-11-06T14:20:20.412Z",
+  "generatedAt": "2026-11-06T14:30:27.248Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "grafanalabs:6250631004",
-    "grafanalabs:6250630004"
+    "grafanalabs:6250634004",
+    "grafanalabs:6250633004",
+    "waymo:8350832"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 115,
+    "intern": 116,
     "new-grad": 17,
-    "experienced": 2213
+    "experienced": 2215
   },
   "companies": [
     {
@@ -594,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2056,7 +2057,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,60 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6250633004",
+      "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | Spain | Remote",
+      "location": "Spain (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6250633004",
+      "postedAt": "2026-11-06T14:30:23.000Z",
+      "key": "grafanalabs:6250633004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-06T14:30:27.248Z"
+    },
+    {
+      "id": "6250634004",
+      "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | Ireland | Remote",
+      "location": "Republic of Ireland (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6250634004",
+      "postedAt": "2026-11-06T14:27:27.000Z",
+      "key": "grafanalabs:6250634004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-06T14:30:27.248Z"
+    },
+    {
+      "id": "8350832",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "location": "San Francisco, California, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
+      "postedAt": "2026-11-06T14:21:23.000Z",
+      "key": "waymo:8350832",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T14:30:27.248Z"
+    },
     {
       "id": "6250631004",
       "title": "Senior Full Stack Engineer | Database Observability, Grafana Cloud | Germany | Remote",
@@ -27447,7 +27502,7 @@
     {
       "id": "f8ad7551-a960-4729-992c-b8717211a726",
       "title": "Staff Customer Reliability Engineer",
-      "location": "Flexible - USA",
+      "location": "Flexible - USA (+1 more)",
       "team": "SUPPORT ENGINEER",
       "url": "https://jobs.lever.co/sysdig/f8ad7551-a960-4729-992c-b8717211a726",
       "postedAt": "2026-10-22T09:31:21.710Z",
