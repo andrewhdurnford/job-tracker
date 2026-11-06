@@ -1,18 +1,20 @@
 {
-  "generatedAt": "2026-11-06T20:50:21.821Z",
+  "generatedAt": "2026-11-06T21:00:30.744Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "natera:6233837004"
+    "databricks:8907988002",
+    "waymo:8358262",
+    "waymo:8351210"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 107,
+    "intern": 109,
     "new-grad": 16,
-    "experienced": 2219
+    "experienced": 2215
   },
   "companies": [
     {
@@ -1985,7 +1987,7 @@
     {
       "name": "Glean",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4015,7 +4017,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5478,16 +5480,16 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
     {
       "name": "Wealthfront",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Weave",
@@ -5701,6 +5703,50 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8351210",
+      "title": "2027 Summer Intern, PhD, Machine Learning - Generative World Models & Controllable Simulation",
+      "location": "Mountain View, California, United States",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8351210",
+      "postedAt": "2026-11-06T20:59:41.000Z",
+      "key": "waymo:8351210",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T21:00:30.744Z"
+    },
+    {
+      "id": "8358262",
+      "title": "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model) ",
+      "location": "Mountain View, California, United States",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8358262",
+      "postedAt": "2026-11-06T20:50:56.000Z",
+      "key": "waymo:8358262",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T21:00:30.744Z"
+    },
     {
       "id": "6a2c70cc-6106-4df8-ab2d-5cc550acc572",
       "title": "Senior Software Engineer -AI",
@@ -6628,7 +6674,7 @@
     },
     {
       "id": "735f26a3-9456-49e2-8f84-23804534cfe4",
-      "title": "Staff Software Engineer, GPU Infrastructure",
+      "title": "Software Engineer, GPU Infrastructure",
       "location": "Seattle (+3 more)",
       "team": "Engineering & Infra",
       "url": "https://jobs.ashbyhq.com/cohere/735f26a3-9456-49e2-8f84-23804534cfe4",
@@ -26803,54 +26849,6 @@
       "firstSeen": "2026-10-23T00:20:16.507Z"
     },
     {
-      "id": "4746910005",
-      "title": "Software Engineer",
-      "location": "Mountain View, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4746910005",
-      "postedAt": "2026-10-23T00:12:44.000Z",
-      "key": "gleanwork:4746910005",
-      "company": "Glean",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T00:20:16.507Z"
-    },
-    {
-      "id": "4746918005",
-      "title": "Software Engineer",
-      "location": "Mountain View, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4746918005",
-      "postedAt": "2026-10-23T00:12:42.000Z",
-      "key": "gleanwork:4746918005",
-      "company": "Glean",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T00:20:16.507Z"
-    },
-    {
-      "id": "4746919005",
-      "title": "Software Engineer",
-      "location": "Mountain View, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4746919005",
-      "postedAt": "2026-10-23T00:12:40.000Z",
-      "key": "gleanwork:4746919005",
-      "company": "Glean",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T00:20:16.507Z"
-    },
-    {
       "id": "4746908005",
       "title": "AI Engineer - Data and Evals",
       "location": "San Francisco Bay Area",
@@ -27955,6 +27953,22 @@
         "us"
       ],
       "firstSeen": "2026-10-22T13:50:17.049Z"
+    },
+    {
+      "id": "8907988002",
+      "title": "Associate Forward Deployed Engineer",
+      "location": "New York City, New York",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+      "postedAt": "2026-10-22T13:31:19.000Z",
+      "key": "databricks:8907988002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T21:00:30.744Z"
     },
     {
       "id": "R1004280",
@@ -42417,38 +42431,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T21:00:43.643Z"
-    },
-    {
-      "id": "8824173002",
-      "title": "Skills Systems Architect",
-      "location": "United States",
-      "team": null,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8824173002",
-      "postedAt": "2026-10-07T20:56:46.000Z",
-      "key": "databricks:8824173002",
-      "company": "Databricks",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T21:00:43.643Z"
-    },
-    {
-      "id": "a15e328f-5270-4f18-ae2e-fe92ac8276f5",
-      "title": "Cleared IT Infrastructure Engineer",
-      "location": "Denver, CO",
-      "team": "Operations",
-      "url": "https://jobs.ashbyhq.com/quindar/a15e328f-5270-4f18-ae2e-fe92ac8276f5",
-      "postedAt": "2026-10-07T19:43:33.672Z",
-      "key": "quindar:a15e328f-5270-4f18-ae2e-fe92ac8276f5",
-      "company": "Quindar",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T19:50:18.046Z"
     },
     {
       "id": "R1003160",
