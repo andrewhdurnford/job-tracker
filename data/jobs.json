@@ -1,17 +1,16 @@
 {
-  "generatedAt": "2026-11-06T22:20:24.454Z",
+  "generatedAt": "2026-11-06T22:30:29.426Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "clickup:f919c7fa-88b9-4c7d-9990-153cd26e014f",
-    "wrapbook:0e33bea5-8133-4e9b-885b-ca11bef934fb"
+    "astranis:4704571006"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 111,
+    "intern": 112,
     "new-grad": 16,
     "experienced": 2214
   },
@@ -432,7 +431,7 @@
     {
       "name": "Astranis",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1756,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4829,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5702,6 +5701,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4704571006",
+      "title": "Embedded Software Developer, Network/Payload Intern (Winter 2027)",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704571006",
+      "postedAt": "2026-11-06T22:30:11.000Z",
+      "key": "astranis:4704571006",
+      "company": "Astranis",
+      "level": "intern",
+      "term": {
+        "label": "Winter 2027",
+        "seasons": [
+          "winter"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T22:30:29.426Z"
+    },
     {
       "id": "f919c7fa-88b9-4c7d-9990-153cd26e014f",
       "title": "Senior Security Engineer, Infrastructure Security",
