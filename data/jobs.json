@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-06T19:40:19.776Z",
+  "generatedAt": "2026-11-06T19:50:21.364Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "openai:a12c3c93-51df-437d-862f-4892367fea32",
-    "openai:218c0b55-53bd-4df6-805d-321a8c2e7db7"
+    "Capital One:R1003642",
+    "coupang:8356962",
+    "goteleport:67257887-5704-479c-92eb-14a89e0d3412"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 17,
-    "experienced": 2213
+    "experienced": 2215
   },
   "companies": [
     {
@@ -594,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 158,
+      "jobCount": 159,
       "error": null,
       "stale": false
     },
@@ -937,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1202,7 +1203,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4800,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5010,7 +5011,7 @@
     {
       "name": "Teleport",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1003642",
+      "title": "Full-stack Engineer 4",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-stack-Engineer-4_R1003642-1",
+      "postedAt": "2026-11-06T19:50:24.981Z",
+      "key": "Capital One:R1003642",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T19:50:21.364Z"
+    },
+    {
+      "id": "8356962",
+      "title": "Staff Machine Learning Engineer, Offsite Ads",
+      "location": "Mountain View, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8356962",
+      "postedAt": "2026-11-06T19:45:35.000Z",
+      "key": "coupang:8356962",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T19:50:21.364Z"
+    },
+    {
+      "id": "67257887-5704-479c-92eb-14a89e0d3412",
+      "title": "Senior Backend Engineer - Cloud Platform",
+      "location": "United States (Remote)",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/goteleport/67257887-5704-479c-92eb-14a89e0d3412",
+      "postedAt": "2026-11-06T19:43:18.282Z",
+      "key": "goteleport:67257887-5704-479c-92eb-14a89e0d3412",
+      "company": "Teleport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T19:50:21.364Z"
+    },
     {
       "id": "218c0b55-53bd-4df6-805d-321a8c2e7db7",
       "title": "Forward Deployed Engineer (FDE), Life Sciences - SF",
@@ -42337,22 +42386,6 @@
         "us"
       ],
       "firstSeen": "2026-10-07T20:00:23.931Z"
-    },
-    {
-      "id": "8243615",
-      "title": "Staff Machine Learning Engineer, Radar",
-      "location": "US",
-      "team": "8525 Radar - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8243615",
-      "postedAt": "2026-10-07T19:43:57.000Z",
-      "key": "stripe:8243615",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-07T19:50:18.046Z"
     },
     {
       "id": "a15e328f-5270-4f18-ae2e-fe92ac8276f5",
