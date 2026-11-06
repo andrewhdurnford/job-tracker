@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-06T18:40:21.529Z",
+  "generatedAt": "2026-11-06T18:50:19.657Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "ashby:5d4863d7-e1d9-4f4e-aed4-79d558185ac9",
-    "ashby:7f0f3837-3433-4ffe-8842-f3dbc3b621da",
-    "Nvidia:JR2028267"
+    "duolingo:8928712002",
+    "notion:43ffba97-b64a-4c6a-ac13-c803253c9413",
+    "notion:27090d0f-07d3-419b-adaa-837b5e22f947"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 105,
+    "intern": 108,
     "new-grad": 17,
-    "experienced": 2211
+    "experienced": 2210
   },
   "companies": [
     {
@@ -595,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1490,7 +1490,7 @@
     {
       "name": "Duolingo",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3373,7 +3373,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3625,7 +3625,7 @@
     {
       "name": "Pelago",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,66 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8928712002",
+      "title": "AI Research Intern (PhD)",
+      "location": "New York, NY; Pittsburgh, PA",
+      "team": null,
+      "url": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002",
+      "postedAt": "2026-11-06T18:45:51.000Z",
+      "key": "duolingo:8928712002",
+      "company": "Duolingo",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T18:50:19.657Z"
+    },
+    {
+      "id": "43ffba97-b64a-4c6a-ac13-c803253c9413",
+      "title": "Software Engineering Intern, Frontend (Summer 2027)",
+      "location": "New York, New York",
+      "team": "Early Career",
+      "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+      "postedAt": "2026-11-06T18:42:11.019Z",
+      "key": "notion:43ffba97-b64a-4c6a-ac13-c803253c9413",
+      "company": "Notion",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T18:50:19.657Z"
+    },
+    {
+      "id": "27090d0f-07d3-419b-adaa-837b5e22f947",
+      "title": "Software Engineering Intern, iOS (Summer 2027)",
+      "location": "New York, New York",
+      "team": "Early Career",
+      "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947",
+      "postedAt": "2026-11-06T18:41:27.009Z",
+      "key": "notion:27090d0f-07d3-419b-adaa-837b5e22f947",
+      "company": "Notion",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-06T18:50:19.657Z"
+    },
     {
       "id": "JR2028267",
       "title": "Principal Site Reliability Engineer",
@@ -22873,22 +22933,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-27T20:50:18.704Z"
-    },
-    {
-      "id": "5277544007",
-      "title": "Product Engineer, Platform",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/pelago/jobs/5277544007",
-      "postedAt": "2026-10-27T20:26:17.000Z",
-      "key": "pelago:5277544007",
-      "company": "Pelago",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T20:30:22.897Z"
     },
     {
       "id": "R1004606",
