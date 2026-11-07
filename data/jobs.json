@@ -1,21 +1,18 @@
 {
-  "generatedAt": "2026-11-07T00:20:20.004Z",
+  "generatedAt": "2026-11-07T00:30:25.241Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Nvidia:JR2024825",
-    "Nvidia:JR2029457",
-    "Nvidia:JR2025019",
-    "Visa:REF089234W"
+    "spacex:8934146002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 112,
+    "intern": 111,
     "new-grad": 16,
-    "experienced": 2230
+    "experienced": 2231
   },
   "companies": [
     {
@@ -596,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1617,7 +1614,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4697,7 +4694,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 85,
+      "jobCount": 86,
       "error": null,
       "stale": false
     },
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8934146002",
+      "title": "Sr. Security Engineer (Vulnerability Management)",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934146002?gh_jid=8934146002",
+      "postedAt": "2026-11-07T00:26:50.000Z",
+      "key": "spacex:8934146002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-07T00:30:25.241Z"
+    },
     {
       "id": "JR2025019",
       "title": "Senior Linux Systems Engineer - EDA Infrastructure",
@@ -8693,7 +8706,7 @@
     {
       "id": "87bd8fc1-54ea-4bda-90fc-95a956ea92f5",
       "title": "Senior Infrastructure Engineer (Platform)",
-      "location": "Torrance, CA",
+      "location": "Torrance, CA (+1 more)",
       "team": "Infrastructure",
       "url": "https://jobs.ashbyhq.com/northwoodspace/87bd8fc1-54ea-4bda-90fc-95a956ea92f5",
       "postedAt": "2026-11-05T18:03:51.259Z",
@@ -42678,22 +42691,6 @@
         "us"
       ],
       "firstSeen": "2026-10-08T01:00:21.157Z"
-    },
-    {
-      "id": "6219626004",
-      "title": "SDET Intern",
-      "location": "Cary,North Carolina,United States",
-      "team": "QA",
-      "url": "https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004",
-      "postedAt": "2026-10-08T00:26:05.000Z",
-      "key": "epicgames:6219626004",
-      "company": "Epic Games",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T00:30:20.649Z"
     },
     {
       "id": "R169307",
