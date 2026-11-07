@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T21:40:20.914Z",
+  "generatedAt": "2026-11-07T21:50:20.102Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 105,
+    "intern": 103,
     "new-grad": 15,
-    "experienced": 2181
+    "experienced": 2180
   },
   "companies": [
     {
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2851,7 +2851,7 @@
     {
       "name": "Mach9",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4391,7 +4391,7 @@
     {
       "name": "Semgrep",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4972,7 +4972,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -41603,38 +41603,6 @@
       "firstSeen": "2026-10-22T20:30:24.711Z"
     },
     {
-      "id": "8250452",
-      "title": "Senior Security Engineer - Vulnerability Research ",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/8250452",
-      "postedAt": "2026-10-08T21:42:29.000Z",
-      "key": "tanium:8250452",
-      "company": "Tanium",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T21:48:56.673Z"
-    },
-    {
-      "id": "6189f940-38ab-4235-80fb-1dda13966435",
-      "title": "Perception Intern",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mach9/6189f940-38ab-4235-80fb-1dda13966435",
-      "postedAt": "2026-10-08T21:41:01.916Z",
-      "key": "mach9:6189f940-38ab-4235-80fb-1dda13966435",
-      "company": "Mach9",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T21:48:56.673Z"
-    },
-    {
       "id": "REF089084W",
       "title": "Staff Systems Engineer, Middleware Engineering",
       "location": "US - Austin, TX",
@@ -42641,22 +42609,6 @@
         "us"
       ],
       "firstSeen": "2026-09-10T02:10:17.559Z"
-    },
-    {
-      "id": "8e64dc7f-e925-4361-86d5-b01ee518c987",
-      "title": "Software Engineer Intern",
-      "location": "San Francisco Office",
-      "team": "Engineering Org",
-      "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987",
-      "postedAt": "2026-09-08T17:06:58.501Z",
-      "key": "semgrep:8e64dc7f-e925-4361-86d5-b01ee518c987",
-      "company": "Semgrep",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-08T17:10:19.398Z"
     },
     {
       "id": "26c3535f-fcaa-4419-8272-43faa00582f1",
