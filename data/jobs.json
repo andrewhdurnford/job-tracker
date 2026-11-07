@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:00:28.645Z",
+  "generatedAt": "2026-11-07T11:10:20.310Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -2360,10 +2360,10 @@
     },
     {
       "name": "Included Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inferact",
@@ -3083,7 +3083,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
