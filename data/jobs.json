@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T20:20:19.900Z",
+  "generatedAt": "2026-11-07T20:30:24.299Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 15,
-    "experienced": 2187
+    "experienced": 2186
   },
   "companies": [
     {
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4467,10 +4467,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 39,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -5315,7 +5315,7 @@
     {
       "name": "Valar Atomics",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -41761,22 +41761,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T00:10:18.370Z"
-    },
-    {
-      "id": "4432119009",
-      "title": "Production Quality Engineer",
-      "location": "Torrance, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4432119009",
-      "postedAt": "2026-10-08T20:24:45.000Z",
-      "key": "valaratomics:4432119009",
-      "company": "Valar Atomics",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-08T20:30:21.862Z"
     },
     {
       "id": "1a29f42d-e446-4ea0-a4f6-c3886e71ba7d",
