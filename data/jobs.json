@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-11-08T17:20:20.566Z",
+  "generatedAt": "2026-11-08T17:30:23.922Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa",
+    "shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 102,
-    "new-grad": 15,
-    "experienced": 2125
+    "new-grad": 17,
+    "experienced": 2122
   },
   "companies": [
     {
@@ -79,7 +82,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -3046,10 +3049,10 @@
     },
     {
       "name": "Mindy",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mirage",
@@ -4468,7 +4471,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -23863,6 +23866,22 @@
       "firstSeen": "2026-10-27T22:10:18.889Z"
     },
     {
+      "id": "f8e0f87f-0e12-4e05-a491-4e8272494896",
+      "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+      "location": "United States",
+      "team": "Flight System Integration",
+      "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896",
+      "postedAt": "2026-10-27T21:55:40.627Z",
+      "key": "shieldai:f8e0f87f-0e12-4e05-a491-4e8272494896",
+      "company": "Shield AI",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-08T17:30:23.922Z"
+    },
+    {
       "id": "8329332",
       "title": "Sr. Staff Engineer, Cloud Firewall",
       "location": "Santa Clara, California, United States",
@@ -23958,6 +23977,22 @@
         "us"
       ],
       "firstSeen": "2026-10-27T20:50:18.704Z"
+    },
+    {
+      "id": "af183d8c-51d0-40df-9c04-fbddae0d83aa",
+      "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
+      "location": "Washington, D.C.",
+      "team": "Flight System Integration",
+      "url": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa",
+      "postedAt": "2026-10-27T20:43:16.503Z",
+      "key": "shieldai:af183d8c-51d0-40df-9c04-fbddae0d83aa",
+      "company": "Shield AI",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-08T17:30:23.922Z"
     },
     {
       "id": "5462972008",
@@ -40704,54 +40739,6 @@
         "us"
       ],
       "firstSeen": "2026-10-09T18:00:26.997Z"
-    },
-    {
-      "id": "8003030003",
-      "title": "Software Engineer II, Backend (Batch Developer Experience)",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8003030003",
-      "postedAt": "2026-10-09T17:23:15.000Z",
-      "key": "affirm:8003030003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-09T17:30:21.936Z"
-    },
-    {
-      "id": "7995359003",
-      "title": "Staff Software Engineer, Backend (Fraud Decisioning) ",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7995359003",
-      "postedAt": "2026-10-09T17:22:38.000Z",
-      "key": "affirm:7995359003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-09T17:30:21.936Z"
-    },
-    {
-      "id": "7995361003",
-      "title": "Staff Software Engineer, Backend (Fraud Decisioning)",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/7995361003",
-      "postedAt": "2026-10-09T17:22:36.000Z",
-      "key": "affirm:7995361003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-09T17:30:21.936Z"
     },
     {
       "id": "8f4937e3-fe33-4fc2-a97d-4b9e90f77e2f",
