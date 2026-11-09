@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-09T22:20:21.265Z",
+  "generatedAt": "2026-11-09T22:30:24.834Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "boxinc:8351018",
-    "openai:b28b990c-54e4-4be4-a33a-d5518dc3e117",
-    "ramp:d1183b00-6590-4fe4-a585-28d84e578fe3"
+    "commure:40ffe9d2-8a7d-4504-9239-38ddd69a2e82",
+    "mercor:4b0920c5-49f9-4851-a8ca-26825ff570f8"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +13,7 @@
   "levelCounts": {
     "intern": 98,
     "new-grad": 16,
-    "experienced": 2135
+    "experienced": 2134
   },
   "companies": [
     {
@@ -595,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1091,7 +1090,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2974,7 +2973,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4640,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -4801,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4b0920c5-49f9-4851-a8ca-26825ff570f8",
+      "title": "Software Engineer, Applied AI- Evals",
+      "location": "San Francisco",
+      "team": "Applied AI",
+      "url": "https://jobs.ashbyhq.com/mercor/4b0920c5-49f9-4851-a8ca-26825ff570f8",
+      "postedAt": "2026-11-09T22:26:24.206Z",
+      "key": "mercor:4b0920c5-49f9-4851-a8ca-26825ff570f8",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T22:30:24.834Z"
+    },
+    {
+      "id": "40ffe9d2-8a7d-4504-9239-38ddd69a2e82",
+      "title": "Senior Engineering Manager, Ambient Product",
+      "location": "Mountain View, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/Commure/40ffe9d2-8a7d-4504-9239-38ddd69a2e82",
+      "postedAt": "2026-11-09T22:20:35.329Z",
+      "key": "commure:40ffe9d2-8a7d-4504-9239-38ddd69a2e82",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T22:30:24.834Z"
+    },
     {
       "id": "b28b990c-54e4-4be4-a33a-d5518dc3e117",
       "title": "Manager, Applied AI Engineering (Codex)",
@@ -7796,7 +7827,7 @@
     {
       "id": "a64e840b-caf7-4a41-8452-46f00e5a0b0a",
       "title": "Senior AI Developer",
-      "location": "United States of America",
+      "location": "United States",
       "team": "32010 Backend Engineering",
       "url": "https://jobs.ashbyhq.com/clickup/a64e840b-caf7-4a41-8452-46f00e5a0b0a",
       "postedAt": "2026-11-06T22:39:17.329Z",
@@ -7883,7 +7914,7 @@
     {
       "id": "f919c7fa-88b9-4c7d-9990-153cd26e014f",
       "title": "Senior Security Engineer, Infrastructure Security",
-      "location": "United States of America",
+      "location": "United States",
       "team": "32035 Security Engineering",
       "url": "https://jobs.ashbyhq.com/clickup/f919c7fa-88b9-4c7d-9990-153cd26e014f",
       "postedAt": "2026-11-06T22:17:27.355Z",
@@ -7963,7 +7994,7 @@
     {
       "id": "e0427449-025a-4619-a588-17f0020a9d73",
       "title": "Senior Security Engineer, DFIR",
-      "location": "United States of America",
+      "location": "United States",
       "team": "32035 Security Engineering",
       "url": "https://jobs.ashbyhq.com/clickup/e0427449-025a-4619-a588-17f0020a9d73",
       "postedAt": "2026-11-06T21:57:24.541Z",
@@ -12721,22 +12752,6 @@
       "firstSeen": "2026-11-04T02:20:19.652Z"
     },
     {
-      "id": "9850b749-fbbd-4e8d-854b-356538397da5",
-      "title": "Software Engineer - NatSec",
-      "location": "US-VA-McLean",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/9850b749-fbbd-4e8d-854b-356538397da5",
-      "postedAt": "2026-11-04T01:25:28.447Z",
-      "key": "snowflake:9850b749-fbbd-4e8d-854b-356538397da5",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T21:20:21.055Z"
-    },
-    {
       "id": "8333757",
       "title": "Staff Software Engineer, Government Products",
       "location": "New York, NY",
@@ -15740,38 +15755,6 @@
         "us"
       ],
       "firstSeen": "2026-11-02T19:10:20.339Z"
-    },
-    {
-      "id": "8346831",
-      "title": "Data Scientist, FX Quantitative Research",
-      "location": "New York, NY",
-      "team": "7112 Data Science",
-      "url": "https://stripe.com/jobs/search?gh_jid=8346831",
-      "postedAt": "2026-11-02T18:54:08.000Z",
-      "key": "stripe:8346831",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-02T19:00:28.288Z"
-    },
-    {
-      "id": "8346778",
-      "title": "Data Scientist, FX Quantitative Research",
-      "location": "Toronto",
-      "team": "7112 Data Science",
-      "url": "https://stripe.com/jobs/search?gh_jid=8346778",
-      "postedAt": "2026-11-02T18:49:07.000Z",
-      "key": "stripe:8346778",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-02T18:50:22.151Z"
     },
     {
       "id": "5280545007",
@@ -33008,7 +32991,7 @@
     {
       "id": "58cbf9f5-0686-437d-9356-34dff0048248",
       "title": "Senior Backend Engineer, Search",
-      "location": "United States of America",
+      "location": "United States",
       "team": "32010 Backend Engineering",
       "url": "https://jobs.ashbyhq.com/clickup/58cbf9f5-0686-437d-9356-34dff0048248",
       "postedAt": "2026-10-20T15:06:18.377Z",
