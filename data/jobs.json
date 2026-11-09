@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-09T20:40:23.110Z",
+  "generatedAt": "2026-11-09T20:50:24.353Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "boxinc:8267895",
-    "boxinc:8318475",
-    "Capital One:R1005455"
+    "1password:98e406c2-32cd-40fa-bc8d-fd0b7ad3eed7",
+    "CrowdStrike:R29897"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,13 +13,13 @@
   "levelCounts": {
     "intern": 96,
     "new-grad": 16,
-    "experienced": 2123
+    "experienced": 2125
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1245,7 +1244,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 85,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29897",
+      "title": "Sr. Network Development Engineer, IT Cloud & Infrastructure (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Network-Development-Engineer--IT-Cloud---Infrastructure--Remote-_R29897",
+      "postedAt": "2026-11-09T20:50:30.335Z",
+      "key": "CrowdStrike:R29897",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T20:50:24.353Z"
+    },
+    {
+      "id": "98e406c2-32cd-40fa-bc8d-fd0b7ad3eed7",
+      "title": "Senior Developer, Billing Platform",
+      "location": "Remote (United States | Canada)",
+      "team": "Product Engineering",
+      "url": "https://jobs.ashbyhq.com/1password/98e406c2-32cd-40fa-bc8d-fd0b7ad3eed7",
+      "postedAt": "2026-11-09T20:43:46.811Z",
+      "key": "1password:98e406c2-32cd-40fa-bc8d-fd0b7ad3eed7",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-09T20:50:24.353Z"
+    },
     {
       "id": "R1005455",
       "title": "Full Stack Engineer 5",
