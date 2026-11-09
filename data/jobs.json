@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-09T15:50:21.234Z",
+  "generatedAt": "2026-11-09T16:00:30.512Z",
   "bootstrap": false,
   "lastRunNewCount": 5,
   "newKeys": [
-    "CrowdStrike:R29845",
-    "litellm:26b38d91-aa61-4f6e-a72a-421378046619",
-    "litellm:732f0a31-5622-4fca-9a2a-356d58fcfa1d",
-    "mirage:5aaca9b1-a8ae-4bb4-90fb-ed620d834fc2",
-    "mirage:116d0417-6235-44e8-be17-80f0891ed16b"
+    "Capital One:R1005413",
+    "CrowdStrike:R29791",
+    "mirage:794a57cc-daf6-4636-b295-81e892418414",
+    "mirage:e812e12d-465b-4dfa-90b1-085ac29ab848",
+    "zscaler:5254098007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +16,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 15,
-    "experienced": 2093
+    "experienced": 2097
   },
   "companies": [
     {
@@ -792,7 +792,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 144,
+      "jobCount": 145,
       "error": null,
       "stale": false
     },
@@ -1247,7 +1247,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -3060,7 +3060,7 @@
     {
       "name": "Mirage",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5692,7 +5692,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5705,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R29791",
+      "title": "Sr. Backend Engineer II, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
+      "location": "USA - Sunnyvale, CA",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-II-Full-Stack-Engineer--Cloud-Native---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29791",
+      "postedAt": "2026-11-09T16:00:34.271Z",
+      "key": "CrowdStrike:R29791",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T16:00:30.512Z"
+    },
+    {
+      "id": "R1005413",
+      "title": "Full-stack Engineer 4 (Java & Go)",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Full-stack-Engineer-4--Java---Go-_R1005413-1",
+      "postedAt": "2026-11-09T16:00:32.876Z",
+      "key": "Capital One:R1005413",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T16:00:30.512Z"
+    },
+    {
+      "id": "5254098007",
+      "title": "Principal Software Development Engineer",
+      "location": "Burnaby, CAN",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5254098007",
+      "postedAt": "2026-11-09T16:00:10.000Z",
+      "key": "zscaler:5254098007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-09T16:00:30.512Z"
+    },
     {
       "id": "R29845",
       "title": "Sr. Backend Engineer, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale)",
@@ -5720,6 +5768,38 @@
         "us"
       ],
       "firstSeen": "2026-11-09T15:50:21.234Z"
+    },
+    {
+      "id": "e812e12d-465b-4dfa-90b1-085ac29ab848",
+      "title": "Software Engineer, Agents ",
+      "location": "Union Square, New York City",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/mirage/e812e12d-465b-4dfa-90b1-085ac29ab848",
+      "postedAt": "2026-11-09T15:49:27.273Z",
+      "key": "mirage:e812e12d-465b-4dfa-90b1-085ac29ab848",
+      "company": "Mirage",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T16:00:30.512Z"
+    },
+    {
+      "id": "794a57cc-daf6-4636-b295-81e892418414",
+      "title": "Software Engineer, Backend ",
+      "location": "Union Square, New York City",
+      "team": "Backend",
+      "url": "https://jobs.ashbyhq.com/mirage/794a57cc-daf6-4636-b295-81e892418414",
+      "postedAt": "2026-11-09T15:49:09.472Z",
+      "key": "mirage:794a57cc-daf6-4636-b295-81e892418414",
+      "company": "Mirage",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T16:00:30.512Z"
     },
     {
       "id": "116d0417-6235-44e8-be17-80f0891ed16b",
@@ -15162,22 +15242,6 @@
       "postedAt": "2026-11-02T14:50:23.518Z",
       "key": "Capital One:R1004242",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-02T14:50:19.766Z"
-    },
-    {
-      "id": "9e5835a2-5a70-4919-9a92-c7dc1b74163f",
-      "title": "Software Engineer, Agents ",
-      "location": "Union Square, New York City",
-      "team": "Backend",
-      "url": "https://jobs.ashbyhq.com/mirage/9e5835a2-5a70-4919-9a92-c7dc1b74163f",
-      "postedAt": "2026-11-02T14:40:35.095Z",
-      "key": "mirage:9e5835a2-5a70-4919-9a92-c7dc1b74163f",
-      "company": "Mirage",
       "level": "experienced",
       "term": null,
       "regions": [
