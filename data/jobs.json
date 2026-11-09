@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-09T17:40:21.229Z",
+  "generatedAt": "2026-11-09T17:50:20.932Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "interfere:98f1c257-7ffc-49de-806e-82bd6c417e09"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 96,
     "new-grad": 15,
-    "experienced": 2098
+    "experienced": 2096
   },
   "companies": [
     {
@@ -114,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2431,7 +2433,7 @@
     {
       "name": "Interfere",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 358,
+      "jobCount": 356,
       "error": null,
       "stale": false
     },
@@ -3769,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3991,10 +3993,10 @@
     },
     {
       "name": "Quartzy",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Quicknode",
@@ -4054,10 +4056,10 @@
     },
     {
       "name": "Reach",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Reacher",
@@ -4194,10 +4196,10 @@
     },
     {
       "name": "Rezo Therapeutics",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Rigetti Quantum Computing",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "98f1c257-7ffc-49de-806e-82bd6c417e09",
+      "title": "Security Engineer",
+      "location": "New York City",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/interfere/98f1c257-7ffc-49de-806e-82bd6c417e09",
+      "postedAt": "2026-11-09T17:44:12.048Z",
+      "key": "interfere:98f1c257-7ffc-49de-806e-82bd6c417e09",
+      "company": "Interfere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T17:50:20.932Z"
+    },
     {
       "id": "99afbbe0-5ad1-4f25-a00a-049f14428ac6",
       "title": "Senior Software Engineer - Security/Infrastructure",
@@ -9662,22 +9680,6 @@
       "firstSeen": "2026-11-05T17:40:19.511Z"
     },
     {
-      "id": "JR2029366",
-      "title": "Senior Software Engineer - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---Autonomous-Vehicles_JR2029366",
-      "postedAt": "2026-11-05T17:40:23.542Z",
-      "key": "Nvidia:JR2029366",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T17:40:19.511Z"
-    },
-    {
       "id": "JR2015832",
       "title": "Senior Software Engineer, Platform Engineering",
       "location": "US, CA, Santa Clara",
@@ -12211,22 +12213,6 @@
         "us"
       ],
       "firstSeen": "2026-11-03T23:30:25.929Z"
-    },
-    {
-      "id": "JR2020652",
-      "title": "Senior Platform Service Software Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Platform-Service-Software-Engineer_JR2020652",
-      "postedAt": "2026-11-03T23:20:24.253Z",
-      "key": "Nvidia:JR2020652",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T23:20:19.995Z"
     },
     {
       "id": "e523bb66-545f-4357-89f6-4b8b3f7033db",
@@ -23435,22 +23421,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T20:50:17.257Z"
-    },
-    {
-      "id": "8332157",
-      "title": "Software Engineer, Payments",
-      "location": "Remote, USA ",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8332157?gh_jid=8332157",
-      "postedAt": "2026-10-28T20:41:33.000Z",
-      "key": "airbnb:8332157",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T16:50:24.555Z"
     },
     {
       "id": "JR115706",
