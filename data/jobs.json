@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-09T01:20:22.713Z",
+  "generatedAt": "2026-11-09T01:30:25.034Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "spacex:8934563002",
-    "spacex:8934566002"
+    "spacex:8934567002",
+    "spacex:8934568002",
+    "waymo:8364459"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 16,
-    "experienced": 2090
+    "experienced": 2093
   },
   "companies": [
     {
@@ -594,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4695,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 81,
+      "jobCount": 83,
       "error": null,
       "stale": false
     },
@@ -5479,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8934568002",
+      "title": "Sr. Full Stack Software Engineer",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934568002?gh_jid=8934568002",
+      "postedAt": "2026-11-09T01:29:53.000Z",
+      "key": "spacex:8934568002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T01:30:25.034Z"
+    },
+    {
+      "id": "8934567002",
+      "title": "Full Stack Software Engineer, Manufacturing Systems ",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8934567002?gh_jid=8934567002",
+      "postedAt": "2026-11-09T01:29:14.000Z",
+      "key": "spacex:8934567002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T01:30:25.034Z"
+    },
+    {
+      "id": "8364459",
+      "title": "Staff Systems Test Engineer, Scenario Quality and Maintenance Systems",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8364459",
+      "postedAt": "2026-11-09T01:22:27.000Z",
+      "key": "waymo:8364459",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T01:30:25.034Z"
+    },
     {
       "id": "8934566002",
       "title": "Full Stack Software Engineer, Internal Platforms",
