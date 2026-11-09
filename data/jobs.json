@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-09T18:00:35.388Z",
+  "generatedAt": "2026-11-09T18:21:09.256Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "boxinc:8351026",
+    "DocuSign:30536",
+    "replit:298db311-7d58-46f5-a6ec-8a10edcb43c2"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 96,
     "new-grad": 15,
-    "experienced": 2095
+    "experienced": 2097
   },
   "companies": [
     {
@@ -114,7 +118,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -591,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -674,7 +678,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -934,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1423,7 +1427,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4160,7 +4164,7 @@
     {
       "name": "Replit",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5671,10 +5675,10 @@
     },
     {
       "name": "Zippi",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zoom",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "30536",
+      "title": "Software Engineer",
+      "location": "US-Seattle-3rd",
+      "team": "Engineering",
+      "url": "https://uscareers-docusign.icims.com/jobs/30536/login",
+      "postedAt": "2026-11-09T18:14:00.000Z",
+      "key": "DocuSign:30536",
+      "company": "DocuSign",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T18:21:09.256Z"
+    },
+    {
+      "id": "8351026",
+      "title": "Senior Software Engineer, Omni",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8351026",
+      "postedAt": "2026-11-09T18:13:32.000Z",
+      "key": "boxinc:8351026",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T18:21:09.256Z"
+    },
+    {
+      "id": "298db311-7d58-46f5-a6ec-8a10edcb43c2",
+      "title": "Staff Software Engineer, Financial Infrastructure",
+      "location": "Foster City, CA",
+      "team": "Product Engineering",
+      "url": "https://jobs.ashbyhq.com/replit/298db311-7d58-46f5-a6ec-8a10edcb43c2",
+      "postedAt": "2026-11-09T18:12:23.454Z",
+      "key": "replit:298db311-7d58-46f5-a6ec-8a10edcb43c2",
+      "company": "Replit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T18:21:09.256Z"
+    },
     {
       "id": "98f1c257-7ffc-49de-806e-82bd6c417e09",
       "title": "Security Engineer",
@@ -32124,22 +32176,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T16:10:17.424Z"
-    },
-    {
-      "id": "7763610",
-      "title": "Senior Software Engineer,  Cloud Experience",
-      "location": "United States",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/7763610?gh_jid=7763610",
-      "postedAt": "2026-10-20T16:03:29.000Z",
-      "key": "airbnb:7763610",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-06T17:10:20.576Z"
     },
     {
       "id": "8300359",
