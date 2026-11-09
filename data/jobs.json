@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-09T12:40:23.854Z",
+  "generatedAt": "2026-11-09T12:50:20.286Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Nvidia:JR2028599"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -786,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 145,
+      "jobCount": 144,
       "error": null,
       "stale": false
     },
@@ -3151,10 +3153,10 @@
     },
     {
       "name": "Multiply Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mutiny",
@@ -3417,15 +3419,15 @@
     },
     {
       "name": "NUVACORE",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 354,
+      "jobCount": 355,
       "error": null,
       "stale": false
     },
@@ -3641,10 +3643,10 @@
     },
     {
       "name": "Pendulum",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Pennylane",
@@ -4201,10 +4203,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Rilla",
@@ -4467,10 +4469,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 33,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Shiru",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2028599",
+      "title": "Manager, Firmware System Engineering",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Firmware-System-Engineering_JR2028599",
+      "postedAt": "2026-11-09T12:50:24.946Z",
+      "key": "Nvidia:JR2028599",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T12:50:20.286Z"
+    },
     {
       "id": "R30743",
       "title": "Backend Engineer III, Data Onboarding, NG-SIEM (Hybrid)",
@@ -14372,22 +14390,6 @@
         "remote"
       ],
       "firstSeen": "2026-11-02T19:50:35.848Z"
-    },
-    {
-      "id": "R1004616",
-      "title": "Full-stack Engineer 5",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/New-York-NY/Full-stack-Engineer-5_R1004616-1",
-      "postedAt": "2026-11-02T19:40:22.711Z",
-      "key": "Capital One:R1004616",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-02T19:40:19.410Z"
     },
     {
       "id": "8927312002",
