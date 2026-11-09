@@ -1,16 +1,20 @@
 {
-  "generatedAt": "2026-11-09T17:00:34.241Z",
+  "generatedAt": "2026-11-09T17:20:23.131Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Capital One:R1005359",
+    "uipath:f6857594-645c-4833-aa5b-763e9759b555",
+    "uipath:4983eab7-099d-4c77-9a5a-8dde72084c04"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 94,
+    "intern": 96,
     "new-grad": 15,
-    "experienced": 2099
+    "experienced": 2098
   },
   "companies": [
     {
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 142,
+      "jobCount": 143,
       "error": null,
       "stale": false
     },
@@ -2844,7 +2848,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 358,
+      "jobCount": 357,
       "error": null,
       "stale": false
     },
@@ -4201,10 +4205,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Rilla",
@@ -5252,7 +5256,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1005359",
+      "title": "Full-stack Engineer 4 (Manager, IC)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Manager--IC-_R1005359-1",
+      "postedAt": "2026-11-09T17:20:26.473Z",
+      "key": "Capital One:R1005359",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T17:20:23.131Z"
+    },
+    {
+      "id": "4983eab7-099d-4c77-9a5a-8dde72084c04",
+      "title": "Software Engineer Intern",
+      "location": "Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04",
+      "postedAt": "2026-11-09T17:14:47.358Z",
+      "key": "uipath:4983eab7-099d-4c77-9a5a-8dde72084c04",
+      "company": "UiPath",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T17:20:23.131Z"
+    },
+    {
+      "id": "f6857594-645c-4833-aa5b-763e9759b555",
+      "title": "AI Engineer Intern",
+      "location": "Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/uipath/f6857594-645c-4833-aa5b-763e9759b555",
+      "postedAt": "2026-11-09T17:12:40.213Z",
+      "key": "uipath:f6857594-645c-4833-aa5b-763e9759b555",
+      "company": "UiPath",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T17:20:23.131Z"
+    },
     {
       "id": "06c2599d-4dd5-4f97-843f-7194b546f042",
       "title": "Software Engineer, Web Infrastructure",
@@ -12323,22 +12375,6 @@
         "us"
       ],
       "firstSeen": "2026-11-03T22:23:51.179Z"
-    },
-    {
-      "id": "8927268002",
-      "title": "Software Engineer, Backend",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8927268002?gh_jid=8927268002",
-      "postedAt": "2026-11-03T21:57:11.000Z",
-      "key": "lyft:8927268002",
-      "company": "Lyft",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-03T22:00:28.000Z"
     },
     {
       "id": "8351163",
@@ -20406,22 +20442,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relations-Manager---Omniverse_JR2001863",
       "postedAt": "2026-10-30T23:30:35.637Z",
       "key": "Nvidia:JR2001863",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:30:27.586Z"
-    },
-    {
-      "id": "JR2001988",
-      "title": "Senior Developer Relationship Manager - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Developer-Relationship-Manager---Autonomous-Vehicles_JR2001988",
-      "postedAt": "2026-10-30T23:30:35.637Z",
-      "key": "Nvidia:JR2001988",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
