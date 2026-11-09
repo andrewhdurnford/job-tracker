@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-09T21:30:28.133Z",
+  "generatedAt": "2026-11-09T21:40:22.242Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2028938"
+    "Nvidia:JR2016861",
+    "pinterest:8262940",
+    "spacex:8920514002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 98,
     "new-grad": 16,
-    "experienced": 2132
+    "experienced": 2134
   },
   "companies": [
     {
@@ -593,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3427,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 355,
+      "jobCount": 356,
       "error": null,
       "stale": false
     },
@@ -3756,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4036,7 +4038,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 85,
+      "jobCount": 86,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8262940",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco, CA, US; Los Angeles, CA, US; Seattle, WA, US; New York, NY, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8262940",
+      "postedAt": "2026-11-09T21:30:43.000Z",
+      "key": "pinterest:8262940",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T21:40:22.242Z"
+    },
     {
       "id": "JR2028938",
       "title": "Principal Data and Platform Engineer, DGX Cloud",
@@ -15353,6 +15371,22 @@
       "firstSeen": "2026-11-02T20:40:19.315Z"
     },
     {
+      "id": "8920514002",
+      "title": "Data Scientist (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8920514002?gh_jid=8920514002",
+      "postedAt": "2026-11-02T20:33:12.000Z",
+      "key": "spacex:8920514002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T21:40:22.242Z"
+    },
+    {
       "id": "740cedb6-3c69-49c2-8662-7997799b8c87",
       "title": "Software Engineering Intern",
       "location": "San Francisco",
@@ -21559,6 +21593,22 @@
         "canada"
       ],
       "firstSeen": "2026-10-30T22:00:26.860Z"
+    },
+    {
+      "id": "JR2016861",
+      "title": "Manager, Data and AI Engineering",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Data-and-AI-Engineering_JR2016861",
+      "postedAt": "2026-10-30T21:41:31.362Z",
+      "key": "Nvidia:JR2016861",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T21:40:22.242Z"
     },
     {
       "id": "JR2024273",
@@ -29230,24 +29280,8 @@
       "firstSeen": "2026-10-22T19:24:36.446Z"
     },
     {
-      "id": "29a5da77-37f0-402a-92bc-072778e77ed8",
-      "title": "Software Engineer, Forward Deployed",
-      "location": "NYC (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
-      "postedAt": "2026-10-22T19:20:16.077Z",
-      "key": "ramp:29a5da77-37f0-402a-92bc-072778e77ed8",
-      "company": "Ramp",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T19:24:36.446Z"
-    },
-    {
       "id": "09360e92-fc95-4ba6-9611-dfefd60b13ce",
-      "title": "Software Engineer, Enterprise Product",
+      "title": "Software Engineer, Forward Deployed, Enterprise Product",
       "location": "NYC (+1 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce",
