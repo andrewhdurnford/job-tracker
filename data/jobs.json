@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-09T16:20:20.519Z",
+  "generatedAt": "2026-11-09T16:30:27.241Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "kong:9831523f-c155-495f-a9e3-a22c44381a5e",
-    "thumbtack:7ddfc7e0-81c6-41a5-9b18-1d8e4470c3de"
+    "coinbase:8139750",
+    "elevenlabs:108c99e6-ba2b-44a0-b830-7d535e14a152",
+    "spotify:ea20d13d-aedc-4d02-a4aa-b6d6b1400aed"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 15,
-    "experienced": 2098
+    "experienced": 2100
   },
   "companies": [
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 145,
+      "jobCount": 144,
       "error": null,
       "stale": false
     },
@@ -1055,7 +1056,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -1538,7 +1539,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -3233,7 +3234,7 @@
       "name": "Nansen",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 85,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4723,7 +4724,7 @@
     {
       "name": "Spotify",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,40 @@
   ],
   "jobs": [
     {
+      "id": "8139750",
+      "title": "Software Engineer, Wallets, Liquidity and Bridging Team",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8139750?gh_jid=8139750",
+      "postedAt": "2026-11-09T16:23:20.000Z",
+      "key": "coinbase:8139750",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T16:30:27.241Z"
+    },
+    {
+      "id": "108c99e6-ba2b-44a0-b830-7d535e14a152",
+      "title": "Full-Stack Engineer - ElevenAPI",
+      "location": "Remote (+5 more)",
+      "team": "Core Experience",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
+      "postedAt": "2026-11-09T16:22:22.414Z",
+      "key": "elevenlabs:108c99e6-ba2b-44a0-b830-7d535e14a152",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada",
+        "remote"
+      ],
+      "firstSeen": "2026-11-09T16:30:27.241Z"
+    },
+    {
       "id": "9831523f-c155-495f-a9e3-a22c44381a5e",
       "title": "Senior Software Engineer, Control Planes",
       "location": "Canada (+1 more)",
@@ -5877,6 +5912,22 @@
         "us"
       ],
       "firstSeen": "2026-11-09T15:50:21.234Z"
+    },
+    {
+      "id": "ea20d13d-aedc-4d02-a4aa-b6d6b1400aed",
+      "title": "Machine Learning Engineering Manager II",
+      "location": "New York, NY (+1 more)",
+      "team": "Personalization",
+      "url": "https://jobs.lever.co/spotify/ea20d13d-aedc-4d02-a4aa-b6d6b1400aed",
+      "postedAt": "2026-11-09T15:33:48.540Z",
+      "key": "spotify:ea20d13d-aedc-4d02-a4aa-b6d6b1400aed",
+      "company": "Spotify",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T16:30:27.241Z"
     },
     {
       "id": "8904126002",
@@ -22443,22 +22494,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-29T19:10:18.603Z"
-    },
-    {
-      "id": "R1004654",
-      "title": "Senior Manager Enterprise SaaS Sales - Capital One Software (Remote)",
-      "location": "2 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Senior-Manager-Enterprise-SaaS-Sales---Capital-One-Software--Remote-_R1004654-1",
-      "postedAt": "2026-10-29T19:00:31.160Z",
-      "key": "Capital One:R1004654",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-29T19:00:27.564Z"
     },
     {
       "id": "76fd7bc4-1808-4bff-8663-16c917f45f4e",
