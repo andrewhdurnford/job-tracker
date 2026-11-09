@@ -1,15 +1,9 @@
 {
-  "generatedAt": "2026-11-09T19:30:28.360Z",
+  "generatedAt": "2026-11-09T19:40:22.472Z",
   "bootstrap": false,
-  "lastRunNewCount": 7,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "affirm:8197325003",
-    "affirm:8197327003",
-    "affirm:8197336003",
-    "affirm:8197334003",
-    "CrowdStrike:R30720",
-    "CrowdStrike:R30851",
-    "mercor:6d1de461-c08d-419c-96cf-ed38083e0976"
+    "roblox:8350721"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -18,7 +12,7 @@
   "levelCounts": {
     "intern": 96,
     "new-grad": 16,
-    "experienced": 2111
+    "experienced": 2112
   },
   "companies": [
     {
@@ -3777,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3985,10 +3979,10 @@
     },
     {
       "name": "Pyka",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Pylon",
@@ -4245,7 +4239,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -4699,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 85,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5708,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "8350721",
+      "title": "Senior Software Engineer- Account Access & Controls",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8350721?gh_jid=8350721",
+      "postedAt": "2026-11-09T19:37:58.000Z",
+      "key": "roblox:8350721",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T19:40:22.472Z"
+    },
+    {
       "id": "R30720",
       "title": "Data Center Capacity Engineer II  (Remote)",
       "location": "USA - Remote",
@@ -5805,7 +5815,7 @@
     },
     {
       "id": "6d1de461-c08d-419c-96cf-ed38083e0976",
-      "title": "Software Engineer, Systems & Platform Applied AI",
+      "title": "Software Engineer, Applied AI - Systems",
       "location": "San Francisco",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/mercor/6d1de461-c08d-419c-96cf-ed38083e0976",
@@ -5955,7 +5965,7 @@
     {
       "id": "939892e5-5273-4bfc-8c41-a6c51cabb228",
       "title": "Software Engineer, Comms Platform",
-      "location": "Remote (US)",
+      "location": "Remote",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228",
       "postedAt": "2026-11-09T18:22:09.221Z",
@@ -5964,7 +5974,8 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "us",
+        "remote"
       ],
       "firstSeen": "2026-11-09T18:30:30.587Z"
     },
@@ -11196,7 +11207,7 @@
     {
       "id": "6511d68f-b65d-4499-962f-7e2f75eabe3f",
       "title": "Software Engineer, Frontend",
-      "location": "New York, NY (HQ) (+4 more)",
+      "location": "NYC (+4 more)",
       "team": "Frontend",
       "url": "https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f",
       "postedAt": "2026-11-04T19:56:37.701Z",
@@ -11206,7 +11217,8 @@
       "term": null,
       "regions": [
         "us",
-        "canada"
+        "canada",
+        "remote"
       ],
       "firstSeen": "2026-11-04T20:00:31.131Z"
     },
@@ -14349,7 +14361,7 @@
     {
       "id": "d8925f84-562f-470c-a5bd-4f6c20009361",
       "title": "Research Engineer, Benchmarks & Evaluation",
-      "location": "New York, NY (HQ) (+1 more)",
+      "location": "NYC (+1 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361",
       "postedAt": "2026-11-03T00:39:43.962Z",
@@ -28801,7 +28813,7 @@
     {
       "id": "29a5da77-37f0-402a-92bc-072778e77ed8",
       "title": "Software Engineer, Forward Deployed",
-      "location": "New York, NY (HQ) (+1 more)",
+      "location": "NYC (+1 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8",
       "postedAt": "2026-10-22T19:20:16.077Z",
@@ -28817,7 +28829,7 @@
     {
       "id": "09360e92-fc95-4ba6-9611-dfefd60b13ce",
       "title": "Software Engineer, Enterprise Product",
-      "location": "New York, NY (HQ) (+1 more)",
+      "location": "NYC (+1 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce",
       "postedAt": "2026-10-22T19:20:13.000Z",
@@ -30546,7 +30558,7 @@
     {
       "id": "c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
       "title": "Backend Engineer | Accounting",
-      "location": "New York, NY (HQ) (+1 more)",
+      "location": "NYC (+1 more)",
       "team": "Backend",
       "url": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
       "postedAt": "2026-10-21T18:22:42.345Z",
@@ -32655,7 +32667,7 @@
     {
       "id": "b7514711-8a29-4bd2-a97a-967be14e336f",
       "title": "Backend Engineer | AI Spend Management",
-      "location": "New York, NY (HQ) (+2 more)",
+      "location": "NYC (+2 more)",
       "team": "Backend",
       "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f",
       "postedAt": "2026-10-20T13:40:20.264Z",
@@ -32665,7 +32677,8 @@
       "term": null,
       "regions": [
         "us",
-        "canada"
+        "canada",
+        "remote"
       ],
       "firstSeen": "2026-10-20T13:50:14.831Z"
     },
@@ -32704,7 +32717,7 @@
     {
       "id": "47a75895-24af-49b7-9858-1be0ec0e7c71",
       "title": "Backend Engineer | Accounts Receivable",
-      "location": "New York, NY (HQ) (+2 more)",
+      "location": "NYC (+2 more)",
       "team": "Backend",
       "url": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71",
       "postedAt": "2026-10-20T13:19:10.429Z",
@@ -32714,7 +32727,8 @@
       "term": null,
       "regions": [
         "us",
-        "canada"
+        "canada",
+        "remote"
       ],
       "firstSeen": "2026-10-20T13:20:16.650Z"
     },
