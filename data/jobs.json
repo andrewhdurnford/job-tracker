@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-09T16:10:22.674Z",
+  "generatedAt": "2026-11-09T16:20:20.519Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "zscaler:5253941007"
+    "kong:9831523f-c155-495f-a9e3-a22c44381a5e",
+    "thumbtack:7ddfc7e0-81c6-41a5-9b18-1d8e4470c3de"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -2419,7 +2420,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2629,7 +2630,7 @@
     {
       "name": "Kong",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2986,7 +2987,7 @@
     {
       "name": "Mercury",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3232,7 +3233,7 @@
       "name": "Nansen",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 85,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5079,7 +5080,7 @@
     {
       "name": "Thumbtack",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "9831523f-c155-495f-a9e3-a22c44381a5e",
+      "title": "Senior Software Engineer, Control Planes",
+      "location": "Canada (+1 more)",
+      "team": "ENG",
+      "url": "https://jobs.ashbyhq.com/kong/9831523f-c155-495f-a9e3-a22c44381a5e",
+      "postedAt": "2026-11-09T16:19:41.829Z",
+      "key": "kong:9831523f-c155-495f-a9e3-a22c44381a5e",
+      "company": "Kong",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-09T16:20:20.519Z"
+    },
+    {
+      "id": "7ddfc7e0-81c6-41a5-9b18-1d8e4470c3de",
+      "title": "Senior Software Engineer, Developer Experience",
+      "location": "Remote, United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/thumbtack/7ddfc7e0-81c6-41a5-9b18-1d8e4470c3de",
+      "postedAt": "2026-11-09T16:14:27.483Z",
+      "key": "thumbtack:7ddfc7e0-81c6-41a5-9b18-1d8e4470c3de",
+      "company": "Thumbtack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T16:20:20.519Z"
+    },
     {
       "id": "5253941007",
       "title": "Sr. Staff Software Development Engineer",
@@ -8365,22 +8398,6 @@
         "us"
       ],
       "firstSeen": "2026-11-06T03:40:19.176Z"
-    },
-    {
-      "id": "8356881",
-      "title": "Senior Data Scientist",
-      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8356881",
-      "postedAt": "2026-11-06T03:10:11.000Z",
-      "key": "instacart:8356881",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-06T03:10:19.045Z"
     },
     {
       "id": "30c77fd3-616b-428a-8d8d-b3168285c4f8",
@@ -11266,23 +11283,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-11-04T16:40:27.068Z"
-    },
-    {
-      "id": "6248613004",
-      "title": "Senior Data Scientist - Credit and Lending ML",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6248613004",
-      "postedAt": "2026-11-04T16:33:11.000Z",
-      "key": "mercury:6248613004",
-      "company": "Mercury",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
       ],
       "firstSeen": "2026-11-04T16:40:27.068Z"
     },
