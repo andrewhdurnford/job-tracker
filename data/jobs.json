@@ -1,10 +1,15 @@
 {
-  "generatedAt": "2026-11-09T19:20:21.214Z",
+  "generatedAt": "2026-11-09T19:30:28.360Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "marianaminerals:4db588c3-f517-4ff7-82d5-5fbd8f1efb9e",
-    "Visa:REF089618W"
+    "affirm:8197325003",
+    "affirm:8197327003",
+    "affirm:8197336003",
+    "affirm:8197334003",
+    "CrowdStrike:R30720",
+    "CrowdStrike:R30851",
+    "mercor:6d1de461-c08d-419c-96cf-ed38083e0976"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +18,7 @@
   "levelCounts": {
     "intern": 96,
     "new-grad": 16,
-    "experienced": 2104
+    "experienced": 2111
   },
   "companies": [
     {
@@ -82,7 +87,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -1244,7 +1249,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -2973,7 +2978,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3772,7 +3777,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3980,10 +3985,10 @@
     },
     {
       "name": "Pyka",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Pylon",
@@ -4694,10 +4699,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 85,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5707,118 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R30720",
+      "title": "Data Center Capacity Engineer II  (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Center-Capacity-Engineer-II---Remote-_R30720",
+      "postedAt": "2026-11-09T19:30:32.335Z",
+      "key": "CrowdStrike:R30720",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T19:30:28.360Z"
+    },
+    {
+      "id": "R30851",
+      "title": "Engineer II, Systems Integration",
+      "location": "USA - Bend, OR",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Bend-OR/Engineer-II--Systems-Integration_R30851-1",
+      "postedAt": "2026-11-09T19:30:32.335Z",
+      "key": "CrowdStrike:R30851",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T19:30:28.360Z"
+    },
+    {
+      "id": "8197336003",
+      "title": "Senior Software Engineer, Backend (Trust & Safety)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8197336003",
+      "postedAt": "2026-11-09T19:25:33.000Z",
+      "key": "affirm:8197336003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-09T19:30:28.360Z"
+    },
+    {
+      "id": "8197334003",
+      "title": "Senior Software Engineer, Backend (Trust & Safety)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8197334003",
+      "postedAt": "2026-11-09T19:25:30.000Z",
+      "key": "affirm:8197334003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T19:30:28.360Z"
+    },
+    {
+      "id": "8197327003",
+      "title": "Senior Software Engineer, Backend (Consumer)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8197327003",
+      "postedAt": "2026-11-09T19:24:46.000Z",
+      "key": "affirm:8197327003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-09T19:30:28.360Z"
+    },
+    {
+      "id": "8197325003",
+      "title": "Senior Software Engineer, Backend (Consumer)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8197325003",
+      "postedAt": "2026-11-09T19:24:44.000Z",
+      "key": "affirm:8197325003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T19:30:28.360Z"
+    },
+    {
+      "id": "6d1de461-c08d-419c-96cf-ed38083e0976",
+      "title": "Software Engineer, Systems & Platform Applied AI",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/6d1de461-c08d-419c-96cf-ed38083e0976",
+      "postedAt": "2026-11-09T19:22:24.165Z",
+      "key": "mercor:6d1de461-c08d-419c-96cf-ed38083e0976",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T19:30:28.360Z"
+    },
     {
       "id": "REF089618W",
       "title": "Associate Data Engineer",
