@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-11-09T22:50:22.204Z",
+  "generatedAt": "2026-11-09T23:00:33.072Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "checkr:8369164",
+    "checkr:8369174",
+    "eliseai:2c7b711e-2fd2-439f-a3da-f9ac435e900a",
+    "openai:d7dfc19d-e508-4522-91fa-e31c3b612a47"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 96,
     "new-grad": 16,
-    "experienced": 2133
+    "experienced": 2135
   },
   "companies": [
     {
@@ -591,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1542,7 +1547,7 @@
     {
       "name": "EliseAI",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1753,7 +1758,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1774,7 +1779,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1877,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2066,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3509,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "d7dfc19d-e508-4522-91fa-e31c3b612a47",
+      "title": "Full-Stack Software Engineer, Child Safety Tools & Systems",
+      "location": "San Francisco (+1 more)",
+      "team": "Applied AI",
+      "url": "https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47",
+      "postedAt": "2026-11-09T22:58:12.042Z",
+      "key": "openai:d7dfc19d-e508-4522-91fa-e31c3b612a47",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T23:00:33.072Z"
+    },
+    {
+      "id": "2c7b711e-2fd2-439f-a3da-f9ac435e900a",
+      "title": "Junior Research Scientist",
+      "location": "San Francisco",
+      "team": "Research",
+      "url": "https://jobs.ashbyhq.com/EliseAI/2c7b711e-2fd2-439f-a3da-f9ac435e900a",
+      "postedAt": "2026-11-09T22:56:07.263Z",
+      "key": "eliseai:2c7b711e-2fd2-439f-a3da-f9ac435e900a",
+      "company": "EliseAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T23:00:33.072Z"
+    },
+    {
+      "id": "8369174",
+      "title": "Senior Software Engineer (Ruby/Rails), MVR",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8369174",
+      "postedAt": "2026-11-09T22:54:41.000Z",
+      "key": "checkr:8369174",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T23:00:33.072Z"
+    },
+    {
+      "id": "8369164",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Denver, Colorado, United States; San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8369164",
+      "postedAt": "2026-11-09T22:53:14.000Z",
+      "key": "checkr:8369164",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T23:00:33.072Z"
+    },
     {
       "id": "2bcba5c3-c6e7-407c-92b2-73027594789e",
       "title": "Engineering Intern, SRE",
@@ -12923,22 +12992,6 @@
       "firstSeen": "2026-11-03T23:50:19.505Z"
     },
     {
-      "id": "8351381",
-      "title": "Senior Software Engineer (Ruby/Rails), MVR",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/checkr/jobs/8351381",
-      "postedAt": "2026-11-03T23:42:27.000Z",
-      "key": "checkr:8351381",
-      "company": "Checkr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T23:50:19.505Z"
-    },
-    {
       "id": "ce86adec-e8ce-4bbf-a706-43795a982de6",
       "title": "Software engineer, agents",
       "location": "New York City, NY (+2 more)",
@@ -13529,22 +13582,6 @@
         "us"
       ],
       "firstSeen": "2026-11-03T21:00:30.492Z"
-    },
-    {
-      "id": "8350852",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Denver, Colorado, United States; San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/checkr/jobs/8350852",
-      "postedAt": "2026-11-03T20:33:28.000Z",
-      "key": "checkr:8350852",
-      "company": "Checkr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T20:40:20.856Z"
     },
     {
       "id": "8301936",
