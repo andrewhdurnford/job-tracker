@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T13:20:19.991Z",
+  "generatedAt": "2026-11-09T13:30:25.883Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Nvidia:JR2028877"
+    "anthropic:5468930008"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 15,
-    "experienced": 2091
+    "experienced": 2090
   },
   "companies": [
     {
@@ -305,7 +305,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 43,
       "error": null,
       "stale": false
     },
@@ -2658,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 358,
+      "jobCount": 356,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 85,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4828,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5702,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "5468930008",
+      "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468930008",
+      "postedAt": "2026-11-09T13:26:21.000Z",
+      "key": "anthropic:5468930008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T13:30:25.883Z"
+    },
+    {
       "id": "JR2028877",
       "title": "Senior Software Technical Program Driver - OEM and NCP Escalations",
       "location": "US, CA, Santa Clara",
@@ -5716,38 +5732,6 @@
         "us"
       ],
       "firstSeen": "2026-11-09T13:20:19.991Z"
-    },
-    {
-      "id": "JR2029364",
-      "title": "Senior Perception AI Engineer - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Perception-AI-Engineer---Autonomous-Vehicles_JR2029364",
-      "postedAt": "2026-11-09T13:00:38.564Z",
-      "key": "Nvidia:JR2029364",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T13:00:34.025Z"
-    },
-    {
-      "id": "JR2029621",
-      "title": "Senior Software Development Engineer, Motion Planning - Autonomous Vehicles",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer--Motion-Planning---Autonomous-Vehicles_JR2029621",
-      "postedAt": "2026-11-09T13:00:38.564Z",
-      "key": "Nvidia:JR2029621",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T13:00:34.025Z"
     },
     {
       "id": "8365234",
