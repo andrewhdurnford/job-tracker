@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-09T19:00:34.933Z",
+  "generatedAt": "2026-11-09T19:10:23.591Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Nvidia:JR2014856"
+    "Adobe:R173455",
+    "northwoodspace:707d464d-a114-4721-95fd-a00398e04404"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -11,8 +12,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 96,
-    "new-grad": 15,
-    "experienced": 2102
+    "new-grad": 16,
+    "experienced": 2103
   },
   "companies": [
     {
@@ -67,7 +68,7 @@
     {
       "name": "Adobe",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -2896,7 +2897,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3357,7 +3358,7 @@
     {
       "name": "Northwood Space",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,42 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R173455",
+      "title": "2027 University Graduate - Data Engineer",
+      "location": "San Jose",
+      "team": null,
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455",
+      "postedAt": "2026-11-09T19:10:28.192Z",
+      "key": "Adobe:R173455",
+      "company": "Adobe",
+      "level": "new-grad",
+      "term": {
+        "label": "2027",
+        "seasons": [],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T19:10:23.591Z"
+    },
+    {
+      "id": "707d464d-a114-4721-95fd-a00398e04404",
+      "title": "Software Engineer (Portal)",
+      "location": "Torrance, CA",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/northwoodspace/707d464d-a114-4721-95fd-a00398e04404",
+      "postedAt": "2026-11-09T19:00:11.223Z",
+      "key": "northwoodspace:707d464d-a114-4721-95fd-a00398e04404",
+      "company": "Northwood Space",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-09T19:10:23.591Z"
+    },
     {
       "id": "R1005438",
       "title": "Sr. Manager Full Stack Engineer (People Leader)",
@@ -12105,7 +12142,7 @@
     },
     {
       "id": "8829053002",
-      "title": "Senior Software Engineer, IT Digital Employee Experience",
+      "title": "Senior Software Engineer, Digital Employee Experience",
       "location": "San Francisco, California",
       "team": null,
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829053002",
