@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-10T17:50:20.663Z",
+  "generatedAt": "2026-11-10T18:00:31.667Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "airbnb:8304030",
-    "supabase:0055f731-cffa-4c74-9c00-8abfa579873d"
+    "dropbox:8328546",
+    "dropbox:8328549",
+    "instacart:8372848",
+    "instacart:8372846"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 108,
     "new-grad": 17,
-    "experienced": 2202
+    "experienced": 2206
   },
   "companies": [
     {
@@ -937,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1475,7 +1477,7 @@
     {
       "name": "Dropbox",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2420,7 +2422,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8328549",
+      "title": "Senior Security Engineer, AI Security",
+      "location": "Remote - Canada: Select locations",
+      "team": null,
+      "url": "https://jobs.dropbox.com/listing/8328549?gh_jid=8328549",
+      "postedAt": "2026-11-10T17:56:16.000Z",
+      "key": "dropbox:8328549",
+      "company": "Dropbox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-10T18:00:31.667Z"
+    },
+    {
+      "id": "8328546",
+      "title": "Senior Security Engineer, AI Security",
+      "location": "Remote - US: Select locations",
+      "team": null,
+      "url": "https://jobs.dropbox.com/listing/8328546?gh_jid=8328546",
+      "postedAt": "2026-11-10T17:56:11.000Z",
+      "key": "dropbox:8328546",
+      "company": "Dropbox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T18:00:31.667Z"
+    },
+    {
+      "id": "8372848",
+      "title": "Staff Software Engineer, Ads Data Platform",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8372848",
+      "postedAt": "2026-11-10T17:50:18.000Z",
+      "key": "instacart:8372848",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-10T18:00:31.667Z"
+    },
+    {
+      "id": "8372846",
+      "title": "Staff Software Engineer, Ads Data Platform",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8372846",
+      "postedAt": "2026-11-10T17:50:16.000Z",
+      "key": "instacart:8372846",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T18:00:31.667Z"
+    },
     {
       "id": "0055f731-cffa-4c74-9c00-8abfa579873d",
       "title": "Software Engineer - AI Tooling",
