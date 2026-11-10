@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-10T21:10:20.411Z",
+  "generatedAt": "2026-11-10T21:20:21.191Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "temporal:a58b6b5f-204f-454d-9cd5-e8b2acc44b65"
+    "Nvidia:JR2011805",
+    "ramp:8101bdeb-69ff-4797-838b-7344842b85a4"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 16,
-    "experienced": 2223
+    "experienced": 2221
   },
   "companies": [
     {
@@ -676,7 +677,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 357,
+      "jobCount": 356,
       "error": null,
       "stale": false
     },
@@ -4036,7 +4037,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 88,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8101bdeb-69ff-4797-838b-7344842b85a4",
+      "title": "Senior Engineer, Backend, Procurement",
+      "location": "New York, NY (HQ)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ramp/8101bdeb-69ff-4797-838b-7344842b85a4",
+      "postedAt": "2026-11-10T21:13:22.545Z",
+      "key": "ramp:8101bdeb-69ff-4797-838b-7344842b85a4",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T21:20:21.191Z"
+    },
     {
       "id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
       "title": "Senior Developer Success Engineer - East",
@@ -9592,22 +9609,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-11-07T00:20:20.004Z"
-    },
-    {
-      "id": "JR2024825",
-      "title": "Senior Software Engineer - Distributed Systems Engineer, EDA Infrastructure",
-      "location": "6 Locations",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Remote/Senior-Software-Engineer---Distributed-Systems-Engineer--EDA-Infrastructure_JR2024825-1",
-      "postedAt": "2026-11-07T00:20:24.385Z",
-      "key": "Nvidia:JR2024825",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
       ],
       "firstSeen": "2026-11-07T00:20:20.004Z"
     },
@@ -22689,22 +22690,6 @@
       "firstSeen": "2026-10-30T23:50:18.349Z"
     },
     {
-      "id": "JR2011267",
-      "title": "Research Scientist, AI for Graphics and Gaming - New College Grad 2026",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267",
-      "postedAt": "2026-10-30T23:40:26.600Z",
-      "key": "Nvidia:JR2011267",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:40:17.764Z"
-    },
-    {
       "id": "JR2010907",
       "title": "Senior Product Development Engineer - Datacenter",
       "location": "US, CA, Santa Clara",
@@ -23509,6 +23494,22 @@
         "us"
       ],
       "firstSeen": "2026-11-09T21:40:22.242Z"
+    },
+    {
+      "id": "JR2011805",
+      "title": "Senior System Software Engineer - Tegra",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Tegra-Diagnostic-Software-Engineer_JR2011805",
+      "postedAt": "2026-10-30T21:21:58.313Z",
+      "key": "Nvidia:JR2011805",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T21:20:21.191Z"
     },
     {
       "id": "JR2024273",
@@ -24937,22 +24938,6 @@
         "us"
       ],
       "firstSeen": "2026-10-29T21:40:18.608Z"
-    },
-    {
-      "id": "8318475",
-      "title": "Software Engineer III, Kubernetes",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318475",
-      "postedAt": "2026-10-29T21:31:24.000Z",
-      "key": "boxinc:8318475",
-      "company": "Box",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T20:40:23.110Z"
     },
     {
       "id": "R_107105",
@@ -27753,22 +27738,6 @@
         "us"
       ],
       "firstSeen": "2026-10-27T16:20:19.635Z"
-    },
-    {
-      "id": "8267895",
-      "title": "Software Engineer III, GTOC",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8267895",
-      "postedAt": "2026-10-27T16:01:44.000Z",
-      "key": "boxinc:8267895",
-      "company": "Box",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T20:40:23.110Z"
     },
     {
       "id": "R1004485",
