@@ -1,14 +1,12 @@
 {
-  "generatedAt": "2026-11-10T20:40:21.643Z",
+  "generatedAt": "2026-11-10T20:50:21.166Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "Capital One:R1005236",
-    "kraken.com:6d3b6e08-97ec-4eda-b3ad-bbf5fd955840",
-    "kraken.com:decc0dbd-51f7-4fee-9635-130211623f07",
-    "natera:6254068004",
-    "natera:6250768004",
-    "roblox:8350725"
+    "Capital One:R1005555",
+    "cloudflare:8368421",
+    "coupang:8347854",
+    "roblox:8359456"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +15,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 16,
-    "experienced": 2223
+    "experienced": 2226
   },
   "companies": [
     {
@@ -793,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 151,
+      "jobCount": 152,
       "error": null,
       "stale": false
     },
@@ -1017,7 +1015,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1206,7 +1204,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4244,7 +4242,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -4698,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 88,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5406,7 +5404,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1005555",
+      "title": "Full-stack Engineer 4",
+      "location": "Chicago, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Chicago-IL/Full-stack-Engineer-4_R1005555-1",
+      "postedAt": "2026-11-10T20:50:24.585Z",
+      "key": "Capital One:R1005555",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T20:50:21.166Z"
+    },
+    {
+      "id": "8347854",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Mountain View, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8347854",
+      "postedAt": "2026-11-10T20:49:36.000Z",
+      "key": "coupang:8347854",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T20:50:21.166Z"
+    },
+    {
+      "id": "8368421",
+      "title": "Linux Engineer",
+      "location": "Austin, TX (+3 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8368421?gh_jid=8368421",
+      "postedAt": "2026-11-10T20:48:01.000Z",
+      "key": "cloudflare:8368421",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T20:50:21.166Z"
+    },
+    {
+      "id": "8359456",
+      "title": "Senior Machine Learning Engineer: Creator Tools & Automation",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8359456?gh_jid=8359456",
+      "postedAt": "2026-11-10T20:46:20.000Z",
+      "key": "roblox:8359456",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T20:50:21.166Z"
+    },
     {
       "id": "R1005236",
       "title": "Full-stack Engineer 5 (Swift, AWS, Java, Python, NodeJS, Claude Code)",
@@ -8334,22 +8396,6 @@
         "us"
       ],
       "firstSeen": "2026-11-09T19:30:28.360Z"
-    },
-    {
-      "id": "REF089618W",
-      "title": "Associate Data Engineer",
-      "location": "US - Foster City, CA",
-      "team": null,
-      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W",
-      "postedAt": "2026-11-09T19:20:25.291Z",
-      "key": "Visa:REF089618W",
-      "company": "Visa",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T19:20:21.214Z"
     },
     {
       "id": "4db588c3-f517-4ff7-82d5-5fbd8f1efb9e",
