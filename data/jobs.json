@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-10T23:09:37.050Z",
+  "generatedAt": "2026-11-10T23:20:20.522Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "sofi:8198249003"
+    "CrowdStrike:R30285",
+    "mercor:44cf5f07-342d-4f64-9062-3617beb88b31",
+    "stripe:8353949"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 16,
-    "experienced": 2203
+    "experienced": 2204
   },
   "companies": [
     {
@@ -1243,7 +1245,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -1776,7 +1778,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2658,7 +2660,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2972,7 +2974,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3658,7 +3660,7 @@
     {
       "name": "PermitFlow",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 88,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4799,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R30285",
+      "title": "Vice President, AI Architect (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Vice-President--AI-Architect--Remote-_R30285",
+      "postedAt": "2026-11-10T23:20:24.544Z",
+      "key": "CrowdStrike:R30285",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T23:20:20.522Z"
+    },
+    {
+      "id": "44cf5f07-342d-4f64-9062-3617beb88b31",
+      "title": "Research Engineer, Real Environments ",
+      "location": "San Francisco",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/44cf5f07-342d-4f64-9062-3617beb88b31",
+      "postedAt": "2026-11-10T23:13:51.591Z",
+      "key": "mercor:44cf5f07-342d-4f64-9062-3617beb88b31",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T23:20:20.522Z"
+    },
+    {
+      "id": "8353949",
+      "title": "Frontend Engineer, Link",
+      "location": "US",
+      "team": "8570 Consumer Network - Eng",
+      "url": "https://stripe.com/jobs/search?gh_jid=8353949",
+      "postedAt": "2026-11-10T23:10:15.000Z",
+      "key": "stripe:8353949",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T23:20:20.522Z"
+    },
     {
       "id": "8198249003",
       "title": "Staff Software Engineer, Streaming and Workflows",
@@ -13509,23 +13559,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-11-04T23:30:25.169Z"
-    },
-    {
-      "id": "fe143519-5d16-46a3-a68c-5f5b21d57465",
-      "title": "Principal Software Engineer, AI",
-      "location": "New York City, NY (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/permitflow/fe143519-5d16-46a3-a68c-5f5b21d57465",
-      "postedAt": "2026-11-04T23:19:16.445Z",
-      "key": "permitflow:fe143519-5d16-46a3-a68c-5f5b21d57465",
-      "company": "PermitFlow",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
       ],
       "firstSeen": "2026-11-04T23:30:25.169Z"
     },
@@ -24880,22 +24913,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-29T19:50:19.595Z"
-    },
-    {
-      "id": "9c2b3eba-d001-4582-b55d-052dcc139a14",
-      "title": "Staff Software Engineer",
-      "location": "New York City, NY",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/permitflow/9c2b3eba-d001-4582-b55d-052dcc139a14",
-      "postedAt": "2026-10-29T19:26:32.844Z",
-      "key": "permitflow:9c2b3eba-d001-4582-b55d-052dcc139a14",
-      "company": "PermitFlow",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T19:30:30.765Z"
     },
     {
       "id": "R1001156",
