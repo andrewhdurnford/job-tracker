@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-10T19:40:22.537Z",
+  "generatedAt": "2026-11-10T19:50:28.042Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "anthropic:5476579008",
-    "whoop:727a9e67-4ebe-4a97-9291-e7b3e29d9bf6"
+    "Capital One:R1005594",
+    "Capital One:R1005589",
+    "spacex:8935801002",
+    "spacex:8935776002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 16,
-    "experienced": 2208
+    "experienced": 2211
   },
   "companies": [
     {
@@ -789,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 148,
+      "jobCount": 150,
       "error": null,
       "stale": false
     },
@@ -3134,7 +3136,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 86,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 88,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5705,38 @@
   ],
   "jobs": [
     {
+      "id": "R1005594",
+      "title": "Full-stack Engineer 4 (Backend)(Global Payment Network)",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-stack-Engineer-4--Backend--Global-Payment-Network-_R1005594-1",
+      "postedAt": "2026-11-10T19:50:31.620Z",
+      "key": "Capital One:R1005594",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T19:50:28.042Z"
+    },
+    {
+      "id": "R1005589",
+      "title": "Full-stack Engineer 4 (Backend)(Global Payment Network)",
+      "location": "Riverwoods, IL",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Riverwoods-IL/Full-stack-Engineer-4--Backend--Global-Payment-Network-_R1005589-1",
+      "postedAt": "2026-11-10T19:50:31.620Z",
+      "key": "Capital One:R1005589",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T19:50:28.042Z"
+    },
+    {
       "id": "727a9e67-4ebe-4a97-9291-e7b3e29d9bf6",
       "title": "Security Architect ",
       "location": "Boston, MA",
@@ -5717,6 +5751,38 @@
         "us"
       ],
       "firstSeen": "2026-11-10T19:40:22.537Z"
+    },
+    {
+      "id": "8935801002",
+      "title": "Sr. Software Engineer (Starlink Mobile)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8935801002?gh_jid=8935801002",
+      "postedAt": "2026-11-10T19:38:06.000Z",
+      "key": "spacex:8935801002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T19:50:28.042Z"
+    },
+    {
+      "id": "8935776002",
+      "title": "Sr. Software Engineer (Starlink Mobile)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8935776002?gh_jid=8935776002",
+      "postedAt": "2026-11-10T19:38:04.000Z",
+      "key": "spacex:8935776002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T19:50:28.042Z"
     },
     {
       "id": "5476579008",
@@ -30564,22 +30630,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T21:40:16.359Z"
-    },
-    {
-      "id": "8263247",
-      "title": "Senior Software Engineer, Replication",
-      "location": "United States",
-      "team": null,
-      "url": "https://www.mongodb.com/careers/job/?gh_jid=8263247",
-      "postedAt": "2026-10-22T21:28:43.000Z",
-      "key": "mongodb:8263247",
-      "company": "MongoDB",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T21:30:21.302Z"
     },
     {
       "id": "R_107078",
