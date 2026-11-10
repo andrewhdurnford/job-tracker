@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T17:30:25.367Z",
+  "generatedAt": "2026-11-10T17:40:21.746Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "airbnb:8330153",
-    "pronto:8885777002"
+    "aios:dcd17aff-6bd7-47d6-8e05-29eaa41cd1a1",
+    "nuro:8025016"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 108,
     "new-grad": 17,
-    "experienced": 2199
+    "experienced": 2200
   },
   "companies": [
     {
@@ -103,7 +103,7 @@
     {
       "name": "AIOS",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -117,7 +117,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3414,7 +3414,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5135,10 +5135,10 @@
     },
     {
       "name": "Tovala",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Town",
@@ -5702,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "dcd17aff-6bd7-47d6-8e05-29eaa41cd1a1",
+      "title": "Senior Security Engineer at AIOS — Remote, $150k–$250k/yr inc equity",
+      "location": "Remote",
+      "team": "Security & IT",
+      "url": "https://jobs.ashbyhq.com/aios/dcd17aff-6bd7-47d6-8e05-29eaa41cd1a1",
+      "postedAt": "2026-11-10T17:37:18.117Z",
+      "key": "aios:dcd17aff-6bd7-47d6-8e05-29eaa41cd1a1",
+      "company": "AIOS",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-10T17:40:21.746Z"
+    },
+    {
+      "id": "8025016",
+      "title": "Senior/Staff Systems Engineer, Autonomy Verification",
+      "location": "Mountain View, California (HQ)",
+      "team": null,
+      "url": "https://nuro.ai/careersitem?gh_jid=8025016",
+      "postedAt": "2026-11-10T17:31:31.000Z",
+      "key": "nuro:8025016",
+      "company": "Nuro",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T17:40:21.746Z"
+    },
     {
       "id": "8885777002",
       "title": "Staff Engineer, Infrastructure – HPC & AI Compute",
@@ -14391,22 +14424,6 @@
         "us"
       ],
       "firstSeen": "2026-11-03T23:50:19.505Z"
-    },
-    {
-      "id": "8330153",
-      "title": "Engineering Manager, Streaming Infrastructure",
-      "location": "USA",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8330153?gh_jid=8330153",
-      "postedAt": "2026-11-03T23:41:12.000Z",
-      "key": "airbnb:8330153",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T17:30:25.367Z"
     },
     {
       "id": "ce86adec-e8ce-4bbf-a706-43795a982de6",
