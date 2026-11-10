@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T19:10:21.393Z",
+  "generatedAt": "2026-11-10T19:20:27.148Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "cerebras:0e00a241-92ad-4ca6-a80f-e8353bf4a36f",
-    "Nvidia:JR2029706"
+    "dropbox:8328534",
+    "dropbox:8328537"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -193,10 +193,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Alpaca",
@@ -594,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1475,7 +1475,7 @@
     {
       "name": "Dropbox",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3086,7 +3086,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3428,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 358,
+      "jobCount": 356,
       "error": null,
       "stale": false
     },
@@ -4057,10 +4057,10 @@
     },
     {
       "name": "Reach",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Reacher",
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8328537",
+      "title": "Security Engineer, IAM",
+      "location": "Remote - Canada: Select locations",
+      "team": null,
+      "url": "https://jobs.dropbox.com/listing/8328537?gh_jid=8328537",
+      "postedAt": "2026-11-10T19:18:10.000Z",
+      "key": "dropbox:8328537",
+      "company": "Dropbox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-10T19:20:27.148Z"
+    },
+    {
+      "id": "8328534",
+      "title": "Security Engineer, IAM",
+      "location": "Remote - US: Select locations",
+      "team": null,
+      "url": "https://jobs.dropbox.com/listing/8328534?gh_jid=8328534",
+      "postedAt": "2026-11-10T19:18:06.000Z",
+      "key": "dropbox:8328534",
+      "company": "Dropbox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T19:20:27.148Z"
+    },
     {
       "id": "JR2029706",
       "title": "Senior Software Engineer - GPU and SOC",
@@ -22438,22 +22470,6 @@
       "firstSeen": "2026-10-30T23:40:17.764Z"
     },
     {
-      "id": "JR2010442",
-      "title": "Senior Datacenter Power Systems Modeling Engineer",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Datacenter-Power-Systems-Modeling-Engineer_JR2010442",
-      "postedAt": "2026-10-30T23:40:24.940Z",
-      "key": "Nvidia:JR2010442",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:40:17.764Z"
-    },
-    {
       "id": "JR2013287",
       "title": "Senior Manager, Engineering -  Enterprise AI and Automation",
       "location": "US, CA, Santa Clara",
@@ -22733,22 +22749,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist---Autonomous-Vehicles_JR2005596",
       "postedAt": "2026-10-30T23:30:33.939Z",
       "key": "Nvidia:JR2005596",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:30:27.586Z"
-    },
-    {
-      "id": "JR2008124",
-      "title": "Senior Research Scientist for Generative AI",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist-for-Generative-AI_JR2008124",
-      "postedAt": "2026-10-30T23:30:33.939Z",
-      "key": "Nvidia:JR2008124",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
