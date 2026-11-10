@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T17:40:21.746Z",
+  "generatedAt": "2026-11-10T17:50:20.663Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "aios:dcd17aff-6bd7-47d6-8e05-29eaa41cd1a1",
-    "nuro:8025016"
+    "airbnb:8304030",
+    "supabase:0055f731-cffa-4c74-9c00-8abfa579873d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 108,
     "new-grad": 17,
-    "experienced": 2200
+    "experienced": 2202
   },
   "companies": [
     {
@@ -117,7 +117,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -594,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4863,7 +4863,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5135,10 +5135,10 @@
     },
     {
       "name": "Tovala",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Town",
@@ -5702,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "0055f731-cffa-4c74-9c00-8abfa579873d",
+      "title": "Software Engineer - AI Tooling",
+      "location": "Remote, Global",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/0055f731-cffa-4c74-9c00-8abfa579873d",
+      "postedAt": "2026-11-10T17:43:44.365Z",
+      "key": "supabase:0055f731-cffa-4c74-9c00-8abfa579873d",
+      "company": "Supabase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-10T17:50:20.663Z"
+    },
     {
       "id": "dcd17aff-6bd7-47d6-8e05-29eaa41cd1a1",
       "title": "Senior Security Engineer at AIOS — Remote, $150k–$250k/yr inc equity",
@@ -33841,6 +33857,22 @@
         "us"
       ],
       "firstSeen": "2026-10-20T18:20:23.491Z"
+    },
+    {
+      "id": "8304030",
+      "title": "Senior Software Engineer, Users Foundation",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8304030?gh_jid=8304030",
+      "postedAt": "2026-10-20T18:18:13.000Z",
+      "key": "airbnb:8304030",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T17:50:20.663Z"
     },
     {
       "id": "5200278007",
