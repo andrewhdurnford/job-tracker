@@ -1,19 +1,22 @@
 {
-  "generatedAt": "2026-11-10T01:00:30.612Z",
+  "generatedAt": "2026-11-10T01:10:19.742Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "ctgt:36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e",
-    "openai:57bbaedc-30c1-4f1d-b194-e32a6adf874c"
+    "captivateiq:72330cb7-0357-4729-93d5-a19163567ea1",
+    "epicgames:6252103004",
+    "reddit:8369169",
+    "regent:2b47c43c-79ad-499f-8570-61f9107ff32c",
+    "replit:563751ea-cb0b-412e-ae07-c5638b87f81a"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 98,
+    "intern": 99,
     "new-grad": 16,
-    "experienced": 2140
+    "experienced": 2144
   },
   "companies": [
     {
@@ -796,7 +799,7 @@
     {
       "name": "CaptivateIQ",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1615,7 +1618,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4107,7 +4110,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4128,7 +4131,7 @@
     {
       "name": "REGENT",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4163,7 +4166,7 @@
     {
       "name": "Replit",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4829,7 +4832,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5702,6 +5705,93 @@
     }
   ],
   "jobs": [
+    {
+      "id": "72330cb7-0357-4729-93d5-a19163567ea1",
+      "title": "Senior Director, Engineering - ICM",
+      "location": "Remote USA (+1 more)",
+      "team": "Engineering Management Team",
+      "url": "https://jobs.lever.co/captivateiq/72330cb7-0357-4729-93d5-a19163567ea1",
+      "postedAt": "2026-11-10T01:06:39.664Z",
+      "key": "captivateiq:72330cb7-0357-4729-93d5-a19163567ea1",
+      "company": "CaptivateIQ",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-10T01:10:19.742Z"
+    },
+    {
+      "id": "8369169",
+      "title": "Senior Staff SRE, Site Experience",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8369169",
+      "postedAt": "2026-11-10T01:05:06.000Z",
+      "key": "reddit:8369169",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T01:10:19.742Z"
+    },
+    {
+      "id": "6252103004",
+      "title": "Senior Security Engineer",
+      "location": "Cary,North Carolina,United States",
+      "team": "Engineering Specialist",
+      "url": "https://epicgames.com/careers/jobs/6252103004?gh_jid=6252103004",
+      "postedAt": "2026-11-10T01:03:23.000Z",
+      "key": "epicgames:6252103004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T01:10:19.742Z"
+    },
+    {
+      "id": "2b47c43c-79ad-499f-8570-61f9107ff32c",
+      "title": "Systems Engineering Intern (Summer)",
+      "location": "North Kingstown, Rhode Island, USA",
+      "team": "Systems",
+      "url": "https://jobs.ashbyhq.com/REGENT/2b47c43c-79ad-499f-8570-61f9107ff32c",
+      "postedAt": "2026-11-10T01:00:31.054Z",
+      "key": "regent:2b47c43c-79ad-499f-8570-61f9107ff32c",
+      "company": "REGENT",
+      "level": "intern",
+      "term": {
+        "label": "Summer",
+        "seasons": [
+          "summer"
+        ],
+        "year": null
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T01:10:19.742Z"
+    },
+    {
+      "id": "563751ea-cb0b-412e-ae07-c5638b87f81a",
+      "title": "SOC Engineer",
+      "location": "Foster City, CA",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/replit/563751ea-cb0b-412e-ae07-c5638b87f81a",
+      "postedAt": "2026-11-10T01:00:08.752Z",
+      "key": "replit:563751ea-cb0b-412e-ae07-c5638b87f81a",
+      "company": "Replit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T01:10:19.742Z"
+    },
     {
       "id": "36ec2e84-8b55-4c8a-b7ee-5dadecd4c01e",
       "title": "AI Evaluation Research Intern",
