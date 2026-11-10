@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-10T19:20:27.148Z",
+  "generatedAt": "2026-11-10T19:30:28.633Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "dropbox:8328534",
-    "dropbox:8328537"
+    "Nvidia:JR2010442",
+    "Nvidia:JR2008124",
+    "Procore:R0018643"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 16,
-    "experienced": 2205
+    "experienced": 2207
   },
   "companies": [
     {
@@ -789,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 149,
+      "jobCount": 148,
       "error": null,
       "stale": false
     },
@@ -1875,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2064,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3428,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 356,
+      "jobCount": 358,
       "error": null,
       "stale": false
     },
@@ -3890,7 +3891,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,22 @@
   ],
   "jobs": [
     {
+      "id": "R0018643",
+      "title": "Senior/Staff 3D Reconstruction Engineer, Spatial AI – DroneDeploy",
+      "location": "US - California - San Francisco",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---California---San-Francisco/XMLNAME-3D-Computer-Vision-Engineer---DroneDeploy--Senior-_R0018643",
+      "postedAt": "2026-11-10T19:30:32.010Z",
+      "key": "Procore:R0018643",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T19:30:28.633Z"
+    },
+    {
       "id": "8328537",
       "title": "Security Engineer, IAM",
       "location": "Remote - Canada: Select locations",
@@ -6301,22 +6318,6 @@
         "us"
       ],
       "firstSeen": "2026-11-10T14:40:20.871Z"
-    },
-    {
-      "id": "R1004991",
-      "title": "Capital One Shopping Tech, Data Engineer 5 (Remote- Eligible)",
-      "location": "2 Locations",
-      "team": null,
-      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Capital-One-Shopping-Tech--Data-Engineer-5--Remote--Eligible-_R1004991",
-      "postedAt": "2026-11-10T14:30:28.453Z",
-      "key": "Capital One:R1004991",
-      "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-11-10T14:30:25.284Z"
     },
     {
       "id": "JR2029119",
@@ -7339,7 +7340,7 @@
     {
       "id": "8369164",
       "title": "Senior Machine Learning Engineer",
-      "location": "Denver, Colorado, United States; San Francisco, California, United States",
+      "location": "San Francisco, California, United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/checkr/jobs/8369164",
       "postedAt": "2026-11-09T22:53:14.000Z",
@@ -12492,7 +12493,7 @@
     },
     {
       "id": "8355820",
-      "title": "Security Risk Engineer",
+      "title": "Senior Security Risk Engineer",
       "location": "Vancouver, BC",
       "team": null,
       "url": "https://www.asana.com/jobs/apply/8355820?gh_jid=8355820",
@@ -23407,6 +23408,38 @@
         "remote"
       ],
       "firstSeen": "2026-10-30T19:50:18.204Z"
+    },
+    {
+      "id": "JR2008124",
+      "title": "Senior Research Scientist for Generative AI",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist-for-Generative-AI_JR2008124",
+      "postedAt": "2026-10-30T19:31:53.698Z",
+      "key": "Nvidia:JR2008124",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T19:30:28.633Z"
+    },
+    {
+      "id": "JR2010442",
+      "title": "Senior Datacenter Power Systems Modeling Engineer",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Datacenter-Power-Systems-Modeling-Engineer_JR2010442",
+      "postedAt": "2026-10-30T19:31:50.134Z",
+      "key": "Nvidia:JR2010442",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T19:30:28.633Z"
     },
     {
       "id": "8eded9f1-abca-47a3-89a9-772bf3e3d5e9",
