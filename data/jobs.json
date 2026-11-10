@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-10T17:00:33.938Z",
+  "generatedAt": "2026-11-10T17:10:23.193Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "cosmic-robotics:323bba28-86f0-43a2-b757-321b7e5ccab4",
-    "handshake:420831b7-9ce4-4940-9810-fc919a20e182"
+    "abnormalsecurity:8015179003",
+    "airbnb:8348197",
+    "Capital One:R1002012",
+    "northwoodspace:2335ff09-1f4f-435c-ae6c-3b75eb2ffbdf"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 108,
     "new-grad": 17,
-    "experienced": 2197
+    "experienced": 2201
   },
   "companies": [
     {
@@ -33,7 +35,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -117,7 +119,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -789,7 +791,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 149,
+      "jobCount": 150,
       "error": null,
       "stale": false
     },
@@ -3049,10 +3051,10 @@
     },
     {
       "name": "Mindy",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mirage",
@@ -3086,7 +3088,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3358,7 +3360,7 @@
     {
       "name": "Northwood Space",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 86,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4876,10 +4878,10 @@
     },
     {
       "name": "Superside",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Svix",
@@ -5702,6 +5704,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1002012",
+      "title": "Full-stack Engineer 4 (TypeScript, Python, AWS)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Node--TypeScript--AWS-_R1002012-1",
+      "postedAt": "2026-11-10T17:10:26.473Z",
+      "key": "Capital One:R1002012",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T17:10:23.193Z"
+    },
+    {
+      "id": "2335ff09-1f4f-435c-ae6c-3b75eb2ffbdf",
+      "title": "Senior Embedded Software Engineer",
+      "location": "Torrance, CA",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/northwoodspace/2335ff09-1f4f-435c-ae6c-3b75eb2ffbdf",
+      "postedAt": "2026-11-10T17:07:30.697Z",
+      "key": "northwoodspace:2335ff09-1f4f-435c-ae6c-3b75eb2ffbdf",
+      "company": "Northwood Space",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T17:10:23.193Z"
+    },
     {
       "id": "323bba28-86f0-43a2-b757-321b7e5ccab4",
       "title": "Senior Software Engineer - Calibration, Localization & Mapping",
@@ -16432,6 +16466,22 @@
         "us"
       ],
       "firstSeen": "2026-11-02T22:30:24.103Z"
+    },
+    {
+      "id": "8348197",
+      "title": "Senior Systems Engineer, Tech Foundations",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8348197?gh_jid=8348197",
+      "postedAt": "2026-11-02T22:28:26.000Z",
+      "key": "airbnb:8348197",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T17:10:23.193Z"
     },
     {
       "id": "8304700",
@@ -36005,6 +36055,22 @@
         "us"
       ],
       "firstSeen": "2026-10-17T07:30:24.151Z"
+    },
+    {
+      "id": "8015179003",
+      "title": "Software Engineer 1 - Cloud Infrastructure",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003",
+      "postedAt": "2026-10-17T04:06:39.000Z",
+      "key": "abnormalsecurity:8015179003",
+      "company": "Abnormal Security",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T17:10:23.193Z"
     },
     {
       "id": "10343ad3-79ee-4ef8-a0da-154908c915bf",
