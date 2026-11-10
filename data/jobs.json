@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T21:00:33.935Z",
+  "generatedAt": "2026-11-10T21:10:20.411Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1005174"
+    "temporal:a58b6b5f-204f-454d-9cd5-e8b2acc44b65"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -2875,7 +2875,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3427,7 +3427,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 358,
+      "jobCount": 357,
       "error": null,
       "stale": false
     },
@@ -5023,7 +5023,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5225,10 +5225,10 @@
     },
     {
       "name": "Twilio",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Typeform",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
+      "title": "Senior Developer Success Engineer - East",
+      "location": "New York, New York (+4 more)",
+      "team": "Customer Support",
+      "url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
+      "postedAt": "2026-11-10T21:05:22.067Z",
+      "key": "temporal:a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T21:10:20.411Z"
+    },
     {
       "id": "R1005174",
       "title": "Senior Associate, Data Scientist -  Consumer Credit Risk Models and Data",
@@ -22696,22 +22712,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Development-Engineer---Datacenter_JR2010907",
       "postedAt": "2026-10-30T23:40:26.600Z",
       "key": "Nvidia:JR2010907",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:40:17.764Z"
-    },
-    {
-      "id": "JR2011805",
-      "title": "Senior System Software Engineer - Tegra",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Tegra-Diagnostic-Software-Engineer_JR2011805",
-      "postedAt": "2026-10-30T23:40:26.600Z",
-      "key": "Nvidia:JR2011805",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
