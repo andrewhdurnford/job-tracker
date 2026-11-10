@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-10T00:10:22.329Z",
+  "generatedAt": "2026-11-10T00:20:20.445Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "cursor:5b744208-cb2c-4c31-9217-e0cbbf8ad7af"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3083,7 +3085,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
+      "title": "Software Engineer, ML Platform",
+      "location": "Palo Alto, CA",
+      "team": "Machine Learning",
+      "url": "https://jobs.ashbyhq.com/cursor/5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
+      "postedAt": "2026-11-10T00:19:31.394Z",
+      "key": "cursor:5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
+      "company": "Cursor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T00:20:20.445Z"
+    },
     {
       "id": "8364554",
       "title": "Director, Back-end Engineering",
@@ -29280,22 +29298,6 @@
       "postedAt": "2026-10-22T19:53:50.565Z",
       "key": "snowflake:6aa02c13-d9db-4624-b4ce-cc467562e2ed",
       "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T20:00:28.577Z"
-    },
-    {
-      "id": "6868de4a-f753-4f10-8dc5-f7aabef03b56",
-      "title": "Software Engineer, Compute Infra",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Cloud",
-      "url": "https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56",
-      "postedAt": "2026-10-22T19:53:00.965Z",
-      "key": "cursor:6868de4a-f753-4f10-8dc5-f7aabef03b56",
-      "company": "Cursor",
       "level": "experienced",
       "term": null,
       "regions": [
