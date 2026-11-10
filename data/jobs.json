@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-10T15:50:22.483Z",
+  "generatedAt": "2026-11-10T16:00:34.988Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "cloudflare:8369401"
+    "lyft:8931413002",
+    "stripe:8187574"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 105,
     "new-grad": 17,
-    "experienced": 2189
+    "experienced": 2191
   },
   "companies": [
     {
@@ -794,10 +795,10 @@
     },
     {
       "name": "CaptivateIQ",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Capy",
@@ -1403,10 +1404,10 @@
     },
     {
       "name": "Despegar",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Discord",
@@ -1466,10 +1467,10 @@
     },
     {
       "name": "Doxel",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Dropbox",
@@ -2846,7 +2847,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3048,10 +3049,10 @@
     },
     {
       "name": "Mindy",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mirage",
@@ -3771,7 +3772,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 86,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4799,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5358,10 +5359,10 @@
     },
     {
       "name": "Verifiable",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Veritus",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8931413002",
+      "title": "Software Engineer, Ad Infra",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002",
+      "postedAt": "2026-11-10T15:58:08.000Z",
+      "key": "lyft:8931413002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-10T16:00:34.988Z"
+    },
+    {
+      "id": "8187574",
+      "title": "Machine Learning Engineer, Transaction Risk",
+      "location": "Seattle",
+      "team": "7112 Data Science",
+      "url": "https://stripe.com/jobs/search?gh_jid=8187574",
+      "postedAt": "2026-11-10T15:52:46.000Z",
+      "key": "stripe:8187574",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T16:00:34.988Z"
+    },
     {
       "id": "8369401",
       "title": "Data Center Operations Engineer",
@@ -38831,7 +38864,7 @@
     },
     {
       "id": "5239536007",
-      "title": "Sr. Staff Software Development Engineer, SD-WAN",
+      "title": "Senior Staff Software Engineer – SASE & Cloud Security",
       "location": "Santa Clara, California, USA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5239536007",
