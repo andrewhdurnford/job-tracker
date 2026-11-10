@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-10T16:00:34.988Z",
+  "generatedAt": "2026-11-10T16:10:22.130Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "lyft:8931413002",
-    "stripe:8187574"
+    "chainguard:4726687006",
+    "okta:8333990",
+    "suno:9487fe6a-f607-4814-a916-cc2b2516d2f1"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 105,
     "new-grad": 17,
-    "experienced": 2191
+    "experienced": 2194
   },
   "companies": [
     {
@@ -795,10 +796,10 @@
     },
     {
       "name": "CaptivateIQ",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Capy",
@@ -880,7 +881,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1404,10 +1405,10 @@
     },
     {
       "name": "Despegar",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Discord",
@@ -1467,10 +1468,10 @@
     },
     {
       "name": "Doxel",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Dropbox",
@@ -3049,10 +3050,10 @@
     },
     {
       "name": "Mindy",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mirage",
@@ -3470,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -3772,7 +3773,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4856,7 +4857,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5359,10 +5360,10 @@
     },
     {
       "name": "Verifiable",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Veritus",
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8333990",
+      "title": "Software Engineer II, Platform Infrastructure - Control",
+      "location": "Toronto, Ontario, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8333990?gh_jid=8333990",
+      "postedAt": "2026-11-10T16:04:21.000Z",
+      "key": "okta:8333990",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-10T16:10:22.130Z"
+    },
+    {
+      "id": "4726687006",
+      "title": "Staff Product Security Engineer",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4726687006",
+      "postedAt": "2026-11-10T16:02:43.000Z",
+      "key": "chainguard:4726687006",
+      "company": "Chainguard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T16:10:22.130Z"
+    },
+    {
+      "id": "9487fe6a-f607-4814-a916-cc2b2516d2f1",
+      "title": "Senior IT Engineer",
+      "location": "NYC",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/suno/9487fe6a-f607-4814-a916-cc2b2516d2f1",
+      "postedAt": "2026-11-10T16:00:41.209Z",
+      "key": "suno:9487fe6a-f607-4814-a916-cc2b2516d2f1",
+      "company": "Suno",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T16:10:22.130Z"
+    },
     {
       "id": "8931413002",
       "title": "Software Engineer, Ad Infra",
