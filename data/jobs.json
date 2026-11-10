@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-10T22:20:20.527Z",
+  "generatedAt": "2026-11-10T22:30:24.608Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "factory:7ae9da73-0ee6-4529-809d-4544ad33febe"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 16,
-    "experienced": 2202
+    "experienced": 2203
   },
   "companies": [
     {
@@ -1661,7 +1663,7 @@
     {
       "name": "Factory",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 88,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7ae9da73-0ee6-4529-809d-4544ad33febe",
+      "title": "Software Engineer, Mobile",
+      "location": "San Francisco, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/factory/7ae9da73-0ee6-4529-809d-4544ad33febe",
+      "postedAt": "2026-11-10T22:21:14.589Z",
+      "key": "factory:7ae9da73-0ee6-4529-809d-4544ad33febe",
+      "company": "Factory",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T22:30:24.608Z"
+    },
     {
       "id": "5394611008",
       "title": "Engineering Manager, Agent Security Partnerships",
