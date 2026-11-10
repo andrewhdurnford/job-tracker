@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-09T23:50:19.533Z",
+  "generatedAt": "2026-11-10T00:00:30.594Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "coupang:8364554"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 97,
     "new-grad": 16,
-    "experienced": 2138
+    "experienced": 2139
   },
   "companies": [
     {
@@ -1199,7 +1201,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -2325,10 +2327,10 @@
     },
     {
       "name": "Icarus",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Ideogram",
@@ -2551,7 +2553,7 @@
       "name": "KAYAK",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5561,7 +5563,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8364554",
+      "title": "Director, Back-end Engineering",
+      "location": "Mountain View, USA; Seattle, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8364554",
+      "postedAt": "2026-11-09T23:57:37.000Z",
+      "key": "coupang:8364554",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T00:00:30.594Z"
+    },
     {
       "id": "8366842",
       "title": "Staff Software Engineer, AI Developer Productivity",
@@ -6263,7 +6281,7 @@
     {
       "id": "5477379008",
       "title": "Staff+ Software Engineer, Safeguards Evals ",
-      "location": "San Francisco, CA; Seattle, WA",
+      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477379008",
       "postedAt": "2026-11-09T20:05:14.000Z",
@@ -6406,7 +6424,7 @@
     },
     {
       "id": "R30851",
-      "title": "Engineer II, Systems Integration",
+      "title": "Engineer II, Systems Integration (Bend, OR)",
       "location": "USA - Bend, OR",
       "team": null,
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Bend-OR/Engineer-II--Systems-Integration_R30851-1",
@@ -9230,7 +9248,7 @@
     },
     {
       "id": "8350832",
-      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer, Multiverse",
       "location": "San Francisco, California, USA",
       "team": null,
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
