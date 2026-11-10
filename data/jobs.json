@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-11-10T20:50:21.166Z",
+  "generatedAt": "2026-11-10T21:00:33.935Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Capital One:R1005555",
-    "cloudflare:8368421",
-    "coupang:8347854",
-    "roblox:8359456"
+    "Capital One:R1005174"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 16,
-    "experienced": 2226
+    "experienced": 2223
   },
   "companies": [
     {
@@ -791,7 +788,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 152,
+      "jobCount": 153,
       "error": null,
       "stale": false
     },
@@ -2878,7 +2875,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3395,7 +3392,7 @@
     {
       "name": "Nox Metals",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5228,10 +5225,10 @@
     },
     {
       "name": "Twilio",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Typeform",
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1005174",
+      "title": "Senior Associate, Data Scientist -  Consumer Credit Risk Models and Data",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate--Data-Scientist----Consumer-Credit-Risk-Models-and-Data_R1005174-1",
+      "postedAt": "2026-11-10T21:00:37.273Z",
+      "key": "Capital One:R1005174",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T21:00:33.935Z"
+    },
     {
       "id": "R1005555",
       "title": "Full-stack Engineer 4",
@@ -26394,7 +26407,7 @@
     {
       "id": "fe41fd7e-56ad-4bdc-b13f-20adb2542171",
       "title": "Staff Forward Deployed Engineer, Applied AI",
-      "location": "US-CA-Menlo Park",
+      "location": "US-CA-Menlo Park (+1 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/snowflake/fe41fd7e-56ad-4bdc-b13f-20adb2542171",
       "postedAt": "2026-10-28T16:34:18.145Z",
@@ -42564,70 +42577,6 @@
         "us"
       ],
       "firstSeen": "2026-10-12T22:40:18.062Z"
-    },
-    {
-      "id": "69368b32-b01b-4da2-ab64-bd51d4c7e2a0",
-      "title": "Infrastructure Engineer",
-      "location": "Los Angeles (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/nox-metals/69368b32-b01b-4da2-ab64-bd51d4c7e2a0",
-      "postedAt": "2026-10-11T20:55:50.373Z",
-      "key": "nox-metals:69368b32-b01b-4da2-ab64-bd51d4c7e2a0",
-      "company": "Nox Metals",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-11T21:00:23.947Z"
-    },
-    {
-      "id": "a9d38f81-0116-4ab0-b822-b0b7f8d445bc",
-      "title": "Machine Learning Engineer",
-      "location": "Los Angeles (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/nox-metals/a9d38f81-0116-4ab0-b822-b0b7f8d445bc",
-      "postedAt": "2026-10-11T20:54:19.984Z",
-      "key": "nox-metals:a9d38f81-0116-4ab0-b822-b0b7f8d445bc",
-      "company": "Nox Metals",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-11T21:00:23.947Z"
-    },
-    {
-      "id": "d7ff8e28-3cf2-4794-a29e-7f73444fddc7",
-      "title": "Full Stack Engineer",
-      "location": "Los Angeles (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/nox-metals/d7ff8e28-3cf2-4794-a29e-7f73444fddc7",
-      "postedAt": "2026-10-11T20:53:59.145Z",
-      "key": "nox-metals:d7ff8e28-3cf2-4794-a29e-7f73444fddc7",
-      "company": "Nox Metals",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-11T21:00:23.947Z"
-    },
-    {
-      "id": "dfb98c26-dfd2-4087-8fe1-50272f088e08",
-      "title": "Director of Engineering",
-      "location": "Los Angeles",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/nox-metals/dfb98c26-dfd2-4087-8fe1-50272f088e08",
-      "postedAt": "2026-10-11T20:53:10.388Z",
-      "key": "nox-metals:dfb98c26-dfd2-4087-8fe1-50272f088e08",
-      "company": "Nox Metals",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-11T21:00:23.947Z"
     },
     {
       "id": "bb42f37c-8a7c-434d-aae8-089820a7171d",
