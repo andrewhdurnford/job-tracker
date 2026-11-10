@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-10T20:20:19.995Z",
+  "generatedAt": "2026-11-10T20:30:27.955Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "ramp:26855617-1697-4fd2-8c33-a5fb11fc4c77",
-    "samsara:8180693"
+    "epicgames:6254352004",
+    "Nvidia:JR2013039",
+    "Remitly:R_106982"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 16,
-    "experienced": 2215
+    "experienced": 2217
   },
   "companies": [
     {
@@ -1615,7 +1616,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 357,
+      "jobCount": 358,
       "error": null,
       "stale": false
     },
@@ -4016,7 +4017,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4135,7 +4136,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 88,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_106982",
+      "title": "Senior Software Engineer, Globalization",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Engineer--Globalization_R_106982",
+      "postedAt": "2026-11-10T20:30:31.251Z",
+      "key": "Remitly:R_106982",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T20:30:27.955Z"
+    },
+    {
+      "id": "6254352004",
+      "title": "Senior Security Automation Software Engineer",
+      "location": "Cary,North Carolina,United States",
+      "team": "InfoSec",
+      "url": "https://epicgames.com/careers/jobs/6254352004?gh_jid=6254352004",
+      "postedAt": "2026-11-10T20:29:18.000Z",
+      "key": "epicgames:6254352004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T20:30:27.955Z"
+    },
     {
       "id": "8180693",
       "title": "Manager II, Software Engineering",
@@ -23380,6 +23413,22 @@
         "us"
       ],
       "firstSeen": "2026-10-30T21:10:29.946Z"
+    },
+    {
+      "id": "JR2013039",
+      "title": "Senior Research Scientist, Fundamental Generative AI",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist--Fundamental-Generative-AI_JR2013039",
+      "postedAt": "2026-10-30T20:32:06.812Z",
+      "key": "Nvidia:JR2013039",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T20:30:27.955Z"
     },
     {
       "id": "REF081637W",
@@ -42816,22 +42865,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T20:28:01.910Z"
-    },
-    {
-      "id": "a4e0c464-decb-410b-897b-ea039203c33e",
-      "title": "Backend Engineer",
-      "location": "Denver, CO (+3 more)",
-      "team": "Backend",
-      "url": "https://jobs.ashbyhq.com/quindar/a4e0c464-decb-410b-897b-ea039203c33e",
-      "postedAt": "2026-10-05T18:39:08.539Z",
-      "key": "quindar:a4e0c464-decb-410b-897b-ea039203c33e",
-      "company": "Quindar",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T19:36:03.559Z"
     },
     {
       "id": "R1002798",
