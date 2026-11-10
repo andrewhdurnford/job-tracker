@@ -1,14 +1,17 @@
 {
-  "generatedAt": "2026-11-10T18:10:23.105Z",
+  "generatedAt": "2026-11-10T18:20:22.041Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "Capital One:R1005494",
+    "regent:9f25824f-486e-4d3a-b444-116b474619d7"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 108,
+    "intern": 109,
     "new-grad": 17,
     "experienced": 2205
   },
@@ -786,7 +789,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 150,
+      "jobCount": 151,
       "error": null,
       "stale": false
     },
@@ -3769,7 +3772,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4125,7 +4128,7 @@
     {
       "name": "REGENT",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5574,7 +5577,7 @@
     {
       "name": "Writer",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1005494",
+      "title": "Mobile Engineer 4 (Android)",
+      "location": "McLean, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Mobile-Engineer-4--Android-_R1005494-1",
+      "postedAt": "2026-11-10T18:20:24.971Z",
+      "key": "Capital One:R1005494",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T18:20:22.041Z"
+    },
+    {
+      "id": "9f25824f-486e-4d3a-b444-116b474619d7",
+      "title": "Embedded Software Engineering Intern",
+      "location": "North Kingstown, Rhode Island, USA",
+      "team": "Embedded",
+      "url": "https://jobs.ashbyhq.com/REGENT/9f25824f-486e-4d3a-b444-116b474619d7",
+      "postedAt": "2026-11-10T18:13:10.548Z",
+      "key": "regent:9f25824f-486e-4d3a-b444-116b474619d7",
+      "company": "REGENT",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T18:20:22.041Z"
+    },
     {
       "id": "8328549",
       "title": "Senior Security Engineer, AI Security",
@@ -5990,7 +6025,7 @@
     },
     {
       "id": "8931413002",
-      "title": "Software Engineer, Ad Infra",
+      "title": "Data Engineer",
       "location": "Toronto, Canada",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8931413002?gh_jid=8931413002",
@@ -14581,22 +14616,6 @@
         "us"
       ],
       "firstSeen": "2026-11-03T23:40:20.238Z"
-    },
-    {
-      "id": "93fbe5ce-2ce9-41ea-a998-a433c0f7f085",
-      "title": "AI engineer ",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/WRITER/93fbe5ce-2ce9-41ea-a998-a433c0f7f085",
-      "postedAt": "2026-11-03T23:27:08.037Z",
-      "key": "writer:93fbe5ce-2ce9-41ea-a998-a433c0f7f085",
-      "company": "Writer",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T23:30:25.929Z"
     },
     {
       "id": "e5997d72-0cd0-4981-b161-6c2e3a5f4c5b",
