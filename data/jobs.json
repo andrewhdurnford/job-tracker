@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-10T21:20:21.191Z",
+  "generatedAt": "2026-11-10T21:30:25.975Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2011805",
-    "ramp:8101bdeb-69ff-4797-838b-7344842b85a4"
+    "Nvidia:JR2024825",
+    "pinterest:8230775",
+    "shieldai:72b7a38e-e07b-4b62-b1f9-190e695aa253"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 16,
-    "experienced": 2221
+    "experienced": 2224
   },
   "companies": [
     {
@@ -3428,7 +3429,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 356,
+      "jobCount": 357,
       "error": null,
       "stale": false
     },
@@ -3757,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3772,7 +3773,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4471,7 +4472,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 88,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2024825",
+      "title": "Senior Software Engineer - Distributed Systems Engineer, EDA Infrastructure",
+      "location": "6 Locations",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Remote/Senior-Software-Engineer---Distributed-Systems-Engineer--EDA-Infrastructure_JR2024825-1",
+      "postedAt": "2026-11-10T21:30:29.877Z",
+      "key": "Nvidia:JR2024825",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-10T21:30:25.975Z"
+    },
+    {
+      "id": "8230775",
+      "title": "Staff Security Software Engineer, Detection & Response",
+      "location": "Seattle, WA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8230775",
+      "postedAt": "2026-11-10T21:23:25.000Z",
+      "key": "pinterest:8230775",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T21:30:25.975Z"
+    },
+    {
+      "id": "72b7a38e-e07b-4b62-b1f9-190e695aa253",
+      "title": "Staff Engineer, Reliability (R6517)",
+      "location": "Dallas, Texas",
+      "team": "V-BAT Engineering - Electrical",
+      "url": "https://jobs.lever.co/shieldai/72b7a38e-e07b-4b62-b1f9-190e695aa253",
+      "postedAt": "2026-11-10T21:22:45.637Z",
+      "key": "shieldai:72b7a38e-e07b-4b62-b1f9-190e695aa253",
+      "company": "Shield AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-10T21:30:25.975Z"
+    },
     {
       "id": "8101bdeb-69ff-4797-838b-7344842b85a4",
       "title": "Senior Engineer, Backend, Procurement",
