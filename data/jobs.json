@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-11T02:50:18.154Z",
+  "generatedAt": "2026-11-11T03:00:29.046Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "commure:3e3934a8-ef1e-47bc-84a9-9807b01bc666"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 16,
-    "experienced": 2216
+    "experienced": 2215
   },
   "companies": [
     {
@@ -253,10 +255,10 @@
     },
     {
       "name": "Anchorage",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Andera",
@@ -527,7 +529,7 @@
     {
       "name": "Bayesian Health",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3e3934a8-ef1e-47bc-84a9-9807b01bc666",
+      "title": "Software Engineer, Autonomous Revenue Operations ",
+      "location": "Mountain View, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/Commure/3e3934a8-ef1e-47bc-84a9-9807b01bc666",
+      "postedAt": "2026-11-11T02:54:14.117Z",
+      "key": "commure:3e3934a8-ef1e-47bc-84a9-9807b01bc666",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-11T03:00:29.046Z"
+    },
     {
       "id": "b8a87691-3b2a-4960-aa0e-cda34894039c",
       "title": "Deployment Engineer",
@@ -25648,22 +25666,6 @@
       "firstSeen": "2026-10-29T03:10:17.673Z"
     },
     {
-      "id": "3ea2fcfb-9a68-4b8d-a9aa-600a733ef655",
-      "title": "Software Engineer, Data & Analytics Platform",
-      "location": "Remote - US Only",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/bayesianhealth/3ea2fcfb-9a68-4b8d-a9aa-600a733ef655",
-      "postedAt": "2026-10-29T02:56:25.917Z",
-      "key": "bayesianhealth:3ea2fcfb-9a68-4b8d-a9aa-600a733ef655",
-      "company": "Bayesian Health",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T03:00:29.717Z"
-    },
-    {
       "id": "9f7371c4-e306-4a45-a400-aa2843fabd85",
       "title": "Network Infrastructure Engineer, Global Network Infra (WAN)",
       "location": "San Francisco",
@@ -26984,22 +26986,6 @@
       "regions": [
         "us",
         "canada"
-      ],
-      "firstSeen": "2026-10-27T21:50:19.023Z"
-    },
-    {
-      "id": "7e0572ec-fe77-4893-bc33-6d007bbcc5ff",
-      "title": "Software Engineer, Applied AI (RCM)",
-      "location": "Mountain View, CA",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/Commure/7e0572ec-fe77-4893-bc33-6d007bbcc5ff",
-      "postedAt": "2026-10-27T21:45:01.361Z",
-      "key": "commure:7e0572ec-fe77-4893-bc33-6d007bbcc5ff",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-27T21:50:19.023Z"
     },
