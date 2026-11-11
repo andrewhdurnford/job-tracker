@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-11T09:20:20.589Z",
+  "generatedAt": "2026-11-11T09:30:23.080Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "intercom:8371261"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 111,
     "new-grad": 16,
-    "experienced": 2220
+    "experienced": 2221
   },
   "companies": [
     {
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2424,7 +2426,7 @@
     {
       "name": "Intercom",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8371261",
+      "title": "Application Security Engineer",
+      "location": "Chicago, Illinois",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8371261",
+      "postedAt": "2026-11-11T09:25:28.000Z",
+      "key": "intercom:8371261",
+      "company": "Intercom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-11T09:30:23.080Z"
+    },
     {
       "id": "8ff17ade-462e-4afe-9255-b4193d0b8424",
       "title": "Staff Developer, Authentication Enablement",
