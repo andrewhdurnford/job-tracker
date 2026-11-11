@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T04:30:23.972Z",
+  "generatedAt": "2026-11-11T04:40:19.947Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1774,7 +1774,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5419,10 +5419,10 @@
     },
     {
       "name": "Volta Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Vori",
@@ -7777,7 +7777,7 @@
     },
     {
       "id": "2b47c43c-79ad-499f-8570-61f9107ff32c",
-      "title": "Systems Engineering Intern (Summer)",
+      "title": "Systems Engineering Intern (Commercial) (Summer)",
       "location": "North Kingstown, Rhode Island, USA",
       "team": "Systems",
       "url": "https://jobs.ashbyhq.com/REGENT/2b47c43c-79ad-499f-8570-61f9107ff32c",
