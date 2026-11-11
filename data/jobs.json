@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-11-11T04:10:19.656Z",
+  "generatedAt": "2026-11-11T04:20:20.603Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "astranis:4704569006"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 110,
+    "intern": 111,
     "new-grad": 16,
     "experienced": 2217
   },
@@ -429,7 +431,7 @@
     {
       "name": "Astranis",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5699,6 +5701,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4704569006",
+      "title": "Embedded Software Developer, Network/Payload Intern (Summer 2027)",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704569006",
+      "postedAt": "2026-11-11T04:14:19.000Z",
+      "key": "astranis:4704569006",
+      "company": "Astranis",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-11T04:20:20.603Z"
+    },
     {
       "id": "8376286",
       "title": "Technical Lead Software Engineer, Routing",
