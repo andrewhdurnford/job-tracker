@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-11T20:00:29.011Z",
+  "generatedAt": "2026-11-11T20:10:18.812Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "method:5a24316b-24c8-4595-b889-a1650b54af8e"
+    "upstart:8360595",
+    "upstart:8367462",
+    "upstart:8367467"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 111,
     "new-grad": 16,
-    "experienced": 2232
+    "experienced": 2233
   },
   "companies": [
     {
@@ -593,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3286,10 +3288,10 @@
     },
     {
       "name": "Netomi",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Netskope",
@@ -3469,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5107,7 +5109,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5303,7 +5305,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5673,10 +5675,10 @@
     },
     {
       "name": "Zippi",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zoom",
@@ -5701,6 +5703,57 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8367467",
+      "title": "Staff Applied Scientist",
+      "location": "United States | Remote",
+      "team": null,
+      "url": "https://careers.upstart.com/jobs?gh_jid=8367467",
+      "postedAt": "2026-11-11T20:10:00.000Z",
+      "key": "upstart:8367467",
+      "company": "Upstart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-11T20:10:18.812Z"
+    },
+    {
+      "id": "8367462",
+      "title": "Senior Applied Scientist ",
+      "location": "United States | Remote",
+      "team": null,
+      "url": "https://careers.upstart.com/jobs?gh_jid=8367462",
+      "postedAt": "2026-11-11T20:09:57.000Z",
+      "key": "upstart:8367462",
+      "company": "Upstart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-11T20:10:18.812Z"
+    },
+    {
+      "id": "8360595",
+      "title": "Applied Scientist",
+      "location": "United States | Remote",
+      "team": null,
+      "url": "https://careers.upstart.com/jobs?gh_jid=8360595",
+      "postedAt": "2026-11-11T20:09:54.000Z",
+      "key": "upstart:8360595",
+      "company": "Upstart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-11T20:10:18.812Z"
+    },
     {
       "id": "49a74b79-7c2a-455c-b714-84e74121403d",
       "title": "Staff Backend Engineer, Agent Infrastructure ",
@@ -30697,22 +30750,6 @@
       "firstSeen": "2026-10-23T18:00:29.039Z"
     },
     {
-      "id": "8186869",
-      "title": "Software Engineer II (Fullstack), Digital Storefront",
-      "location": "US (remote)",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8186869",
-      "postedAt": "2026-10-23T17:50:16.000Z",
-      "key": "toast:8186869",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-11T15:00:28.941Z"
-    },
-    {
       "id": "6122975004",
       "title": "Principal Engineer, AI Platform",
       "location": "Cary,North Carolina,United States",
@@ -42705,22 +42742,6 @@
         "us"
       ],
       "firstSeen": "2026-10-12T20:40:15.848Z"
-    },
-    {
-      "id": "8268917",
-      "title": "Senior Site Reliability Engineer  - EPG",
-      "location": "Bellevue, Washington; San Francisco, California",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8268917?gh_jid=8268917",
-      "postedAt": "2026-10-12T20:08:40.000Z",
-      "key": "okta:8268917",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-12T20:10:17.013Z"
     },
     {
       "id": "JR202601072",
