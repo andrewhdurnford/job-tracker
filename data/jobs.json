@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T18:00:29.899Z",
+  "generatedAt": "2026-11-11T18:10:20.684Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 111,
     "new-grad": 16,
-    "experienced": 2234
+    "experienced": 2233
   },
   "companies": [
     {
@@ -114,7 +114,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4194,10 +4194,10 @@
     },
     {
       "name": "Rezo Therapeutics",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Rigetti Quantum Computing",
@@ -4341,10 +4341,10 @@
     },
     {
       "name": "Sandbox VR",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sandstone",
@@ -5608,10 +5608,10 @@
     },
     {
       "name": "Yuno",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zapier",
@@ -13908,7 +13908,7 @@
     },
     {
       "id": "8355820",
-      "title": "Senior Security Risk Engineer",
+      "title": "Security Risk Engineer",
       "location": "Vancouver, BC",
       "team": null,
       "url": "https://www.asana.com/jobs/apply/8355820?gh_jid=8355820",
@@ -18010,22 +18010,6 @@
         "us"
       ],
       "firstSeen": "2026-11-02T22:30:24.103Z"
-    },
-    {
-      "id": "8348197",
-      "title": "Senior Systems Engineer, Tech Foundations",
-      "location": "United States",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8348197?gh_jid=8348197",
-      "postedAt": "2026-11-02T22:28:26.000Z",
-      "key": "airbnb:8348197",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T17:10:23.193Z"
     },
     {
       "id": "8304700",
