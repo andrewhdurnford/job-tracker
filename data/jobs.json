@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T03:00:29.046Z",
+  "generatedAt": "2026-11-11T03:10:21.083Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "commure:3e3934a8-ef1e-47bc-84a9-9807b01bc666"
+    "bayesianhealth:3ea2fcfb-9a68-4b8d-a9aa-600a733ef655"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 16,
-    "experienced": 2215
+    "experienced": 2216
   },
   "companies": [
     {
@@ -255,10 +255,10 @@
     },
     {
       "name": "Anchorage",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Andera",
@@ -529,7 +529,7 @@
     {
       "name": "Bayesian Health",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1755,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1776,7 +1776,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "3ea2fcfb-9a68-4b8d-a9aa-600a733ef655",
+      "title": "Software Engineer, Data & Analytics Platform",
+      "location": "Remote - US Only",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/bayesianhealth/3ea2fcfb-9a68-4b8d-a9aa-600a733ef655",
+      "postedAt": "2026-11-11T03:01:33.372Z",
+      "key": "bayesianhealth:3ea2fcfb-9a68-4b8d-a9aa-600a733ef655",
+      "company": "Bayesian Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-11T03:10:21.083Z"
+    },
     {
       "id": "3e3934a8-ef1e-47bc-84a9-9807b01bc666",
       "title": "Software Engineer, Autonomous Revenue Operations ",
