@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-11-11T16:20:25.296Z",
+  "generatedAt": "2026-11-11T16:30:29.245Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "brex:8936403002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 110,
+    "intern": 111,
     "new-grad": 16,
     "experienced": 2237
   },
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -709,7 +711,7 @@
     {
       "name": "Brex",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1753,7 +1755,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1774,7 +1776,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2656,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5699,6 +5701,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8936403002",
+      "title": "Software Engineer, Intern  (Summer 2027)",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+      "postedAt": "2026-11-11T16:23:25.000Z",
+      "key": "brex:8936403002",
+      "company": "Brex",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-11T16:30:29.245Z"
+    },
     {
       "id": "8350761",
       "title": "Principal Software Engineer, Infrastructure ",
@@ -30157,7 +30181,7 @@
     {
       "id": "5268021007",
       "title": "Manager – AI & Data Platform Engineering",
-      "location": "Santa Clara, California, USA",
+      "location": "Remote - USA; Santa Clara, California, USA",
       "team": null,
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268021007",
       "postedAt": "2026-10-23T21:55:26.000Z",
