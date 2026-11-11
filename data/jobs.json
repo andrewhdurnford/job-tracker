@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-11T21:20:22.708Z",
+  "generatedAt": "2026-11-11T21:30:27.337Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "zscaler:5282847007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 111,
     "new-grad": 17,
-    "experienced": 2238
+    "experienced": 2237
   },
   "companies": [
     {
@@ -3411,7 +3413,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3586,7 +3588,7 @@
     {
       "name": "Palantir",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4131,10 +4133,10 @@
     },
     {
       "name": "Remitly",
-      "ok": true,
+      "ok": false,
       "jobCount": 20,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Remora",
@@ -5686,7 +5688,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5282847007",
+      "title": "Principal GenAI Data Engineer ",
+      "location": "Bellevue, Washington, USA; Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5282847007",
+      "postedAt": "2026-11-11T21:26:58.000Z",
+      "key": "zscaler:5282847007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-11T21:30:27.337Z"
+    },
     {
       "id": "R173462",
       "title": "2027 University Graduate - Data Scientist",
@@ -42759,38 +42777,6 @@
         "us"
       ],
       "firstSeen": "2026-10-12T21:40:16.587Z"
-    },
-    {
-      "id": "5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-      "title": "Forward Deployed Software Engineer - US Government",
-      "location": "Norfolk, VA",
-      "team": "Delta",
-      "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-      "postedAt": "2026-10-12T21:27:12.616Z",
-      "key": "palantir:5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-      "company": "Palantir",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-12T21:30:20.280Z"
-    },
-    {
-      "id": "8263455",
-      "title": "Senior Software Engineer, Pose",
-      "location": "Mountain View, California (HQ)",
-      "team": null,
-      "url": "https://nuro.ai/careersitem?gh_jid=8263455",
-      "postedAt": "2026-10-12T21:25:56.000Z",
-      "key": "nuro:8263455",
-      "company": "Nuro",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-12T21:30:20.280Z"
     },
     {
       "id": "735d5deb-ba6e-49b2-88ba-5ebdf8d315a0",
