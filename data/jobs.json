@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-11-12T23:10:19.547Z",
+  "generatedAt": "2026-11-12T23:20:20.156Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "Visa:REF080663W"
+    "affirm:8181183003",
+    "affirm:8181185003",
+    "affirm:8196749003",
+    "affirm:8196747003",
+    "ServiceTitan:JR115629"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 22,
-    "experienced": 2251
+    "experienced": 2255
   },
   "companies": [
     {
@@ -81,7 +85,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -593,7 +597,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1243,7 +1247,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -4435,7 +4439,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 97,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR115629",
+      "title": "Senior Software Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Senior-Software-Engineer_JR115629",
+      "postedAt": "2026-11-12T23:20:23.635Z",
+      "key": "ServiceTitan:JR115629",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T23:20:20.156Z"
+    },
+    {
+      "id": "8181185003",
+      "title": "Software Engineer I, Backend (Continuous Delivery)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
+      "postedAt": "2026-11-12T23:15:57.000Z",
+      "key": "affirm:8181185003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-12T23:20:20.156Z"
+    },
+    {
+      "id": "8181183003",
+      "title": "Software Engineer I, Backend (Continuous Delivery)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+      "postedAt": "2026-11-12T23:15:54.000Z",
+      "key": "affirm:8181183003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T23:20:20.156Z"
+    },
+    {
+      "id": "8196749003",
+      "title": "Staff Software Engineer, Fullstack (Auth Experiences)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196749003",
+      "postedAt": "2026-11-12T23:14:42.000Z",
+      "key": "affirm:8196749003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-12T23:20:20.156Z"
+    },
+    {
+      "id": "8196747003",
+      "title": "Staff Software Engineer, Fullstack (Auth Experiences)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196747003",
+      "postedAt": "2026-11-12T23:14:40.000Z",
+      "key": "affirm:8196747003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T23:20:20.156Z"
+    },
     {
       "id": "REF080663W",
       "title": "Software Engineer - Sr Consultant level",
@@ -12611,22 +12695,6 @@
         "canada"
       ],
       "firstSeen": "2026-11-09T12:30:29.217Z"
-    },
-    {
-      "id": "R30841",
-      "title": "Sr. UI Platform Engineer",
-      "location": "USA - Sunnyvale, CA",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-UI-Platform-Engineer_R30841",
-      "postedAt": "2026-11-09T12:20:26.064Z",
-      "key": "CrowdStrike:R30841",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T12:20:21.032Z"
     },
     {
       "id": "REF090029W",
@@ -38909,7 +38977,7 @@
       "id": "10343ad3-79ee-4ef8-a0da-154908c915bf",
       "title": "Staff Engineer, Fuel Systems - Ranger (R6299)",
       "location": "Seattle, Washington",
-      "team": "X-BAT Engineering - Propulsion",
+      "team": "Ranger Eng - Propulsion",
       "url": "https://jobs.lever.co/shieldai/10343ad3-79ee-4ef8-a0da-154908c915bf",
       "postedAt": "2026-10-17T02:07:57.812Z",
       "key": "shieldai:10343ad3-79ee-4ef8-a0da-154908c915bf",
