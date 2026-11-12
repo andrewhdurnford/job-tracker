@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-12T15:00:30.588Z",
+  "generatedAt": "2026-11-12T15:10:20.692Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "tripactions:8356936",
-    "tripactions:8360525"
+    "affirm:8201465003",
+    "affirm:8201463003",
+    "nubank:567fe5b4-2e96-49cc-b81f-72a83543488d",
+    "Nvidia:JR2018334"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 20,
-    "experienced": 2240
+    "experienced": 2241
   },
   "companies": [
     {
@@ -82,7 +84,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -3400,7 +3402,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 337,
+      "jobCount": 338,
       "error": null,
       "stale": false
     },
@@ -3588,10 +3590,10 @@
     },
     {
       "name": "Palantir",
-      "ok": false,
+      "ok": true,
       "jobCount": 13,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Paradigm",
@@ -4107,7 +4109,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 91,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5045,7 +5047,7 @@
     {
       "name": "Tennr",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "567fe5b4-2e96-49cc-b81f-72a83543488d",
+      "title": "Senior Machine Learning Engineer Manager",
+      "location": "Miami (+1 more)",
+      "team": "Machine Learning",
+      "url": "https://jobs.ashbyhq.com/nubank/567fe5b4-2e96-49cc-b81f-72a83543488d",
+      "postedAt": "2026-11-12T15:08:27.846Z",
+      "key": "nubank:567fe5b4-2e96-49cc-b81f-72a83543488d",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T15:10:20.692Z"
+    },
+    {
+      "id": "8201465003",
+      "title": "Senior Software Engineer, Backend (ML Training and Serving) ",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201465003",
+      "postedAt": "2026-11-12T15:02:44.000Z",
+      "key": "affirm:8201465003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-12T15:10:20.692Z"
+    },
+    {
+      "id": "8201463003",
+      "title": "Senior Software Engineer, Backend (ML Training and Serving) ",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201463003",
+      "postedAt": "2026-11-12T15:02:43.000Z",
+      "key": "affirm:8201463003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T15:10:20.692Z"
+    },
+    {
       "id": "8360525",
       "title": "Sr. Software Engineer, Core AI",
       "location": "New York, NY",
@@ -5733,22 +5783,6 @@
         "us"
       ],
       "firstSeen": "2026-11-12T15:00:30.588Z"
-    },
-    {
-      "id": "b888c69f-2bce-4231-82af-3d55a36ac244",
-      "title": "Senior IT Systems Engineer",
-      "location": "New York City Office",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/tennr/b888c69f-2bce-4231-82af-3d55a36ac244",
-      "postedAt": "2026-11-12T14:35:20.878Z",
-      "key": "tennr:b888c69f-2bce-4231-82af-3d55a36ac244",
-      "company": "Tennr",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-12T14:40:20.525Z"
     },
     {
       "id": "4cc94ede-4b39-4f50-9b92-427e1f52c509",
@@ -14759,38 +14793,6 @@
       "postedAt": "2026-11-05T16:20:25.498Z",
       "key": "Capital One:R1004709",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T16:20:21.966Z"
-    },
-    {
-      "id": "8349916",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916",
-      "postedAt": "2026-11-05T16:13:17.000Z",
-      "key": "reddit:8349916",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T16:20:21.966Z"
-    },
-    {
-      "id": "8355688",
-      "title": "Senior Data Scientist",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8355688",
-      "postedAt": "2026-11-05T16:09:14.000Z",
-      "key": "reddit:8355688",
-      "company": "Reddit",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -25892,6 +25894,22 @@
         "us"
       ],
       "firstSeen": "2026-10-30T15:40:18.835Z"
+    },
+    {
+      "id": "JR2018334",
+      "title": "Senior Software Engineer — cuEquivariance",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---cuEquivariance_JR2018334",
+      "postedAt": "2026-10-30T15:11:29.753Z",
+      "key": "Nvidia:JR2018334",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T15:10:20.692Z"
     },
     {
       "id": "3f714ba2-e37a-471f-aa20-fe86c22d65d4",
