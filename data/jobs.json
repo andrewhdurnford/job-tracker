@@ -1,11 +1,12 @@
 {
-  "generatedAt": "2026-11-12T18:20:19.600Z",
+  "generatedAt": "2026-11-12T18:30:24.663Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "boxinc:8236515",
-    "epicgames:6258000004",
-    "hex:f9df9afb-12a7-4302-a1b1-8cb9ad85dbdf"
+    "epicgames:6258494004",
+    "justworks:8383665",
+    "Nvidia:JR2023525",
+    "toast:8368751"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +15,7 @@
   "levelCounts": {
     "intern": 108,
     "new-grad": 21,
-    "experienced": 2228
+    "experienced": 2231
   },
   "companies": [
     {
@@ -1203,7 +1204,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1616,7 +1617,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -2533,7 +2534,7 @@
     {
       "name": "Justworks",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3430,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 336,
+      "jobCount": 337,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 94,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5109,7 +5110,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2023525",
+      "title": "Senior Software Engineer, Chips System Software",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Chips-System-Software_JR2023525",
+      "postedAt": "2026-11-12T18:30:28.997Z",
+      "key": "Nvidia:JR2023525",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:30:24.663Z"
+    },
+    {
+      "id": "8368751",
+      "title": "Senior Software Engineer, Vision AI",
+      "location": "Remote, US ",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8368751",
+      "postedAt": "2026-11-12T18:29:21.000Z",
+      "key": "toast:8368751",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:30:24.663Z"
+    },
+    {
+      "id": "6258494004",
+      "title": "Senior Security Automation Software Programmer",
+      "location": "Montreal,Quebec,Canada",
+      "team": "InfoSec",
+      "url": "https://epicgames.com/careers/jobs/6258494004?gh_jid=6258494004",
+      "postedAt": "2026-11-12T18:24:34.000Z",
+      "key": "epicgames:6258494004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-12T18:30:24.663Z"
+    },
+    {
+      "id": "8383665",
+      "title": "Senior AI Engineer, People",
+      "location": "New York, New York",
+      "team": null,
+      "url": "https://boards.greenhouse.io/justworks/jobs/8383665?gh_jid=8383665",
+      "postedAt": "2026-11-12T18:22:55.000Z",
+      "key": "justworks:8383665",
+      "company": "Justworks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:30:24.663Z"
+    },
     {
       "id": "6258000004",
       "title": "Principal Backend Programmer (Developer Platform)",
@@ -27031,22 +27096,6 @@
         "us"
       ],
       "firstSeen": "2026-10-29T17:30:23.862Z"
-    },
-    {
-      "id": "8081184",
-      "title": "Sr. Staff ML Infra Engineer - Offline Infra & Training",
-      "location": "Mountain View, USA",
-      "team": null,
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8081184",
-      "postedAt": "2026-10-29T17:14:37.000Z",
-      "key": "coupang:8081184",
-      "company": "Coupang",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T17:20:19.534Z"
     },
     {
       "id": "7685466",
