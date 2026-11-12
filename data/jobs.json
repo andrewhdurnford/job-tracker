@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-12T22:50:18.268Z",
+  "generatedAt": "2026-11-12T23:00:26.755Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "strava:daa90fc8-8e54-47b6-83b1-5f4a7255013c"
+    "Nvidia:JR2029685",
+    "Nvidia:JR2029680"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 22,
-    "experienced": 2251
+    "experienced": 2250
   },
   "companies": [
     {
@@ -2811,7 +2812,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3021,7 +3022,7 @@
     {
       "name": "Metriport",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3427,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 334,
+      "jobCount": 336,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 97,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR2029685",
+      "title": "Manager, Incident Management - DGX Cloud Resilience Engineering",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Manager--Incident-Management---DGX-Cloud-Resilience-Engineering_JR2029685",
+      "postedAt": "2026-11-12T23:00:31.245Z",
+      "key": "Nvidia:JR2029685",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T23:00:26.755Z"
+    },
+    {
+      "id": "JR2029680",
+      "title": "Senior Manager, Developer Tooling and QE",
+      "location": "US, CA, Santa Clara",
+      "team": null,
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Manager--Developer-Tooling-and-QE_JR2029680",
+      "postedAt": "2026-11-12T23:00:31.245Z",
+      "key": "Nvidia:JR2029680",
+      "company": "Nvidia",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T23:00:26.755Z"
+    },
     {
       "id": "daa90fc8-8e54-47b6-83b1-5f4a7255013c",
       "title": "Senior Server Engineer II",
@@ -19670,22 +19703,6 @@
         ],
         "year": 2027
       },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T03:00:29.125Z"
-    },
-    {
-      "id": "5250789007",
-      "title": "Senior Embedded Software Engineer, Platform Software",
-      "location": "Newark, CA",
-      "team": null,
-      "url": "https://lucidmotors.com/careers/search/5250789007?gh_jid=5250789007",
-      "postedAt": "2026-11-03T02:58:40.000Z",
-      "key": "lucidmotors:5250789007",
-      "company": "Lucid Motors",
-      "level": "experienced",
-      "term": null,
       "regions": [
         "us"
       ],
@@ -43923,38 +43940,6 @@
         "us"
       ],
       "firstSeen": "2026-09-18T20:10:21.890Z"
-    },
-    {
-      "id": "eb7665bc-b453-414f-89d7-3c02123d4150",
-      "title": "Staff Software Engineer",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/metriport/eb7665bc-b453-414f-89d7-3c02123d4150",
-      "postedAt": "2026-09-15T14:04:33.061Z",
-      "key": "metriport:eb7665bc-b453-414f-89d7-3c02123d4150",
-      "company": "Metriport",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T14:10:18.801Z"
-    },
-    {
-      "id": "e101d155-8895-4e6d-98db-84b10cff77e5",
-      "title": "Senior Data Engineer",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/metriport/e101d155-8895-4e6d-98db-84b10cff77e5",
-      "postedAt": "2026-09-15T14:02:06.995Z",
-      "key": "metriport:e101d155-8895-4e6d-98db-84b10cff77e5",
-      "company": "Metriport",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-09-15T14:10:18.801Z"
     },
     {
       "id": "8806470002",
