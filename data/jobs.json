@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-12T14:40:20.525Z",
+  "generatedAt": "2026-11-12T14:50:20.794Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "tennr:b888c69f-2bce-4231-82af-3d55a36ac244"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 20,
-    "experienced": 2242
+    "experienced": 2241
   },
   "companies": [
     {
@@ -593,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2671,7 +2669,7 @@
     {
       "name": "LanceDB",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3419,10 +3417,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nvidia",
@@ -42858,23 +42856,6 @@
       "postedAt": "2026-10-13T14:52:13.000Z",
       "key": "gitlab:8883003002",
       "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-13T15:00:24.962Z"
-    },
-    {
-      "id": "ec98cf2b-3d82-432b-a4e3-806b97baf81c",
-      "title": "Senior Documentation Engineer",
-      "location": "United States | Canada",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/lancedb/ec98cf2b-3d82-432b-a4e3-806b97baf81c",
-      "postedAt": "2026-10-13T14:49:47.980Z",
-      "key": "lancedb:ec98cf2b-3d82-432b-a4e3-806b97baf81c",
-      "company": "LanceDB",
       "level": "experienced",
       "term": null,
       "regions": [
