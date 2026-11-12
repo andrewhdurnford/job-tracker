@@ -1,9 +1,15 @@
 {
-  "generatedAt": "2026-11-12T22:20:18.697Z",
+  "generatedAt": "2026-11-12T22:30:23.357Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "nuro:8384407"
+    "CrowdStrike:R30029",
+    "databricks:8940488002",
+    "nubank:40f50e46-8f43-4460-99ee-a6de0a128079",
+    "ramp:b7fd55f4-6c5a-42f5-be04-aa09a4d5b7a9",
+    "stripe:8293644",
+    "zip:e7bcd788-ca5f-4e90-9728-0de7b57026a1",
+    "zip:8d847693-b891-4976-b0f6-27143dd11205"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +18,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 22,
-    "experienced": 2241
+    "experienced": 2248
   },
   "companies": [
     {
@@ -1243,7 +1249,7 @@
     {
       "name": "CrowdStrike",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -1292,7 +1298,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -3399,7 +3405,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4036,7 +4042,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4799,7 +4805,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5667,7 +5673,7 @@
     {
       "name": "Zip",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5707,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R30029",
+      "title": "Engineer III - Platform Data Engineer (Remote)",
+      "location": "USA - Remote",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-III---Platform-Data-Engineer--Remote-_R30029",
+      "postedAt": "2026-11-12T22:30:26.758Z",
+      "key": "CrowdStrike:R30029",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T22:30:23.357Z"
+    },
+    {
+      "id": "e7bcd788-ca5f-4e90-9728-0de7b57026a1",
+      "title": "Software Engineer, Backend (All Levels)",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/zip/e7bcd788-ca5f-4e90-9728-0de7b57026a1",
+      "postedAt": "2026-11-12T22:29:45.118Z",
+      "key": "zip:e7bcd788-ca5f-4e90-9728-0de7b57026a1",
+      "company": "Zip",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T22:30:23.357Z"
+    },
+    {
+      "id": "8d847693-b891-4976-b0f6-27143dd11205",
+      "title": "Software Engineer, Core Infrastructure (Mid-Senior level) ",
+      "location": "Toronto",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/zip/8d847693-b891-4976-b0f6-27143dd11205",
+      "postedAt": "2026-11-12T22:28:03.026Z",
+      "key": "zip:8d847693-b891-4976-b0f6-27143dd11205",
+      "company": "Zip",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-12T22:30:23.357Z"
+    },
+    {
+      "id": "40f50e46-8f43-4460-99ee-a6de0a128079",
+      "title": "Senior Cloud Network Engineer ",
+      "location": "Palo Alto (+1 more)",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/40f50e46-8f43-4460-99ee-a6de0a128079",
+      "postedAt": "2026-11-12T22:24:51.559Z",
+      "key": "nubank:40f50e46-8f43-4460-99ee-a6de0a128079",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T22:30:23.357Z"
+    },
+    {
+      "id": "8940488002",
+      "title": "Engineering Manager - Notebook Dataplane",
+      "location": "Mountain View, California",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8940488002",
+      "postedAt": "2026-11-12T22:21:58.000Z",
+      "key": "databricks:8940488002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T22:30:23.357Z"
+    },
     {
       "id": "8384407",
       "title": "Principal Software Engineer, Performance",
@@ -6237,6 +6323,22 @@
         "us"
       ],
       "firstSeen": "2026-11-12T20:10:22.236Z"
+    },
+    {
+      "id": "b7fd55f4-6c5a-42f5-be04-aa09a4d5b7a9",
+      "title": "Senior Design Systems Engineer",
+      "location": "Remote (US) (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ramp/b7fd55f4-6c5a-42f5-be04-aa09a4d5b7a9",
+      "postedAt": "2026-11-12T20:01:54.072Z",
+      "key": "ramp:b7fd55f4-6c5a-42f5-be04-aa09a4d5b7a9",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T22:30:23.357Z"
     },
     {
       "id": "8937195002",
@@ -32068,7 +32170,7 @@
       "id": "0edc2cfa-d7df-497e-ae42-a4aa88867c06",
       "title": "Staff Mission Systems Engineer - Ranger (R6405)",
       "location": "Seattle, Washington",
-      "team": "Ranger Eng - MEG",
+      "team": "Ranger Eng - Software",
       "url": "https://jobs.lever.co/shieldai/0edc2cfa-d7df-497e-ae42-a4aa88867c06",
       "postedAt": "2026-10-23T22:12:05.835Z",
       "key": "shieldai:0edc2cfa-d7df-497e-ae42-a4aa88867c06",
@@ -38959,6 +39061,22 @@
         "us"
       ],
       "firstSeen": "2026-10-16T22:50:19.722Z"
+    },
+    {
+      "id": "8293644",
+      "title": "Staff Software Engineer, Code Forge",
+      "location": "San Francisco, Seattle, US-Remote",
+      "team": "8126 Developer Infrastructure",
+      "url": "https://stripe.com/jobs/search?gh_jid=8293644",
+      "postedAt": "2026-10-16T22:34:23.000Z",
+      "key": "stripe:8293644",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T22:30:23.357Z"
     },
     {
       "id": "63785f62-07ac-4dc5-8f68-57779dddb1f3",
