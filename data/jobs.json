@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T19:00:29.305Z",
+  "generatedAt": "2026-11-12T19:10:20.817Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "stripe:8383466"
+    "toast:8334826"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 108,
     "new-grad": 21,
-    "experienced": 2231
+    "experienced": 2230
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1012,7 +1012,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4239,7 +4239,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 92,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5107,7 +5107,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -6744,7 +6744,7 @@
     {
       "id": "1aecff61-dbce-4ad1-9f95-a1c369de340d",
       "title": "Staff Software Engineer, Claims & AI Billing",
-      "location": "Mountain View, CA (+3 more)",
+      "location": "Mountain View, CA (+2 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/Commure/1aecff61-dbce-4ad1-9f95-a1c369de340d",
       "postedAt": "2026-11-12T02:17:25.649Z",
@@ -18230,6 +18230,22 @@
         "us"
       ],
       "firstSeen": "2026-11-03T19:10:20.531Z"
+    },
+    {
+      "id": "8334826",
+      "title": "Senior Software Engineer, Onboarding",
+      "location": "Boston, MA",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8334826",
+      "postedAt": "2026-11-03T18:51:05.000Z",
+      "key": "toast:8334826",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T19:10:20.817Z"
     },
     {
       "id": "8928919002",
@@ -42558,38 +42574,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-13T19:30:23.052Z"
-    },
-    {
-      "id": "8265736",
-      "title": "Senior Software Engineer, Video Rendering",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8265736?gh_jid=8265736",
-      "postedAt": "2026-10-13T19:07:20.000Z",
-      "key": "roblox:8265736",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T19:10:16.224Z"
-    },
-    {
-      "id": "8264695",
-      "title": "Security Engineer, Applied Research & Labs",
-      "location": "Austin, TX",
-      "team": "Security",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8264695?gh_jid=8264695",
-      "postedAt": "2026-10-13T19:01:37.000Z",
-      "key": "cloudflare:8264695",
-      "company": "Cloudflare",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T19:10:16.224Z"
     },
     {
       "id": "R1001669",
