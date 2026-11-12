@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-12T06:00:32.202Z",
+  "generatedAt": "2026-11-12T06:10:19.907Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "newrelic:5479397008"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 20,
-    "experienced": 2244
+    "experienced": 2245
   },
   "companies": [
     {
@@ -1401,10 +1403,10 @@
     },
     {
       "name": "Despegar",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Discord",
@@ -2656,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3320,7 +3322,7 @@
     {
       "name": "New Relic",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4929,10 +4931,10 @@
     },
     {
       "name": "Sysdig",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tacto",
@@ -6099,6 +6101,22 @@
         "us"
       ],
       "firstSeen": "2026-11-11T22:40:18.609Z"
+    },
+    {
+      "id": "5479397008",
+      "title": "Software Engineer-Infrastructure ",
+      "location": "Austin, Texas, USA; Chicago, Illinois, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Detroit, Michigan, USA; Houston, Texas, USA; Las Vegas, Nevada, USA; Miami, Florida, USA; Milwaukee, Wisconsin, USA; Orlando, Florida, USA; Philadelphia, Pennsylvania, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; St. Louis, Missouri, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/newrelic/jobs/5479397008",
+      "postedAt": "2026-11-11T22:33:19.000Z",
+      "key": "newrelic:5479397008",
+      "company": "New Relic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T06:10:19.907Z"
     },
     {
       "id": "039d70f4-a796-453c-9d8b-0926f91f1654",
