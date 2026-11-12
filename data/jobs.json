@@ -1,9 +1,16 @@
 {
-  "generatedAt": "2026-11-12T17:50:24.056Z",
+  "generatedAt": "2026-11-12T18:00:28.064Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 8,
   "newKeys": [
-    "DocuSign:30578"
+    "anthropic:5478876008",
+    "dropbox:8328511",
+    "dropbox:8356941",
+    "dropbox:8356942",
+    "epicgames:6250171004",
+    "spacex:8939698002",
+    "spacex:8939697002",
+    "spacex:8939701002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -11,8 +18,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 109,
-    "new-grad": 20,
-    "experienced": 2222
+    "new-grad": 21,
+    "experienced": 2227
   },
   "companies": [
     {
@@ -305,7 +312,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 46,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -683,7 +690,7 @@
     {
       "name": "Braintrust",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1453,7 +1460,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -1474,7 +1481,7 @@
     {
       "name": "Dropbox",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1614,7 +1621,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4701,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 91,
+      "jobCount": 94,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5708,134 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8328511",
+      "title": "Application Security Engineer",
+      "location": "Remote - US: Select locations",
+      "team": null,
+      "url": "https://jobs.dropbox.com/listing/8328511?gh_jid=8328511",
+      "postedAt": "2026-11-12T17:58:03.000Z",
+      "key": "dropbox:8328511",
+      "company": "Dropbox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:00:28.064Z"
+    },
+    {
+      "id": "6250171004",
+      "title": "Senior Backend Programmer (SCM & CI/CD)",
+      "location": "Cary,North Carolina,United States",
+      "team": "Engineering Generalist",
+      "url": "https://epicgames.com/careers/jobs/6250171004?gh_jid=6250171004",
+      "postedAt": "2026-11-12T17:57:16.000Z",
+      "key": "epicgames:6250171004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:00:28.064Z"
+    },
+    {
+      "id": "8356942",
+      "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
+      "location": "Remote - Canada: Select locations",
+      "team": null,
+      "url": "https://jobs.dropbox.com/listing/8356942?gh_jid=8356942",
+      "postedAt": "2026-11-12T17:56:54.000Z",
+      "key": "dropbox:8356942",
+      "company": "Dropbox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-12T18:00:28.064Z"
+    },
+    {
+      "id": "8356941",
+      "title": "Senior Client Platform Engineer, Endpoint Platform & Automation",
+      "location": "Remote - US: Select locations",
+      "team": null,
+      "url": "https://jobs.dropbox.com/listing/8356941?gh_jid=8356941",
+      "postedAt": "2026-11-12T17:56:51.000Z",
+      "key": "dropbox:8356941",
+      "company": "Dropbox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:00:28.064Z"
+    },
+    {
+      "id": "8939698002",
+      "title": "Aerospace Software Engineer (Starfall)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8939698002?gh_jid=8939698002",
+      "postedAt": "2026-11-12T17:56:15.000Z",
+      "key": "spacex:8939698002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:00:28.064Z"
+    },
+    {
+      "id": "8939701002",
+      "title": "Sr. Aerospace Software Engineer (Starfall)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8939701002?gh_jid=8939701002",
+      "postedAt": "2026-11-12T17:56:11.000Z",
+      "key": "spacex:8939701002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:00:28.064Z"
+    },
+    {
+      "id": "8939697002",
+      "title": "New Graduate Engineer, Aerospace Software (Starfall)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002",
+      "postedAt": "2026-11-12T17:56:08.000Z",
+      "key": "spacex:8939697002",
+      "company": "SpaceX",
+      "level": "new-grad",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:00:28.064Z"
+    },
+    {
+      "id": "5478876008",
+      "title": "Staff Software Engineer, Support Technology",
+      "location": "San Francisco, CA | New York City, NY",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5478876008",
+      "postedAt": "2026-11-12T17:55:31.000Z",
+      "key": "anthropic:5478876008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:00:28.064Z"
+    },
     {
       "id": "30578",
       "title": "AI Platform Engineer Intern",
@@ -42436,38 +42571,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T18:20:16.562Z"
-    },
-    {
-      "id": "8161616",
-      "title": "Software Engineering, Android (All Teams)",
-      "location": "San Francisco, CA; New York City, NY;  Sunnyvale, CA; Seattle, WA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8161616",
-      "postedAt": "2026-10-13T17:59:20.000Z",
-      "key": "doordashusa:8161616",
-      "company": "DoorDash",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T18:00:24.604Z"
-    },
-    {
-      "id": "525eda64-5ca0-46c5-bac2-ef8056d3f10c",
-      "title": "Software Engineer, Billing",
-      "location": "San Francisco (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/Braintrust/525eda64-5ca0-46c5-bac2-ef8056d3f10c",
-      "postedAt": "2026-10-13T17:53:00.793Z",
-      "key": "braintrust:525eda64-5ca0-46c5-bac2-ef8056d3f10c",
-      "company": "Braintrust",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T18:00:24.604Z"
     },
     {
       "id": "R1003517",
