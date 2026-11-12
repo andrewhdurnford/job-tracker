@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-11-12T18:40:21.076Z",
+  "generatedAt": "2026-11-12T18:50:20.200Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "commure:3380135f-ab20-44a4-b73f-8378ed40e1be",
-    "mercor:cbff2229-0bf0-4ca4-a794-fb3ff358e8e6",
-    "spacex:8939390002",
-    "tanium:8250447"
+    "akidolabs:4724400006",
+    "brex:8928935002",
+    "brex:8939938002",
+    "brex:8939939002",
+    "chime:8765690002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +16,7 @@
   "levelCounts": {
     "intern": 108,
     "new-grad": 21,
-    "experienced": 2229
+    "experienced": 2231
   },
   "companies": [
     {
@@ -63,7 +64,7 @@
     {
       "name": "Adaptive Security",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -147,7 +148,7 @@
     {
       "name": "Akido Labs",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -596,7 +597,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -714,7 +715,7 @@
     {
       "name": "Brex",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -931,7 +932,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -939,7 +940,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1758,7 +1759,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1779,7 +1780,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1877,7 +1878,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2066,7 +2067,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4802,7 +4803,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5706,86 @@
   ],
   "jobs": [
     {
+      "id": "8765690002",
+      "title": "Director, Data Engineering",
+      "location": "San Francisco, CA, USA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/chime/jobs/8765690002?gh_jid=8765690002",
+      "postedAt": "2026-11-12T18:48:54.000Z",
+      "key": "chime:8765690002",
+      "company": "Chime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:50:20.200Z"
+    },
+    {
+      "id": "4724400006",
+      "title": "Senior Platform Engineer",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/akidolabs/jobs/4724400006",
+      "postedAt": "2026-11-12T18:47:43.000Z",
+      "key": "akidolabs:4724400006",
+      "company": "Akido Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:50:20.200Z"
+    },
+    {
+      "id": "8939939002",
+      "title": "Software Engineer II, Frontend",
+      "location": "Seattle, Washington, United States",
+      "team": null,
+      "url": "https://www.brex.com/careers/8939939002?gh_jid=8939939002",
+      "postedAt": "2026-11-12T18:44:48.000Z",
+      "key": "brex:8939939002",
+      "company": "Brex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:50:20.200Z"
+    },
+    {
+      "id": "8939938002",
+      "title": "Software Engineer II, Frontend",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://www.brex.com/careers/8939938002?gh_jid=8939938002",
+      "postedAt": "2026-11-12T18:44:46.000Z",
+      "key": "brex:8939938002",
+      "company": "Brex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:50:20.200Z"
+    },
+    {
+      "id": "8928935002",
+      "title": "Software Engineer II, Frontend",
+      "location": "New York, New York, United States",
+      "team": null,
+      "url": "https://www.brex.com/careers/8928935002?gh_jid=8928935002",
+      "postedAt": "2026-11-12T18:44:45.000Z",
+      "key": "brex:8928935002",
+      "company": "Brex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:50:20.200Z"
+    },
+    {
       "id": "cbff2229-0bf0-4ca4-a794-fb3ff358e8e6",
       "title": "Tech Lead Manager, AI Data Products",
       "location": "New York City (+1 more)",
@@ -5723,7 +5804,7 @@
     {
       "id": "3380135f-ab20-44a4-b73f-8378ed40e1be",
       "title": "Software Engineer, Claims & AI Billing",
-      "location": "Mountain View, CA (+2 more)",
+      "location": "Mountain View, CA (+1 more)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/Commure/3380135f-ab20-44a4-b73f-8378ed40e1be",
       "postedAt": "2026-11-12T18:36:05.446Z",
@@ -6071,22 +6152,6 @@
         "us"
       ],
       "firstSeen": "2026-11-12T17:30:23.157Z"
-    },
-    {
-      "id": "8383466",
-      "title": "Staff Software Engineer, Code Forge",
-      "location": "US",
-      "team": "8134 Operations Platform",
-      "url": "https://stripe.com/jobs/search?gh_jid=8383466",
-      "postedAt": "2026-11-12T17:13:22.000Z",
-      "key": "stripe:8383466",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-12T17:20:20.391Z"
     },
     {
       "id": "R_106871",
@@ -42529,38 +42594,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T19:10:16.224Z"
-    },
-    {
-      "id": "547fef33-6371-4a49-9085-5810744f95b0",
-      "title": "Founding Machine Learning Engineer",
-      "location": "NYC",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/adaptivesecurity/547fef33-6371-4a49-9085-5810744f95b0",
-      "postedAt": "2026-10-13T18:42:28.365Z",
-      "key": "adaptivesecurity:547fef33-6371-4a49-9085-5810744f95b0",
-      "company": "Adaptive Security",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T18:50:19.952Z"
-    },
-    {
-      "id": "f68039ab-5904-41e0-b8e4-605ec642bfd3",
-      "title": "Software Engineer, Product & Platform",
-      "location": "NYC",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/adaptivesecurity/f68039ab-5904-41e0-b8e4-605ec642bfd3",
-      "postedAt": "2026-10-13T18:42:11.657Z",
-      "key": "adaptivesecurity:f68039ab-5904-41e0-b8e4-605ec642bfd3",
-      "company": "Adaptive Security",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T18:50:19.952Z"
     },
     {
       "id": "R1001669",
