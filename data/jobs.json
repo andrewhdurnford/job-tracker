@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-12T14:50:20.794Z",
+  "generatedAt": "2026-11-12T15:00:30.588Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "tripactions:8356936",
+    "tripactions:8360525"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 110,
     "new-grad": 20,
-    "experienced": 2241
+    "experienced": 2240
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1962,7 +1965,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -2669,7 +2672,7 @@
     {
       "name": "LanceDB",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3250,7 +3253,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3428,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 338,
+      "jobCount": 337,
       "error": null,
       "stale": false
     },
@@ -3585,10 +3588,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 13,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8360525",
+      "title": "Sr. Software Engineer, Core AI",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8360525",
+      "postedAt": "2026-11-12T14:53:14.000Z",
+      "key": "tripactions:8360525",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T15:00:30.588Z"
+    },
+    {
+      "id": "8356936",
+      "title": "Sr. Software Engineer, Core AI",
+      "location": "Palo Alto, CA or San Francisco, CA",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8356936",
+      "postedAt": "2026-11-12T14:53:11.000Z",
+      "key": "tripactions:8356936",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T15:00:30.588Z"
+    },
     {
       "id": "b888c69f-2bce-4231-82af-3d55a36ac244",
       "title": "Senior IT Systems Engineer",
@@ -23799,22 +23834,6 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-FPGA-Prototyping-Platform-Engineer_JR2017479",
       "postedAt": "2026-10-30T23:50:25.170Z",
       "key": "Nvidia:JR2017479",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:50:18.349Z"
-    },
-    {
-      "id": "JR2018334",
-      "title": "Senior Software Engineer — cuEquivariance",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---cuEquivariance_JR2018334",
-      "postedAt": "2026-10-30T23:50:25.170Z",
-      "key": "Nvidia:JR2018334",
       "company": "Nvidia",
       "level": "experienced",
       "term": null,
@@ -42829,40 +42848,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-13T15:10:18.516Z"
-    },
-    {
-      "id": "0ecdfb7f-a6cb-4ee2-b4c0-a3163539a265",
-      "title": "Senior System Test Engineer",
-      "location": "United States | Canada",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/lancedb/0ecdfb7f-a6cb-4ee2-b4c0-a3163539a265",
-      "postedAt": "2026-10-13T14:59:32.162Z",
-      "key": "lancedb:0ecdfb7f-a6cb-4ee2-b4c0-a3163539a265",
-      "company": "LanceDB",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-13T15:00:24.962Z"
-    },
-    {
-      "id": "8883003002",
-      "title": "Director, Analytics Engineering ",
-      "location": "Remote, Canada; Remote, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8883003002",
-      "postedAt": "2026-10-13T14:52:13.000Z",
-      "key": "gitlab:8883003002",
-      "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-13T15:00:24.962Z"
     },
     {
       "id": "REF088495W",
