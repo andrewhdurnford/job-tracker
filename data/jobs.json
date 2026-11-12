@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-12T17:00:30.811Z",
+  "generatedAt": "2026-11-12T17:10:19.266Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "openai:b8ee8378-63a1-4741-a07f-647ece282dea"
+    "discord:8731320002",
+    "grafanalabs:6256271004",
+    "Remitly:R_106871"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 109,
     "new-grad": 20,
-    "experienced": 2239
+    "experienced": 2242
   },
   "companies": [
     {
@@ -1411,7 +1413,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -2055,7 +2057,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -2362,10 +2364,10 @@
     },
     {
       "name": "Included Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inferact",
@@ -4134,7 +4136,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 91,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,8 +5704,56 @@
   ],
   "jobs": [
     {
+      "id": "R_106871",
+      "title": "Senior Software Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Engineer_R_106871",
+      "postedAt": "2026-11-12T17:10:21.874Z",
+      "key": "Remitly:R_106871",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T17:10:19.266Z"
+    },
+    {
+      "id": "6256271004",
+      "title": "Director, Observability Architects (Americas) | USA | Remote",
+      "location": "United States (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6256271004",
+      "postedAt": "2026-11-12T17:07:40.000Z",
+      "key": "grafanalabs:6256271004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T17:10:19.266Z"
+    },
+    {
+      "id": "8731320002",
+      "title": "Senior Software Engineer, Consumer Revenue",
+      "location": "San Francisco Bay Area",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8731320002",
+      "postedAt": "2026-11-12T17:05:32.000Z",
+      "key": "discord:8731320002",
+      "company": "Discord",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T17:10:19.266Z"
+    },
+    {
       "id": "b8ee8378-63a1-4741-a07f-647ece282dea",
-      "title": "Threat Detection Engineering Manager",
+      "title": "Threat Detection and Response Engineering Manager",
       "location": "San Francisco (+1 more)",
       "team": "Security",
       "url": "https://jobs.ashbyhq.com/openai/b8ee8378-63a1-4741-a07f-647ece282dea",
@@ -31359,7 +31409,7 @@
       "id": "dca93d1a-9ab8-442b-aa76-950595e8b9c3",
       "title": "Engineering Manager, Cohere APIs and DevEx",
       "location": "Toronto (+2 more)",
-      "team": "Engineering & Infra",
+      "team": "APIs & Tooling",
       "url": "https://jobs.ashbyhq.com/cohere/dca93d1a-9ab8-442b-aa76-950595e8b9c3",
       "postedAt": "2026-10-23T20:27:07.216Z",
       "key": "cohere:dca93d1a-9ab8-442b-aa76-950595e8b9c3",
