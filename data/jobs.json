@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T18:30:24.663Z",
+  "generatedAt": "2026-11-12T18:40:21.076Z",
   "bootstrap": false,
   "lastRunNewCount": 4,
   "newKeys": [
-    "epicgames:6258494004",
-    "justworks:8383665",
-    "Nvidia:JR2023525",
-    "toast:8368751"
+    "commure:3380135f-ab20-44a4-b73f-8378ed40e1be",
+    "mercor:cbff2229-0bf0-4ca4-a794-fb3ff358e8e6",
+    "spacex:8939390002",
+    "tanium:8250447"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +15,7 @@
   "levelCounts": {
     "intern": 108,
     "new-grad": 21,
-    "experienced": 2231
+    "experienced": 2229
   },
   "companies": [
     {
@@ -1092,7 +1092,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1456,7 +1456,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -1526,7 +1526,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -2975,7 +2975,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 94,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 92,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4977,7 +4977,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5705,54 @@
   ],
   "jobs": [
     {
+      "id": "cbff2229-0bf0-4ca4-a794-fb3ff358e8e6",
+      "title": "Tech Lead Manager, AI Data Products",
+      "location": "New York City (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/cbff2229-0bf0-4ca4-a794-fb3ff358e8e6",
+      "postedAt": "2026-11-12T18:39:43.000Z",
+      "key": "mercor:cbff2229-0bf0-4ca4-a794-fb3ff358e8e6",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:40:21.076Z"
+    },
+    {
+      "id": "3380135f-ab20-44a4-b73f-8378ed40e1be",
+      "title": "Software Engineer, Claims & AI Billing",
+      "location": "Mountain View, CA (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/Commure/3380135f-ab20-44a4-b73f-8378ed40e1be",
+      "postedAt": "2026-11-12T18:36:05.446Z",
+      "key": "commure:3380135f-ab20-44a4-b73f-8378ed40e1be",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:40:21.076Z"
+    },
+    {
+      "id": "8250447",
+      "title": "Software Engineer II - Partner Integrations",
+      "location": "Durham, NC (Hybrid)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8250447",
+      "postedAt": "2026-11-12T18:34:44.000Z",
+      "key": "tanium:8250447",
+      "company": "Tanium",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:40:21.076Z"
+    },
+    {
       "id": "JR2023525",
       "title": "Senior Software Engineer, Chips System Software",
       "location": "US, CA, Santa Clara",
@@ -5719,6 +5767,22 @@
         "us"
       ],
       "firstSeen": "2026-11-12T18:30:24.663Z"
+    },
+    {
+      "id": "8939390002",
+      "title": "CNC Programmer (Starship Components) - Level 4/5  ",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8939390002?gh_jid=8939390002",
+      "postedAt": "2026-11-12T18:29:52.000Z",
+      "key": "spacex:8939390002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T18:40:21.076Z"
     },
     {
       "id": "8368751",
@@ -9606,22 +9670,6 @@
         "us"
       ],
       "firstSeen": "2026-11-10T02:30:31.181Z"
-    },
-    {
-      "id": "8350342",
-      "title": "Sr. Software Engineer - IT Software Engineering",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8350342&gh_jid=8350342",
-      "postedAt": "2026-11-10T02:13:23.000Z",
-      "key": "elastic:8350342",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T02:20:19.518Z"
     },
     {
       "id": "5bbbd83b-2299-4a5e-9f49-d260fd9ca02e",
@@ -42513,86 +42561,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T18:50:19.952Z"
-    },
-    {
-      "id": "8885791002",
-      "title": "Manager, Software Engineering, People (Application Software)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8885791002?gh_jid=8885791002",
-      "postedAt": "2026-10-13T18:38:45.000Z",
-      "key": "spacex:8885791002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T18:40:16.971Z"
-    },
-    {
-      "id": "8885762002",
-      "title": " Manager, Software Engineering, Finance (Application Software)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8885762002?gh_jid=8885762002",
-      "postedAt": "2026-10-13T18:37:46.000Z",
-      "key": "spacex:8885762002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T18:40:16.971Z"
-    },
-    {
-      "id": "8139094",
-      "title": "Senior Software Engineer, iOS",
-      "location": "San Francisco, CA ; Sunnyvale, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8139094",
-      "postedAt": "2026-10-13T18:32:26.000Z",
-      "key": "doordashusa:8139094",
-      "company": "DoorDash",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T18:40:16.971Z"
-    },
-    {
-      "id": "8141072",
-      "title": "Software Engineer, iOS",
-      "location": "Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8141072",
-      "postedAt": "2026-10-13T18:31:02.000Z",
-      "key": "doordashusa:8141072",
-      "company": "DoorDash",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T18:40:16.971Z"
-    },
-    {
-      "id": "8885678002",
-      "title": "Principal Operations Engineer (Application Software)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8885678002?gh_jid=8885678002",
-      "postedAt": "2026-10-13T18:30:44.000Z",
-      "key": "spacex:8885678002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T18:40:16.971Z"
     },
     {
       "id": "R1001669",
