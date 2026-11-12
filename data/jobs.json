@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-12T16:50:19.839Z",
+  "generatedAt": "2026-11-12T17:00:30.811Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "openai:b8ee8378-63a1-4741-a07f-647ece282dea"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -2360,10 +2362,10 @@
     },
     {
       "name": "Included Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Inferact",
@@ -3509,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 55,
+      "jobCount": 56,
       "error": null,
       "stale": false
     },
@@ -4467,10 +4469,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 37,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Shiru",
@@ -4566,7 +4568,7 @@
     {
       "name": "Skyways",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "b8ee8378-63a1-4741-a07f-647ece282dea",
+      "title": "Threat Detection Engineering Manager",
+      "location": "San Francisco (+1 more)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/openai/b8ee8378-63a1-4741-a07f-647ece282dea",
+      "postedAt": "2026-11-12T17:00:03.556Z",
+      "key": "openai:b8ee8378-63a1-4741-a07f-647ece282dea",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T17:00:30.811Z"
+    },
     {
       "id": "5095871a-9af2-4521-8c63-ff0d852f7354",
       "title": "Application Security Engineer",
@@ -41856,7 +41874,7 @@
       "id": "7e0e08ed-4b12-4aaa-8dda-ad6292992061",
       "title": "Senior Full-Stack Engineer, Cohere Dashboard",
       "location": "Toronto (+2 more)",
-      "team": "Cohere Dashboard",
+      "team": "North",
       "url": "https://jobs.ashbyhq.com/cohere/7e0e08ed-4b12-4aaa-8dda-ad6292992061",
       "postedAt": "2026-10-13T23:49:23.157Z",
       "key": "cohere:7e0e08ed-4b12-4aaa-8dda-ad6292992061",
@@ -42729,22 +42747,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-13T17:20:18.320Z"
-    },
-    {
-      "id": "c8aec961-c2f0-4023-9012-6f765f16d8d0",
-      "title": "Lead Reliability Engineer",
-      "location": "Austin, TX",
-      "team": "Skyways",
-      "url": "https://jobs.lever.co/skyways/c8aec961-c2f0-4023-9012-6f765f16d8d0",
-      "postedAt": "2026-10-13T16:58:15.773Z",
-      "key": "skyways:c8aec961-c2f0-4023-9012-6f765f16d8d0",
-      "company": "Skyways",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T17:00:24.810Z"
     },
     {
       "id": "R1003517",
