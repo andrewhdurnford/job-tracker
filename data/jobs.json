@@ -1,14 +1,10 @@
 {
-  "generatedAt": "2026-11-12T21:40:18.840Z",
+  "generatedAt": "2026-11-12T21:50:18.953Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "boxinc:8267895",
-    "roblox:8283709",
-    "stripe:8384325",
-    "stripe:8384287",
-    "Visa:REF090128W",
-    "zscaler:5271584007"
+    "databricks:8940421002",
+    "snowflake:1c8dbe2c-60b3-4d66-a73f-95dffe416626"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -17,7 +13,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 22,
-    "experienced": 2239
+    "experienced": 2240
   },
   "companies": [
     {
@@ -1297,7 +1293,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -2367,10 +2363,10 @@
     },
     {
       "name": "Included Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inferact",
@@ -4643,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -4699,7 +4695,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 98,
+      "jobCount": 97,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "1c8dbe2c-60b3-4d66-a73f-95dffe416626",
+      "title": "Staff Software Engineer",
+      "location": "US-WA-Bellevue (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/1c8dbe2c-60b3-4d66-a73f-95dffe416626",
+      "postedAt": "2026-11-12T21:44:35.016Z",
+      "key": "snowflake:1c8dbe2c-60b3-4d66-a73f-95dffe416626",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T21:50:18.953Z"
+    },
+    {
+      "id": "8940421002",
+      "title": "Sr. Research Scientist - Agent Flywheel",
+      "location": "New York City, New York",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8940421002",
+      "postedAt": "2026-11-12T21:40:45.000Z",
+      "key": "databricks:8940421002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T21:50:18.953Z"
+    },
     {
       "id": "REF090128W",
       "title": "Data Scientist  - Senior Consultant Level",
@@ -42694,22 +42722,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T22:00:23.265Z"
-    },
-    {
-      "id": "8886347002",
-      "title": "Mission Integration Engineer, Mission and Ground Systems (Starshield)",
-      "location": "Hawthorne, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8886347002?gh_jid=8886347002",
-      "postedAt": "2026-10-13T21:40:32.000Z",
-      "key": "spacex:8886347002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T21:50:15.260Z"
     },
     {
       "id": "REF088773W",
