@@ -1,10 +1,13 @@
 {
-  "generatedAt": "2026-11-12T21:50:18.953Z",
+  "generatedAt": "2026-11-12T22:00:29.485Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "databricks:8940421002",
-    "snowflake:1c8dbe2c-60b3-4d66-a73f-95dffe416626"
+    "anthropic:5478799008",
+    "block:5473605008",
+    "boxinc:8318475",
+    "cresta:5480801008",
+    "render:0ed7bac4-72f1-4d73-ab0c-e231af4ec06e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +16,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 22,
-    "experienced": 2240
+    "experienced": 2241
   },
   "companies": [
     {
@@ -306,7 +309,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -614,7 +617,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -677,7 +680,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -929,7 +932,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -1223,7 +1226,7 @@
     {
       "name": "Cresta",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1777,7 +1780,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1878,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2034,10 +2037,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -3428,7 +3431,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 336,
+      "jobCount": 334,
       "error": null,
       "stale": false
     },
@@ -4086,7 +4089,7 @@
     {
       "name": "Recall.ai",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4156,7 +4159,7 @@
     {
       "name": "Render",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5705,71 @@
     }
   ],
   "jobs": [
+    {
+      "id": "0ed7bac4-72f1-4d73-ab0c-e231af4ec06e",
+      "title": "Developer Documentation Writer",
+      "location": "Remote: United States",
+      "team": "Product",
+      "url": "https://jobs.ashbyhq.com/render/0ed7bac4-72f1-4d73-ab0c-e231af4ec06e",
+      "postedAt": "2026-11-12T21:59:41.490Z",
+      "key": "render:0ed7bac4-72f1-4d73-ab0c-e231af4ec06e",
+      "company": "Render",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T22:00:29.485Z"
+    },
+    {
+      "id": "5478799008",
+      "title": "Tech Lead Manager, Growth Data Science",
+      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5478799008",
+      "postedAt": "2026-11-12T21:54:18.000Z",
+      "key": "anthropic:5478799008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T22:00:29.485Z"
+    },
+    {
+      "id": "5473605008",
+      "title": "Staff Data Engineer, Advanced Insights & Modeling",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5473605008?gh_jid=5473605008",
+      "postedAt": "2026-11-12T21:53:17.000Z",
+      "key": "block:5473605008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T22:00:29.485Z"
+    },
+    {
+      "id": "5480801008",
+      "title": "AI Agent Evaluation Engineer",
+      "location": "Canada (Remote); United States (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/cresta/jobs/5480801008",
+      "postedAt": "2026-11-12T21:51:49.000Z",
+      "key": "cresta:5480801008",
+      "company": "Cresta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-12T22:00:29.485Z"
+    },
     {
       "id": "1c8dbe2c-60b3-4d66-a73f-95dffe416626",
       "title": "Staff Software Engineer",
@@ -8677,22 +8745,6 @@
         "us"
       ],
       "firstSeen": "2026-11-11T00:00:31.179Z"
-    },
-    {
-      "id": "JR2029901",
-      "title": "Senior AI Infrastructure Engineer - DGX Cloud",
-      "location": "US, Remote",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-Remote/Senior-AI-Infrastructure-Engineer---DGX-Cloud_JR2029901",
-      "postedAt": "2026-11-10T23:50:24.242Z",
-      "key": "Nvidia:JR2029901",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T23:50:20.065Z"
     },
     {
       "id": "JR2029838",
@@ -15567,7 +15619,7 @@
     },
     {
       "id": "7cc4e602-3b00-4ce2-8508-91fec2fd8518",
-      "title": "Member of the Technical Staff - Product Engineering",
+      "title": "Member of Technical Staff - Product Engineering",
       "location": "Manhattan",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/probook/7cc4e602-3b00-4ce2-8508-91fec2fd8518",
@@ -19595,22 +19647,6 @@
         "remote"
       ],
       "firstSeen": "2026-11-03T01:40:19.386Z"
-    },
-    {
-      "id": "JR2014725",
-      "title": "Senior Software Engineer - CUDA Driver",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer---CUDA-Driver_JR2014725",
-      "postedAt": "2026-11-03T01:30:30.668Z",
-      "key": "Nvidia:JR2014725",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T01:30:26.150Z"
     },
     {
       "id": "JR2026396",
@@ -27327,6 +27363,22 @@
         "us"
       ],
       "firstSeen": "2026-10-29T21:40:18.608Z"
+    },
+    {
+      "id": "8318475",
+      "title": "Software Engineer III, Kubernetes",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318475",
+      "postedAt": "2026-10-29T21:31:24.000Z",
+      "key": "boxinc:8318475",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-12T22:00:29.485Z"
     },
     {
       "id": "R_107105",
@@ -42690,38 +42742,6 @@
         "us"
       ],
       "firstSeen": "2026-10-13T22:10:17.916Z"
-    },
-    {
-      "id": "2bd4132f-9971-4eb2-98dd-4b1a5b538338",
-      "title": "Product Engineer",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/Recall/2bd4132f-9971-4eb2-98dd-4b1a5b538338",
-      "postedAt": "2026-10-13T21:52:49.699Z",
-      "key": "recall:2bd4132f-9971-4eb2-98dd-4b1a5b538338",
-      "company": "Recall.ai",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T22:00:23.265Z"
-    },
-    {
-      "id": "8788322002",
-      "title": "Lead Data Scientist, Credit Risk",
-      "location": "Chicago, IL, USA; San Francisco, CA, USA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/chime/jobs/8788322002?gh_jid=8788322002",
-      "postedAt": "2026-10-13T21:51:12.000Z",
-      "key": "chime:8788322002",
-      "company": "Chime",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-13T22:00:23.265Z"
     },
     {
       "id": "REF088773W",
