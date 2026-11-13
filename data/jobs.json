@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-13T16:20:20.603Z",
+  "generatedAt": "2026-11-13T16:30:23.444Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "Nvidia:JR2017020"
+    "justworks:8375411",
+    "perplexity:b23d83e3-add8-48ea-b16e-65a956d1192c",
+    "ServiceTitan:JR116129"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 18,
-    "experienced": 2207
+    "experienced": 2206
   },
   "companies": [
     {
@@ -676,7 +678,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1453,7 +1455,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -2531,7 +2533,7 @@
     {
       "name": "Justworks",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3672,7 +3674,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4435,7 +4437,7 @@
     {
       "name": "ServiceTitan",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4722,7 +4724,7 @@
     {
       "name": "Spotify",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5303,7 +5305,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "JR116129",
+      "title": "Senior Manager, Software Engineering",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-Remote/Senior-Manager--Software-Engineering_JR116129",
+      "postedAt": "2026-11-13T16:30:27.338Z",
+      "key": "ServiceTitan:JR116129",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T16:30:23.444Z"
+    },
+    {
+      "id": "b23d83e3-add8-48ea-b16e-65a956d1192c",
+      "title": "Member of Technical Staff (Software Engineer, Cybersecurity Products)",
+      "location": "San Francisco (+4 more)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/Perplexity/b23d83e3-add8-48ea-b16e-65a956d1192c",
+      "postedAt": "2026-11-13T16:21:54.542Z",
+      "key": "perplexity:b23d83e3-add8-48ea-b16e-65a956d1192c",
+      "company": "Perplexity",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T16:30:23.444Z"
+    },
+    {
       "id": "R1004167",
       "title": "Full-stack Engineer 4",
       "location": "Richmond, VA",
@@ -5992,7 +6026,7 @@
     },
     {
       "id": "859604e1-9ada-4833-97b3-51fe185b6ff7",
-      "title": "Engineering Manager, Security",
+      "title": "Engineering Manager (Security)",
       "location": "San Francisco (+4 more)",
       "team": "Security",
       "url": "https://jobs.ashbyhq.com/Perplexity/859604e1-9ada-4833-97b3-51fe185b6ff7",
@@ -8451,6 +8485,22 @@
         "us"
       ],
       "firstSeen": "2026-11-11T21:00:35.548Z"
+    },
+    {
+      "id": "8375411",
+      "title": "Senior Data Scientist - Advanced Analytics",
+      "location": "New York, New York",
+      "team": null,
+      "url": "https://boards.greenhouse.io/justworks/jobs/8375411?gh_jid=8375411",
+      "postedAt": "2026-11-11T20:50:58.000Z",
+      "key": "justworks:8375411",
+      "company": "Justworks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T16:30:23.444Z"
     },
     {
       "id": "b441c2d2-cbea-4ac9-8e7d-fdf999c0f1d1",
@@ -27792,22 +27842,6 @@
       "firstSeen": "2026-10-29T21:40:18.608Z"
     },
     {
-      "id": "8318475",
-      "title": "Software Engineer III, Kubernetes",
-      "location": "Redwood City, CA, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8318475",
-      "postedAt": "2026-10-29T21:31:24.000Z",
-      "key": "boxinc:8318475",
-      "company": "Box",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-12T22:00:29.485Z"
-    },
-    {
       "id": "R_107105",
       "title": "Security Engineer II, Security Platform",
       "location": "Seattle, Washington United States",
@@ -29160,23 +29194,6 @@
         "us"
       ],
       "firstSeen": "2026-11-06T00:20:21.422Z"
-    },
-    {
-      "id": "8329488",
-      "title": "Applied Scientist",
-      "location": "United States | Remote",
-      "team": null,
-      "url": "https://careers.upstart.com/jobs?gh_jid=8329488",
-      "postedAt": "2026-10-28T16:15:54.000Z",
-      "key": "upstart:8329488",
-      "company": "Upstart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-10-28T16:20:22.702Z"
     },
     {
       "id": "8305772",
@@ -42190,38 +42207,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-14T16:34:59.602Z"
-    },
-    {
-      "id": "8281762",
-      "title": "Staff Security Engineer, Security Enablement",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8281762",
-      "postedAt": "2026-10-14T16:30:01.000Z",
-      "key": "doordashusa:8281762",
-      "company": "DoorDash",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T16:30:24.062Z"
-    },
-    {
-      "id": "05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
-      "title": "Senior Machine Learning Engineer, Personalization",
-      "location": "New York, NY",
-      "team": "Personalization",
-      "url": "https://jobs.lever.co/spotify/05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
-      "postedAt": "2026-10-14T16:28:30.066Z",
-      "key": "spotify:05b8d6ee-0773-4255-b8b9-ae73d74a5ee5",
-      "company": "Spotify",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T17:50:18.182Z"
     },
     {
       "id": "R1002802",
