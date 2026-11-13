@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-13T19:50:19.037Z",
+  "generatedAt": "2026-11-13T20:00:28.494Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Capital One:R1005335",
+    "okta:8384384",
+    "waymo:8386398"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 15,
-    "experienced": 2192
+    "experienced": 2195
   },
   "companies": [
     {
@@ -786,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 152,
+      "jobCount": 153,
       "error": null,
       "stale": false
     },
@@ -3424,10 +3428,10 @@
     },
     {
       "name": "Nvidia",
-      "ok": true,
+      "ok": false,
       "jobCount": 338,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Oasis Security",
@@ -3467,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 96,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5476,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R1005335",
+      "title": "Data Engineer 4",
+      "location": "Plano, TX",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Plano-TX/Data-Engineer-4_R1005335-1",
+      "postedAt": "2026-11-13T20:00:31.075Z",
+      "key": "Capital One:R1005335",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T20:00:28.494Z"
+    },
+    {
+      "id": "8386398",
+      "title": "Senior Software Engineer, Agentic Test Systems",
+      "location": "Mountain View, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8386398",
+      "postedAt": "2026-11-13T19:58:08.000Z",
+      "key": "waymo:8386398",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T20:00:28.494Z"
+    },
+    {
+      "id": "8384384",
+      "title": "Staff Software Engineer - Privileged Access Management (PAM)",
+      "location": "Bellevue, Washington",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8384384?gh_jid=8384384",
+      "postedAt": "2026-11-13T19:55:02.000Z",
+      "key": "okta:8384384",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T20:00:28.494Z"
+    },
     {
       "id": "JR2029610",
       "title": "Senior System Software Engineer",
