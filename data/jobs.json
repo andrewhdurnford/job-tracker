@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-13T18:50:18.247Z",
+  "generatedAt": "2026-11-13T19:00:34.093Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "anthropic:5477652008",
+    "chime:8765680002",
+    "ello:784b20d0-8689-4b61-9267-9254846d3961"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 15,
-    "experienced": 2186
+    "experienced": 2189
   },
   "companies": [
     {
@@ -303,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 44,
+      "jobCount": 45,
       "error": null,
       "stale": false
     },
@@ -926,7 +930,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1549,7 +1553,7 @@
     {
       "name": "Ello",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 96,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "784b20d0-8689-4b61-9267-9254846d3961",
+      "title": "Product Engineer",
+      "location": "San Francisco, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ello/784b20d0-8689-4b61-9267-9254846d3961",
+      "postedAt": "2026-11-13T18:54:49.263Z",
+      "key": "ello:784b20d0-8689-4b61-9267-9254846d3961",
+      "company": "Ello",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T19:00:34.093Z"
+    },
+    {
+      "id": "8765680002",
+      "title": "Director, Machine Learning Engineering",
+      "location": "San Francisco, CA, USA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/chime/jobs/8765680002?gh_jid=8765680002",
+      "postedAt": "2026-11-13T18:53:21.000Z",
+      "key": "chime:8765680002",
+      "company": "Chime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T19:00:34.093Z"
+    },
+    {
+      "id": "5477652008",
+      "title": "Staff+ Software Engineer, Consumer",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477652008",
+      "postedAt": "2026-11-13T18:51:11.000Z",
+      "key": "anthropic:5477652008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T19:00:34.093Z"
+    },
     {
       "id": "8384567",
       "title": "Software Engineer, Vulnerability Management",
@@ -15838,7 +15890,7 @@
       "id": "80c40695-5cd7-4206-96b6-873158a8e696",
       "title": "Founding Full Stack Software Engineer, Consulting",
       "location": "San Francisco",
-      "team": "Applied AI Engineering",
+      "team": "Applied AI Infrastructure",
       "url": "https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696",
       "postedAt": "2026-11-05T22:23:39.541Z",
       "key": "openai:80c40695-5cd7-4206-96b6-873158a8e696",
@@ -31075,7 +31127,7 @@
       "id": "2c646ef9-6f93-4124-9d51-964d2c5aa783",
       "title": "Founding Software Engineer, Physical Engineering",
       "location": "San Francisco",
-      "team": "Applied AI Engineering",
+      "team": "Applied AI Infrastructure",
       "url": "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
       "postedAt": "2026-10-26T22:18:02.107Z",
       "key": "openai:2c646ef9-6f93-4124-9d51-964d2c5aa783",
