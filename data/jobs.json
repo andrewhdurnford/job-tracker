@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-13T12:40:21.747Z",
+  "generatedAt": "2026-11-13T12:50:17.892Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "sofi:8202635003",
+    "Visa:REF089618W"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 23,
-    "experienced": 2233
+    "experienced": 2235
   },
   "companies": [
     {
@@ -3769,7 +3772,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4657,7 +4660,7 @@
     {
       "name": "SoFi",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5399,7 +5402,7 @@
     {
       "name": "Visa",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "REF089618W",
+      "title": "Associate Data Engineer",
+      "location": "US - Foster City, CA",
+      "team": null,
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W",
+      "postedAt": "2026-11-13T12:50:20.751Z",
+      "key": "Visa:REF089618W",
+      "company": "Visa",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T12:50:17.892Z"
+    },
+    {
+      "id": "8202635003",
+      "title": "Senior Staff Security Architect (Digital Assets)",
+      "location": "WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; NY - New York City; TX - Frisco",
+      "team": null,
+      "url": "https://sofi.com/careers/job/8202635003?gh_jid=8202635003",
+      "postedAt": "2026-11-13T12:49:28.000Z",
+      "key": "sofi:8202635003",
+      "company": "SoFi",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T12:50:17.892Z"
+    },
     {
       "id": "6261013004",
       "title": "Senior Full Stack Engineer | Experimentation - Product Analytics | NASA | Remote",
