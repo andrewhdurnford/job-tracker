@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-13T22:10:21.428Z",
+  "generatedAt": "2026-11-13T22:20:18.407Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "Procore:R0018525",
-    "xai:5290321007"
+    "okta:8373834"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,8 +11,8 @@
   "maxAgeDays": 30,
   "levelCounts": {
     "intern": 104,
-    "new-grad": 15,
-    "experienced": 2213
+    "new-grad": 14,
+    "experienced": 2206
   },
   "companies": [
     {
@@ -1243,10 +1242,10 @@
     },
     {
       "name": "CrowdStrike",
-      "ok": true,
+      "ok": false,
       "jobCount": 45,
-      "error": null,
-      "stale": false
+      "error": "HTTP 521 <none>",
+      "stale": true
     },
     {
       "name": "CTGT",
@@ -1279,7 +1278,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -2847,7 +2846,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3428,7 @@
       "name": "Nvidia",
       "ok": false,
       "jobCount": 338,
-      "error": "HTTP 502 Bad Gateway",
+      "error": "HTTP 521 <none>",
       "stale": true
     },
     {
@@ -3470,7 +3469,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4134,10 +4133,10 @@
     },
     {
       "name": "Remitly",
-      "ok": true,
+      "ok": false,
       "jobCount": 20,
-      "error": null,
-      "stale": false
+      "error": "HTTP 521 <none>",
+      "stale": true
     },
     {
       "name": "Remora",
@@ -5037,10 +5036,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 8,
-      "error": null,
-      "stale": false
+      "error": "HTTP 521 <none>",
+      "stale": true
     },
     {
       "name": "Tennr",
@@ -5401,10 +5400,10 @@
     },
     {
       "name": "Visa",
-      "ok": true,
+      "ok": false,
       "jobCount": 26,
-      "error": null,
-      "stale": false
+      "error": "HTTP 521 <none>",
+      "stale": true
     },
     {
       "name": "Vitalize",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8373834",
+      "title": "Staff Software Engineer - Okta Identity Governance",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8373834?gh_jid=8373834",
+      "postedAt": "2026-11-13T22:17:09.000Z",
+      "key": "okta:8373834",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T22:20:18.407Z"
+    },
     {
       "id": "R0018525",
       "title": "Principal Software Engineer - Infrastructure Platform",
@@ -12049,38 +12064,6 @@
       "firstSeen": "2026-11-10T08:00:30.302Z"
     },
     {
-      "id": "cebcf532-f723-4b14-a366-765d04b80d4c",
-      "title": "Software Engineer, Services Platform",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Foundations",
-      "url": "https://jobs.ashbyhq.com/cursor/cebcf532-f723-4b14-a366-765d04b80d4c",
-      "postedAt": "2026-11-10T00:25:39.853Z",
-      "key": "cursor:cebcf532-f723-4b14-a366-765d04b80d4c",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T07:50:21.211Z"
-    },
-    {
-      "id": "b236a81e-6c5b-45ce-8b4a-0810ae82ca82",
-      "title": "Software Engineer, Storage",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Foundations",
-      "url": "https://jobs.ashbyhq.com/cursor/b236a81e-6c5b-45ce-8b4a-0810ae82ca82",
-      "postedAt": "2026-11-10T00:25:34.486Z",
-      "key": "cursor:b236a81e-6c5b-45ce-8b4a-0810ae82ca82",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T08:00:30.302Z"
-    },
-    {
       "id": "6f67c0c9-717c-4eb2-919b-5ab7d54e9a8b",
       "title": "Software Engineer, Security",
       "location": "San Francisco, CA (+1 more)",
@@ -12123,26 +12106,6 @@
       "company": "Cursor",
       "level": "experienced",
       "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T07:50:21.211Z"
-    },
-    {
-      "id": "164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
-      "title": "Software Engineer, New Grad 2027",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
-      "postedAt": "2026-11-10T00:20:41.676Z",
-      "key": "cursor:164e27cd-289e-4bcd-8aaf-5280e75c5ed6",
-      "company": "Cursor",
-      "level": "new-grad",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
       "regions": [
         "us"
       ],
@@ -12197,54 +12160,6 @@
       "firstSeen": "2026-11-10T07:40:22.614Z"
     },
     {
-      "id": "f7dd8f73-e204-4e34-bb4a-2e7fccc4f3f8",
-      "title": "Software Engineer, Developer Productivity",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Teams",
-      "url": "https://jobs.ashbyhq.com/cursor/f7dd8f73-e204-4e34-bb4a-2e7fccc4f3f8",
-      "postedAt": "2026-11-10T00:13:20.725Z",
-      "key": "cursor:f7dd8f73-e204-4e34-bb4a-2e7fccc4f3f8",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T07:30:23.859Z"
-    },
-    {
-      "id": "359cb8e6-77e8-4a77-be67-a39eb46d2c10",
-      "title": "Software Engineer, Infrastructure",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Foundations",
-      "url": "https://jobs.ashbyhq.com/cursor/359cb8e6-77e8-4a77-be67-a39eb46d2c10",
-      "postedAt": "2026-11-10T00:12:31.175Z",
-      "key": "cursor:359cb8e6-77e8-4a77-be67-a39eb46d2c10",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T07:30:23.859Z"
-    },
-    {
-      "id": "9d756f3e-ec33-4820-9971-f803de7b2d63",
-      "title": "Software Engineer, Core Services",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Foundations",
-      "url": "https://jobs.ashbyhq.com/cursor/9d756f3e-ec33-4820-9971-f803de7b2d63",
-      "postedAt": "2026-11-10T00:12:19.414Z",
-      "key": "cursor:9d756f3e-ec33-4820-9971-f803de7b2d63",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T07:30:23.859Z"
-    },
-    {
       "id": "bb1e7f02-d30c-49fa-8d67-9a35ecc59462",
       "title": "Software Engineer, Compute Infra",
       "location": "San Francisco, CA (+1 more)",
@@ -12252,38 +12167,6 @@
       "url": "https://jobs.ashbyhq.com/cursor/bb1e7f02-d30c-49fa-8d67-9a35ecc59462",
       "postedAt": "2026-11-10T00:11:17.199Z",
       "key": "cursor:bb1e7f02-d30c-49fa-8d67-9a35ecc59462",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T07:30:23.859Z"
-    },
-    {
-      "id": "39386c17-568f-4f9c-b8de-e641c092deaa",
-      "title": "Software Engineer, Client Infrastructure",
-      "location": "San Francisco, CA",
-      "team": "Client",
-      "url": "https://jobs.ashbyhq.com/cursor/39386c17-568f-4f9c-b8de-e641c092deaa",
-      "postedAt": "2026-11-10T00:10:43.762Z",
-      "key": "cursor:39386c17-568f-4f9c-b8de-e641c092deaa",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T07:30:23.859Z"
-    },
-    {
-      "id": "b810bd30-f3b8-45b4-8afd-d2916ce5ee93",
-      "title": "Software Engineer, Bugbot",
-      "location": "New York, NY (+1 more)",
-      "team": "Teams",
-      "url": "https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93",
-      "postedAt": "2026-11-10T00:10:02.546Z",
-      "key": "cursor:b810bd30-f3b8-45b4-8afd-d2916ce5ee93",
       "company": "Cursor",
       "level": "experienced",
       "term": null,
@@ -42112,22 +41995,6 @@
         "us"
       ],
       "firstSeen": "2026-10-14T22:50:17.874Z"
-    },
-    {
-      "id": "8888403002",
-      "title": "ML Software Engineer, Routing",
-      "location": "Toronto, Canada",
-      "team": null,
-      "url": "https://app.careerpuck.com/job-board/lyft/job/8888403002?gh_jid=8888403002",
-      "postedAt": "2026-10-14T22:13:31.000Z",
-      "key": "lyft:8888403002",
-      "company": "Lyft",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-14T22:20:16.439Z"
     },
     {
       "id": "R1003748",
