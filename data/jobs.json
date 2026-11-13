@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T14:20:20.258Z",
+  "generatedAt": "2026-11-13T14:30:23.665Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Visa:REF082941W"
+    "gitlab:8937425002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 23,
-    "experienced": 2233
+    "experienced": 2232
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1418,7 +1418,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -1964,7 +1964,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5107,7 +5107,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8937425002",
+      "title": "Senior Backend Engineer (Go), Tenant Scales: Gitaly",
+      "location": "Remote, Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937425002",
+      "postedAt": "2026-11-13T14:29:07.000Z",
+      "key": "gitlab:8937425002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-13T14:30:23.665Z"
+    },
     {
       "id": "REF082941W",
       "title": "Staff Data Scientist",
@@ -42738,38 +42754,6 @@
         "us"
       ],
       "firstSeen": "2026-10-14T14:50:17.220Z"
-    },
-    {
-      "id": "8258811",
-      "title": "Senior Software Engineer, Android ",
-      "location": "Remote, US ",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8258811",
-      "postedAt": "2026-10-14T14:29:54.000Z",
-      "key": "toast:8258811",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-11T21:00:35.548Z"
-    },
-    {
-      "id": "48ef7134-5d54-4662-b8d3-a70b55eb9a58",
-      "title": "Senior Software Engineer, AI Developer Tools",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "ENG-Platform",
-      "url": "https://jobs.ashbyhq.com/docker/48ef7134-5d54-4662-b8d3-a70b55eb9a58",
-      "postedAt": "2026-10-14T14:25:06.621Z",
-      "key": "docker:48ef7134-5d54-4662-b8d3-a70b55eb9a58",
-      "company": "Docker",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T14:30:21.523Z"
     },
     {
       "id": "JR202601078",
