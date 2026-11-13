@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-13T21:10:19.810Z",
+  "generatedAt": "2026-11-13T21:20:19.513Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "cloudflare:8381749"
+    "netlify:8519325002",
+    "openai:cc1ea124-47ad-4b81-9e4e-0c69e525b62a"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -3280,7 +3281,7 @@
     {
       "name": "Netlify",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3428,7 +3429,7 @@
       "name": "Nvidia",
       "ok": false,
       "jobCount": 338,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 502 Bad Gateway",
       "stale": true
     },
     {
@@ -3511,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 57,
+      "jobCount": 58,
       "error": null,
       "stale": false
     },
@@ -4106,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4343,10 +4344,10 @@
     },
     {
       "name": "Sandbox VR",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sandstone",
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 97,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4855,7 +4856,7 @@
     {
       "name": "Suno",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8519325002",
+      "title": "Senior Software Engineer",
+      "location": "Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/netlify/jobs/8519325002",
+      "postedAt": "2026-11-13T21:19:51.000Z",
+      "key": "netlify:8519325002",
+      "company": "Netlify",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-13T21:20:19.513Z"
+    },
+    {
+      "id": "cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
+      "title": "Full Stack Software Engineer, Consumer Health",
+      "location": "San Francisco",
+      "team": "Applied AI Infrastructure",
+      "url": "https://jobs.ashbyhq.com/openai/cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
+      "postedAt": "2026-11-13T21:10:12.048Z",
+      "key": "openai:cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T21:20:19.513Z"
+    },
     {
       "id": "8381749",
       "title": "Principal, Developer Platform Positioning",
@@ -42078,38 +42111,6 @@
         "us"
       ],
       "firstSeen": "2026-10-14T22:10:19.459Z"
-    },
-    {
-      "id": "8237636",
-      "title": "Staff Software Engineer, Android Design System",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8237636",
-      "postedAt": "2026-10-14T21:18:59.000Z",
-      "key": "reddit:8237636",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T21:20:19.498Z"
-    },
-    {
-      "id": "e526eb6c-5a74-4c20-9d2b-b087477a0363",
-      "title": "Senior / Staff Infrastructure Security Engineer",
-      "location": "NYC",
-      "team": "Security Engineering ",
-      "url": "https://jobs.ashbyhq.com/suno/e526eb6c-5a74-4c20-9d2b-b087477a0363",
-      "postedAt": "2026-10-14T21:12:10.778Z",
-      "key": "suno:e526eb6c-5a74-4c20-9d2b-b087477a0363",
-      "company": "Suno",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T21:20:19.498Z"
     },
     {
       "id": "R1003748",
