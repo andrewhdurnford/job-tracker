@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-13T18:30:26.313Z",
+  "generatedAt": "2026-11-13T18:40:19.948Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "stripe:8384567"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 15,
-    "experienced": 2189
+    "experienced": 2187
   },
   "companies": [
     {
@@ -593,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1299,7 +1297,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4134,7 +4132,7 @@
     {
       "name": "Remitly",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 96,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -7727,22 +7725,6 @@
         "us"
       ],
       "firstSeen": "2026-11-12T17:30:23.157Z"
-    },
-    {
-      "id": "R_106871",
-      "title": "Senior Software Engineer",
-      "location": "Seattle, Washington United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Engineer_R_106871",
-      "postedAt": "2026-11-12T17:10:21.874Z",
-      "key": "Remitly:R_106871",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-12T17:10:19.266Z"
     },
     {
       "id": "6256271004",
@@ -41772,22 +41754,6 @@
         "us"
       ],
       "firstSeen": "2026-10-14T18:50:22.938Z"
-    },
-    {
-      "id": "8282140",
-      "title": "Manager II, Developer Advocacy",
-      "location": "California, USA, Remote; New York, USA, Remote; Washington, USA, Remote",
-      "team": null,
-      "url": "https://careers.datadoghq.com/detail/8282140/?gh_jid=8282140",
-      "postedAt": "2026-10-14T18:32:29.000Z",
-      "key": "datadog:8282140",
-      "company": "Datadog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T18:40:17.820Z"
     },
     {
       "id": "REF088720W",
