@@ -1,15 +1,9 @@
 {
-  "generatedAt": "2026-11-13T21:00:27.642Z",
+  "generatedAt": "2026-11-13T21:10:19.810Z",
   "bootstrap": false,
-  "lastRunNewCount": 7,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "coupang:8386063",
-    "instacart:8386574",
-    "nubank:40f50e46-8f43-4460-99ee-a6de0a128079",
-    "okta:8359853",
-    "openai:26cfb873-f30a-4a13-b7b6-52833ea48ec9",
-    "openai:2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
-    "tovala:824e989d-646a-4274-b7b6-5f960faa8137"
+    "cloudflare:8381749"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -18,7 +12,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 15,
-    "experienced": 2211
+    "experienced": 2212
   },
   "companies": [
     {
@@ -1018,7 +1012,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -2559,7 +2553,7 @@
       "name": "KAYAK",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3313,10 +3307,10 @@
     },
     {
       "name": "Neuralink",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nevis",
@@ -3488,10 +3482,10 @@
     },
     {
       "name": "Omada Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "OneChronos",
@@ -3560,7 +3554,7 @@
       "name": "Outschool",
       "ok": false,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4349,10 +4343,10 @@
     },
     {
       "name": "Sandbox VR",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sandstone",
@@ -5037,7 +5031,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5539,10 +5533,10 @@
     },
     {
       "name": "WithCoverage",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Wiz",
@@ -5707,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8381749",
+      "title": "Principal, Developer Platform Positioning",
+      "location": "Austin, TX (+2 more)",
+      "team": "Developer Relations",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8381749?gh_jid=8381749",
+      "postedAt": "2026-11-13T21:04:04.000Z",
+      "key": "cloudflare:8381749",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T21:10:19.810Z"
+    },
     {
       "id": "26cfb873-f30a-4a13-b7b6-52833ea48ec9",
       "title": "Full Stack Software Engineer, ChatGPT Finances",
