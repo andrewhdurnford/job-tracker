@@ -1,8 +1,16 @@
 {
-  "generatedAt": "2026-11-13T20:50:18.975Z",
+  "generatedAt": "2026-11-13T21:00:27.642Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 7,
+  "newKeys": [
+    "coupang:8386063",
+    "instacart:8386574",
+    "nubank:40f50e46-8f43-4460-99ee-a6de0a128079",
+    "okta:8359853",
+    "openai:26cfb873-f30a-4a13-b7b6-52833ea48ec9",
+    "openai:2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
+    "tovala:824e989d-646a-4274-b7b6-5f960faa8137"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +18,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 15,
-    "experienced": 2204
+    "experienced": 2211
   },
   "companies": [
     {
@@ -1199,7 +1207,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2417,7 +2425,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2551,7 +2559,7 @@
       "name": "KAYAK",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3305,10 +3313,10 @@
     },
     {
       "name": "Neuralink",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nevis",
@@ -3397,7 +3405,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3467,7 +3475,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -3480,10 +3488,10 @@
     },
     {
       "name": "Omada Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "OneChronos",
@@ -3509,7 +3517,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 55,
+      "jobCount": 57,
       "error": null,
       "stale": false
     },
@@ -3552,7 +3560,7 @@
       "name": "Outschool",
       "ok": false,
       "jobCount": 2,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5029,7 +5037,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5133,7 +5141,7 @@
     {
       "name": "Tovala",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5531,10 +5539,10 @@
     },
     {
       "name": "WithCoverage",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Wiz",
@@ -5699,6 +5707,118 @@
     }
   ],
   "jobs": [
+    {
+      "id": "26cfb873-f30a-4a13-b7b6-52833ea48ec9",
+      "title": "Full Stack Software Engineer, ChatGPT Finances",
+      "location": "San Francisco",
+      "team": "Applied AI Infrastructure",
+      "url": "https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9",
+      "postedAt": "2026-11-13T20:57:10.105Z",
+      "key": "openai:26cfb873-f30a-4a13-b7b6-52833ea48ec9",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T21:00:27.642Z"
+    },
+    {
+      "id": "8359853",
+      "title": "Senior Full-Stack Engineer, Builder Platform ",
+      "location": "Toronto, Ontario, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8359853?gh_jid=8359853",
+      "postedAt": "2026-11-13T20:57:10.000Z",
+      "key": "okta:8359853",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-13T21:00:27.642Z"
+    },
+    {
+      "id": "2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
+      "title": "Full Stack Software Engineer, Travel",
+      "location": "San Francisco",
+      "team": "Applied AI Infrastructure",
+      "url": "https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
+      "postedAt": "2026-11-13T20:56:56.868Z",
+      "key": "openai:2320fe69-df26-4d1d-ada6-d1a46c0e68a1",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T21:00:27.642Z"
+    },
+    {
+      "id": "8386574",
+      "title": "Senior iOS Engineer",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8386574",
+      "postedAt": "2026-11-13T20:53:53.000Z",
+      "key": "instacart:8386574",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-13T21:00:27.642Z"
+    },
+    {
+      "id": "40f50e46-8f43-4460-99ee-a6de0a128079",
+      "title": "Senior Cloud Network Engineer ",
+      "location": "Palo Alto (+1 more)",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/40f50e46-8f43-4460-99ee-a6de0a128079",
+      "postedAt": "2026-11-13T20:52:07.636Z",
+      "key": "nubank:40f50e46-8f43-4460-99ee-a6de0a128079",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T21:00:27.642Z"
+    },
+    {
+      "id": "8386063",
+      "title": "Director of Backend Engineering",
+      "location": "Seattle, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8386063",
+      "postedAt": "2026-11-13T20:51:41.000Z",
+      "key": "coupang:8386063",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T21:00:27.642Z"
+    },
+    {
+      "id": "824e989d-646a-4274-b7b6-5f960faa8137",
+      "title": "Data Engineering Manager",
+      "location": "1021 W Adams St, Chicago, IL",
+      "team": "Data",
+      "url": "https://jobs.lever.co/tovala/824e989d-646a-4274-b7b6-5f960faa8137",
+      "postedAt": "2026-11-13T20:51:40.791Z",
+      "key": "tovala:824e989d-646a-4274-b7b6-5f960faa8137",
+      "company": "Tovala",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T21:00:27.642Z"
+    },
     {
       "id": "8310779",
       "title": "Principal Software Engineer, Creator Analytics",
