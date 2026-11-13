@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-13T20:00:28.494Z",
+  "generatedAt": "2026-11-13T20:10:44.306Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "Capital One:R1005335",
-    "okta:8384384",
-    "waymo:8386398"
+    "Capital One:R1002296",
+    "chime:8932327002",
+    "spacex:8942392002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 15,
-    "experienced": 2195
+    "experienced": 2197
   },
   "companies": [
     {
@@ -790,7 +790,7 @@
     {
       "name": "Capital One",
       "ok": true,
-      "jobCount": 153,
+      "jobCount": 154,
       "error": null,
       "stale": false
     },
@@ -930,7 +930,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4367,7 +4367,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 96,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 97,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5704,6 +5704,38 @@
   ],
   "jobs": [
     {
+      "id": "R1002296",
+      "title": "Full-Stack Engineer 5",
+      "location": "Richmond, VA",
+      "team": null,
+      "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Full-Stack-Engineer-5_R1002296-1",
+      "postedAt": "2026-11-13T20:10:47.052Z",
+      "key": "Capital One:R1002296",
+      "company": "Capital One",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T20:10:44.306Z"
+    },
+    {
+      "id": "8932327002",
+      "title": "Tech Lead Manager, Human Agent Tooling",
+      "location": "San Francisco, CA, USA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/chime/jobs/8932327002?gh_jid=8932327002",
+      "postedAt": "2026-11-13T20:00:41.000Z",
+      "key": "chime:8932327002",
+      "company": "Chime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T20:10:44.306Z"
+    },
+    {
       "id": "R1005335",
       "title": "Data Engineer 4",
       "location": "Plano, TX",
@@ -5750,6 +5782,22 @@
         "us"
       ],
       "firstSeen": "2026-11-13T20:00:28.494Z"
+    },
+    {
+      "id": "8942392002",
+      "title": "High Performance Computing Systems Engineer (HPC)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8942392002?gh_jid=8942392002",
+      "postedAt": "2026-11-13T19:54:39.000Z",
+      "key": "spacex:8942392002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T20:10:44.306Z"
     },
     {
       "id": "JR2029610",
@@ -41840,22 +41888,6 @@
         "us"
       ],
       "firstSeen": "2026-10-14T20:20:20.309Z"
-    },
-    {
-      "id": "d5a49ad3-97e5-4b5b-b0e8-bccd77229414",
-      "title": "Sr. Field Service Quality Engineer",
-      "location": "Austin, TX",
-      "team": "Quality",
-      "url": "https://jobs.ashbyhq.com/saronic/d5a49ad3-97e5-4b5b-b0e8-bccd77229414",
-      "postedAt": "2026-10-14T20:10:14.943Z",
-      "key": "saronic:d5a49ad3-97e5-4b5b-b0e8-bccd77229414",
-      "company": "Saronic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T20:18:15.208Z"
     },
     {
       "id": "REF089195W",
