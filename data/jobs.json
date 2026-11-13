@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T22:20:18.407Z",
+  "generatedAt": "2026-11-13T22:30:23.969Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "okta:8373834"
+    "robinhood:8356065"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -66,10 +66,10 @@
     },
     {
       "name": "Adobe",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "HTTP 521 <none>",
+      "stale": true
     },
     {
       "name": "Adyen",
@@ -1278,7 +1278,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -4232,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5680,10 +5680,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 521 <none>",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8356065",
+      "title": "Senior Data Scientist, Experimentation",
+      "location": "Menlo Park, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8356065?t=gh_src=&gh_jid=8356065",
+      "postedAt": "2026-11-13T22:25:02.000Z",
+      "key": "robinhood:8356065",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T22:30:23.969Z"
+    },
     {
       "id": "8373834",
       "title": "Staff Software Engineer - Okta Identity Governance",
@@ -12142,22 +12158,6 @@
         "us"
       ],
       "firstSeen": "2026-11-10T00:20:20.445Z"
-    },
-    {
-      "id": "39928fa7-8acc-41b9-9143-97b760774f05",
-      "title": "Software Engineer, Enterprise",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Teams",
-      "url": "https://jobs.ashbyhq.com/cursor/39928fa7-8acc-41b9-9143-97b760774f05",
-      "postedAt": "2026-11-10T00:13:58.327Z",
-      "key": "cursor:39928fa7-8acc-41b9-9143-97b760774f05",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T07:40:22.614Z"
     },
     {
       "id": "bb1e7f02-d30c-49fa-8d67-9a35ecc59462",
