@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T21:58:46.011Z",
+  "generatedAt": "2026-11-13T22:10:21.428Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "Procore:R0018086",
-    "ramp:6e717b06-6613-42ad-a1ee-f852a305fa37"
+    "Procore:R0018525",
+    "xai:5290321007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 15,
-    "experienced": 2214
+    "experienced": 2213
   },
   "companies": [
     {
@@ -1279,7 +1279,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -3429,7 +3429,7 @@
       "name": "Nvidia",
       "ok": false,
       "jobCount": 338,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 502 Bad Gateway",
       "stale": true
     },
     {
@@ -3890,7 +3890,7 @@
     {
       "name": "Procore",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4107,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4471,7 +4471,7 @@
     {
       "name": "Shield AI",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5584,7 +5584,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R0018525",
+      "title": "Principal Software Engineer - Infrastructure Platform",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Principal-Site-Reliability-Engineer--AI-Automation-and-Orchestration_R0018525",
+      "postedAt": "2026-11-13T22:10:24.347Z",
+      "key": "Procore:R0018525",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T22:10:21.428Z"
+    },
+    {
+      "id": "5290321007",
+      "title": "Software Engineer, Consumer Subscriptions",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5290321007",
+      "postedAt": "2026-11-13T22:02:48.000Z",
+      "key": "xai:5290321007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T22:10:21.428Z"
+    },
     {
       "id": "R0018086",
       "title": "Staff Software Engineer - Networking",
@@ -12252,22 +12284,6 @@
       "url": "https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93",
       "postedAt": "2026-11-10T00:10:02.546Z",
       "key": "cursor:b810bd30-f3b8-45b4-8afd-d2916ce5ee93",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T07:30:23.859Z"
-    },
-    {
-      "id": "6222602a-f0ca-4558-8364-06970723e917",
-      "title": "Software Engineer, Billing",
-      "location": "San Francisco, CA (+1 more)",
-      "team": "Teams",
-      "url": "https://jobs.ashbyhq.com/cursor/6222602a-f0ca-4558-8364-06970723e917",
-      "postedAt": "2026-11-10T00:09:12.078Z",
-      "key": "cursor:6222602a-f0ca-4558-8364-06970723e917",
       "company": "Cursor",
       "level": "experienced",
       "term": null,
@@ -41262,22 +41278,6 @@
       "firstSeen": "2026-10-15T19:50:15.825Z"
     },
     {
-      "id": "77693fd5-b376-4b7d-8fe0-6e5d47f10bea",
-      "title": "Senior Manager, Engineering - Hivemind Reasoning (R6291)",
-      "location": "San Mateo, California",
-      "team": "Engineering",
-      "url": "https://jobs.lever.co/shieldai/77693fd5-b376-4b7d-8fe0-6e5d47f10bea",
-      "postedAt": "2026-10-15T19:35:43.874Z",
-      "key": "shieldai:77693fd5-b376-4b7d-8fe0-6e5d47f10bea",
-      "company": "Shield AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T19:40:17.468Z"
-    },
-    {
       "id": "6200689004",
       "title": "SDET Manager",
       "location": "Bellevue,Washington,United States",
@@ -42128,22 +42128,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-14T22:20:16.439Z"
-    },
-    {
-      "id": "8282760",
-      "title": "Analytics Engineer",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8282760",
-      "postedAt": "2026-10-14T22:03:16.000Z",
-      "key": "reddit:8282760",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T22:10:19.459Z"
     },
     {
       "id": "R1003748",
