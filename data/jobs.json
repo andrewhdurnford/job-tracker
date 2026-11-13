@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T22:40:20.812Z",
+  "generatedAt": "2026-11-13T22:50:25.819Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "govdash:911b41b3-c74a-44db-88ea-96cafb957466"
+    "cerebras:9843180d-ba0a-44d7-8cc1-7ae94d686f56"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 14,
-    "experienced": 2201
+    "experienced": 2199
   },
   "companies": [
     {
@@ -865,7 +865,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1242,10 +1242,10 @@
     },
     {
       "name": "CrowdStrike",
-      "ok": false,
+      "ok": true,
       "jobCount": 45,
-      "error": "HTTP 521 <none>",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "CTGT",
@@ -1874,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2658,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2917,7 +2917,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3679,7 +3679,7 @@
     {
       "name": "Persona",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4694,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 97,
+      "jobCount": 96,
       "error": null,
       "stale": false
     },
@@ -5303,7 +5303,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "9843180d-ba0a-44d7-8cc1-7ae94d686f56",
+      "title": "Operations Tech Lead",
+      "location": "Sunnyvale, CA",
+      "team": "Hardware",
+      "url": "https://jobs.ashbyhq.com/cerebras/9843180d-ba0a-44d7-8cc1-7ae94d686f56",
+      "postedAt": "2026-11-13T22:48:35.826Z",
+      "key": "cerebras:9843180d-ba0a-44d7-8cc1-7ae94d686f56",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-13T22:50:25.819Z"
+    },
     {
       "id": "911b41b3-c74a-44db-88ea-96cafb957466",
       "title": "Software Engineer ",
@@ -11694,23 +11710,6 @@
         "us"
       ],
       "firstSeen": "2026-11-10T05:30:25.475Z"
-    },
-    {
-      "id": "8356743",
-      "title": "Senior Applied Scientist",
-      "location": "United States | Remote",
-      "team": null,
-      "url": "https://careers.upstart.com/jobs?gh_jid=8356743",
-      "postedAt": "2026-11-10T04:02:22.000Z",
-      "key": "upstart:8356743",
-      "company": "Upstart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-11-10T04:10:19.013Z"
     },
     {
       "id": "8360491",
@@ -41883,38 +41882,6 @@
         "us"
       ],
       "firstSeen": "2026-10-30T20:50:18.033Z"
-    },
-    {
-      "id": "8603698002",
-      "title": "EEE Failure Analysis Engineer (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8603698002?gh_jid=8603698002",
-      "postedAt": "2026-10-14T22:49:09.000Z",
-      "key": "spacex:8603698002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T22:50:17.874Z"
-    },
-    {
-      "id": "6069ae62-74ea-4d48-8832-2863dbc27805",
-      "title": "Research Scientist",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/persona/6069ae62-74ea-4d48-8832-2863dbc27805",
-      "postedAt": "2026-10-14T22:42:39.401Z",
-      "key": "persona:6069ae62-74ea-4d48-8832-2863dbc27805",
-      "company": "Persona",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-14T22:50:17.874Z"
     },
     {
       "id": "R1003748",
