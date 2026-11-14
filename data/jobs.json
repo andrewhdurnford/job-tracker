@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-14T21:50:26.416Z",
+  "generatedAt": "2026-11-14T22:00:31.285Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "Nvidia:JR2029799"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 102,
     "new-grad": 14,
-    "experienced": 2150
+    "experienced": 2148
   },
   "companies": [
     {
@@ -593,13 +591,13 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
       "name": "Blee",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -936,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4133,10 +4131,10 @@
     },
     {
       "name": "Remitly",
-      "ok": true,
+      "ok": false,
       "jobCount": 20,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "Remora",
@@ -4337,7 +4335,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -41106,38 +41104,6 @@
         "us"
       ],
       "firstSeen": "2026-10-15T22:10:14.857Z"
-    },
-    {
-      "id": "832c4e82-f2cc-4fd5-ab89-08164bbcdd2c",
-      "title": "Applied Scientist",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/Blee/832c4e82-f2cc-4fd5-ab89-08164bbcdd2c",
-      "postedAt": "2026-10-15T21:55:12.856Z",
-      "key": "blee:832c4e82-f2cc-4fd5-ab89-08164bbcdd2c",
-      "company": "Blee",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T22:00:25.020Z"
-    },
-    {
-      "id": "8287656",
-      "title": "Staff or Senior Firmware Engineer",
-      "location": "Remote - SF Bay Area",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8287656?gh_jid=8287656",
-      "postedAt": "2026-10-15T21:54:53.000Z",
-      "key": "samsara:8287656",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T22:00:25.020Z"
     },
     {
       "id": "c595e670-8afb-47b3-9ba4-0efd11861e8c",
