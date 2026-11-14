@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-14T01:00:28.269Z",
+  "generatedAt": "2026-11-14T01:10:18.917Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "lucidmotors:5295346007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2194
+    "experienced": 2193
   },
   "companies": [
     {
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 521 <none>",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2809,7 +2811,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 54,
+      "jobCount": 53,
       "error": null,
       "stale": false
     },
@@ -4104,7 +4106,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5295346007",
+      "title": "Lead Design CNC Programmer/Operator",
+      "location": "Newark, CA",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5295346007?gh_jid=5295346007",
+      "postedAt": "2026-11-14T01:04:58.000Z",
+      "key": "lucidmotors:5295346007",
+      "company": "Lucid Motors",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-14T01:10:18.917Z"
+    },
     {
       "id": "e0f9e400-95e5-4ff1-ba05-67f57a56ba9f",
       "title": "Backend Engineer ",
@@ -41745,38 +41763,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-15T02:10:15.132Z"
-    },
-    {
-      "id": "8283770",
-      "title": "Senior Machine Learning Systems Engineer, ML Platform",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8283770",
-      "postedAt": "2026-10-15T01:09:56.000Z",
-      "key": "reddit:8283770",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T01:10:18.692Z"
-    },
-    {
-      "id": "5dce6671-9aa8-4c49-b263-b175a2a927f8",
-      "title": "Applied Data Scientist, Personalization & Machine Learning",
-      "location": "San Francisco",
-      "team": "Data Science",
-      "url": "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8",
-      "postedAt": "2026-10-15T01:07:39.592Z",
-      "key": "openai:5dce6671-9aa8-4c49-b263-b175a2a927f8",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T17:20:22.042Z"
     },
     {
       "id": "R1003748",
