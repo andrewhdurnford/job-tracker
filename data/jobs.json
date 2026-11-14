@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-14T00:20:19.491Z",
+  "generatedAt": "2026-11-14T00:30:25.136Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "databricks:8907988002",
-    "databricks:8910846002"
+    "nango:7355bb8c-4868-4eef-8f4a-6f3f18425a8c",
+    "quindar:e0f9e400-95e5-4ff1-ba05-67f57a56ba9f",
+    "roblox:8366921"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2194
+    "experienced": 2196
   },
   "companies": [
     {
@@ -1320,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 521 <none>",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1756,7 +1757,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1777,7 +1778,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1875,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2105,7 +2106,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3218,7 +3219,7 @@
     {
       "name": "Nango",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4016,7 +4017,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4240,7 +4241,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4435,10 +4436,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "HTTP 521 <none>",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 96,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4829,7 +4830,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5639,10 +5640,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 521 <none>",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "e0f9e400-95e5-4ff1-ba05-67f57a56ba9f",
+      "title": "Backend Engineer ",
+      "location": "Denver, CO",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/quindar/e0f9e400-95e5-4ff1-ba05-67f57a56ba9f",
+      "postedAt": "2026-11-14T00:27:57.112Z",
+      "key": "quindar:e0f9e400-95e5-4ff1-ba05-67f57a56ba9f",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-14T00:30:25.136Z"
+    },
+    {
+      "id": "8366921",
+      "title": "Senior Software Engineer, Data Engineering",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8366921?gh_jid=8366921",
+      "postedAt": "2026-11-14T00:23:54.000Z",
+      "key": "roblox:8366921",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-14T00:30:25.136Z"
+    },
+    {
+      "id": "7355bb8c-4868-4eef-8f4a-6f3f18425a8c",
+      "title": "Product Engineer (New Products)",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/Nango/7355bb8c-4868-4eef-8f4a-6f3f18425a8c",
+      "postedAt": "2026-11-14T00:23:26.033Z",
+      "key": "nango:7355bb8c-4868-4eef-8f4a-6f3f18425a8c",
+      "company": "Nango",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-14T00:30:25.136Z"
+    },
     {
       "id": "R0019075",
       "title": "Senior Manager, Analytics Engineering & Data Science",
@@ -41764,22 +41813,6 @@
         "us"
       ],
       "firstSeen": "2026-10-29T15:40:18.160Z"
-    },
-    {
-      "id": "8168216",
-      "title": "Senior Staff Software Engineer, Gusto Agent & Partner Experiences (API)",
-      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8168216",
-      "postedAt": "2026-10-15T00:28:46.000Z",
-      "key": "gusto:8168216",
-      "company": "Gusto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T00:30:21.351Z"
     },
     {
       "id": "R1003748",
