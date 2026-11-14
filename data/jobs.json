@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T23:20:19.747Z",
+  "generatedAt": "2026-11-14T23:29:32.128Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 102,
     "new-grad": 14,
-    "experienced": 2137
+    "experienced": 2133
   },
   "companies": [
     {
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -611,7 +611,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -2235,7 +2235,7 @@
     {
       "name": "Honeycomb",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3424,10 +3424,10 @@
     },
     {
       "name": "Nvidia",
-      "ok": true,
+      "ok": false,
       "jobCount": 340,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Oasis Security",
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 93,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4726,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5636,10 +5636,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -40880,70 +40880,6 @@
         "us"
       ],
       "firstSeen": "2026-10-15T23:50:15.225Z"
-    },
-    {
-      "id": "5427855008",
-      "title": "Security Engineer - Network Edge Security",
-      "location": "Bay Area, CA, United States of America",
-      "team": null,
-      "url": "http://block.xyz/careers/jobs/5427855008?gh_jid=5427855008",
-      "postedAt": "2026-10-15T23:23:40.000Z",
-      "key": "block:5427855008",
-      "company": "Block",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T23:30:18.029Z"
-    },
-    {
-      "id": "5452586008",
-      "title": "Senior Software Engineer I - Agent Observability",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5452586008",
-      "postedAt": "2026-10-15T23:21:51.000Z",
-      "key": "honeycomb:5452586008",
-      "company": "Honeycomb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-15T23:30:18.029Z"
-    },
-    {
-      "id": "5452584008",
-      "title": "Senior Software Engineer I - Agent Observability",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5452584008",
-      "postedAt": "2026-10-15T23:21:48.000Z",
-      "key": "honeycomb:5452584008",
-      "company": "Honeycomb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-15T23:30:18.029Z"
-    },
-    {
-      "id": "5452447008",
-      "title": "Senior Software Engineer II - Agent Observability",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5452447008",
-      "postedAt": "2026-10-15T23:20:41.000Z",
-      "key": "honeycomb:5452447008",
-      "company": "Honeycomb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-15T23:30:18.029Z"
     },
     {
       "id": "c595e670-8afb-47b3-9ba4-0efd11861e8c",
