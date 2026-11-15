@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-15T23:00:26.843Z",
+  "generatedAt": "2026-11-15T23:10:19.231Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "Nvidia:JR2019127"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -4434,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -4728,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -5036,10 +5034,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 8,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -5400,10 +5398,10 @@
     },
     {
       "name": "Visa",
-      "ok": true,
+      "ok": false,
       "jobCount": 21,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Vitalize",
