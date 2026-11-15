@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:20:18.176Z",
+  "generatedAt": "2026-11-15T23:30:24.286Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -1240,10 +1240,10 @@
     },
     {
       "name": "CrowdStrike",
-      "ok": true,
+      "ok": false,
       "jobCount": 45,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "CTGT",
@@ -2656,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -4826,7 +4826,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
