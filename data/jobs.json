@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:00:28.154Z",
+  "generatedAt": "2026-11-15T19:10:19.737Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 13,
-    "experienced": 2077
+    "experienced": 2074
   },
   "companies": [
     {
@@ -1472,7 +1472,7 @@
     {
       "name": "Dropbox",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1872,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2222,7 +2222,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3585,10 +3585,10 @@
     },
     {
       "name": "Palantir",
-      "ok": false,
+      "ok": true,
       "jobCount": 12,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Paradigm",
@@ -3670,7 +3670,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -39941,54 +39941,6 @@
         "us"
       ],
       "firstSeen": "2026-10-16T19:20:19.240Z"
-    },
-    {
-      "id": "fcb4cc78-d4bd-4489-8756-7d39e755ac76",
-      "title": "Member of Technical Staff (iOS Engineer, Computer Growth)",
-      "location": "San Francisco (+1 more)",
-      "team": "Mobile",
-      "url": "https://jobs.ashbyhq.com/Perplexity/fcb4cc78-d4bd-4489-8756-7d39e755ac76",
-      "postedAt": "2026-10-16T19:10:02.689Z",
-      "key": "perplexity:fcb4cc78-d4bd-4489-8756-7d39e755ac76",
-      "company": "Perplexity",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T19:20:19.240Z"
-    },
-    {
-      "id": "8280093",
-      "title": "Senior Corporate Enterprise Platform Engineer, Windows",
-      "location": "Remote - US: Select locations",
-      "team": null,
-      "url": "https://jobs.dropbox.com/listing/8280093?gh_jid=8280093",
-      "postedAt": "2026-10-16T19:01:58.000Z",
-      "key": "dropbox:8280093",
-      "company": "Dropbox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T19:10:17.798Z"
-    },
-    {
-      "id": "8280094",
-      "title": "Senior Corporate Enterprise Platform Engineer, Windows",
-      "location": "Remote - Canada: Select locations",
-      "team": null,
-      "url": "https://jobs.dropbox.com/listing/8280094?gh_jid=8280094",
-      "postedAt": "2026-10-16T19:01:50.000Z",
-      "key": "dropbox:8280094",
-      "company": "Dropbox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-16T19:10:17.798Z"
     },
     {
       "id": "R1003751",
