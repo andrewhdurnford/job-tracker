@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:30:24.286Z",
+  "generatedAt": "2026-11-15T23:40:18.820Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2051
+    "experienced": 2049
   },
   "companies": [
     {
@@ -702,7 +702,7 @@
     {
       "name": "Bretton AI",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -877,7 +877,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2656,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -4826,7 +4826,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5034,10 +5034,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 8,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Tennr",
@@ -39517,38 +39517,6 @@
         "us"
       ],
       "firstSeen": "2026-10-16T23:50:16.859Z"
-    },
-    {
-      "id": "4722145006",
-      "title": "Principal Software Engineer, Containers",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4722145006",
-      "postedAt": "2026-10-16T23:35:20.000Z",
-      "key": "chainguard:4722145006",
-      "company": "Chainguard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T23:40:15.039Z"
-    },
-    {
-      "id": "191496c7-6aa7-4d11-897d-7681aec0e6b9",
-      "title": "Software Engineer, Product",
-      "location": "San Francisco, CA",
-      "team": "Engineering ",
-      "url": "https://jobs.ashbyhq.com/brettonai/191496c7-6aa7-4d11-897d-7681aec0e6b9",
-      "postedAt": "2026-10-16T23:33:54.205Z",
-      "key": "brettonai:191496c7-6aa7-4d11-897d-7681aec0e6b9",
-      "company": "Bretton AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T23:40:15.039Z"
     },
     {
       "id": "R1003751",
