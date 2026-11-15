@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:40:18.820Z",
+  "generatedAt": "2026-11-15T23:50:19.463Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2049
+    "experienced": 2047
   },
   "companies": [
     {
@@ -64,10 +64,10 @@
     },
     {
       "name": "Adobe",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Adyen",
@@ -1753,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2222,7 +2222,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3509,7 +3509,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 55,
+      "jobCount": 53,
       "error": null,
       "stale": false
     },
@@ -5034,10 +5034,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 8,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -5398,10 +5398,10 @@
     },
     {
       "name": "Visa",
-      "ok": true,
+      "ok": false,
       "jobCount": 21,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Vitalize",
@@ -5636,10 +5636,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -39485,38 +39485,6 @@
         "us"
       ],
       "firstSeen": "2026-10-17T00:10:16.798Z"
-    },
-    {
-      "id": "dbe79b89-e593-44b3-8aec-c667f7134445",
-      "title": "Software Engineer, Full Stack — Dots",
-      "location": "New York City",
-      "team": "Applied AI Engineering",
-      "url": "https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445",
-      "postedAt": "2026-10-16T23:48:11.093Z",
-      "key": "openai:dbe79b89-e593-44b3-8aec-c667f7134445",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T23:50:16.859Z"
-    },
-    {
-      "id": "3b34eb10-25b0-4a97-bd6d-05fc90ad4981",
-      "title": "Software Engineer, Mobile Web — Dots",
-      "location": "New York City",
-      "team": "Applied AI Engineering",
-      "url": "https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981",
-      "postedAt": "2026-10-16T23:47:53.457Z",
-      "key": "openai:3b34eb10-25b0-4a97-bd6d-05fc90ad4981",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T23:50:16.859Z"
     },
     {
       "id": "R1003751",
