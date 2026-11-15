@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T22:40:19.185Z",
+  "generatedAt": "2026-11-15T22:50:18.298Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 101,
+    "intern": 100,
     "new-grad": 13,
-    "experienced": 2053
+    "experienced": 2051
   },
   "companies": [
     {
@@ -2781,7 +2781,7 @@
     {
       "name": "LlamaIndex",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3425,7 +3425,7 @@
     {
       "name": "Nvidia",
       "ok": true,
-      "jobCount": 338,
+      "jobCount": 337,
       "error": null,
       "stale": false
     },
@@ -4131,10 +4131,10 @@
     },
     {
       "name": "Remitly",
-      "ok": true,
+      "ok": false,
       "jobCount": 20,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Remora",
@@ -5112,7 +5112,7 @@
     {
       "name": "Together AI",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5398,10 +5398,10 @@
     },
     {
       "name": "Visa",
-      "ok": true,
+      "ok": false,
       "jobCount": 21,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Vitalize",
@@ -26326,22 +26326,6 @@
       "firstSeen": "2026-10-30T23:50:18.349Z"
     },
     {
-      "id": "JR2019127",
-      "title": "Senior Systems Architect - Datacenter",
-      "location": "US, CA, Santa Clara",
-      "team": null,
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Architect---Datacenter_JR2019127",
-      "postedAt": "2026-10-30T23:50:22.477Z",
-      "key": "Nvidia:JR2019127",
-      "company": "Nvidia",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T23:50:18.349Z"
-    },
-    {
       "id": "JR2010907",
       "title": "Senior Product Development Engineer - Datacenter",
       "location": "US, CA, Santa Clara",
@@ -39565,44 +39549,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T18:10:19.399Z"
-    },
-    {
-      "id": "5267198007",
-      "title": "Research Intern, Frontier Speculative Decoding (Summer 2027)",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007",
-      "postedAt": "2026-10-16T22:48:51.000Z",
-      "key": "togetherai:5267198007",
-      "company": "Together AI",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T22:50:19.722Z"
-    },
-    {
-      "id": "a2f14066-9e18-4da3-8861-2da3230e393c",
-      "title": "Member of Technical Staff, Backend",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/llamaindex/a2f14066-9e18-4da3-8861-2da3230e393c",
-      "postedAt": "2026-10-16T22:45:30.963Z",
-      "key": "llamaindex:a2f14066-9e18-4da3-8861-2da3230e393c",
-      "company": "LlamaIndex",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-16T22:50:19.722Z"
     },
     {
       "id": "R1003751",
