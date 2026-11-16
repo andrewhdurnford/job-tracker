@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:00:31.041Z",
+  "generatedAt": "2026-11-16T12:10:34.474Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -1401,10 +1401,10 @@
     },
     {
       "name": "Despegar",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Discord",
