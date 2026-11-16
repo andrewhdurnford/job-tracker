@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:10:18.600Z",
+  "generatedAt": "2026-11-16T01:20:29.577Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -5636,10 +5636,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zerocater",
