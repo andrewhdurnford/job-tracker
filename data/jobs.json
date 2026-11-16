@@ -1,14 +1,10 @@
 {
-  "generatedAt": "2026-11-16T20:00:27.857Z",
+  "generatedAt": "2026-11-16T20:10:26.632Z",
   "bootstrap": false,
-  "lastRunNewCount": 6,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "spacex:8940465002",
-    "spacex:8940469002",
-    "spacex:8940471002",
-    "spacex:8940468002",
-    "spacex:8940470002",
-    "spacex:8940459002"
+    "airbnb:8280222",
+    "openai:be87a51f-067f-499c-a4df-97c145946ae6"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -86,7 +82,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -121,7 +117,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1569,10 +1565,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -1660,10 +1656,10 @@
     },
     {
       "name": "Exowatt",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Factory",
@@ -1898,10 +1894,10 @@
     },
     {
       "name": "Freshworks",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Fulcrum",
@@ -2038,10 +2034,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -2486,10 +2482,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "JFrog",
@@ -3516,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 55,
+      "jobCount": 56,
       "error": null,
       "stale": false
     },
@@ -4208,10 +4204,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Rilla",
@@ -4474,10 +4470,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Shiru",
@@ -4593,10 +4589,10 @@
     },
     {
       "name": "Smartcuts",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Smartsheet",
@@ -4833,7 +4829,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4873,10 +4869,10 @@
     },
     {
       "name": "Supermove",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Superside",
@@ -5706,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "be87a51f-067f-499c-a4df-97c145946ae6",
+      "title": "Applied AI Architect",
+      "location": "US - Remote",
+      "team": "Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/be87a51f-067f-499c-a4df-97c145946ae6",
+      "postedAt": "2026-11-16T20:06:36.497Z",
+      "key": "openai:be87a51f-067f-499c-a4df-97c145946ae6",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:10:26.632Z"
+    },
     {
       "id": "ec5f88b6-e221-499c-bc8f-a27b66213b87",
       "title": "Software Engineer, Data Infrastructure",
@@ -8509,38 +8521,6 @@
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
       "postedAt": "2026-11-12T23:15:54.000Z",
       "key": "affirm:8181183003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-12T23:20:20.156Z"
-    },
-    {
-      "id": "8196749003",
-      "title": "Staff Software Engineer, Fullstack (Auth Experiences)",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196749003",
-      "postedAt": "2026-11-12T23:14:42.000Z",
-      "key": "affirm:8196749003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-12T23:20:20.156Z"
-    },
-    {
-      "id": "8196747003",
-      "title": "Staff Software Engineer, Fullstack (Auth Experiences)",
-      "location": "Remote US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196747003",
-      "postedAt": "2026-11-12T23:14:40.000Z",
-      "key": "affirm:8196747003",
       "company": "Affirm",
       "level": "experienced",
       "term": null,
@@ -36117,6 +36097,22 @@
         "canada"
       ],
       "firstSeen": "2026-10-21T23:40:15.544Z"
+    },
+    {
+      "id": "8280222",
+      "title": "Software Engineer, DevAI",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8280222?gh_jid=8280222",
+      "postedAt": "2026-10-21T23:20:53.000Z",
+      "key": "airbnb:8280222",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:10:26.632Z"
     },
     {
       "id": "5ed7f0f6-fb88-4523-b406-9bcf96407a15",
