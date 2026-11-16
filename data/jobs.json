@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T06:20:19.868Z",
+  "generatedAt": "2026-11-16T06:30:23.721Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -5034,10 +5034,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 8,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Tennr",
@@ -5636,10 +5636,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zerocater",
