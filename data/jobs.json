@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-16T20:50:20.548Z",
+  "generatedAt": "2026-11-16T21:00:35.010Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "netskope:8394120",
-    "whoop:656f5907-35e3-4c85-9b99-f4bcb3e01515"
+    "coinbase:8286487",
+    "roblox:8394163",
+    "snowflake:850fe52e-5137-4fbb-966a-ef8e89cf6245"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2087
+    "experienced": 2090
   },
   "companies": [
     {
@@ -1055,7 +1056,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -4240,7 +4241,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4639,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 103,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8394163",
+      "title": "Software Engineering Manager - 2D Engine",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8394163?gh_jid=8394163",
+      "postedAt": "2026-11-16T20:59:50.000Z",
+      "key": "roblox:8394163",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T21:00:35.010Z"
+    },
+    {
+      "id": "8286487",
+      "title": "Staff Software Engineer, Infrastructure (Datastores)",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8286487?gh_jid=8286487",
+      "postedAt": "2026-11-16T20:59:45.000Z",
+      "key": "coinbase:8286487",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T21:00:35.010Z"
+    },
+    {
+      "id": "850fe52e-5137-4fbb-966a-ef8e89cf6245",
+      "title": "Principal Software Engineer (Outer Loop), Engineering Systems",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/850fe52e-5137-4fbb-966a-ef8e89cf6245",
+      "postedAt": "2026-11-16T20:49:41.257Z",
+      "key": "snowflake:850fe52e-5137-4fbb-966a-ef8e89cf6245",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T21:00:35.010Z"
+    },
     {
       "id": "8394120",
       "title": "Staff Data SRE",
