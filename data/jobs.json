@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-16T15:50:23.482Z",
+  "generatedAt": "2026-11-16T16:00:29.066Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "cloudflare:8239181",
-    "propel:21faa4f1-6fff-4f93-8c6b-ced611e4e533",
-    "robinhood:8354333"
+    "sentilink:06efc456-e3e6-493c-a3b0-16d4feefc34d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -3087,7 +3085,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4402,7 +4400,7 @@
     {
       "name": "SentiLink",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 84,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5109,7 +5107,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5704,8 +5702,24 @@
   ],
   "jobs": [
     {
+      "id": "06efc456-e3e6-493c-a3b0-16d4feefc34d",
+      "title": "Tech Lead, Product Security Software Engineer",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/sentilink/06efc456-e3e6-493c-a3b0-16d4feefc34d",
+      "postedAt": "2026-11-16T15:57:36.324Z",
+      "key": "sentilink:06efc456-e3e6-493c-a3b0-16d4feefc34d",
+      "company": "SentiLink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T16:00:29.066Z"
+    },
+    {
       "id": "8354333",
-      "title": "Senior Applications Engineer, Client Platform",
+      "title": "Senior Client Platform Engineer",
       "location": "Menlo Park, CA",
       "team": null,
       "url": "https://boards.greenhouse.io/robinhood/jobs/8354333?t=gh_src=&gh_jid=8354333",
@@ -36837,22 +36851,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-20T22:00:27.669Z"
-    },
-    {
-      "id": "8267000",
-      "title": "Staff Engineer, Cloud Security",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8267000",
-      "postedAt": "2026-10-20T21:41:55.000Z",
-      "key": "toast:8267000",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T21:50:17.625Z"
     },
     {
       "id": "4805afd6-8e01-4cc8-bad1-3ac46c24d8f6",
