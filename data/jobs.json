@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-16T21:40:18.128Z",
+  "generatedAt": "2026-11-16T21:50:19.218Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "natera:6230402004",
-    "natera:6237859004",
-    "spacex:8943580002"
+    "chime:8932546002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2092
+    "experienced": 2093
   },
   "companies": [
     {
@@ -930,7 +928,7 @@
     {
       "name": "Chime",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 104,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8932546002",
+      "title": "Director, Incident & Availability Engineering",
+      "location": "San Francisco, CA, USA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/chime/jobs/8932546002?gh_jid=8932546002",
+      "postedAt": "2026-11-16T21:43:00.000Z",
+      "key": "chime:8932546002",
+      "company": "Chime",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T21:50:19.218Z"
+    },
     {
       "id": "8943580002",
       "title": "Maintenance Engineer, PCB (Starlink/Starmind)",
