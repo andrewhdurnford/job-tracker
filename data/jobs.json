@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T00:40:18.344Z",
+  "generatedAt": "2026-11-16T00:50:30.484Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -1240,10 +1240,10 @@
     },
     {
       "name": "CrowdStrike",
-      "ok": true,
+      "ok": false,
       "jobCount": 45,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "CTGT",
@@ -5398,10 +5398,10 @@
     },
     {
       "name": "Visa",
-      "ok": true,
+      "ok": false,
       "jobCount": 21,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Vitalize",
