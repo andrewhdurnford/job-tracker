@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-16T16:20:23.112Z",
+  "generatedAt": "2026-11-16T16:30:23.863Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "cloudflare:8383577"
+    "garnerhealth:6261236004",
+    "whoop:20576bbf-1b26-4d50-82ff-73f0a54d299d"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2043
+    "experienced": 2045
   },
   "companies": [
     {
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1915,7 +1916,7 @@
     {
       "name": "Garner Health",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5513,7 +5514,7 @@
     {
       "name": "WHOOP",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "20576bbf-1b26-4d50-82ff-73f0a54d299d",
+      "title": "Senior Tech Lead, Data/ML Observability Platform ",
+      "location": "Boston, MA",
+      "team": "Machine Learning & Research",
+      "url": "https://jobs.ashbyhq.com/whoop/20576bbf-1b26-4d50-82ff-73f0a54d299d",
+      "postedAt": "2026-11-16T16:24:01.546Z",
+      "key": "whoop:20576bbf-1b26-4d50-82ff-73f0a54d299d",
+      "company": "WHOOP",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T16:30:23.863Z"
+    },
+    {
+      "id": "6261236004",
+      "title": "Senior Staff Site Reliability Engineer",
+      "location": "Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6261236004",
+      "postedAt": "2026-11-16T16:20:53.000Z",
+      "key": "garnerhealth:6261236004",
+      "company": "Garner Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-16T16:30:23.863Z"
+    },
     {
       "id": "8383577",
       "title": "Principal Software Engineer, Identity & Access Management",
