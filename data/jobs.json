@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-11-16T19:50:18.940Z",
+  "generatedAt": "2026-11-16T20:00:27.857Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "hudu:d542c082-c405-45e3-abe0-7d0bd8f33445",
-    "thinkingmachines:ec5f88b6-e221-499c-bc8f-a27b66213b87",
-    "thinkingmachines:5b2ee0dc-0fe5-4c5d-806d-e171187e460e"
+    "spacex:8940465002",
+    "spacex:8940469002",
+    "spacex:8940471002",
+    "spacex:8940468002",
+    "spacex:8940470002",
+    "spacex:8940459002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +17,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2076
+    "experienced": 2082
   },
   "companies": [
     {
@@ -1321,10 +1324,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1566,10 +1569,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Encord",
@@ -1657,10 +1660,10 @@
     },
     {
       "name": "Exowatt",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Factory",
@@ -2035,10 +2038,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -2483,10 +2486,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "JFrog",
@@ -4205,10 +4208,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Rilla",
@@ -4471,10 +4474,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -4590,10 +4593,10 @@
     },
     {
       "name": "Smartcuts",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Smartsheet",
@@ -4695,10 +4698,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 97,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 103,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4830,7 +4833,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4870,10 +4873,10 @@
     },
     {
       "name": "Supermove",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Superside",
@@ -5750,6 +5753,102 @@
         "us"
       ],
       "firstSeen": "2026-11-16T19:50:18.940Z"
+    },
+    {
+      "id": "8940471002",
+      "title": "Software Engineer (Platform Team)",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940471002?gh_jid=8940471002",
+      "postedAt": "2026-11-16T19:40:05.000Z",
+      "key": "spacex:8940471002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:00:27.857Z"
+    },
+    {
+      "id": "8940470002",
+      "title": "Software Engineer (Platform Team)",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940470002?gh_jid=8940470002",
+      "postedAt": "2026-11-16T19:40:03.000Z",
+      "key": "spacex:8940470002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:00:27.857Z"
+    },
+    {
+      "id": "8940469002",
+      "title": "Software Engineer (Platform Team)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940469002?gh_jid=8940469002",
+      "postedAt": "2026-11-16T19:40:01.000Z",
+      "key": "spacex:8940469002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:00:27.857Z"
+    },
+    {
+      "id": "8940468002",
+      "title": "Software Engineer (Platform Team)",
+      "location": "Sunnyvale, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940468002?gh_jid=8940468002",
+      "postedAt": "2026-11-16T19:40:00.000Z",
+      "key": "spacex:8940468002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:00:27.857Z"
+    },
+    {
+      "id": "8940465002",
+      "title": "Software Engineer (Platform Team)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940465002?gh_jid=8940465002",
+      "postedAt": "2026-11-16T19:39:58.000Z",
+      "key": "spacex:8940465002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:00:27.857Z"
+    },
+    {
+      "id": "8940459002",
+      "title": "Software Engineer (Platform Team)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940459002?gh_jid=8940459002",
+      "postedAt": "2026-11-16T19:39:56.000Z",
+      "key": "spacex:8940459002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:00:27.857Z"
     },
     {
       "id": "3882fc2b-6d28-4498-b6e3-ef53e22f8f03",
