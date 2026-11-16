@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-16T19:40:22.043Z",
+  "generatedAt": "2026-11-16T19:50:18.940Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "thinkingmachines:3882fc2b-6d28-4498-b6e3-ef53e22f8f03"
+    "hudu:d542c082-c405-45e3-abe0-7d0bd8f33445",
+    "thinkingmachines:ec5f88b6-e221-499c-bc8f-a27b66213b87",
+    "thinkingmachines:5b2ee0dc-0fe5-4c5d-806d-e171187e460e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2073
+    "experienced": 2076
   },
   "companies": [
     {
@@ -1319,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -1893,10 +1895,10 @@
     },
     {
       "name": "Freshworks",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Fulcrum",
@@ -2272,7 +2274,7 @@
     {
       "name": "Hudu",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5065,7 +5067,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "ec5f88b6-e221-499c-bc8f-a27b66213b87",
+      "title": "Software Engineer, Data Infrastructure",
+      "location": "San Francisco (+1 more)",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/ThinkingMachines/ec5f88b6-e221-499c-bc8f-a27b66213b87",
+      "postedAt": "2026-11-16T19:46:28.895Z",
+      "key": "thinkingmachines:ec5f88b6-e221-499c-bc8f-a27b66213b87",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T19:50:18.940Z"
+    },
+    {
+      "id": "5b2ee0dc-0fe5-4c5d-806d-e171187e460e",
+      "title": "Software Engineer, Training Infrastructure",
+      "location": "San Francisco (+1 more)",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/ThinkingMachines/5b2ee0dc-0fe5-4c5d-806d-e171187e460e",
+      "postedAt": "2026-11-16T19:45:09.268Z",
+      "key": "thinkingmachines:5b2ee0dc-0fe5-4c5d-806d-e171187e460e",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T19:50:18.940Z"
+    },
+    {
+      "id": "d542c082-c405-45e3-abe0-7d0bd8f33445",
+      "title": "Product Security Engineer",
+      "location": "United States",
+      "team": "Core",
+      "url": "https://jobs.ashbyhq.com/hudu/d542c082-c405-45e3-abe0-7d0bd8f33445",
+      "postedAt": "2026-11-16T19:44:00.803Z",
+      "key": "hudu:d542c082-c405-45e3-abe0-7d0bd8f33445",
+      "company": "Hudu",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T19:50:18.940Z"
+    },
     {
       "id": "3882fc2b-6d28-4498-b6e3-ef53e22f8f03",
       "title": "Software Engineer, Frameworks & Libraries",
