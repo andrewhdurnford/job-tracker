@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-16T20:20:25.655Z",
+  "generatedAt": "2026-11-16T20:30:24.804Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "1password:2bf6ea2d-82d0-4a40-9a46-60994f22cc50",
-    "affirm:8196747003",
-    "affirm:8196749003"
+    "pinterest:8336944",
+    "quindar:d98a966b-6657-42fc-a360-d2d184a14b04",
+    "verkada:5296748007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2085
+    "experienced": 2088
   },
   "companies": [
     {
@@ -194,10 +194,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Alpaca",
@@ -3758,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4017,7 +4017,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4569,10 +4569,10 @@
     },
     {
       "name": "Skyways",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sleeper",
@@ -4926,10 +4926,10 @@
     },
     {
       "name": "Synapticure",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sysdig",
@@ -5375,7 +5375,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5296748007",
+      "title": "Backend Engineer - Connectivity",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5296748007",
+      "postedAt": "2026-11-16T20:28:17.000Z",
+      "key": "verkada:5296748007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:30:24.804Z"
+    },
+    {
+      "id": "8336944",
+      "title": "Staff Software Engineer, Product Infrastructure",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8336944",
+      "postedAt": "2026-11-16T20:26:18.000Z",
+      "key": "pinterest:8336944",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:30:24.804Z"
+    },
+    {
+      "id": "d98a966b-6657-42fc-a360-d2d184a14b04",
+      "title": "Mission Integration Engineer",
+      "location": "Denver, CO (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/quindar/d98a966b-6657-42fc-a360-d2d184a14b04",
+      "postedAt": "2026-11-16T20:21:48.017Z",
+      "key": "quindar:d98a966b-6657-42fc-a360-d2d184a14b04",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:30:24.804Z"
+    },
     {
       "id": "2bf6ea2d-82d0-4a40-9a46-60994f22cc50",
       "title": "IT Support Engineer",
