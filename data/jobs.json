@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-16T22:50:26.843Z",
+  "generatedAt": "2026-11-16T23:00:29.134Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "stabilityai:5018185101"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1156,10 +1158,10 @@
     },
     {
       "name": "Copia",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Cortex",
@@ -1872,7 +1874,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2222,7 +2224,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3250,7 +3252,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3769,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4755,7 +4757,7 @@
     {
       "name": "Stability AI",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -31652,6 +31654,22 @@
       "firstSeen": "2026-10-27T22:50:19.866Z"
     },
     {
+      "id": "5018185101",
+      "title": "Staff Software Engineer, Data ",
+      "location": "Remote",
+      "team": null,
+      "url": "http://stability.ai/careers?gh_jid=5018185101",
+      "postedAt": "2026-10-27T22:36:23.000Z",
+      "key": "stabilityai:5018185101",
+      "company": "Stability AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-16T23:00:29.134Z"
+    },
+    {
       "id": "8313894",
       "title": "Staff Software Engineer, Orders",
       "location": "Remote, US",
@@ -36167,22 +36185,6 @@
       "postedAt": "2026-10-22T13:58:53.000Z",
       "key": "mixpanel:8124704",
       "company": "Mixpanel",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T14:00:28.085Z"
-    },
-    {
-      "id": "8306360",
-      "title": "Sr. Data Scientist",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://navan.com/careers/openings?gh_jid=8306360",
-      "postedAt": "2026-10-22T13:51:54.000Z",
-      "key": "tripactions:8306360",
-      "company": "Navan",
       "level": "experienced",
       "term": null,
       "regions": [
