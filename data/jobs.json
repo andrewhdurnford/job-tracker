@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-16T20:10:26.632Z",
+  "generatedAt": "2026-11-16T20:20:25.655Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "airbnb:8280222",
-    "openai:be87a51f-067f-499c-a4df-97c145946ae6"
+    "1password:2bf6ea2d-82d0-4a40-9a46-60994f22cc50",
+    "affirm:8196747003",
+    "affirm:8196749003"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,13 +14,13 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2082
+    "experienced": 2085
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -82,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -3086,7 +3087,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4568,10 +4569,10 @@
     },
     {
       "name": "Skyways",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sleeper",
@@ -4925,10 +4926,10 @@
     },
     {
       "name": "Synapticure",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sysdig",
@@ -5702,6 +5703,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "2bf6ea2d-82d0-4a40-9a46-60994f22cc50",
+      "title": "IT Support Engineer",
+      "location": "Remote (United States | Canada)",
+      "team": "Technology",
+      "url": "https://jobs.ashbyhq.com/1password/2bf6ea2d-82d0-4a40-9a46-60994f22cc50",
+      "postedAt": "2026-11-16T20:17:16.881Z",
+      "key": "1password:2bf6ea2d-82d0-4a40-9a46-60994f22cc50",
+      "company": "1Password",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-16T20:20:25.655Z"
+    },
     {
       "id": "be87a51f-067f-499c-a4df-97c145946ae6",
       "title": "Applied AI Architect",
@@ -8528,6 +8546,38 @@
         "us"
       ],
       "firstSeen": "2026-11-12T23:20:20.156Z"
+    },
+    {
+      "id": "8196749003",
+      "title": "Staff Software Engineer, Fullstack (Auth Experiences)",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196749003",
+      "postedAt": "2026-11-12T23:14:42.000Z",
+      "key": "affirm:8196749003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-16T20:20:25.655Z"
+    },
+    {
+      "id": "8196747003",
+      "title": "Staff Software Engineer, Fullstack (Auth Experiences)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196747003",
+      "postedAt": "2026-11-12T23:14:40.000Z",
+      "key": "affirm:8196747003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T20:20:25.655Z"
     },
     {
       "id": "REF080663W",
@@ -11876,7 +11926,7 @@
     },
     {
       "id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
-      "title": "Senior Developer Success Engineer - East",
+      "title": "Senior Developer Success Engineer ",
       "location": "New York, New York (+4 more)",
       "team": "Customer Support",
       "url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
@@ -27728,7 +27778,7 @@
     {
       "id": "8236874",
       "title": "Senior Software Engineer, Shared Services",
-      "location": "New York, New York",
+      "location": "Mexico City, Mexico; New York, New York; Phoenix, Arizona; Tampa, Florida; Toronto, Canada",
       "team": null,
       "url": "https://boards.greenhouse.io/justworks/jobs/8236874?gh_jid=8236874",
       "postedAt": "2026-10-30T22:11:33.000Z",
@@ -27737,7 +27787,8 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "us",
+        "canada"
       ],
       "firstSeen": "2026-10-30T22:20:17.736Z"
     },
