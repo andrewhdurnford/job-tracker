@@ -1,13 +1,15 @@
 {
-  "generatedAt": "2026-11-16T22:10:19.954Z",
+  "generatedAt": "2026-11-16T22:20:19.172Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "airbnb:8393912",
-    "datadog:8346224",
-    "mercor:f6035e89-f820-482c-9500-efb70226b134",
-    "spacex:8945741002",
-    "spacex:8945762002"
+    "airbnb:8394151",
+    "mercor:b0f12b3f-91ae-4b9e-ad0b-ed0299f80554",
+    "mercor:2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702",
+    "mercor:d502c09c-b1de-4d3f-97b6-a684525889bc",
+    "mercor:ea913b66-0995-49d9-a8a9-2d4b9538a776",
+    "snowflake:776b1e0d-a3d4-417f-9178-eb20a0852ec4",
+    "spacex:8943817002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +18,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2099
+    "experienced": 2106
   },
   "companies": [
     {
@@ -120,7 +122,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1323,10 +1325,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2976,7 +2978,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -4642,7 +4644,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4698,7 +4700,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 106,
+      "jobCount": 107,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5707,118 @@
     }
   ],
   "jobs": [
+    {
+      "id": "ea913b66-0995-49d9-a8a9-2d4b9538a776",
+      "title": "Sr. Machine Learning Engineer, Anonymization",
+      "location": "New York City",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/ea913b66-0995-49d9-a8a9-2d4b9538a776",
+      "postedAt": "2026-11-16T22:18:25.810Z",
+      "key": "mercor:ea913b66-0995-49d9-a8a9-2d4b9538a776",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:20:19.172Z"
+    },
+    {
+      "id": "d502c09c-b1de-4d3f-97b6-a684525889bc",
+      "title": "Agentic Product Engineer, Studio Platform",
+      "location": "New York City",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/d502c09c-b1de-4d3f-97b6-a684525889bc",
+      "postedAt": "2026-11-16T22:15:39.894Z",
+      "key": "mercor:d502c09c-b1de-4d3f-97b6-a684525889bc",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:20:19.172Z"
+    },
+    {
+      "id": "776b1e0d-a3d4-417f-9178-eb20a0852ec4",
+      "title": "Staff Software Engineer, Cortex AI Functions",
+      "location": "US-WA-Bellevue (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/776b1e0d-a3d4-417f-9178-eb20a0852ec4",
+      "postedAt": "2026-11-16T22:13:52.565Z",
+      "key": "snowflake:776b1e0d-a3d4-417f-9178-eb20a0852ec4",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:20:19.172Z"
+    },
+    {
+      "id": "b0f12b3f-91ae-4b9e-ad0b-ed0299f80554",
+      "title": "Software Engineer, Enterprise Applied AI",
+      "location": "New York City",
+      "team": "Enterprise Agents",
+      "url": "https://jobs.ashbyhq.com/mercor/b0f12b3f-91ae-4b9e-ad0b-ed0299f80554",
+      "postedAt": "2026-11-16T22:13:50.130Z",
+      "key": "mercor:b0f12b3f-91ae-4b9e-ad0b-ed0299f80554",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:20:19.172Z"
+    },
+    {
+      "id": "8943817002",
+      "title": "Software Engineer, Wireless Validation (Starlink Mobile) ",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8943817002?gh_jid=8943817002",
+      "postedAt": "2026-11-16T22:12:06.000Z",
+      "key": "spacex:8943817002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:20:19.172Z"
+    },
+    {
+      "id": "8394151",
+      "title": "Senior Data Scientist, Trust (ML/Algo)",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8394151?gh_jid=8394151",
+      "postedAt": "2026-11-16T22:10:18.000Z",
+      "key": "airbnb:8394151",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:20:19.172Z"
+    },
+    {
+      "id": "2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702",
+      "title": "Software Engineer, Frontier Data Products",
+      "location": "New York City",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702",
+      "postedAt": "2026-11-16T22:10:16.888Z",
+      "key": "mercor:2b1d7c4b-721b-4ed7-b61b-7bdceeaaa702",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:20:19.172Z"
+    },
     {
       "id": "f6035e89-f820-482c-9500-efb70226b134",
       "title": "Software Engineer, Agents",
@@ -7293,7 +7407,7 @@
     {
       "id": "ae344099-3fde-4027-bfde-f953db8b4728",
       "title": "Software Engineer, Frontier Data Products ",
-      "location": "San Francisco (+1 more)",
+      "location": "San Francisco",
       "team": "Core Engineering",
       "url": "https://jobs.ashbyhq.com/mercor/ae344099-3fde-4027-bfde-f953db8b4728",
       "postedAt": "2026-11-14T03:20:19.307Z",
@@ -7937,7 +8051,7 @@
     {
       "id": "8384384",
       "title": "Staff Software Engineer - Privileged Access Management (PAM)",
-      "location": "Bellevue, Washington",
+      "location": "Toronto, ON, Canada",
       "team": null,
       "url": "https://www.okta.com/company/careers/opportunity/8384384?gh_jid=8384384",
       "postedAt": "2026-11-13T19:55:02.000Z",
@@ -7946,7 +8060,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "us"
+        "canada"
       ],
       "firstSeen": "2026-11-13T20:00:28.494Z"
     },
@@ -38385,7 +38499,7 @@
     },
     {
       "id": "8292678",
-      "title": "Principal Software Engineer",
+      "title": "Principal Software Engineer - Observability",
       "location": "San Mateo, CA, United States",
       "team": null,
       "url": "https://careers.roblox.com/jobs/8292678?gh_jid=8292678",
