@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-11-16T15:10:19.545Z",
+  "generatedAt": "2026-11-16T15:20:22.410Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "tripactions:8393050",
+    "temporal:4ee99986-77ad-4113-8058-891d5cc7284a",
+    "temporal:dd862627-1663-414d-9820-3f05bfbd9a8a",
+    "uipath:733b5306-61f9-4320-904b-7e32fbdb32ac"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2034
+    "experienced": 2038
   },
   "companies": [
     {
@@ -3250,7 +3255,7 @@
     {
       "name": "Navan",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3585,10 +3590,10 @@
     },
     {
       "name": "Palantir",
-      "ok": false,
+      "ok": true,
       "jobCount": 12,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Paradigm",
@@ -4691,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 84,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5021,7 +5026,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5252,7 +5257,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8393050",
+      "title": "Head of Applied AI Engineering",
+      "location": "New York, NY",
+      "team": null,
+      "url": "https://navan.com/careers/openings?gh_jid=8393050",
+      "postedAt": "2026-11-16T15:17:11.000Z",
+      "key": "tripactions:8393050",
+      "company": "Navan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T15:20:22.410Z"
+    },
+    {
+      "id": "dd862627-1663-414d-9820-3f05bfbd9a8a",
+      "title": "Staff Enterprise Security Engineer (US)",
+      "location": "United States (Remote)",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/temporal/dd862627-1663-414d-9820-3f05bfbd9a8a",
+      "postedAt": "2026-11-16T15:15:16.718Z",
+      "key": "temporal:dd862627-1663-414d-9820-3f05bfbd9a8a",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T15:20:22.410Z"
+    },
+    {
+      "id": "4ee99986-77ad-4113-8058-891d5cc7284a",
+      "title": "Staff Software Engineer, AI Foundations (AI Agent Optimization)",
+      "location": "San Francisco, California (+1 more)",
+      "team": "AI Foundations",
+      "url": "https://jobs.ashbyhq.com/temporal/4ee99986-77ad-4113-8058-891d5cc7284a",
+      "postedAt": "2026-11-16T15:12:09.886Z",
+      "key": "temporal:4ee99986-77ad-4113-8058-891d5cc7284a",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T15:20:22.410Z"
+    },
+    {
+      "id": "733b5306-61f9-4320-904b-7e32fbdb32ac",
+      "title": "Senior Software Engineer",
+      "location": "Bellevue",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/uipath/733b5306-61f9-4320-904b-7e32fbdb32ac",
+      "postedAt": "2026-11-16T15:10:51.825Z",
+      "key": "uipath:733b5306-61f9-4320-904b-7e32fbdb32ac",
+      "company": "UiPath",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T15:20:22.410Z"
+    },
     {
       "id": "8368463",
       "title": "Senior Software Engineer, TRUST Network",
