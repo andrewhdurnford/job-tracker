@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-16T17:00:29.925Z",
+  "generatedAt": "2026-11-16T17:10:20.632Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "asana:8226969",
+    "openai:9635775d-18fa-47bb-9ede-9a4137618de0"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2044
+    "experienced": 2046
   },
   "companies": [
     {
@@ -387,7 +390,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3333,10 +3336,10 @@
     },
     {
       "name": "Nimble Rx",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nira Energy",
@@ -3509,7 +3512,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 53,
+      "jobCount": 54,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 84,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "9635775d-18fa-47bb-9ede-9a4137618de0",
+      "title": "Partner Applied AI Engineer, AWS ",
+      "location": "San Francisco (+1 more)",
+      "team": "Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/9635775d-18fa-47bb-9ede-9a4137618de0",
+      "postedAt": "2026-11-16T17:04:53.604Z",
+      "key": "openai:9635775d-18fa-47bb-9ede-9a4137618de0",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T17:10:20.632Z"
+    },
     {
       "id": "b7f12834-78d2-424d-bf83-0c942815fbf7",
       "title": "Software Engineer, Enterprise",
@@ -38299,6 +38318,22 @@
         "us"
       ],
       "firstSeen": "2026-10-19T21:50:17.298Z"
+    },
+    {
+      "id": "8226969",
+      "title": "Staff Software Engineer, Data Loading Infrastructure",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://www.asana.com/jobs/apply/8226969?gh_jid=8226969",
+      "postedAt": "2026-10-19T21:23:05.000Z",
+      "key": "asana:8226969",
+      "company": "Asana",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T17:10:20.632Z"
     },
     {
       "id": "4458014009",
