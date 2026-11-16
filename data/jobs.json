@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:00:26.493Z",
+  "generatedAt": "2026-11-16T04:10:18.961Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2043
+    "experienced": 2042
   },
   "companies": [
     {
@@ -30,7 +30,7 @@
     {
       "name": "Abnormal Security",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -64,10 +64,10 @@
     },
     {
       "name": "Adobe",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Adyen",
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -1240,10 +1240,10 @@
     },
     {
       "name": "CrowdStrike",
-      "ok": true,
+      "ok": false,
       "jobCount": 45,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "CTGT",
@@ -3424,10 +3424,10 @@
     },
     {
       "name": "Nvidia",
-      "ok": true,
+      "ok": false,
       "jobCount": 338,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Oasis Security",
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 83,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5398,10 +5398,10 @@
     },
     {
       "name": "Visa",
-      "ok": true,
+      "ok": false,
       "jobCount": 21,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Vitalize",
@@ -39403,22 +39403,6 @@
         "us"
       ],
       "firstSeen": "2026-10-17T07:30:24.151Z"
-    },
-    {
-      "id": "8015179003",
-      "title": "Software Engineer 1 - Cloud Infrastructure",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003",
-      "postedAt": "2026-10-17T04:06:39.000Z",
-      "key": "abnormalsecurity:8015179003",
-      "company": "Abnormal Security",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T17:10:23.193Z"
     },
     {
       "id": "R1003751",
