@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-16T17:10:20.632Z",
+  "generatedAt": "2026-11-16T17:20:20.034Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "asana:8226969",
-    "openai:9635775d-18fa-47bb-9ede-9a4137618de0"
+    "checkr:8393424",
+    "snorkelai:6254371004",
+    "stripe:8358071"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2046
+    "experienced": 2048
   },
   "companies": [
     {
@@ -1320,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4632,7 +4633,7 @@
     {
       "name": "Snorkel AI",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 84,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4800,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8358071",
+      "title": "Product Integration Reliability Engineer, Money Management",
+      "location": "Toronto",
+      "team": "8531 Crypto Product",
+      "url": "https://stripe.com/jobs/search?gh_jid=8358071",
+      "postedAt": "2026-11-16T17:19:43.000Z",
+      "key": "stripe:8358071",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-16T17:20:20.034Z"
+    },
+    {
+      "id": "6254371004",
+      "title": "Senior Manager, Forward Deployed Engineering",
+      "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6254371004",
+      "postedAt": "2026-11-16T17:17:20.000Z",
+      "key": "snorkelai:6254371004",
+      "company": "Snorkel AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T17:20:20.034Z"
+    },
+    {
+      "id": "8393424",
+      "title": "Senior Software Engineer (Ruby/Rails), MVR",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8393424",
+      "postedAt": "2026-11-16T17:10:58.000Z",
+      "key": "checkr:8393424",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T17:20:20.034Z"
+    },
     {
       "id": "9635775d-18fa-47bb-9ede-9a4137618de0",
       "title": "Partner Applied AI Engineer, AWS ",
@@ -12875,22 +12924,6 @@
       "postedAt": "2026-11-09T22:56:07.263Z",
       "key": "eliseai:2c7b711e-2fd2-439f-a3da-f9ac435e900a",
       "company": "EliseAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T23:00:33.072Z"
-    },
-    {
-      "id": "8369174",
-      "title": "Senior Software Engineer (Ruby/Rails), MVR",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/checkr/jobs/8369174",
-      "postedAt": "2026-11-09T22:54:41.000Z",
-      "key": "checkr:8369174",
-      "company": "Checkr",
       "level": "experienced",
       "term": null,
       "regions": [
