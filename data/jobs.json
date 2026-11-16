@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-16T18:30:25.273Z",
+  "generatedAt": "2026-11-16T18:40:20.468Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "robinhood:8385931"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -4013,7 +4015,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4230,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 85,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8385931",
+      "title": "Software Engineer, Backend - Government Products",
+      "location": "Menlo Park, CA; New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931",
+      "postedAt": "2026-11-16T18:35:06.000Z",
+      "key": "robinhood:8385931",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:40:20.468Z"
+    },
     {
       "id": "4434476009",
       "title": "Senior Software Engineer, Product Data & Intelligence",
@@ -7920,7 +7938,7 @@
     },
     {
       "id": "8384669",
-      "title": "Senior Software Engineer, Trump Accounts",
+      "title": "Senior Software Engineer,  Government Products ",
       "location": "Menlo Park, CA; New York, NY",
       "team": null,
       "url": "https://boards.greenhouse.io/robinhood/jobs/8384669?t=gh_src=&gh_jid=8384669",
@@ -40156,22 +40174,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T14:40:18.718Z"
-    },
-    {
-      "id": "d1d11006-d1e8-42c4-b1ea-02f4013c1ddb",
-      "title": "Senior Software Engineer, Flight + Plan",
-      "location": "Washington, DC",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/quindar/d1d11006-d1e8-42c4-b1ea-02f4013c1ddb",
-      "postedAt": "2026-10-01T21:46:51.174Z",
-      "key": "quindar:d1d11006-d1e8-42c4-b1ea-02f4013c1ddb",
-      "company": "Quindar",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-01T21:50:16.508Z"
     },
     {
       "id": "R1002614",
