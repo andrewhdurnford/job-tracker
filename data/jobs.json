@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-16T04:50:19.702Z",
+  "generatedAt": "2026-11-16T05:00:26.731Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "CrowdStrike:R30913"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1240,10 +1242,10 @@
     },
     {
       "name": "CrowdStrike",
-      "ok": false,
+      "ok": true,
       "jobCount": 45,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "CTGT",
@@ -1562,10 +1564,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Encord",
@@ -4726,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -4985,10 +4987,10 @@
     },
     {
       "name": "Tecton",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tekton Dynamics",
@@ -5034,10 +5036,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 8,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -5636,10 +5638,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zerocater",
@@ -5678,10 +5680,10 @@
     },
     {
       "name": "Zoom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zscaler",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R30913",
+      "title": "Software Engineer III - Cloud Security - FCS Workflow (Hybrid)",
+      "location": "USA - New York, NY",
+      "team": null,
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Workflow--Hybrid-_R30913",
+      "postedAt": "2026-11-16T05:00:32.167Z",
+      "key": "CrowdStrike:R30913",
+      "company": "CrowdStrike",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T05:00:26.731Z"
+    },
     {
       "id": "5295932007",
       "title": "Software Engineer, Super Intelligence",
@@ -8674,22 +8692,6 @@
         "us"
       ],
       "firstSeen": "2026-11-12T18:20:19.600Z"
-    },
-    {
-      "id": "R29401",
-      "title": "Engineer II - SDET, NG-SIEM (Hybrid)",
-      "location": "USA - Austin, TX",
-      "team": null,
-      "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Sr-Engineer-II---SDET--NG-SIEM--Hybrid-_R29401",
-      "postedAt": "2026-11-12T18:10:25.302Z",
-      "key": "CrowdStrike:R29401",
-      "company": "CrowdStrike",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-12T18:10:20.377Z"
     },
     {
       "id": "6250140004",
