@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T02:50:19.193Z",
+  "generatedAt": "2026-11-16T03:00:29.026Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,7 +8,7 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 100,
+    "intern": 99,
     "new-grad": 13,
     "experienced": 2043
   },
@@ -64,10 +64,10 @@
     },
     {
       "name": "Adobe",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Adyen",
@@ -190,10 +190,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Alpaca",
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -1191,10 +1191,10 @@
     },
     {
       "name": "Coupa",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Coupang",
@@ -1240,10 +1240,10 @@
     },
     {
       "name": "CrowdStrike",
-      "ok": false,
+      "ok": true,
       "jobCount": 45,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "CTGT",
@@ -1423,7 +1423,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4131,10 +4131,10 @@
     },
     {
       "name": "Remitly",
-      "ok": false,
+      "ok": true,
       "jobCount": 20,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Remora",
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 83,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4726,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -4747,10 +4747,10 @@
     },
     {
       "name": "Squire Technologies",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Stability AI",
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zscaler",
@@ -5797,7 +5797,7 @@
     },
     {
       "id": "JR2029799",
-      "title": "Senior System Software Engineer, NPI Data Center",
+      "title": "Senior System Software Engineer, NPI Data Center Diagnostics",
       "location": "US, CA, Santa Clara",
       "team": null,
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer--NPI-Data-Center_JR2029799",
@@ -34890,22 +34890,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-22T15:50:21.518Z"
-    },
-    {
-      "id": "30563",
-      "title": "Applied Science Intern",
-      "location": "US-SFO-Main",
-      "team": "University",
-      "url": "https://uscareers-docusign.icims.com/jobs/30563/login",
-      "postedAt": "2026-10-22T15:34:00.000Z",
-      "key": "DocuSign:30563",
-      "company": "DocuSign",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T15:40:17.674Z"
     },
     {
       "id": "4723523006",
