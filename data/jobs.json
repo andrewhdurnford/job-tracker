@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-11-16T22:00:28.097Z",
+  "generatedAt": "2026-11-16T22:10:19.954Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "oscar:8386377"
+    "airbnb:8393912",
+    "datadog:8346224",
+    "mercor:f6035e89-f820-482c-9500-efb70226b134",
+    "spacex:8945741002",
+    "spacex:8945762002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +16,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2094
+    "experienced": 2099
   },
   "companies": [
     {
@@ -116,7 +120,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -593,7 +597,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +940,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1299,7 +1303,7 @@
     {
       "name": "Datadog",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1323,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2972,7 +2976,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4697,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 104,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 106,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5706,54 @@
   ],
   "jobs": [
     {
+      "id": "f6035e89-f820-482c-9500-efb70226b134",
+      "title": "Software Engineer, Agents",
+      "location": "New York City",
+      "team": "Core Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/f6035e89-f820-482c-9500-efb70226b134",
+      "postedAt": "2026-11-16T22:08:41.031Z",
+      "key": "mercor:f6035e89-f820-482c-9500-efb70226b134",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:10:19.954Z"
+    },
+    {
+      "id": "8393912",
+      "title": "Senior Software Engineer Guest & Host",
+      "location": "Remote, USA ",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8393912?gh_jid=8393912",
+      "postedAt": "2026-11-16T22:07:16.000Z",
+      "key": "airbnb:8393912",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:10:19.954Z"
+    },
+    {
+      "id": "8346224",
+      "title": "Senior Forward Deployed Engineer",
+      "location": "New York, New York, USA",
+      "team": null,
+      "url": "https://careers.datadoghq.com/detail/8346224/?gh_jid=8346224",
+      "postedAt": "2026-11-16T22:01:15.000Z",
+      "key": "datadog:8346224",
+      "company": "Datadog",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:10:19.954Z"
+    },
+    {
       "id": "8386377",
       "title": "Senior Data Engineer II",
       "location": "New York, New York, United States",
@@ -5718,6 +5770,22 @@
       "firstSeen": "2026-11-16T22:00:28.097Z"
     },
     {
+      "id": "8945762002",
+      "title": "Sr. Offensive Security Engineer (Starshield)",
+      "location": "Washington, DC",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8945762002?gh_jid=8945762002",
+      "postedAt": "2026-11-16T21:50:44.000Z",
+      "key": "spacex:8945762002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:10:19.954Z"
+    },
+    {
       "id": "8932546002",
       "title": "Director, Incident & Availability Engineering",
       "location": "San Francisco, CA, USA",
@@ -5732,6 +5800,22 @@
         "us"
       ],
       "firstSeen": "2026-11-16T21:50:19.218Z"
+    },
+    {
+      "id": "8945741002",
+      "title": "Sr. Offensive Security Engineer (Starshield)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8945741002?gh_jid=8945741002",
+      "postedAt": "2026-11-16T21:42:52.000Z",
+      "key": "spacex:8945741002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T22:10:19.954Z"
     },
     {
       "id": "8943580002",
