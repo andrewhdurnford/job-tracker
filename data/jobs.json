@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T05:30:35.279Z",
+  "generatedAt": "2026-11-16T05:40:21.270Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "CrowdStrike:R29401"
+    "spacex:8944232002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2045
+    "experienced": 2046
   },
   "companies": [
     {
@@ -4133,10 +4133,10 @@
     },
     {
       "name": "Remitly",
-      "ok": true,
+      "ok": false,
       "jobCount": 20,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Remora",
@@ -4694,7 +4694,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 83,
+      "jobCount": 84,
       "error": null,
       "stale": false
     },
@@ -4728,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5680,10 +5680,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8944232002",
+      "title": "Site Reliability Engineer, GNC (Falcon)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8944232002?gh_jid=8944232002",
+      "postedAt": "2026-11-16T05:39:26.000Z",
+      "key": "spacex:8944232002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T05:40:21.270Z"
+    },
     {
       "id": "R30913",
       "title": "Software Engineer III - Cloud Security - FCS Workflow (Hybrid)",
