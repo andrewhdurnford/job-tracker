@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-16T21:30:23.499Z",
+  "generatedAt": "2026-11-16T21:40:18.128Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "physicalintelligence:e81c8b57-4a6c-4d24-a166-e2c881718fdc"
+    "natera:6230402004",
+    "natera:6237859004",
+    "spacex:8943580002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2090
+    "experienced": 2092
   },
   "companies": [
     {
@@ -1319,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2217,7 +2219,7 @@
       "name": "Hightouch",
       "ok": false,
       "jobCount": 3,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3245,7 +3247,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 103,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 104,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5548,7 +5550,7 @@
     {
       "name": "Wonderschool",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8943580002",
+      "title": "Maintenance Engineer, PCB (Starlink/Starmind)",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8943580002?gh_jid=8943580002",
+      "postedAt": "2026-11-16T21:33:39.000Z",
+      "key": "spacex:8943580002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T21:40:18.128Z"
+    },
     {
       "id": "e81c8b57-4a6c-4d24-a166-e2c881718fdc",
       "title": "ML Infra Engineer, Compute",
@@ -30725,6 +30743,38 @@
       "firstSeen": "2026-10-28T18:50:21.694Z"
     },
     {
+      "id": "6230402004",
+      "title": "Senior Bioinformatics & Genomics Data System Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6230402004",
+      "postedAt": "2026-10-28T18:34:52.000Z",
+      "key": "natera:6230402004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T21:40:18.128Z"
+    },
+    {
+      "id": "6237859004",
+      "title": "Senior Bioinformatics & Genomics Data System Engineer",
+      "location": "San Carlos, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6237859004",
+      "postedAt": "2026-10-28T18:34:50.000Z",
+      "key": "natera:6237859004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T21:40:18.128Z"
+    },
+    {
       "id": "8304788",
       "title": "Staff Software Engineer, Link - Consumer Identity",
       "location": "San Francisco, Seattle, New York",
@@ -40175,22 +40225,6 @@
         "us"
       ],
       "firstSeen": "2026-10-17T23:00:22.781Z"
-    },
-    {
-      "id": "8036581003",
-      "title": "Forward Deployed Engineer – Applied AI",
-      "location": "Gallup, New Mexico, United States; Michigan, United States; Missouri, United States; San Francisco; West Virginia, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/wonderschool/jobs/8036581003",
-      "postedAt": "2026-10-17T21:36:36.000Z",
-      "key": "wonderschool:8036581003",
-      "company": "Wonderschool",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-17T21:40:16.423Z"
     },
     {
       "id": "R1003751",
