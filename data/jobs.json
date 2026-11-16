@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T09:00:29.173Z",
+  "generatedAt": "2026-11-16T09:10:27.858Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2044
+    "experienced": 2042
   },
   "companies": [
     {
@@ -190,10 +190,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Alpaca",
@@ -1451,7 +1451,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -2656,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2915,7 +2915,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4027,7 +4027,7 @@
     {
       "name": "Radiant",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -12174,22 +12174,6 @@
         "us"
       ],
       "firstSeen": "2026-11-10T12:50:20.694Z"
-    },
-    {
-      "id": "b056d08a-92ae-4a16-aca6-980453d1f063",
-      "title": "Data Center Architect ",
-      "location": "San Francisco",
-      "team": "Development",
-      "url": "https://jobs.ashbyhq.com/radiant/b056d08a-92ae-4a16-aca6-980453d1f063",
-      "postedAt": "2026-11-10T11:01:50.734Z",
-      "key": "radiant:b056d08a-92ae-4a16-aca6-980453d1f063",
-      "company": "Radiant",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-13T20:40:19.114Z"
     },
     {
       "id": "8042371003",
@@ -37025,22 +37009,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-20T21:00:23.214Z"
-    },
-    {
-      "id": "8304373",
-      "title": "Staff Software Engineer, Planner",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8304373",
-      "postedAt": "2026-10-20T20:47:18.000Z",
-      "key": "doordashusa:8304373",
-      "company": "DoorDash",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T20:50:17.258Z"
     },
     {
       "id": "6228785004",
