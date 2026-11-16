@@ -1,9 +1,23 @@
 {
-  "generatedAt": "2026-11-16T18:40:20.468Z",
+  "generatedAt": "2026-11-16T18:50:32.260Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 15,
   "newKeys": [
-    "robinhood:8385931"
+    "openai:2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
+    "snowflake:829e9786-6661-4134-b7cd-aef3bed75c1c",
+    "spacex:8940206002",
+    "spacex:8940195002",
+    "spacex:8940164002",
+    "spacex:8940205002",
+    "spacex:8940176002",
+    "spacex:8939867002",
+    "spacex:8940083002",
+    "spacex:8940443002",
+    "spacex:8940444002",
+    "spacex:8940438002",
+    "spacex:8940441002",
+    "spacex:8940442002",
+    "stripe:8360332"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +26,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2053
+    "experienced": 2068
   },
   "companies": [
     {
@@ -3511,7 +3525,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 54,
+      "jobCount": 55,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4652,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4707,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 85,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 97,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4799,7 +4813,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5715,246 @@
     }
   ],
   "jobs": [
+    {
+      "id": "829e9786-6661-4134-b7cd-aef3bed75c1c",
+      "title": "Senior Software Engineer - Elastic Global Services",
+      "location": "US-CA-Menlo Park",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/829e9786-6661-4134-b7cd-aef3bed75c1c",
+      "postedAt": "2026-11-16T18:49:05.714Z",
+      "key": "snowflake:829e9786-6661-4134-b7cd-aef3bed75c1c",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
+      "title": "Data Engineering Manager, Devices",
+      "location": "San Francisco",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
+      "postedAt": "2026-11-16T18:44:15.687Z",
+      "key": "openai:2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940206002",
+      "title": "Principal Software Engineer (Platform Team)",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940206002?gh_jid=8940206002",
+      "postedAt": "2026-11-16T18:44:12.000Z",
+      "key": "spacex:8940206002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940205002",
+      "title": "Principal Software Engineer (Platform Team)",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940205002?gh_jid=8940205002",
+      "postedAt": "2026-11-16T18:44:09.000Z",
+      "key": "spacex:8940205002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940195002",
+      "title": "Principal Software Engineer (Platform Team)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940195002?gh_jid=8940195002",
+      "postedAt": "2026-11-16T18:44:07.000Z",
+      "key": "spacex:8940195002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940176002",
+      "title": "Principal Software Engineer (Platform Team)",
+      "location": "Sunnyvale, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940176002?gh_jid=8940176002",
+      "postedAt": "2026-11-16T18:44:05.000Z",
+      "key": "spacex:8940176002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940164002",
+      "title": "Principal Software Engineer (Platform Team)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940164002?gh_jid=8940164002",
+      "postedAt": "2026-11-16T18:44:03.000Z",
+      "key": "spacex:8940164002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8939867002",
+      "title": "Principal Software Engineer (Platform Team)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8939867002?gh_jid=8939867002",
+      "postedAt": "2026-11-16T18:44:01.000Z",
+      "key": "spacex:8939867002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940444002",
+      "title": "Sr. Software Engineer (Platform Team)",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940444002?gh_jid=8940444002",
+      "postedAt": "2026-11-16T18:43:37.000Z",
+      "key": "spacex:8940444002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940443002",
+      "title": "Sr. Software Engineer (Platform Team)",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940443002?gh_jid=8940443002",
+      "postedAt": "2026-11-16T18:43:35.000Z",
+      "key": "spacex:8940443002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940442002",
+      "title": "Sr. Software Engineer (Platform Team)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940442002?gh_jid=8940442002",
+      "postedAt": "2026-11-16T18:43:32.000Z",
+      "key": "spacex:8940442002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940441002",
+      "title": "Sr. Software Engineer (Platform Team)",
+      "location": "Sunnyvale, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940441002?gh_jid=8940441002",
+      "postedAt": "2026-11-16T18:43:30.000Z",
+      "key": "spacex:8940441002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940438002",
+      "title": "Sr. Software Engineer (Platform Team)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940438002?gh_jid=8940438002",
+      "postedAt": "2026-11-16T18:43:29.000Z",
+      "key": "spacex:8940438002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8940083002",
+      "title": "Sr. Software Engineer (Platform Team)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8940083002?gh_jid=8940083002",
+      "postedAt": "2026-11-16T18:43:26.000Z",
+      "key": "spacex:8940083002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
+    {
+      "id": "8360332",
+      "title": "Integration Reliability Engineer, Technical Operations",
+      "location": "Toronto",
+      "team": "8581 Global Payments Experiences",
+      "url": "https://stripe.com/jobs/search?gh_jid=8360332",
+      "postedAt": "2026-11-16T18:42:59.000Z",
+      "key": "stripe:8360332",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-16T18:50:32.260Z"
+    },
     {
       "id": "8385931",
       "title": "Software Engineer, Backend - Government Products",
