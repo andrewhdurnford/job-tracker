@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T16:00:29.066Z",
+  "generatedAt": "2026-11-16T16:10:20.412Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "sentilink:06efc456-e3e6-493c-a3b0-16d4feefc34d"
+    "saronic:4b601575-99ba-4a5e-962f-d884bb3a85ac"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 13,
-    "experienced": 2041
+    "experienced": 2042
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3085,7 +3085,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4365,7 +4365,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 84,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4b601575-99ba-4a5e-962f-d884bb3a85ac",
+      "title": "IT Systems Engineer",
+      "location": "Austin, TX",
+      "team": "Information Technology",
+      "url": "https://jobs.ashbyhq.com/saronic/4b601575-99ba-4a5e-962f-d884bb3a85ac",
+      "postedAt": "2026-11-16T16:03:24.486Z",
+      "key": "saronic:4b601575-99ba-4a5e-962f-d884bb3a85ac",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-16T16:10:20.412Z"
+    },
     {
       "id": "06efc456-e3e6-493c-a3b0-16d4feefc34d",
       "title": "Tech Lead, Product Security Software Engineer",
