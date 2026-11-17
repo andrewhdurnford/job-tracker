@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-17T00:50:20.382Z",
+  "generatedAt": "2026-11-17T01:00:26.841Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "natera:6256130004"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 14,
-    "experienced": 2121
+    "experienced": 2120
   },
   "companies": [
     {
@@ -1054,7 +1052,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -2803,10 +2801,10 @@
     },
     {
       "name": "LTSE Services, Inc.",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Lucid Motors",
@@ -4693,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 108,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4728,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5031,7 +5029,7 @@
       "name": "Temporal Technologies",
       "ok": false,
       "jobCount": 8,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5563,7 +5561,7 @@
       "name": "World Labs",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -35065,22 +35063,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T17:00:27.136Z"
-    },
-    {
-      "id": "8318599",
-      "title": "Offensive Security Engineer, AI ",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8318599?gh_jid=8318599",
-      "postedAt": "2026-10-23T16:45:38.000Z",
-      "key": "coinbase:8318599",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-23T16:50:18.337Z"
     },
     {
       "id": "5254390007",
