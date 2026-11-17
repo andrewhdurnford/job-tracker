@@ -1,9 +1,14 @@
 {
-  "generatedAt": "2026-11-17T19:30:33.447Z",
+  "generatedAt": "2026-11-17T19:40:19.655Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "airbnb:8396777"
+    "benchling:baa78673-4c25-4d61-8888-2eac4c63d8c5",
+    "benchling:6183438d-1ff6-4389-aff9-a0128ff3a407",
+    "benchling:7b1ffaaf-2374-4b09-8495-899cc4847862",
+    "thetradedesk:5297281007",
+    "thetradedesk:5297279007",
+    "waymo:8394788"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +17,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2149
+    "experienced": 2155
   },
   "companies": [
     {
@@ -550,7 +555,7 @@
     {
       "name": "Benchling",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -593,7 +598,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5058,7 +5063,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5478,7 +5483,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5706,102 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8394788",
+      "title": "Senior Software Engineer, Simulator Platform",
+      "location": "Mountain View, CA; San Francisco, CA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8394788",
+      "postedAt": "2026-11-17T19:37:29.000Z",
+      "key": "waymo:8394788",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T19:40:19.655Z"
+    },
+    {
+      "id": "5297279007",
+      "title": "Sr Forward Deployed Engineer",
+      "location": "Bellevue; New York; San Francisco; San Jose; Seattle",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5297279007",
+      "postedAt": "2026-11-17T19:33:03.000Z",
+      "key": "thetradedesk:5297279007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T19:40:19.655Z"
+    },
+    {
+      "id": "5297281007",
+      "title": "Sr AI Software Engineer",
+      "location": "Bellevue; New York; San Francisco; San Jose; Seattle",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5297281007",
+      "postedAt": "2026-11-17T19:33:00.000Z",
+      "key": "thetradedesk:5297281007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T19:40:19.655Z"
+    },
+    {
+      "id": "6183438d-1ff6-4389-aff9-a0128ff3a407",
+      "title": "Software Engineer, Big Data Infrastructure",
+      "location": "San Francisco, CA",
+      "team": "Engineering: Platform",
+      "url": "https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407",
+      "postedAt": "2026-11-17T19:32:51.300Z",
+      "key": "benchling:6183438d-1ff6-4389-aff9-a0128ff3a407",
+      "company": "Benchling",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T19:40:19.655Z"
+    },
+    {
+      "id": "7b1ffaaf-2374-4b09-8495-899cc4847862",
+      "title": "Software Engineer, CDC",
+      "location": "San Francisco, CA",
+      "team": "Engineering: Platform",
+      "url": "https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862",
+      "postedAt": "2026-11-17T19:32:42.994Z",
+      "key": "benchling:7b1ffaaf-2374-4b09-8495-899cc4847862",
+      "company": "Benchling",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T19:40:19.655Z"
+    },
+    {
+      "id": "baa78673-4c25-4d61-8888-2eac4c63d8c5",
+      "title": "Software Engineer, CDC",
+      "location": "San Francisco, CA",
+      "team": "Engineering: Platform",
+      "url": "https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5",
+      "postedAt": "2026-11-17T19:32:40.554Z",
+      "key": "benchling:baa78673-4c25-4d61-8888-2eac4c63d8c5",
+      "company": "Benchling",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T19:40:19.655Z"
+    },
     {
       "id": "8396777",
       "title": "Senior Data Engineer Tech Foundations",
