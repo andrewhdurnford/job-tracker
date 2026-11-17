@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-11-17T20:30:28.584Z",
+  "generatedAt": "2026-11-17T20:40:21.209Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "hex:59282b6c-07e9-4cc4-a81e-62cd98a8a1e8",
-    "lyft:8944659002",
-    "natera:6263455004",
-    "twilio:8393931"
+    "honeycomb:5485706008",
+    "honeycomb:5485708008",
+    "retell-ai:1b10f02d-d474-4a67-85f4-8697a39a4e38"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2159
+    "experienced": 2162
   },
   "companies": [
     {
@@ -596,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -939,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2240,7 +2239,7 @@
     {
       "name": "Honeycomb",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4179,7 +4178,7 @@
     {
       "name": "Retell AI",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4696,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 105,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5704,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5485708008",
+      "title": "Senior Software Engineer II - Agentic Intelligence",
+      "location": "Remote - Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5485708008",
+      "postedAt": "2026-11-17T20:37:58.000Z",
+      "key": "honeycomb:5485708008",
+      "company": "Honeycomb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-17T20:40:21.209Z"
+    },
+    {
+      "id": "1b10f02d-d474-4a67-85f4-8697a39a4e38",
+      "title": "Applied AI Engineer (Customer Facing), Spanish speaking",
+      "location": "San Francisco Bay Area",
+      "team": "Founders Initiatives",
+      "url": "https://jobs.ashbyhq.com/retell-ai/1b10f02d-d474-4a67-85f4-8697a39a4e38",
+      "postedAt": "2026-11-17T20:37:05.142Z",
+      "key": "retell-ai:1b10f02d-d474-4a67-85f4-8697a39a4e38",
+      "company": "Retell AI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T20:40:21.209Z"
+    },
+    {
+      "id": "5485706008",
+      "title": "Senior Software Engineer II - Agentic Intelligence",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5485706008",
+      "postedAt": "2026-11-17T20:36:45.000Z",
+      "key": "honeycomb:5485706008",
+      "company": "Honeycomb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T20:40:21.209Z"
+    },
     {
       "id": "6263455004",
       "title": "Lead, Office of Software Assurance",
@@ -30917,7 +30964,7 @@
     },
     {
       "id": "8922427002",
-      "title": "Backend Engineer, Source Code: Repository Services (Ruby) ",
+      "title": "Fullstack Engineer, Source Code: Repository Services (Ruby) ",
       "location": "Remote, Canada",
       "team": null,
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922427002",
