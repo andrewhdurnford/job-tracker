@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-11-17T18:10:21.887Z",
+  "generatedAt": "2026-11-17T18:20:27.013Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "okta:8395735"
+    "okta:8385706",
+    "saronic:fda07283-83b4-4af0-a218-96ffb283257d",
+    "saronic:30960718-0070-4376-9563-db0b4d7a3f75",
+    "zscaler:5283492007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2143
+    "experienced": 2147
   },
   "companies": [
     {
@@ -1319,10 +1322,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3469,7 +3472,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -4365,7 +4368,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5688,7 +5691,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "30960718-0070-4376-9563-db0b4d7a3f75",
+      "title": "Senior Data Scientist",
+      "location": "Austin, TX",
+      "team": "Internal Business Tools",
+      "url": "https://jobs.ashbyhq.com/saronic/30960718-0070-4376-9563-db0b4d7a3f75",
+      "postedAt": "2026-11-17T18:17:26.369Z",
+      "key": "saronic:30960718-0070-4376-9563-db0b4d7a3f75",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T18:20:27.013Z"
+    },
+    {
+      "id": "fda07283-83b4-4af0-a218-96ffb283257d",
+      "title": "Staff DevOps Engineer",
+      "location": "Austin, TX",
+      "team": "Internal Business Tools",
+      "url": "https://jobs.ashbyhq.com/saronic/fda07283-83b4-4af0-a218-96ffb283257d",
+      "postedAt": "2026-11-17T18:16:46.873Z",
+      "key": "saronic:fda07283-83b4-4af0-a218-96ffb283257d",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T18:20:27.013Z"
+    },
+    {
+      "id": "8385706",
+      "title": "Staff Site Reliability Engineer",
+      "location": "Bellevue, WA, United States",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8385706?gh_jid=8385706",
+      "postedAt": "2026-11-17T18:12:25.000Z",
+      "key": "okta:8385706",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T18:20:27.013Z"
+    },
     {
       "id": "8395735",
       "title": "Senior Software Engineer, Identity Threat Protection",
@@ -6398,6 +6449,22 @@
         "us"
       ],
       "firstSeen": "2026-11-17T00:00:31.487Z"
+    },
+    {
+      "id": "5283492007",
+      "title": "Principal Software Development Engineer",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283492007",
+      "postedAt": "2026-11-16T23:52:58.000Z",
+      "key": "zscaler:5283492007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T18:20:27.013Z"
     },
     {
       "id": "8384186",
