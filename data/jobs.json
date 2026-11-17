@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-17T15:40:21.552Z",
+  "generatedAt": "2026-11-17T15:50:21.062Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "saronic:0b9aa853-df02-4adb-a36a-b7ccac00491f"
+    "block:5485151008",
+    "cloudflare:8383586"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -613,7 +614,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1012,7 +1013,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -1193,10 +1194,10 @@
     },
     {
       "name": "Coupa",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Coupang",
@@ -1755,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1776,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2138,10 +2139,10 @@
     },
     {
       "name": "Handoff",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Handshake",
@@ -4203,10 +4204,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Rilla",
@@ -4337,7 +4338,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4721,10 +4722,10 @@
     },
     {
       "name": "Spotify",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sprinklr",
@@ -4777,10 +4778,10 @@
     },
     {
       "name": "STARK BANK",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Stilta",
@@ -4828,7 +4829,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5610,10 +5611,10 @@
     },
     {
       "name": "Yuno",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zapier",
@@ -5673,10 +5674,10 @@
     },
     {
       "name": "Zippi",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zoom",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5485151008",
+      "title": "Sales Compensation Systems & Data Engineer",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5485151008?gh_jid=5485151008",
+      "postedAt": "2026-11-17T15:46:55.000Z",
+      "key": "block:5485151008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T15:50:21.062Z"
+    },
+    {
+      "id": "8383586",
+      "title": "Senior Software Engineer",
+      "location": "Austin, TX (+3 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8383586?gh_jid=8383586",
+      "postedAt": "2026-11-17T15:45:54.000Z",
+      "key": "cloudflare:8383586",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T15:50:21.062Z"
+    },
     {
       "id": "0b9aa853-df02-4adb-a36a-b7ccac00491f",
       "title": "Senior Test Automation Engineer ",
@@ -17705,38 +17738,6 @@
         "canada"
       ],
       "firstSeen": "2026-11-06T12:30:27.439Z"
-    },
-    {
-      "id": "8358618",
-      "title": "Staff Machine Learning Engineer - Edge AI",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8358618?gh_jid=8358618",
-      "postedAt": "2026-11-06T11:32:01.000Z",
-      "key": "samsara:8358618",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-06T11:40:22.673Z"
-    },
-    {
-      "id": "8358617",
-      "title": "Staff Machine Learning Engineer - Edge AI",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8358617?gh_jid=8358617",
-      "postedAt": "2026-11-06T11:30:57.000Z",
-      "key": "samsara:8358617",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-06T11:40:22.673Z"
     },
     {
       "id": "5463598008",
