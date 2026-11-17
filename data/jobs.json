@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-17T21:30:23.743Z",
+  "generatedAt": "2026-11-17T21:40:20.728Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "temporal:af8d1e25-14b1-476d-a079-0d72cc5fdcd8",
-    "waymo:8396527"
+    "epicgames:6250173004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2168
+    "experienced": 2169
   },
   "companies": [
     {
@@ -1615,7 +1614,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -2064,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2225,7 +2224,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3588,10 +3587,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 12,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6250173004",
+      "title": "Senior Backend Programmer (SCM & CI/CD) ",
+      "location": "Montreal,Quebec,Canada",
+      "team": "Engineering Generalist",
+      "url": "https://epicgames.com/careers/jobs/6250173004?gh_jid=6250173004",
+      "postedAt": "2026-11-17T21:36:08.000Z",
+      "key": "epicgames:6250173004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-17T21:40:20.728Z"
+    },
     {
       "id": "af8d1e25-14b1-476d-a079-0d72cc5fdcd8",
       "title": "Senior Software Engineer, Reliability",
