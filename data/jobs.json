@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-17T04:00:30.861Z",
+  "generatedAt": "2026-11-17T04:10:19.882Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "xai:5297316007",
+    "xai:5297314007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 14,
-    "experienced": 2130
+    "experienced": 2132
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1317,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1753,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1774,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2061,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2222,7 +2225,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5581,7 +5584,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5297314007",
+      "title": "Sr. Software Engineer, Safety",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5297314007",
+      "postedAt": "2026-11-17T04:05:03.000Z",
+      "key": "xai:5297314007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T04:10:19.882Z"
+    },
+    {
+      "id": "5297316007",
+      "title": "Software Engineer, Safety",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5297316007",
+      "postedAt": "2026-11-17T04:04:36.000Z",
+      "key": "xai:5297316007",
+      "company": "xAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T04:10:19.882Z"
+    },
     {
       "id": "5297311007",
       "title": "Software Engineer, Ads Serving",
