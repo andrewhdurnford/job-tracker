@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-17T22:00:26.887Z",
+  "generatedAt": "2026-11-17T22:10:21.585Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "nextdoor:8397501",
-    "openai:7447dd43-9bf5-445f-bb8c-ba57756c8d04"
+    "spacex:8945159002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2171
+    "experienced": 2172
   },
   "companies": [
     {
@@ -2482,10 +2481,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "JFrog",
@@ -2496,10 +2495,10 @@
     },
     {
       "name": "Jito",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Juicebox",
@@ -2902,10 +2901,10 @@
     },
     {
       "name": "Mashgin",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mastra",
@@ -4695,7 +4694,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 105,
+      "jobCount": 106,
       "error": null,
       "stale": false
     },
@@ -5086,10 +5085,10 @@
     },
     {
       "name": "Thunkable",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tilt",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8945159002",
+      "title": "Hardware Test Automation Engineer, Satellites (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8945159002?gh_jid=8945159002",
+      "postedAt": "2026-11-17T22:06:52.000Z",
+      "key": "spacex:8945159002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T22:10:21.585Z"
+    },
     {
       "id": "8397501",
       "title": "Senior Software Engineer - Backend",
@@ -8201,7 +8216,7 @@
     {
       "id": "6254371004",
       "title": "Senior Manager, Forward Deployed Engineering",
-      "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid); United States (Remote)",
+      "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6254371004",
       "postedAt": "2026-11-16T17:17:20.000Z",
