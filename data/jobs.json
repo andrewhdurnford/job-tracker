@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-17T00:20:19.196Z",
+  "generatedAt": "2026-11-17T00:30:25.772Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "gusto:8168064"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -2102,7 +2104,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 108,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4797,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8168064",
+      "title": "Staff Product Mobile Engineer, Consumer Money",
+      "location": "San Francisco, CA - Hybrid",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8168064",
+      "postedAt": "2026-11-17T00:28:21.000Z",
+      "key": "gusto:8168064",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T00:30:25.772Z"
+    },
     {
       "id": "7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
       "title": "Applied AI Architect - EDU",
@@ -12397,22 +12415,6 @@
       "postedAt": "2026-11-10T23:13:51.591Z",
       "key": "mercor:44cf5f07-342d-4f64-9062-3617beb88b31",
       "company": "Mercor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T23:20:20.522Z"
-    },
-    {
-      "id": "8353949",
-      "title": "Frontend Engineer, Link",
-      "location": "US",
-      "team": "8570 Consumer Network - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8353949",
-      "postedAt": "2026-11-10T23:10:15.000Z",
-      "key": "stripe:8353949",
-      "company": "Stripe",
       "level": "experienced",
       "term": null,
       "regions": [
