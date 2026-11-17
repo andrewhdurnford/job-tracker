@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T01:10:19.371Z",
+  "generatedAt": "2026-11-17T01:20:19.551Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "northwoodspace:1aff98f5-3a25-47f9-afc4-4f57aa212694"
+    "coinbase:8394654"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 14,
-    "experienced": 2120
+    "experienced": 2121
   },
   "companies": [
     {
@@ -1054,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 28,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4623,10 +4623,10 @@
     },
     {
       "name": "Snappr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Snorkel AI",
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 108,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8394654",
+      "title": "Product Security Engineer, Offensive Security",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8394654?gh_jid=8394654",
+      "postedAt": "2026-11-17T01:13:58.000Z",
+      "key": "coinbase:8394654",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T01:20:19.551Z"
+    },
     {
       "id": "1aff98f5-3a25-47f9-afc4-4f57aa212694",
       "title": "Senior Software Engineer (Platform)",
