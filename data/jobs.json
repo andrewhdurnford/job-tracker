@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-17T23:00:27.876Z",
+  "generatedAt": "2026-11-17T23:10:19.172Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "airbnb:8397762",
+    "coupang:8393917",
+    "handshake:fc042441-b093-4f16-a308-5c6e8baea669"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2172
+    "experienced": 2175
   },
   "companies": [
     {
@@ -114,7 +118,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1199,7 +1203,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2144,7 +2148,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4432,10 +4436,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "fc042441-b093-4f16-a308-5c6e8baea669",
+      "title": "Senior Applied AI Engineer",
+      "location": "San Francisco, CA",
+      "team": "HAI Engineering",
+      "url": "https://jobs.ashbyhq.com/handshake/fc042441-b093-4f16-a308-5c6e8baea669",
+      "postedAt": "2026-11-17T23:09:10.466Z",
+      "key": "handshake:fc042441-b093-4f16-a308-5c6e8baea669",
+      "company": "Handshake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T23:10:19.172Z"
+    },
+    {
+      "id": "8393917",
+      "title": "Senior Identity & Access Management Systems Engineer (IAM)",
+      "location": "Mountain View, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8393917",
+      "postedAt": "2026-11-17T23:04:02.000Z",
+      "key": "coupang:8393917",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T23:10:19.172Z"
+    },
+    {
+      "id": "8397762",
+      "title": "Software Engineer, DevAI ",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8397762?gh_jid=8397762",
+      "postedAt": "2026-11-17T23:01:50.000Z",
+      "key": "airbnb:8397762",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T23:10:19.172Z"
+    },
     {
       "id": "eb8b637c-d9cd-4b98-99e4-ea5113701473",
       "title": "Software Engineer, Production Support",
