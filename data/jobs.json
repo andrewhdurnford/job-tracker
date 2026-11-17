@@ -1,10 +1,12 @@
 {
-  "generatedAt": "2026-11-17T20:20:20.781Z",
+  "generatedAt": "2026-11-17T20:30:28.584Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "sofi:8207529003",
-    "whoop:d4a657c1-cf85-49d1-bfa8-dfad9cf9e888"
+    "hex:59282b6c-07e9-4cc4-a81e-62cd98a8a1e8",
+    "lyft:8944659002",
+    "natera:6263455004",
+    "twilio:8393931"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +15,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2155
+    "experienced": 2159
   },
   "companies": [
     {
@@ -594,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -937,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1565,10 +1567,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -2210,7 +2212,7 @@
     {
       "name": "Hex",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2482,10 +2484,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "JFrog",
@@ -2847,7 +2849,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3246,7 +3248,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5227,7 +5229,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6263455004",
+      "title": "Lead, Office of Software Assurance",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6263455004",
+      "postedAt": "2026-11-17T20:29:13.000Z",
+      "key": "natera:6263455004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T20:30:28.584Z"
+    },
+    {
+      "id": "8944659002",
+      "title": "ML Engineer, Marketplace",
+      "location": "Toronto, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8944659002?gh_jid=8944659002",
+      "postedAt": "2026-11-17T20:25:50.000Z",
+      "key": "lyft:8944659002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-17T20:30:28.584Z"
+    },
+    {
+      "id": "59282b6c-07e9-4cc4-a81e-62cd98a8a1e8",
+      "title": "Detection and Response Engineer",
+      "location": "Remote - US (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/hex/59282b6c-07e9-4cc4-a81e-62cd98a8a1e8",
+      "postedAt": "2026-11-17T20:23:04.531Z",
+      "key": "hex:59282b6c-07e9-4cc4-a81e-62cd98a8a1e8",
+      "company": "Hex",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T20:30:28.584Z"
+    },
+    {
+      "id": "8393931",
+      "title": "Staff, Fullstack Software Engineer (L4)",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8393931",
+      "postedAt": "2026-11-17T20:21:04.000Z",
+      "key": "twilio:8393931",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T20:30:28.584Z"
+    },
     {
       "id": "8207529003",
       "title": "Senior Software Engineer, Data Platform",
@@ -35769,7 +35835,7 @@
     },
     {
       "id": "6233238004",
-      "title": "Software Engineer - Mercury Command",
+      "title": "Software Engineer - AI Experiences",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
       "team": null,
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6233238004",
