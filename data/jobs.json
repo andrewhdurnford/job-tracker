@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-17T17:00:32.719Z",
+  "generatedAt": "2026-11-17T17:10:23.557Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "toast:8327428"
+    "okta:8384001",
+    "zscaler:5219189007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 102,
     "new-grad": 14,
-    "experienced": 2133
+    "experienced": 2135
   },
   "companies": [
     {
@@ -3469,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4343,10 +4344,10 @@
     },
     {
       "name": "Sandbox VR",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sandstone",
@@ -4828,7 +4829,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5688,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5219189007",
+      "title": "Staff Software Development Engineer- AI Security (Go/Rust/Python)",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219189007",
+      "postedAt": "2026-11-17T17:10:10.000Z",
+      "key": "zscaler:5219189007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T17:10:23.557Z"
+    },
+    {
+      "id": "8384001",
+      "title": "Senior Software Engineer, Data Platform",
+      "location": "Bellevue, WA, United States",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8384001?gh_jid=8384001",
+      "postedAt": "2026-11-17T17:04:21.000Z",
+      "key": "okta:8384001",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T17:10:23.557Z"
+    },
     {
       "id": "8327428",
       "title": "Staff Software Engineer, IQ",
