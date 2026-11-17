@@ -1,13 +1,8 @@
 {
-  "generatedAt": "2026-11-17T18:20:27.013Z",
+  "generatedAt": "2026-11-17T18:30:27.397Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
-  "newKeys": [
-    "okta:8385706",
-    "saronic:fda07283-83b4-4af0-a218-96ffb283257d",
-    "saronic:30960718-0070-4376-9563-db0b4d7a3f75",
-    "zscaler:5283492007"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -15,7 +10,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2147
+    "experienced": 2146
   },
   "companies": [
     {
@@ -1322,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2232,10 +2227,10 @@
     },
     {
       "name": "HockeyStack",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "network error: fetch failed",
+      "stale": true
     },
     {
       "name": "Honeycomb",
@@ -3248,7 +3243,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -8697,22 +8692,6 @@
         "us"
       ],
       "firstSeen": "2026-11-13T21:58:46.011Z"
-    },
-    {
-      "id": "6260848004",
-      "title": "Manager, Software Engineering",
-      "location": "US Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6260848004",
-      "postedAt": "2026-11-13T21:43:58.000Z",
-      "key": "natera:6260848004",
-      "company": "Natera",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-13T21:50:26.244Z"
     },
     {
       "id": "9225e1fa-66aa-45d2-bf92-2ac653744434",
