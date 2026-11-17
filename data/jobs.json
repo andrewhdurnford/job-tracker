@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-17T22:20:32.323Z",
+  "generatedAt": "2026-11-17T22:30:30.293Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "okta:8396676"
+    "commure:4781df21-b39e-42a4-8fa6-15e9603b9e3a",
+    "cribl:6256104004",
+    "waymo:8380137"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2173
+    "experienced": 2175
   },
   "companies": [
     {
@@ -81,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -1089,7 +1091,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1229,7 +1231,7 @@
     {
       "name": "Cribl",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 106,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5478,7 +5480,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8380137",
+      "title": "Senior Machine Learning Engineer, Driver Refinement & Validation",
+      "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8380137",
+      "postedAt": "2026-11-17T22:24:59.000Z",
+      "key": "waymo:8380137",
+      "company": "Waymo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T22:30:30.293Z"
+    },
+    {
+      "id": "6256104004",
+      "title": "Sr Mgr, Software Engineering (Cribl Detect)",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://cribl.io/job-detail/?gh_jid=6256104004",
+      "postedAt": "2026-11-17T22:23:56.000Z",
+      "key": "cribl:6256104004",
+      "company": "Cribl",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T22:30:30.293Z"
+    },
+    {
+      "id": "4781df21-b39e-42a4-8fa6-15e9603b9e3a",
+      "title": "Senior Backend Engineer, Ambient Dictation",
+      "location": "Mountain View, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/Commure/4781df21-b39e-42a4-8fa6-15e9603b9e3a",
+      "postedAt": "2026-11-17T22:20:22.793Z",
+      "key": "commure:4781df21-b39e-42a4-8fa6-15e9603b9e3a",
+      "company": "Commure",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T22:30:30.293Z"
+    },
     {
       "id": "8396676",
       "title": "Staff Software Engineer - Okta Identity Governance",
@@ -17243,22 +17293,6 @@
         "us"
       ],
       "firstSeen": "2026-11-06T23:00:30.529Z"
-    },
-    {
-      "id": "8196114003",
-      "title": "Software Engineer II, Backend",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196114003",
-      "postedAt": "2026-11-06T22:47:40.000Z",
-      "key": "affirm:8196114003",
-      "company": "Affirm",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-06T22:50:23.009Z"
     },
     {
       "id": "8196112003",
