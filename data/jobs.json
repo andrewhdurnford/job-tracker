@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-17T19:20:21.023Z",
+  "generatedAt": "2026-11-17T19:30:33.447Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "airbnb:8396777"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -114,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4335,7 +4337,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8396777",
+      "title": "Senior Data Engineer Tech Foundations",
+      "location": "US - Remote",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8396777?gh_jid=8396777",
+      "postedAt": "2026-11-17T19:22:59.000Z",
+      "key": "airbnb:8396777",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T19:30:33.447Z"
+    },
     {
       "id": "8359204",
       "title": "Software Engineer - Python, Post Trade",
@@ -17349,22 +17367,6 @@
       "postedAt": "2026-11-06T19:12:48.000Z",
       "key": "tanium:8357200",
       "company": "Tanium",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-06T19:20:20.278Z"
-    },
-    {
-      "id": "8359978",
-      "title": "Firmware Engineer ",
-      "location": "Remote - Austin; Remote - Seattle; San Francisco, CA, United States",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8359978?gh_jid=8359978",
-      "postedAt": "2026-11-06T19:10:26.000Z",
-      "key": "samsara:8359978",
-      "company": "Samsara",
       "level": "experienced",
       "term": null,
       "regions": [
