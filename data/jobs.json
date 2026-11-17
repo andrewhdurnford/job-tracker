@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-17T20:10:19.067Z",
+  "generatedAt": "2026-11-17T20:20:20.781Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "zscaler:5279083007"
+    "sofi:8207529003",
+    "whoop:d4a657c1-cf85-49d1-bfa8-dfad9cf9e888"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2154
+    "experienced": 2155
   },
   "companies": [
     {
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1319,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1564,10 +1565,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Encord",
@@ -2481,10 +2482,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "JFrog",
@@ -4659,7 +4660,7 @@
     {
       "name": "SoFi",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8207529003",
+      "title": "Senior Software Engineer, Data Platform",
+      "location": "Seattle, Washington or Salt Lake City, Utah",
+      "team": null,
+      "url": "https://sofi.com/careers/job/8207529003?gh_jid=8207529003",
+      "postedAt": "2026-11-17T20:18:19.000Z",
+      "key": "sofi:8207529003",
+      "company": "SoFi",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T20:20:20.781Z"
+    },
+    {
+      "id": "d4a657c1-cf85-49d1-bfa8-dfad9cf9e888",
+      "title": "Software Engineering Manager, Business Systems",
+      "location": "Boston, MA",
+      "team": "Business Systems",
+      "url": "https://jobs.ashbyhq.com/whoop/d4a657c1-cf85-49d1-bfa8-dfad9cf9e888",
+      "postedAt": "2026-11-17T20:12:05.943Z",
+      "key": "whoop:d4a657c1-cf85-49d1-bfa8-dfad9cf9e888",
+      "company": "WHOOP",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T20:20:20.781Z"
+    },
     {
       "id": "5279083007",
       "title": "Principal Software Development Engineer",
@@ -7261,22 +7294,6 @@
       "postedAt": "2026-11-16T20:42:48.000Z",
       "key": "netskope:8394120",
       "company": "Netskope",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-16T20:50:20.548Z"
-    },
-    {
-      "id": "656f5907-35e3-4c85-9b99-f4bcb3e01515",
-      "title": "Software Engineering Manager, Business Systems ",
-      "location": "Boston, MA",
-      "team": "Business Systems",
-      "url": "https://jobs.ashbyhq.com/whoop/656f5907-35e3-4c85-9b99-f4bcb3e01515",
-      "postedAt": "2026-11-16T20:41:46.349Z",
-      "key": "whoop:656f5907-35e3-4c85-9b99-f4bcb3e01515",
-      "company": "WHOOP",
       "level": "experienced",
       "term": null,
       "regions": [
