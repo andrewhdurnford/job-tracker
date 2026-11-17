@@ -1,12 +1,9 @@
 {
-  "generatedAt": "2026-11-17T00:00:31.487Z",
+  "generatedAt": "2026-11-17T00:10:19.421Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "jumptrading:8394510",
-    "okta:8238010",
-    "okta:8384384",
-    "zscaler:5283492007"
+    "openai:7cd8205b-fd73-4af1-9103-1b1fed3b0c22"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 14,
-    "experienced": 2119
+    "experienced": 2120
   },
   "companies": [
     {
@@ -596,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3514,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 56,
+      "jobCount": 57,
       "error": null,
       "stale": false
     },
@@ -4927,10 +4924,10 @@
     },
     {
       "name": "Synapticure",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Sysdig",
@@ -5704,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+      "title": "Applied AI Architect - EDU",
+      "location": "San Francisco",
+      "team": "Applied AI",
+      "url": "https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+      "postedAt": "2026-11-17T00:06:56.489Z",
+      "key": "openai:7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-17T00:10:19.421Z"
+    },
     {
       "id": "8394510",
       "title": "HPC Systems Engineer",
@@ -22410,7 +22423,7 @@
     },
     {
       "id": "dfa01032-82b4-443f-bfdc-1a20bd976b9c",
-      "title": "Senior Staff Software Engineer - Builder Platform",
+      "title": "Senior Staff Software Engineer, Builder Platform",
       "location": "United States (Remote) (+3 more)",
       "team": "Builder Tools",
       "url": "https://jobs.ashbyhq.com/temporal/dfa01032-82b4-443f-bfdc-1a20bd976b9c",
@@ -22427,7 +22440,7 @@
     },
     {
       "id": "a1e22a53-a8c2-410d-9385-814a488dd6c1",
-      "title": "Staff Software Engineer - Builder Platform",
+      "title": "Staff Software Engineer, Builder Platform",
       "location": "United States (Remote) (+3 more)",
       "team": "Builder Tools",
       "url": "https://jobs.ashbyhq.com/temporal/a1e22a53-a8c2-410d-9385-814a488dd6c1",
@@ -22444,7 +22457,7 @@
     },
     {
       "id": "86db065f-0f55-4985-b0f1-ce6a5e75f622",
-      "title": "Senior Software Engineer - Builder Platform",
+      "title": "Senior Software Engineer, Builder Platform",
       "location": "United States (Remote) (+3 more)",
       "team": "Builder Tools",
       "url": "https://jobs.ashbyhq.com/temporal/86db065f-0f55-4985-b0f1-ce6a5e75f622",
