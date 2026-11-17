@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T11:00:30.595Z",
+  "generatedAt": "2026-11-17T11:10:20.270Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2311,17 +2311,17 @@
     },
     {
       "name": "Hypercore",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Hypercubic",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Icarus",
@@ -2332,17 +2332,17 @@
     },
     {
       "name": "Ideogram",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Illumio",
-      "ok": false,
+      "ok": true,
       "jobCount": 12,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Imbue",
@@ -2367,52 +2367,52 @@
     },
     {
       "name": "Inferact",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Infisical",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "InfluxData",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Infracost",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inkeep",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Innate",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inngest",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Instacart",
@@ -2430,17 +2430,17 @@
     },
     {
       "name": "Interfere",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Intro",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inversion Space",
@@ -2451,24 +2451,24 @@
     },
     {
       "name": "Invert",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Invopop",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Irregular",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Jane Street",
@@ -3587,7 +3587,7 @@
       "name": "Palantir",
       "ok": false,
       "jobCount": 12,
-      "error": "HTTP 500 Internal Server Error",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4726,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
