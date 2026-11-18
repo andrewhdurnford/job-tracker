@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-18T17:30:23.945Z",
+  "generatedAt": "2026-11-18T17:40:21.882Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "cresta:5486727008"
+    "cursor:9f5d7596-501a-4934-9a25-daba53412e95",
+    "pendo:8936989002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 98,
     "new-grad": 14,
-    "experienced": 2181
+    "experienced": 2182
   },
   "companies": [
     {
@@ -1054,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -1278,7 +1279,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3637,7 +3638,7 @@
     {
       "name": "Pendo",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4728,10 +4729,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5702,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "8936989002",
+      "title": "Sr. Analytics Engineer II",
+      "location": "Raleigh, NC",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8936989002",
+      "postedAt": "2026-11-18T17:36:25.000Z",
+      "key": "pendo:8936989002",
+      "company": "Pendo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T17:40:21.882Z"
+    },
+    {
       "id": "5486727008",
       "title": "Applied Data Scientist ",
       "location": "United States (Remote)",
@@ -5716,6 +5733,22 @@
         "us"
       ],
       "firstSeen": "2026-11-18T17:30:23.945Z"
+    },
+    {
+      "id": "9f5d7596-501a-4934-9a25-daba53412e95",
+      "title": "Regional Director, Forward Deployed Engineering - Financial Services",
+      "location": "Washington, D.C.",
+      "team": "Forward Deployment",
+      "url": "https://jobs.ashbyhq.com/cursor/9f5d7596-501a-4934-9a25-daba53412e95",
+      "postedAt": "2026-11-18T17:29:42.285Z",
+      "key": "cursor:9f5d7596-501a-4934-9a25-daba53412e95",
+      "company": "Cursor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T17:40:21.882Z"
     },
     {
       "id": "196f1cca-6ee6-4023-b2e7-9f8ba18d1dae",
@@ -41461,22 +41494,6 @@
         "us"
       ],
       "firstSeen": "2026-10-19T17:50:18.376Z"
-    },
-    {
-      "id": "8301285",
-      "title": "Senior Product Designer, Developer Foundations",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8301285?gh_jid=8301285",
-      "postedAt": "2026-10-19T17:38:54.000Z",
-      "key": "coinbase:8301285",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T17:40:19.903Z"
     },
     {
       "id": "R172998",
