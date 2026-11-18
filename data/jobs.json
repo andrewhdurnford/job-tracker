@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-11-18T16:00:29.892Z",
+  "generatedAt": "2026-11-18T16:10:21.546Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "block:5485941008",
+    "cloudflare:8386246",
+    "doordashusa:8399363",
+    "traversal:70ca47a2-e1f9-4809-b725-18757e6e38ee"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +15,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 14,
-    "experienced": 2178
+    "experienced": 2182
   },
   "companies": [
     {
@@ -611,7 +616,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1010,7 +1015,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1322,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1451,7 +1456,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2031,10 +2036,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -4691,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 109,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5161,7 +5166,7 @@
     {
       "name": "Traversal",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8386246",
+      "title": "Systems Engineer, Zero Trust",
+      "location": "Austin, TX (+1 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8386246?gh_jid=8386246",
+      "postedAt": "2026-11-18T16:08:32.000Z",
+      "key": "cloudflare:8386246",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T16:10:21.546Z"
+    },
+    {
+      "id": "5485941008",
+      "title": "Quality Engineering Manager, Hardware",
+      "location": "Bay Area, CA, United States of America",
+      "team": null,
+      "url": "http://block.xyz/careers/jobs/5485941008?gh_jid=5485941008",
+      "postedAt": "2026-11-18T16:05:12.000Z",
+      "key": "block:5485941008",
+      "company": "Block",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T16:10:21.546Z"
+    },
+    {
+      "id": "8399363",
+      "title": "Senior Machine Learning Scientist, Applied Causal Inference",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8399363",
+      "postedAt": "2026-11-18T16:05:04.000Z",
+      "key": "doordashusa:8399363",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T16:10:21.546Z"
+    },
+    {
+      "id": "70ca47a2-e1f9-4809-b725-18757e6e38ee",
+      "title": "Principal Engineer, Data Platform",
+      "location": "New York",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/traversal/70ca47a2-e1f9-4809-b725-18757e6e38ee",
+      "postedAt": "2026-11-18T16:02:58.409Z",
+      "key": "traversal:70ca47a2-e1f9-4809-b725-18757e6e38ee",
+      "company": "Traversal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T16:10:21.546Z"
+    },
     {
       "id": "8383464",
       "title": "Engineering Manager, Security",
