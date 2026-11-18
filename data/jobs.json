@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-18T00:30:34.674Z",
+  "generatedAt": "2026-11-18T00:40:25.712Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "cursor:62dbe8b8-74d9-464e-b6f0-5370d79332bd"
+    "okta:8385710",
+    "zip:9aea2627-bc0a-45ca-9255-e68e79a6e503",
+    "zip:0ddd5881-914f-4fe5-adeb-6b8a4cd66347"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2184
+    "experienced": 2187
   },
   "companies": [
     {
@@ -1655,10 +1657,10 @@
     },
     {
       "name": "Exowatt",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Factory",
@@ -3469,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 109,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5667,7 +5669,7 @@
     {
       "name": "Zip",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8385710",
+      "title": "Staff Software Engineer",
+      "location": "Washington D.C.",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8385710?gh_jid=8385710",
+      "postedAt": "2026-11-18T00:30:54.000Z",
+      "key": "okta:8385710",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T00:40:25.712Z"
+    },
+    {
+      "id": "0ddd5881-914f-4fe5-adeb-6b8a4cd66347",
+      "title": "Tech Lead, Approvals",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/zip/0ddd5881-914f-4fe5-adeb-6b8a4cd66347",
+      "postedAt": "2026-11-18T00:30:36.418Z",
+      "key": "zip:0ddd5881-914f-4fe5-adeb-6b8a4cd66347",
+      "company": "Zip",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T00:40:25.712Z"
+    },
+    {
+      "id": "9aea2627-bc0a-45ca-9255-e68e79a6e503",
+      "title": "Tech Lead, Approvals",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/zip/9aea2627-bc0a-45ca-9255-e68e79a6e503",
+      "postedAt": "2026-11-18T00:30:01.248Z",
+      "key": "zip:9aea2627-bc0a-45ca-9255-e68e79a6e503",
+      "company": "Zip",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T00:40:25.712Z"
+    },
     {
       "id": "62dbe8b8-74d9-464e-b6f0-5370d79332bd",
       "title": "Forward Deployed Engineering Partner Program Lead",
