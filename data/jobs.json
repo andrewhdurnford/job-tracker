@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-18T21:20:19.492Z",
+  "generatedAt": "2026-11-18T21:30:22.738Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "astranis:4730093006",
+    "ramp:f90d32c1-7c10-4161-8913-075e1b423697"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -190,10 +193,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Alpaca",
@@ -387,7 +390,7 @@
     {
       "name": "Asana",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -429,7 +432,7 @@
     {
       "name": "Astranis",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3046,10 +3049,10 @@
     },
     {
       "name": "Mindy",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mirage",
@@ -3173,7 +3176,7 @@
     {
       "name": "MyOme",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3585,10 +3588,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 13,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -4034,7 +4037,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4726,10 +4729,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4730093006",
+      "title": "Systems Engineer, Omega",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4730093006",
+      "postedAt": "2026-11-18T21:26:24.000Z",
+      "key": "astranis:4730093006",
+      "company": "Astranis",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T21:30:22.738Z"
+    },
+    {
+      "id": "f90d32c1-7c10-4161-8913-075e1b423697",
+      "title": "Research Engineer, Agentic Systems",
+      "location": "Remote (US)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ramp/f90d32c1-7c10-4161-8913-075e1b423697",
+      "postedAt": "2026-11-18T21:20:29.719Z",
+      "key": "ramp:f90d32c1-7c10-4161-8913-075e1b423697",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T21:30:22.738Z"
+    },
     {
       "id": "8948573002",
       "title": "Staff Software Engineer, Safety Platform",
@@ -36057,7 +36092,7 @@
     },
     {
       "id": "8319701",
-      "title": "Senior iOS Engineer, Crypto Perpetuals",
+      "title": "Senior iOS Engineer, Crypto Trading",
       "location": "Toronto, Canada",
       "team": null,
       "url": "https://boards.greenhouse.io/robinhood/jobs/8319701?t=gh_src=&gh_jid=8319701",
@@ -41309,38 +41344,6 @@
         "us"
       ],
       "firstSeen": "2026-10-19T21:50:17.298Z"
-    },
-    {
-      "id": "8226969",
-      "title": "Staff Software Engineer, Data Loading Infrastructure",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://www.asana.com/jobs/apply/8226969?gh_jid=8226969",
-      "postedAt": "2026-10-19T21:23:05.000Z",
-      "key": "asana:8226969",
-      "company": "Asana",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-16T17:10:20.632Z"
-    },
-    {
-      "id": "4458014009",
-      "title": "Machine Learning Engineer",
-      "location": "Menlo Park, California, United States",
-      "team": null,
-      "url": "https://myome.com/about-us/careers?gh_jid=4458014009",
-      "postedAt": "2026-10-19T21:21:15.000Z",
-      "key": "myome:4458014009",
-      "company": "MyOme",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T21:30:21.603Z"
     },
     {
       "id": "R1002399",
