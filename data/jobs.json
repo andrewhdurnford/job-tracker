@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-18T01:00:26.985Z",
+  "generatedAt": "2026-11-18T01:10:18.838Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "vesta:82f995aa-103a-486a-b7a0-a9335b036455"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2188
+    "experienced": 2189
   },
   "companies": [
     {
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -5385,7 +5387,7 @@
     {
       "name": "Vesta",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "82f995aa-103a-486a-b7a0-a9335b036455",
+      "title": "Engineering Manager",
+      "location": "Remote (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/vesta/82f995aa-103a-486a-b7a0-a9335b036455",
+      "postedAt": "2026-11-18T01:04:32.168Z",
+      "key": "vesta:82f995aa-103a-486a-b7a0-a9335b036455",
+      "company": "Vesta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-18T01:10:18.838Z"
+    },
     {
       "id": "8396761",
       "title": "Senior Software Engineer",
