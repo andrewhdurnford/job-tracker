@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:10:20.892Z",
+  "generatedAt": "2026-11-18T13:20:19.373Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -617,10 +617,10 @@
     },
     {
       "name": "Bloom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Blueberry Pediatrics",
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2360,10 +2360,10 @@
     },
     {
       "name": "Included Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Inferact",
@@ -2656,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2668,31 +2668,31 @@
     },
     {
       "name": "LanceDB",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "LangChain",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Lassie",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Latent",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Lattice",
@@ -2717,59 +2717,59 @@
     },
     {
       "name": "Leona Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Lightdash",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Linear",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Lingo.dev",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Lio (formerly askLio)",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Listen Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "LiteLLM",
-      "ok": false,
+      "ok": true,
       "jobCount": 6,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "LiveFlow",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Living Carbon",
@@ -2780,10 +2780,10 @@
     },
     {
       "name": "LlamaIndex",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Lob",
@@ -2794,10 +2794,10 @@
     },
     {
       "name": "Loula",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "LTSE Services, Inc.",
@@ -2815,31 +2815,31 @@
     },
     {
       "name": "Lucis",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Luma AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Luminai",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Lumos",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Lyft",
@@ -2850,24 +2850,24 @@
     },
     {
       "name": "Mach9",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Magentic",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Magic Eden",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Magic Leap",
@@ -2878,17 +2878,17 @@
     },
     {
       "name": "Magic Patterns",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mariana Minerals",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Marqeta",
@@ -2906,16 +2906,16 @@
     },
     {
       "name": "Mastra",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2941,10 +2941,10 @@
     },
     {
       "name": "Mednet",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "network error: fetch failed",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Meesho",
@@ -4201,10 +4201,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Rilla",
@@ -5132,10 +5132,10 @@
     },
     {
       "name": "Tovala",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Town",
@@ -5671,10 +5671,10 @@
     },
     {
       "name": "Zippi",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zoom",
