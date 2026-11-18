@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-11-17T23:50:20.245Z",
+  "generatedAt": "2026-11-18T00:00:32.367Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "oscar:8386380"
+    "okta:8396722",
+    "openai:60f8bcbc-3ca5-42f4-a73b-e864a6340a16",
+    "spacex:8930994002",
+    "spacex:8949363002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2177
+    "experienced": 2181
   },
   "companies": [
     {
@@ -2224,7 +2227,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2658,7 +2661,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3469,7 +3472,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -3511,7 +3514,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 57,
+      "jobCount": 58,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 107,
+      "jobCount": 109,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8396722",
+      "title": "Senior Software Development Engineer in Test - Okta Identity Governance",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8396722?gh_jid=8396722",
+      "postedAt": "2026-11-17T23:59:10.000Z",
+      "key": "okta:8396722",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-18T00:00:32.367Z"
+    },
+    {
+      "id": "8930994002",
+      "title": "Site Reliability Engineer, Kubernetes ",
+      "location": "Memphis, TN",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8930994002?gh_jid=8930994002",
+      "postedAt": "2026-11-17T23:57:21.000Z",
+      "key": "spacex:8930994002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T00:00:32.367Z"
+    },
+    {
+      "id": "60f8bcbc-3ca5-42f4-a73b-e864a6340a16",
+      "title": "Full Stack Software Engineer, DotCom",
+      "location": "San Francisco (+1 more)",
+      "team": "Marketing",
+      "url": "https://jobs.ashbyhq.com/openai/60f8bcbc-3ca5-42f4-a73b-e864a6340a16",
+      "postedAt": "2026-11-17T23:57:20.997Z",
+      "key": "openai:60f8bcbc-3ca5-42f4-a73b-e864a6340a16",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T00:00:32.367Z"
+    },
+    {
+      "id": "8949363002",
+      "title": "Software Engineer (Starship)",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8949363002?gh_jid=8949363002",
+      "postedAt": "2026-11-17T23:51:49.000Z",
+      "key": "spacex:8949363002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T00:00:32.367Z"
+    },
     {
       "id": "8386380",
       "title": "Staff Data Engineer",
