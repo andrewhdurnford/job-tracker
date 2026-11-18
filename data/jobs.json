@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T16:20:21.060Z",
+  "generatedAt": "2026-11-18T16:30:24.438Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "affirm:8205742003",
-    "affirm:8205744003",
-    "withclutch:dcae43c0-c08e-46a9-acb2-77786d929990"
+    "anthropic:5483945008",
+    "cribl:6264458004",
+    "natera:6264933004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 14,
-    "experienced": 2185
+    "experienced": 2187
   },
   "companies": [
     {
@@ -307,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -595,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -938,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1231,7 +1231,7 @@
     {
       "name": "Cribl",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -1525,7 +1525,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -1778,7 +1778,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3247,7 +3247,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6264458004",
+      "title": "Staff Software Engineer, Search Core",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://cribl.io/job-detail/?gh_jid=6264458004",
+      "postedAt": "2026-11-18T16:28:52.000Z",
+      "key": "cribl:6264458004",
+      "company": "Cribl",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T16:30:24.438Z"
+    },
+    {
+      "id": "5483945008",
+      "title": "Applied AI Engineer, Commercial",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
+      "postedAt": "2026-11-18T16:26:55.000Z",
+      "key": "anthropic:5483945008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T16:30:24.438Z"
+    },
+    {
+      "id": "6264933004",
+      "title": "Software Quality Assurance Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6264933004",
+      "postedAt": "2026-11-18T16:24:21.000Z",
+      "key": "natera:6264933004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T16:30:24.438Z"
+    },
     {
       "id": "dcae43c0-c08e-46a9-acb2-77786d929990",
       "title": "Senior Implementation Engineer",
@@ -41628,22 +41676,6 @@
         "us"
       ],
       "firstSeen": "2026-10-19T16:40:18.453Z"
-    },
-    {
-      "id": "8285465",
-      "title": "Tech Lead, Web Development - Full Stack",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8285465&gh_jid=8285465",
-      "postedAt": "2026-10-19T16:22:21.000Z",
-      "key": "elastic:8285465",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T17:30:20.262Z"
     },
     {
       "id": "R1004018",
