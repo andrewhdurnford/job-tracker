@@ -1,14 +1,16 @@
 {
-  "generatedAt": "2026-11-18T04:50:17.662Z",
+  "generatedAt": "2026-11-18T05:00:26.299Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "airbnb:8360478"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 102,
+    "intern": 103,
     "new-grad": 14,
     "experienced": 2192
   },
@@ -114,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -792,10 +794,10 @@
     },
     {
       "name": "CaptivateIQ",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Capy",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8360478",
+      "title": "Software Engineering Intern (BS/MS)",
+      "location": "San Francisco, California",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+      "postedAt": "2026-11-18T05:00:14.000Z",
+      "key": "airbnb:8360478",
+      "company": "Airbnb",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T05:00:26.299Z"
+    },
     {
       "id": "251fe699-486d-4b3a-9886-28d568cf5436",
       "title": "IT Infrastructure Architect (Brownsville, TX)",
