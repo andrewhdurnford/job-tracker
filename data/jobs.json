@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-18T20:50:20.067Z",
+  "generatedAt": "2026-11-18T21:00:26.744Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "spacex:8949395002"
+    "temporal:a339af3a-0911-4f3e-b6ef-f5d362fc821a"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 94,
+    "intern": 93,
     "new-grad": 14,
     "experienced": 2177
   },
@@ -690,7 +690,7 @@
     {
       "name": "Braze",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -2063,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2224,7 +2224,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2658,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3232,7 +3232,7 @@
       "name": "Nansen",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3412,10 +3412,10 @@
     },
     {
       "name": "Nuro",
-      "ok": true,
+      "ok": false,
       "jobCount": 8,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "NUVACORE",
@@ -3944,10 +3944,10 @@
     },
     {
       "name": "Prospa",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Protege",
@@ -4105,10 +4105,10 @@
     },
     {
       "name": "Reddit",
-      "ok": true,
+      "ok": false,
       "jobCount": 19,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Redis",
@@ -4337,7 +4337,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4385,10 +4385,10 @@
     },
     {
       "name": "Security Scorecard",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Semgrep",
@@ -4595,10 +4595,10 @@
     },
     {
       "name": "Smartsheet",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Snackpass",
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 111,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5023,7 +5023,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5106,10 +5106,10 @@
     },
     {
       "name": "Toast",
-      "ok": true,
+      "ok": false,
       "jobCount": 14,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Together AI",
@@ -5687,10 +5687,10 @@
     },
     {
       "name": "Zscaler",
-      "ok": true,
+      "ok": false,
       "jobCount": 29,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zuma",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a339af3a-0911-4f3e-b6ef-f5d362fc821a",
+      "title": "Senior Software Engineer, IAM",
+      "location": "Seattle, Washington",
+      "team": "CAI",
+      "url": "https://jobs.ashbyhq.com/temporal/a339af3a-0911-4f3e-b6ef-f5d362fc821a",
+      "postedAt": "2026-11-18T20:50:35.285Z",
+      "key": "temporal:a339af3a-0911-4f3e-b6ef-f5d362fc821a",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T21:00:26.744Z"
+    },
     {
       "id": "8949395002",
       "title": "Software Engineer, Design Software (Starship)",
@@ -41263,38 +41279,6 @@
         "us"
       ],
       "firstSeen": "2026-10-19T21:20:20.407Z"
-    },
-    {
-      "id": "8301086",
-      "title": "Intern, Software Engineering",
-      "location": "New York City",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/braze/jobs/8301086",
-      "postedAt": "2026-10-19T20:55:44.000Z",
-      "key": "braze:8301086",
-      "company": "Braze",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T21:00:28.095Z"
-    },
-    {
-      "id": "8302004",
-      "title": "Senior AI Data & Analytics Engineer II",
-      "location": "Remote - Seattle",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8302004?gh_jid=8302004",
-      "postedAt": "2026-10-19T20:55:24.000Z",
-      "key": "samsara:8302004",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T21:00:28.095Z"
     },
     {
       "id": "R1002399",
