@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-18T22:50:18.876Z",
+  "generatedAt": "2026-11-18T23:00:27.352Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "okta:8360154",
-    "valaratomics:4510677009",
-    "valaratomics:4510605009"
+    "ServiceTitan:JR114907",
+    "thetradedesk:5293967007",
+    "thetradedesk:5294056007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 94,
     "new-grad": 14,
-    "experienced": 2191
+    "experienced": 2194
   },
   "companies": [
     {
@@ -1321,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2035,10 +2035,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -4436,10 +4436,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
-      "jobCount": 5,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "ok": true,
+      "jobCount": 6,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -5038,10 +5038,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 8,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Tennr",
@@ -5060,7 +5060,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5640,10 +5640,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zerocater",
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "JR114907",
+      "title": "AI Engineer (Agent OS Platform)",
+      "location": "US CA Remote",
+      "team": null,
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/en-US/ServiceTitan/job/US-CA-Remote/Senior-AI-Engineer--Agent-OS-Platform-_JR114907",
+      "postedAt": "2026-11-18T23:00:31.097Z",
+      "key": "ServiceTitan:JR114907",
+      "company": "ServiceTitan",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T23:00:27.352Z"
+    },
+    {
+      "id": "5293967007",
+      "title": "Senior Software Engineer - Marketplace Quality Engineering",
+      "location": "Bellevue",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5293967007",
+      "postedAt": "2026-11-18T22:55:28.000Z",
+      "key": "thetradedesk:5293967007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T23:00:27.352Z"
+    },
+    {
+      "id": "5294056007",
+      "title": "Staff Software Engineer - OpenPath",
+      "location": "Bellevue",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5294056007",
+      "postedAt": "2026-11-18T22:51:49.000Z",
+      "key": "thetradedesk:5294056007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T23:00:27.352Z"
+    },
     {
       "id": "8360154",
       "title": "Senior FullStack Software Engineer, Agent Gateway",
@@ -33951,7 +33999,7 @@
       "title": "Staff Software Engineer, Data ",
       "location": "Remote",
       "team": null,
-      "url": "http://stability.ai/careers?gh_jid=5018185101",
+      "url": "https://job-boards.eu.greenhouse.io/stabilityai/jobs/5018185101",
       "postedAt": "2026-10-27T22:36:23.000Z",
       "key": "stabilityai:5018185101",
       "company": "Stability AI",
