@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T09:10:19.266Z",
+  "generatedAt": "2026-11-18T09:20:19.258Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4635,10 +4635,10 @@
     },
     {
       "name": "Snowflake",
-      "ok": false,
+      "ok": true,
       "jobCount": 26,
-      "error": "response was not valid JSON",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Snyk",
