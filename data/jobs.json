@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-11-18T16:10:21.546Z",
+  "generatedAt": "2026-11-18T16:20:21.060Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "block:5485941008",
-    "cloudflare:8386246",
-    "doordashusa:8399363",
-    "traversal:70ca47a2-e1f9-4809-b725-18757e6e38ee"
+    "affirm:8205742003",
+    "affirm:8205744003",
+    "withclutch:dcae43c0-c08e-46a9-acb2-77786d929990"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 14,
-    "experienced": 2182
+    "experienced": 2185
   },
   "companies": [
     {
@@ -84,7 +83,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 44,
       "error": null,
       "stale": false
     },
@@ -596,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -939,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1022,7 +1021,7 @@
     {
       "name": "Clutch",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -1779,7 +1778,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2036,10 +2035,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -4696,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 109,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5705,8 +5704,56 @@
   ],
   "jobs": [
     {
+      "id": "dcae43c0-c08e-46a9-acb2-77786d929990",
+      "title": "Senior Implementation Engineer",
+      "location": "United States",
+      "team": "Technical Delivery",
+      "url": "https://jobs.ashbyhq.com/withclutch/dcae43c0-c08e-46a9-acb2-77786d929990",
+      "postedAt": "2026-11-18T16:12:11.295Z",
+      "key": "withclutch:dcae43c0-c08e-46a9-acb2-77786d929990",
+      "company": "Clutch",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T16:20:21.060Z"
+    },
+    {
+      "id": "8205744003",
+      "title": "Manager, Machine Learning Engineering",
+      "location": "Remote Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8205744003",
+      "postedAt": "2026-11-18T16:11:43.000Z",
+      "key": "affirm:8205744003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-18T16:20:21.060Z"
+    },
+    {
+      "id": "8205742003",
+      "title": "Manager, Machine Learning Engineering",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8205742003",
+      "postedAt": "2026-11-18T16:11:41.000Z",
+      "key": "affirm:8205742003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T16:20:21.060Z"
+    },
+    {
       "id": "8386246",
-      "title": "Systems Engineer, Zero Trust",
+      "title": "Systems Engineer, Data Loss Prevention",
       "location": "Austin, TX (+1 more)",
       "team": "Engineering",
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8386246?gh_jid=8386246",
