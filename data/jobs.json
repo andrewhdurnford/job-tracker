@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-18T22:40:18.797Z",
+  "generatedAt": "2026-11-18T22:50:18.876Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "netlify:8895506002"
+    "okta:8360154",
+    "valaratomics:4510677009",
+    "valaratomics:4510605009"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 94,
     "new-grad": 14,
-    "experienced": 2188
+    "experienced": 2191
   },
   "companies": [
     {
@@ -1319,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3469,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 114,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5036,10 +5038,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 8,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -5317,7 +5319,7 @@
     {
       "name": "Valar Atomics",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "8360154",
+      "title": "Senior FullStack Software Engineer, Agent Gateway",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8360154?gh_jid=8360154",
+      "postedAt": "2026-11-18T22:50:07.000Z",
+      "key": "okta:8360154",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-18T22:50:18.876Z"
+    },
+    {
+      "id": "4510605009",
+      "title": "Senior Infrastructure Security Engineer (Cloud & On-Prem) ",
+      "location": "Torrance, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4510605009",
+      "postedAt": "2026-11-18T22:47:05.000Z",
+      "key": "valaratomics:4510605009",
+      "company": "Valar Atomics",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T22:50:18.876Z"
+    },
+    {
+      "id": "4510677009",
+      "title": "AI Security Engineer (AppSec, Cloud & On-Premises) ",
+      "location": "Torrance, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/valaratomics/jobs/4510677009",
+      "postedAt": "2026-11-18T22:46:12.000Z",
+      "key": "valaratomics:4510677009",
+      "company": "Valar Atomics",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T22:50:18.876Z"
+    },
+    {
       "id": "8895506002",
       "title": "Staff Software Engineer (Interfaces)",
       "location": "Remote",
@@ -5799,7 +5849,7 @@
     },
     {
       "id": "8204090003",
-      "title": "Senior Systems Engineer",
+      "title": "Senior People Systems Engineer",
       "location": "Oakland, California, United States",
       "team": null,
       "url": "https://www.fivetran.com/careers/job?gh_jid=8204090003",
