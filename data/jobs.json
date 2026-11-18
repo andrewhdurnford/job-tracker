@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-18T17:20:23.584Z",
+  "generatedAt": "2026-11-18T17:29:50.684Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "snowflake:196f1cca-6ee6-4023-b2e7-9f8ba18d1dae"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 98,
     "new-grad": 14,
-    "experienced": 2181
+    "experienced": 2180
   },
   "companies": [
     {
@@ -863,7 +865,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1142,10 +1144,10 @@
     },
     {
       "name": "Contentsquare",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Conveo",
@@ -1464,10 +1466,10 @@
     },
     {
       "name": "Doxel",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Dropbox",
@@ -2108,10 +2110,10 @@
     },
     {
       "name": "H1",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "HackerRank",
@@ -3083,7 +3085,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3369,7 +3371,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4636,7 +4638,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "196f1cca-6ee6-4023-b2e7-9f8ba18d1dae",
+      "title": "Software Engineer - Customer Experience Engineering",
+      "location": "US-WA-Bellevue",
+      "team": "Global Support",
+      "url": "https://jobs.ashbyhq.com/snowflake/196f1cca-6ee6-4023-b2e7-9f8ba18d1dae",
+      "postedAt": "2026-11-18T17:27:08.482Z",
+      "key": "snowflake:196f1cca-6ee6-4023-b2e7-9f8ba18d1dae",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T17:29:50.684Z"
+    },
     {
       "id": "8301234",
       "title": "Principal Data Scientist, Creator",
@@ -12743,7 +12761,7 @@
     },
     {
       "id": "8917641002",
-      "title": "Engineering Manager, Quality & Developer Experience - LUS",
+      "title": "Engineering Manager, Developer Experience - LUS",
       "location": "Montreal, Canada",
       "team": null,
       "url": "https://app.careerpuck.com/job-board/lyft/job/8917641002?gh_jid=8917641002",
@@ -41445,22 +41463,6 @@
       "firstSeen": "2026-10-19T17:40:19.903Z"
     },
     {
-      "id": "8c0bf773-e536-45c9-9a6c-8ee478148cc8",
-      "title": "Software Engineer, Developer Platform",
-      "location": "San Francisco, California (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8",
-      "postedAt": "2026-10-19T17:28:06.956Z",
-      "key": "notion:8c0bf773-e536-45c9-9a6c-8ee478148cc8",
-      "company": "Notion",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T17:30:20.310Z"
-    },
-    {
       "id": "R172998",
       "title": "2027 Intern - AI & Architecture",
       "location": "San Jose",
@@ -41479,23 +41481,6 @@
         "us"
       ],
       "firstSeen": "2026-10-19T17:20:19.331Z"
-    },
-    {
-      "id": "08ffd14b-cb60-4916-9946-735e49594308",
-      "title": "AI Inference Core - Senior SDET, Release Integration Testing",
-      "location": "Sunnyvale, CA (+1 more)",
-      "team": "Inference Core",
-      "url": "https://jobs.ashbyhq.com/cerebras/08ffd14b-cb60-4916-9946-735e49594308",
-      "postedAt": "2026-10-19T17:20:23.739Z",
-      "key": "cerebras:08ffd14b-cb60-4916-9946-735e49594308",
-      "company": "Cerebras Systems",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-19T17:30:20.310Z"
     },
     {
       "id": "R172996",
