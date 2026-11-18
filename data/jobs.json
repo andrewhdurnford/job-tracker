@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T21:50:20.522Z",
+  "generatedAt": "2026-11-18T22:00:28.896Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "tripactions:8366332",
-    "tripactions:8395467"
+    "atlas:09d6d9f2-796f-4e82-9421-4a55f3fbe352",
+    "zip:78bd4b33-7b2d-432e-be08-97f7aa9fd641"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 14,
-    "experienced": 2183
+    "experienced": 2185
   },
   "companies": [
     {
@@ -453,7 +453,7 @@
     {
       "name": "Atlas",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4729,10 +4729,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5668,7 +5668,7 @@
     {
       "name": "Zip",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "78bd4b33-7b2d-432e-be08-97f7aa9fd641",
+      "title": "Staff Security Engineer, IT & InfoSec",
+      "location": "San Francisco (+1 more)",
+      "team": "Enterprise AI and Technology",
+      "url": "https://jobs.ashbyhq.com/zip/78bd4b33-7b2d-432e-be08-97f7aa9fd641",
+      "postedAt": "2026-11-18T21:57:13.702Z",
+      "key": "zip:78bd4b33-7b2d-432e-be08-97f7aa9fd641",
+      "company": "Zip",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T22:00:28.896Z"
+    },
+    {
+      "id": "09d6d9f2-796f-4e82-9421-4a55f3fbe352",
+      "title": "Web Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/atlas/09d6d9f2-796f-4e82-9421-4a55f3fbe352",
+      "postedAt": "2026-11-18T21:56:37.445Z",
+      "key": "atlas:09d6d9f2-796f-4e82-9421-4a55f3fbe352",
+      "company": "Atlas",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T22:00:28.896Z"
+    },
     {
       "id": "8395467",
       "title": "AI Forward Engineer",
