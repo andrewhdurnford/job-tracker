@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T21:30:22.738Z",
+  "generatedAt": "2026-11-18T21:40:28.069Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "astranis:4730093006",
-    "ramp:f90d32c1-7c10-4161-8913-075e1b423697"
+    "databricks:8950673002",
+    "upstart:8400676"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 14,
-    "experienced": 2181
+    "experienced": 2183
   },
   "companies": [
     {
@@ -193,10 +193,10 @@
     },
     {
       "name": "Alluxio",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Alpaca",
@@ -1293,7 +1293,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1320,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3049,10 +3049,10 @@
     },
     {
       "name": "Mindy",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mirage",
@@ -3588,10 +3588,10 @@
     },
     {
       "name": "Palantir",
-      "ok": false,
+      "ok": true,
       "jobCount": 13,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Paradigm",
@@ -5304,7 +5304,7 @@
     {
       "name": "Upstart",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8400676",
+      "title": "Senior Software Engineer, Home Lending",
+      "location": "United States | Remote",
+      "team": null,
+      "url": "https://careers.upstart.com/jobs?gh_jid=8400676",
+      "postedAt": "2026-11-18T21:34:16.000Z",
+      "key": "upstart:8400676",
+      "company": "Upstart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-18T21:40:28.069Z"
+    },
+    {
+      "id": "8950673002",
+      "title": "Staff Software Engineer - Threat and Abuse Defense",
+      "location": "Mountain View, California",
+      "team": null,
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002",
+      "postedAt": "2026-11-18T21:32:51.000Z",
+      "key": "databricks:8950673002",
+      "company": "Databricks",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T21:40:28.069Z"
+    },
     {
       "id": "4730093006",
       "title": "Systems Engineer, Omega",
@@ -9313,7 +9346,7 @@
     },
     {
       "id": "6254371004",
-      "title": "Senior Manager, Data Delivery Engineering",
+      "title": "Engineering Manager, Data Delivery",
       "location": "New York City, NY (Hybrid); San Francisco, CA (Hybrid)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6254371004",
