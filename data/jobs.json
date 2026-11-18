@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T13:20:19.373Z",
+  "generatedAt": "2026-11-18T13:30:26.707Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2186
+    "experienced": 2185
   },
   "companies": [
     {
@@ -617,10 +617,10 @@
     },
     {
       "name": "Bloom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Blueberry Pediatrics",
@@ -1045,7 +1045,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2360,10 +2360,10 @@
     },
     {
       "name": "Included Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inferact",
@@ -4201,10 +4201,10 @@
     },
     {
       "name": "Rigetti Quantum Computing",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Rilla",
@@ -5132,10 +5132,10 @@
     },
     {
       "name": "Tovala",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Town",
@@ -5671,10 +5671,10 @@
     },
     {
       "name": "Zippi",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zoom",
@@ -25257,23 +25257,6 @@
         "us"
       ],
       "firstSeen": "2026-10-31T16:40:22.131Z"
-    },
-    {
-      "id": "cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
-      "title": "Senior Security Engineer",
-      "location": "Toronto (+4 more)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/cohere/cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
-      "postedAt": "2026-10-31T15:33:10.669Z",
-      "key": "cohere:cb981ecd-a161-482c-8d8e-5f19bb6e7fdd",
-      "company": "Cohere",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-31T15:40:26.779Z"
     },
     {
       "id": "fb0b563a-e541-43fd-8555-9eb6473aaa11",
