@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-18T19:00:29.506Z",
+  "generatedAt": "2026-11-18T19:10:19.796Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "chainguard:4730616006",
+    "squarespace:8372277"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 14,
-    "experienced": 2173
+    "experienced": 2174
   },
   "companies": [
     {
@@ -877,7 +880,7 @@
     {
       "name": "Chainguard",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -983,7 +986,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3230,7 +3233,7 @@
       "name": "Nansen",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4636,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -4741,7 +4744,7 @@
     {
       "name": "Squarespace",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4826,7 +4829,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5699,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "4730616006",
+      "title": "Staff Developer Relations Engineer ",
+      "location": "United States - Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/chainguard/jobs/4730616006",
+      "postedAt": "2026-11-18T19:09:06.000Z",
+      "key": "chainguard:4730616006",
+      "company": "Chainguard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T19:10:19.796Z"
+    },
+    {
+      "id": "8372277",
+      "title": "Senior Security Engineer",
+      "location": "New York City; Remote",
+      "team": null,
+      "url": "http://www.squarespace.com/about/careers?gh_jid=8372277",
+      "postedAt": "2026-11-18T19:07:46.000Z",
+      "key": "squarespace:8372277",
+      "company": "Squarespace",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-18T19:10:19.796Z"
+    },
     {
       "id": "8396146",
       "title": "Staff Software Engineer - Privileged Access Management (PAM)",
@@ -41249,22 +41285,6 @@
         "us"
       ],
       "firstSeen": "2026-10-27T23:00:28.893Z"
-    },
-    {
-      "id": "46834516-7f0d-4b7d-be43-39c2852a9c83",
-      "title": "Staff Software Development - Full Stack",
-      "location": "US-CA-Dublin",
-      "team": "Enterprise Technology",
-      "url": "https://jobs.ashbyhq.com/snowflake/46834516-7f0d-4b7d-be43-39c2852a9c83",
-      "postedAt": "2026-10-19T19:03:44.917Z",
-      "key": "snowflake:46834516-7f0d-4b7d-be43-39c2852a9c83",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T19:10:16.998Z"
     },
     {
       "id": "R1003629",
