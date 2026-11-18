@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-18T18:00:28.596Z",
+  "generatedAt": "2026-11-18T18:10:19.347Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "nextdoor:8399912"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 98,
     "new-grad": 14,
-    "experienced": 2184
+    "experienced": 2182
   },
   "companies": [
     {
@@ -305,7 +303,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 42,
+      "jobCount": 41,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2033,10 +2031,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -2481,10 +2479,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "JFrog",
@@ -3623,7 +3621,7 @@
     {
       "name": "Pelago",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3797,10 +3795,10 @@
     },
     {
       "name": "Poll Everywhere",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Polymath",
@@ -3832,10 +3830,10 @@
     },
     {
       "name": "Porter",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "PostEra",
@@ -4693,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 109,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4931,10 +4929,10 @@
     },
     {
       "name": "Sysdig",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tacto",
@@ -5134,10 +5132,10 @@
     },
     {
       "name": "Tovala",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Town",
@@ -8248,7 +8246,7 @@
     },
     {
       "id": "8131089",
-      "title": "Software Engineer (L2)",
+      "title": "Software Engineer, (P2)",
       "location": "Remote - US",
       "team": null,
       "url": "https://job-boards.greenhouse.io/twilio/jobs/8131089",
@@ -9177,7 +9175,7 @@
     {
       "id": "4ee99986-77ad-4113-8058-891d5cc7284a",
       "title": "Staff Software Engineer, AI Foundations (Agent Optimization) ",
-      "location": "San Francisco, California (+1 more)",
+      "location": "San Francisco, California (+2 more)",
       "team": "AI Foundations",
       "url": "https://jobs.ashbyhq.com/temporal/4ee99986-77ad-4113-8058-891d5cc7284a",
       "postedAt": "2026-11-16T15:12:09.886Z",
@@ -25036,22 +25034,6 @@
       "firstSeen": "2026-11-02T18:50:22.151Z"
     },
     {
-      "id": "5281733007",
-      "title": "Sr. Analytics Engineer ",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/pelago/jobs/5281733007",
-      "postedAt": "2026-11-02T18:32:46.000Z",
-      "key": "pelago:5281733007",
-      "company": "Pelago",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-02T18:40:21.060Z"
-    },
-    {
       "id": "8287671",
       "title": "Senior Software Engineer in Test, Android",
       "location": "Toronto, Ontario, Canada",
@@ -33244,22 +33226,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T12:50:19.001Z"
-    },
-    {
-      "id": "5197211008",
-      "title": "Data Science Tech Lead Manager, Model Experience ",
-      "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197211008",
-      "postedAt": "2026-10-28T08:04:06.000Z",
-      "key": "anthropic:5197211008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T08:10:22.349Z"
     },
     {
       "id": "6acdd80a-3a1b-4701-a607-ca10d86c6847",
