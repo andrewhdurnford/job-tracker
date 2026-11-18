@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-18T00:40:25.712Z",
+  "generatedAt": "2026-11-18T00:50:22.566Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "okta:8385710",
-    "zip:9aea2627-bc0a-45ca-9255-e68e79a6e503",
-    "zip:0ddd5881-914f-4fe5-adeb-6b8a4cd66347"
+    "anthropic:5467893008",
+    "okta:8396761"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +13,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2187
+    "experienced": 2188
   },
   "companies": [
     {
@@ -307,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 41,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -3471,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4241,7 +4240,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 109,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5702,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8396761",
+      "title": "Senior Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8396761?gh_jid=8396761",
+      "postedAt": "2026-11-18T00:48:59.000Z",
+      "key": "okta:8396761",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-18T00:50:22.566Z"
+    },
     {
       "id": "8385710",
       "title": "Staff Software Engineer",
@@ -22987,6 +23002,22 @@
         "us"
       ],
       "firstSeen": "2026-11-03T18:50:31.121Z"
+    },
+    {
+      "id": "5467893008",
+      "title": "Machine Learning Data Scientist, Forecasting Platform",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
+      "postedAt": "2026-11-03T18:42:48.000Z",
+      "key": "anthropic:5467893008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T00:50:22.566Z"
     },
     {
       "id": "JR116359",
@@ -40502,22 +40533,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T01:30:19.985Z"
-    },
-    {
-      "id": "8094683",
-      "title": "Principal Software Engineer, Orchestration",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8094683?gh_jid=8094683",
-      "postedAt": "2026-10-20T01:15:11.000Z",
-      "key": "roblox:8094683",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T01:16:56.399Z"
     },
     {
       "id": "577560f5-e509-4ffe-9ff0-cbf71b64e954",
