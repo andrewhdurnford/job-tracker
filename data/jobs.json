@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:20:30.981Z",
+  "generatedAt": "2026-11-18T07:30:23.911Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
