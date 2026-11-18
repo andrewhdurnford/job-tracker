@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-18T16:30:24.438Z",
+  "generatedAt": "2026-11-18T16:40:32.838Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "anthropic:5483945008",
-    "cribl:6264458004",
-    "natera:6264933004"
+    "lyft:8950102002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 14,
-    "experienced": 2187
+    "experienced": 2186
   },
   "companies": [
     {
@@ -1160,10 +1158,10 @@
     },
     {
       "name": "Copia",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Cortex",
@@ -2848,7 +2846,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5165,7 +5163,7 @@
     {
       "name": "Traversal",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5423,10 +5421,10 @@
     },
     {
       "name": "Volta Labs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Vori",
@@ -5543,7 +5541,7 @@
     {
       "name": "Wiz",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8950102002",
+      "title": "Android Software Developer, Lyft Urban Solutions",
+      "location": "Montreal, Canada",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8950102002?gh_jid=8950102002",
+      "postedAt": "2026-11-18T16:32:08.000Z",
+      "key": "lyft:8950102002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-18T16:40:32.838Z"
+    },
     {
       "id": "6264458004",
       "title": "Staff Software Engineer, Search Core",
@@ -15062,7 +15076,7 @@
     },
     {
       "id": "eb496d6a-a960-43d3-a09b-e3843052f54e",
-      "title": "Software Engineer, Intern - Connectivity Platform and Product",
+      "title": "Software Engineer, Internship - Connectivity Platform and Product",
       "location": "Denver, CO",
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e",
@@ -21224,7 +21238,7 @@
     },
     {
       "id": "130ee501-bd22-4d44-b651-39581ef97743",
-      "title": "Software Engineer, Intern - Connectivity Platform and Product",
+      "title": "Software Engineer, Internship - Connectivity Platform and Product",
       "location": "New York, NY",
       "team": "Dev",
       "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743",
@@ -25184,7 +25198,7 @@
     {
       "id": "c6a90178-82d7-414e-ad74-69496b44d3c4",
       "title": "Engineering Manager - Frontend - Krak",
-      "location": "Canada (+9 more)",
+      "location": "Canada (+10 more)",
       "team": "Frontend",
       "url": "https://jobs.ashbyhq.com/kraken.com/c6a90178-82d7-414e-ad74-69496b44d3c4",
       "postedAt": "2026-11-02T13:18:57.157Z",
@@ -39826,22 +39840,6 @@
       "firstSeen": "2026-10-20T20:30:22.990Z"
     },
     {
-      "id": "eb92071c-71b2-4281-8d31-37cc0ecc457a",
-      "title": "Security Engineer",
-      "location": "New York",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/traversal/eb92071c-71b2-4281-8d31-37cc0ecc457a",
-      "postedAt": "2026-10-20T20:27:38.903Z",
-      "key": "traversal:eb92071c-71b2-4281-8d31-37cc0ecc457a",
-      "company": "Traversal",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T20:30:22.990Z"
-    },
-    {
       "id": "15367021-c2bc-4b1e-be1d-191fad9b8111",
       "title": "Senior Demand Generation Manager, B2B Software",
       "location": "Denver",
@@ -41656,22 +41654,6 @@
         "seasons": [],
         "year": 2027
       },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T16:40:18.453Z"
-    },
-    {
-      "id": "4719843006",
-      "title": "Manager of Applied AI, Solutions Support Engineering",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.wiz.io/careers/job/4719843006/:title?gh_jid=4719843006",
-      "postedAt": "2026-10-19T16:31:27.000Z",
-      "key": "wizinc:4719843006",
-      "company": "Wiz",
-      "level": "experienced",
-      "term": null,
       "regions": [
         "us"
       ],
