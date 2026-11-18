@@ -1,16 +1,18 @@
 {
-  "generatedAt": "2026-11-18T17:00:39.017Z",
+  "generatedAt": "2026-11-18T17:10:19.101Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "roblox:8301234"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 99,
+    "intern": 98,
     "new-grad": 14,
-    "experienced": 2183
+    "experienced": 2181
   },
   "companies": [
     {
@@ -1437,7 +1439,7 @@
     {
       "name": "Domino Data Lab",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -1689,7 +1691,7 @@
     {
       "name": "Fastly",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2445,7 +2447,7 @@
     {
       "name": "Inversion Space",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3333,10 +3335,10 @@
     },
     {
       "name": "Nimble Rx",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nira Energy",
@@ -3837,10 +3839,10 @@
     },
     {
       "name": "PostEra",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Postman",
@@ -4237,7 +4239,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 49,
+      "jobCount": 50,
       "error": null,
       "stale": false
     },
@@ -4586,10 +4588,10 @@
     },
     {
       "name": "Smartcuts",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Smartsheet",
@@ -4747,10 +4749,10 @@
     },
     {
       "name": "Squire Technologies",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Stability AI",
@@ -4826,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4929,10 +4931,10 @@
     },
     {
       "name": "Sysdig",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Tacto",
@@ -4985,10 +4987,10 @@
     },
     {
       "name": "Tecton",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tekton Dynamics",
@@ -5482,10 +5484,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Weave",
@@ -5616,7 +5618,7 @@
     {
       "name": "Zapier",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5671,10 +5673,10 @@
     },
     {
       "name": "Zippi",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zoom",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8301234",
+      "title": "Principal Data Scientist, Creator",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8301234?gh_jid=8301234",
+      "postedAt": "2026-11-18T17:08:38.000Z",
+      "key": "roblox:8301234",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T17:10:19.101Z"
+    },
     {
       "id": "8950102002",
       "title": "Android Software Developer, Lyft Urban Solutions",
@@ -11497,22 +11515,6 @@
       "postedAt": "2026-11-12T21:19:33.000Z",
       "key": "spacex:8940244002",
       "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-12T21:20:24.565Z"
-    },
-    {
-      "id": "8384124",
-      "title": "Security Support Engineer",
-      "location": "New York City, NY",
-      "team": null,
-      "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8384124",
-      "postedAt": "2026-11-12T21:19:27.000Z",
-      "key": "fastly:8384124",
-      "company": "Fastly",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -41496,60 +41498,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-19T17:30:20.310Z"
-    },
-    {
-      "id": "8301258",
-      "title": "Staff Software Engineer, Identity and Authorization",
-      "location": "Remote Canada",
-      "team": null,
-      "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/8301258?gh_jid=8301258",
-      "postedAt": "2026-10-19T17:09:36.000Z",
-      "key": "dominodatalab:8301258",
-      "company": "Domino Data Lab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-19T17:20:19.331Z"
-    },
-    {
-      "id": "904eb3dd-2cc0-48af-bb54-8ade5f7db686",
-      "title": "Sr. Engineer, Database Reliability",
-      "location": "NAMER (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/zapier/904eb3dd-2cc0-48af-bb54-8ade5f7db686",
-      "postedAt": "2026-10-19T17:05:01.058Z",
-      "key": "zapier:904eb3dd-2cc0-48af-bb54-8ade5f7db686",
-      "company": "Zapier",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T17:20:19.331Z"
-    },
-    {
-      "id": "4745083005",
-      "title": "Vehicle Software Engineer - Summer Internship 2027",
-      "location": "Playa Vista, California, United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005",
-      "postedAt": "2026-10-19T17:02:26.000Z",
-      "key": "inversionspace:4745083005",
-      "company": "Inversion Space",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T17:20:19.331Z"
     },
     {
       "id": "R172996",
