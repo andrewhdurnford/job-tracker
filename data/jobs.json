@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:20:19.174Z",
+  "generatedAt": "2026-11-18T11:30:24.446Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -2136,10 +2136,10 @@
     },
     {
       "name": "Handoff",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 502 Bad Gateway",
+      "stale": true
     },
     {
       "name": "Handshake",
