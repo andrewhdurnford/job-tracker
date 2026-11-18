@@ -1,15 +1,17 @@
 {
-  "generatedAt": "2026-11-18T23:40:19.618Z",
+  "generatedAt": "2026-11-18T23:50:19.472Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "thetradedesk:5301212007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 93,
-    "new-grad": 14,
+    "intern": 92,
+    "new-grad": 13,
     "experienced": 2192
   },
   "companies": [
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1703,7 +1705,7 @@
     {
       "name": "Figma",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -3586,7 +3588,7 @@
     {
       "name": "Palantir",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 114,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5056,7 +5058,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5301212007",
+      "title": "Systems Reliability Engineer ",
+      "location": "Boulder",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5301212007",
+      "postedAt": "2026-11-18T23:46:53.000Z",
+      "key": "thetradedesk:5301212007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T23:50:19.472Z"
+    },
     {
       "id": "6265527004",
       "title": "Staff Data Engineer",
@@ -41421,54 +41439,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T00:10:17.728Z"
-    },
-    {
-      "id": "da774f81-c98c-4dcf-9b9c-949fd7d90a13",
-      "title": "Software Engineer, Internship - Query Engines",
-      "location": "New York, NY",
-      "team": "Dev",
-      "url": "https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13",
-      "postedAt": "2026-10-19T23:47:38.809Z",
-      "key": "palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13",
-      "company": "Palantir",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T23:50:20.695Z"
-    },
-    {
-      "id": "90329118-d9b7-4b96-acdf-13377e3196ac",
-      "title": "Software Engineer, New Grad - Query Engines",
-      "location": "New York, NY",
-      "team": "Dev",
-      "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac",
-      "postedAt": "2026-10-19T23:45:22.249Z",
-      "key": "palantir:90329118-d9b7-4b96-acdf-13377e3196ac",
-      "company": "Palantir",
-      "level": "new-grad",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T23:50:20.695Z"
-    },
-    {
-      "id": "6138981004",
-      "title": "Manager, Software Engineering - AI Infrastructure",
-      "location": "San Francisco, CA • New York, NY • United States",
-      "team": null,
-      "url": "https://boards.greenhouse.io/figma/jobs/6138981004?gh_jid=6138981004",
-      "postedAt": "2026-10-19T23:44:50.000Z",
-      "key": "figma:6138981004",
-      "company": "Figma",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-19T23:50:20.695Z"
     },
     {
       "id": "R30387",
