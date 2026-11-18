@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-18T08:30:23.466Z",
+  "generatedAt": "2026-11-18T08:36:48.616Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "lio:cd43bf1d-099f-47a4-840c-a944587086a0"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -593,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1949,10 +1947,10 @@
     },
     {
       "name": "Gigs",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 404 Not Found",
+      "stale": true
     },
     {
       "name": "Ginkgo Bioworks",
