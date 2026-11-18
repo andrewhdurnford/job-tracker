@@ -1,20 +1,16 @@
 {
-  "generatedAt": "2026-11-18T23:00:27.352Z",
+  "generatedAt": "2026-11-18T23:10:19.674Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "ServiceTitan:JR114907",
-    "thetradedesk:5293967007",
-    "thetradedesk:5294056007"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 94,
+    "intern": 93,
     "new-grad": 14,
-    "experienced": 2194
+    "experienced": 2193
   },
   "companies": [
     {
@@ -1321,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2035,10 +2031,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -4241,7 +4237,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 50,
+      "jobCount": 49,
       "error": null,
       "stale": false
     },
@@ -4436,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 6,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -5256,7 +5252,7 @@
     {
       "name": "UiPath",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5640,10 +5636,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -17553,22 +17549,6 @@
       "key": "Capital One:R1005359",
       "company": "Capital One",
       "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T17:20:23.131Z"
-    },
-    {
-      "id": "4983eab7-099d-4c77-9a5a-8dde72084c04",
-      "title": "Software Engineer Intern",
-      "location": "Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/uipath/4983eab7-099d-4c77-9a5a-8dde72084c04",
-      "postedAt": "2026-11-09T17:14:47.358Z",
-      "key": "uipath:4983eab7-099d-4c77-9a5a-8dde72084c04",
-      "company": "UiPath",
-      "level": "intern",
       "term": null,
       "regions": [
         "us"
@@ -36899,22 +36879,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T19:17:28.087Z"
-    },
-    {
-      "id": "8261393",
-      "title": "Software Engineer, Notifications",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8261393?gh_jid=8261393",
-      "postedAt": "2026-10-23T19:02:33.000Z",
-      "key": "roblox:8261393",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T19:10:20.222Z"
     },
     {
       "id": "6b7da81b-ce7c-46bb-ab25-e2f9ab0d77f1",
