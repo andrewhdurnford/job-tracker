@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-18T00:20:19.332Z",
+  "generatedAt": "2026-11-18T00:30:34.674Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "hudu:d7176ac7-6324-4ad9-8c17-f37f6b4484fe"
+    "cursor:62dbe8b8-74d9-464e-b6f0-5370d79332bd"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 14,
-    "experienced": 2183
+    "experienced": 2184
   },
   "companies": [
     {
@@ -1278,7 +1278,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1655,10 +1655,10 @@
     },
     {
       "name": "Exowatt",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Factory",
@@ -4828,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 502 Bad Gateway",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "62dbe8b8-74d9-464e-b6f0-5370d79332bd",
+      "title": "Forward Deployed Engineering Partner Program Lead",
+      "location": "San Francisco, CA (+1 more)",
+      "team": "Forward Deployment",
+      "url": "https://jobs.ashbyhq.com/cursor/62dbe8b8-74d9-464e-b6f0-5370d79332bd",
+      "postedAt": "2026-11-18T00:20:46.940Z",
+      "key": "cursor:62dbe8b8-74d9-464e-b6f0-5370d79332bd",
+      "company": "Cursor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-18T00:30:34.674Z"
+    },
     {
       "id": "d7176ac7-6324-4ad9-8c17-f37f6b4484fe",
       "title": "Full Stack Rails Engineer",
