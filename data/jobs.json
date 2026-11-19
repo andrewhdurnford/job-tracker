@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-19T10:30:24.537Z",
+  "generatedAt": "2026-11-19T10:40:19.238Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "elastic:8352185",
+    "elastic:8227060"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2191
+    "experienced": 2193
   },
   "companies": [
     {
@@ -1429,10 +1432,10 @@
     },
     {
       "name": "Dolls Kill",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Domino Data Lab",
@@ -1521,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2222,7 +2225,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2773,10 +2776,10 @@
     },
     {
       "name": "Living Carbon",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "LlamaIndex",
@@ -3417,10 +3420,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nvidia",
@@ -4866,10 +4869,10 @@
     },
     {
       "name": "Supermove",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Superside",
@@ -5678,10 +5681,10 @@
     },
     {
       "name": "Zoom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zscaler",
@@ -23074,6 +23077,38 @@
         "us"
       ],
       "firstSeen": "2026-11-04T13:20:19.739Z"
+    },
+    {
+      "id": "8352185",
+      "title": "Senior Platform Productivity Engineer - Core/Infra - Elasticsearch",
+      "location": "Canada",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8352185&gh_jid=8352185",
+      "postedAt": "2026-11-04T09:17:57.000Z",
+      "key": "elastic:8352185",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-19T10:40:19.238Z"
+    },
+    {
+      "id": "8227060",
+      "title": "Senior Platform Productivity Engineer - Core/Infra - Elasticsearch",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8227060&gh_jid=8227060",
+      "postedAt": "2026-11-04T09:17:55.000Z",
+      "key": "elastic:8227060",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T10:40:19.238Z"
     },
     {
       "id": "4371e808-51f1-4c7a-a1ca-1819926a5c74",
