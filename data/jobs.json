@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:50:19.265Z",
+  "generatedAt": "2026-11-19T14:00:30.043Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 93,
+    "intern": 92,
     "new-grad": 13,
-    "experienced": 2191
+    "experienced": 2190
   },
   "companies": [
     {
@@ -1423,7 +1423,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2360,10 +2360,10 @@
     },
     {
       "name": "Included Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Inferact",
@@ -3585,10 +3585,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 11,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -4467,10 +4467,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Shiru",
@@ -5056,7 +5056,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zscaler",
@@ -41404,38 +41404,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T14:50:18.479Z"
-    },
-    {
-      "id": "30540",
-      "title": "Security Intern",
-      "location": "US-SFO-Main",
-      "team": "University",
-      "url": "https://uscareers-docusign.icims.com/jobs/30540/login",
-      "postedAt": "2026-10-20T13:53:00.000Z",
-      "key": "DocuSign:30540",
-      "company": "DocuSign",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T14:00:23.414Z"
-    },
-    {
-      "id": "5266643007",
-      "title": "Staff Software Engineer, VenturaOS - Content Discovery & Search",
-      "location": "Bellevue",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5266643007",
-      "postedAt": "2026-10-20T13:52:40.000Z",
-      "key": "thetradedesk:5266643007",
-      "company": "The Trade Desk",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T14:00:23.414Z"
     },
     {
       "id": "R30387",
