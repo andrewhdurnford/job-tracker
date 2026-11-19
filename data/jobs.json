@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T17:50:24.795Z",
+  "generatedAt": "2026-11-19T18:00:36.652Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "supabase:2184cfbd-927e-4d3c-b34a-f2301d3e8281"
+    "Procore:R0018643"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2196
+    "experienced": 2193
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3888,10 +3888,10 @@
     },
     {
       "name": "Procore",
-      "ok": false,
-      "jobCount": 16,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "ok": true,
+      "jobCount": 17,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Prodigal",
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 115,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4974,7 +4974,7 @@
     {
       "name": "Tanium",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5688,7 +5688,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 29,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -6528,22 +6528,6 @@
       "postedAt": "2026-11-18T22:21:47.795Z",
       "key": "etched:4020db7a-1ec0-48e3-9bbd-f1337c63a403",
       "company": "Etched",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-18T22:30:32.095Z"
-    },
-    {
-      "id": "8335066",
-      "title": "Security Engineer",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/tanium/jobs/8335066",
-      "postedAt": "2026-11-18T22:20:42.000Z",
-      "key": "tanium:8335066",
-      "company": "Tanium",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -8529,6 +8513,22 @@
         "canada"
       ],
       "firstSeen": "2026-11-17T18:10:21.887Z"
+    },
+    {
+      "id": "R0018643",
+      "title": "Senior/Staff 3D Reconstruction Engineer, Spatial AI – DroneDeploy",
+      "location": "US - California - San Francisco",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---California---San-Francisco/XMLNAME-3D-Computer-Vision-Engineer---DroneDeploy--Senior-_R0018643",
+      "postedAt": "2026-11-17T18:00:40.178Z",
+      "key": "Procore:R0018643",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T18:00:36.652Z"
     },
     {
       "id": "ec23e694-6716-450d-bfbb-276ca8da3d1c",
@@ -41375,54 +41375,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T18:20:23.491Z"
-    },
-    {
-      "id": "5200278007",
-      "title": "Staff Site Reliability Engineer-Federal, Security Clearance",
-      "location": "Crystal City, Virginia, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5200278007",
-      "postedAt": "2026-10-20T17:56:46.000Z",
-      "key": "zscaler:5200278007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T18:00:24.371Z"
-    },
-    {
-      "id": "5255854007",
-      "title": "Principal Software Engineer - Intelligent Data Platform",
-      "location": "Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5255854007",
-      "postedAt": "2026-10-20T17:53:52.000Z",
-      "key": "zscaler:5255854007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T20:50:22.768Z"
-    },
-    {
-      "id": "5200385007",
-      "title": "Sr. Site Reliability Engineer-Federal, Security Clearance",
-      "location": "Crystal City, Virginia, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5200385007",
-      "postedAt": "2026-10-20T17:53:12.000Z",
-      "key": "zscaler:5200385007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T18:00:24.371Z"
     },
     {
       "id": "R30377",
