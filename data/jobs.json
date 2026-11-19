@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-19T18:40:19.177Z",
+  "generatedAt": "2026-11-19T18:50:19.440Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "airbnb:8400808"
+    "grafanalabs:6266531004",
+    "grafanalabs:6266529004",
+    "natera:6261258004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2196
+    "experienced": 2198
   },
   "companies": [
     {
@@ -1054,7 +1056,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2055,7 +2057,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -3245,7 +3247,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6266531004",
+      "title": "Senior Engineering Manager, Grafana Data Visualization | Canada | Remote",
+      "location": "Canada (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6266531004",
+      "postedAt": "2026-11-19T18:49:39.000Z",
+      "key": "grafanalabs:6266531004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-19T18:50:19.440Z"
+    },
+    {
+      "id": "6266529004",
+      "title": "Senior Engineering Manager, Grafana Data Visualization | USA | Remote",
+      "location": "United States (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6266529004",
+      "postedAt": "2026-11-19T18:48:01.000Z",
+      "key": "grafanalabs:6266529004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T18:50:19.440Z"
+    },
     {
       "id": "8400808",
       "title": "Senior Android Engineer, App Experience & Frameworks",
@@ -11735,6 +11769,22 @@
         "remote"
       ],
       "firstSeen": "2026-11-13T19:40:19.497Z"
+    },
+    {
+      "id": "6261258004",
+      "title": "Senior Software Engineer",
+      "location": "US Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6261258004",
+      "postedAt": "2026-11-13T19:23:00.000Z",
+      "key": "natera:6261258004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T18:50:19.440Z"
     },
     {
       "id": "R1005818",
@@ -41376,22 +41426,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T19:20:16.875Z"
-    },
-    {
-      "id": "8304038",
-      "title": "Software Engineer - Crypto Data Foundations",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038",
-      "postedAt": "2026-10-20T18:42:39.000Z",
-      "key": "coinbase:8304038",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T18:50:21.558Z"
     },
     {
       "id": "R1004164",
