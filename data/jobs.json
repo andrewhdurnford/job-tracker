@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T15:50:20.383Z",
+  "generatedAt": "2026-11-19T16:00:27.504Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "1password:3bacd3c1-45d1-4337-a11b-a21569a51148",
-    "chainguard:4730875006"
+    "baseten:fddec35f-9dbc-4344-b1df-b8ff6e05472a",
+    "notion:0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,13 +13,13 @@
   "levelCounts": {
     "intern": 92,
     "new-grad": 13,
-    "experienced": 2198
+    "experienced": 2199
   },
   "companies": [
     {
       "name": "1Password",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -523,7 +523,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -795,10 +795,10 @@
     },
     {
       "name": "CaptivateIQ",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Capy",
@@ -2659,7 +2659,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2743,7 +2743,7 @@
       "name": "Lingo.dev",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2918,7 +2918,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3372,7 +3372,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5359,10 +5359,10 @@
     },
     {
       "name": "Verifiable",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Veritus",
@@ -5703,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "fddec35f-9dbc-4344-b1df-b8ff6e05472a",
+      "title": "Software Engineer - Inference Product",
+      "location": "San Francisco (+1 more)",
+      "team": "Inference",
+      "url": "https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a",
+      "postedAt": "2026-11-19T15:54:23.481Z",
+      "key": "baseten:fddec35f-9dbc-4344-b1df-b8ff6e05472a",
+      "company": "Baseten",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T16:00:27.504Z"
+    },
+    {
+      "id": "0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f",
+      "title": "Software Engineer, Collections Infra",
+      "location": "San Francisco, California",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f",
+      "postedAt": "2026-11-19T15:52:34.202Z",
+      "key": "notion:0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f",
+      "company": "Notion",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T16:00:27.504Z"
+    },
+    {
       "id": "4730875006",
       "title": "Developer Outreach Lead",
       "location": "United States - Remote",
@@ -5715,23 +5747,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-11-19T15:50:20.383Z"
-    },
-    {
-      "id": "3bacd3c1-45d1-4337-a11b-a21569a51148",
-      "title": "Staff Content Developer",
-      "location": "Remote (United States | Canada)",
-      "team": "CX Customer Engagement",
-      "url": "https://jobs.ashbyhq.com/1password/3bacd3c1-45d1-4337-a11b-a21569a51148",
-      "postedAt": "2026-11-19T15:42:51.456Z",
-      "key": "1password:3bacd3c1-45d1-4337-a11b-a21569a51148",
-      "company": "1Password",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
       ],
       "firstSeen": "2026-11-19T15:50:20.383Z"
     },
