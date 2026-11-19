@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T18:00:36.652Z",
+  "generatedAt": "2026-11-19T18:10:20.873Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "Procore:R0018643"
+    "ramp:da40ed6e-1c32-4284-89f5-2ad0813b8d49"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2193
+    "experienced": 2194
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3888,10 +3888,10 @@
     },
     {
       "name": "Procore",
-      "ok": true,
+      "ok": false,
       "jobCount": 17,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Prodigal",
@@ -4036,7 +4036,7 @@
     {
       "name": "Ramp",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4728,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "da40ed6e-1c32-4284-89f5-2ad0813b8d49",
+      "title": "Software Engineer, Production Engineering, FinOps",
+      "location": "New York, NY (HQ)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49",
+      "postedAt": "2026-11-19T18:02:36.287Z",
+      "key": "ramp:da40ed6e-1c32-4284-89f5-2ad0813b8d49",
+      "company": "Ramp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T18:10:20.873Z"
+    },
     {
       "id": "2184cfbd-927e-4d3c-b34a-f2301d3e8281",
       "title": "Software Engineer - Postgres Tooling",
