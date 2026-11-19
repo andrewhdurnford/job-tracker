@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-11-19T21:30:23.793Z",
+  "generatedAt": "2026-11-19T21:40:19.650Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "verkada:5302617007",
-    "verkada:5302623007",
-    "verkada:5302630007",
-    "verkada:5302631007",
-    "verkada:5302618007"
+    "snowflake:185d165c-09c7-4b57-9281-ff7c2c541907",
+    "snowflake:0223923d-4f0f-44e6-9649-0d1a9eda950d",
+    "snowflake:e194759e-3a20-47c9-868d-f47179613897",
+    "temporal:ba01bd3a-2b66-4fbb-b33c-8e0ac684df9a"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 92,
+    "intern": 95,
     "new-grad": 12,
     "experienced": 2194
   },
@@ -4250,7 +4249,7 @@
     {
       "name": "Roboflow",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4642,7 +4641,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5027,7 +5026,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -5705,6 +5704,88 @@
     }
   ],
   "jobs": [
+    {
+      "id": "ba01bd3a-2b66-4fbb-b33c-8e0ac684df9a",
+      "title": "Senior Software Engineer, Compute (Temporal Cloud)",
+      "location": "United States (Remote)",
+      "team": "Compute",
+      "url": "https://jobs.ashbyhq.com/temporal/ba01bd3a-2b66-4fbb-b33c-8e0ac684df9a",
+      "postedAt": "2026-11-19T21:39:19.438Z",
+      "key": "temporal:ba01bd3a-2b66-4fbb-b33c-8e0ac684df9a",
+      "company": "Temporal",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T21:40:19.650Z"
+    },
+    {
+      "id": "e194759e-3a20-47c9-868d-f47179613897",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
+      "postedAt": "2026-11-19T21:36:05.815Z",
+      "key": "snowflake:e194759e-3a20-47c9-868d-f47179613897",
+      "company": "Snowflake",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T21:40:19.650Z"
+    },
+    {
+      "id": "185d165c-09c7-4b57-9281-ff7c2c541907",
+      "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
+      "postedAt": "2026-11-19T21:34:53.479Z",
+      "key": "snowflake:185d165c-09c7-4b57-9281-ff7c2c541907",
+      "company": "Snowflake",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T21:40:19.650Z"
+    },
+    {
+      "id": "0223923d-4f0f-44e6-9649-0d1a9eda950d",
+      "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
+      "postedAt": "2026-11-19T21:33:52.400Z",
+      "key": "snowflake:0223923d-4f0f-44e6-9649-0d1a9eda950d",
+      "company": "Snowflake",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T21:40:19.650Z"
+    },
     {
       "id": "5302631007",
       "title": "Senior Frontend Engineer - Web Platform",
@@ -41248,23 +41329,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-20T22:00:27.669Z"
-    },
-    {
-      "id": "4805afd6-8e01-4cc8-bad1-3ac46c24d8f6",
-      "title": "IT Operations Engineer",
-      "location": "NY, SF or Remote ",
-      "team": "Infrastructure",
-      "url": "https://jobs.ashbyhq.com/roboflow/4805afd6-8e01-4cc8-bad1-3ac46c24d8f6",
-      "postedAt": "2026-10-20T21:34:58.146Z",
-      "key": "roboflow:4805afd6-8e01-4cc8-bad1-3ac46c24d8f6",
-      "company": "Roboflow",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-10-20T21:40:16.851Z"
     },
     {
       "id": "R1003405",
