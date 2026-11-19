@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-19T22:10:23.216Z",
+  "generatedAt": "2026-11-19T22:20:26.387Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "okta:8359838"
+    "okta:8359919",
+    "okta:8359861"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 12,
-    "experienced": 2198
+    "experienced": 2195
   },
   "companies": [
     {
@@ -1278,7 +1279,7 @@
     {
       "name": "Cursor",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1586,7 +1587,7 @@
     {
       "name": "Engram",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3245,7 +3246,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -3469,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 30,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 115,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4924,10 +4925,10 @@
     },
     {
       "name": "Synapticure",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sysdig",
@@ -5702,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "8359919",
+      "title": "Principal Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8359919?gh_jid=8359919",
+      "postedAt": "2026-11-19T22:17:20.000Z",
+      "key": "okta:8359919",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-19T22:20:26.387Z"
+    },
+    {
+      "id": "8359861",
+      "title": "Senior Software Engineer in Test",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8359861?gh_jid=8359861",
+      "postedAt": "2026-11-19T22:11:28.000Z",
+      "key": "okta:8359861",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-19T22:20:26.387Z"
+    },
+    {
       "id": "8359838",
       "title": "Senior Software Engineer in Test",
       "location": "Toronto, ON, Canada",
@@ -6248,22 +6281,6 @@
         "us"
       ],
       "firstSeen": "2026-11-19T18:30:35.443Z"
-    },
-    {
-      "id": "6250690004",
-      "title": "Software Engineer III",
-      "location": "Austin, TX",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6250690004",
-      "postedAt": "2026-11-19T18:17:32.000Z",
-      "key": "natera:6250690004",
-      "company": "Natera",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-19T18:20:19.979Z"
     },
     {
       "id": "d0c71974-3e7c-4080-ad97-7f3c7241fb48",
@@ -7035,22 +7052,6 @@
         "us"
       ],
       "firstSeen": "2026-11-18T23:00:27.352Z"
-    },
-    {
-      "id": "8360154",
-      "title": "Senior FullStack Software Engineer, Agent Gateway",
-      "location": "Toronto, ON, Canada",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8360154?gh_jid=8360154",
-      "postedAt": "2026-11-18T22:50:07.000Z",
-      "key": "okta:8360154",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-18T22:50:18.876Z"
     },
     {
       "id": "4510605009",
@@ -17754,22 +17755,6 @@
       "firstSeen": "2026-11-10T00:50:18.478Z"
     },
     {
-      "id": "c1910b91-6b48-4faa-83ac-fd8025dd46e7",
-      "title": "Sr. Software Engineer, ML Platform",
-      "location": "Palo Alto, CA",
-      "team": "Machine Learning",
-      "url": "https://jobs.ashbyhq.com/cursor/c1910b91-6b48-4faa-83ac-fd8025dd46e7",
-      "postedAt": "2026-11-10T00:37:33.955Z",
-      "key": "cursor:c1910b91-6b48-4faa-83ac-fd8025dd46e7",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T08:00:30.302Z"
-    },
-    {
       "id": "dc69aeae-9cc4-4c57-aeab-560a8bc62d97",
       "title": "Sr. Model Engineer, RL Data",
       "location": "Palo Alto, CA",
@@ -17800,22 +17785,6 @@
         "us"
       ],
       "firstSeen": "2026-11-10T07:50:21.211Z"
-    },
-    {
-      "id": "5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
-      "title": "Software Engineer, ML Platform",
-      "location": "Palo Alto, CA",
-      "team": "Machine Learning",
-      "url": "https://jobs.ashbyhq.com/cursor/5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
-      "postedAt": "2026-11-10T00:19:31.394Z",
-      "key": "cursor:5b744208-cb2c-4c31-9217-e0cbbf8ad7af",
-      "company": "Cursor",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T00:20:20.445Z"
     },
     {
       "id": "438ff4ff-2bdc-4e43-97bb-98e289694f8c",
@@ -41374,22 +41343,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T22:40:16.426Z"
-    },
-    {
-      "id": "3f41d270-fb50-41f0-a676-b8ebdc6faaa0",
-      "title": "Infrastructure & Security Engineer",
-      "location": "San Francisco",
-      "team": "Member of Technical Staff",
-      "url": "https://jobs.ashbyhq.com/engram/3f41d270-fb50-41f0-a676-b8ebdc6faaa0",
-      "postedAt": "2026-10-20T22:12:57.737Z",
-      "key": "engram:3f41d270-fb50-41f0-a676-b8ebdc6faaa0",
-      "company": "Engram",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T22:20:17.318Z"
     },
     {
       "id": "R1003405",
