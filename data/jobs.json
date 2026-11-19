@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-19T14:00:30.043Z",
+  "generatedAt": "2026-11-19T14:10:18.665Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "cloudflare:8384364"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 92,
     "new-grad": 13,
-    "experienced": 2190
+    "experienced": 2191
   },
   "companies": [
     {
@@ -1010,7 +1012,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -2360,10 +2362,10 @@
     },
     {
       "name": "Included Health",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Inferact",
@@ -3585,10 +3587,10 @@
     },
     {
       "name": "Palantir",
-      "ok": false,
+      "ok": true,
       "jobCount": 11,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Paradigm",
@@ -4467,10 +4469,10 @@
     },
     {
       "name": "Shield AI",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Shiru",
@@ -5678,10 +5680,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8384364",
+      "title": "Head of Zero Day Engineering",
+      "location": "Austin, TX (+1 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8384364?gh_jid=8384364",
+      "postedAt": "2026-11-19T14:00:48.000Z",
+      "key": "cloudflare:8384364",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T14:10:18.665Z"
+    },
     {
       "id": "5486493008",
       "title": "Senior Full Stack Software Developer -FedRAMP",
