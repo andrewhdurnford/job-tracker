@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-19T16:40:20.683Z",
+  "generatedAt": "2026-11-19T16:50:19.358Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "pinterest:8346516"
+    "northwoodspace:de197d91-2fd9-45e8-ab91-9c782efef350",
+    "nubank:40f50e46-8f43-4460-99ee-a6de0a128079"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 92,
     "new-grad": 13,
-    "experienced": 2199
+    "experienced": 2196
   },
   "companies": [
     {
@@ -2489,7 +2490,7 @@
     {
       "name": "JFrog",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3357,7 +3358,7 @@
     {
       "name": "Northwood Space",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3399,7 +3400,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4463,7 +4464,7 @@
     {
       "name": "Shepherd",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5680,10 +5681,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "40f50e46-8f43-4460-99ee-a6de0a128079",
+      "title": "Senior Cloud Network Engineer ",
+      "location": "Palo Alto (+1 more)",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/40f50e46-8f43-4460-99ee-a6de0a128079",
+      "postedAt": "2026-11-19T16:48:34.776Z",
+      "key": "nubank:40f50e46-8f43-4460-99ee-a6de0a128079",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T16:50:19.358Z"
+    },
+    {
+      "id": "de197d91-2fd9-45e8-ab91-9c782efef350",
+      "title": "Forward Deployed Engineer",
+      "location": "Washington D.C. (+1 more)",
+      "team": "Mission Management",
+      "url": "https://jobs.ashbyhq.com/northwoodspace/de197d91-2fd9-45e8-ab91-9c782efef350",
+      "postedAt": "2026-11-19T16:46:27.461Z",
+      "key": "northwoodspace:de197d91-2fd9-45e8-ab91-9c782efef350",
+      "company": "Northwood Space",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T16:50:19.358Z"
+    },
     {
       "id": "8346516",
       "title": "Staff Machine Learning Engineer, Homefeed & Search Quality ",
@@ -41391,86 +41424,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T17:00:28.004Z"
-    },
-    {
-      "id": "8286457",
-      "title": "Professional Services DevOps Architect ",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://join.jfrog.com/job/?job=8286457&gh_jid=8286457",
-      "postedAt": "2026-10-20T16:47:23.000Z",
-      "key": "jfrog:8286457",
-      "company": "JFrog",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T16:50:19.063Z"
-    },
-    {
-      "id": "395f4b75-cf05-4581-8408-8f4fe0f1480b",
-      "title": "Software Engineer, Backend",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/shepherd/395f4b75-cf05-4581-8408-8f4fe0f1480b",
-      "postedAt": "2026-10-20T16:45:21.829Z",
-      "key": "shepherd:395f4b75-cf05-4581-8408-8f4fe0f1480b",
-      "company": "Shepherd",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T16:50:19.063Z"
-    },
-    {
-      "id": "6cbab29e-1bbf-42b4-9308-3823693ca288",
-      "title": "Software Engineer, AI Product + Agents",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/shepherd/6cbab29e-1bbf-42b4-9308-3823693ca288",
-      "postedAt": "2026-10-20T16:45:12.481Z",
-      "key": "shepherd:6cbab29e-1bbf-42b4-9308-3823693ca288",
-      "company": "Shepherd",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T16:50:19.063Z"
-    },
-    {
-      "id": "26959124-aab2-446e-aa4d-7265c83e0be5",
-      "title": "Software Engineer, Applied AI",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/shepherd/26959124-aab2-446e-aa4d-7265c83e0be5",
-      "postedAt": "2026-10-20T16:45:08.466Z",
-      "key": "shepherd:26959124-aab2-446e-aa4d-7265c83e0be5",
-      "company": "Shepherd",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T16:50:19.063Z"
-    },
-    {
-      "id": "c4081c3d-a79b-4ac9-aa19-78f5e1a24c4d",
-      "title": "Software Engineer, Full Stack",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/shepherd/c4081c3d-a79b-4ac9-aa19-78f5e1a24c4d",
-      "postedAt": "2026-10-20T16:45:02.170Z",
-      "key": "shepherd:c4081c3d-a79b-4ac9-aa19-78f5e1a24c4d",
-      "company": "Shepherd",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T16:50:19.063Z"
     },
     {
       "id": "09fb47fc-39e0-4fca-9bff-5d19d43f5a44",
