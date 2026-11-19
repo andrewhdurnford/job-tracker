@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-11-19T22:50:19.048Z",
+  "generatedAt": "2026-11-19T23:00:28.207Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "cerebras:2928d88c-d048-4854-9e69-7572113b036c",
-    "stripe:8346831",
-    "stripe:8346778"
+    "lucidmotors:5290911007",
+    "spacex:8953433002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 95,
+    "intern": 96,
     "new-grad": 12,
-    "experienced": 2199
+    "experienced": 2200
   },
   "companies": [
     {
@@ -595,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -861,7 +860,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -938,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1321,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2813,7 +2812,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4436,10 +4435,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -4696,7 +4695,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 115,
+      "jobCount": 116,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5290911007",
+      "title": "Intern, Software Engineer, SDET, Summer 2027",
+      "location": "Newark, CA",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007",
+      "postedAt": "2026-11-19T22:57:36.000Z",
+      "key": "lucidmotors:5290911007",
+      "company": "Lucid Motors",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T23:00:28.207Z"
+    },
+    {
+      "id": "8953433002",
+      "title": "Launch Reliability Engineer (Starship)",
+      "location": "Cape Canaveral, FL",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8953433002?gh_jid=8953433002",
+      "postedAt": "2026-11-19T22:56:14.000Z",
+      "key": "spacex:8953433002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T23:00:28.207Z"
+    },
     {
       "id": "2928d88c-d048-4854-9e69-7572113b036c",
       "title": "Design for Reliability Engineer",
