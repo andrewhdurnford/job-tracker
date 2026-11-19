@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-19T19:50:19.443Z",
+  "generatedAt": "2026-11-19T20:00:27.502Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "komodohealth:8929044002"
+    "boxinc:8403469",
+    "elastic:8249255",
+    "thetradedesk:5294061007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -676,7 +678,7 @@
     {
       "name": "Box",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1523,7 +1525,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -2419,7 +2421,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4239,7 +4241,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 48,
+      "jobCount": 47,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5058,7 +5060,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8403469",
+      "title": "Senior Machine Learning Engineer, Shield",
+      "location": "Redwood City, CA, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/boxinc/jobs/8403469",
+      "postedAt": "2026-11-19T19:58:31.000Z",
+      "key": "boxinc:8403469",
+      "company": "Box",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T20:00:27.502Z"
+    },
+    {
+      "id": "5294061007",
+      "title": "Senior Software Engineer - Pacing & Experimentation",
+      "location": "New York",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5294061007",
+      "postedAt": "2026-11-19T19:57:38.000Z",
+      "key": "thetradedesk:5294061007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T20:00:27.502Z"
+    },
     {
       "id": "8403407",
       "title": "Senior Forward Deployed Data Scientist",
@@ -39834,6 +39868,22 @@
       "firstSeen": "2026-10-21T21:50:16.798Z"
     },
     {
+      "id": "8249255",
+      "title": "Senior Software Engineer - Platform Billing Core",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8249255&gh_jid=8249255",
+      "postedAt": "2026-10-21T21:44:39.000Z",
+      "key": "elastic:8249255",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T20:00:27.502Z"
+    },
+    {
       "id": "8039471003",
       "title": "Analyst, Early Career (Full Stack)",
       "location": "New York, New York, United States; San Francisco, California, United States",
@@ -41308,54 +41358,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T20:10:17.593Z"
-    },
-    {
-      "id": "8304279",
-      "title": "Senior Software Engineer II - Enterprise Foundations",
-      "location": "United States - Remote",
-      "team": null,
-      "url": "https://instacart.careers/job/?gh_jid=8304279",
-      "postedAt": "2026-10-20T20:00:23.000Z",
-      "key": "instacart:8304279",
-      "company": "Instacart",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T20:10:17.593Z"
-    },
-    {
-      "id": "22e84b77-4bc4-4a31-99fb-f325ed9a9590",
-      "title": "Principal Software Engineer - Parameters & Experimentation",
-      "location": "US-CA-Menlo Park",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/22e84b77-4bc4-4a31-99fb-f325ed9a9590",
-      "postedAt": "2026-10-20T19:59:04.700Z",
-      "key": "snowflake:22e84b77-4bc4-4a31-99fb-f325ed9a9590",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T20:00:24.843Z"
-    },
-    {
-      "id": "8287853",
-      "title": "Senior Software Engineer, Realtime Analytics Platform",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8287853?gh_jid=8287853",
-      "postedAt": "2026-10-20T19:54:32.000Z",
-      "key": "roblox:8287853",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T20:00:24.843Z"
     },
     {
       "id": "R1004185",
