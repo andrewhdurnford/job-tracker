@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-19T11:00:39.277Z",
+  "generatedAt": "2026-11-19T11:10:27.551Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "revenuecat:edcc931f-acd1-49ee-9b58-207cdcf31b43"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2193
+    "experienced": 2194
   },
   "companies": [
     {
@@ -792,10 +794,10 @@
     },
     {
       "name": "CaptivateIQ",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Capy",
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3046,10 +3048,10 @@
     },
     {
       "name": "Mindy",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mirage",
@@ -4133,7 +4135,7 @@
       "name": "Remitly",
       "ok": false,
       "jobCount": 20,
-      "error": "network error: fetch failed",
+      "error": "HTTP 429 Too Many Requests",
       "stale": true
     },
     {
@@ -4181,7 +4183,7 @@
     {
       "name": "RevenueCat",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "edcc931f-acd1-49ee-9b58-207cdcf31b43",
+      "title": "Developer Support Engineer",
+      "location": "Americas (+2 more)",
+      "team": "Support Engineering",
+      "url": "https://jobs.ashbyhq.com/revenuecat/edcc931f-acd1-49ee-9b58-207cdcf31b43",
+      "postedAt": "2026-11-19T11:05:08.335Z",
+      "key": "revenuecat:edcc931f-acd1-49ee-9b58-207cdcf31b43",
+      "company": "RevenueCat",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T11:10:27.551Z"
+    },
     {
       "id": "8398779",
       "title": "Software Engineer, Data Primitives",
