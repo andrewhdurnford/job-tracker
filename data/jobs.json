@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:40:19.036Z",
+  "generatedAt": "2026-11-19T08:50:31.587Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -5482,10 +5482,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Weave",
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
