@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-19T17:40:19.510Z",
+  "generatedAt": "2026-11-19T17:50:24.795Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "supabase:2184cfbd-927e-4d3c-b34a-f2301d3e8281"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2197
+    "experienced": 2196
   },
   "companies": [
     {
@@ -611,7 +613,7 @@
     {
       "name": "Block",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1052,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 115,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4860,7 +4862,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "title": "Software Engineer - Postgres Tooling",
+      "location": "Remote, Global",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "postedAt": "2026-11-19T17:48:28.617Z",
+      "key": "supabase:2184cfbd-927e-4d3c-b34a-f2301d3e8281",
+      "company": "Supabase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-19T17:50:24.795Z"
+    },
     {
       "id": "5286853007",
       "title": "Sr. Technical Quality Engineer",
@@ -11431,7 +11449,7 @@
     {
       "id": "8386063",
       "title": "Director of Backend Engineering",
-      "location": "Seattle, USA",
+      "location": "Mountain View, USA; Seattle, USA",
       "team": null,
       "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8386063",
       "postedAt": "2026-11-13T20:51:41.000Z",
@@ -41405,38 +41423,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T18:00:24.371Z"
-    },
-    {
-      "id": "5453088008",
-      "title": "Senior Software Engineer — Employee Experience Engineering (EXE)",
-      "location": "Bay Area, CA, United States of America",
-      "team": null,
-      "url": "http://block.xyz/careers/jobs/5453088008?gh_jid=5453088008",
-      "postedAt": "2026-10-20T17:46:42.000Z",
-      "key": "block:5453088008",
-      "company": "Block",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T17:50:17.138Z"
-    },
-    {
-      "id": "8233500",
-      "title": "Staff Software Engineer, Developer Infrastructure",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8233500?gh_jid=8233500",
-      "postedAt": "2026-10-20T17:40:41.000Z",
-      "key": "coinbase:8233500",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T17:50:17.138Z"
     },
     {
       "id": "R30377",
