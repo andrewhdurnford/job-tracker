@@ -1,19 +1,21 @@
 {
-  "generatedAt": "2026-11-19T16:50:19.358Z",
+  "generatedAt": "2026-11-19T17:00:29.774Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "northwoodspace:de197d91-2fd9-45e8-ab91-9c782efef350",
-    "nubank:40f50e46-8f43-4460-99ee-a6de0a128079"
+    "DocuSign:31092",
+    "quindar:f384450c-697b-427e-8930-58fc195016d2",
+    "quindar:6c512310-7b4a-4033-8188-23cb0da40506",
+    "quindar:d191fb3a-8489-4a49-89c1-b3df198e4671"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 92,
+    "intern": 93,
     "new-grad": 13,
-    "experienced": 2196
+    "experienced": 2198
   },
   "companies": [
     {
@@ -594,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -860,7 +862,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -937,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1426,7 +1428,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -4016,7 +4018,7 @@
     {
       "name": "Quindar",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4107,7 +4109,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "31092",
+      "title": "Product Data Science Intern",
+      "location": "US-SFO-Main",
+      "team": "University",
+      "url": "https://uscareers-docusign.icims.com/jobs/31092/login",
+      "postedAt": "2026-11-19T16:54:00.000Z",
+      "key": "DocuSign:31092",
+      "company": "DocuSign",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T17:00:29.774Z"
+    },
+    {
+      "id": "6c512310-7b4a-4033-8188-23cb0da40506",
+      "title": "Full Stack Engineer ",
+      "location": "Denver, CO",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/quindar/6c512310-7b4a-4033-8188-23cb0da40506",
+      "postedAt": "2026-11-19T16:52:41.965Z",
+      "key": "quindar:6c512310-7b4a-4033-8188-23cb0da40506",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T17:00:29.774Z"
+    },
+    {
+      "id": "f384450c-697b-427e-8930-58fc195016d2",
+      "title": "Cleared Full Stack Engineer",
+      "location": "Denver, CO",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/quindar/f384450c-697b-427e-8930-58fc195016d2",
+      "postedAt": "2026-11-19T16:51:38.606Z",
+      "key": "quindar:f384450c-697b-427e-8930-58fc195016d2",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T17:00:29.774Z"
+    },
+    {
+      "id": "d191fb3a-8489-4a49-89c1-b3df198e4671",
+      "title": "Cleared Forward Deployed Engineer",
+      "location": "Denver, CO (+2 more)",
+      "team": "Forward Deployed Engineering",
+      "url": "https://jobs.ashbyhq.com/quindar/d191fb3a-8489-4a49-89c1-b3df198e4671",
+      "postedAt": "2026-11-19T16:51:14.590Z",
+      "key": "quindar:d191fb3a-8489-4a49-89c1-b3df198e4671",
+      "company": "Quindar",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T17:00:29.774Z"
+    },
     {
       "id": "40f50e46-8f43-4460-99ee-a6de0a128079",
       "title": "Senior Cloud Network Engineer ",
@@ -41408,22 +41474,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T17:00:27.136Z"
-    },
-    {
-      "id": "8303798",
-      "title": "Senior Software Engineer, Web Platform",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8303798",
-      "postedAt": "2026-10-20T16:54:32.000Z",
-      "key": "reddit:8303798",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T17:00:28.004Z"
     },
     {
       "id": "09fb47fc-39e0-4fca-9bff-5d19d43f5a44",
