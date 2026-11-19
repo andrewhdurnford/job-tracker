@@ -1,17 +1,16 @@
 {
-  "generatedAt": "2026-11-19T23:00:28.207Z",
+  "generatedAt": "2026-11-19T23:10:20.925Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "lucidmotors:5290911007",
-    "spacex:8953433002"
+    "waymo:8401116"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 96,
+    "intern": 97,
     "new-grad": 12,
     "experienced": 2200
   },
@@ -1320,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4435,10 +4434,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -5479,7 +5478,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8401116",
+      "title": "2027 Summer Intern, PhD, Agentic AI",
+      "location": "Mountain View, California, United States",
+      "team": null,
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8401116",
+      "postedAt": "2026-11-19T23:05:23.000Z",
+      "key": "waymo:8401116",
+      "company": "Waymo",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T23:10:20.925Z"
+    },
     {
       "id": "5290911007",
       "title": "Intern, Software Engineer, SDET, Summer 2027",
