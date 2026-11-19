@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T19:00:27.543Z",
+  "generatedAt": "2026-11-19T19:10:35.431Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "roblox:8287516"
+    "docker:a9473dd6-0807-4f2c-9c53-8dbad53dac1c"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2198
+    "experienced": 2197
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -859,7 +859,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1418,7 +1418,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1431,10 +1431,10 @@
     },
     {
       "name": "Dolls Kill",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Domino Data Lab",
@@ -2481,10 +2481,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "JFrog",
@@ -3085,7 +3085,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4799,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,23 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a9473dd6-0807-4f2c-9c53-8dbad53dac1c",
+      "title": "Director, Developer Success Programs",
+      "location": "Canada (+6 more)",
+      "team": "MKT-Developer Success",
+      "url": "https://jobs.ashbyhq.com/docker/a9473dd6-0807-4f2c-9c53-8dbad53dac1c",
+      "postedAt": "2026-11-19T19:08:35.234Z",
+      "key": "docker:a9473dd6-0807-4f2c-9c53-8dbad53dac1c",
+      "company": "Docker",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-19T19:10:35.431Z"
+    },
     {
       "id": "8287516",
       "title": "Senior Software Engineer - Data Infrastructure Safety",
@@ -33812,38 +33829,6 @@
         "us"
       ],
       "firstSeen": "2026-10-29T00:10:19.235Z"
-    },
-    {
-      "id": "8332718",
-      "title": "Software Engineer, Fraud System Interventions",
-      "location": "South San Francisco, CA",
-      "team": "Global Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8332718",
-      "postedAt": "2026-10-29T00:01:17.000Z",
-      "key": "stripe:8332718",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T00:10:19.235Z"
-    },
-    {
-      "id": "8332676",
-      "title": "Software Engineer - Full stack",
-      "location": "Seattle, WA",
-      "team": "Global Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8332676",
-      "postedAt": "2026-10-28T23:38:42.000Z",
-      "key": "stripe:8332676",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T23:40:16.367Z"
     },
     {
       "id": "8331341",
