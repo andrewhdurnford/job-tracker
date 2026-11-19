@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-11-19T18:10:20.873Z",
+  "generatedAt": "2026-11-19T18:20:19.979Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "ramp:da40ed6e-1c32-4284-89f5-2ad0813b8d49"
+    "mixpanel:8357923",
+    "natera:6250690004",
+    "redis:d0c71974-3e7c-4080-ad97-7f3c7241fb48",
+    "toast:8368751"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2194
+    "experienced": 2197
   },
   "companies": [
     {
@@ -593,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -859,7 +862,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3091,7 +3094,7 @@
     {
       "name": "Mixpanel",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3245,7 +3248,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4113,7 +4116,7 @@
     {
       "name": "Redis",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4694,7 +4697,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 115,
+      "jobCount": 114,
       "error": null,
       "stale": false
     },
@@ -4728,10 +4731,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5107,7 +5110,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5704,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6250690004",
+      "title": "Software Engineer III",
+      "location": "Austin, TX",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6250690004",
+      "postedAt": "2026-11-19T18:17:32.000Z",
+      "key": "natera:6250690004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T18:20:19.979Z"
+    },
+    {
+      "id": "d0c71974-3e7c-4080-ad97-7f3c7241fb48",
+      "title": "VP, Engineering Operations",
+      "location": "HQ (San Francisco) (+1 more)",
+      "team": "Technology",
+      "url": "https://jobs.ashbyhq.com/Redis/d0c71974-3e7c-4080-ad97-7f3c7241fb48",
+      "postedAt": "2026-11-19T18:09:50.456Z",
+      "key": "redis:d0c71974-3e7c-4080-ad97-7f3c7241fb48",
+      "company": "Redis",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-19T18:20:19.979Z"
+    },
     {
       "id": "da40ed6e-1c32-4284-89f5-2ad0813b8d49",
       "title": "Software Engineer, Production Engineering, FinOps",
@@ -13411,6 +13447,22 @@
       "firstSeen": "2026-11-12T18:40:21.076Z"
     },
     {
+      "id": "8368751",
+      "title": "Senior Software Engineer, Vision AI",
+      "location": "Remote, US ",
+      "team": null,
+      "url": "https://careers.toasttab.com/jobs?gh_jid=8368751",
+      "postedAt": "2026-11-12T18:29:21.000Z",
+      "key": "toast:8368751",
+      "company": "Toast",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T18:20:19.979Z"
+    },
+    {
       "id": "6258494004",
       "title": "Senior Security Automation Software Programmer",
       "location": "Montreal,Quebec,Canada",
@@ -19113,6 +19165,22 @@
       "firstSeen": "2026-11-06T23:40:19.346Z"
     },
     {
+      "id": "8357923",
+      "title": "Senior Security Engineer",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8357923",
+      "postedAt": "2026-11-06T23:34:14.000Z",
+      "key": "mixpanel:8357923",
+      "company": "Mixpanel",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T18:20:19.979Z"
+    },
+    {
       "id": "6250011004",
       "title": "Principal Product Security Engineer ",
       "location": "Remote - United States",
@@ -19530,22 +19598,6 @@
         "us"
       ],
       "firstSeen": "2026-11-06T20:30:27.112Z"
-    },
-    {
-      "id": "8933873002",
-      "title": "Software Engineer, Flight Software (Starship)",
-      "location": "Cape Canaveral, FL",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8933873002?gh_jid=8933873002",
-      "postedAt": "2026-11-06T20:18:10.000Z",
-      "key": "spacex:8933873002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-06T20:20:20.519Z"
     },
     {
       "id": "011bf96a-0e14-4b61-9fb9-b19ef6705a71",
