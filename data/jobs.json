@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-19T18:50:19.440Z",
+  "generatedAt": "2026-11-19T19:00:27.543Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "grafanalabs:6266531004",
-    "grafanalabs:6266529004",
-    "natera:6261258004"
+    "roblox:8287516"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1433,10 +1431,10 @@
     },
     {
       "name": "Dolls Kill",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Domino Data Lab",
@@ -2483,10 +2481,10 @@
     },
     {
       "name": "Jeeves",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "JFrog",
@@ -3087,7 +3085,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4241,7 +4239,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 47,
+      "jobCount": 48,
       "error": null,
       "stale": false
     },
@@ -4801,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8287516",
+      "title": "Senior Software Engineer - Data Infrastructure Safety",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8287516?gh_jid=8287516",
+      "postedAt": "2026-11-19T18:56:17.000Z",
+      "key": "roblox:8287516",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T19:00:27.543Z"
+    },
     {
       "id": "6266531004",
       "title": "Senior Engineering Manager, Grafana Data Visualization | Canada | Remote",
@@ -38943,22 +38957,6 @@
       "postedAt": "2026-10-22T17:06:25.936Z",
       "key": "aiprise:979719ab-e60c-4495-88b6-2ab8c5ac56d3",
       "company": "AiPrise",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T17:10:16.257Z"
-    },
-    {
-      "id": "8314283",
-      "title": "Software Engineer",
-      "location": "South San Francisco, CA",
-      "team": "Global Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8314283",
-      "postedAt": "2026-10-22T17:01:03.000Z",
-      "key": "stripe:8314283",
-      "company": "Stripe",
       "level": "experienced",
       "term": null,
       "regions": [
