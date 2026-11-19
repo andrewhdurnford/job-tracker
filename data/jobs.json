@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-19T14:20:19.969Z",
+  "generatedAt": "2026-11-19T14:30:23.378Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "palantir:4a9e0649-a925-4b25-914d-1eea058a3e01",
+    "palantir:773bb739-f011-4202-88d7-362a562df0d3",
+    "stripe:8317310"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 92,
     "new-grad": 13,
-    "experienced": 2191
+    "experienced": 2194
   },
   "companies": [
     {
@@ -1317,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3586,7 +3590,7 @@
     {
       "name": "Palantir",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4797,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8317310",
+      "title": "Engineering Manager, Stream Analytics",
+      "location": "US-Remote",
+      "team": "8127 Core Infrastructure",
+      "url": "https://stripe.com/jobs/search?gh_jid=8317310",
+      "postedAt": "2026-11-19T14:23:56.000Z",
+      "key": "stripe:8317310",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T14:30:23.378Z"
+    },
+    {
+      "id": "4a9e0649-a925-4b25-914d-1eea058a3e01",
+      "title": "Site Reliability Operations Analyst - Legal",
+      "location": "Washington, D.C.",
+      "team": "Legal",
+      "url": "https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01",
+      "postedAt": "2026-11-19T14:23:21.864Z",
+      "key": "palantir:4a9e0649-a925-4b25-914d-1eea058a3e01",
+      "company": "Palantir",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T14:30:23.378Z"
+    },
+    {
+      "id": "773bb739-f011-4202-88d7-362a562df0d3",
+      "title": "Site Reliability Operations Analyst - Legal",
+      "location": "New York, NY",
+      "team": "Legal",
+      "url": "https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3",
+      "postedAt": "2026-11-19T14:22:27.294Z",
+      "key": "palantir:773bb739-f011-4202-88d7-362a562df0d3",
+      "company": "Palantir",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T14:30:23.378Z"
+    },
     {
       "id": "8384364",
       "title": "Head of Zero Day Engineering",
