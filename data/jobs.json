@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T03:00:27.862Z",
+  "generatedAt": "2026-11-19T03:10:19.708Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 92,
     "new-grad": 13,
-    "experienced": 2195
+    "experienced": 2194
   },
   "companies": [
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -5224,7 +5224,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -24285,22 +24285,6 @@
       "postedAt": "2026-11-03T18:22:47.000Z",
       "key": "spacex:8927923002",
       "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T18:30:26.281Z"
-    },
-    {
-      "id": "8026199",
-      "title": "Software Engineer (L3) Email",
-      "location": "Remote - US",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8026199",
-      "postedAt": "2026-11-03T18:22:02.000Z",
-      "key": "twilio:8026199",
-      "company": "Twilio",
       "level": "experienced",
       "term": null,
       "regions": [
