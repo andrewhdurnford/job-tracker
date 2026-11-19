@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-19T14:50:23.982Z",
+  "generatedAt": "2026-11-19T15:00:31.173Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "okta:8385692"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 92,
     "new-grad": 13,
-    "experienced": 2197
+    "experienced": 2196
   },
   "companies": [
     {
@@ -1319,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4799,7 +4797,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -41487,22 +41485,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T15:10:22.302Z"
-    },
-    {
-      "id": "8163540",
-      "title": "Staff Software Engineer, IAM Control Plane",
-      "location": "San Francisco",
-      "team": "8551 OAP - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8163540",
-      "postedAt": "2026-10-20T14:51:05.000Z",
-      "key": "stripe:8163540",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T15:00:26.496Z"
     },
     {
       "id": "4433b308-1ff4-4b5f-9184-810e5d9844f6",
