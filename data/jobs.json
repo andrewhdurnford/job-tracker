@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-11-19T10:40:19.238Z",
+  "generatedAt": "2026-11-19T10:50:19.010Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "elastic:8352185",
-    "elastic:8227060"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -5641,7 +5638,7 @@
       "name": "Zendesk",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5681,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
