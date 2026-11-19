@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-19T19:30:25.193Z",
+  "generatedAt": "2026-11-19T19:40:27.094Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "intercom:8403407",
+    "intercom:8403398"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2196
+    "experienced": 2195
   },
   "companies": [
     {
@@ -1045,7 +1048,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2172,7 +2175,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -2424,7 +2427,7 @@
     {
       "name": "Intercom",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3180,7 +3183,7 @@
     {
       "name": "Mysten Labs",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -3795,10 +3798,10 @@
     },
     {
       "name": "Poll Everywhere",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Polymath",
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 114,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8403407",
+      "title": "Senior Forward Deployed Data Scientist",
+      "location": "Chicago, Illinois",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8403407",
+      "postedAt": "2026-11-19T19:36:51.000Z",
+      "key": "intercom:8403407",
+      "company": "Intercom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T19:40:27.094Z"
+    },
+    {
+      "id": "8403398",
+      "title": "Senior Forward Deployed Data Scientist",
+      "location": "NYC, Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8403398",
+      "postedAt": "2026-11-19T19:32:20.000Z",
+      "key": "intercom:8403398",
+      "company": "Intercom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T19:40:27.094Z"
+    },
     {
       "id": "8368600",
       "title": "Senior Staff Machine Learning Engineer, Ads Ranking ",
@@ -10822,7 +10857,7 @@
       "id": "c4192057-43fa-45c9-a40e-6f29131bf11d",
       "title": "Staff Software Engineer, Data Infrastructure",
       "location": "New York",
-      "team": "Product Engineering | Infrastructure",
+      "team": "Infrastructure",
       "url": "https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d",
       "postedAt": "2026-11-16T10:31:16.278Z",
       "key": "cohere:c4192057-43fa-45c9-a40e-6f29131bf11d",
@@ -12188,7 +12223,7 @@
       "id": "5831a16f-745b-4d49-bc7a-a371b4686ab4",
       "title": "Senior/Staff Software Engineer, Developer Experience",
       "location": "London (+4 more)",
-      "team": "North",
+      "team": "Product Engineering",
       "url": "https://jobs.ashbyhq.com/cohere/5831a16f-745b-4d49-bc7a-a371b4686ab4",
       "postedAt": "2026-11-13T15:39:48.183Z",
       "key": "cohere:5831a16f-745b-4d49-bc7a-a371b4686ab4",
@@ -12460,7 +12495,7 @@
     },
     {
       "id": "b861ddac-1fc4-4e42-9cde-a81be6f00fe2",
-      "title": "Staff Software engineer - Storage ",
+      "title": "Staff Software Engineer - Storage ",
       "location": "US-WA-Bellevue",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/snowflake/b861ddac-1fc4-4e42-9cde-a81be6f00fe2",
@@ -31637,7 +31672,7 @@
       "id": "be48aafc-9610-4ebd-8414-a0722a3cd59a",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
       "location": "Toronto (+4 more)",
-      "team": "Delivery Engineering | Infrastructure",
+      "team": "Delivery Engineering",
       "url": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a",
       "postedAt": "2026-10-30T21:56:46.180Z",
       "key": "cohere:be48aafc-9610-4ebd-8414-a0722a3cd59a",
@@ -33930,7 +33965,7 @@
       "id": "8df498e9-aba8-487f-80ba-362b492bad09",
       "title": "Forward Deployed Engineer, Inference ",
       "location": "United States",
-      "team": "Delivery Engineering | Infrastructure",
+      "team": "Delivery Engineering",
       "url": "https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09",
       "postedAt": "2026-10-28T21:49:48.769Z",
       "key": "cohere:8df498e9-aba8-487f-80ba-362b492bad09",
@@ -37487,22 +37522,6 @@
       "firstSeen": "2026-10-23T20:40:17.893Z"
     },
     {
-      "id": "dca93d1a-9ab8-442b-aa76-950595e8b9c3",
-      "title": "Engineering Manager, Cohere APIs and DevEx",
-      "location": "Toronto (+2 more)",
-      "team": "APIs & Tooling",
-      "url": "https://jobs.ashbyhq.com/cohere/dca93d1a-9ab8-442b-aa76-950595e8b9c3",
-      "postedAt": "2026-10-23T20:27:07.216Z",
-      "key": "cohere:dca93d1a-9ab8-442b-aa76-950595e8b9c3",
-      "company": "Cohere",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-12T15:20:22.810Z"
-    },
-    {
       "id": "1bda085b-f8bb-490f-9804-66c4f6a55b29",
       "title": "Electrical Build Engineer",
       "location": "Austin, TX",
@@ -39402,7 +39421,7 @@
       "id": "529b2dd6-4be3-49db-97cd-781f4897540b",
       "title": "Staff/Senior Staff Software Engineer, Agent Infrastructure",
       "location": "Toronto (+2 more)",
-      "team": "Delivery Engineering | Agentic Platform",
+      "team": "Delivery Engineering",
       "url": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b",
       "postedAt": "2026-10-22T01:52:35.722Z",
       "key": "cohere:529b2dd6-4be3-49db-97cd-781f4897540b",
@@ -41338,39 +41357,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-20T19:50:16.459Z"
-    },
-    {
-      "id": "66a13783-3073-4474-8dad-90f4146885ef",
-      "title": "Staff Software Engineer, Backend Platform",
-      "location": "San Francisco (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/harvey/66a13783-3073-4474-8dad-90f4146885ef",
-      "postedAt": "2026-10-20T19:40:08.527Z",
-      "key": "harvey:66a13783-3073-4474-8dad-90f4146885ef",
-      "company": "Harvey",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T19:50:16.459Z"
-    },
-    {
-      "id": "eb26b54f-bd8c-4bcb-ab5a-a9aafad09960",
-      "title": "Security Engineer ",
-      "location": "USA (Remote) (+1 more)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/mystenlabs/eb26b54f-bd8c-4bcb-ab5a-a9aafad09960",
-      "postedAt": "2026-10-20T19:31:52.121Z",
-      "key": "mystenlabs:eb26b54f-bd8c-4bcb-ab5a-a9aafad09960",
-      "company": "Mysten Labs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-20T19:36:25.404Z"
     },
     {
       "id": "R173001",
