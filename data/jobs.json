@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-11-19T21:10:19.512Z",
+  "generatedAt": "2026-11-19T21:20:20.488Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "gusto:8257983",
+    "substack:c9b64abb-ff7d-441b-834d-8d17285bce32"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 93,
+    "intern": 92,
     "new-grad": 12,
-    "experienced": 2190
+    "experienced": 2192
   },
   "companies": [
     {
@@ -2102,7 +2105,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -2340,7 +2343,7 @@
     {
       "name": "Illumio",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -2656,7 +2659,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2740,7 +2743,7 @@
       "name": "Lingo.dev",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2915,7 +2918,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4818,7 +4821,7 @@
     {
       "name": "Substack",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,39 @@
     }
   ],
   "jobs": [
+    {
+      "id": "c9b64abb-ff7d-441b-834d-8d17285bce32",
+      "title": "Full Stack Software Engineer - Video ",
+      "location": "San Francisco (HQ) (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/substack/c9b64abb-ff7d-441b-834d-8d17285bce32",
+      "postedAt": "2026-11-19T21:15:48.605Z",
+      "key": "substack:c9b64abb-ff7d-441b-834d-8d17285bce32",
+      "company": "Substack",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-19T21:20:20.488Z"
+    },
+    {
+      "id": "8257983",
+      "title": "Staff Software Engineer, ML Platform",
+      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257983",
+      "postedAt": "2026-11-19T21:14:51.000Z",
+      "key": "gusto:8257983",
+      "company": "Gusto",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T21:20:20.488Z"
+    },
     {
       "id": "6150691004",
       "title": "Software Engineer, Runtimes ",
@@ -41205,22 +41241,6 @@
       "key": "Capital One:R1003405",
       "company": "Capital One",
       "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T21:20:19.949Z"
-    },
-    {
-      "id": "09d4895b-6de4-4d22-bbc3-aa45f2b24260",
-      "title": "Security Research, Intern",
-      "location": "Sunnyvale, California - HQ",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/illumio/09d4895b-6de4-4d22-bbc3-aa45f2b24260",
-      "postedAt": "2026-10-20T21:12:47.811Z",
-      "key": "illumio:09d4895b-6de4-4d22-bbc3-aa45f2b24260",
-      "company": "Illumio",
-      "level": "intern",
       "term": null,
       "regions": [
         "us"
