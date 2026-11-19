@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:10:18.387Z",
+  "generatedAt": "2026-11-19T10:20:20.494Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2193
+    "experienced": 2191
   },
   "companies": [
     {
@@ -253,10 +253,10 @@
     },
     {
       "name": "Anchorage",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Andera",
@@ -1401,10 +1401,10 @@
     },
     {
       "name": "Despegar",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Discord",
@@ -1521,7 +1521,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -5400,7 +5400,7 @@
       "name": "Visa",
       "ok": false,
       "jobCount": 20,
-      "error": "network error: fetch failed",
+      "error": "HTTP 429 Too Many Requests",
       "stale": true
     },
     {
@@ -23074,38 +23074,6 @@
         "us"
       ],
       "firstSeen": "2026-11-04T13:20:19.739Z"
-    },
-    {
-      "id": "8352185",
-      "title": "Senior Platform Productivity Engineer - Core/Infra - Elasticsearch",
-      "location": "Canada",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8352185&gh_jid=8352185",
-      "postedAt": "2026-11-04T09:17:57.000Z",
-      "key": "elastic:8352185",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-04T09:20:22.085Z"
-    },
-    {
-      "id": "8227060",
-      "title": "Senior Platform Productivity Engineer - Core/Infra - Elasticsearch",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8227060&gh_jid=8227060",
-      "postedAt": "2026-11-04T09:17:55.000Z",
-      "key": "elastic:8227060",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-04T09:20:22.085Z"
     },
     {
       "id": "4371e808-51f1-4c7a-a1ca-1819926a5c74",
