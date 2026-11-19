@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-19T19:10:35.431Z",
+  "generatedAt": "2026-11-19T19:20:19.704Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "docker:a9473dd6-0807-4f2c-9c53-8dbad53dac1c"
+    "alpaca:6265262004",
+    "reddit:8368600"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 93,
     "new-grad": 13,
-    "experienced": 2197
+    "experienced": 2199
   },
   "companies": [
     {
@@ -200,7 +201,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -859,7 +860,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4106,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8368600",
+      "title": "Senior Staff Machine Learning Engineer, Ads Ranking ",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8368600",
+      "postedAt": "2026-11-19T19:18:02.000Z",
+      "key": "reddit:8368600",
+      "company": "Reddit",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T19:20:19.704Z"
+    },
+    {
+      "id": "6265262004",
+      "title": "Senior Data Scientist, Research",
+      "location": "Remote - Americas ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6265262004",
+      "postedAt": "2026-11-19T19:13:14.000Z",
+      "key": "alpaca:6265262004",
+      "company": "Alpaca",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-19T19:20:19.704Z"
+    },
     {
       "id": "a9473dd6-0807-4f2c-9c53-8dbad53dac1c",
       "title": "Director, Developer Success Programs",
