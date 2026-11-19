@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T22:30:24.702Z",
+  "generatedAt": "2026-11-19T22:40:20.384Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "natera:6250690004",
-    "okta:8396726",
-    "tanium:8335066"
+    "openai:c15d4e1b-adcf-4809-91d5-17ba6b789092",
+    "openai:393b88d7-1fbc-466a-9108-a7c1bafeb8d8",
+    "pinterest:8354411"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -2497,10 +2497,10 @@
     },
     {
       "name": "Jito",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Juicebox",
@@ -2533,7 +2533,7 @@
     {
       "name": "Justworks",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3513,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 55,
+      "jobCount": 57,
       "error": null,
       "stale": false
     },
@@ -3758,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4345,10 +4345,10 @@
     },
     {
       "name": "Sandbox VR",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Sandstone",
@@ -5116,7 +5116,7 @@
     {
       "name": "Together AI",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "c15d4e1b-adcf-4809-91d5-17ba6b789092",
+      "title": "Software Security Architect, Operating Systems | Consumer Devices",
+      "location": "San Francisco",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/openai/c15d4e1b-adcf-4809-91d5-17ba6b789092",
+      "postedAt": "2026-11-19T22:32:20.620Z",
+      "key": "openai:c15d4e1b-adcf-4809-91d5-17ba6b789092",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T22:40:20.384Z"
+    },
+    {
+      "id": "393b88d7-1fbc-466a-9108-a7c1bafeb8d8",
+      "title": "Systems Test Engineer, End-to-End Validation | Consumer Devices",
+      "location": "San Francisco",
+      "team": "Software",
+      "url": "https://jobs.ashbyhq.com/openai/393b88d7-1fbc-466a-9108-a7c1bafeb8d8",
+      "postedAt": "2026-11-19T22:31:39.142Z",
+      "key": "openai:393b88d7-1fbc-466a-9108-a7c1bafeb8d8",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T22:40:20.384Z"
+    },
+    {
+      "id": "8354411",
+      "title": "Staff Machine Learning Engineer, Ads Lightweight Ranking ",
+      "location": "San Francisco, CA, US; Remote, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8354411",
+      "postedAt": "2026-11-19T22:30:13.000Z",
+      "key": "pinterest:8354411",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-19T22:40:20.384Z"
+    },
     {
       "id": "8396726",
       "title": "Senior Software Development Engineer in Test - Okta Identity Governance",
@@ -41344,54 +41392,6 @@
         "us"
       ],
       "firstSeen": "2026-10-20T23:20:15.332Z"
-    },
-    {
-      "id": "8179714",
-      "title": "Software Engineer, Backend",
-      "location": "New York, New York",
-      "team": null,
-      "url": "https://boards.greenhouse.io/justworks/jobs/8179714?gh_jid=8179714",
-      "postedAt": "2026-10-20T22:39:04.000Z",
-      "key": "justworks:8179714",
-      "company": "Justworks",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T22:40:16.426Z"
-    },
-    {
-      "id": "8179751",
-      "title": "Senior Software Engineer, Backend",
-      "location": "New York, New York",
-      "team": null,
-      "url": "https://boards.greenhouse.io/justworks/jobs/8179751?gh_jid=8179751",
-      "postedAt": "2026-10-20T22:37:29.000Z",
-      "key": "justworks:8179751",
-      "company": "Justworks",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T22:40:16.426Z"
-    },
-    {
-      "id": "5266079007",
-      "title": "(Staff / Senior Staff) AI Inference Reliability Engineer, Compute Infra",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5266079007",
-      "postedAt": "2026-10-20T22:37:29.000Z",
-      "key": "togetherai:5266079007",
-      "company": "Together AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T22:40:16.426Z"
     },
     {
       "id": "R1003405",
