@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-20T19:00:29.664Z",
+  "generatedAt": "2026-11-20T19:10:18.890Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "gitlab:8957066002",
-    "roblox:8397868"
+    "cloudflare:8399197",
+    "mongodb:8406857",
+    "mongodb:8406812"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 12,
-    "experienced": 2195
+    "experienced": 2196
   },
   "companies": [
     {
@@ -306,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 40,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -594,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -860,7 +861,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -937,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1013,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -1615,7 +1616,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -3134,7 +3135,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -3226,7 +3227,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4435,10 +4436,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8399197",
+      "title": "Incident Response Engineer, SIRT",
+      "location": "Austin, TX",
+      "team": "Security",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8399197?gh_jid=8399197",
+      "postedAt": "2026-11-20T19:03:08.000Z",
+      "key": "cloudflare:8399197",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T19:10:18.890Z"
+    },
+    {
+      "id": "8406857",
+      "title": "Software Engineer 3",
+      "location": "Ontario",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8406857",
+      "postedAt": "2026-11-20T19:03:03.000Z",
+      "key": "mongodb:8406857",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T19:10:18.890Z"
+    },
+    {
+      "id": "8406812",
+      "title": "Software Engineer 3",
+      "location": "United States",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8406812",
+      "postedAt": "2026-11-20T19:03:01.000Z",
+      "key": "mongodb:8406812",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T19:10:18.890Z"
+    },
     {
       "id": "8397868",
       "title": "Senior Enterprise Security Engineer",
@@ -41575,38 +41624,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T19:20:15.869Z"
-    },
-    {
-      "id": "6180210004",
-      "title": "Senior Machine Learning Engineer, Discovery Recommendations",
-      "location": "Cary,North Carolina,United States",
-      "team": "Engineering Specialist",
-      "url": "https://epicgames.com/careers/jobs/6180210004?gh_jid=6180210004",
-      "postedAt": "2026-10-21T19:08:10.000Z",
-      "key": "epicgames:6180210004",
-      "company": "Epic Games",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T19:10:16.863Z"
-    },
-    {
-      "id": "5459098008",
-      "title": "Research Engineer, Chip Design RL",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459098008",
-      "postedAt": "2026-10-21T19:04:35.000Z",
-      "key": "anthropic:5459098008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T19:10:16.863Z"
     },
     {
       "id": "R1002855",
