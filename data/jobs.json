@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-11-20T20:50:19.251Z",
+  "generatedAt": "2026-11-20T21:00:27.429Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "hotplate:6bc29ce4-d4f5-47c5-90a8-e9fcfe5d1100",
-    "radar:8384252",
-    "radar:8384264",
-    "reddit:8399817",
-    "spacex:8943795002"
+    "urbancompass:8393009",
+    "handshake:52be2db3-794d-466e-b3be-cae5d1ab5232"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +13,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 12,
-    "experienced": 2208
+    "experienced": 2209
   },
   "companies": [
     {
@@ -1323,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2150,7 +2147,7 @@
     {
       "name": "Handshake",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5706,6 +5703,38 @@
   ],
   "jobs": [
     {
+      "id": "8393009",
+      "title": "Director, Security Engineering",
+      "location": "Bellevue; Boca Raton; Boston; New York City",
+      "team": null,
+      "url": "https://www.compass.com/careers?gh_jid=8393009",
+      "postedAt": "2026-11-20T20:58:39.000Z",
+      "key": "urbancompass:8393009",
+      "company": "Compass",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T21:00:27.429Z"
+    },
+    {
+      "id": "52be2db3-794d-466e-b3be-cae5d1ab5232",
+      "title": "Forward Deployed Engineer ",
+      "location": "San Francisco, CA",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/handshake/52be2db3-794d-466e-b3be-cae5d1ab5232",
+      "postedAt": "2026-11-20T20:57:22.389Z",
+      "key": "handshake:52be2db3-794d-466e-b3be-cae5d1ab5232",
+      "company": "Handshake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T21:00:27.429Z"
+    },
+    {
       "id": "8399817",
       "title": "Principal Engineer, Security",
       "location": "Remote - United States",
@@ -7863,22 +7892,6 @@
         "us"
       ],
       "firstSeen": "2026-11-19T18:40:19.177Z"
-    },
-    {
-      "id": "8393002",
-      "title": "Director, Systems Engineering",
-      "location": "Bellevue; Boca Raton; Boston; New York City",
-      "team": null,
-      "url": "https://www.compass.com/careers?gh_jid=8393002",
-      "postedAt": "2026-11-19T18:24:45.000Z",
-      "key": "urbancompass:8393002",
-      "company": "Compass",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-19T18:30:35.443Z"
     },
     {
       "id": "d0c71974-3e7c-4080-ad97-7f3c7241fb48",
