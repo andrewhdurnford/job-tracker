@@ -1,12 +1,11 @@
 {
-  "generatedAt": "2026-11-20T15:20:19.432Z",
+  "generatedAt": "2026-11-20T15:30:24.859Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "litellm:759314e2-8415-4946-8701-88b1a7fad1b5",
-    "okta:8398497",
-    "securityscorecard:8350285",
-    "sentilink:b3ad3110-4217-478a-8763-efd40869c4e6"
+    "sentilink:1259909b-5c6a-4533-8e43-38d89a950e66",
+    "sentilink:99060cec-96a4-49aa-8d51-099e2ca8bb5f",
+    "sentilink:d409a012-5647-4686-9c71-30739b0b1906"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -15,7 +14,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 12,
-    "experienced": 2195
+    "experienced": 2198
   },
   "companies": [
     {
@@ -596,7 +595,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -862,7 +861,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -939,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1322,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2953,10 +2952,10 @@
     },
     {
       "name": "Meesho",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Melio",
@@ -4403,7 +4402,7 @@
     {
       "name": "SentiLink",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4731,10 +4730,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5361,10 +5360,10 @@
     },
     {
       "name": "Verifiable",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Veritus",
@@ -5705,6 +5704,54 @@
   ],
   "jobs": [
     {
+      "id": "99060cec-96a4-49aa-8d51-099e2ca8bb5f",
+      "title": "Senior Cloud Security Engineer, FedRAMP",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/sentilink/99060cec-96a4-49aa-8d51-099e2ca8bb5f",
+      "postedAt": "2026-11-20T15:28:28.049Z",
+      "key": "sentilink:99060cec-96a4-49aa-8d51-099e2ca8bb5f",
+      "company": "SentiLink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T15:30:24.859Z"
+    },
+    {
+      "id": "1259909b-5c6a-4533-8e43-38d89a950e66",
+      "title": "Senior Software Engineer, Product Security",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/sentilink/1259909b-5c6a-4533-8e43-38d89a950e66",
+      "postedAt": "2026-11-20T15:28:25.272Z",
+      "key": "sentilink:1259909b-5c6a-4533-8e43-38d89a950e66",
+      "company": "SentiLink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T15:30:24.859Z"
+    },
+    {
+      "id": "d409a012-5647-4686-9c71-30739b0b1906",
+      "title": "Senior InfoSec Product Engineer",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/sentilink/d409a012-5647-4686-9c71-30739b0b1906",
+      "postedAt": "2026-11-20T15:28:23.286Z",
+      "key": "sentilink:d409a012-5647-4686-9c71-30739b0b1906",
+      "company": "SentiLink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T15:30:24.859Z"
+    },
+    {
       "id": "b3ad3110-4217-478a-8763-efd40869c4e6",
       "title": "Staff Software Engineer, Product Security ",
       "location": "United States",
@@ -5787,7 +5834,7 @@
     {
       "id": "51593744-cd6a-47a2-9365-febefe0e1f70",
       "title": "Senior Developer Educator",
-      "location": "Canada (+2 more)",
+      "location": "United States (+2 more)",
       "team": "Marketing",
       "url": "https://jobs.ashbyhq.com/depot/51593744-cd6a-47a2-9365-febefe0e1f70",
       "postedAt": "2026-11-20T14:35:51.029Z",
@@ -5796,7 +5843,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
-        "canada"
+        "us"
       ],
       "firstSeen": "2026-11-20T14:40:29.287Z"
     },
