@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T19:20:19.386Z",
+  "generatedAt": "2026-11-20T19:30:34.594Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "checkr:8397000",
-    "okta:8404658",
-    "saronic:aafcc246-a98a-4433-ab6f-2eb420368254"
+    "airbnb:8396777",
+    "twilio:8405813",
+    "twilio:8405805"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 12,
-    "experienced": 2198
+    "experienced": 2200
   },
   "companies": [
     {
@@ -118,7 +118,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -355,10 +355,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -3758,7 +3758,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5228,7 +5228,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8405805",
+      "title": "Senior Engineer, Security Automation",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8405805",
+      "postedAt": "2026-11-20T19:23:22.000Z",
+      "key": "twilio:8405805",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T19:30:34.594Z"
+    },
+    {
+      "id": "8405813",
+      "title": "Principal Engineer, Cloud Security",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/twilio/jobs/8405813",
+      "postedAt": "2026-11-20T19:22:00.000Z",
+      "key": "twilio:8405813",
+      "company": "Twilio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T19:30:34.594Z"
+    },
     {
       "id": "8404658",
       "title": "Senior Software Engineer, Acquisitions and Activation (Auth0)",
@@ -10163,6 +10195,22 @@
         "us"
       ],
       "firstSeen": "2026-11-17T19:40:19.655Z"
+    },
+    {
+      "id": "8396777",
+      "title": "Data Engineer Tech Foundations",
+      "location": "US - Remote",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8396777?gh_jid=8396777",
+      "postedAt": "2026-11-17T19:22:59.000Z",
+      "key": "airbnb:8396777",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T19:30:34.594Z"
     },
     {
       "id": "8359204",
@@ -41640,22 +41688,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T19:50:17.335Z"
-    },
-    {
-      "id": "8139439",
-      "title": "Manager II, Engineering - Kubernetes Platform",
-      "location": "San Francisco, CA, US; Remote, CA, US",
-      "team": null,
-      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8139439",
-      "postedAt": "2026-10-21T19:26:36.000Z",
-      "key": "pinterest:8139439",
-      "company": "Pinterest",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T19:30:20.882Z"
     },
     {
       "id": "R1002855",
