@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-20T02:50:21.022Z",
+  "generatedAt": "2026-11-20T03:00:27.180Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "okta:8403862"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 12,
-    "experienced": 2201
+    "experienced": 2202
   },
   "companies": [
     {
@@ -3467,7 +3469,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4726,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8403862",
+      "title": "Staff Site Reliability Engineer",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8403862?gh_jid=8403862",
+      "postedAt": "2026-11-20T02:51:36.000Z",
+      "key": "okta:8403862",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T03:00:27.180Z"
+    },
     {
       "id": "5a693757-8c54-43a2-abd7-44ab598d4c6e",
       "title": "Manufacturing Quality Engineer, Data Center Modular Builds",
