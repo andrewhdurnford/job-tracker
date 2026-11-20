@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T12:20:20.381Z",
+  "generatedAt": "2026-11-20T12:30:24.053Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 12,
-    "experienced": 2191
+    "experienced": 2189
   },
   "companies": [
     {
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1535,7 +1535,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -4335,7 +4335,7 @@
     {
       "name": "Samsara",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -21395,22 +21395,6 @@
         "remote"
       ],
       "firstSeen": "2026-11-06T14:20:20.412Z"
-    },
-    {
-      "id": "8358709",
-      "title": "Senior Software Engineer II",
-      "location": "Remote - Canada",
-      "team": null,
-      "url": "https://www.samsara.com/company/careers/roles/8358709?gh_jid=8358709",
-      "postedAt": "2026-11-06T12:23:04.000Z",
-      "key": "samsara:8358709",
-      "company": "Samsara",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-06T12:30:27.439Z"
     },
     {
       "id": "5463598008",
@@ -41549,22 +41533,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T13:30:22.040Z"
-    },
-    {
-      "id": "9aca205e-b2bc-405b-85d6-3d2aadbe49b1",
-      "title": "IT Engineer",
-      "location": "Remote",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/ElevenLabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1",
-      "postedAt": "2026-10-21T12:25:35.351Z",
-      "key": "elevenlabs:9aca205e-b2bc-405b-85d6-3d2aadbe49b1",
-      "company": "ElevenLabs",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-21T12:30:21.215Z"
     },
     {
       "id": "R1002048",
