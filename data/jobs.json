@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-20T19:50:20.523Z",
+  "generatedAt": "2026-11-20T20:00:27.785Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "openai:019170f9-ae56-49fc-8450-f505d39180bb"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 12,
-    "experienced": 2198
+    "experienced": 2195
   },
   "companies": [
     {
@@ -936,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1319,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1755,7 +1753,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1776,7 +1774,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1866,7 +1864,7 @@
     {
       "name": "Formation Bio",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -1874,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2658,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2742,7 +2740,7 @@
       "name": "Lingo.dev",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2917,7 +2915,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3511,7 +3509,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 64,
+      "jobCount": 63,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 119,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -41606,54 +41604,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T20:10:18.046Z"
-    },
-    {
-      "id": "8ac9a248-4069-45cc-a00e-82f22f1e7ed2",
-      "title": "Manager, Cyber - Applied AI Architect ",
-      "location": "San Francisco",
-      "team": "Technical Success",
-      "url": "https://jobs.ashbyhq.com/openai/8ac9a248-4069-45cc-a00e-82f22f1e7ed2",
-      "postedAt": "2026-10-21T19:56:34.883Z",
-      "key": "openai:8ac9a248-4069-45cc-a00e-82f22f1e7ed2",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T20:00:26.061Z"
-    },
-    {
-      "id": "8310673",
-      "title": "Data Scientist, Medical Imaging (Open Level)",
-      "location": "Boston, MA; New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/formationbio/jobs/8310673",
-      "postedAt": "2026-10-21T19:53:16.000Z",
-      "key": "formationbio:8310673",
-      "company": "Formation Bio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T20:00:26.061Z"
-    },
-    {
-      "id": "8306480",
-      "title": "Data Scientist (Open Level)",
-      "location": "Boston, MA; New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/formationbio/jobs/8306480",
-      "postedAt": "2026-10-21T19:52:16.000Z",
-      "key": "formationbio:8306480",
-      "company": "Formation Bio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T20:00:26.061Z"
     },
     {
       "id": "R1002855",
