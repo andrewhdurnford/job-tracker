@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T23:10:19.947Z",
+  "generatedAt": "2026-11-20T23:20:19.479Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "elastic:8407503",
-    "faire:8957560002"
+    "baseten:8a989ccd-57d6-4015-bf79-2b28444e1e85",
+    "elastic:8407510"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 11,
-    "experienced": 2202
+    "experienced": 2203
   },
   "companies": [
     {
@@ -523,7 +523,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -594,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1320,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -1524,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -3043,7 +3043,7 @@
     {
       "name": "Mind Robotics",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8407510",
+      "title": "Principal Software Developer - Vector Search - Elasticsearch",
+      "location": "Canada",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8407510&gh_jid=8407510",
+      "postedAt": "2026-11-20T23:17:45.000Z",
+      "key": "elastic:8407510",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T23:20:19.479Z"
+    },
+    {
+      "id": "8a989ccd-57d6-4015-bf79-2b28444e1e85",
+      "title": "Web Engineer",
+      "location": "San Francisco (+1 more)",
+      "team": "Sales",
+      "url": "https://jobs.ashbyhq.com/baseten/8a989ccd-57d6-4015-bf79-2b28444e1e85",
+      "postedAt": "2026-11-20T23:13:53.868Z",
+      "key": "baseten:8a989ccd-57d6-4015-bf79-2b28444e1e85",
+      "company": "Baseten",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T23:20:19.479Z"
+    },
     {
       "id": "8407503",
       "title": "Principal Software Engineer - Vector Search - Elasticsearch",
@@ -41689,22 +41721,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-21T23:40:15.544Z"
-    },
-    {
-      "id": "5ed7f0f6-fb88-4523-b406-9bcf96407a15",
-      "title": "Tech Lead Manager",
-      "location": "Normal, IL",
-      "team": "Software Engineering",
-      "url": "https://jobs.ashbyhq.com/mindrobotics/5ed7f0f6-fb88-4523-b406-9bcf96407a15",
-      "postedAt": "2026-10-21T23:10:29.728Z",
-      "key": "mindrobotics:5ed7f0f6-fb88-4523-b406-9bcf96407a15",
-      "company": "Mind Robotics",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T23:20:18.744Z"
     },
     {
       "id": "R1002855",
