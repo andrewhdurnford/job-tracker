@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-20T13:50:29.568Z",
+  "generatedAt": "2026-11-20T14:00:28.444Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "grafanalabs:6267139004",
+    "grafanalabs:6267134004"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 12,
-    "experienced": 2187
+    "experienced": 2189
   },
   "companies": [
     {
@@ -2031,10 +2034,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -2053,7 +2056,7 @@
     {
       "name": "Grafana Labs",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6267134004",
+      "title": "Engineering Manager - Grafana Infrastructure (Remote, USA)",
+      "location": "United States (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6267134004",
+      "postedAt": "2026-11-20T13:53:38.000Z",
+      "key": "grafanalabs:6267134004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T14:00:28.444Z"
+    },
+    {
+      "id": "6267139004",
+      "title": "Engineering Manager - Grafana Infrastructure (Remote, Canada)",
+      "location": "Canada (Remote)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6267139004",
+      "postedAt": "2026-11-20T13:53:36.000Z",
+      "key": "grafanalabs:6267139004",
+      "company": "Grafana Labs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T14:00:28.444Z"
+    },
     {
       "id": "4504702009",
       "title": "Software Developer Intern",
