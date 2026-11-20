@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T19:10:18.890Z",
+  "generatedAt": "2026-11-20T19:20:19.386Z",
   "bootstrap": false,
   "lastRunNewCount": 3,
   "newKeys": [
-    "cloudflare:8399197",
-    "mongodb:8406857",
-    "mongodb:8406812"
+    "checkr:8397000",
+    "okta:8404658",
+    "saronic:aafcc246-a98a-4433-ab6f-2eb420368254"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +14,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 12,
-    "experienced": 2196
+    "experienced": 2198
   },
   "companies": [
     {
@@ -355,10 +355,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -916,7 +916,7 @@
     {
       "name": "Checkr",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1321,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3471,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 32,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4367,7 +4367,7 @@
     {
       "name": "Saronic",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 118,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4730,10 +4730,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5375,7 +5375,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8404658",
+      "title": "Senior Software Engineer, Acquisitions and Activation (Auth0)",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8404658?gh_jid=8404658",
+      "postedAt": "2026-11-20T19:19:18.000Z",
+      "key": "okta:8404658",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T19:20:19.386Z"
+    },
+    {
+      "id": "aafcc246-a98a-4433-ab6f-2eb420368254",
+      "title": "Staff Data Engineer",
+      "location": "Austin, TX",
+      "team": "Internal Business Tools",
+      "url": "https://jobs.ashbyhq.com/saronic/aafcc246-a98a-4433-ab6f-2eb420368254",
+      "postedAt": "2026-11-20T19:16:08.628Z",
+      "key": "saronic:aafcc246-a98a-4433-ab6f-2eb420368254",
+      "company": "Saronic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T19:20:19.386Z"
+    },
+    {
+      "id": "8397000",
+      "title": "Senior IT Identity Automation Engineer",
+      "location": "San Francisco, California, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/checkr/jobs/8397000",
+      "postedAt": "2026-11-20T19:12:00.000Z",
+      "key": "checkr:8397000",
+      "company": "Checkr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T19:20:19.386Z"
+    },
     {
       "id": "8399197",
       "title": "Incident Response Engineer, SIRT",
@@ -26508,7 +26556,7 @@
     },
     {
       "id": "84af340c-efff-42b6-9861-4baee60b7405",
-      "title": "Staff Software Engineer, Bots + Fraud",
+      "title": "Senior/Staff Software Engineer, Bots + Fraud",
       "location": "San Francisco",
       "team": "Security Engineering ",
       "url": "https://jobs.ashbyhq.com/suno/84af340c-efff-42b6-9861-4baee60b7405",
@@ -41608,22 +41656,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T19:30:20.882Z"
-    },
-    {
-      "id": "5270787007",
-      "title": "Senior/Staff Software Engineer, Developer AI",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5270787007",
-      "postedAt": "2026-10-21T19:12:37.000Z",
-      "key": "verkada:5270787007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T19:20:15.869Z"
     },
     {
       "id": "R1002855",
