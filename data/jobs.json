@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:40:18.650Z",
+  "generatedAt": "2026-11-20T09:50:19.320Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -4726,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5636,10 +5636,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -6635,7 +6635,7 @@
     {
       "id": "8403398",
       "title": "Senior Forward Deployed Data Scientist",
-      "location": "NYC, Remote",
+      "location": "New York, New York",
       "team": null,
       "url": "https://job-boards.greenhouse.io/intercom/jobs/8403398",
       "postedAt": "2026-11-19T19:32:20.000Z",
