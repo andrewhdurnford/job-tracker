@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-11-20T15:10:20.864Z",
+  "generatedAt": "2026-11-20T15:20:19.432Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "securityscorecard:8334213"
+    "litellm:759314e2-8415-4946-8701-88b1a7fad1b5",
+    "okta:8398497",
+    "securityscorecard:8350285",
+    "sentilink:b3ad3110-4217-478a-8763-efd40869c4e6"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 12,
-    "experienced": 2191
+    "experienced": 2195
   },
   "companies": [
     {
@@ -593,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -859,7 +862,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +939,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1319,10 +1322,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -1403,10 +1406,10 @@
     },
     {
       "name": "Despegar",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Discord",
@@ -2762,7 +2765,7 @@
     {
       "name": "LiteLLM",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -2775,10 +2778,10 @@
     },
     {
       "name": "Living Carbon",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "LlamaIndex",
@@ -2929,10 +2932,10 @@
     },
     {
       "name": "MaverickX",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "May Mobility",
@@ -3188,10 +3191,10 @@
     },
     {
       "name": "Mytos",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "n8n",
@@ -3258,10 +3261,10 @@
     },
     {
       "name": "Neighbor",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Neo4j",
@@ -3469,7 +3472,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -4386,7 +4389,7 @@
     {
       "name": "Security Scorecard",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4400,7 +4403,7 @@
     {
       "name": "SentiLink",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4721,17 +4724,17 @@
     },
     {
       "name": "Spotify",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -5134,10 +5137,10 @@
     },
     {
       "name": "Tovala",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Town",
@@ -5358,10 +5361,10 @@
     },
     {
       "name": "Verifiable",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Veritus",
@@ -5702,6 +5705,70 @@
   ],
   "jobs": [
     {
+      "id": "b3ad3110-4217-478a-8763-efd40869c4e6",
+      "title": "Staff Software Engineer, Product Security ",
+      "location": "United States",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/sentilink/b3ad3110-4217-478a-8763-efd40869c4e6",
+      "postedAt": "2026-11-20T15:18:25.723Z",
+      "key": "sentilink:b3ad3110-4217-478a-8763-efd40869c4e6",
+      "company": "SentiLink",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T15:20:19.432Z"
+    },
+    {
+      "id": "8398497",
+      "title": "Staff Fullstack Engineer, Okta Secures AI",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8398497?gh_jid=8398497",
+      "postedAt": "2026-11-20T15:15:48.000Z",
+      "key": "okta:8398497",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T15:20:19.432Z"
+    },
+    {
+      "id": "759314e2-8415-4946-8701-88b1a7fad1b5",
+      "title": "Senior Backend Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/litellm/759314e2-8415-4946-8701-88b1a7fad1b5",
+      "postedAt": "2026-11-20T15:12:28.481Z",
+      "key": "litellm:759314e2-8415-4946-8701-88b1a7fad1b5",
+      "company": "LiteLLM",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T15:20:19.432Z"
+    },
+    {
+      "id": "8350285",
+      "title": "Senior Staff Site Reliability Engineer",
+      "location": "Remote (US/CAN/LATAM)",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/8350285",
+      "postedAt": "2026-11-20T15:10:58.000Z",
+      "key": "securityscorecard:8350285",
+      "company": "Security Scorecard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T15:20:19.432Z"
+    },
+    {
       "id": "5279403007",
       "title": "Airbag Engineer II",
       "location": "Phoenix, AZ",
@@ -5736,7 +5803,7 @@
     {
       "id": "8164d7f3-e6e6-428c-ae41-ac3b642866f5",
       "title": "Senior Backend Engineer, Identity and Access Management ",
-      "location": "Canada",
+      "location": "Canada (+1 more)",
       "team": "32010 Backend Engineering",
       "url": "https://jobs.ashbyhq.com/clickup/8164d7f3-e6e6-428c-ae41-ac3b642866f5",
       "postedAt": "2026-11-20T14:35:46.202Z",
@@ -5745,6 +5812,7 @@
       "level": "experienced",
       "term": null,
       "regions": [
+        "us",
         "canada"
       ],
       "firstSeen": "2026-11-20T14:40:29.287Z"
