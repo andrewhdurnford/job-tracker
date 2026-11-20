@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-20T17:20:21.603Z",
+  "generatedAt": "2026-11-20T17:30:26.692Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "elastic:8406163",
-    "handshake:577b66c6-16d5-43f7-b1c6-1cb0a1d3d218"
+    "openai:70cfa7de-bf97-41e3-9784-8e123439a1d8",
+    "peloton:8399981",
+    "protege:47384a96-a258-4e76-b790-27e05bc207f9"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 12,
-    "experienced": 2192
+    "experienced": 2195
   },
   "companies": [
     {
@@ -3512,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 62,
+      "jobCount": 63,
       "error": null,
       "stale": false
     },
@@ -3631,7 +3632,7 @@
     {
       "name": "Peloton",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -3953,7 +3954,7 @@
     {
       "name": "Protege",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "70cfa7de-bf97-41e3-9784-8e123439a1d8",
+      "title": "Engineering Manager, Robotics Embedded Systems",
+      "location": "San Francisco",
+      "team": "Robotics",
+      "url": "https://jobs.ashbyhq.com/openai/70cfa7de-bf97-41e3-9784-8e123439a1d8",
+      "postedAt": "2026-11-20T17:28:23.866Z",
+      "key": "openai:70cfa7de-bf97-41e3-9784-8e123439a1d8",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T17:30:26.692Z"
+    },
+    {
+      "id": "47384a96-a258-4e76-b790-27e05bc207f9",
+      "title": "Senior Security Engineer",
+      "location": "Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/protege/47384a96-a258-4e76-b790-27e05bc207f9",
+      "postedAt": "2026-11-20T17:26:09.905Z",
+      "key": "protege:47384a96-a258-4e76-b790-27e05bc207f9",
+      "company": "Protege",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-20T17:30:26.692Z"
+    },
+    {
+      "id": "8399981",
+      "title": "Senior Product Quality Engineer",
+      "location": "Woodinville, Washington",
+      "team": null,
+      "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399981",
+      "postedAt": "2026-11-20T17:21:57.000Z",
+      "key": "peloton:8399981",
+      "company": "Peloton",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T17:30:26.692Z"
+    },
     {
       "id": "8406163",
       "title": "Senior Software Engineer - Vector Search - Elasticsearch",
