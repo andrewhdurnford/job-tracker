@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-20T20:20:18.973Z",
+  "generatedAt": "2026-11-20T20:30:24.649Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "exowatt:c73df83c-943e-4864-a0a9-aac823d9d72b"
+    "okta:8404551",
+    "okta:8396710",
+    "thetradedesk:5298122007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 12,
-    "experienced": 2196
+    "experienced": 2198
   },
   "companies": [
     {
@@ -1089,7 +1091,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3469,7 +3471,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -5058,7 +5060,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5298122007",
+      "title": "Cybersecurity Software Engineer II",
+      "location": "Bellevue; Boston; New York; Ventura",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5298122007",
+      "postedAt": "2026-11-20T20:29:42.000Z",
+      "key": "thetradedesk:5298122007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T20:30:24.649Z"
+    },
+    {
+      "id": "8404551",
+      "title": "Senior Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8404551?gh_jid=8404551",
+      "postedAt": "2026-11-20T20:27:04.000Z",
+      "key": "okta:8404551",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T20:30:24.649Z"
+    },
+    {
+      "id": "8396710",
+      "title": "Staff Software Engineer in Test",
+      "location": "San Francisco, CA, United States",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8396710?gh_jid=8396710",
+      "postedAt": "2026-11-20T20:23:35.000Z",
+      "key": "okta:8396710",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T20:30:24.649Z"
+    },
     {
       "id": "c73df83c-943e-4864-a0a9-aac823d9d72b",
       "title": "Senior Infrastructure Software Engineer (Austin, TX)",
@@ -41606,22 +41656,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T20:50:18.343Z"
-    },
-    {
-      "id": "cf28305f-0a9f-4b1b-a449-7f77aa0e2b14",
-      "title": "Senior Software Engineer, R&D",
-      "location": "Mountain View, CA (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/Commure/cf28305f-0a9f-4b1b-a449-7f77aa0e2b14",
-      "postedAt": "2026-10-21T20:27:05.840Z",
-      "key": "commure:cf28305f-0a9f-4b1b-a449-7f77aa0e2b14",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T20:30:20.953Z"
     },
     {
       "id": "R1002855",
