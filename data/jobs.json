@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-20T18:40:18.753Z",
+  "generatedAt": "2026-11-20T18:50:23.910Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "verkada:5302573007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -114,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3811,7 +3813,7 @@
       "name": "Pomelo Care",
       "ok": false,
       "jobCount": 1,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 118,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4726,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5371,7 +5373,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5678,10 +5680,10 @@
     },
     {
       "name": "Zoom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zscaler",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5302573007",
+      "title": "Engineering Manager, Mobile Platform",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5302573007",
+      "postedAt": "2026-11-20T18:43:22.000Z",
+      "key": "verkada:5302573007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T18:50:23.910Z"
+    },
     {
       "id": "6267187004",
       "title": "Staff Software Engineer, Agentic Tools",
@@ -10015,22 +10033,6 @@
         "us"
       ],
       "firstSeen": "2026-11-17T19:40:19.655Z"
-    },
-    {
-      "id": "8396777",
-      "title": "Senior Data Engineer Tech Foundations",
-      "location": "US - Remote",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8396777?gh_jid=8396777",
-      "postedAt": "2026-11-17T19:22:59.000Z",
-      "key": "airbnb:8396777",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-17T19:30:33.447Z"
     },
     {
       "id": "8359204",
