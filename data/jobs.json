@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-20T23:00:28.329Z",
+  "generatedAt": "2026-11-20T23:10:19.947Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "sambanovasystems:6268168004"
+    "elastic:8407503",
+    "faire:8957560002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 11,
-    "experienced": 2201
+    "experienced": 2202
   },
   "companies": [
     {
@@ -1319,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1523,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -1670,7 +1671,7 @@
     {
       "name": "Faire",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3771,7 +3772,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4106,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8407503",
+      "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+      "location": "United States",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8407503&gh_jid=8407503",
+      "postedAt": "2026-11-20T23:09:12.000Z",
+      "key": "elastic:8407503",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T23:10:19.947Z"
+    },
+    {
+      "id": "8957560002",
+      "title": "Senior Applied AI/ML Scientist - Retailer Growth",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/faire/jobs/8957560002?gh_jid=8957560002",
+      "postedAt": "2026-11-20T23:05:04.000Z",
+      "key": "faire:8957560002",
+      "company": "Faire",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T23:10:19.947Z"
+    },
     {
       "id": "6268168004",
       "title": "Principal DevOps Engineer",
@@ -41672,22 +41705,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T23:20:18.744Z"
-    },
-    {
-      "id": "8110339",
-      "title": "Senior Data Scientist, Safety Enforcement",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8110339",
-      "postedAt": "2026-10-21T23:07:25.000Z",
-      "key": "reddit:8110339",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T23:10:16.388Z"
     },
     {
       "id": "R1002855",
