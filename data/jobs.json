@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T22:00:29.364Z",
+  "generatedAt": "2026-11-20T22:10:26.016Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "cerebras:a3f0196e-3ca9-40ca-a3d6-b0c4611b15b6",
-    "curri:c9a15a08-ca80-414f-b61e-ad56e5e6dca8"
+    "airbnb:8406371",
+    "thetradedesk:5293915007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -117,7 +117,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -1320,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -1524,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4107,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4729,10 +4729,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5059,7 +5059,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8406371",
+      "title": "Senior Software Engineer, Partner Integrations ",
+      "location": "Remote, USA ",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8406371?gh_jid=8406371",
+      "postedAt": "2026-11-20T22:09:11.000Z",
+      "key": "airbnb:8406371",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T22:10:26.016Z"
+    },
+    {
+      "id": "5293915007",
+      "title": "Lead Senior Software Engineer, Performance Automation",
+      "location": "Bellevue; Boulder; Denver; Irvine",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5293915007",
+      "postedAt": "2026-11-20T22:05:05.000Z",
+      "key": "thetradedesk:5293915007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T22:10:26.016Z"
+    },
     {
       "id": "a3f0196e-3ca9-40ca-a3d6-b0c4611b15b6",
       "title": "Senior Product Quality Engineer",
@@ -41721,38 +41753,6 @@
         "us"
       ],
       "firstSeen": "2026-11-05T22:20:24.482Z"
-    },
-    {
-      "id": "8249252",
-      "title": "Senior Software Engineer - Platform Billing Experience",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8249252&gh_jid=8249252",
-      "postedAt": "2026-10-21T22:07:23.000Z",
-      "key": "elastic:8249252",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T22:10:16.590Z"
-    },
-    {
-      "id": "8311209",
-      "title": "Staff Software Engineer, iOS Platform",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8311209",
-      "postedAt": "2026-10-21T22:00:43.000Z",
-      "key": "reddit:8311209",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T22:10:16.590Z"
     },
     {
       "id": "R1002855",
