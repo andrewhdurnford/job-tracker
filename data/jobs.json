@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-20T22:50:26.419Z",
+  "generatedAt": "2026-11-20T23:00:28.329Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "sambanovasystems:6268168004"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 11,
-    "experienced": 2204
+    "experienced": 2201
   },
   "companies": [
     {
@@ -625,7 +627,7 @@
     {
       "name": "Blueberry Pediatrics",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3509,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 61,
+      "jobCount": 60,
       "error": null,
       "stale": false
     },
@@ -3769,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3782,7 +3784,7 @@
     {
       "name": "PlanetScale",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4328,7 +4330,7 @@
     {
       "name": "SambaNova Systems",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 120,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5056,7 +5058,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5700,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "6268168004",
+      "title": "Principal DevOps Engineer",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "team": null,
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6268168004",
+      "postedAt": "2026-11-20T22:57:33.000Z",
+      "key": "sambanovasystems:6268168004",
+      "company": "SambaNova Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T23:00:28.329Z"
+    },
+    {
       "id": "121af49e-df6c-47d7-9462-838ab65391ea",
       "title": "Founding Security Engineer",
       "location": "New York City",
@@ -6004,22 +6022,6 @@
         "us"
       ],
       "firstSeen": "2026-11-20T20:40:20.090Z"
-    },
-    {
-      "id": "5298122007",
-      "title": "Cybersecurity Software Engineer II",
-      "location": "Bellevue; Boston; New York; Ventura",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5298122007",
-      "postedAt": "2026-11-20T20:29:42.000Z",
-      "key": "thetradedesk:5298122007",
-      "company": "The Trade Desk",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-20T20:30:24.649Z"
     },
     {
       "id": "8404551",
@@ -23167,22 +23169,6 @@
         "us"
       ],
       "firstSeen": "2026-11-05T23:40:22.220Z"
-    },
-    {
-      "id": "2b2e519a-5392-408d-8fb6-a4d6003667b7",
-      "title": "Security Engineer",
-      "location": "Remote, USA",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/blueberrypediatrics/2b2e519a-5392-408d-8fb6-a4d6003667b7",
-      "postedAt": "2026-11-05T23:14:49.032Z",
-      "key": "blueberrypediatrics:2b2e519a-5392-408d-8fb6-a4d6003667b7",
-      "company": "Blueberry Pediatrics",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T23:50:19.551Z"
     },
     {
       "id": "6e4e6d5f-1588-4d88-a4de-429573407773",
@@ -41702,38 +41688,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T23:10:16.388Z"
-    },
-    {
-      "id": "4463390009",
-      "title": "AI Developer Experience Engineer",
-      "location": "Remote US ",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/planetscale/jobs/4463390009",
-      "postedAt": "2026-10-21T22:57:46.000Z",
-      "key": "planetscale:4463390009",
-      "company": "PlanetScale",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T23:00:25.885Z"
-    },
-    {
-      "id": "e99105f1-0a15-4f25-9538-60312568f835",
-      "title": "Software Engineer, Privacy Engineering (Lawful Access)",
-      "location": "San Francisco",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835",
-      "postedAt": "2026-10-21T22:55:41.495Z",
-      "key": "openai:e99105f1-0a15-4f25-9538-60312568f835",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T23:00:25.885Z"
     },
     {
       "id": "R1002855",
