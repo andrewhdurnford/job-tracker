@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T03:30:23.783Z",
+  "generatedAt": "2026-11-20T03:40:20.460Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 12,
-    "experienced": 2203
+    "experienced": 2202
   },
   "companies": [
     {
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -716,7 +716,7 @@
     {
       "name": "BridgeBio",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -857,7 +857,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -5636,10 +5636,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -41741,22 +41741,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T06:00:24.286Z"
-    },
-    {
-      "id": "5269882007",
-      "title": "Principal Clinical Database Systems Programmer",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/bridgebio/jobs/5269882007",
-      "postedAt": "2026-10-21T03:34:52.000Z",
-      "key": "bridgebio:5269882007",
-      "company": "BridgeBio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T03:40:16.908Z"
     },
     {
       "id": "R1002048",
