@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-11-20T23:20:19.479Z",
+  "generatedAt": "2026-11-20T23:30:22.068Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "baseten:8a989ccd-57d6-4015-bf79-2b28444e1e85",
-    "elastic:8407510"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -13,7 +10,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 11,
-    "experienced": 2203
+    "experienced": 2201
   },
   "companies": [
     {
@@ -594,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1349,7 +1346,7 @@
     {
       "name": "Decagon",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 120,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5108,7 +5105,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -7554,22 +7551,6 @@
         "canada"
       ],
       "firstSeen": "2026-11-19T22:10:23.216Z"
-    },
-    {
-      "id": "da7b2a8d-e090-4ee3-b4fb-359827c6a3ec",
-      "title": "Data Scientist, Analytics",
-      "location": "San Francisco",
-      "team": "Data Science",
-      "url": "https://jobs.ashbyhq.com/decagon/da7b2a8d-e090-4ee3-b4fb-359827c6a3ec",
-      "postedAt": "2026-11-19T21:51:05.396Z",
-      "key": "decagon:da7b2a8d-e090-4ee3-b4fb-359827c6a3ec",
-      "company": "Decagon",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-19T22:00:27.582Z"
     },
     {
       "id": "8143141",
@@ -14733,22 +14714,6 @@
         "us"
       ],
       "firstSeen": "2026-11-13T00:40:19.195Z"
-    },
-    {
-      "id": "8365546",
-      "title": "Staff Software Engineer, Enterprise",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8365546",
-      "postedAt": "2026-11-12T23:29:15.000Z",
-      "key": "toast:8365546",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-12T23:30:27.002Z"
     },
     {
       "id": "8346685",
