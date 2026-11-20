@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-20T23:30:22.068Z",
+  "generatedAt": "2026-11-20T23:40:18.624Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "elastic:8407549"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -5700,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "8407549",
+      "title": "Principal Software Developer - Search Infra - Elasticsearch",
+      "location": "Canada",
+      "team": null,
+      "url": "https://jobs.elastic.co/jobs?gh_jid=8407549&gh_jid=8407549",
+      "postedAt": "2026-11-20T23:38:42.000Z",
+      "key": "elastic:8407549",
+      "company": "Elastic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T23:40:18.624Z"
+    },
+    {
       "id": "8407510",
       "title": "Principal Software Developer - Vector Search - Elasticsearch",
       "location": "Canada",
@@ -5719,7 +5737,7 @@
       "id": "8a989ccd-57d6-4015-bf79-2b28444e1e85",
       "title": "Web Engineer",
       "location": "San Francisco (+1 more)",
-      "team": "Sales",
+      "team": "Marketing",
       "url": "https://jobs.ashbyhq.com/baseten/8a989ccd-57d6-4015-bf79-2b28444e1e85",
       "postedAt": "2026-11-20T23:13:53.868Z",
       "key": "baseten:8a989ccd-57d6-4015-bf79-2b28444e1e85",
@@ -13444,7 +13462,7 @@
     },
     {
       "id": "bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0",
-      "title": "Software Engineer, Cloud Platform",
+      "title": "Software Engineer - Cloud Platform",
       "location": "San Francisco (+5 more)",
       "team": "Cloud Platform",
       "url": "https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0",
@@ -41670,22 +41688,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T00:10:18.370Z"
-    },
-    {
-      "id": "8311496",
-      "title": "Senior Software Engineer - Control Plane (Hosted Foundations / Applications) ",
-      "location": "Canada",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8311496&gh_jid=8311496",
-      "postedAt": "2026-10-21T23:31:12.000Z",
-      "key": "elastic:8311496",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-21T23:40:15.544Z"
     },
     {
       "id": "R1002855",
