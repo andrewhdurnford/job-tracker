@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-11-20T01:30:24.784Z",
+  "generatedAt": "2026-11-20T01:40:19.514Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "cohere:dca93d1a-9ab8-442b-aa76-950595e8b9c3",
-    "lucidmotors:5290921007"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -13,7 +10,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 12,
-    "experienced": 2204
+    "experienced": 2203
   },
   "companies": [
     {
@@ -3246,7 +3243,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4729,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5639,10 +5636,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -5681,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zscaler",
@@ -6715,22 +6712,6 @@
         "us"
       ],
       "firstSeen": "2026-11-19T18:30:35.443Z"
-    },
-    {
-      "id": "6250690004",
-      "title": "Software Engineer III (Full-Stack) — Fulfillment Tracker",
-      "location": "Austin, TX",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6250690004",
-      "postedAt": "2026-11-19T18:17:32.000Z",
-      "key": "natera:6250690004",
-      "company": "Natera",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-19T22:30:24.702Z"
     },
     {
       "id": "d0c71974-3e7c-4080-ad97-7f3c7241fb48",
