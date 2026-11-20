@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-20T19:30:34.594Z",
+  "generatedAt": "2026-11-20T19:40:19.144Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "airbnb:8396777",
-    "twilio:8405813",
-    "twilio:8405805"
+    "okta:8404661",
+    "spacex:8950837002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +13,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 12,
-    "experienced": 2200
+    "experienced": 2202
   },
   "companies": [
     {
@@ -3471,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 33,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 118,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 119,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8404661",
+      "title": "Staff Software Engineer in Test - Okta Secures AI Team",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8404661?gh_jid=8404661",
+      "postedAt": "2026-11-20T19:34:56.000Z",
+      "key": "okta:8404661",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T19:40:19.144Z"
+    },
+    {
+      "id": "8950837002",
+      "title": "Maintenance & Reliability Engineer",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8950837002?gh_jid=8950837002",
+      "postedAt": "2026-11-20T19:29:04.000Z",
+      "key": "spacex:8950837002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T19:40:19.144Z"
+    },
     {
       "id": "8405805",
       "title": "Senior Engineer, Security Automation",
@@ -27783,7 +27814,7 @@
     },
     {
       "id": "8920514002",
-      "title": "Data Scientist (Starlink)",
+      "title": "Data Engineer (Starlink)",
       "location": "Redmond, WA",
       "team": null,
       "url": "https://boards.greenhouse.io/spacex/jobs/8920514002?gh_jid=8920514002",
