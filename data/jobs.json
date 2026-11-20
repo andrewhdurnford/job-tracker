@@ -1,18 +1,19 @@
 {
-  "generatedAt": "2026-11-20T01:20:19.742Z",
+  "generatedAt": "2026-11-20T01:30:24.784Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "lucidmotors:5290941007"
+    "cohere:dca93d1a-9ab8-442b-aa76-950595e8b9c3",
+    "lucidmotors:5290921007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 105,
+    "intern": 106,
     "new-grad": 12,
-    "experienced": 2203
+    "experienced": 2204
   },
   "companies": [
     {
@@ -1047,7 +1048,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2811,7 +2812,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 16,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4434,10 +4435,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -5638,10 +5639,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zerocater",
@@ -5680,10 +5681,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -5701,6 +5702,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5290921007",
+      "title": "Intern, Infotainment Software, Summer 2027",
+      "location": "Newark, CA",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
+      "postedAt": "2026-11-20T01:27:26.000Z",
+      "key": "lucidmotors:5290921007",
+      "company": "Lucid Motors",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T01:30:24.784Z"
+    },
     {
       "id": "5290941007",
       "title": "Product Security Engineering Intern, Summer 2027",
@@ -13021,7 +13044,7 @@
       "id": "5831a16f-745b-4d49-bc7a-a371b4686ab4",
       "title": "Senior/Staff Software Engineer, Developer Experience",
       "location": "London (+4 more)",
-      "team": "Product Engineering",
+      "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/cohere/5831a16f-745b-4d49-bc7a-a371b4686ab4",
       "postedAt": "2026-11-13T15:39:48.183Z",
       "key": "cohere:5831a16f-745b-4d49-bc7a-a371b4686ab4",
@@ -32470,7 +32493,7 @@
       "id": "be48aafc-9610-4ebd-8414-a0722a3cd59a",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
       "location": "Toronto (+4 more)",
-      "team": "Delivery Engineering",
+      "team": "Infrastructure",
       "url": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a",
       "postedAt": "2026-10-30T21:56:46.180Z",
       "key": "cohere:be48aafc-9610-4ebd-8414-a0722a3cd59a",
@@ -34763,7 +34786,7 @@
       "id": "8df498e9-aba8-487f-80ba-362b492bad09",
       "title": "Forward Deployed Engineer, Inference ",
       "location": "United States",
-      "team": "Delivery Engineering",
+      "team": "Infrastructure",
       "url": "https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09",
       "postedAt": "2026-10-28T21:49:48.769Z",
       "key": "cohere:8df498e9-aba8-487f-80ba-362b492bad09",
@@ -38320,6 +38343,22 @@
       "firstSeen": "2026-10-23T20:40:17.893Z"
     },
     {
+      "id": "dca93d1a-9ab8-442b-aa76-950595e8b9c3",
+      "title": "Engineering Manager, Cohere APIs and DevEx",
+      "location": "Toronto (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/cohere/dca93d1a-9ab8-442b-aa76-950595e8b9c3",
+      "postedAt": "2026-10-23T20:27:07.216Z",
+      "key": "cohere:dca93d1a-9ab8-442b-aa76-950595e8b9c3",
+      "company": "Cohere",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T01:30:24.784Z"
+    },
+    {
       "id": "1bda085b-f8bb-490f-9804-66c4f6a55b29",
       "title": "Electrical Build Engineer",
       "location": "Austin, TX",
@@ -40219,7 +40258,7 @@
       "id": "529b2dd6-4be3-49db-97cd-781f4897540b",
       "title": "Staff/Senior Staff Software Engineer, Agent Infrastructure",
       "location": "Toronto (+2 more)",
-      "team": "Delivery Engineering",
+      "team": "Infrastructure",
       "url": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b",
       "postedAt": "2026-10-22T01:52:35.722Z",
       "key": "cohere:529b2dd6-4be3-49db-97cd-781f4897540b",
