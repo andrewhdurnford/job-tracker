@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-20T14:10:22.308Z",
+  "generatedAt": "2026-11-20T14:20:26.459Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "openai:f6cada21-0f54-4d8a-884e-e3c64edd4789"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 12,
-    "experienced": 2189
+    "experienced": 2187
   },
   "companies": [
     {
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2809,7 +2811,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -3509,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 61,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -4104,7 +4106,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4118,7 +4120,7 @@
     {
       "name": "Reflection AI",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "f6cada21-0f54-4d8a-884e-e3c64edd4789",
+      "title": "Data Scientist, Integrity",
+      "location": "San Francisco",
+      "team": "Data Science",
+      "url": "https://jobs.ashbyhq.com/openai/f6cada21-0f54-4d8a-884e-e3c64edd4789",
+      "postedAt": "2026-11-20T14:14:02.177Z",
+      "key": "openai:f6cada21-0f54-4d8a-884e-e3c64edd4789",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T14:20:26.459Z"
+    },
     {
       "id": "6267134004",
       "title": "Engineering Manager - Grafana Infrastructure (Remote, USA)",
@@ -16874,7 +16892,7 @@
     },
     {
       "id": "a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
-      "title": "Senior Developer Success Engineer ",
+      "title": "Senior Developer Success Engineer",
       "location": "United States (Remote) (+5 more)",
       "team": "Customer Support",
       "url": "https://jobs.ashbyhq.com/temporal/a58b6b5f-204f-454d-9cd5-e8b2acc44b65",
@@ -41501,54 +41519,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T14:40:15.875Z"
-    },
-    {
-      "id": "8289345",
-      "title": "Principal Data Scientist, User Ecosystem",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8289345",
-      "postedAt": "2026-10-21T14:16:31.000Z",
-      "key": "reddit:8289345",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T14:20:16.461Z"
-    },
-    {
-      "id": "90f44c78-5612-40ca-91b8-71575d774cf9",
-      "title": "Member of Technical Staff - Engineering Lead, Data Acquisition",
-      "location": "San Francisco, CA (+2 more)",
-      "team": "Data Acquisition",
-      "url": "https://jobs.ashbyhq.com/reflectionai/90f44c78-5612-40ca-91b8-71575d774cf9",
-      "postedAt": "2026-10-21T14:15:02.442Z",
-      "key": "reflectionai:90f44c78-5612-40ca-91b8-71575d774cf9",
-      "company": "Reflection AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T14:20:16.461Z"
-    },
-    {
-      "id": "5244176007",
-      "title": "Senior Systems Engineer,  Autonomy/ADAS",
-      "location": "Southfield, MI",
-      "team": null,
-      "url": "https://lucidmotors.com/careers/search/5244176007?gh_jid=5244176007",
-      "postedAt": "2026-10-21T14:12:44.000Z",
-      "key": "lucidmotors:5244176007",
-      "company": "Lucid Motors",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T14:20:16.461Z"
     },
     {
       "id": "R1002048",
