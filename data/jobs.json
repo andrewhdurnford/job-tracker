@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-20T18:50:23.910Z",
+  "generatedAt": "2026-11-20T19:00:29.664Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "verkada:5302573007"
+    "gitlab:8957066002",
+    "roblox:8397868"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -859,7 +860,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1964,7 +1965,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3225,7 +3226,7 @@
       "name": "NanoNets",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -3813,7 +3814,7 @@
       "name": "Pomelo Care",
       "ok": false,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4239,7 +4240,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 45,
+      "jobCount": 46,
       "error": null,
       "stale": false
     },
@@ -4434,10 +4435,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -4638,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4728,10 +4729,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -5618,7 +5619,7 @@
     {
       "name": "Zapier",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5680,10 +5681,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8397868",
+      "title": "Senior Enterprise Security Engineer",
+      "location": "San Mateo, CA, United States",
+      "team": null,
+      "url": "https://careers.roblox.com/jobs/8397868?gh_jid=8397868",
+      "postedAt": "2026-11-20T18:59:34.000Z",
+      "key": "roblox:8397868",
+      "company": "Roblox",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T19:00:29.664Z"
+    },
+    {
+      "id": "8957066002",
+      "title": "Senior CX Platform Engineer",
+      "location": "Remote, Canada",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957066002",
+      "postedAt": "2026-11-20T18:57:40.000Z",
+      "key": "gitlab:8957066002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T19:00:29.664Z"
+    },
     {
       "id": "5302573007",
       "title": "Engineering Manager, Mobile Platform",
@@ -41574,38 +41607,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T19:10:16.863Z"
-    },
-    {
-      "id": "143a2248-564b-4cfa-85f5-d47bac911d74",
-      "title": "Senior Infrastructure Engineer, Observe by Snowflake",
-      "location": "US-CA-Menlo Park",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/143a2248-564b-4cfa-85f5-d47bac911d74",
-      "postedAt": "2026-10-21T18:56:09.350Z",
-      "key": "snowflake:143a2248-564b-4cfa-85f5-d47bac911d74",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T19:00:26.093Z"
-    },
-    {
-      "id": "7683bf9a-cb86-47de-a15b-4bcc0b70e2e2",
-      "title": "Sr. Engineer, Infrastructure Security",
-      "location": "NAMER (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/zapier/7683bf9a-cb86-47de-a15b-4bcc0b70e2e2",
-      "postedAt": "2026-10-21T18:55:28.664Z",
-      "key": "zapier:7683bf9a-cb86-47de-a15b-4bcc0b70e2e2",
-      "company": "Zapier",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T19:00:26.093Z"
     },
     {
       "id": "R1002855",
