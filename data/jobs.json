@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-20T00:10:19.041Z",
+  "generatedAt": "2026-11-20T00:20:18.819Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "modernhealth:8950375002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 12,
-    "experienced": 2202
+    "experienced": 2201
   },
   "companies": [
     {
@@ -1562,10 +1564,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -2172,7 +2174,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -3103,7 +3105,7 @@
     {
       "name": "Modern Health",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -4726,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -4985,10 +4987,10 @@
     },
     {
       "name": "Tecton",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tekton Dynamics",
@@ -5482,10 +5484,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Weave",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8950375002",
+      "title": "Staff Analytics Engineer",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/modernhealth/jobs/8950375002",
+      "postedAt": "2026-11-20T00:19:06.000Z",
+      "key": "modernhealth:8950375002",
+      "company": "Modern Health",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T00:20:18.819Z"
+    },
     {
       "id": "8397795",
       "title": "Senior Software Engineer - UGC Marketplace",
@@ -6590,7 +6608,7 @@
     },
     {
       "id": "da40ed6e-1c32-4284-89f5-2ad0813b8d49",
-      "title": "Software Engineer, Production Engineering, FinOps",
+      "title": "FinOps Specialist, Production Engineering",
       "location": "New York, NY (HQ)",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49",
@@ -10860,7 +10878,7 @@
       "id": "2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
       "title": "Data Engineering Manager, Devices",
       "location": "San Francisco",
-      "team": "Applied AI Engineering",
+      "team": "XYZ - Exec",
       "url": "https://jobs.ashbyhq.com/openai/2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
       "postedAt": "2026-11-16T18:44:15.687Z",
       "key": "openai:2d1901e0-e5ad-4c2e-88f8-dd9d21257f62",
@@ -17873,7 +17891,7 @@
       "id": "74842880-e750-4664-9e2e-83b4c96c5a03",
       "title": "Principal Software Engineer, Full Stack — Codex",
       "location": "San Francisco",
-      "team": "Codex - Engineering",
+      "team": "XYZ - Exec",
       "url": "https://jobs.ashbyhq.com/openai/74842880-e750-4664-9e2e-83b4c96c5a03",
       "postedAt": "2026-11-10T01:56:04.499Z",
       "key": "openai:74842880-e750-4664-9e2e-83b4c96c5a03",
@@ -41551,38 +41569,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T02:10:22.335Z"
-    },
-    {
-      "id": "de1d9fbe-c7a9-49ac-b5c0-aaaa606325b2",
-      "title": "Senior Engineering Manager, Backend Platform",
-      "location": "New York",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/harvey/de1d9fbe-c7a9-49ac-b5c0-aaaa606325b2",
-      "postedAt": "2026-10-21T00:10:34.724Z",
-      "key": "harvey:de1d9fbe-c7a9-49ac-b5c0-aaaa606325b2",
-      "company": "Harvey",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T00:20:16.517Z"
-    },
-    {
-      "id": "bc2cf43d-c37d-4496-b64e-277ba79ad415",
-      "title": "Senior Engineering Manager, Backend Platform",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/harvey/bc2cf43d-c37d-4496-b64e-277ba79ad415",
-      "postedAt": "2026-10-21T00:10:28.929Z",
-      "key": "harvey:bc2cf43d-c37d-4496-b64e-277ba79ad415",
-      "company": "Harvey",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T00:20:16.517Z"
     },
     {
       "id": "R1003405",
