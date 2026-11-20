@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-20T02:30:22.658Z",
+  "generatedAt": "2026-11-20T02:38:13.571Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Remitly:R_106870",
+    "Remitly:R_106522",
+    "Remitly:R_107197"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 12,
-    "experienced": 2200
+    "experienced": 2201
   },
   "companies": [
     {
@@ -1317,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -4131,10 +4135,10 @@
     },
     {
       "name": "Remitly",
-      "ok": false,
-      "jobCount": 20,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "ok": true,
+      "jobCount": 22,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Remora",
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 116,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4726,10 +4730,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -5034,10 +5038,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": false,
-      "jobCount": 8,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "ok": true,
+      "jobCount": 7,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tennr",
@@ -8518,6 +8522,22 @@
       "firstSeen": "2026-11-18T05:00:26.299Z"
     },
     {
+      "id": "R_106870",
+      "title": "Senior Software Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Engineer_R_106870",
+      "postedAt": "2026-11-18T02:38:17.621Z",
+      "key": "Remitly:R_106870",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T02:38:13.571Z"
+    },
+    {
       "id": "251fe699-486d-4b3a-9886-28d568cf5436",
       "title": "IT Infrastructure Architect (Brownsville, TX)",
       "location": "Brownsville, TX",
@@ -10064,6 +10084,38 @@
         "canada"
       ],
       "firstSeen": "2026-11-17T03:00:29.116Z"
+    },
+    {
+      "id": "R_107197",
+      "title": "Senior Analytics Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Analytics-Engineer_R_107197",
+      "postedAt": "2026-11-17T02:38:17.621Z",
+      "key": "Remitly:R_107197",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T02:38:13.571Z"
+    },
+    {
+      "id": "R_106522",
+      "title": "Senior Fullstack Software Development Engineer, USA Regional  Experience",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Fullstack-Software-Development-Engineer--USA-Regional--Experience_R_106522",
+      "postedAt": "2026-11-17T02:38:17.621Z",
+      "key": "Remitly:R_106522",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T02:38:13.571Z"
     },
     {
       "id": "8945889002",
@@ -16988,7 +17040,7 @@
     },
     {
       "id": "R_106982",
-      "title": "Senior Software Engineer, Globalization",
+      "title": "Senior Software Engineer, Localization",
       "location": "Seattle, Washington United States",
       "team": null,
       "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Engineer--Globalization_R_106982",
@@ -41711,22 +41763,6 @@
       "firstSeen": "2026-10-20T21:20:19.949Z"
     },
     {
-      "id": "R_106587",
-      "title": "Full Stack Software Engineer, Remitly Business",
-      "location": "Burnaby, British Columbia, Canada",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Burnaby-British-Columbia-Canada/Senior-Software-Engineer_R_106587",
-      "postedAt": "2026-10-20T20:30:29.679Z",
-      "key": "Remitly:R_106587",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-20T20:30:22.990Z"
-    },
-    {
       "id": "R1004185",
       "title": "Senior Staff Full-stack Engineer – Customer Resiliency (Senior Director, IC) (Remote-Eligible)",
       "location": "7 Locations",
@@ -42634,22 +42670,6 @@
         "us"
       ],
       "firstSeen": "2026-10-05T16:00:26.608Z"
-    },
-    {
-      "id": "JR202601036",
-      "title": "Senior Software Engineer II, RPM Growth & Ops",
-      "location": "New York City",
-      "team": null,
-      "url": "https://tempus.wd5.myworkdayjobs.com/en-US/Tempus_Careers/job/New-York-City/Senior-Software-Engineer-II--RPM-Growth---Ops_JR202601036",
-      "postedAt": "2026-10-05T14:50:20.188Z",
-      "key": "Tempus AI:JR202601036",
-      "company": "Tempus AI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-05T14:50:16.561Z"
     },
     {
       "id": "JR202601035",
