@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-20T20:00:27.785Z",
+  "generatedAt": "2026-11-20T20:10:18.255Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "zscaler:5283494007",
+    "zscaler:5283490007"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -934,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1753,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1774,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1875,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3740,7 +3743,7 @@
     {
       "name": "Pinecone",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4104,7 +4107,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 16,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 119,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5686,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 29,
       "error": null,
       "stale": false
     },
@@ -6050,6 +6053,38 @@
         "canada"
       ],
       "firstSeen": "2026-11-20T17:50:20.622Z"
+    },
+    {
+      "id": "5283494007",
+      "title": "Software Development Engineer",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+      "postedAt": "2026-11-20T17:38:40.000Z",
+      "key": "zscaler:5283494007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T20:10:18.255Z"
+    },
+    {
+      "id": "5283490007",
+      "title": "Sr. Software Development Engineer",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283490007",
+      "postedAt": "2026-11-20T17:38:35.000Z",
+      "key": "zscaler:5283490007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T20:10:18.255Z"
     },
     {
       "id": "8350696",
@@ -41572,38 +41607,6 @@
         "us"
       ],
       "firstSeen": "2026-10-21T20:30:20.953Z"
-    },
-    {
-      "id": "8204924",
-      "title": "Staff Backend Engineer, User Safety",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8204924",
-      "postedAt": "2026-10-21T20:01:38.000Z",
-      "key": "reddit:8204924",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T20:10:18.046Z"
-    },
-    {
-      "id": "08760530-e6c3-4167-9272-923d85a2388d",
-      "title": "Full-Stack Software Engineer, Experience",
-      "location": "New York City",
-      "team": "Experience",
-      "url": "https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d",
-      "postedAt": "2026-10-21T20:01:29.020Z",
-      "key": "pinecone:08760530-e6c3-4167-9272-923d85a2388d",
-      "company": "Pinecone",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T20:10:18.046Z"
     },
     {
       "id": "R1002855",
