@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-20T14:30:23.519Z",
+  "generatedAt": "2026-11-20T14:40:29.287Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "clickup:8164d7f3-e6e6-428c-ae41-ac3b642866f5",
+    "depot:51593744-cd6a-47a2-9365-febefe0e1f70",
+    "intercom:8405770"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 107,
     "new-grad": 12,
-    "experienced": 2187
+    "experienced": 2189
   },
   "companies": [
     {
@@ -989,7 +993,7 @@
     {
       "name": "ClickUp",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1395,7 +1399,7 @@
     {
       "name": "Depot",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1814,10 +1818,10 @@
     },
     {
       "name": "Flexport",
-      "ok": false,
+      "ok": true,
       "jobCount": 7,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Flint",
@@ -2102,7 +2106,7 @@
     {
       "name": "Gusto",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -2424,7 +2428,7 @@
     {
       "name": "Intercom",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,55 @@
     }
   ],
   "jobs": [
+    {
+      "id": "51593744-cd6a-47a2-9365-febefe0e1f70",
+      "title": "Senior Developer Educator",
+      "location": "United States (+3 more)",
+      "team": "Marketing",
+      "url": "https://jobs.ashbyhq.com/depot/51593744-cd6a-47a2-9365-febefe0e1f70",
+      "postedAt": "2026-11-20T14:35:51.029Z",
+      "key": "depot:51593744-cd6a-47a2-9365-febefe0e1f70",
+      "company": "Depot",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T14:40:29.287Z"
+    },
+    {
+      "id": "8164d7f3-e6e6-428c-ae41-ac3b642866f5",
+      "title": "Senior Backend Engineer, Identity and Access Management ",
+      "location": "Canada",
+      "team": "32010 Backend Engineering",
+      "url": "https://jobs.ashbyhq.com/clickup/8164d7f3-e6e6-428c-ae41-ac3b642866f5",
+      "postedAt": "2026-11-20T14:35:46.202Z",
+      "key": "clickup:8164d7f3-e6e6-428c-ae41-ac3b642866f5",
+      "company": "ClickUp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-20T14:40:29.287Z"
+    },
+    {
+      "id": "8405770",
+      "title": "Forward Deployed Engineer",
+      "location": "New York, New York",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8405770",
+      "postedAt": "2026-11-20T14:33:55.000Z",
+      "key": "intercom:8405770",
+      "company": "Intercom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T14:40:29.287Z"
+    },
     {
       "id": "f6cada21-0f54-4d8a-884e-e3c64edd4789",
       "title": "Data Scientist, Integrity",
@@ -41501,22 +41554,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-21T15:50:16.946Z"
-    },
-    {
-      "id": "8257486",
-      "title": "Workday System Developer",
-      "location": "Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/8257486",
-      "postedAt": "2026-10-21T14:35:39.000Z",
-      "key": "gusto:8257486",
-      "company": "Gusto",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-21T14:40:15.875Z"
     },
     {
       "id": "R1002048",
