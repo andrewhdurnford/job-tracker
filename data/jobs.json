@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-20T03:50:19.618Z",
+  "generatedAt": "2026-11-20T04:00:25.876Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "discord:8950137002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 12,
-    "experienced": 2202
+    "experienced": 2203
   },
   "companies": [
     {
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1409,7 +1411,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 116,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8950137002",
+      "title": "Senior Manager, Developer Solutions",
+      "location": "San Francisco Bay Area or New York Metropolitan Area ",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8950137002",
+      "postedAt": "2026-11-20T03:51:47.000Z",
+      "key": "discord:8950137002",
+      "company": "Discord",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-20T04:00:25.876Z"
+    },
     {
       "id": "5490122008",
       "title": "[P] Engineering Manager, Privacy Infrastructure",
