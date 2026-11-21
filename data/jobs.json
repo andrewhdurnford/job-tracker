@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:50:18.581Z",
+  "generatedAt": "2026-11-21T23:00:26.713Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 99,
     "new-grad": 10,
-    "experienced": 2170
+    "experienced": 2169
   },
   "companies": [
     {
@@ -780,7 +780,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -857,7 +857,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3670,7 +3670,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -41001,22 +41001,6 @@
       "postedAt": "2026-10-22T23:06:18.000Z",
       "key": "airbnb:8316130",
       "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T23:10:18.285Z"
-    },
-    {
-      "id": "06dcd116-2b07-4f40-869e-06ed540f7614",
-      "title": "Member of Technical Staff, (Software Engineer, Experience)",
-      "location": "San Francisco (+1 more)",
-      "team": "AI Products",
-      "url": "https://jobs.ashbyhq.com/Perplexity/06dcd116-2b07-4f40-869e-06ed540f7614",
-      "postedAt": "2026-10-22T23:00:03.164Z",
-      "key": "perplexity:06dcd116-2b07-4f40-869e-06ed540f7614",
-      "company": "Perplexity",
       "level": "experienced",
       "term": null,
       "regions": [
