@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-21T13:00:26.559Z",
+  "generatedAt": "2026-11-21T13:10:17.668Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "anthropic:5489567008"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 11,
-    "experienced": 2215
+    "experienced": 2214
   },
   "companies": [
     {
@@ -1319,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -5583,7 +5581,7 @@
     {
       "name": "xAI",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -41878,22 +41876,6 @@
       "postedAt": "2026-10-22T13:10:19.250Z",
       "key": "Capital One:R1004280",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T13:10:16.516Z"
-    },
-    {
-      "id": "5271372007",
-      "title": "Software Engineer, Observability (Supercompute) ",
-      "location": "Memphis, TN",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/xai/jobs/5271372007",
-      "postedAt": "2026-10-22T13:04:44.000Z",
-      "key": "xai:5271372007",
-      "company": "xAI",
       "level": "experienced",
       "term": null,
       "regions": [
