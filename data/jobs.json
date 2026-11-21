@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:30:22.607Z",
+  "generatedAt": "2026-11-21T18:40:18.372Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 11,
-    "experienced": 2188
+    "experienced": 2187
   },
   "companies": [
     {
@@ -863,7 +863,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 111,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -41411,22 +41411,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T19:10:16.717Z"
-    },
-    {
-      "id": "022da778-f070-4f97-9c6b-b2622ef8b7b7",
-      "title": "Staff Software Engineer, Observability",
-      "location": "Sunnyvale, CA",
-      "team": "Inference Service",
-      "url": "https://jobs.ashbyhq.com/cerebras/022da778-f070-4f97-9c6b-b2622ef8b7b7",
-      "postedAt": "2026-10-22T18:37:07.719Z",
-      "key": "cerebras:022da778-f070-4f97-9c6b-b2622ef8b7b7",
-      "company": "Cerebras Systems",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T02:30:22.413Z"
     },
     {
       "id": "R1004280",
