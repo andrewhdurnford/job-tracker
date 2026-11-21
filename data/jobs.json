@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-21T17:40:19.876Z",
+  "generatedAt": "2026-11-21T17:50:19.313Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "cloudflare:8406944",
+    "harvey:a42047fc-fbd1-4e14-bf10-15207ae2d060",
+    "harvey:e46d48b8-57c7-401c-be33-f56774dc072d"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 11,
-    "experienced": 2193
+    "experienced": 2192
   },
   "companies": [
     {
@@ -520,7 +524,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1010,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 31,
+      "jobCount": 32,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2172,7 +2176,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 19,
       "error": null,
       "stale": false
     },
@@ -3558,7 +3562,7 @@
     {
       "name": "Outset",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4432,10 +4436,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 111,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5686,7 +5690,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 28,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8406944",
+      "title": "Senior Platform Engineer, Replicate",
+      "location": "Austin, TX (+1 more)",
+      "team": "Emerging Technology and Incubation",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944",
+      "postedAt": "2026-11-21T17:47:15.000Z",
+      "key": "cloudflare:8406944",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T17:50:19.313Z"
+    },
+    {
+      "id": "e46d48b8-57c7-401c-be33-f56774dc072d",
+      "title": "Creative AI Engineer",
+      "location": "San Francisco",
+      "team": "Marketing",
+      "url": "https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d",
+      "postedAt": "2026-11-21T17:44:35.163Z",
+      "key": "harvey:e46d48b8-57c7-401c-be33-f56774dc072d",
+      "company": "Harvey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T17:50:19.313Z"
+    },
+    {
+      "id": "a42047fc-fbd1-4e14-bf10-15207ae2d060",
+      "title": "Creative AI Engineer",
+      "location": "New York",
+      "team": "Marketing",
+      "url": "https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060",
+      "postedAt": "2026-11-21T17:44:26.219Z",
+      "key": "harvey:a42047fc-fbd1-4e14-bf10-15207ae2d060",
+      "company": "Harvey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T17:50:19.313Z"
+    },
     {
       "id": "8957582002",
       "title": "Sr. Design Reliability Engineer (Falcon & Dragon)",
@@ -41445,71 +41497,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-22T18:00:25.291Z"
-    },
-    {
-      "id": "34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
-      "title": "Software Engineer - Billing & Internal Tooling",
-      "location": "San Francisco (+4 more)",
-      "team": "Product Platform",
-      "url": "https://jobs.ashbyhq.com/baseten/34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
-      "postedAt": "2026-10-22T17:50:10.803Z",
-      "key": "baseten:34fd4416-49f3-4ef7-b9f8-5883f8d0710c",
-      "company": "Baseten",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-22T18:00:25.291Z"
-    },
-    {
-      "id": "a9a0c4b2-b42c-4db2-9d83-c434b894799a",
-      "title": "Research Scientist",
-      "location": "San Francisco",
-      "team": "Science",
-      "url": "https://jobs.ashbyhq.com/outset/a9a0c4b2-b42c-4db2-9d83-c434b894799a",
-      "postedAt": "2026-10-22T17:47:16.689Z",
-      "key": "outset:a9a0c4b2-b42c-4db2-9d83-c434b894799a",
-      "company": "Outset",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T17:50:18.562Z"
-    },
-    {
-      "id": "5253937007",
-      "title": "Sr. Staff Software Engineer, Cloud Networking & Datapath",
-      "location": "Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5253937007",
-      "postedAt": "2026-10-22T17:44:13.000Z",
-      "key": "zscaler:5253937007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T17:50:18.562Z"
-    },
-    {
-      "id": "f27ab616-7298-45cc-96a3-8161f356deea",
-      "title": "Research Engineer",
-      "location": "San Francisco",
-      "team": "Science",
-      "url": "https://jobs.ashbyhq.com/outset/f27ab616-7298-45cc-96a3-8161f356deea",
-      "postedAt": "2026-10-22T17:42:49.736Z",
-      "key": "outset:f27ab616-7298-45cc-96a3-8161f356deea",
-      "company": "Outset",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T17:50:18.562Z"
     },
     {
       "id": "R1004280",
