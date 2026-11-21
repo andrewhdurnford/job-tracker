@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:20:18.290Z",
+  "generatedAt": "2026-11-21T19:30:23.267Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 11,
-    "experienced": 2182
+    "experienced": 2181
   },
   "companies": [
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1521,7 +1521,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 33,
       "error": null,
       "stale": false
     },
@@ -4726,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -41298,22 +41298,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T20:00:28.577Z"
-    },
-    {
-      "id": "8315564",
-      "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
-      "location": "Switzerland",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8315564&gh_jid=8315564",
-      "postedAt": "2026-10-22T19:30:05.000Z",
-      "key": "elastic:8315564",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-22T19:30:23.747Z"
     },
     {
       "id": "REF089520W",
