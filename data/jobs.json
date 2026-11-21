@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-21T17:20:18.670Z",
+  "generatedAt": "2026-11-21T17:30:24.195Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "spacex:8957582002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 11,
-    "experienced": 2195
+    "experienced": 2196
   },
   "companies": [
     {
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4692,7 +4694,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 110,
+      "jobCount": 111,
       "error": null,
       "stale": false
     },
@@ -4726,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8957582002",
+      "title": "Sr. Design Reliability Engineer (Falcon & Dragon)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8957582002?gh_jid=8957582002",
+      "postedAt": "2026-11-21T17:20:17.000Z",
+      "key": "spacex:8957582002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T17:30:24.195Z"
+    },
     {
       "id": "5489567008",
       "title": "Research Engineer, Finetuning",
