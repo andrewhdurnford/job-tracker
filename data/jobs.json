@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T08:40:18.506Z",
+  "generatedAt": "2026-11-21T08:50:18.679Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -353,7 +353,7 @@
       "name": "Arctic Wolf",
       "ok": false,
       "jobCount": 1,
-      "error": "response was not valid JSON",
+      "error": "HTTP 429 Too Many Requests",
       "stale": true
     },
     {
@@ -4434,7 +4434,7 @@
       "name": "ServiceTitan",
       "ok": false,
       "jobCount": 5,
-      "error": "response was not valid JSON",
+      "error": "HTTP 429 Too Many Requests",
       "stale": true
     },
     {
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 119,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4728,7 +4728,7 @@
       "name": "Sprinklr",
       "ok": false,
       "jobCount": 0,
-      "error": "response was not valid JSON",
+      "error": "HTTP 429 Too Many Requests",
       "stale": true
     },
     {
@@ -5638,7 +5638,7 @@
       "name": "Zendesk",
       "ok": false,
       "jobCount": 0,
-      "error": "response was not valid JSON",
+      "error": "HTTP 429 Too Many Requests",
       "stale": true
     },
     {
