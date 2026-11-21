@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-21T00:20:20.217Z",
+  "generatedAt": "2026-11-21T00:30:22.458Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "illumio:98339bce-9fe3-460b-96f6-0378b7e422aa"
+    "illumio:64074483-56d2-4d35-a07c-25991dd5ba81",
+    "lyft:8957597002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -305,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 39,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2342,7 +2343,7 @@
     {
       "name": "Illumio",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2846,7 +2847,7 @@
     {
       "name": "Lyft",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4728,10 +4729,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5170,7 +5171,7 @@
     {
       "name": "Treasury Prime",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8957597002",
+      "title": "Senior Director, Infrastructure Engineering",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002",
+      "postedAt": "2026-11-21T00:30:12.000Z",
+      "key": "lyft:8957597002",
+      "company": "Lyft",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T00:30:22.458Z"
+    },
+    {
+      "id": "64074483-56d2-4d35-a07c-25991dd5ba81",
+      "title": "Sr. Software Engineer - Full Stack",
+      "location": "HQ - Sunnyvale (Office)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/illumio/64074483-56d2-4d35-a07c-25991dd5ba81",
+      "postedAt": "2026-11-21T00:22:04.487Z",
+      "key": "illumio:64074483-56d2-4d35-a07c-25991dd5ba81",
+      "company": "Illumio",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T00:30:22.458Z"
+    },
     {
       "id": "98339bce-9fe3-460b-96f6-0378b7e422aa",
       "title": "Sr. Software Engineer - Container Security",
@@ -41768,38 +41801,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T00:50:19.143Z"
-    },
-    {
-      "id": "5457716008",
-      "title": "Staff Software Engineer, Finance Engineering",
-      "location": "San Francisco, CA | Seattle, WA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5457716008",
-      "postedAt": "2026-10-22T00:29:11.000Z",
-      "key": "anthropic:5457716008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T00:30:21.446Z"
-    },
-    {
-      "id": "5460658008",
-      "title": "Senior DevOps Engineer",
-      "location": "San Francisco, California",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/treasuryprime/jobs/5460658008",
-      "postedAt": "2026-10-22T00:26:45.000Z",
-      "key": "treasuryprime:5460658008",
-      "company": "Treasury Prime",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T00:30:21.446Z"
     },
     {
       "id": "R1002855",
