@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:30:24.266Z",
+  "generatedAt": "2026-11-21T22:40:17.654Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 99,
     "new-grad": 10,
-    "experienced": 2173
+    "experienced": 2171
   },
   "companies": [
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3509,7 +3509,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 58,
+      "jobCount": 57,
       "error": null,
       "stale": false
     },
@@ -4230,7 +4230,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -41039,38 +41039,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T23:00:27.859Z"
-    },
-    {
-      "id": "8302244",
-      "title": "Staff Web Engineer, Advisory Products",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8302244?t=gh_src=&gh_jid=8302244",
-      "postedAt": "2026-10-22T22:37:11.000Z",
-      "key": "robinhood:8302244",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T22:40:16.352Z"
-    },
-    {
-      "id": "dd9c7c04-7181-4c65-9c6a-0e04313e3707",
-      "title": "Principal Software Engineer, Productivity",
-      "location": "San Francisco",
-      "team": "Applied AI",
-      "url": "https://jobs.ashbyhq.com/openai/dd9c7c04-7181-4c65-9c6a-0e04313e3707",
-      "postedAt": "2026-10-22T22:35:52.950Z",
-      "key": "openai:dd9c7c04-7181-4c65-9c6a-0e04313e3707",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T22:40:16.352Z"
     },
     {
       "id": "R_107078",
