@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-11-21T00:10:22.591Z",
+  "generatedAt": "2026-11-21T00:16:48.911Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "billcom:6265813004",
-    "verkada:5304458007"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -354,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -1320,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2951,10 +2948,10 @@
     },
     {
       "name": "Meesho",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Melio",
@@ -4729,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -4778,10 +4775,10 @@
     },
     {
       "name": "STARK BANK",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Stilta",
@@ -5736,7 +5733,7 @@
     },
     {
       "id": "6268202004",
-      "title": "Staff Software Engineer- Backend - AI Native (Evergreen)",
+      "title": "Staff Software Engineer- Backend - AI Native",
       "location": "United States",
       "team": null,
       "url": "https://www.bill.com/job?6268202004&gh_jid=6268202004",
