@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-21T00:00:28.192Z",
+  "generatedAt": "2026-11-21T00:10:22.591Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "affirm:8196691003",
-    "baseten:7dd86198-2132-4620-8c8d-af3dbcdb86e3",
-    "billcom:6268202004"
+    "billcom:6265813004",
+    "verkada:5304458007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +13,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 11,
-    "experienced": 2206
+    "experienced": 2207
   },
   "companies": [
     {
@@ -566,7 +565,7 @@
     {
       "name": "Bill.com",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1321,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1525,7 +1524,7 @@
     {
       "name": "Elastic",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -2952,10 +2951,10 @@
     },
     {
       "name": "Meesho",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Melio",
@@ -4779,10 +4778,10 @@
     },
     {
       "name": "STARK BANK",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Stilta",
@@ -5375,7 +5374,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5304458007",
+      "title": "Senior Embedded Engineer - Intercom",
+      "location": "San Mateo, CA United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5304458007",
+      "postedAt": "2026-11-21T00:09:45.000Z",
+      "key": "verkada:5304458007",
+      "company": "Verkada",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T00:10:22.591Z"
+    },
+    {
+      "id": "6265813004",
+      "title": "Staff Applied AI Engineer",
+      "location": "United States",
+      "team": null,
+      "url": "https://www.bill.com/job?6265813004&gh_jid=6265813004",
+      "postedAt": "2026-11-21T00:01:07.000Z",
+      "key": "billcom:6265813004",
+      "company": "Bill.com",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T00:10:22.591Z"
+    },
     {
       "id": "6268202004",
       "title": "Staff Software Engineer- Backend - AI Native (Evergreen)",
@@ -11298,7 +11329,7 @@
       "id": "7b97ecb2-2fc6-4895-b8d9-7ce4174322e2",
       "title": "Research Intern",
       "location": "United States",
-      "team": "Engineering",
+      "team": "Socket Labs",
       "url": "https://jobs.ashbyhq.com/socket/7b97ecb2-2fc6-4895-b8d9-7ce4174322e2",
       "postedAt": "2026-11-17T14:38:07.664Z",
       "key": "socket:7b97ecb2-2fc6-4895-b8d9-7ce4174322e2",
@@ -35399,7 +35430,7 @@
       "id": "91b38c09-d291-4fb4-805a-baa03a7c67bb",
       "title": "Vulnerability Research Engineer",
       "location": "Remote",
-      "team": "Engineering",
+      "team": "Vulnerability Research",
       "url": "https://jobs.ashbyhq.com/socket/91b38c09-d291-4fb4-805a-baa03a7c67bb",
       "postedAt": "2026-10-29T18:14:11.356Z",
       "key": "socket:91b38c09-d291-4fb4-805a-baa03a7c67bb",
@@ -41754,22 +41785,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T00:30:21.446Z"
-    },
-    {
-      "id": "8274383",
-      "title": "Software Engineer II - Control Plane (Hosted Foundations / Applications)",
-      "location": "United States",
-      "team": null,
-      "url": "https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383",
-      "postedAt": "2026-10-22T00:05:16.000Z",
-      "key": "elastic:8274383",
-      "company": "Elastic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T00:10:18.370Z"
     },
     {
       "id": "R1002855",
