@@ -1,20 +1,19 @@
 {
-  "generatedAt": "2026-11-21T01:10:20.107Z",
+  "generatedAt": "2026-11-21T01:20:20.165Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "affirm:8201469003",
-    "affirm:8201471003",
-    "lucidmotors:5250789007"
+    "coupang:8081184",
+    "lucidmotors:5290796007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 104,
+    "intern": 105,
     "new-grad": 11,
-    "experienced": 2209
+    "experienced": 2210
   },
   "companies": [
     {
@@ -1203,7 +1202,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2065,7 +2064,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2660,7 +2659,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2813,7 +2812,7 @@
     {
       "name": "Lucid Motors",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -3981,10 +3980,10 @@
     },
     {
       "name": "Pyka",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Pylon",
@@ -5703,6 +5702,28 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5290796007",
+      "title": "Intern, ADAS Platform Tools, Summer 2027",
+      "location": "Newark, CA",
+      "team": null,
+      "url": "https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007",
+      "postedAt": "2026-11-21T01:14:59.000Z",
+      "key": "lucidmotors:5290796007",
+      "company": "Lucid Motors",
+      "level": "intern",
+      "term": {
+        "label": "Summer 2027",
+        "seasons": [
+          "summer"
+        ],
+        "year": 2027
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T01:20:20.165Z"
+    },
     {
       "id": "8201471003",
       "title": "Software Engineer I, Backend (Streaming Infra)",
@@ -35794,6 +35815,22 @@
         "us"
       ],
       "firstSeen": "2026-11-20T15:10:20.864Z"
+    },
+    {
+      "id": "8081184",
+      "title": "Sr. Staff ML Infra Engineer - Offline Infra & Training",
+      "location": "Mountain View, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8081184",
+      "postedAt": "2026-10-29T17:14:37.000Z",
+      "key": "coupang:8081184",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T01:20:20.165Z"
     },
     {
       "id": "7685466",
