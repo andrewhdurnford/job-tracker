@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-21T00:40:18.851Z",
+  "generatedAt": "2026-11-21T00:50:21.134Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "cloudflare:8400689",
+    "cloudflare:8400651",
+    "mercor:9431db0b-904e-4f91-8be7-87fad304db6d"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 11,
-    "experienced": 2208
+    "experienced": 2209
   },
   "companies": [
     {
@@ -1010,7 +1014,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2970,7 +2974,7 @@
     {
       "name": "Mercor",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -3978,7 +3982,7 @@
     {
       "name": "Pyka",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4489,7 +4493,7 @@
     {
       "name": "Sierra",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5636,10 +5640,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -5678,10 +5682,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8400689",
+      "title": "Head of Majors, Developer GTM",
+      "location": "San Francisco, CA",
+      "team": "Developer Relations",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8400689?gh_jid=8400689",
+      "postedAt": "2026-11-21T00:44:54.000Z",
+      "key": "cloudflare:8400689",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T00:50:21.134Z"
+    },
+    {
+      "id": "8400651",
+      "title": "Head of Scale-ups, Developer GTM",
+      "location": "San Francisco, CA",
+      "team": "Developer Relations",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8400651?gh_jid=8400651",
+      "postedAt": "2026-11-21T00:44:45.000Z",
+      "key": "cloudflare:8400651",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T00:50:21.134Z"
+    },
+    {
+      "id": "9431db0b-904e-4f91-8be7-87fad304db6d",
+      "title": "Backend Software Engineer, Infrastructure",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mercor/9431db0b-904e-4f91-8be7-87fad304db6d",
+      "postedAt": "2026-11-21T00:43:40.328Z",
+      "key": "mercor:9431db0b-904e-4f91-8be7-87fad304db6d",
+      "company": "Mercor",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T00:50:21.134Z"
+    },
     {
       "id": "8957597002",
       "title": "Senior Director, Infrastructure Engineering",
@@ -41766,38 +41818,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T01:00:23.157Z"
-    },
-    {
-      "id": "0cb4da3e-3c67-4f14-a84d-956042669275",
-      "title": "Software Engineer, Agent Runtime",
-      "location": "San Francisco, CA",
-      "team": "Platform Engineering",
-      "url": "https://jobs.ashbyhq.com/Sierra/0cb4da3e-3c67-4f14-a84d-956042669275",
-      "postedAt": "2026-10-22T00:49:37.326Z",
-      "key": "sierra:0cb4da3e-3c67-4f14-a84d-956042669275",
-      "company": "Sierra",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T00:50:19.143Z"
-    },
-    {
-      "id": "374590a5-498f-4257-ac5f-fe884d42ca6f",
-      "title": "Manager, Software Engineering - Cloud infrastructure",
-      "location": "Alameda HQ",
-      "team": "Software Engineering",
-      "url": "https://jobs.lever.co/pyka/374590a5-498f-4257-ac5f-fe884d42ca6f",
-      "postedAt": "2026-10-22T00:41:04.474Z",
-      "key": "pyka:374590a5-498f-4257-ac5f-fe884d42ca6f",
-      "company": "Pyka",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T00:50:19.143Z"
     },
     {
       "id": "R1002855",
