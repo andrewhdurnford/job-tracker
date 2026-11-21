@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-11-21T01:50:25.610Z",
+  "generatedAt": "2026-11-21T02:00:25.417Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 4,
   "newKeys": [
-    "pyka:ea5c8e16-7853-4655-bb6d-237cbef4f414"
+    "cloudflare:8401112",
+    "cloudflare:8401108",
+    "cloudflare:8401119",
+    "cloudflare:8401122"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +15,7 @@
   "levelCounts": {
     "intern": 105,
     "new-grad": 11,
-    "experienced": 2213
+    "experienced": 2216
   },
   "companies": [
     {
@@ -593,7 +596,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1012,7 +1015,7 @@
     {
       "name": "Cloudflare",
       "ok": true,
-      "jobCount": 27,
+      "jobCount": 31,
       "error": null,
       "stale": false
     },
@@ -1047,7 +1050,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1322,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4434,10 +4437,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -5701,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8401122",
+      "title": "Systems Engineer - Network Software Performance",
+      "location": "Austin, TX (+1 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8401122?gh_jid=8401122",
+      "postedAt": "2026-11-21T01:57:14.000Z",
+      "key": "cloudflare:8401122",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T02:00:25.417Z"
+    },
+    {
+      "id": "8401119",
+      "title": "Systems Engineer - Network Data Plane Software",
+      "location": "Austin, TX (+1 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8401119?gh_jid=8401119",
+      "postedAt": "2026-11-21T01:56:07.000Z",
+      "key": "cloudflare:8401119",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T02:00:25.417Z"
+    },
+    {
+      "id": "8401108",
+      "title": "Senior Systems Engineer, Network Services",
+      "location": "Austin, TX (+1 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8401108?gh_jid=8401108",
+      "postedAt": "2026-11-21T01:54:35.000Z",
+      "key": "cloudflare:8401108",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T02:00:25.417Z"
+    },
+    {
+      "id": "8401112",
+      "title": "Distributed Systems Engineer - Network Services",
+      "location": "Austin, TX (+1 more)",
+      "team": "Engineering",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112",
+      "postedAt": "2026-11-21T01:53:19.000Z",
+      "key": "cloudflare:8401112",
+      "company": "Cloudflare",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-21T02:00:25.417Z"
+    },
     {
       "id": "8951023002",
       "title": "Sr. Staff Forward Deployed Engineer",
@@ -41885,23 +41952,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T02:40:19.275Z"
-    },
-    {
-      "id": "529b2dd6-4be3-49db-97cd-781f4897540b",
-      "title": "Staff/Senior Staff Software Engineer, Agent Infrastructure",
-      "location": "Toronto (+2 more)",
-      "team": "Infrastructure",
-      "url": "https://jobs.ashbyhq.com/cohere/529b2dd6-4be3-49db-97cd-781f4897540b",
-      "postedAt": "2026-10-22T01:52:35.722Z",
-      "key": "cohere:529b2dd6-4be3-49db-97cd-781f4897540b",
-      "company": "Cohere",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-22T02:00:23.512Z"
     },
     {
       "id": "R1002855",
