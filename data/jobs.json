@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-11-21T17:50:19.313Z",
+  "generatedAt": "2026-11-21T18:00:25.922Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "cloudflare:8406944",
-    "harvey:a42047fc-fbd1-4e14-bf10-15207ae2d060",
-    "harvey:e46d48b8-57c7-401c-be33-f56774dc072d"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -14,7 +10,7 @@
   "levelCounts": {
     "intern": 103,
     "new-grad": 11,
-    "experienced": 2192
+    "experienced": 2189
   },
   "companies": [
     {
@@ -524,7 +520,7 @@
     {
       "name": "Baseten",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -3288,10 +3284,10 @@
     },
     {
       "name": "Netomi",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Netskope",
@@ -4436,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -4695,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 111,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4730,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -4969,7 +4965,7 @@
     {
       "name": "Talkiatry",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -41447,56 +41443,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T18:30:24.910Z"
-    },
-    {
-      "id": "26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
-      "title": "Product Platform - Backend Engineer",
-      "location": "San Francisco (+2 more)",
-      "team": "Product Platform",
-      "url": "https://jobs.ashbyhq.com/baseten/26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
-      "postedAt": "2026-10-22T17:59:49.876Z",
-      "key": "baseten:26af6cd9-6ef1-4d6b-b5f6-77a581e45dc4",
-      "company": "Baseten",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T18:10:16.258Z"
-    },
-    {
-      "id": "1efdf792-0f3d-4cbd-8ce9-277ed6980289",
-      "title": "Senior Engineering Manager",
-      "location": "Remote",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/talkiatry/1efdf792-0f3d-4cbd-8ce9-277ed6980289",
-      "postedAt": "2026-10-22T17:57:38.397Z",
-      "key": "talkiatry:1efdf792-0f3d-4cbd-8ce9-277ed6980289",
-      "company": "Talkiatry",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
-      ],
-      "firstSeen": "2026-10-22T18:00:25.291Z"
-    },
-    {
-      "id": "08bededd-d362-453e-b014-384a2003cbf1",
-      "title": "Software Engineer - Partner Platform",
-      "location": "San Francisco (+4 more)",
-      "team": "Product Platform",
-      "url": "https://jobs.ashbyhq.com/baseten/08bededd-d362-453e-b014-384a2003cbf1",
-      "postedAt": "2026-10-22T17:54:24.939Z",
-      "key": "baseten:08bededd-d362-453e-b014-384a2003cbf1",
-      "company": "Baseten",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada"
-      ],
-      "firstSeen": "2026-10-22T18:00:25.291Z"
     },
     {
       "id": "R1004280",
