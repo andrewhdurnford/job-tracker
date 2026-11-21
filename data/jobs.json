@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:00:26.496Z",
+  "generatedAt": "2026-11-21T22:10:18.621Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 99,
     "new-grad": 10,
-    "experienced": 2174
+    "experienced": 2173
   },
   "companies": [
     {
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -5476,7 +5476,7 @@
     {
       "name": "Waymo",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -41071,22 +41071,6 @@
         "us"
       ],
       "firstSeen": "2026-10-22T22:40:16.352Z"
-    },
-    {
-      "id": "8212626",
-      "title": "Senior Machine Learning Engineer, Scenes, Traffic Controls",
-      "location": "Mountain View, California, United States, San Francisco, California, United States",
-      "team": null,
-      "url": "https://careers.withwaymo.com/jobs?gh_jid=8212626",
-      "postedAt": "2026-10-22T22:06:35.000Z",
-      "key": "waymo:8212626",
-      "company": "Waymo",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-22T22:10:17.385Z"
     },
     {
       "id": "R_107078",
