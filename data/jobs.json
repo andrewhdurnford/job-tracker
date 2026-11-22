@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:50:19.864Z",
+  "generatedAt": "2026-11-22T07:00:25.339Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -780,7 +780,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -857,7 +857,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -934,7 +934,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
