@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:30:24.176Z",
+  "generatedAt": "2026-11-22T06:40:27.473Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
