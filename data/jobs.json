@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-22T17:00:27.519Z",
+  "generatedAt": "2026-11-22T17:10:18.412Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "openai:ce15d226-65db-43f1-98ec-078e96a3a281"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 98,
     "new-grad": 10,
-    "experienced": 2146
+    "experienced": 2147
   },
   "companies": [
     {
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2031,10 +2033,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -3509,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 56,
+      "jobCount": 57,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 110,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4726,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "ce15d226-65db-43f1-98ec-078e96a3a281",
+      "title": "Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals)",
+      "location": "San Francisco",
+      "team": "Post-training",
+      "url": "https://jobs.ashbyhq.com/openai/ce15d226-65db-43f1-98ec-078e96a3a281",
+      "postedAt": "2026-11-22T17:08:09.743Z",
+      "key": "openai:ce15d226-65db-43f1-98ec-078e96a3a281",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-22T17:10:18.412Z"
+    },
     {
       "id": "8406944",
       "title": "Senior Platform Engineer, Replicate",
