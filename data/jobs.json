@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T06:20:18.481Z",
+  "generatedAt": "2026-11-22T06:30:24.176Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
