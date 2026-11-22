@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-22T17:10:18.412Z",
+  "generatedAt": "2026-11-22T17:20:20.254Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "openai:ce15d226-65db-43f1-98ec-078e96a3a281"
+    "openai:d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+    "openai:bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+    "openai:ecfe655c-1369-4bcd-aae0-4a3b75fdf61b"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -936,7 +938,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1776,7 +1778,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1874,7 +1876,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2033,10 +2035,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "GovDash",
@@ -2658,7 +2660,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2742,7 +2744,7 @@
       "name": "Lingo.dev",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2917,7 +2919,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3511,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 57,
+      "jobCount": 58,
       "error": null,
       "stale": false
     },
@@ -4638,7 +4640,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 110,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5701,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
+      "title": "Research Engineer / Research Scientist - Post Training, Memory",
+      "location": "San Francisco",
+      "team": "Post-training",
+      "url": "https://jobs.ashbyhq.com/openai/ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
+      "postedAt": "2026-11-22T17:17:35.967Z",
+      "key": "openai:ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-22T17:20:20.254Z"
+    },
+    {
+      "id": "bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+      "title": "Research Engineer/Research Scientist- Post Training, Model Experience",
+      "location": "San Francisco",
+      "team": "Post-training",
+      "url": "https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+      "postedAt": "2026-11-22T17:14:45.574Z",
+      "key": "openai:bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-22T17:20:20.254Z"
+    },
+    {
+      "id": "d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+      "title": "Research Engineer/Research Scientist-Post Training, Proactivity",
+      "location": "San Francisco",
+      "team": "Post-training",
+      "url": "https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+      "postedAt": "2026-11-22T17:12:41.400Z",
+      "key": "openai:d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-22T17:20:20.254Z"
+    },
     {
       "id": "ce15d226-65db-43f1-98ec-078e96a3a281",
       "title": "Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals)",
@@ -37026,22 +37076,6 @@
       "firstSeen": "2026-10-28T18:10:21.457Z"
     },
     {
-      "id": "0f600ed1-d70a-4648-820f-a1d1da3f7617",
-      "title": "Research Engineer / Research Scientist, Human Flourishing",
-      "location": "San Francisco",
-      "team": "Post-training",
-      "url": "https://jobs.ashbyhq.com/openai/0f600ed1-d70a-4648-820f-a1d1da3f7617",
-      "postedAt": "2026-10-28T17:40:14.767Z",
-      "key": "openai:0f600ed1-d70a-4648-820f-a1d1da3f7617",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T17:50:18.583Z"
-    },
-    {
       "id": "b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
       "title": "Senior Fullstack Engineer, Air AI",
       "location": "Mountain View, CA (+3 more)",
@@ -40585,38 +40619,6 @@
       "term": null,
       "regions": [
         "canada"
-      ],
-      "firstSeen": "2026-10-23T17:20:21.567Z"
-    },
-    {
-      "id": "191e42f8-cd62-4082-8f72-505c26505e67",
-      "title": "Full Stack Software Engineer, Monetization Platform",
-      "location": "San Francisco (+1 more)",
-      "team": "Applied AI Engineering",
-      "url": "https://jobs.ashbyhq.com/openai/191e42f8-cd62-4082-8f72-505c26505e67",
-      "postedAt": "2026-10-23T17:15:11.941Z",
-      "key": "openai:191e42f8-cd62-4082-8f72-505c26505e67",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T17:20:21.567Z"
-    },
-    {
-      "id": "e56587dc-dc46-43e5-a93e-94d479fdb754",
-      "title": "Software Engineer",
-      "location": "US-WA-Bellevue",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/e56587dc-dc46-43e5-a93e-94d479fdb754",
-      "postedAt": "2026-10-23T17:13:25.909Z",
-      "key": "snowflake:e56587dc-dc46-43e5-a93e-94d479fdb754",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
       ],
       "firstSeen": "2026-10-23T17:20:21.567Z"
     },
