@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T21:00:27.750Z",
+  "generatedAt": "2026-11-22T21:10:19.335Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 96,
     "new-grad": 10,
-    "experienced": 2129
+    "experienced": 2126
   },
   "companies": [
     {
@@ -422,7 +422,7 @@
     {
       "name": "AssemblyAI",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3083,7 +3083,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4657,7 +4657,7 @@
     {
       "name": "SoFi",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4726,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -40195,54 +40195,6 @@
         "us"
       ],
       "firstSeen": "2026-10-23T21:20:27.323Z"
-    },
-    {
-      "id": "4747340005",
-      "title": "Forward Deployed Engineer, Triage",
-      "location": "San Francisco ",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4747340005",
-      "postedAt": "2026-10-23T21:07:51.000Z",
-      "key": "assemblyai:4747340005",
-      "company": "AssemblyAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T21:10:16.199Z"
-    },
-    {
-      "id": "4747365005",
-      "title": "Forward Deployed Engineer, Triage",
-      "location": "New York City",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4747365005",
-      "postedAt": "2026-10-23T21:07:49.000Z",
-      "key": "assemblyai:4747365005",
-      "company": "AssemblyAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T21:10:16.199Z"
-    },
-    {
-      "id": "8040823003",
-      "title": "Senior Data Engineer",
-      "location": "Cottonwood Heights, Utah, United States",
-      "team": null,
-      "url": "https://sofi.com/careers/job/8040823003?gh_jid=8040823003",
-      "postedAt": "2026-10-23T21:07:04.000Z",
-      "key": "sofi:8040823003",
-      "company": "SoFi",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-23T21:10:16.199Z"
     },
     {
       "id": "R_107101",
