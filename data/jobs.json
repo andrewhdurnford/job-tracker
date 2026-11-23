@@ -1,16 +1,14 @@
 {
-  "generatedAt": "2026-11-23T05:10:17.838Z",
+  "generatedAt": "2026-11-23T05:20:18.341Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "gusto:8247588"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 95,
+    "intern": 94,
     "new-grad": 10,
     "experienced": 2105
   },
@@ -353,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -711,7 +709,7 @@
     {
       "name": "Brex",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -17809,28 +17807,6 @@
         "us"
       ],
       "firstSeen": "2026-11-11T16:50:19.204Z"
-    },
-    {
-      "id": "8936403002",
-      "title": "Software Engineer, Intern  (Summer 2027)",
-      "location": "San Francisco, California, United States",
-      "team": null,
-      "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-      "postedAt": "2026-11-11T16:23:25.000Z",
-      "key": "brex:8936403002",
-      "company": "Brex",
-      "level": "intern",
-      "term": {
-        "label": "Summer 2027",
-        "seasons": [
-          "summer"
-        ],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-16T23:10:34.963Z"
     },
     {
       "id": "8350761",
