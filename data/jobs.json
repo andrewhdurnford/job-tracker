@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-23T18:10:26.019Z",
+  "generatedAt": "2026-11-23T18:20:19.996Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "gitlab:8950027002",
+    "spacex:8958832002",
+    "stripe:8411988"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 10,
-    "experienced": 2110
+    "experienced": 2111
   },
   "companies": [
     {
@@ -198,7 +202,7 @@
     {
       "name": "Alpaca",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -1962,7 +1966,7 @@
     {
       "name": "GitLab",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -2746,7 +2750,7 @@
     {
       "name": "Lio (formerly askLio)",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4692,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 107,
+      "jobCount": 108,
       "error": null,
       "stale": false
     },
@@ -4797,7 +4801,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8958832002",
+      "title": "Sr. Network Security Engineer (Firewalls)",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8958832002?gh_jid=8958832002",
+      "postedAt": "2026-11-23T18:16:14.000Z",
+      "key": "spacex:8958832002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T18:20:19.996Z"
+    },
+    {
+      "id": "8950027002",
+      "title": "Intermediate Security Engineer, Security Incident Response Team (SIRT)",
+      "location": "Remote, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950027002",
+      "postedAt": "2026-11-23T18:15:55.000Z",
+      "key": "gitlab:8950027002",
+      "company": "GitLab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T18:20:19.996Z"
+    },
+    {
+      "id": "8411988",
+      "title": "Software Engineer, Core Technology",
+      "location": "South San Francisco, CA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8411988",
+      "postedAt": "2026-11-23T18:10:34.000Z",
+      "key": "stripe:8411988",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T18:20:19.996Z"
+    },
     {
       "id": "8411927",
       "title": "Software Engineer, Data Warehouse Analytics",
@@ -10795,22 +10847,6 @@
         "us"
       ],
       "firstSeen": "2026-11-18T14:00:40.544Z"
-    },
-    {
-      "id": "cd43bf1d-099f-47a4-840c-a944587086a0",
-      "title": "Forward Deployed Engineer (all genders)",
-      "location": "New York Office",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/lio/cd43bf1d-099f-47a4-840c-a944587086a0",
-      "postedAt": "2026-11-18T08:21:04.745Z",
-      "key": "lio:cd43bf1d-099f-47a4-840c-a944587086a0",
-      "company": "Lio (formerly askLio)",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-18T08:30:23.466Z"
     },
     {
       "id": "8acfd23c-fd87-4322-bed1-4258b7199c3d",
@@ -29756,22 +29792,6 @@
         "remote"
       ],
       "firstSeen": "2026-11-02T15:40:22.933Z"
-    },
-    {
-      "id": "6238474004",
-      "title": "Senior Software Engineer - Financial Crimes",
-      "location": "Remote - Americas",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/alpaca/jobs/6238474004",
-      "postedAt": "2026-11-02T15:07:10.000Z",
-      "key": "alpaca:6238474004",
-      "company": "Alpaca",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-11-23T17:50:19.820Z"
     },
     {
       "id": "R1004243",
