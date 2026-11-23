@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:20:19.670Z",
+  "generatedAt": "2026-11-23T00:30:24.424Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 96,
     "new-grad": 10,
-    "experienced": 2106
+    "experienced": 2105
   },
   "companies": [
     {
@@ -3467,7 +3467,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 34,
       "error": null,
       "stale": false
     },
@@ -3585,10 +3585,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 11,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -4726,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -39857,22 +39857,6 @@
         "us"
       ],
       "firstSeen": "2026-10-24T00:40:17.985Z"
-    },
-    {
-      "id": "8319285",
-      "title": "Staff Software Engineer, AI Platform & Infrastructure",
-      "location": "San Francisco, CA, United States",
-      "team": null,
-      "url": "https://www.okta.com/company/careers/opportunity/8319285?gh_jid=8319285",
-      "postedAt": "2026-10-24T00:26:43.000Z",
-      "key": "okta:8319285",
-      "company": "Okta",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-24T00:30:21.649Z"
     },
     {
       "id": "R_107101",
