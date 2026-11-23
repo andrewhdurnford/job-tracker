@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T02:20:19.907Z",
+  "generatedAt": "2026-11-23T02:30:29.372Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 10,
-    "experienced": 2104
+    "experienced": 2103
   },
   "companies": [
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4412,7 +4412,7 @@
     {
       "name": "Sentry",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -39803,22 +39803,6 @@
         "us"
       ],
       "firstSeen": "2026-10-24T14:40:16.805Z"
-    },
-    {
-      "id": "b7c17591-c9f1-449a-b0c1-39f2d6ff650e",
-      "title": "Director of Engineering, Platform (Runtime & Stateful Systems)",
-      "location": "San Francisco, California",
-      "team": "Engineering ",
-      "url": "https://jobs.ashbyhq.com/sentry/b7c17591-c9f1-449a-b0c1-39f2d6ff650e",
-      "postedAt": "2026-10-24T02:24:23.697Z",
-      "key": "sentry:b7c17591-c9f1-449a-b0c1-39f2d6ff650e",
-      "company": "Sentry",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-24T02:30:20.908Z"
     },
     {
       "id": "R_107101",
