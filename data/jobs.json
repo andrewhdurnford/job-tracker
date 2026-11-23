@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T18:40:20.911Z",
+  "generatedAt": "2026-11-23T18:50:26.492Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "attentive:4519138009",
-    "thetradedesk:5303374007"
+    "zscaler:5283494007",
+    "zscaler:5283490007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2113
+    "experienced": 2115
   },
   "companies": [
     {
@@ -5681,15 +5681,15 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -7699,6 +7699,38 @@
         "canada"
       ],
       "firstSeen": "2026-11-20T17:50:20.622Z"
+    },
+    {
+      "id": "5283494007",
+      "title": "Software Development Engineer",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+      "postedAt": "2026-11-20T17:38:40.000Z",
+      "key": "zscaler:5283494007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T18:50:26.492Z"
+    },
+    {
+      "id": "5283490007",
+      "title": "Sr. Software Development Engineer",
+      "location": "Santa Clara, California, USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283490007",
+      "postedAt": "2026-11-20T17:38:35.000Z",
+      "key": "zscaler:5283490007",
+      "company": "Zscaler",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T18:50:26.492Z"
     },
     {
       "id": "8350696",
