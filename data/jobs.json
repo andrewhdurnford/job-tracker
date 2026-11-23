@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T16:30:25.346Z",
+  "generatedAt": "2026-11-23T16:40:20.538Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "stripe:8399913"
+    "weave:841df1d3-5de6-4099-88c7-6d358fa36dfc"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1319,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4106,7 +4106,7 @@
     {
       "name": "Reddit",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4728,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5492,7 +5492,7 @@
     {
       "name": "Weave",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "841df1d3-5de6-4099-88c7-6d358fa36dfc",
+      "title": "Sr. Platform Engineer - Data Infrastructure",
+      "location": "Weave - Headquarters (Lehi, UT)",
+      "team": "Technology",
+      "url": "https://jobs.ashbyhq.com/weave/841df1d3-5de6-4099-88c7-6d358fa36dfc",
+      "postedAt": "2026-11-23T16:33:18.530Z",
+      "key": "weave:841df1d3-5de6-4099-88c7-6d358fa36dfc",
+      "company": "Weave",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T16:40:20.538Z"
+    },
     {
       "id": "8399913",
       "title": "Staff Offensive Security Engineer, Proactive threat",
@@ -39789,22 +39805,6 @@
         "us"
       ],
       "firstSeen": "2026-10-24T22:50:21.288Z"
-    },
-    {
-      "id": "8319655",
-      "title": "Software Engineer, Ad Signals",
-      "location": "Remote - United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8319655",
-      "postedAt": "2026-10-24T16:34:49.000Z",
-      "key": "reddit:8319655",
-      "company": "Reddit",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-24T16:40:17.038Z"
     },
     {
       "id": "2a5aa5f6-596b-45c3-84db-ac0b96363f93",
