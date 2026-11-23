@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-23T14:40:19.059Z",
+  "generatedAt": "2026-11-23T14:50:19.139Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "benchling:96370d1b-d35e-446b-8e26-dce088860099"
+    "anthropic:5487188008",
+    "supabase:30cc053e-33dc-4924-a870-2cf41c296b01"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 95,
     "new-grad": 10,
-    "experienced": 2108
+    "experienced": 2110
   },
   "companies": [
     {
@@ -305,7 +306,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -593,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -782,7 +783,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -859,7 +860,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4862,7 +4863,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5085,10 +5086,10 @@
     },
     {
       "name": "Thunkable",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Tilt",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5487188008",
+      "title": "Software Engineer, Model-to-Product Behavior Engineering",
+      "location": "San Francisco, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5487188008",
+      "postedAt": "2026-11-23T14:45:28.000Z",
+      "key": "anthropic:5487188008",
+      "company": "Anthropic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T14:50:19.139Z"
+    },
+    {
+      "id": "30cc053e-33dc-4924-a870-2cf41c296b01",
+      "title": "Software Engineer - Interfaces Backend",
+      "location": "Remote, Global",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01",
+      "postedAt": "2026-11-23T14:42:23.181Z",
+      "key": "supabase:30cc053e-33dc-4924-a870-2cf41c296b01",
+      "company": "Supabase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-23T14:50:19.139Z"
+    },
     {
       "id": "96370d1b-d35e-446b-8e26-dce088860099",
       "title": "Software Engineer, Intern (Summer 2027)",
