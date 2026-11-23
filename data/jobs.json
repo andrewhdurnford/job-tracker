@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T20:00:27.025Z",
+  "generatedAt": "2026-11-23T20:10:28.342Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "pendo:8940085002",
-    "quindar:ada8bc6e-8d2b-4e64-a530-611307d94a8c"
+    "cribl:6266722004",
+    "okta:8359953"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 98,
     "new-grad": 10,
-    "experienced": 2123
+    "experienced": 2125
   },
   "companies": [
     {
@@ -1230,7 +1230,7 @@
     {
       "name": "Cribl",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3470,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 34,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 108,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5205,10 +5205,10 @@
     },
     {
       "name": "Truffle Security",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tuesday Labs",
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6266722004",
+      "title": "Staff Software Engineer, Control Plane",
+      "location": "Remote - United States",
+      "team": null,
+      "url": "https://cribl.io/job-detail/?gh_jid=6266722004",
+      "postedAt": "2026-11-23T20:08:38.000Z",
+      "key": "cribl:6266722004",
+      "company": "Cribl",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T20:10:28.342Z"
+    },
+    {
+      "id": "8359953",
+      "title": "Senior Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8359953?gh_jid=8359953",
+      "postedAt": "2026-11-23T20:08:33.000Z",
+      "key": "okta:8359953",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-23T20:10:28.342Z"
+    },
     {
       "id": "8940085002",
       "title": "Associate Security Engineer",
@@ -9606,7 +9638,7 @@
     },
     {
       "id": "4730875006",
-      "title": "Developer Outreach Lead",
+      "title": "Developer Outreach Lead - Bay Area",
       "location": "United States - Remote",
       "team": null,
       "url": "https://job-boards.greenhouse.io/chainguard/jobs/4730875006",
@@ -27779,7 +27811,7 @@
     {
       "id": "5455618008",
       "title": "Applied AI Architect, Public Sector (State & Local Government)",
-      "location": "San Francisco, CA",
+      "location": "New York City, NY; San Francisco, CA; Washington, DC",
       "team": null,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455618008",
       "postedAt": "2026-11-03T20:24:13.000Z",
