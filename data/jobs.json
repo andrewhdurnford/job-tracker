@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T16:00:27.875Z",
+  "generatedAt": "2026-11-23T16:10:19.934Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 95,
+    "intern": 94,
     "new-grad": 10,
-    "experienced": 2105
+    "experienced": 2104
   },
   "companies": [
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1423,7 +1423,7 @@
     {
       "name": "DocuSign",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4860,7 +4860,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -16765,22 +16765,6 @@
         "us"
       ],
       "firstSeen": "2026-11-12T18:00:28.064Z"
-    },
-    {
-      "id": "30578",
-      "title": "AI Platform Engineer Intern",
-      "location": "US-SFO-Main",
-      "team": "University",
-      "url": "https://uscareers-docusign.icims.com/jobs/30578/login",
-      "postedAt": "2026-11-12T17:43:00.000Z",
-      "key": "DocuSign:30578",
-      "company": "DocuSign",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-12T17:50:24.056Z"
     },
     {
       "id": "8383513",
@@ -39851,22 +39835,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-24T16:20:17.030Z"
-    },
-    {
-      "id": "950e8ffc-79a5-4626-b1dd-115fcbcddad0",
-      "title": "Data API Engineer",
-      "location": "Remote, Global",
-      "team": "Data API",
-      "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0",
-      "postedAt": "2026-10-24T16:04:20.762Z",
-      "key": "supabase:950e8ffc-79a5-4626-b1dd-115fcbcddad0",
-      "company": "Supabase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "remote"
-      ],
-      "firstSeen": "2026-10-24T16:10:16.789Z"
     },
     {
       "id": "2a5aa5f6-596b-45c3-84db-ac0b96363f93",
