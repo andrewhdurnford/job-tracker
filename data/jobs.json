@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-23T23:10:30.528Z",
+  "generatedAt": "2026-11-23T23:20:19.223Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "openai:aa22d0b6-38e9-4853-aff6-bc891ccc9747"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 99,
     "new-grad": 10,
-    "experienced": 2143
+    "experienced": 2144
   },
   "companies": [
     {
@@ -351,10 +353,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3509,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 61,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "aa22d0b6-38e9-4853-aff6-bc891ccc9747",
+      "title": "Cyber Partner Applied AI Architect",
+      "location": "Washington, DC (+1 more)",
+      "team": "Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/aa22d0b6-38e9-4853-aff6-bc891ccc9747",
+      "postedAt": "2026-11-23T23:10:45.050Z",
+      "key": "openai:aa22d0b6-38e9-4853-aff6-bc891ccc9747",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T23:20:19.223Z"
+    },
     {
       "id": "8407483",
       "title": "Staff IT Security Engineer",
