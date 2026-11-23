@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T16:40:20.538Z",
+  "generatedAt": "2026-11-23T16:50:21.749Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "weave:841df1d3-5de6-4099-88c7-6d358fa36dfc"
+    "harvey:8e420b36-6711-49dd-8a64-f246270af7d3"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -116,7 +116,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -2089,10 +2089,10 @@
     },
     {
       "name": "Gridware",
-      "ok": true,
+      "ok": false,
       "jobCount": 1,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Groww",
@@ -2174,7 +2174,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 17,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "8e420b36-6711-49dd-8a64-f246270af7d3",
+      "title": "Engineering Manager, Production Engineering",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/harvey/8e420b36-6711-49dd-8a64-f246270af7d3",
+      "postedAt": "2026-11-23T16:49:14.848Z",
+      "key": "harvey:8e420b36-6711-49dd-8a64-f246270af7d3",
+      "company": "Harvey",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T16:50:21.749Z"
+    },
+    {
       "id": "841df1d3-5de6-4099-88c7-6d358fa36dfc",
       "title": "Sr. Platform Engineer - Data Infrastructure",
       "location": "Weave - Headquarters (Lehi, UT)",
@@ -5898,22 +5914,6 @@
         "us"
       ],
       "firstSeen": "2026-11-23T03:10:19.098Z"
-    },
-    {
-      "id": "8407159",
-      "title": "Senior Staff Data Scientist - Reputation (Inference)",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8407159?gh_jid=8407159",
-      "postedAt": "2026-11-22T20:17:01.000Z",
-      "key": "airbnb:8407159",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-22T20:20:22.242Z"
     },
     {
       "id": "6785d983-8831-46d0-9c81-443f83664948",
