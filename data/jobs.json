@@ -1,18 +1,24 @@
 {
-  "generatedAt": "2026-11-23T16:50:21.749Z",
+  "generatedAt": "2026-11-23T17:00:28.861Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "harvey:8e420b36-6711-49dd-8a64-f246270af7d3"
+    "Arctic Wolf:R26_1272",
+    "strava:96968b02-dde9-4e0d-b6a8-d2363f550126",
+    "strava:924afc4f-b490-4716-a308-5e02fe56653b",
+    "strava:12d85f67-5fac-4dfa-8fd7-a4f886b4a10a",
+    "strava:e4e04f82-bc91-4bc1-b775-85b2b2549023",
+    "strava:02999001-164a-45c2-a763-03dedf458f0c",
+    "strava:0a1c94e3-c19c-47a4-9974-5cc86b74e3e9"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 94,
+    "intern": 100,
     "new-grad": 10,
-    "experienced": 2102
+    "experienced": 2103
   },
   "companies": [
     {
@@ -353,10 +359,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
-      "jobCount": 1,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "ok": true,
+      "jobCount": 2,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -2089,10 +2095,10 @@
     },
     {
       "name": "Gridware",
-      "ok": false,
+      "ok": true,
       "jobCount": 1,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Groww",
@@ -4792,7 +4798,7 @@
     {
       "name": "Strava",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5638,10 +5644,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zerocater",
@@ -5701,6 +5707,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R26_1272",
+      "title": "Lead Application Security Engineer",
+      "location": "Remote, Canada",
+      "team": null,
+      "url": "https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Remote-Canada/Lead-Application-Security-Engineer_R26_1272-1",
+      "postedAt": "2026-11-23T17:00:31.955Z",
+      "key": "Arctic Wolf:R26_1272",
+      "company": "Arctic Wolf",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-23T17:00:28.861Z"
+    },
     {
       "id": "8e420b36-6711-49dd-8a64-f246270af7d3",
       "title": "Engineering Manager, Production Engineering",
@@ -14387,6 +14409,38 @@
       "firstSeen": "2026-11-14T00:30:25.136Z"
     },
     {
+      "id": "02999001-164a-45c2-a763-03dedf458f0c",
+      "title": "Software Engineering Intern, Android, Subscriptions  ",
+      "location": "Strava SF",
+      "team": "Internships",
+      "url": "https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c",
+      "postedAt": "2026-11-13T23:52:07.340Z",
+      "key": "strava:02999001-164a-45c2-a763-03dedf458f0c",
+      "company": "Strava",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T17:00:28.861Z"
+    },
+    {
+      "id": "e4e04f82-bc91-4bc1-b775-85b2b2549023",
+      "title": "Software Engineering Intern, AI/ML Data Products  ",
+      "location": "Strava SF",
+      "team": "Internships",
+      "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023",
+      "postedAt": "2026-11-13T23:41:20.656Z",
+      "key": "strava:e4e04f82-bc91-4bc1-b775-85b2b2549023",
+      "company": "Strava",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T17:00:28.861Z"
+    },
+    {
       "id": "R0019075",
       "title": "Senior Manager, Analytics Engineering & Data Science",
       "location": "US - Texas - Austin",
@@ -14465,6 +14519,22 @@
         "us"
       ],
       "firstSeen": "2026-11-13T22:40:20.812Z"
+    },
+    {
+      "id": "0a1c94e3-c19c-47a4-9974-5cc86b74e3e9",
+      "title": "Software Engineering Intern, Server, Next Sports ",
+      "location": "Strava SF",
+      "team": "Internships",
+      "url": "https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9",
+      "postedAt": "2026-11-13T22:27:48.655Z",
+      "key": "strava:0a1c94e3-c19c-47a4-9974-5cc86b74e3e9",
+      "company": "Strava",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T17:00:28.861Z"
     },
     {
       "id": "8356065",
@@ -14853,6 +14923,22 @@
       "firstSeen": "2026-11-13T19:30:26.219Z"
     },
     {
+      "id": "96968b02-dde9-4e0d-b6a8-d2363f550126",
+      "title": "Software Engineering Intern, Server, Comms",
+      "location": "Strava SF",
+      "team": "Internships",
+      "url": "https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126",
+      "postedAt": "2026-11-13T19:30:23.291Z",
+      "key": "strava:96968b02-dde9-4e0d-b6a8-d2363f550126",
+      "company": "Strava",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T17:00:28.861Z"
+    },
+    {
       "id": "4343b2d6-b89f-4534-b208-515963523015",
       "title": "Software Engineer DOLCE",
       "location": "Remote",
@@ -14868,6 +14954,22 @@
         "remote"
       ],
       "firstSeen": "2026-11-13T19:40:19.497Z"
+    },
+    {
+      "id": "924afc4f-b490-4716-a308-5e02fe56653b",
+      "title": "Software Engineering Intern, Server, Security",
+      "location": "Strava SF",
+      "team": "Internships",
+      "url": "https://jobs.ashbyhq.com/Strava/924afc4f-b490-4716-a308-5e02fe56653b",
+      "postedAt": "2026-11-13T19:25:55.619Z",
+      "key": "strava:924afc4f-b490-4716-a308-5e02fe56653b",
+      "company": "Strava",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T17:00:28.861Z"
     },
     {
       "id": "R1005818",
@@ -14964,6 +15066,22 @@
         "us"
       ],
       "firstSeen": "2026-11-13T18:30:26.313Z"
+    },
+    {
+      "id": "12d85f67-5fac-4dfa-8fd7-a4f886b4a10a",
+      "title": "Software Engineering Intern, Server, User Lifecycle",
+      "location": "Strava SF",
+      "team": "Internships",
+      "url": "https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a",
+      "postedAt": "2026-11-13T18:21:42.732Z",
+      "key": "strava:12d85f67-5fac-4dfa-8fd7-a4f886b4a10a",
+      "company": "Strava",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T17:00:28.861Z"
     },
     {
       "id": "8332418",
