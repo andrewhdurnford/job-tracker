@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T09:50:26.648Z",
+  "generatedAt": "2026-11-23T10:00:30.237Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3769,7 +3769,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "HTTP 502 Bad Gateway",
       "stale": true
     },
     {
