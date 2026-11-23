@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T15:20:18.861Z",
+  "generatedAt": "2026-11-23T15:30:24.413Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -204,10 +204,10 @@
     },
     {
       "name": "Alpha-9 Oncology",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Ambience Healthcare",
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4131,10 +4131,10 @@
     },
     {
       "name": "Remitly",
-      "ok": true,
+      "ok": false,
       "jobCount": 20,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Remora",
@@ -4838,10 +4838,10 @@
     },
     {
       "name": "Sumo Logic",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sunday",
