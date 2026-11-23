@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-23T20:20:19.481Z",
+  "generatedAt": "2026-11-23T20:30:23.574Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "airbnb:8411254",
-    "airbnb:8412312"
+    "exowatt:86589116-72a5-44f1-893a-1c688d15f2cf",
+    "natera:6267695004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 98,
+    "intern": 99,
     "new-grad": 10,
-    "experienced": 2127
+    "experienced": 2128
   },
   "companies": [
     {
@@ -1320,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1657,7 +1657,7 @@
     {
       "name": "Exowatt",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -3246,7 +3246,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -4435,10 +4435,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 108,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5702,6 +5702,44 @@
     }
   ],
   "jobs": [
+    {
+      "id": "86589116-72a5-44f1-893a-1c688d15f2cf",
+      "title": "Software & AI Spring Intern (Austin, TX)",
+      "location": "Austin, TX",
+      "team": "Software Engineering",
+      "url": "https://jobs.lever.co/exowatt/86589116-72a5-44f1-893a-1c688d15f2cf",
+      "postedAt": "2026-11-23T20:24:53.404Z",
+      "key": "exowatt:86589116-72a5-44f1-893a-1c688d15f2cf",
+      "company": "Exowatt",
+      "level": "intern",
+      "term": {
+        "label": "Spring",
+        "seasons": [
+          "spring"
+        ],
+        "year": null
+      },
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T20:30:23.574Z"
+    },
+    {
+      "id": "6267695004",
+      "title": "Senior Software Engineer",
+      "location": "San Carlos, CA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6267695004",
+      "postedAt": "2026-11-23T20:22:48.000Z",
+      "key": "natera:6267695004",
+      "company": "Natera",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T20:30:23.574Z"
+    },
     {
       "id": "8411254",
       "title": "Senior Machine Learning Engineer, Assistance Foundations",
