@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-23T19:20:20.229Z",
+  "generatedAt": "2026-11-23T19:30:26.217Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "roblox:8260128",
-    "warp:d427ee55-2f0f-4a32-990b-8189f611dab8"
+    "cerebras:d114d16b-3c5f-44a1-9a15-26b37fb45369",
+    "smartsheet:8412206",
+    "warp:d39e732d-56cb-4e7e-9e48-eceb37cff755"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +14,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2118
+    "experienced": 2120
   },
   "companies": [
     {
@@ -306,7 +307,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -866,7 +867,7 @@
     {
       "name": "Cerebras Systems",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1777,7 +1778,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2064,7 +2065,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2225,7 +2226,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4597,7 +4598,7 @@
     {
       "name": "Smartsheet",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 108,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5458,7 +5459,7 @@
     {
       "name": "Warp",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "d39e732d-56cb-4e7e-9e48-eceb37cff755",
+      "title": "Staff Software Engineer, Payments",
+      "location": "New York",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/warp/d39e732d-56cb-4e7e-9e48-eceb37cff755",
+      "postedAt": "2026-11-23T19:23:00.479Z",
+      "key": "warp:d39e732d-56cb-4e7e-9e48-eceb37cff755",
+      "company": "Warp",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T19:30:26.217Z"
+    },
+    {
+      "id": "d114d16b-3c5f-44a1-9a15-26b37fb45369",
+      "title": "Senior Detection and Response Engineer",
+      "location": "Sunnyvale, CA",
+      "team": "Security",
+      "url": "https://jobs.ashbyhq.com/cerebras/d114d16b-3c5f-44a1-9a15-26b37fb45369",
+      "postedAt": "2026-11-23T19:22:59.788Z",
+      "key": "cerebras:d114d16b-3c5f-44a1-9a15-26b37fb45369",
+      "company": "Cerebras Systems",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T19:30:26.217Z"
+    },
+    {
+      "id": "8412206",
+      "title": "Senior Software Engineer I, Agent Engineering (Remote Eligible)",
+      "location": " -REMOTE, USA-",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412206",
+      "postedAt": "2026-11-23T19:22:46.000Z",
+      "key": "smartsheet:8412206",
+      "company": "Smartsheet",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T19:30:26.217Z"
+    },
     {
       "id": "d427ee55-2f0f-4a32-990b-8189f611dab8",
       "title": "Staff Software Engineer, Identity & Access",
@@ -28051,22 +28100,6 @@
       "firstSeen": "2026-11-03T18:50:31.121Z"
     },
     {
-      "id": "5467893008",
-      "title": "Machine Learning Data Scientist, Forecasting Platform",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
-      "postedAt": "2026-11-03T18:42:48.000Z",
-      "key": "anthropic:5467893008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-18T00:50:22.566Z"
-    },
-    {
       "id": "JR116359",
       "title": "Staff Product Security Engineer",
       "location": "US Remote",
@@ -36587,7 +36620,7 @@
     },
     {
       "id": "6235282004",
-      "title": "Manager, Software Engineering - Design Systems Adherence",
+      "title": "Manager, Software Engineering - AI Design Systems",
       "location": "San Francisco, CA • New York, NY • United States",
       "team": null,
       "url": "https://boards.greenhouse.io/figma/jobs/6235282004?gh_jid=6235282004",
