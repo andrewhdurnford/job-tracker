@@ -1,16 +1,19 @@
 {
-  "generatedAt": "2026-11-23T23:40:21.076Z",
+  "generatedAt": "2026-11-23T23:50:19.224Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "illumio:95bc7491-9b2f-493c-9297-e9cb36a63b45",
+    "nuro:8357718"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 99,
+    "intern": 100,
     "new-grad": 10,
-    "experienced": 2145
+    "experienced": 2146
   },
   "companies": [
     {
@@ -1317,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2340,7 +2343,7 @@
     {
       "name": "Illumio",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3411,7 +3414,7 @@
     {
       "name": "Nuro",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 110,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8357718",
+      "title": "Director of Engineering, Perception",
+      "location": "Mountain View, California (HQ)",
+      "team": null,
+      "url": "https://nuro.ai/careersitem?gh_jid=8357718",
+      "postedAt": "2026-11-23T23:45:00.000Z",
+      "key": "nuro:8357718",
+      "company": "Nuro",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T23:50:19.224Z"
+    },
+    {
+      "id": "95bc7491-9b2f-493c-9297-e9cb36a63b45",
+      "title": "Engineering Intern, Security Platforms",
+      "location": "Sunnyvale, California - HQ",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45",
+      "postedAt": "2026-11-23T23:42:27.506Z",
+      "key": "illumio:95bc7491-9b2f-493c-9297-e9cb36a63b45",
+      "company": "Illumio",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T23:50:19.224Z"
+    },
     {
       "id": "8957339002",
       "title": "Data Engineer, Hardware Reliability (Starlink)",
