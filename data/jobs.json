@@ -1,16 +1,8 @@
 {
-  "generatedAt": "2026-11-23T21:30:23.127Z",
+  "generatedAt": "2026-11-23T21:40:18.405Z",
   "bootstrap": false,
-  "lastRunNewCount": 7,
-  "newKeys": [
-    "braze:8412513",
-    "braze:8412509",
-    "braze:8412517",
-    "braze:8401624",
-    "checkr:8412514",
-    "zscaler:5283494007",
-    "zscaler:5283490007"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -18,7 +10,7 @@
   "levelCounts": {
     "intern": 99,
     "new-grad": 10,
-    "experienced": 2139
+    "experienced": 2137
   },
   "companies": [
     {
@@ -3593,10 +3585,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 11,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -4699,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 108,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4805,7 +4797,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -29989,38 +29981,6 @@
         "us"
       ],
       "firstSeen": "2026-11-02T19:10:20.339Z"
-    },
-    {
-      "id": "8346831",
-      "title": "Data Scientist, FX Quantitative Research",
-      "location": "New York, NY",
-      "team": "7112 Data Science",
-      "url": "https://stripe.com/jobs/search?gh_jid=8346831",
-      "postedAt": "2026-11-02T18:54:08.000Z",
-      "key": "stripe:8346831",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-19T22:50:19.048Z"
-    },
-    {
-      "id": "8346778",
-      "title": "Data Scientist, FX Quantitative Research",
-      "location": "Toronto",
-      "team": "7112 Data Science",
-      "url": "https://stripe.com/jobs/search?gh_jid=8346778",
-      "postedAt": "2026-11-02T18:49:07.000Z",
-      "key": "stripe:8346778",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-11-19T22:50:19.048Z"
     },
     {
       "id": "5280545007",
