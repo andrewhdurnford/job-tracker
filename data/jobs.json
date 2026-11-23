@@ -1,15 +1,10 @@
 {
-  "generatedAt": "2026-11-23T17:00:28.861Z",
+  "generatedAt": "2026-11-23T17:10:22.349Z",
   "bootstrap": false,
-  "lastRunNewCount": 7,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "Arctic Wolf:R26_1272",
-    "strava:96968b02-dde9-4e0d-b6a8-d2363f550126",
-    "strava:924afc4f-b490-4716-a308-5e02fe56653b",
-    "strava:12d85f67-5fac-4dfa-8fd7-a4f886b4a10a",
-    "strava:e4e04f82-bc91-4bc1-b775-85b2b2549023",
-    "strava:02999001-164a-45c2-a763-03dedf458f0c",
-    "strava:0a1c94e3-c19c-47a4-9974-5cc86b74e3e9"
+    "peloton:8399961",
+    "snowflake:1f8252af-5383-44ad-ae97-4c555bc48adc"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -18,7 +13,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 10,
-    "experienced": 2103
+    "experienced": 2104
   },
   "companies": [
     {
@@ -359,10 +354,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -599,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -788,7 +783,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -865,7 +860,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -942,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1325,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2768,7 +2763,7 @@
     {
       "name": "LiteLLM",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3636,7 +3631,7 @@
     {
       "name": "Peloton",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -4644,7 +4639,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5644,10 +5639,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zerocater",
@@ -5707,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8399961",
+      "title": "Security Engineer, Incident Response",
+      "location": "New York, New York",
+      "team": null,
+      "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399961",
+      "postedAt": "2026-11-23T17:09:53.000Z",
+      "key": "peloton:8399961",
+      "company": "Peloton",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T17:10:22.349Z"
+    },
+    {
+      "id": "1f8252af-5383-44ad-ae97-4c555bc48adc",
+      "title": "Principal Software Engineer, Harness Engineering",
+      "location": "US-CA-Menlo Park (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/1f8252af-5383-44ad-ae97-4c555bc48adc",
+      "postedAt": "2026-11-23T17:09:14.644Z",
+      "key": "snowflake:1f8252af-5383-44ad-ae97-4c555bc48adc",
+      "company": "Snowflake",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T17:10:22.349Z"
+    },
     {
       "id": "R26_1272",
       "title": "Lead Application Security Engineer",
@@ -24935,28 +24962,12 @@
     },
     {
       "id": "d1adbb67-7b1f-4daf-9863-d1c72069ba47",
-      "title": "Senior Security Operations / Detection Engineer",
+      "title": "Security Operations / Detection + Response Engineer",
       "location": "San Francisco",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/litellm/d1adbb67-7b1f-4daf-9863-d1c72069ba47",
       "postedAt": "2026-11-05T15:59:15.230Z",
       "key": "litellm:d1adbb67-7b1f-4daf-9863-d1c72069ba47",
-      "company": "LiteLLM",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T16:20:21.966Z"
-    },
-    {
-      "id": "27d65520-70ac-49c3-9224-66e2965259c0",
-      "title": "Senior Security Engineer, Product & Platform",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/litellm/27d65520-70ac-49c3-9224-66e2965259c0",
-      "postedAt": "2026-11-05T15:56:39.028Z",
-      "key": "litellm:27d65520-70ac-49c3-9224-66e2965259c0",
       "company": "LiteLLM",
       "level": "experienced",
       "term": null,
@@ -30088,7 +30099,7 @@
     },
     {
       "id": "93705fde-0daa-49ce-94be-4551d3ac662d",
-      "title": "Senior Security Engineer",
+      "title": "Security Engineer",
       "location": "Remote",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/litellm/93705fde-0daa-49ce-94be-4551d3ac662d",
