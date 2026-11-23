@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T17:50:19.820Z",
+  "generatedAt": "2026-11-23T18:00:31.649Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "alpaca:6238474004",
-    "speak:c53b34f1-01d8-4cff-ae74-73c4d6706d6a"
+    "stripe:8411927",
+    "vanta:b01ad813-3dd3-4603-ab81-75b14772b43b"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 100,
     "new-grad": 10,
-    "experienced": 2108
+    "experienced": 2110
   },
   "companies": [
     {
@@ -783,7 +783,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -937,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1756,7 +1756,7 @@
       "name": "Finvest",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1777,7 +1777,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4694,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 107,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4800,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5325,7 +5325,7 @@
     {
       "name": "Vanta",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8411927",
+      "title": "Software Engineer, Data Warehouse Analytics",
+      "location": "Seattle, WA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8411927",
+      "postedAt": "2026-11-23T17:54:07.000Z",
+      "key": "stripe:8411927",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T18:00:31.649Z"
+    },
+    {
+      "id": "b01ad813-3dd3-4603-ab81-75b14772b43b",
+      "title": "Senior Software Engineer, Vanta for Government",
+      "location": "Remote U.S.",
+      "team": "Software Engineering",
+      "url": "https://jobs.ashbyhq.com/vanta/b01ad813-3dd3-4603-ab81-75b14772b43b",
+      "postedAt": "2026-11-23T17:51:56.337Z",
+      "key": "vanta:b01ad813-3dd3-4603-ab81-75b14772b43b",
+      "company": "Vanta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-23T18:00:31.649Z"
+    },
     {
       "id": "c53b34f1-01d8-4cff-ae74-73c4d6706d6a",
       "title": "Infra & Platform Engineer",
