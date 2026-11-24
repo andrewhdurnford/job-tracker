@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-24T05:40:17.686Z",
+  "generatedAt": "2026-11-24T05:50:17.979Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "Remitly:R_107192"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -351,10 +353,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -4131,10 +4133,10 @@
     },
     {
       "name": "Remitly",
-      "ok": false,
-      "jobCount": 20,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "ok": true,
+      "jobCount": 21,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Remora",
@@ -4692,7 +4694,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 111,
+      "jobCount": 110,
       "error": null,
       "stale": false
     },
@@ -4726,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107192",
+      "title": "Senior Software Development Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Development-Engineer_R_107192",
+      "postedAt": "2026-11-24T05:50:21.274Z",
+      "key": "Remitly:R_107192",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T05:50:17.979Z"
+    },
     {
       "id": "4731856006",
       "title": "Hardware/Production Test Software Engineer ",
@@ -29264,7 +29282,7 @@
     },
     {
       "id": "7dcb44b6-b8a6-4955-92f3-421f60770f65",
-      "title": "Senior+ Security Engineer",
+      "title": "Senior/Staff Security Engineer",
       "location": "Washington, D.C.",
       "team": "Security & IT",
       "url": "https://jobs.ashbyhq.com/Promise/7dcb44b6-b8a6-4955-92f3-421f60770f65",
@@ -30087,22 +30105,6 @@
         "us"
       ],
       "firstSeen": "2026-11-02T20:40:19.315Z"
-    },
-    {
-      "id": "8920514002",
-      "title": "Data Engineer (Starlink)",
-      "location": "Redmond, WA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/spacex/jobs/8920514002?gh_jid=8920514002",
-      "postedAt": "2026-11-02T20:33:12.000Z",
-      "key": "spacex:8920514002",
-      "company": "SpaceX",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T21:40:22.242Z"
     },
     {
       "id": "740cedb6-3c69-49c2-8662-7997799b8c87",
