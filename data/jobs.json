@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-24T23:40:19.404Z",
+  "generatedAt": "2026-11-24T23:50:19.963Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "openai:e1823ba3-a94c-410f-b064-217a1d71c866",
+    "openai:f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092",
+    "spacex:8961082002"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2218
+    "experienced": 2221
   },
   "companies": [
     {
@@ -3509,7 +3513,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 66,
+      "jobCount": 68,
       "error": null,
       "stale": false
     },
@@ -4692,7 +4696,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 118,
+      "jobCount": 119,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8961082002",
+      "title": "Sr. Software Engineer (Starlink Ground Network)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8961082002?gh_jid=8961082002",
+      "postedAt": "2026-11-24T23:42:01.000Z",
+      "key": "spacex:8961082002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T23:50:19.963Z"
+    },
+    {
+      "id": "e1823ba3-a94c-410f-b064-217a1d71c866",
+      "title": "Software Engineer, Space Foundations — Real-Time Systems",
+      "location": "Seattle",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/e1823ba3-a94c-410f-b064-217a1d71c866",
+      "postedAt": "2026-11-24T23:41:30.450Z",
+      "key": "openai:e1823ba3-a94c-410f-b064-217a1d71c866",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T23:50:19.963Z"
+    },
+    {
+      "id": "f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092",
+      "title": "Software Engineer, Space Foundations — Search & Databases",
+      "location": "Seattle",
+      "team": "Applied AI Engineering",
+      "url": "https://jobs.ashbyhq.com/openai/f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092",
+      "postedAt": "2026-11-24T23:39:23.082Z",
+      "key": "openai:f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T23:50:19.963Z"
+    },
     {
       "id": "8415370",
       "title": "Senior Salesforce Developer",
