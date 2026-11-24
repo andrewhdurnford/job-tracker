@@ -1,13 +1,15 @@
 {
-  "generatedAt": "2026-11-24T16:50:18.958Z",
+  "generatedAt": "2026-11-24T17:00:31.046Z",
   "bootstrap": false,
-  "lastRunNewCount": 5,
+  "lastRunNewCount": 7,
   "newKeys": [
-    "metriport:bb1bf8d6-85e7-46ed-b315-3b2501eb0576",
-    "metriport:db71149a-2211-4c9b-a977-02998bfe1d90",
-    "metriport:855fdc5a-e08a-4496-947c-79b9ec804af7",
-    "okta:8359929",
-    "thetradedesk:5294066007"
+    "epicgames:6268759004",
+    "epicgames:6270304004",
+    "pendo:8960338002",
+    "spacex:8959589002",
+    "spacex:8959563002",
+    "spacex:8959556002",
+    "spacex:8959558002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -16,7 +18,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2167
+    "experienced": 2174
   },
   "companies": [
     {
@@ -259,10 +261,10 @@
     },
     {
       "name": "Anchorage",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Andera",
@@ -1162,10 +1164,10 @@
     },
     {
       "name": "Copia",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Cortex",
@@ -1323,10 +1325,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1618,7 +1620,7 @@
     {
       "name": "Epic Games",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -2366,10 +2368,10 @@
     },
     {
       "name": "Included Health",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Inferact",
@@ -3423,10 +3425,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Nvidia",
@@ -3591,10 +3593,10 @@
     },
     {
       "name": "Palantir",
-      "ok": true,
+      "ok": false,
       "jobCount": 11,
-      "error": null,
-      "stale": false
+      "error": "response was not valid JSON",
+      "stale": true
     },
     {
       "name": "Paradigm",
@@ -3641,7 +3643,7 @@
     {
       "name": "Pendo",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -3775,7 +3777,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4698,7 +4700,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 110,
+      "jobCount": 114,
       "error": null,
       "stale": false
     },
@@ -4753,10 +4755,10 @@
     },
     {
       "name": "Squire Technologies",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Stability AI",
@@ -5705,6 +5707,118 @@
     }
   ],
   "jobs": [
+    {
+      "id": "6270304004",
+      "title": "Senior Engine Programmer, Verse Framework",
+      "location": "Vancouver,British Columbia,Canada",
+      "team": "Engineering Generalist",
+      "url": "https://epicgames.com/careers/jobs/6270304004?gh_jid=6270304004",
+      "postedAt": "2026-11-24T16:59:55.000Z",
+      "key": "epicgames:6270304004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-24T17:00:31.046Z"
+    },
+    {
+      "id": "6268759004",
+      "title": "Senior Engine Programmer, Verse Framework",
+      "location": "Cary,North Carolina,United States",
+      "team": "Engineering Generalist",
+      "url": "https://epicgames.com/careers/jobs/6268759004?gh_jid=6268759004",
+      "postedAt": "2026-11-24T16:59:52.000Z",
+      "key": "epicgames:6268759004",
+      "company": "Epic Games",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T17:00:31.046Z"
+    },
+    {
+      "id": "8959589002",
+      "title": "Network Security Engineer",
+      "location": "Bastrop, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8959589002?gh_jid=8959589002",
+      "postedAt": "2026-11-24T16:55:13.000Z",
+      "key": "spacex:8959589002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T17:00:31.046Z"
+    },
+    {
+      "id": "8959563002",
+      "title": "Network Security Engineer",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8959563002?gh_jid=8959563002",
+      "postedAt": "2026-11-24T16:55:09.000Z",
+      "key": "spacex:8959563002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T17:00:31.046Z"
+    },
+    {
+      "id": "8959558002",
+      "title": "Sr. Security Engineer (Detection Engineering)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8959558002?gh_jid=8959558002",
+      "postedAt": "2026-11-24T16:54:56.000Z",
+      "key": "spacex:8959558002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T17:00:31.046Z"
+    },
+    {
+      "id": "8959556002",
+      "title": "Security Engineer (Detection Engineering)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8959556002?gh_jid=8959556002",
+      "postedAt": "2026-11-24T16:54:52.000Z",
+      "key": "spacex:8959556002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T17:00:31.046Z"
+    },
+    {
+      "id": "8960338002",
+      "title": "Staff Software Engineer",
+      "location": "Raleigh, North Carolina, United States",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/pendo/jobs/8960338002",
+      "postedAt": "2026-11-24T16:51:16.000Z",
+      "key": "pendo:8960338002",
+      "company": "Pendo",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T17:00:31.046Z"
+    },
     {
       "id": "5294066007",
       "title": "Front-End Engineer II - Data Marketplace Experiences",
