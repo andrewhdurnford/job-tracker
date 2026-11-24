@@ -1,11 +1,10 @@
 {
-  "generatedAt": "2026-11-24T22:00:32.925Z",
+  "generatedAt": "2026-11-24T22:10:19.896Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "billcom:6267623004",
-    "natera:6267695004",
-    "toast:8395668"
+    "braintrust:2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
+    "spacex:8961339002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +13,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2205
+    "experienced": 2207
   },
   "companies": [
     {
@@ -685,7 +684,7 @@
     {
       "name": "Braintrust",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4695,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 116,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 117,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5704,8 +5703,24 @@
   ],
   "jobs": [
     {
+      "id": "2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
+      "title": "Forward Deployed Engineer",
+      "location": "San Francisco",
+      "team": "GTM | Post Sales",
+      "url": "https://jobs.ashbyhq.com/Braintrust/2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
+      "postedAt": "2026-11-24T22:06:22.377Z",
+      "key": "braintrust:2fd567c7-e7b6-411e-a9e5-0dbbb70c7bb0",
+      "company": "Braintrust",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T22:10:19.896Z"
+    },
+    {
       "id": "6267623004",
-      "title": " Senior Staff Software Engineer (AI transformation) - Web Platform",
+      "title": " Senior Staff Software Engineer, Web Platform - AI Native",
       "location": "United States",
       "team": null,
       "url": "https://www.bill.com/job?6267623004&gh_jid=6267623004",
@@ -5718,6 +5733,22 @@
         "us"
       ],
       "firstSeen": "2026-11-24T22:00:32.925Z"
+    },
+    {
+      "id": "8961339002",
+      "title": "CMM Programmer (Starship)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8961339002?gh_jid=8961339002",
+      "postedAt": "2026-11-24T21:52:41.000Z",
+      "key": "spacex:8961339002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T22:10:19.896Z"
     },
     {
       "id": "8395668",
@@ -6991,7 +7022,7 @@
       "title": "Forward Deployed Engineer ",
       "location": "Ontario, Canada",
       "team": null,
-      "url": "https://job-boards.greenhouse.io/mattermost/jobs/5492890008",
+      "url": "https://mattermost.com/careers?gh_jid=5492890008",
       "postedAt": "2026-11-23T21:42:13.000Z",
       "key": "mattermost:5492890008",
       "company": "Mattermost",
@@ -8169,7 +8200,7 @@
     },
     {
       "id": "6268240004",
-      "title": "Senior Staff Software Engineer, Backend - AI Native (Evergreen)",
+      "title": "Senior Staff Software Engineer, Backend - AI Native",
       "location": "United States",
       "team": null,
       "url": "https://www.bill.com/job?6268240004&gh_jid=6268240004",
