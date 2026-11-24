@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-24T15:40:20.155Z",
+  "generatedAt": "2026-11-24T15:50:18.789Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "metriport:eb7665bc-b453-414f-89d7-3c02123d4150"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2158
+    "experienced": 2159
   },
   "companies": [
     {
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2873,7 +2875,7 @@
       "name": "Magic Leap",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3019,7 +3021,7 @@
     {
       "name": "Metriport",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "eb7665bc-b453-414f-89d7-3c02123d4150",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/metriport/eb7665bc-b453-414f-89d7-3c02123d4150",
+      "postedAt": "2026-11-24T15:44:16.866Z",
+      "key": "metriport:eb7665bc-b453-414f-89d7-3c02123d4150",
+      "company": "Metriport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T15:50:18.789Z"
+    },
     {
       "id": "78ab4f2b-e3cc-4cce-97bb-112ae4f43663",
       "title": "Lead Software Engineer",
