@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-24T23:10:28.288Z",
+  "generatedAt": "2026-11-24T23:20:20.740Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "baseten:a3f47901-a5e9-40f8-ae6b-8695f3e3528c",
-    "baseten:cfc186d9-261a-46c6-87a9-fb001edf57e1"
+    "instacart:8415370"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2217
+    "experienced": 2218
   },
   "companies": [
     {
@@ -2420,7 +2419,7 @@
     {
       "name": "Instacart",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -4694,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 118,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4729,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8415370",
+      "title": "Senior Salesforce Developer",
+      "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+      "team": null,
+      "url": "https://instacart.careers/job/?gh_jid=8415370",
+      "postedAt": "2026-11-24T23:12:39.000Z",
+      "key": "instacart:8415370",
+      "company": "Instacart",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-24T23:20:20.740Z"
+    },
     {
       "id": "cfc186d9-261a-46c6-87a9-fb001edf57e1",
       "title": "Site Reliability / Cloud Platform Engineer (Agent Infra)",
@@ -39607,7 +39622,7 @@
     {
       "id": "38d0fd18-2ac1-4825-8182-5d235b266ea3",
       "title": "Test Infrastructure Engineer, Factory Acceleration",
-      "location": "San Jose",
+      "location": "San Jose (+1 more)",
       "team": "Infrastructure",
       "url": "https://jobs.ashbyhq.com/Etched/38d0fd18-2ac1-4825-8182-5d235b266ea3",
       "postedAt": "2026-10-28T00:03:07.334Z",
