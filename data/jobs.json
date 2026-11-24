@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-11-24T01:10:19.735Z",
+  "generatedAt": "2026-11-24T01:20:19.928Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
-  "newKeys": [
-    "robinhood:7950769",
-    "samsara:8412863"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -2064,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4729,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
