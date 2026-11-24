@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-24T02:50:18.570Z",
+  "generatedAt": "2026-11-24T03:00:28.863Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "openai:f568de05-d557-4e70-aa12-256c637c7ef5"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2152
+    "experienced": 2153
   },
   "companies": [
     {
@@ -780,7 +782,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -857,7 +859,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3509,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 62,
+      "jobCount": 63,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "f568de05-d557-4e70-aa12-256c637c7ef5",
+      "title": "Applied AI Engineer, Mid-Market Enterprise",
+      "location": "San Francisco (+2 more)",
+      "team": "Technical Success",
+      "url": "https://jobs.ashbyhq.com/openai/f568de05-d557-4e70-aa12-256c637c7ef5",
+      "postedAt": "2026-11-24T02:55:23.623Z",
+      "key": "openai:f568de05-d557-4e70-aa12-256c637c7ef5",
+      "company": "OpenAI",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T03:00:28.863Z"
+    },
     {
       "id": "0ff1a380-a976-411f-ab3d-9bf8cb2ef383",
       "title": "Production Engineer, Infrastructure",
