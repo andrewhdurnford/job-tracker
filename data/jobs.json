@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-24T17:40:20.108Z",
+  "generatedAt": "2026-11-24T17:50:19.655Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "stripe:8414532",
-    "temporal:ba01bd3a-2b66-4fbb-b33c-8e0ac684df9a"
+    "spacex:8960569002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2180
+    "experienced": 2181
   },
   "companies": [
     {
@@ -1565,10 +1564,10 @@
     },
     {
       "name": "Emi Labs",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Encord",
@@ -4695,7 +4694,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 114,
+      "jobCount": 115,
       "error": null,
       "stale": false
     },
@@ -4932,10 +4931,10 @@
     },
     {
       "name": "Sysdig",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Tacto",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8960569002",
+      "title": "Embedded Software Engineer (Starlink)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8960569002?gh_jid=8960569002",
+      "postedAt": "2026-11-24T17:45:43.000Z",
+      "key": "spacex:8960569002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T17:50:19.655Z"
+    },
     {
       "id": "ba01bd3a-2b66-4fbb-b33c-8e0ac684df9a",
       "title": "Senior Software Engineer, Compute (Temporal Cloud)",
