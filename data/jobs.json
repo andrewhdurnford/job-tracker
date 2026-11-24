@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T18:10:20.983Z",
+  "generatedAt": "2026-11-24T18:20:25.881Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "okta:8359921"
+    "okta:8359831"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2184
+    "experienced": 2185
   },
   "companies": [
     {
@@ -2917,7 +2917,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3469,7 +3469,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 37,
+      "jobCount": 38,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 115,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8359831",
+      "title": "Staff Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8359831?gh_jid=8359831",
+      "postedAt": "2026-11-24T18:12:31.000Z",
+      "key": "okta:8359831",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-24T18:20:25.881Z"
+    },
     {
       "id": "8359921",
       "title": "Senior Software Engineer",
@@ -20071,7 +20087,7 @@
     },
     {
       "id": "b8a87691-3b2a-4960-aa0e-cda34894039c",
-      "title": "Deployment Engineer",
+      "title": "Deployment Engineer, Global Ops",
       "location": "San Francisco",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/sieve/b8a87691-3b2a-4960-aa0e-cda34894039c",
