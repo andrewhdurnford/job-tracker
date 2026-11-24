@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-24T15:20:20.388Z",
+  "generatedAt": "2026-11-24T15:30:28.123Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "tennr:78ab4f2b-e3cc-4cce-97bb-112ae4f43663"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1319,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3771,7 +3769,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5673,10 +5671,10 @@
     },
     {
       "name": "Zippi",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zoom",
