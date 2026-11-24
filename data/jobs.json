@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T15:10:20.424Z",
+  "generatedAt": "2026-11-24T15:20:20.388Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "protege:24f1880c-d28b-402c-817b-96cb44fbad33"
+    "tennr:78ab4f2b-e3cc-4cce-97bb-112ae4f43663"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1655,10 +1655,10 @@
     },
     {
       "name": "Exowatt",
-      "ok": false,
+      "ok": true,
       "jobCount": 3,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Factory",
@@ -3245,7 +3245,7 @@
     {
       "name": "Natera",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -3771,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -5044,7 +5044,7 @@
     {
       "name": "Tennr",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -5673,10 +5673,10 @@
     },
     {
       "name": "Zippi",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Zoom",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "78ab4f2b-e3cc-4cce-97bb-112ae4f43663",
+      "title": "Lead Software Engineer",
+      "location": "New York City Office",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/tennr/78ab4f2b-e3cc-4cce-97bb-112ae4f43663",
+      "postedAt": "2026-11-24T15:09:35.640Z",
+      "key": "tennr:78ab4f2b-e3cc-4cce-97bb-112ae4f43663",
+      "company": "Tennr",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T15:20:20.388Z"
+    },
     {
       "id": "24f1880c-d28b-402c-817b-96cb44fbad33",
       "title": "Staff Software Engineer, Transformations",
@@ -6488,22 +6504,6 @@
         ],
         "year": null
       },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-23T20:30:23.574Z"
-    },
-    {
-      "id": "6267695004",
-      "title": "Senior Software Engineer",
-      "location": "San Carlos, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/natera/jobs/6267695004",
-      "postedAt": "2026-11-23T20:22:48.000Z",
-      "key": "natera:6267695004",
-      "company": "Natera",
-      "level": "experienced",
-      "term": null,
       "regions": [
         "us"
       ],
@@ -35746,7 +35746,7 @@
     },
     {
       "id": "10b3da1d-ddcb-4609-8567-9b06d6ab6c9b",
-      "title": "Tech Lead Manager",
+      "title": "Engineering Manager (Hands-on)",
       "location": "New York City Office",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/tennr/10b3da1d-ddcb-4609-8567-9b06d6ab6c9b",
