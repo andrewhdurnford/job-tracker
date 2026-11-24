@@ -1,11 +1,9 @@
 {
-  "generatedAt": "2026-11-24T17:20:19.244Z",
+  "generatedAt": "2026-11-24T17:30:29.965Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "hex:5cd0e16b-9f39-4026-a6d0-e9ae7e6ad777",
-    "justworks:8393878",
-    "waymo:8399242"
+    "braintrust:fe7f5626-265f-4f95-a190-4a774d4b275e"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2177
+    "experienced": 2178
   },
   "companies": [
     {
@@ -355,10 +353,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -685,7 +683,7 @@
     {
       "name": "Braintrust",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1321,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4730,10 +4728,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -5703,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "fe7f5626-265f-4f95-a190-4a774d4b275e",
+      "title": "GRC Engineer",
+      "location": "San Francisco (+2 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/Braintrust/fe7f5626-265f-4f95-a190-4a774d4b275e",
+      "postedAt": "2026-11-24T17:28:01.884Z",
+      "key": "braintrust:fe7f5626-265f-4f95-a190-4a774d4b275e",
+      "company": "Braintrust",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T17:30:29.965Z"
+    },
     {
       "id": "8399242",
       "title": "Staff Software Engineer, Trip Platform ",
