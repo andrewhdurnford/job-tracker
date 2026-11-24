@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-24T18:00:28.596Z",
+  "generatedAt": "2026-11-24T18:10:20.983Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "coupang:8311094",
-    "Remitly:R_107195"
+    "okta:8359921"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2183
+    "experienced": 2184
   },
   "companies": [
     {
@@ -354,10 +353,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -1320,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2918,7 +2917,7 @@
       "name": "Material Security",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -3049,10 +3048,10 @@
     },
     {
       "name": "Mindy",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mirage",
@@ -3470,7 +3469,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -3772,7 +3771,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4134,10 +4133,10 @@
     },
     {
       "name": "Remitly",
-      "ok": true,
+      "ok": false,
       "jobCount": 22,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Remora",
@@ -4435,10 +4434,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -4750,10 +4749,10 @@
     },
     {
       "name": "Squire Technologies",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Stability AI",
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8359921",
+      "title": "Senior Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8359921?gh_jid=8359921",
+      "postedAt": "2026-11-24T18:03:06.000Z",
+      "key": "okta:8359921",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-24T18:10:20.983Z"
+    },
     {
       "id": "R_107195",
       "title": "Senior Software Engineer, New Markets",
@@ -24327,7 +24342,7 @@
     {
       "id": "8357200",
       "title": "Senior Software Engineer, AI Security",
-      "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
+      "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/tanium/jobs/8357200",
       "postedAt": "2026-11-06T19:12:48.000Z",
