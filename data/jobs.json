@@ -1,11 +1,13 @@
 {
-  "generatedAt": "2026-11-24T16:40:30.230Z",
+  "generatedAt": "2026-11-24T16:50:18.958Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
+  "lastRunNewCount": 5,
   "newKeys": [
-    "assemblyai:4758185005",
-    "metriport:e101d155-8895-4e6d-98db-84b10cff77e5",
-    "stripe:8394936"
+    "metriport:bb1bf8d6-85e7-46ed-b315-3b2501eb0576",
+    "metriport:db71149a-2211-4c9b-a977-02998bfe1d90",
+    "metriport:855fdc5a-e08a-4496-947c-79b9ec804af7",
+    "okta:8359929",
+    "thetradedesk:5294066007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -14,7 +16,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2162
+    "experienced": 2167
   },
   "companies": [
     {
@@ -1321,10 +1323,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3023,7 +3025,7 @@
     {
       "name": "Metriport",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -3471,7 +3473,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 35,
+      "jobCount": 36,
       "error": null,
       "stale": false
     },
@@ -5060,7 +5062,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -5703,6 +5705,86 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5294066007",
+      "title": "Front-End Engineer II - Data Marketplace Experiences",
+      "location": "New York",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5294066007",
+      "postedAt": "2026-11-24T16:47:40.000Z",
+      "key": "thetradedesk:5294066007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T16:50:18.958Z"
+    },
+    {
+      "id": "8359929",
+      "title": "Staff Observability Infrastructure Engineer",
+      "location": "San Francisco, CA, United States",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8359929?gh_jid=8359929",
+      "postedAt": "2026-11-24T16:44:19.000Z",
+      "key": "okta:8359929",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T16:50:18.958Z"
+    },
+    {
+      "id": "bb1bf8d6-85e7-46ed-b315-3b2501eb0576",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/metriport/bb1bf8d6-85e7-46ed-b315-3b2501eb0576",
+      "postedAt": "2026-11-24T16:41:35.656Z",
+      "key": "metriport:bb1bf8d6-85e7-46ed-b315-3b2501eb0576",
+      "company": "Metriport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T16:50:18.958Z"
+    },
+    {
+      "id": "db71149a-2211-4c9b-a977-02998bfe1d90",
+      "title": "Staff Data Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/metriport/db71149a-2211-4c9b-a977-02998bfe1d90",
+      "postedAt": "2026-11-24T16:40:34.537Z",
+      "key": "metriport:db71149a-2211-4c9b-a977-02998bfe1d90",
+      "company": "Metriport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T16:50:18.958Z"
+    },
+    {
+      "id": "855fdc5a-e08a-4496-947c-79b9ec804af7",
+      "title": "Senior AI/ML Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/metriport/855fdc5a-e08a-4496-947c-79b9ec804af7",
+      "postedAt": "2026-11-24T16:40:19.246Z",
+      "key": "metriport:855fdc5a-e08a-4496-947c-79b9ec804af7",
+      "company": "Metriport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T16:50:18.958Z"
+    },
     {
       "id": "e101d155-8895-4e6d-98db-84b10cff77e5",
       "title": "Senior Data Engineer",
