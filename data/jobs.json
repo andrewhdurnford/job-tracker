@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-24T18:30:23.608Z",
+  "generatedAt": "2026-11-24T18:40:18.680Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "okta:8401257",
+    "protege:8f8b2e96-290e-49ea-859b-68436b7dc662"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2185
+    "experienced": 2187
   },
   "companies": [
     {
@@ -1317,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3467,7 +3470,7 @@
     {
       "name": "Okta",
       "ok": true,
-      "jobCount": 38,
+      "jobCount": 39,
       "error": null,
       "stale": false
     },
@@ -3950,7 +3953,7 @@
     {
       "name": "Protege",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4131,10 +4134,10 @@
     },
     {
       "name": "Remitly",
-      "ok": true,
+      "ok": false,
       "jobCount": 22,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Remora",
@@ -4432,10 +4435,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -4691,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 115,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -4726,10 +4729,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -5034,10 +5037,10 @@
     },
     {
       "name": "Tempus AI",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Tennr",
@@ -5700,6 +5703,22 @@
   ],
   "jobs": [
     {
+      "id": "8401257",
+      "title": "Senior Software Engineer",
+      "location": "Toronto, ON, Canada",
+      "team": null,
+      "url": "https://www.okta.com/company/careers/opportunity/8401257?gh_jid=8401257",
+      "postedAt": "2026-11-24T18:31:07.000Z",
+      "key": "okta:8401257",
+      "company": "Okta",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-24T18:40:18.680Z"
+    },
+    {
       "id": "8359831",
       "title": "Staff Software Engineer",
       "location": "Toronto, ON, Canada",
@@ -6168,7 +6187,7 @@
       "id": "4df379fc-49c6-4695-ab32-721d1663d800",
       "title": "Founding Platform Engineer",
       "location": "Remote",
-      "team": "Assessments",
+      "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/protege/4df379fc-49c6-4695-ab32-721d1663d800",
       "postedAt": "2026-11-24T14:55:56.690Z",
       "key": "protege:4df379fc-49c6-4695-ab32-721d1663d800",
@@ -6196,6 +6215,23 @@
         "us"
       ],
       "firstSeen": "2026-11-24T15:00:28.582Z"
+    },
+    {
+      "id": "8f8b2e96-290e-49ea-859b-68436b7dc662",
+      "title": "Founding Evaluation Engineer",
+      "location": "Remote",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/protege/8f8b2e96-290e-49ea-859b-68436b7dc662",
+      "postedAt": "2026-11-24T14:49:58.365Z",
+      "key": "protege:8f8b2e96-290e-49ea-859b-68436b7dc662",
+      "company": "Protege",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us",
+        "remote"
+      ],
+      "firstSeen": "2026-11-24T18:40:18.680Z"
     },
     {
       "id": "890fd360-d558-4fa6-921d-32ff9e58e7e2",
