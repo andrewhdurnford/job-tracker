@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-11-24T19:00:31.789Z",
+  "generatedAt": "2026-11-24T19:10:22.480Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "natera:6250652004"
+    "adyen:8378548",
+    "thetradedesk:5306682007",
+    "thetradedesk:5308529007"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +14,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2190
+    "experienced": 2193
   },
   "companies": [
     {
@@ -74,7 +76,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2896,7 +2898,7 @@
       "name": "Marqeta",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3232,7 +3234,7 @@
       "name": "Nansen",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5058,7 +5060,7 @@
     {
       "name": "The Trade Desk",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "5308529007",
+      "title": "Applied Scientist II, Performance Algorithms ",
+      "location": "Toronto",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5308529007",
+      "postedAt": "2026-11-24T19:04:14.000Z",
+      "key": "thetradedesk:5308529007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "canada"
+      ],
+      "firstSeen": "2026-11-24T19:10:22.480Z"
+    },
+    {
+      "id": "5306682007",
+      "title": "Applied Scientist II, Performance Algorithms ",
+      "location": "New York",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5306682007",
+      "postedAt": "2026-11-24T19:04:10.000Z",
+      "key": "thetradedesk:5306682007",
+      "company": "The Trade Desk",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T19:10:22.480Z"
+    },
     {
       "id": "8960882002",
       "title": "Senior Data Scientist",
@@ -8684,6 +8718,22 @@
         "canada"
       ],
       "firstSeen": "2026-11-20T21:30:30.671Z"
+    },
+    {
+      "id": "8378548",
+      "title": "Software Engineer",
+      "location": "San Francisco",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8378548",
+      "postedAt": "2026-11-20T21:19:09.000Z",
+      "key": "adyen:8378548",
+      "company": "Adyen",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T19:10:22.480Z"
     },
     {
       "id": "8393009",
