@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-24T17:50:19.655Z",
+  "generatedAt": "2026-11-24T18:00:28.596Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "spacex:8960569002"
+    "coupang:8311094",
+    "Remitly:R_107195"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +13,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2181
+    "experienced": 2183
   },
   "companies": [
     {
@@ -353,10 +354,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -1201,7 +1202,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3048,10 +3049,10 @@
     },
     {
       "name": "Mindy",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Mirage",
@@ -3771,7 +3772,7 @@
       "name": "Plaid",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4133,10 +4134,10 @@
     },
     {
       "name": "Remitly",
-      "ok": false,
-      "jobCount": 21,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "ok": true,
+      "jobCount": 22,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Remora",
@@ -4434,10 +4435,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -4749,10 +4750,10 @@
     },
     {
       "name": "Squire Technologies",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Stability AI",
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107195",
+      "title": "Senior Software Engineer, New Markets",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Engineer--New-Markets_R_107195",
+      "postedAt": "2026-11-24T18:00:31.419Z",
+      "key": "Remitly:R_107195",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T18:00:28.596Z"
+    },
+    {
+      "id": "8311094",
+      "title": "Staff Machine Learning Engineer, Query Understanding",
+      "location": "Mountain View, USA",
+      "team": null,
+      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8311094",
+      "postedAt": "2026-11-24T17:50:15.000Z",
+      "key": "coupang:8311094",
+      "company": "Coupang",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-24T18:00:28.596Z"
+    },
     {
       "id": "8960569002",
       "title": "Embedded Software Engineer (Starlink)",
