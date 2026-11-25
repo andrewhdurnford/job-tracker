@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-25T13:00:33.757Z",
+  "generatedAt": "2026-11-25T13:10:20.813Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "intercom:8416797"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2223
+    "experienced": 2222
   },
   "companies": [
     {
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2424,7 +2426,7 @@
     {
       "name": "Intercom",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -4565,10 +4567,10 @@
     },
     {
       "name": "Skyways",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sleeper",
@@ -4826,7 +4828,7 @@
       "name": "Suger",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8416797",
+      "title": "Senior Forward Deployed Data Scientist",
+      "location": "New York, New York",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8416797",
+      "postedAt": "2026-11-25T13:10:11.000Z",
+      "key": "intercom:8416797",
+      "company": "Intercom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T13:10:20.813Z"
+    },
     {
       "id": "62ad3b86-3a18-435a-ab29-dc62b77154e5",
       "title": "Product Security Engineer",
@@ -11216,38 +11234,6 @@
         "us"
       ],
       "firstSeen": "2026-11-19T20:00:27.502Z"
-    },
-    {
-      "id": "8403407",
-      "title": "Senior Forward Deployed Data Scientist",
-      "location": "Chicago, Illinois",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/intercom/jobs/8403407",
-      "postedAt": "2026-11-19T19:36:51.000Z",
-      "key": "intercom:8403407",
-      "company": "Intercom",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-19T19:40:27.094Z"
-    },
-    {
-      "id": "8403398",
-      "title": "Senior Forward Deployed Data Scientist",
-      "location": "New York, New York",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/intercom/jobs/8403398",
-      "postedAt": "2026-11-19T19:32:20.000Z",
-      "key": "intercom:8403398",
-      "company": "Intercom",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-19T19:40:27.094Z"
     },
     {
       "id": "8368600",
