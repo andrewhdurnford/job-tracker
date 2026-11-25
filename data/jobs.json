@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-25T11:10:19.244Z",
+  "generatedAt": "2026-11-25T11:20:24.388Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "Remitly:R_106836",
+    "Remitly:R_107039",
+    "Remitly:R_107041"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2222
+    "experienced": 2224
   },
   "companies": [
     {
@@ -1317,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4131,10 +4135,10 @@
     },
     {
       "name": "Remitly",
-      "ok": false,
-      "jobCount": 22,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "ok": true,
+      "jobCount": 24,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Remora",
@@ -4432,10 +4436,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": false,
+      "ok": true,
       "jobCount": 5,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Sesame",
@@ -4691,10 +4695,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 117,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -6839,6 +6843,54 @@
       "firstSeen": "2026-11-24T18:40:18.680Z"
     },
     {
+      "id": "R_106836",
+      "title": "Principal Security Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Principal-Security-Engineer_R_106836",
+      "postedAt": "2026-11-24T11:20:28.007Z",
+      "key": "Remitly:R_106836",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T11:20:24.388Z"
+    },
+    {
+      "id": "R_107039",
+      "title": "Senior Data Engineer",
+      "location": "Arlington Virginia, United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Senior-Data-Engineer_R_107039",
+      "postedAt": "2026-11-24T11:20:28.007Z",
+      "key": "Remitly:R_107039",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T11:20:24.388Z"
+    },
+    {
+      "id": "R_107041",
+      "title": "Senior Software Engineer",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Engineer_R_107041-1",
+      "postedAt": "2026-11-24T11:20:28.007Z",
+      "key": "Remitly:R_107041",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T11:20:24.388Z"
+    },
+    {
       "id": "890fd360-d558-4fa6-921d-32ff9e58e7e2",
       "title": "IT Engineer",
       "location": "San Jose",
@@ -6853,22 +6905,6 @@
         "us"
       ],
       "firstSeen": "2026-11-24T06:40:18.387Z"
-    },
-    {
-      "id": "R_107192",
-      "title": "Senior Software Development Engineer",
-      "location": "Seattle, Washington United States",
-      "team": null,
-      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Development-Engineer_R_107192",
-      "postedAt": "2026-11-24T05:50:21.274Z",
-      "key": "Remitly:R_107192",
-      "company": "Remitly",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-24T05:50:17.979Z"
     },
     {
       "id": "4731856006",
