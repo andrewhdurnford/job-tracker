@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T00:20:20.156Z",
+  "generatedAt": "2026-11-25T00:30:23.547Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2221
+    "experienced": 2220
   },
   "companies": [
     {
@@ -983,7 +983,7 @@
       "name": "ClickHouse",
       "ok": false,
       "jobCount": 6,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -5105,7 +5105,7 @@
     {
       "name": "Toast",
       "ok": true,
-      "jobCount": 13,
+      "jobCount": 12,
       "error": null,
       "stale": false
     },
@@ -36782,22 +36782,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-30T20:10:22.735Z"
-    },
-    {
-      "id": "8311088",
-      "title": "Manager, Software Engineering",
-      "location": "Remote, US",
-      "team": null,
-      "url": "https://careers.toasttab.com/jobs?gh_jid=8311088",
-      "postedAt": "2026-10-30T19:57:46.000Z",
-      "key": "toast:8311088",
-      "company": "Toast",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-30T20:00:26.412Z"
     },
     {
       "id": "30df72cf-ee68-4194-864e-47745ca8b6e0",
