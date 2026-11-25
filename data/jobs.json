@@ -1,18 +1,20 @@
 {
-  "generatedAt": "2026-11-25T18:20:20.898Z",
+  "generatedAt": "2026-11-25T18:30:29.497Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 3,
   "newKeys": [
-    "goteleport:a817016e-2164-49c4-bea1-04014d14441f"
+    "airbnb:8411254",
+    "doordashusa:8417670",
+    "sambanovasystems:6271395004"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 105,
+    "intern": 106,
     "new-grad": 10,
-    "experienced": 2214
+    "experienced": 2215
   },
   "companies": [
     {
@@ -116,7 +118,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -1453,7 +1455,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -2224,7 +2226,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2658,7 +2660,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2742,7 +2744,7 @@
       "name": "Lingo.dev",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3308,7 +3310,7 @@
     {
       "name": "Neuralink",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -4330,7 +4332,7 @@
     {
       "name": "SambaNova Systems",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5703,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8417670",
+      "title": "Principal Engineer AI/ML Platform",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8417670",
+      "postedAt": "2026-11-25T18:24:25.000Z",
+      "key": "doordashusa:8417670",
+      "company": "DoorDash",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T18:30:29.497Z"
+    },
+    {
+      "id": "6271395004",
+      "title": "Machine Learning Engineer Intern ",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "team": null,
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271395004",
+      "postedAt": "2026-11-25T18:24:13.000Z",
+      "key": "sambanovasystems:6271395004",
+      "company": "SambaNova Systems",
+      "level": "intern",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T18:30:29.497Z"
+    },
     {
       "id": "a817016e-2164-49c4-bea1-04014d14441f",
       "title": "Senior Backend Engineer - Beams",
@@ -7901,6 +7935,22 @@
         "us"
       ],
       "firstSeen": "2026-11-24T22:00:32.925Z"
+    },
+    {
+      "id": "8411254",
+      "title": "Senior Machine Learning Engineer, Assistance Foundations",
+      "location": "United States",
+      "team": null,
+      "url": "https://careers.airbnb.com/positions/8411254?gh_jid=8411254",
+      "postedAt": "2026-11-23T20:18:00.000Z",
+      "key": "airbnb:8411254",
+      "company": "Airbnb",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T18:30:29.497Z"
     },
     {
       "id": "8412312",
@@ -41661,22 +41711,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T18:40:19.124Z"
-    },
-    {
-      "id": "8044955003",
-      "title": "Infrastructure Engineer, Mechanical Tooling",
-      "location": "Austin, Texas, United States; South San Francisco, California, United States",
-      "team": null,
-      "url": "https://boards.greenhouse.io/neuralink/jobs/8044955003?gh_jid=8044955003",
-      "postedAt": "2026-10-26T18:29:11.000Z",
-      "key": "neuralink:8044955003",
-      "company": "Neuralink",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T18:30:23.876Z"
     },
     {
       "id": "R1001217",
