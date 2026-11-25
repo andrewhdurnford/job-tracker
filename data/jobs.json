@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-11-25T11:20:24.388Z",
+  "generatedAt": "2026-11-25T11:30:25.528Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "Remitly:R_106836",
-    "Remitly:R_107039",
-    "Remitly:R_107041"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -4135,10 +4131,10 @@
     },
     {
       "name": "Remitly",
-      "ok": true,
+      "ok": false,
       "jobCount": 24,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Remora",
@@ -4436,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
