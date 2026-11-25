@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-11-25T01:40:20.225Z",
+  "generatedAt": "2026-11-25T01:50:18.182Z",
   "bootstrap": false,
-  "lastRunNewCount": 2,
+  "lastRunNewCount": 1,
   "newKeys": [
-    "docker:370dbdf5-79f3-4885-beb4-dc3b16cfcd5b",
-    "pinterest:8376163"
+    "sumologic:8386571"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +12,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2222
+    "experienced": 2223
   },
   "companies": [
     {
@@ -594,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1320,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -4842,7 +4841,7 @@
     {
       "name": "Sumo Logic",
       "ok": true,
-      "jobCount": 0,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8386571",
+      "title": "Principal Software Engineer",
+      "location": "Remote USA",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/sumologic/jobs/8386571",
+      "postedAt": "2026-11-25T01:45:01.000Z",
+      "key": "sumologic:8386571",
+      "company": "Sumo Logic",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T01:50:18.182Z"
+    },
     {
       "id": "8376163",
       "title": "Director, Engineering-Agentic Ads Business Platform",
