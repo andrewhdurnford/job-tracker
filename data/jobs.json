@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T21:30:30.873Z",
+  "generatedAt": "2026-11-25T21:40:22.536Z",
   "bootstrap": false,
   "lastRunNewCount": 2,
   "newKeys": [
-    "xai:5308947007",
-    "xai:5308958007"
+    "mongodb:7870848",
+    "notion:c777ed1e-e23f-4b76-bc21-039aaf06c1de"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -13,7 +13,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 10,
-    "experienced": 2211
+    "experienced": 2213
   },
   "companies": [
     {
@@ -1320,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3134,7 +3134,7 @@
     {
       "name": "MongoDB",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 15,
       "error": null,
       "stale": false
     },
@@ -3372,7 +3372,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -5702,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "7870848",
+      "title": "Senior Software Engineer",
+      "location": "New York City",
+      "team": null,
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=7870848",
+      "postedAt": "2026-11-25T21:36:02.000Z",
+      "key": "mongodb:7870848",
+      "company": "MongoDB",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T21:40:22.536Z"
+    },
+    {
+      "id": "c777ed1e-e23f-4b76-bc21-039aaf06c1de",
+      "title": "Staff Software Engineer, AI Agents",
+      "location": "San Francisco, California (+1 more)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/notion/c777ed1e-e23f-4b76-bc21-039aaf06c1de",
+      "postedAt": "2026-11-25T21:34:00.621Z",
+      "key": "notion:c777ed1e-e23f-4b76-bc21-039aaf06c1de",
+      "company": "Notion",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T21:40:22.536Z"
+    },
     {
       "id": "5308947007",
       "title": "Lead Software Engineer, X Chat",
