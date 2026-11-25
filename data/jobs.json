@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T20:40:19.783Z",
+  "generatedAt": "2026-11-25T20:50:19.432Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "thinkingmachines:fdb92624-9df4-4a0f-bc23-bfb60b69d7cb"
+    "robinhood:8355577"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 10,
-    "experienced": 2216
+    "experienced": 2215
   },
   "companies": [
     {
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1054,7 +1054,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 20,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4232,7 +4232,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 21,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 120,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8355577",
+      "title": "Software Engineer, Web, Government Products",
+      "location": "Menlo Park, CA; New York, NY",
+      "team": null,
+      "url": "https://boards.greenhouse.io/robinhood/jobs/8355577?t=gh_src=&gh_jid=8355577",
+      "postedAt": "2026-11-25T20:42:07.000Z",
+      "key": "robinhood:8355577",
+      "company": "Robinhood",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T20:50:19.432Z"
+    },
     {
       "id": "fdb92624-9df4-4a0f-bc23-bfb60b69d7cb",
       "title": "Software Engineer, Safety Platform",
@@ -41638,38 +41654,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T14:30:22.758Z"
-    },
-    {
-      "id": "8319448",
-      "title": "Senior Security Engineer, Corporate Security",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8319448?gh_jid=8319448",
-      "postedAt": "2026-10-26T20:49:22.000Z",
-      "key": "coinbase:8319448",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T20:50:17.921Z"
-    },
-    {
-      "id": "8319444",
-      "title": "Security Engineer, Corporate Security",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8319444?gh_jid=8319444",
-      "postedAt": "2026-10-26T20:47:39.000Z",
-      "key": "coinbase:8319444",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T20:50:17.921Z"
     },
     {
       "id": "R1004464",
