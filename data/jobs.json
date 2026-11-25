@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-25T01:30:24.569Z",
+  "generatedAt": "2026-11-25T01:40:20.225Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "docker:370dbdf5-79f3-4885-beb4-dc3b16cfcd5b",
+    "pinterest:8376163"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 101,
     "new-grad": 10,
-    "experienced": 2220
+    "experienced": 2222
   },
   "companies": [
     {
@@ -591,7 +594,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1416,7 +1419,7 @@
     {
       "name": "Docker",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3754,7 +3757,7 @@
     {
       "name": "Pinterest",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8376163",
+      "title": "Director, Engineering-Agentic Ads Business Platform",
+      "location": "San Francisco, CA, US; Palo Alto, CA, US",
+      "team": null,
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8376163",
+      "postedAt": "2026-11-25T01:34:05.000Z",
+      "key": "pinterest:8376163",
+      "company": "Pinterest",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T01:40:20.225Z"
+    },
+    {
+      "id": "370dbdf5-79f3-4885-beb4-dc3b16cfcd5b",
+      "title": "Senior Principal Forward Deployed Engineer",
+      "location": "United States (+5 more)",
+      "team": "ENG-FDE",
+      "url": "https://jobs.ashbyhq.com/docker/370dbdf5-79f3-4885-beb4-dc3b16cfcd5b",
+      "postedAt": "2026-11-25T01:29:55.803Z",
+      "key": "docker:370dbdf5-79f3-4885-beb4-dc3b16cfcd5b",
+      "company": "Docker",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T01:40:20.225Z"
+    },
     {
       "id": "8415777",
       "title": "Senior Staff Software Engineer, AI Productivity",
