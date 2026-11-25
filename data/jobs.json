@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-25T22:50:18.687Z",
+  "generatedAt": "2026-11-25T23:00:31.861Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "thinkingmachines:c09f086c-b34b-4d34-b1fb-e5672c666dd8"
+    "braintrust:103dc439-307b-4fa7-9c40-efd19d457653",
+    "coinbase:8417630"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -683,7 +684,7 @@
     {
       "name": "Braintrust",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1054,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -4693,10 +4694,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 123,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5688,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "103dc439-307b-4fa7-9c40-efd19d457653",
+      "title": "Analytics Engineer",
+      "location": "San Francisco",
+      "team": "Marketing",
+      "url": "https://jobs.ashbyhq.com/Braintrust/103dc439-307b-4fa7-9c40-efd19d457653",
+      "postedAt": "2026-11-25T22:56:44.337Z",
+      "key": "braintrust:103dc439-307b-4fa7-9c40-efd19d457653",
+      "company": "Braintrust",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T23:00:31.861Z"
+    },
+    {
+      "id": "8417630",
+      "title": "Senior Software Engineer, Native Mobile",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8417630?gh_jid=8417630",
+      "postedAt": "2026-11-25T22:52:58.000Z",
+      "key": "coinbase:8417630",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T23:00:31.861Z"
+    },
     {
       "id": "c09f086c-b34b-4d34-b1fb-e5672c666dd8",
       "title": "Research Engineer, Infrastructure, RL Infra / Systems",
@@ -10556,38 +10589,6 @@
         "canada"
       ],
       "firstSeen": "2026-11-20T17:50:20.622Z"
-    },
-    {
-      "id": "5283494007",
-      "title": "Software Development Engineer",
-      "location": "Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
-      "postedAt": "2026-11-20T17:38:40.000Z",
-      "key": "zscaler:5283494007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-24T16:00:42.017Z"
-    },
-    {
-      "id": "5283490007",
-      "title": "Sr. Software Development Engineer",
-      "location": "Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283490007",
-      "postedAt": "2026-11-20T17:38:35.000Z",
-      "key": "zscaler:5283490007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-24T16:00:42.017Z"
     },
     {
       "id": "8350696",
