@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-25T18:10:20.002Z",
+  "generatedAt": "2026-11-25T18:20:20.898Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "goteleport:a817016e-2164-49c4-bea1-04014d14441f"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2222,7 +2224,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2656,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2740,7 +2742,7 @@
       "name": "Lingo.dev",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4384,7 +4386,7 @@
     {
       "name": "Security Scorecard",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5007,7 +5009,7 @@
     {
       "name": "Teleport",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a817016e-2164-49c4-bea1-04014d14441f",
+      "title": "Senior Backend Engineer - Beams",
+      "location": "United States (Remote)",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/goteleport/a817016e-2164-49c4-bea1-04014d14441f",
+      "postedAt": "2026-11-25T18:14:03.051Z",
+      "key": "goteleport:a817016e-2164-49c4-bea1-04014d14441f",
+      "company": "Teleport",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T18:20:20.898Z"
+    },
     {
       "id": "8415553",
       "title": "Software Engineer, Ads",
@@ -7497,7 +7515,7 @@
     {
       "id": "8407483",
       "title": "Staff IT Security Engineer",
-      "location": "Durham, NC (Hybrid)",
+      "location": "Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
       "team": null,
       "url": "https://job-boards.greenhouse.io/tanium/jobs/8407483",
       "postedAt": "2026-11-23T22:58:22.000Z",
@@ -41659,22 +41677,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T18:30:23.876Z"
-    },
-    {
-      "id": "8324966",
-      "title": "Distinguished Software Engineer, AI",
-      "location": "Remote (US/CAN/LATAM)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/8324966",
-      "postedAt": "2026-10-26T18:12:09.000Z",
-      "key": "securityscorecard:8324966",
-      "company": "Security Scorecard",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T18:20:58.533Z"
     },
     {
       "id": "R1001217",
