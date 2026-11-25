@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-25T20:10:20.867Z",
+  "generatedAt": "2026-11-25T20:20:28.541Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "launchdarkly:8217232003"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 105,
     "new-grad": 10,
-    "experienced": 2218
+    "experienced": 2217
   },
   "companies": [
     {
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -780,7 +782,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1199,7 +1201,7 @@
     {
       "name": "Coupang",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -2501,7 +2503,7 @@
     {
       "name": "Juicebox",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -2704,7 +2706,7 @@
     {
       "name": "LaunchDarkly",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": true,
+      "ok": false,
       "jobCount": 120,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Speak",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8217232003",
+      "title": "GTM AI Engineer",
+      "location": "Remote - US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8217232003",
+      "postedAt": "2026-11-25T20:17:30.000Z",
+      "key": "launchdarkly:8217232003",
+      "company": "LaunchDarkly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T20:20:28.541Z"
+    },
     {
       "id": "8962924002",
       "title": "Principal AI Research Engineer",
@@ -21523,22 +21541,6 @@
       "postedAt": "2026-11-10T20:50:24.585Z",
       "key": "Capital One:R1005555",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-10T20:50:21.166Z"
-    },
-    {
-      "id": "8347854",
-      "title": "Staff Machine Learning Engineer",
-      "location": "Mountain View, USA",
-      "team": null,
-      "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8347854",
-      "postedAt": "2026-11-10T20:49:36.000Z",
-      "key": "coupang:8347854",
-      "company": "Coupang",
       "level": "experienced",
       "term": null,
       "regions": [
@@ -41668,22 +41670,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T20:50:17.921Z"
-    },
-    {
-      "id": "2c271f64-249f-4119-ae4b-b418c9955e36",
-      "title": "Staff Software Engineer",
-      "location": "San Francisco",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/Juicebox/2c271f64-249f-4119-ae4b-b418c9955e36",
-      "postedAt": "2026-10-26T20:19:15.222Z",
-      "key": "juicebox:2c271f64-249f-4119-ae4b-b418c9955e36",
-      "company": "Juicebox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T20:20:20.627Z"
     },
     {
       "id": "R1004464",
