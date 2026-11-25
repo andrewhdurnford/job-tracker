@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T13:10:20.813Z",
+  "generatedAt": "2026-11-25T13:20:20.511Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "intercom:8416797"
+    "intercom:8416775"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -74,7 +74,7 @@
     {
       "name": "Adyen",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2426,7 +2426,7 @@
     {
       "name": "Intercom",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8416775",
+      "title": "Senior Forward Deployed Data Scientist",
+      "location": "Chicago, Illinois",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8416775",
+      "postedAt": "2026-11-25T13:12:04.000Z",
+      "key": "intercom:8416775",
+      "company": "Intercom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T13:20:20.511Z"
+    },
     {
       "id": "8416797",
       "title": "Senior Forward Deployed Data Scientist",
@@ -9308,22 +9324,6 @@
         "canada"
       ],
       "firstSeen": "2026-11-20T21:30:30.671Z"
-    },
-    {
-      "id": "8378548",
-      "title": "Software Engineer",
-      "location": "San Francisco",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/adyen/jobs/8378548",
-      "postedAt": "2026-11-20T21:19:09.000Z",
-      "key": "adyen:8378548",
-      "company": "Adyen",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-24T19:10:22.480Z"
     },
     {
       "id": "8393009",
