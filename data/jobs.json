@@ -1,16 +1,21 @@
 {
-  "generatedAt": "2026-11-25T22:00:27.813Z",
+  "generatedAt": "2026-11-25T22:10:20.038Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 4,
+  "newKeys": [
+    "spacex:8802854002",
+    "spacex:8963078002",
+    "spacex:8963079002",
+    "supabase:da282b12-4c4a-4eb1-b983-58543ed58ec5"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 106,
+    "intern": 105,
     "new-grad": 10,
-    "experienced": 2212
+    "experienced": 2216
   },
   "companies": [
     {
@@ -569,7 +574,7 @@
     {
       "name": "BillionToOne",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -2444,10 +2449,10 @@
     },
     {
       "name": "Inversion Space",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Invert",
@@ -3046,10 +3051,10 @@
     },
     {
       "name": "Mindy",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Mirage",
@@ -4691,10 +4696,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
-      "jobCount": 120,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "ok": true,
+      "jobCount": 123,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4726,10 +4731,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -4860,7 +4865,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5704,70 @@
     }
   ],
   "jobs": [
+    {
+      "id": "da282b12-4c4a-4eb1-b983-58543ed58ec5",
+      "title": "Engineering Productivity Engineer",
+      "location": "Remote, Global",
+      "team": "Engineering Productivity",
+      "url": "https://jobs.ashbyhq.com/supabase/da282b12-4c4a-4eb1-b983-58543ed58ec5",
+      "postedAt": "2026-11-25T22:06:23.726Z",
+      "key": "supabase:da282b12-4c4a-4eb1-b983-58543ed58ec5",
+      "company": "Supabase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-25T22:10:20.038Z"
+    },
+    {
+      "id": "8963079002",
+      "title": "Software Engineer, Flight Software (Starship)",
+      "location": "Cape Canaveral, FL",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8963079002?gh_jid=8963079002",
+      "postedAt": "2026-11-25T21:55:54.000Z",
+      "key": "spacex:8963079002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T22:10:20.038Z"
+    },
+    {
+      "id": "8963078002",
+      "title": "Software Engineer, Flight Software (Starship)",
+      "location": "Hawthorne, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8963078002?gh_jid=8963078002",
+      "postedAt": "2026-11-25T21:55:53.000Z",
+      "key": "spacex:8963078002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T22:10:20.038Z"
+    },
+    {
+      "id": "8802854002",
+      "title": "Software Engineer, Flight Software (Starship)",
+      "location": "Starbase, TX",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8802854002?gh_jid=8802854002",
+      "postedAt": "2026-11-25T21:55:51.000Z",
+      "key": "spacex:8802854002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T22:10:20.038Z"
+    },
     {
       "id": "8418089",
       "title": "Senior Developer Advocate, OpenTelemetry",
@@ -41551,22 +41620,6 @@
       "key": "Procore:R0018911",
       "company": "Procore",
       "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T22:10:24.627Z"
-    },
-    {
-      "id": "4747865005",
-      "title": "Research Associate Intern",
-      "location": "Menlo Park, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4747865005",
-      "postedAt": "2026-10-26T22:03:06.000Z",
-      "key": "billiontoone:4747865005",
-      "company": "BillionToOne",
-      "level": "intern",
       "term": null,
       "regions": [
         "us"
