@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T20:30:23.034Z",
+  "generatedAt": "2026-11-25T20:40:19.783Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "coinbase:8415869"
+    "thinkingmachines:fdb92624-9df4-4a0f-bc23-bfb60b69d7cb"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1068,7 +1068,7 @@
     {
       "name": "CoLab",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -2161,7 +2161,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 120,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -5065,7 +5065,7 @@
     {
       "name": "Thinking Machines Lab",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "fdb92624-9df4-4a0f-bc23-bfb60b69d7cb",
+      "title": "Software Engineer, Safety Platform",
+      "location": "San Francisco",
+      "team": "Security & IT",
+      "url": "https://jobs.ashbyhq.com/ThinkingMachines/fdb92624-9df4-4a0f-bc23-bfb60b69d7cb",
+      "postedAt": "2026-11-25T20:34:25.459Z",
+      "key": "thinkingmachines:fdb92624-9df4-4a0f-bc23-bfb60b69d7cb",
+      "company": "Thinking Machines Lab",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T20:40:19.783Z"
+    },
     {
       "id": "8415869",
       "title": "Security Engineer Intern",
@@ -12150,22 +12166,6 @@
         "us"
       ],
       "firstSeen": "2026-11-19T14:30:23.378Z"
-    },
-    {
-      "id": "5486493008",
-      "title": "Senior Full Stack Software Developer -FedRAMP",
-      "location": "US, Remote",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/colabsoftware/jobs/5486493008",
-      "postedAt": "2026-11-19T13:20:33.000Z",
-      "key": "colabsoftware:5486493008",
-      "company": "CoLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-19T13:30:35.432Z"
     },
     {
       "id": "463d8cd7-3092-44eb-b80e-8d21008e569e",
