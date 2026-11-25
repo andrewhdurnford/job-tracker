@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-25T10:20:19.490Z",
+  "generatedAt": "2026-11-25T10:30:23.968Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "supabase:62ad3b86-3a18-435a-ab29-dc62b77154e5"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -191,7 +193,7 @@
     {
       "name": "Alluxio",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4860,7 +4862,7 @@
     {
       "name": "Supabase",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "62ad3b86-3a18-435a-ab29-dc62b77154e5",
+      "title": "Product Security Engineer",
+      "location": "Remote, Global",
+      "team": "Product",
+      "url": "https://jobs.ashbyhq.com/supabase/62ad3b86-3a18-435a-ab29-dc62b77154e5",
+      "postedAt": "2026-11-25T10:22:02.493Z",
+      "key": "supabase:62ad3b86-3a18-435a-ab29-dc62b77154e5",
+      "company": "Supabase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-25T10:30:23.968Z"
+    },
     {
       "id": "f3fd6f58-3ded-4858-b881-c16f0b14ab60",
       "title": "Robotics Software Engineer - Core/System",
@@ -41787,22 +41805,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T13:05:40.062Z"
-    },
-    {
-      "id": "44a5ab93-a791-42b8-86f4-a1ece1018ae4",
-      "title": "Staff Software Engineer – Distributed Systems",
-      "location": "Foster City, California",
-      "team": "Engineering",
-      "url": "https://jobs.lever.co/alluxio/44a5ab93-a791-42b8-86f4-a1ece1018ae4",
-      "postedAt": "2026-10-26T10:24:05.330Z",
-      "key": "alluxio:44a5ab93-a791-42b8-86f4-a1ece1018ae4",
-      "company": "Alluxio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T10:30:26.189Z"
     },
     {
       "id": "R1001592",
