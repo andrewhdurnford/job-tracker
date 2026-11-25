@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T20:50:19.432Z",
+  "generatedAt": "2026-11-25T21:00:27.192Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "robinhood:8355577"
+    "Remitly:R_107202"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 10,
-    "experienced": 2215
+    "experienced": 2212
   },
   "companies": [
     {
@@ -2161,7 +2161,7 @@
       "name": "Harmonic",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "timeout after 15000ms",
       "stale": true
     },
     {
@@ -4133,10 +4133,10 @@
     },
     {
       "name": "Remitly",
-      "ok": false,
-      "jobCount": 24,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "ok": true,
+      "jobCount": 25,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Remora",
@@ -4693,10 +4693,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 120,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -4799,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 23,
       "error": null,
       "stale": false
     },
@@ -5023,7 +5023,7 @@
     {
       "name": "Temporal",
       "ok": true,
-      "jobCount": 14,
+      "jobCount": 13,
       "error": null,
       "stale": false
     },
@@ -5226,7 +5226,7 @@
     {
       "name": "Twilio",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -5680,10 +5680,10 @@
     },
     {
       "name": "Zoom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zscaler",
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "R_107202",
+      "title": "Senior Software Engineer, Fullstack",
+      "location": "Seattle, Washington United States",
+      "team": null,
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Senior-Software-Engineer--Fullstack_R_107202",
+      "postedAt": "2026-11-25T21:00:30.867Z",
+      "key": "Remitly:R_107202",
+      "company": "Remitly",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T21:00:27.192Z"
+    },
     {
       "id": "8355577",
       "title": "Software Engineer, Web, Government Products",
@@ -41590,70 +41606,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T21:10:17.730Z"
-    },
-    {
-      "id": "e3d7f035-7946-469f-84cf-e1c775bf25e8",
-      "title": "Software Engineer II, Cloud Applications",
-      "location": "United States (Remote)",
-      "team": "Cloud Applications",
-      "url": "https://jobs.ashbyhq.com/temporal/e3d7f035-7946-469f-84cf-e1c775bf25e8",
-      "postedAt": "2026-10-26T20:59:39.060Z",
-      "key": "temporal:e3d7f035-7946-469f-84cf-e1c775bf25e8",
-      "company": "Temporal",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T21:00:27.916Z"
-    },
-    {
-      "id": "8258581",
-      "title": "Staff Machine Learning Engineer",
-      "location": "Remote - Ontario, Canada (DNU)",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/8258581",
-      "postedAt": "2026-10-26T20:57:06.000Z",
-      "key": "twilio:8258581",
-      "company": "Twilio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-26T21:00:27.916Z"
-    },
-    {
-      "id": "8311082",
-      "title": "iOS Engineer, Identity",
-      "location": "Seattle, WA; San Francisco, CA; New York City, NY",
-      "team": "8215 Identity - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8311082",
-      "postedAt": "2026-10-26T20:53:41.000Z",
-      "key": "stripe:8311082",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T14:40:18.949Z"
-    },
-    {
-      "id": "8311069",
-      "title": "Android Engineer, Identity ",
-      "location": "Seattle, WA; San Francisco, CA; New York City, NY",
-      "team": "8215 Identity - Eng",
-      "url": "https://stripe.com/jobs/search?gh_jid=8311069",
-      "postedAt": "2026-10-26T20:50:46.000Z",
-      "key": "stripe:8311069",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T14:30:22.758Z"
     },
     {
       "id": "R1004464",
