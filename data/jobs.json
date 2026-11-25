@@ -1,8 +1,11 @@
 {
-  "generatedAt": "2026-11-25T22:20:28.019Z",
+  "generatedAt": "2026-11-25T22:30:33.868Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 2,
+  "newKeys": [
+    "coinbase:8417588",
+    "coinbase:8417596"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +13,7 @@
   "levelCounts": {
     "intern": 105,
     "new-grad": 10,
-    "experienced": 2214
+    "experienced": 2215
   },
   "companies": [
     {
@@ -1052,7 +1055,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 20,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1320,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -5686,7 +5689,7 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8417596",
+      "title": "Staff Software Engineer, Native Mobile",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8417596?gh_jid=8417596",
+      "postedAt": "2026-11-25T22:29:36.000Z",
+      "key": "coinbase:8417596",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T22:30:33.868Z"
+    },
+    {
+      "id": "8417588",
+      "title": "Senior Staff Software Engineer, Native Mobile",
+      "location": "Remote - USA",
+      "team": null,
+      "url": "https://www.coinbase.com/careers/positions/8417588?gh_jid=8417588",
+      "postedAt": "2026-11-25T22:24:11.000Z",
+      "key": "coinbase:8417588",
+      "company": "Coinbase",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-25T22:30:33.868Z"
+    },
     {
       "id": "da282b12-4c4a-4eb1-b983-58543ed58ec5",
       "title": "Engineering Productivity Engineer",
@@ -9349,7 +9384,7 @@
     },
     {
       "id": "d06f6752-1110-4708-9d80-8cfaf73795fe",
-      "title": "Software Engineer",
+      "title": "Software Lead",
       "location": "San Francisco Office",
       "team": "Engineering",
       "url": "https://jobs.ashbyhq.com/snapmagic/d06f6752-1110-4708-9d80-8cfaf73795fe",
@@ -41556,22 +41591,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T22:40:20.510Z"
-    },
-    {
-      "id": "5275347007",
-      "title": "Sr. Staff Applied AI Engineer, GTM",
-      "location": "Remote - USA; Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5275347007",
-      "postedAt": "2026-10-26T22:27:03.000Z",
-      "key": "zscaler:5275347007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T22:30:23.375Z"
     },
     {
       "id": "R0018911",
