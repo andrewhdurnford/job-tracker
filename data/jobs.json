@@ -1,13 +1,8 @@
 {
-  "generatedAt": "2026-11-25T22:10:20.038Z",
+  "generatedAt": "2026-11-25T22:20:28.019Z",
   "bootstrap": false,
-  "lastRunNewCount": 4,
-  "newKeys": [
-    "spacex:8802854002",
-    "spacex:8963078002",
-    "spacex:8963079002",
-    "supabase:da282b12-4c4a-4eb1-b983-58543ed58ec5"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -15,7 +10,7 @@
   "levelCounts": {
     "intern": 105,
     "new-grad": 10,
-    "experienced": 2216
+    "experienced": 2214
   },
   "companies": [
     {
@@ -119,7 +114,7 @@
     {
       "name": "Airbnb",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -1322,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3514,7 +3509,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 65,
+      "jobCount": 64,
       "error": null,
       "stale": false
     },
@@ -4731,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Spruce Systems",
@@ -41577,38 +41572,6 @@
         "us"
       ],
       "firstSeen": "2026-10-26T22:30:23.375Z"
-    },
-    {
-      "id": "2c646ef9-6f93-4124-9d51-964d2c5aa783",
-      "title": "Founding Software Engineer, Physical Engineering",
-      "location": "San Francisco",
-      "team": "Applied AI Infrastructure",
-      "url": "https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783",
-      "postedAt": "2026-10-26T22:18:02.107Z",
-      "key": "openai:2c646ef9-6f93-4124-9d51-964d2c5aa783",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T22:20:18.957Z"
-    },
-    {
-      "id": "8325753",
-      "title": "Staff Software Engineer, Prototyping Platform (Full Stack)",
-      "location": "United States",
-      "team": null,
-      "url": "https://careers.airbnb.com/positions/8325753?gh_jid=8325753",
-      "postedAt": "2026-10-26T22:12:12.000Z",
-      "key": "airbnb:8325753",
-      "company": "Airbnb",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T22:20:18.957Z"
     },
     {
       "id": "R0018911",
