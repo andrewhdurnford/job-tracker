@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T19:00:28.431Z",
+  "generatedAt": "2026-11-25T19:10:19.532Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "stripe:8417797"
+    "securityscorecard:8417761"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -1403,10 +1403,10 @@
     },
     {
       "name": "Despegar",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Discord",
@@ -3419,10 +3419,10 @@
     },
     {
       "name": "NUVACORE",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Nvidia",
@@ -4386,7 +4386,7 @@
     {
       "name": "Security Scorecard",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -4799,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8417761",
+      "title": "Staff Software Engineer, AI (Squad Lead)",
+      "location": "Remote",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/8417761",
+      "postedAt": "2026-11-25T19:05:33.000Z",
+      "key": "securityscorecard:8417761",
+      "company": "Security Scorecard",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "remote"
+      ],
+      "firstSeen": "2026-11-25T19:10:19.532Z"
+    },
     {
       "id": "8417797",
       "title": "Staff Software Engineer, Batch Compute",
@@ -39194,23 +39210,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-28T22:40:17.859Z"
-    },
-    {
-      "id": "8164666",
-      "title": "Technical Curriculum Developer, Technical Enablement",
-      "location": "San Francisco; Seattle; Remote",
-      "team": "1120 Training & Certification",
-      "url": "https://stripe.com/jobs/search?gh_jid=8164666",
-      "postedAt": "2026-10-28T22:31:30.000Z",
-      "key": "stripe:8164666",
-      "company": "Stripe",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
       ],
       "firstSeen": "2026-10-28T22:40:17.859Z"
     },
