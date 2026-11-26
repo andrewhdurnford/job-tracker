@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-26T20:20:19.035Z",
+  "generatedAt": "2026-11-26T20:30:24.006Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "intercom:8419409"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -780,7 +782,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -857,7 +859,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -934,7 +936,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2424,7 +2426,7 @@
     {
       "name": "Intercom",
       "ok": true,
-      "jobCount": 6,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -3621,7 +3623,7 @@
     {
       "name": "Pelago",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8419409",
+      "title": "Senior Director, Forward Deployed Engineering",
+      "location": "Chicago, Illinois; New York, New York; San Francisco, California",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/8419409",
+      "postedAt": "2026-11-26T20:29:36.000Z",
+      "key": "intercom:8419409",
+      "company": "Intercom",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-26T20:30:24.006Z"
+    },
     {
       "id": "8197871003",
       "title": "Data Scientist",
@@ -40946,22 +40964,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-27T20:50:18.704Z"
-    },
-    {
-      "id": "5277544007",
-      "title": "Product Engineer, Platform",
-      "location": "New York, NY",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/pelago/jobs/5277544007",
-      "postedAt": "2026-10-27T20:26:17.000Z",
-      "key": "pelago:5277544007",
-      "company": "Pelago",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-09T18:40:21.538Z"
     },
     {
       "id": "R1004606",
