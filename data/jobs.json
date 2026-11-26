@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T18:00:28.593Z",
+  "generatedAt": "2026-11-26T18:10:21.309Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 10,
-    "experienced": 2209
+    "experienced": 2208
   },
   "companies": [
     {
@@ -1017,7 +1017,7 @@
     {
       "name": "Clutch",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3083,7 +3083,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -28104,22 +28104,6 @@
       "postedAt": "2026-11-05T16:20:25.498Z",
       "key": "Capital One:R1004709",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-05T16:20:21.966Z"
-    },
-    {
-      "id": "8f1aa776-2c8a-4367-be4d-e25ba5e25fd9",
-      "title": "Senior Forward Deployed Engineer",
-      "location": "United States",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/withclutch/8f1aa776-2c8a-4367-be4d-e25ba5e25fd9",
-      "postedAt": "2026-11-05T16:03:28.881Z",
-      "key": "withclutch:8f1aa776-2c8a-4367-be4d-e25ba5e25fd9",
-      "company": "Clutch",
       "level": "experienced",
       "term": null,
       "regions": [
