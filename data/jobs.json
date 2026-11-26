@@ -1,17 +1,14 @@
 {
-  "generatedAt": "2026-11-26T00:20:22.296Z",
+  "generatedAt": "2026-11-26T00:30:34.894Z",
   "bootstrap": false,
-  "lastRunNewCount": 9,
+  "lastRunNewCount": 6,
   "newKeys": [
-    "spacex:8962750002",
-    "spacex:8962728002",
-    "spacex:8962752002",
-    "spacex:8962753002",
-    "spacex:8962756002",
-    "spacex:8962757002",
-    "spacex:8962762002",
-    "spacex:8962760002",
-    "spacex:8962761002"
+    "anyscale:cdc7becf-6d38-4e1d-8ff8-ba4f84d5accc",
+    "nubank:a5dc9972-af7c-40a5-9b73-8cc4c38a70ea",
+    "spacex:8938572002",
+    "spacex:8938571002",
+    "spacex:8938574002",
+    "spacex:8938556002"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -20,7 +17,7 @@
   "levelCounts": {
     "intern": 105,
     "new-grad": 10,
-    "experienced": 2221
+    "experienced": 2226
   },
   "companies": [
     {
@@ -1327,10 +1324,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3407,7 +3404,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -4702,7 +4699,7 @@
     {
       "name": "SpaceX",
       "ok": true,
-      "jobCount": 137,
+      "jobCount": 141,
       "error": null,
       "stale": false
     },
@@ -5709,6 +5706,102 @@
     }
   ],
   "jobs": [
+    {
+      "id": "a5dc9972-af7c-40a5-9b73-8cc4c38a70ea",
+      "title": "Global Software Asset Management Technical Lead",
+      "location": "Miami (+1 more)",
+      "team": "Engineer",
+      "url": "https://jobs.ashbyhq.com/nubank/a5dc9972-af7c-40a5-9b73-8cc4c38a70ea",
+      "postedAt": "2026-11-26T00:29:01.061Z",
+      "key": "nubank:a5dc9972-af7c-40a5-9b73-8cc4c38a70ea",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-26T00:30:34.894Z"
+    },
+    {
+      "id": "cdc7becf-6d38-4e1d-8ff8-ba4f84d5accc",
+      "title": "Senior Cloud Security Engineer",
+      "location": "San Francisco",
+      "team": "323 Security",
+      "url": "https://jobs.ashbyhq.com/anyscale/cdc7becf-6d38-4e1d-8ff8-ba4f84d5accc",
+      "postedAt": "2026-11-26T00:21:05.916Z",
+      "key": "anyscale:cdc7becf-6d38-4e1d-8ff8-ba4f84d5accc",
+      "company": "Anyscale",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-26T00:30:34.894Z"
+    },
+    {
+      "id": "8938574002",
+      "title": "Software Engineer, Starlink Network",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8938574002?gh_jid=8938574002",
+      "postedAt": "2026-11-26T00:21:04.000Z",
+      "key": "spacex:8938574002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-26T00:30:34.894Z"
+    },
+    {
+      "id": "8938556002",
+      "title": "Software Engineer, Starlink Network",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8938556002?gh_jid=8938556002",
+      "postedAt": "2026-11-26T00:21:03.000Z",
+      "key": "spacex:8938556002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-26T00:30:34.894Z"
+    },
+    {
+      "id": "8938572002",
+      "title": "Software Engineer, C++ (Starlink)",
+      "location": "Redmond, WA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8938572002?gh_jid=8938572002",
+      "postedAt": "2026-11-26T00:21:01.000Z",
+      "key": "spacex:8938572002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-26T00:30:34.894Z"
+    },
+    {
+      "id": "8938571002",
+      "title": "Software Engineer, C++ (Starlink)",
+      "location": "Palo Alto, CA",
+      "team": null,
+      "url": "https://boards.greenhouse.io/spacex/jobs/8938571002?gh_jid=8938571002",
+      "postedAt": "2026-11-26T00:20:59.000Z",
+      "key": "spacex:8938571002",
+      "company": "SpaceX",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-26T00:30:34.894Z"
+    },
     {
       "id": "8962761002",
       "title": "Sr. Security Software Engineer (Starlink)",
@@ -30146,22 +30239,6 @@
       "postedAt": "2026-11-03T21:28:32.000Z",
       "key": "zscaler:5267318007",
       "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-03T21:30:32.544Z"
-    },
-    {
-      "id": "cf99cc2e-a0d5-463f-a449-354992cd6153",
-      "title": "Senior Cloud Security Engineer",
-      "location": "San Francisco",
-      "team": "323 Security",
-      "url": "https://jobs.ashbyhq.com/anyscale/cf99cc2e-a0d5-463f-a449-354992cd6153",
-      "postedAt": "2026-11-03T21:25:18.228Z",
-      "key": "anyscale:cf99cc2e-a0d5-463f-a449-354992cd6153",
-      "company": "Anyscale",
       "level": "experienced",
       "term": null,
       "regions": [
