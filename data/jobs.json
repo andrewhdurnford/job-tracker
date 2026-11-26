@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-11-26T01:10:20.869Z",
+  "generatedAt": "2026-11-26T01:20:22.101Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 3,
+  "newKeys": [
+    "discord:8942144002",
+    "speak:72f49e30-a0bc-4081-bcfe-16bdd7181ccc",
+    "speak:48c5fa3d-d335-4efa-8b3b-2a0d5f30c70a"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +14,7 @@
   "levelCounts": {
     "intern": 105,
     "new-grad": 10,
-    "experienced": 2232
+    "experienced": 2235
   },
   "companies": [
     {
@@ -351,10 +355,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -1317,10 +1321,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -1409,7 +1413,7 @@
     {
       "name": "Discord",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -4699,7 +4703,7 @@
     {
       "name": "Speak",
       "ok": true,
-      "jobCount": 3,
+      "jobCount": 5,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5703,54 @@
     }
   ],
   "jobs": [
+    {
+      "id": "72f49e30-a0bc-4081-bcfe-16bdd7181ccc",
+      "title": "Security Engineer",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/speak/72f49e30-a0bc-4081-bcfe-16bdd7181ccc",
+      "postedAt": "2026-11-26T01:14:42.227Z",
+      "key": "speak:72f49e30-a0bc-4081-bcfe-16bdd7181ccc",
+      "company": "Speak",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-26T01:20:22.101Z"
+    },
+    {
+      "id": "48c5fa3d-d335-4efa-8b3b-2a0d5f30c70a",
+      "title": "Backend Engineer, Activation",
+      "location": "San Francisco",
+      "team": "Engineering",
+      "url": "https://jobs.ashbyhq.com/speak/48c5fa3d-d335-4efa-8b3b-2a0d5f30c70a",
+      "postedAt": "2026-11-26T01:13:52.381Z",
+      "key": "speak:48c5fa3d-d335-4efa-8b3b-2a0d5f30c70a",
+      "company": "Speak",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-26T01:20:22.101Z"
+    },
+    {
+      "id": "8942144002",
+      "title": "Data Engineer",
+      "location": "San Francisco Bay Area",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/discord/jobs/8942144002",
+      "postedAt": "2026-11-26T01:13:44.000Z",
+      "key": "discord:8942144002",
+      "company": "Discord",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-26T01:20:22.101Z"
+    },
     {
       "id": "8958889002",
       "title": "Senior Software Engineer, Enterprise Platform",
