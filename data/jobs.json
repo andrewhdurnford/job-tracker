@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T20:00:27.429Z",
+  "generatedAt": "2026-11-26T20:10:20.212Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 7,
-    "experienced": 2196
+    "experienced": 2194
   },
   "companies": [
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3026,7 +3026,7 @@
     {
       "name": "Middesk",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -3684,7 +3684,7 @@
     {
       "name": "Phantom",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -41052,38 +41052,6 @@
       "postedAt": "2026-10-27T20:10:21.421Z",
       "key": "Procore:R0018859",
       "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T20:10:18.130Z"
-    },
-    {
-      "id": "73212294-da1e-4b58-8e2f-bd807f1b8eff",
-      "title": "Growth Engineer",
-      "location": "San Francisco (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/middesk/73212294-da1e-4b58-8e2f-bd807f1b8eff",
-      "postedAt": "2026-10-27T20:06:13.420Z",
-      "key": "middesk:73212294-da1e-4b58-8e2f-bd807f1b8eff",
-      "company": "Middesk",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T20:10:18.130Z"
-    },
-    {
-      "id": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
-      "title": "AI Engineer",
-      "location": "Remote-US",
-      "team": "IT",
-      "url": "https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531",
-      "postedAt": "2026-10-27T20:00:50.661Z",
-      "key": "phantom:f4fcc35e-bdc0-498b-a5f0-ac553d146531",
-      "company": "Phantom",
       "level": "experienced",
       "term": null,
       "regions": [
