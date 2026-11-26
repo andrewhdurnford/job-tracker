@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T20:40:23.804Z",
+  "generatedAt": "2026-11-26T20:50:18.710Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 7,
-    "experienced": 2191
+    "experienced": 2189
   },
   "companies": [
     {
@@ -303,7 +303,7 @@
     {
       "name": "Anthropic",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 35,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -1774,7 +1774,7 @@
       "name": "Firetiger",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1872,7 +1872,7 @@
       "name": "Foursquare",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2061,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -4237,7 +4237,7 @@
     {
       "name": "Roblox",
       "ok": true,
-      "jobCount": 43,
+      "jobCount": 42,
       "error": null,
       "stale": false
     },
@@ -40927,39 +40927,6 @@
       "term": null,
       "regions": [
         "us"
-      ],
-      "firstSeen": "2026-10-27T20:50:18.704Z"
-    },
-    {
-      "id": "8283711",
-      "title": "Engineering Manager - Reliability Engineering",
-      "location": "San Mateo, CA, United States",
-      "team": null,
-      "url": "https://careers.roblox.com/jobs/8283711?gh_jid=8283711",
-      "postedAt": "2026-10-27T20:45:18.000Z",
-      "key": "roblox:8283711",
-      "company": "Roblox",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T20:50:18.704Z"
-    },
-    {
-      "id": "5462972008",
-      "title": "Autonomous Systems Security Engineer",
-      "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462972008",
-      "postedAt": "2026-10-27T20:42:45.000Z",
-      "key": "anthropic:5462972008",
-      "company": "Anthropic",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "remote"
       ],
       "firstSeen": "2026-10-27T20:50:18.704Z"
     },
