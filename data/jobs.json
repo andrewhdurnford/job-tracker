@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:13:44.123Z",
+  "generatedAt": "2026-11-26T02:20:20.337Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -591,7 +591,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 5,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
