@@ -1,12 +1,8 @@
 {
-  "generatedAt": "2026-11-26T01:20:22.101Z",
+  "generatedAt": "2026-11-26T01:30:23.848Z",
   "bootstrap": false,
-  "lastRunNewCount": 3,
-  "newKeys": [
-    "discord:8942144002",
-    "speak:72f49e30-a0bc-4081-bcfe-16bdd7181ccc",
-    "speak:48c5fa3d-d335-4efa-8b3b-2a0d5f30c70a"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -355,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -1321,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
