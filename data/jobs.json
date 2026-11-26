@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-26T14:50:19.942Z",
+  "generatedAt": "2026-11-26T15:00:33.266Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "lucidmotors:5306687007"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 106,
     "new-grad": 10,
-    "experienced": 2225
+    "experienced": 2222
   },
   "companies": [
     {
@@ -1054,7 +1052,7 @@
     {
       "name": "Coinbase",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 22,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4533,7 +4531,7 @@
     {
       "name": "SingleStore",
       "ok": true,
-      "jobCount": 1,
+      "jobCount": 0,
       "error": null,
       "stale": false
     },
@@ -5688,16 +5686,16 @@
     {
       "name": "Zscaler",
       "ok": true,
-      "jobCount": 22,
+      "jobCount": 21,
       "error": null,
       "stale": false
     },
     {
       "name": "Zuma",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     }
   ],
   "jobs": [
@@ -41702,54 +41700,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-27T15:10:19.342Z"
-    },
-    {
-      "id": "8326127",
-      "title": "Senior Software Engineer, Certificates Management",
-      "location": "Remote - USA",
-      "team": null,
-      "url": "https://www.coinbase.com/careers/positions/8326127?gh_jid=8326127",
-      "postedAt": "2026-10-27T15:00:23.000Z",
-      "key": "coinbase:8326127",
-      "company": "Coinbase",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T15:10:19.342Z"
-    },
-    {
-      "id": "5256472007",
-      "title": "Principal Software Development Engineer- Go/Java",
-      "location": "Santa Clara, California, USA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5256472007",
-      "postedAt": "2026-10-27T14:57:14.000Z",
-      "key": "zscaler:5256472007",
-      "company": "Zscaler",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T15:00:29.124Z"
-    },
-    {
-      "id": "8318150",
-      "title": "Staff / Principal Software Engineer – Cloud Platform & SaaS",
-      "location": "United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8318150",
-      "postedAt": "2026-10-27T14:51:18.000Z",
-      "key": "singlestore:8318150",
-      "company": "SingleStore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T15:00:29.124Z"
     },
     {
       "id": "R244394",
