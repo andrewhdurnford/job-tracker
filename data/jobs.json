@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:50:20.359Z",
+  "generatedAt": "2026-11-27T11:00:30.828Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3083,7 +3083,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
