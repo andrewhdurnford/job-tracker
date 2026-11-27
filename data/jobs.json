@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:10:18.642Z",
+  "generatedAt": "2026-11-27T13:20:25.437Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 7,
-    "experienced": 2174
+    "experienced": 2173
   },
   "companies": [
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1451,7 +1451,7 @@
     {
       "name": "DoorDash",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -40617,22 +40617,6 @@
       "postedAt": "2026-10-28T13:20:21.357Z",
       "key": "Capital One:R1004611",
       "company": "Capital One",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T13:20:17.916Z"
-    },
-    {
-      "id": "8330693",
-      "title": "UTM Engineer - DoorDash Air",
-      "location": "San Francisco, CA",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8330693",
-      "postedAt": "2026-10-28T13:11:30.000Z",
-      "key": "doordashusa:8330693",
-      "company": "DoorDash",
       "level": "experienced",
       "term": null,
       "regions": [
