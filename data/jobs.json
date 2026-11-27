@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-27T13:40:19.918Z",
+  "generatedAt": "2026-11-27T13:50:19.766Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "affirm:8199161003"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 7,
-    "experienced": 2173
+    "experienced": 2172
   },
   "companies": [
     {
@@ -79,7 +81,7 @@
     {
       "name": "Affirm",
       "ok": true,
-      "jobCount": 36,
+      "jobCount": 37,
       "error": null,
       "stale": false
     },
@@ -591,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -780,7 +782,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1696,7 +1698,7 @@
     {
       "name": "Fieldguide",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -2172,7 +2174,7 @@
     {
       "name": "Harvey",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -2656,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8199161003",
+      "title": "Senior Software Engineer, Backend (Trust Infra)",
+      "location": "Remote US",
+      "team": null,
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8199161003",
+      "postedAt": "2026-11-27T13:42:35.000Z",
+      "key": "affirm:8199161003",
+      "company": "Affirm",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-27T13:50:19.766Z"
+    },
     {
       "id": "8283619",
       "title": "Principal Security Software Engineer - Identity Access Management (IAM)",
@@ -40575,38 +40593,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T14:00:28.830Z"
-    },
-    {
-      "id": "172e66cc-5b2e-48b8-bace-9b9cfeb722ed",
-      "title": "Senior Engineering Manager, Platform",
-      "location": "San Francisco, CA or Remote (USA)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/fieldguide/172e66cc-5b2e-48b8-bace-9b9cfeb722ed",
-      "postedAt": "2026-10-28T13:47:32.513Z",
-      "key": "fieldguide:172e66cc-5b2e-48b8-bace-9b9cfeb722ed",
-      "company": "Fieldguide",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T13:50:17.189Z"
-    },
-    {
-      "id": "d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206",
-      "title": "Staff Product Security Engineer",
-      "location": "San Francisco (+1 more)",
-      "team": "Security",
-      "url": "https://jobs.ashbyhq.com/harvey/d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206",
-      "postedAt": "2026-10-28T13:40:27.699Z",
-      "key": "harvey:d2aaaa58-eb59-42ba-9a62-ca6ce4cdf206",
-      "company": "Harvey",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T13:50:17.189Z"
     },
     {
       "id": "R1004611",
