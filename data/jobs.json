@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-27T16:30:28.299Z",
+  "generatedAt": "2026-11-27T16:40:18.782Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "stripe:8421000"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4636,7 +4638,7 @@
     {
       "name": "Snowflake",
       "ok": true,
-      "jobCount": 18,
+      "jobCount": 17,
       "error": null,
       "stale": false
     },
@@ -4797,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 23,
+      "jobCount": 24,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8421000",
+      "title": "Software Engineer, Full Stack Atlas",
+      "location": "South San Francisco, CA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8421000",
+      "postedAt": "2026-11-27T16:39:02.000Z",
+      "key": "stripe:8421000",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-27T16:40:18.782Z"
+    },
     {
       "id": "8199163003",
       "title": "Senior Software Engineer, Backend (Trust Infra)",
@@ -40416,22 +40434,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T16:40:21.411Z"
-    },
-    {
-      "id": "fe41fd7e-56ad-4bdc-b13f-20adb2542171",
-      "title": "Senior Forward Deployed Engineer, Applied AI",
-      "location": "US-CA-Menlo Park (+1 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/snowflake/fe41fd7e-56ad-4bdc-b13f-20adb2542171",
-      "postedAt": "2026-10-28T16:34:18.145Z",
-      "key": "snowflake:fe41fd7e-56ad-4bdc-b13f-20adb2542171",
-      "company": "Snowflake",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-06T00:20:21.422Z"
     },
     {
       "id": "R1004511",
