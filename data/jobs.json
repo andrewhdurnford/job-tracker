@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-27T21:10:18.688Z",
+  "generatedAt": "2026-11-27T21:20:22.359Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "stripe:8421452"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -5700,6 +5702,22 @@
   ],
   "jobs": [
     {
+      "id": "8421452",
+      "title": "Software Engineer",
+      "location": "South San Francisco, CA ",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8421452",
+      "postedAt": "2026-11-27T20:56:05.000Z",
+      "key": "stripe:8421452",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-27T21:20:22.359Z"
+    },
+    {
       "id": "8421434",
       "title": "Software Engineer",
       "location": "South San Francisco, CA",
@@ -9415,22 +9433,6 @@
       "postedAt": "2026-11-23T18:15:55.000Z",
       "key": "gitlab:8950027002",
       "company": "GitLab",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-23T18:20:19.996Z"
-    },
-    {
-      "id": "8411988",
-      "title": "Software Engineer, Core Technology",
-      "location": "South San Francisco, CA",
-      "team": "Global Operations",
-      "url": "https://stripe.com/jobs/search?gh_jid=8411988",
-      "postedAt": "2026-11-23T18:10:34.000Z",
-      "key": "stripe:8411988",
-      "company": "Stripe",
       "level": "experienced",
       "term": null,
       "regions": [
