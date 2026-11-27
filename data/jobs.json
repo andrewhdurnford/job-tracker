@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-27T20:30:26.229Z",
+  "generatedAt": "2026-11-27T20:40:21.361Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "stripe:8421434"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 7,
-    "experienced": 2150
+    "experienced": 2151
   },
   "companies": [
     {
@@ -2061,7 +2063,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2222,7 +2224,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2656,7 +2658,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -2740,7 +2742,7 @@
       "name": "Lingo.dev",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -4797,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 26,
+      "jobCount": 27,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8421434",
+      "title": "Software Engineer",
+      "location": "South San Francisco, CA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8421434",
+      "postedAt": "2026-11-27T20:33:03.000Z",
+      "key": "stripe:8421434",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-27T20:40:21.361Z"
+    },
     {
       "id": "8421387",
       "title": "Software Engineer, Backend ",
