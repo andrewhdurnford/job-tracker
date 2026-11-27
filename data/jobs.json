@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-27T20:40:21.361Z",
+  "generatedAt": "2026-11-27T20:50:21.976Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "stripe:8421434"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 7,
-    "experienced": 2151
+    "experienced": 2149
   },
   "companies": [
     {
@@ -795,7 +793,7 @@
     {
       "name": "CaptivateIQ",
       "ok": true,
-      "jobCount": 2,
+      "jobCount": 1,
       "error": null,
       "stale": false
     },
@@ -1319,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -2063,7 +2061,7 @@
       "name": "Grammarly",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2224,7 +2222,7 @@
       "name": "Hilbert",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2658,7 +2656,7 @@
       "name": "Lago",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -2742,7 +2740,7 @@
       "name": "Lingo.dev",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -5373,7 +5371,7 @@
     {
       "name": "Verkada",
       "ok": true,
-      "jobCount": 15,
+      "jobCount": 14,
       "error": null,
       "stale": false
     },
@@ -40160,40 +40158,6 @@
         "remote"
       ],
       "firstSeen": "2026-10-28T21:00:34.915Z"
-    },
-    {
-      "id": "f7e7fa1b-2024-4423-81d5-1b061101e4ee",
-      "title": "Sr. Engineering Manager - Core Platform",
-      "location": "Remote (+1 more)",
-      "team": "Engineering Management Team",
-      "url": "https://jobs.lever.co/captivateiq/f7e7fa1b-2024-4423-81d5-1b061101e4ee",
-      "postedAt": "2026-10-28T20:43:03.010Z",
-      "key": "captivateiq:f7e7fa1b-2024-4423-81d5-1b061101e4ee",
-      "company": "CaptivateIQ",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us",
-        "canada",
-        "remote"
-      ],
-      "firstSeen": "2026-10-28T20:50:17.257Z"
-    },
-    {
-      "id": "5278670007",
-      "title": "Senior Backend Engineer",
-      "location": "San Mateo, CA United States",
-      "team": null,
-      "url": "https://job-boards.greenhouse.io/verkada/jobs/5278670007",
-      "postedAt": "2026-10-28T20:42:02.000Z",
-      "key": "verkada:5278670007",
-      "company": "Verkada",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T20:50:17.257Z"
     },
     {
       "id": "JR115706",
