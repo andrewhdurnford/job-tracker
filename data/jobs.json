@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:00:29.567Z",
+  "generatedAt": "2026-11-27T03:10:20.812Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -780,7 +780,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -857,7 +857,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zscaler",
