@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:10:20.812Z",
+  "generatedAt": "2026-11-27T03:20:20.438Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 7,
-    "experienced": 2177
+    "experienced": 2176
   },
   "companies": [
     {
@@ -780,7 +780,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -857,7 +857,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -3670,7 +3670,7 @@
     {
       "name": "Perplexity",
       "ok": true,
-      "jobCount": 10,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
@@ -40671,22 +40671,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T05:40:17.995Z"
-    },
-    {
-      "id": "5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
-      "title": "Member of Technical Staff (Site Reliability Engineer, Cloud Infrastructure)",
-      "location": "San Francisco (+3 more)",
-      "team": "Platform & Infrastructure",
-      "url": "https://jobs.ashbyhq.com/Perplexity/5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
-      "postedAt": "2026-10-28T03:13:16.171Z",
-      "key": "perplexity:5fe2b80d-9d59-42bb-90e6-9a0b78d7d403",
-      "company": "Perplexity",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T03:20:19.376Z"
     },
     {
       "id": "REF088499W",
