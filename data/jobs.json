@@ -1,10 +1,8 @@
 {
-  "generatedAt": "2026-11-27T18:00:29.718Z",
+  "generatedAt": "2026-11-27T18:10:19.750Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
-  "newKeys": [
-    "nubank:03eb3439-68a5-44fb-b42d-a12e44f6357c"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -12,7 +10,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 7,
-    "experienced": 2159
+    "experienced": 2158
   },
   "companies": [
     {
@@ -353,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -1628,7 +1626,7 @@
     {
       "name": "Etched",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -4728,10 +4726,10 @@
     },
     {
       "name": "Sprinklr",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Spruce Systems",
@@ -5484,10 +5482,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Weave",
@@ -40402,22 +40400,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T18:20:18.748Z"
-    },
-    {
-      "id": "37798f2c-d2d8-4911-bd5a-41b0f6f7c238",
-      "title": "Systems Engineer ",
-      "location": "San Jose",
-      "team": "Infrastructure",
-      "url": "https://jobs.ashbyhq.com/Etched/37798f2c-d2d8-4911-bd5a-41b0f6f7c238",
-      "postedAt": "2026-10-28T18:09:16.548Z",
-      "key": "etched:37798f2c-d2d8-4911-bd5a-41b0f6f7c238",
-      "company": "Etched",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T18:10:21.457Z"
     },
     {
       "id": "R0018931",
