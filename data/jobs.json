@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-27T17:50:20.213Z",
+  "generatedAt": "2026-11-27T18:00:29.718Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "nubank:03eb3439-68a5-44fb-b42d-a12e44f6357c"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -10,7 +12,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 7,
-    "experienced": 2158
+    "experienced": 2159
   },
   "companies": [
     {
@@ -351,10 +353,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": false,
+      "ok": true,
       "jobCount": 2,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Arini",
@@ -1317,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3397,7 +3399,7 @@
     {
       "name": "Nubank",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 8,
       "error": null,
       "stale": false
     },
@@ -5482,10 +5484,10 @@
     },
     {
       "name": "Wealthfront",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "Weave",
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "03eb3439-68a5-44fb-b42d-a12e44f6357c",
+      "title": "Machine Learning Engineer Manager",
+      "location": "Virginia (+1 more)",
+      "team": "Machine Learning",
+      "url": "https://jobs.ashbyhq.com/nubank/03eb3439-68a5-44fb-b42d-a12e44f6357c",
+      "postedAt": "2026-11-27T17:55:54.514Z",
+      "key": "nubank:03eb3439-68a5-44fb-b42d-a12e44f6357c",
+      "company": "Nubank",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-27T18:00:29.718Z"
+    },
     {
       "id": "5f454f4b-e6f1-4a63-8733-1d8f869c9b61",
       "title": "Senior Application Security Engineer",
