@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-11-27T19:57:05.857Z",
+  "generatedAt": "2026-11-27T20:00:27.923Z",
   "bootstrap": false,
-  "lastRunNewCount": 0,
-  "newKeys": [],
+  "lastRunNewCount": 1,
+  "newKeys": [
+    "stripe:8421387"
+  ],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -2031,10 +2033,10 @@
     },
     {
       "name": "Gopuff",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "timeout after 15000ms",
+      "stale": true
     },
     {
       "name": "GovDash",
@@ -3509,7 +3511,7 @@
     {
       "name": "OpenAI",
       "ok": true,
-      "jobCount": 63,
+      "jobCount": 62,
       "error": null,
       "stale": false
     },
@@ -4797,7 +4799,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 25,
+      "jobCount": 26,
       "error": null,
       "stale": false
     },
@@ -5699,6 +5701,22 @@
     }
   ],
   "jobs": [
+    {
+      "id": "8421387",
+      "title": "Software Engineer, Backend ",
+      "location": "South San Francisco, CA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8421387",
+      "postedAt": "2026-11-27T19:57:35.000Z",
+      "key": "stripe:8421387",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-27T20:00:27.923Z"
+    },
     {
       "id": "8421367",
       "title": "Software Engineer, Reporting Platform",
@@ -40273,22 +40291,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-28T20:10:20.661Z"
-    },
-    {
-      "id": "b82699a2-5819-4276-a402-fd88f56f9246",
-      "title": "Lead Data Scientist, Cloud Distribution & Growth",
-      "location": "San Francisco (+1 more)",
-      "team": "Data Science",
-      "url": "https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246",
-      "postedAt": "2026-10-28T19:59:03.385Z",
-      "key": "openai:b82699a2-5819-4276-a402-fd88f56f9246",
-      "company": "OpenAI",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T20:00:25.287Z"
     },
     {
       "id": "R1004560",
