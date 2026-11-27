@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T21:40:20.302Z",
+  "generatedAt": "2026-11-27T21:50:24.514Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 7,
-    "experienced": 2147
+    "experienced": 2145
   },
   "companies": [
     {
@@ -1045,7 +1045,7 @@
     {
       "name": "Cohere",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1290,7 +1290,7 @@
     {
       "name": "Databricks",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 11,
       "error": null,
       "stale": false
     },
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -40093,38 +40093,6 @@
         "canada"
       ],
       "firstSeen": "2026-10-28T22:00:26.401Z"
-    },
-    {
-      "id": "8df498e9-aba8-487f-80ba-362b492bad09",
-      "title": "Forward Deployed Engineer, Inference ",
-      "location": "United States",
-      "team": "Infrastructure",
-      "url": "https://jobs.ashbyhq.com/cohere/8df498e9-aba8-487f-80ba-362b492bad09",
-      "postedAt": "2026-10-28T21:49:48.769Z",
-      "key": "cohere:8df498e9-aba8-487f-80ba-362b492bad09",
-      "company": "Cohere",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T22:00:26.401Z"
-    },
-    {
-      "id": "8829039002",
-      "title": "Software Engineer, Infrastructure",
-      "location": "Mountain View, California",
-      "team": null,
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002",
-      "postedAt": "2026-10-28T21:46:24.000Z",
-      "key": "databricks:8829039002",
-      "company": "Databricks",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T21:50:17.283Z"
     },
     {
       "id": "JR115706",
