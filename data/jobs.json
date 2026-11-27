@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T13:50:19.766Z",
+  "generatedAt": "2026-11-27T14:00:29.419Z",
   "bootstrap": false,
   "lastRunNewCount": 1,
   "newKeys": [
-    "affirm:8199161003"
+    "Procore:R0019158"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -12,7 +12,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 7,
-    "experienced": 2172
+    "experienced": 2166
   },
   "companies": [
     {
@@ -564,7 +564,7 @@
     {
       "name": "Bill.com",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -593,7 +593,7 @@
       "name": "Blaxel",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -782,7 +782,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "network error: fetch failed",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -1319,10 +1319,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Daybreak Health",
@@ -3588,7 +3588,7 @@
     {
       "name": "Palantir",
       "ok": true,
-      "jobCount": 11,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -3888,10 +3888,10 @@
     },
     {
       "name": "Procore",
-      "ok": false,
-      "jobCount": 17,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "ok": true,
+      "jobCount": 13,
+      "error": null,
+      "stale": false
     },
     {
       "name": "Prodigal",
@@ -5638,10 +5638,10 @@
     },
     {
       "name": "Zendesk",
-      "ok": false,
+      "ok": true,
       "jobCount": 0,
-      "error": "HTTP 429 Too Many Requests",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Zerocater",
@@ -8136,6 +8136,22 @@
         "remote"
       ],
       "firstSeen": "2026-11-24T18:40:18.680Z"
+    },
+    {
+      "id": "R0019158",
+      "title": "Forward Deployed AI Engineer",
+      "location": "US - Texas - Austin",
+      "team": null,
+      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Forward-Deployed-AI-Engineer_R0019158-1",
+      "postedAt": "2026-11-24T14:00:33.236Z",
+      "key": "Procore:R0019158",
+      "company": "Procore",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-27T14:00:29.419Z"
     },
     {
       "id": "R_106836",
@@ -40563,38 +40579,6 @@
       "firstSeen": "2026-10-28T14:10:18.349Z"
     },
     {
-      "id": "491a0133-b580-45c3-9fd4-2314faf82fb9",
-      "title": "Forward Deployed Software Engineer - Germany Forward Deployed",
-      "location": "Washington, D.C.",
-      "team": "Delta",
-      "url": "https://jobs.lever.co/palantir/491a0133-b580-45c3-9fd4-2314faf82fb9",
-      "postedAt": "2026-10-28T13:56:03.882Z",
-      "key": "palantir:491a0133-b580-45c3-9fd4-2314faf82fb9",
-      "company": "Palantir",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T14:00:28.830Z"
-    },
-    {
-      "id": "6223077004",
-      "title": "Senior Software Engineer",
-      "location": "United States",
-      "team": null,
-      "url": "https://www.bill.com/job?6223077004&gh_jid=6223077004",
-      "postedAt": "2026-10-28T13:53:10.000Z",
-      "key": "billcom:6223077004",
-      "company": "Bill.com",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T14:00:28.830Z"
-    },
-    {
       "id": "R1004611",
       "title": "Full Stack Engineer 5",
       "location": "McLean, VA",
@@ -40657,22 +40641,6 @@
         "us"
       ],
       "firstSeen": "2026-10-27T20:20:21.913Z"
-    },
-    {
-      "id": "R0018859",
-      "title": "Senior Software Engineer, Backend (Golang)",
-      "location": "US - Texas - Austin",
-      "team": null,
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-Software-Engineer_R0018859",
-      "postedAt": "2026-10-27T20:10:21.421Z",
-      "key": "Procore:R0018859",
-      "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T20:10:18.130Z"
     },
     {
       "id": "R1004522",
@@ -40787,22 +40755,6 @@
       "firstSeen": "2026-10-27T15:30:22.846Z"
     },
     {
-      "id": "R0018928",
-      "title": "Software Engineering Manager",
-      "location": "US - Texas - Austin",
-      "team": null,
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Software-Engineering-Manager_R0018928",
-      "postedAt": "2026-10-27T15:20:21.858Z",
-      "key": "Procore:R0018928",
-      "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-27T15:20:19.239Z"
-    },
-    {
       "id": "JR202600801",
       "title": "Software Engineer II",
       "location": "Remote",
@@ -40849,22 +40801,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T10:50:17.968Z"
-    },
-    {
-      "id": "R0018911",
-      "title": "Senior AI Engineer",
-      "location": "US - Texas - Austin",
-      "team": null,
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-AI-Engineer_R0018911",
-      "postedAt": "2026-10-26T22:10:28.466Z",
-      "key": "Procore:R0018911",
-      "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-26T22:10:24.627Z"
     },
     {
       "id": "R1001276",
@@ -41383,22 +41319,6 @@
       "firstSeen": "2026-10-20T15:10:22.302Z"
     },
     {
-      "id": "R0018386",
-      "title": "Senior Software Engineer, Backend (Java)",
-      "location": "US - Texas - Austin",
-      "team": null,
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-Software-Engineer--Backend--Java-_R0018386",
-      "postedAt": "2026-10-20T15:10:25.086Z",
-      "key": "Procore:R0018386",
-      "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-20T15:10:22.302Z"
-    },
-    {
       "id": "4433b308-1ff4-4b5f-9184-810e5d9844f6",
       "title": "Staff Developer Advocate ",
       "location": "San Francisco",
@@ -41838,22 +41758,6 @@
         "us"
       ],
       "firstSeen": "2026-10-10T17:20:15.909Z"
-    },
-    {
-      "id": "R0018624",
-      "title": "Senior iOS Engineer",
-      "location": "US - Texas - Austin",
-      "team": null,
-      "url": "https://procore.wd12.myworkdayjobs.com/en-US/Procore_External_Careers/job/US---Texas---Austin/Senior-iOS-Engineer_R0018624",
-      "postedAt": "2026-10-09T18:50:21.036Z",
-      "key": "Procore:R0018624",
-      "company": "Procore",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-09T18:50:18.219Z"
     },
     {
       "id": "R1003192",
