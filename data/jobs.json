@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:40:20.698Z",
+  "generatedAt": "2026-11-27T18:50:19.988Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -10,7 +10,7 @@
   "levelCounts": {
     "intern": 104,
     "new-grad": 7,
-    "experienced": 2154
+    "experienced": 2152
   },
   "companies": [
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1346,7 +1346,7 @@
     {
       "name": "Decagon",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -3083,7 +3083,7 @@
       "name": "Mistral AI",
       "ok": false,
       "jobCount": 0,
-      "error": "timeout after 15000ms",
+      "error": "HTTP 404 Not Found",
       "stale": true
     },
     {
@@ -3369,7 +3369,7 @@
     {
       "name": "Notion",
       "ok": true,
-      "jobCount": 7,
+      "jobCount": 6,
       "error": null,
       "stale": false
     },
@@ -4691,10 +4691,10 @@
     },
     {
       "name": "SpaceX",
-      "ok": false,
+      "ok": true,
       "jobCount": 145,
-      "error": "timeout after 15000ms",
-      "stale": true
+      "error": null,
+      "stale": false
     },
     {
       "name": "Speak",
@@ -40304,38 +40304,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T19:30:26.735Z"
-    },
-    {
-      "id": "73a71747-28d3-4dda-a718-77336056e687",
-      "title": "Data Engineer, Product",
-      "location": "San Francisco, California",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/notion/73a71747-28d3-4dda-a718-77336056e687",
-      "postedAt": "2026-10-28T18:42:47.956Z",
-      "key": "notion:73a71747-28d3-4dda-a718-77336056e687",
-      "company": "Notion",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T18:50:21.694Z"
-    },
-    {
-      "id": "37a12b9f-fe2d-4379-90e5-ee9f3a52d0cb",
-      "title": "Senior/Staff Software Engineer, Data Lifecycle",
-      "location": "New York City",
-      "team": "Product Engineering",
-      "url": "https://jobs.ashbyhq.com/decagon/37a12b9f-fe2d-4379-90e5-ee9f3a52d0cb",
-      "postedAt": "2026-10-28T18:41:29.711Z",
-      "key": "decagon:37a12b9f-fe2d-4379-90e5-ee9f3a52d0cb",
-      "company": "Decagon",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T18:50:21.694Z"
     },
     {
       "id": "R0018931",
