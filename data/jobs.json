@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-11-27T17:10:19.246Z",
+  "generatedAt": "2026-11-27T17:20:22.744Z",
   "bootstrap": false,
-  "lastRunNewCount": 1,
+  "lastRunNewCount": 2,
   "newKeys": [
-    "kraken.com:9a798851-3fb0-42ff-9b0c-4c116bfb6e47"
+    "elevenlabs:969bbf7d-037c-4965-812e-442105ce58c1",
+    "stripe:8421091"
   ],
   "defaultLevel": "intern",
   "defaultTerm": null,
@@ -711,7 +712,7 @@
     {
       "name": "Brex",
       "ok": true,
-      "jobCount": 4,
+      "jobCount": 3,
       "error": null,
       "stale": false
     },
@@ -782,7 +783,7 @@
       "name": "Capi Money",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -859,7 +860,7 @@
       "name": "Cedar",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -936,7 +937,7 @@
       "name": "Chronosphere",
       "ok": false,
       "jobCount": 0,
-      "error": "HTTP 404 Not Found",
+      "error": "network error: fetch failed",
       "stale": true
     },
     {
@@ -1089,7 +1090,7 @@
     {
       "name": "Commure",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 7,
       "error": null,
       "stale": false
     },
@@ -1537,7 +1538,7 @@
     {
       "name": "ElevenLabs",
       "ok": true,
-      "jobCount": 9,
+      "jobCount": 10,
       "error": null,
       "stale": false
     },
@@ -4799,7 +4800,7 @@
     {
       "name": "Stripe",
       "ok": true,
-      "jobCount": 24,
+      "jobCount": 25,
       "error": null,
       "stale": false
     },
@@ -5701,6 +5702,38 @@
     }
   ],
   "jobs": [
+    {
+      "id": "969bbf7d-037c-4965-812e-442105ce58c1",
+      "title": "Developer Advocate",
+      "location": "United Kingdom (+7 more)",
+      "team": "Developer Growth",
+      "url": "https://jobs.ashbyhq.com/ElevenLabs/969bbf7d-037c-4965-812e-442105ce58c1",
+      "postedAt": "2026-11-27T17:15:29.668Z",
+      "key": "elevenlabs:969bbf7d-037c-4965-812e-442105ce58c1",
+      "company": "ElevenLabs",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-27T17:20:22.744Z"
+    },
+    {
+      "id": "8421091",
+      "title": "Software Engineer, Backend",
+      "location": "Seattle, WA",
+      "team": "Global Operations",
+      "url": "https://stripe.com/jobs/search?gh_jid=8421091",
+      "postedAt": "2026-11-27T17:11:31.000Z",
+      "key": "stripe:8421091",
+      "company": "Stripe",
+      "level": "experienced",
+      "term": null,
+      "regions": [
+        "us"
+      ],
+      "firstSeen": "2026-11-27T17:20:22.744Z"
+    },
     {
       "id": "9a798851-3fb0-42ff-9b0c-4c116bfb6e47",
       "title": "Engineering Manager - Frontend - Consumer",
@@ -40354,38 +40387,6 @@
         "us"
       ],
       "firstSeen": "2026-10-28T18:10:21.457Z"
-    },
-    {
-      "id": "b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
-      "title": "Senior Fullstack Engineer, Air AI",
-      "location": "Mountain View, CA (+3 more)",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/Commure/b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
-      "postedAt": "2026-10-28T17:18:03.156Z",
-      "key": "commure:b8d40cf3-3bde-4aec-a2a9-ded988ab128f",
-      "company": "Commure",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-28T17:20:21.036Z"
-    },
-    {
-      "id": "8922246002",
-      "title": "Staff Software Engineer - Identity & Access Management",
-      "location": "Vancouver, British Columbia, Canada",
-      "team": null,
-      "url": "https://www.brex.com/careers/8922246002?gh_jid=8922246002",
-      "postedAt": "2026-10-28T17:17:32.000Z",
-      "key": "brex:8922246002",
-      "company": "Brex",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "canada"
-      ],
-      "firstSeen": "2026-10-28T17:20:21.036Z"
     },
     {
       "id": "R0018931",
