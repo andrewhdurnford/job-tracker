@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:50:18.648Z",
+  "generatedAt": "2026-11-28T14:00:26.268Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -5678,10 +5678,10 @@
     },
     {
       "name": "Zoom",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Zscaler",
