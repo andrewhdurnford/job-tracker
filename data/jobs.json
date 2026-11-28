@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:00:29.145Z",
+  "generatedAt": "2026-11-28T11:10:20.131Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -351,10 +351,10 @@
     },
     {
       "name": "Arctic Wolf",
-      "ok": true,
+      "ok": false,
       "jobCount": 2,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Arini",
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 3,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
