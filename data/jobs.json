@@ -1,16 +1,8 @@
 {
-  "generatedAt": "2026-11-28T02:25:15.445Z",
+  "generatedAt": "2026-11-28T02:30:24.190Z",
   "bootstrap": false,
-  "lastRunNewCount": 7,
-  "newKeys": [
-    "Remitly:R_106305",
-    "Remitly:R_106127",
-    "Remitly:R_107050",
-    "Remitly:R_107049",
-    "Remitly:R_106404",
-    "Remitly:R_107196",
-    "Remitly:R_106424"
-  ],
+  "lastRunNewCount": 0,
+  "newKeys": [],
   "defaultLevel": "intern",
   "defaultTerm": null,
   "defaultRegion": "us-remote",
@@ -1325,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4139,10 +4131,10 @@
     },
     {
       "name": "Remitly",
-      "ok": true,
+      "ok": false,
       "jobCount": 31,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Remora",
