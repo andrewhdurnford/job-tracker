@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:00:29.888Z",
+  "generatedAt": "2026-11-28T00:10:25.457Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 104,
+    "intern": 103,
     "new-grad": 7,
-    "experienced": 2140
+    "experienced": 2137
   },
   "companies": [
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -1703,7 +1703,7 @@
     {
       "name": "Figma",
       "ok": true,
-      "jobCount": 5,
+      "jobCount": 4,
       "error": null,
       "stale": false
     },
@@ -2340,7 +2340,7 @@
     {
       "name": "Illumio",
       "ok": true,
-      "jobCount": 12,
+      "jobCount": 9,
       "error": null,
       "stale": false
     },
@@ -39944,74 +39944,6 @@
         "us"
       ],
       "firstSeen": "2026-10-29T00:20:17.378Z"
-    },
-    {
-      "id": "6238015004",
-      "title": "PhD Intern, Security Engineer (2027)",
-      "location": "San Francisco, CA • New York, NY",
-      "team": null,
-      "url": "https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004",
-      "postedAt": "2026-10-29T00:08:03.000Z",
-      "key": "figma:6238015004",
-      "company": "Figma",
-      "level": "intern",
-      "term": {
-        "label": "2027",
-        "seasons": [],
-        "year": 2027
-      },
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T00:10:19.235Z"
-    },
-    {
-      "id": "b686e47e-95ca-434c-87d5-cc92d8002e91",
-      "title": "Staff Engineer - Container Security ",
-      "location": "Sunnyvale, California - HQ",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/illumio/b686e47e-95ca-434c-87d5-cc92d8002e91",
-      "postedAt": "2026-10-29T00:04:32.925Z",
-      "key": "illumio:b686e47e-95ca-434c-87d5-cc92d8002e91",
-      "company": "Illumio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T00:10:19.235Z"
-    },
-    {
-      "id": "372174f8-2298-4d5a-a5e3-98ad4d9d8521",
-      "title": "Sr. Software Engineer - Container Security",
-      "location": "Sunnyvale, California - HQ",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/illumio/372174f8-2298-4d5a-a5e3-98ad4d9d8521",
-      "postedAt": "2026-10-29T00:02:56.593Z",
-      "key": "illumio:372174f8-2298-4d5a-a5e3-98ad4d9d8521",
-      "company": "Illumio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T00:10:19.235Z"
-    },
-    {
-      "id": "eee00779-1f22-4e83-8eaa-223adabef783",
-      "title": "Sr. Software Engineer - Cloud Security",
-      "location": "Sunnyvale, California - HQ",
-      "team": "Engineering",
-      "url": "https://jobs.ashbyhq.com/illumio/eee00779-1f22-4e83-8eaa-223adabef783",
-      "postedAt": "2026-10-29T00:02:04.751Z",
-      "key": "illumio:eee00779-1f22-4e83-8eaa-223adabef783",
-      "company": "Illumio",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T00:10:19.235Z"
     },
     {
       "id": "JR115706",
