@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T01:00:27.972Z",
+  "generatedAt": "2026-11-28T01:10:21.063Z",
   "bootstrap": false,
   "lastRunNewCount": 0,
   "newKeys": [],
@@ -8,9 +8,9 @@
   "defaultRegion": "us-remote",
   "maxAgeDays": 30,
   "levelCounts": {
-    "intern": 103,
+    "intern": 97,
     "new-grad": 7,
-    "experienced": 2136
+    "experienced": 2135
   },
   "companies": [
     {
@@ -1317,10 +1317,10 @@
     },
     {
       "name": "DataRobot",
-      "ok": true,
+      "ok": false,
       "jobCount": 0,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Daybreak Health",
@@ -4230,7 +4230,7 @@
     {
       "name": "Robinhood",
       "ok": true,
-      "jobCount": 19,
+      "jobCount": 18,
       "error": null,
       "stale": false
     },
@@ -4432,10 +4432,10 @@
     },
     {
       "name": "ServiceTitan",
-      "ok": true,
+      "ok": false,
       "jobCount": 4,
-      "error": null,
-      "stale": false
+      "error": "HTTP 429 Too Many Requests",
+      "stale": true
     },
     {
       "name": "Sesame",
@@ -4790,7 +4790,7 @@
     {
       "name": "Strava",
       "ok": true,
-      "jobCount": 8,
+      "jobCount": 2,
       "error": null,
       "stale": false
     },
@@ -17941,38 +17941,6 @@
       "firstSeen": "2026-11-14T00:30:25.136Z"
     },
     {
-      "id": "02999001-164a-45c2-a763-03dedf458f0c",
-      "title": "Software Engineering Intern, Android, Subscriptions  ",
-      "location": "Strava SF",
-      "team": "Internships",
-      "url": "https://jobs.ashbyhq.com/Strava/02999001-164a-45c2-a763-03dedf458f0c",
-      "postedAt": "2026-11-13T23:52:07.340Z",
-      "key": "strava:02999001-164a-45c2-a763-03dedf458f0c",
-      "company": "Strava",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-23T17:00:28.861Z"
-    },
-    {
-      "id": "e4e04f82-bc91-4bc1-b775-85b2b2549023",
-      "title": "Software Engineering Intern, AI/ML Data Products  ",
-      "location": "Strava SF",
-      "team": "Internships",
-      "url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023",
-      "postedAt": "2026-11-13T23:41:20.656Z",
-      "key": "strava:e4e04f82-bc91-4bc1-b775-85b2b2549023",
-      "company": "Strava",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-23T17:00:28.861Z"
-    },
-    {
       "id": "R0019075",
       "title": "Senior Manager, Analytics Engineering & Data Science",
       "location": "US - Texas - Austin",
@@ -18051,22 +18019,6 @@
         "us"
       ],
       "firstSeen": "2026-11-13T22:40:20.812Z"
-    },
-    {
-      "id": "0a1c94e3-c19c-47a4-9974-5cc86b74e3e9",
-      "title": "Software Engineering Intern, Server, Next Sports ",
-      "location": "Strava SF",
-      "team": "Internships",
-      "url": "https://jobs.ashbyhq.com/Strava/0a1c94e3-c19c-47a4-9974-5cc86b74e3e9",
-      "postedAt": "2026-11-13T22:27:48.655Z",
-      "key": "strava:0a1c94e3-c19c-47a4-9974-5cc86b74e3e9",
-      "company": "Strava",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-23T17:00:28.861Z"
     },
     {
       "id": "8356065",
@@ -18455,22 +18407,6 @@
       "firstSeen": "2026-11-13T19:30:26.219Z"
     },
     {
-      "id": "96968b02-dde9-4e0d-b6a8-d2363f550126",
-      "title": "Software Engineering Intern, Server, Comms",
-      "location": "Strava SF",
-      "team": "Internships",
-      "url": "https://jobs.ashbyhq.com/Strava/96968b02-dde9-4e0d-b6a8-d2363f550126",
-      "postedAt": "2026-11-13T19:30:23.291Z",
-      "key": "strava:96968b02-dde9-4e0d-b6a8-d2363f550126",
-      "company": "Strava",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-23T17:00:28.861Z"
-    },
-    {
       "id": "4343b2d6-b89f-4534-b208-515963523015",
       "title": "Software Engineer DOLCE",
       "location": "Remote",
@@ -18486,22 +18422,6 @@
         "remote"
       ],
       "firstSeen": "2026-11-13T19:40:19.497Z"
-    },
-    {
-      "id": "924afc4f-b490-4716-a308-5e02fe56653b",
-      "title": "Software Engineering Intern, Server, Security",
-      "location": "Strava SF",
-      "team": "Internships",
-      "url": "https://jobs.ashbyhq.com/Strava/924afc4f-b490-4716-a308-5e02fe56653b",
-      "postedAt": "2026-11-13T19:25:55.619Z",
-      "key": "strava:924afc4f-b490-4716-a308-5e02fe56653b",
-      "company": "Strava",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-23T17:00:28.861Z"
     },
     {
       "id": "R1005818",
@@ -18598,22 +18518,6 @@
         "us"
       ],
       "firstSeen": "2026-11-13T18:30:26.313Z"
-    },
-    {
-      "id": "12d85f67-5fac-4dfa-8fd7-a4f886b4a10a",
-      "title": "Software Engineering Intern, Server, User Lifecycle",
-      "location": "Strava SF",
-      "team": "Internships",
-      "url": "https://jobs.ashbyhq.com/Strava/12d85f67-5fac-4dfa-8fd7-a4f886b4a10a",
-      "postedAt": "2026-11-13T18:21:42.732Z",
-      "key": "strava:12d85f67-5fac-4dfa-8fd7-a4f886b4a10a",
-      "company": "Strava",
-      "level": "intern",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-11-23T17:00:28.861Z"
     },
     {
       "id": "8332418",
@@ -39912,22 +39816,6 @@
         "us"
       ],
       "firstSeen": "2026-10-29T01:40:17.522Z"
-    },
-    {
-      "id": "8248320",
-      "title": "Senior Web Engineer, Options",
-      "location": "Menlo Park, CA",
-      "team": null,
-      "url": "https://boards.greenhouse.io/robinhood/jobs/8248320?t=gh_src=&gh_jid=8248320",
-      "postedAt": "2026-10-29T01:10:20.000Z",
-      "key": "robinhood:8248320",
-      "company": "Robinhood",
-      "level": "experienced",
-      "term": null,
-      "regions": [
-        "us"
-      ],
-      "firstSeen": "2026-10-29T01:10:20.844Z"
     },
     {
       "id": "JR115706",
